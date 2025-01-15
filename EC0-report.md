@@ -11,7 +11,7 @@
 
 The image below shows an intersection in a busy city.
 
-![\label{fig:intersection}](City_Intersection.JPG)
+![City Intersection](City_Intersection.jpg)
 
 *If you want to include code in your report, you can insert a screenshot (if it's legible), or you can copy/paste the code into a fenced code block.*
 
