@@ -27,8 +27,10 @@ O --> J
 
 My graph can be seen in the photo below. 
 
-In the following section, I will list each node of the graph in alphabetical order and state their category (i.e., SCC, IN, OUT, Tendrils, Tubes, Disconnected).
+![Q1](q1.jpg)
 
+Now, I will list each node of the graph in alphabetical order and state their category (i.e., SCC, IN, OUT, Tendrils, Tubes, Disconnected).
+```
 A:
 B:
 C:
@@ -44,9 +46,7 @@ L:
 M:
 N:
 O:
-
-![Q1](q1.jpg)
-
+```
 # Q2 Answer
 a)
 For part a, as the instructions state, I opened the following link and captured a screenshot:
