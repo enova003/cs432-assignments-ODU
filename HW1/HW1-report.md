@@ -34,3 +34,4 @@ For part d, I viewed the HTML output file that was produced by curl from part c 
 
 
 # References
+* List of `curl` Options, <https://gist.github.com/eneko/dc2d8edd9a4b25c5b0725dd123f98b10>
