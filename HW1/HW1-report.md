@@ -4,7 +4,48 @@
 ### Sun Feb 2, 2025 11:59pm
 
 # Q1 Answer
+For question 1, I drew a directed graph based on the following links:
+```text
+A --> B
+B --> A
+B --> C
+C --> D
+C --> G
+D --> A
+D --> H
+E --> F
+E --> O
+F --> G
+G --> C
+H --> L
+J --> N
+K --> I
+M --> A
+N --> L
+O --> J
+```
 
+My graph can be seen in the photo below. 
+
+In the following section, I will list each node of the graph in alphabetical order and state their category (i.e., SCC, IN, OUT, Tendrils, Tubes, Disconnected).
+
+A:
+B:
+C:
+D:
+E:
+F:
+G:
+H:
+I: Disconnected
+J: 
+K: Disconnected
+L:
+M:
+N:
+O:
+
+![Q1](q1.jpg)
 
 # Q2 Answer
 a)
