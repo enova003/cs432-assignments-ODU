@@ -31,21 +31,21 @@ My graph can be seen in the photo below.
 
 Now, I will list each node of the graph in alphabetical order and state their category (i.e., SCC, IN, OUT, Tendrils, Tubes, Disconnected).
 ```
-A:
-B:
-C:
-D:
-E:
-F:
-G:
-H:
+A: SCC 
+B: SCC 
+C: SCC 
+D: SCC 
+E: Tendril (This can reach IN node F)
+F: IN
+G: SCC 
+H: OUT
 I: Disconnected
-J: 
+J: Tendril (can reach N, which connects to L)
 K: Disconnected
-L:
-M:
-N:
-O:
+L: Tendril (connected to N but isolated from the rest of the SCC)
+M: IN
+N: Tendril (leads to L, isolated)
+O: Tendril (can reach F)
 ```
 # Q2 Answer
 a)
