@@ -40,12 +40,12 @@ F: IN
 G: SCC 
 H: OUT
 I: Disconnected
-J: Tendril (can reach N, which connects to L)
+J: Tube (connects F to H in a sense)
 K: Disconnected
-L: Tendril (connected to N but isolated from the rest of the SCC)
+L: Tube (connects F to H in a sense)
 M: IN
-N: Tendril (leads to L, isolated)
-O: Tendril (can reach F)
+N: Tube (connects F to H in a sense)
+O: Tube (connects F to H in a sense)
 ```
 # Q2 Answer
 a)
