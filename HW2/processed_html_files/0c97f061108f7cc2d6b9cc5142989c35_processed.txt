@@ -1,0 +1,215 @@
+Total Credit Hours
+12
+Substitutions of other computer science courses may be made with approval of the graduate program director.
+NOTE:
+In accordance with University policy, up to 21 hours of graduate courses taken as an undergraduate may be counted toward the bachelor's degree in computer science. However, only 12 hours of graduate courses taken as an undergraduate may also be counted toward the MS degree in Data Science and Analytics. This will limit students' scheduling flexibility subsequently.
+Courses
+Computer Science (CS)
+CS 112 Information Literacy for Former Engineering Majors (1 Credit Hour)
+The objective of this course is to enhance the ability of students to locate, manage, critically evaluate, and use information for problem solving, research, and decision making in a complex digital world. Emphasis in this course will be on information security, laws, regulations, institutional policies and ethical issues surrounding the access and use of information.
+Prerequisites: CEE 111 or ECE 111 or ENGT 111 or MAE 111 or MSIM 111
+CS 115 Introduction to Computer Science with Python (1 Credit Hour)
+An overview of computer science as a problem-solving discipline and as a career path. Topics include fundamentals of software, hardware computing fundamentals, and an introduction to the development of software to solve problems. Software development is introduced using the Python programming language. Intended for prospective CS majors. Laboratory work required. Computer science majors who already have credit for CS 150 , CS 151 , CS 152, or ENGN 150 cannot subsequently take CS 115 for credit toward their degree.
+CS 120G Introduction to Information Literacy and Research (3 Credit Hours)
+Students will learn to locate, manage, critically evaluate and use information for problem solving, research and decision making.  Includes collaborative tools for document development and office productivity tools for presentation.  Information security, laws and etiquette related to use and access of information are covered.
+CS 121G Introduction to Information Literacy and Research for Scientists (3 Credit Hours)
+Students will learn to locate, manage, critically evaluate and use information for scientific problem solving and research.  Includes mathematical tools for data analysis and presentation and office and collaborative tools, as well.  Information security, laws and etiquette related to use and access of information are covered.
+CS 126G Honors: Introduction to Information Literacy and Research (3 Credit Hours)
+Open only to students in the Honors College.  A special honors version of CS 120G .
+CS 150 Introduction to Programming with C++ (4 Credit Hours)
+Laboratory work required.  Introduction to computer-based problem solving and programming in C++. Topics include problem solving methodologies, program design, algorithm development, and testing. C++ language concepts include variables, data types and expressions, assignment, control-flow statements, functions, arrays, pointers, structs, and classes.
+Prerequisites: MATH 162M
+CS 151 Introduction to Programming with Java (4 Credit Hours)
+Laboratory work required. Introduction to computer-based problem solving and programming in Java. Topics include problem solving methodologies, program design, algorithm development, and testing. Java language concepts including variables, data types and expressions, assignment, control-flow statements, I/O, exception handling, functions, arrays, and classes.
+Prerequisites: MATH 162M
+CS 153 Introduction to Programming with Python (4 Credit Hours)
+Laboratory work required. Introduction to computer-based problem solving and programming in Python. Topics include problem solving methodologies, program design, algorithm development, and testing. Python language concepts include variables, data types and expressions, assignment, control-flow statements, functions, tuples, lists, and dicts.
+Prerequisites: MATH 162M
+CS 170 Introduction to Computer Architecture I (3 Credit Hours)
+Fundamentals of the architecture and operation of modern computers.  Basic computer logic: logic equations; gates; combinatorial logic.  Basic computer arithmetic:  binary numbers; floating point representation.  System hierarchy, overview of a computer; integrated circuit technology.  Performance: metrics; choosing benchmarks; Amdahl's law.  Instruction Sets and Operations: assembly language; machine language; examples of other instruction sets.
+Prerequisites: MATH 162M and a grade of C or better in any one of: CS 150 , CS 151 , CS 153 , or ENGN 150
+CS 195 Topics (1-3 Credit Hours)
+Special topics in computer science that are not part of the current curriculum at the freshman/sophomore level.
+CS 197 Undergraduate Research Experience in Computer Science (0 Credit Hours)
+Student participation in a supervised, undergraduate research experience for which credit will not apply to the degree.  Experience must be related to the student's major, minor or career area of interest.
+Prerequisites: permission of the instructor
+CS 202G Information Literacy for Cybersecurity (3 Credit Hours)
+This course provides an in-depth introduction to information literacy from library and information science, information ethics, and computer science perspectives along with applications to cybersecurity research and professional activity. This course is aligned with Old Dominion University’s general education learning outcomes for information literacy.
+Prerequisites: ENGL 110C
+CS 222 Introduction to Digital Image Processing (3 Credit Hours)
+This course introduces the basic concepts and algorithms of digital image processing. Topics include image representation, sampling, quantization, enhancement, filtering, restoration, segmentation, color image processing, imaging geometry, image transforms, and morphological processing.
+CS 250 Programming with C++ (4 Credit Hours)
+Laboratory work required. Design issues arising in software systems and C++ programming techniques aiding in their solution. Topics include the software life cycle, methods of functional decomposition, design documentation, abstract data types and classes, inheritance, common data structures, dynamic data structures, algorithmic patterns, and testing and debugging techniques.
+Prerequisites: CS 150 or ENGN 150 with a grade of C or better and MATH 163
+CS 251 Programming with Java (4 Credit Hours)
+Laboratory work required. Design issues arising in software systems and Java programming techniques aiding in their solution. This course provides the conceptual basis for programming techniques and program design with object and classes. Topics include the software life cycle, methods of functional decomposition, abstract data types and classes, inheritance, references, common data structures, algorithmic patterns, and testing and debugging techniques.
+Prerequisites: MATH 163 and a grade of C or better in any one of: CS 150 , CS 151 , CS 153 , ENGN 150
+CS 252 Introduction to Unix for Programmers (1 Credit Hour)
+Laboratory work required.  Available for pass/fail grading only.  An introduction to Unix with emphasis on the skills necessary to be a productive programmer in Unix, Linux, and related environments.  Topics include SSH, command line shells, files and directories, editing, compiling and debugging, SSH keys, git and programming IDEs.
+Prerequisites: A grade of C or better in any one of: CS 150 , CS 151 , CS 153 , ENGN 150, or IT 205
+CS 253 Transfer Credit for Programming with Python (4 Credit Hours)
+This course is a VCCS transfer credit vehicle. The course will not be offered for credit by Old Dominion University. An equivalent course would be a second programming course, this one in Python, that emphasizes the conceptual basis for programming techniques and program design with object and classes. Topics should include the software life cycle, methods of functional decomposition, abstract data types and classes, inheritance, common data structures, algorithmic patterns, and testing and debugging techniques.
+Prerequisites: A prior programming course
+CS 260 C++ for Programmers (1 Credit Hour)
+Laboratory work required. An introduction to the C++ programming language for students who are familiar with programming in Java or Python. Topics include basic language syntax, data structures, control flow, structs, classes, inheritance, and basic elements of the C++ standard library. Not open to students with credit for CS 250 .
+Prerequisites: A grade of C or better in CS 251 or CS 253
+CS 261 Java for Programmers (1 Credit Hour)
+Laboratory work required. An introduction to the Java programming language for students who are familiar with programming in C++ or Python. Topics include basic language syntax, data structures, control flow, classes, inheritance, exception handling, and basic elements of the Java API. Not open to students with credit for CS 251 .
+Prerequisites: A grade of C or better in CS 250 or CS 253
+CS 263 Python for Programmers (1 Credit Hour)
+Laboratory work required. An introduction to the Python programming language for students who are familiar with programming in C++ or Java. Topics include basic language syntax, data structures, control flow, classes, inheritance, and basic elements of the Python standard library. Not open to students with credit for CS 253 .
+Prerequisites: A grade of C or better in CS 250 or CS 251
+CS 270 Introduction to Computer Architecture II (3 Credit Hours)
+Fundamentals of the architecture and operation of modern computers.   Building an ALU.  The cache-Ram interaction.  The virtual memory system.  The Fetch/Execute cycle.  Implementing a set of the ALU, Load/Store and Branch instructions in a single cycle implementation.  Basics of microprogramming.  Design of the control unit.  A pipelined implementation.  Multicores, multiprocessors and clusters.
+Prerequisites: A grade of C or better in CS 170
+CS 295 Topics in Computer Science (1-3 Credit Hours)
+Special topics in computer science which are not part of the current curriculum at the freshman/sophomore level.
+CS 300T Computers in Society (3 Credit Hours)
+Covers changes in the world's society due to continuing implementation of computing technologies.  Evaluation of technological expansions in areas of governments, business/industry, education, medicine, transportation, communication and entertainment.  Topics include: intellectual property, software piracy, computer crimes and ethics.  Students must research a societal topic and present in written and oral forms.
+Prerequisites: ENGL 110C
+CS 312 Internet Concepts (3 Credit Hours)
+Laboratory work required.  An in-depth introduction to the Internet and the World Wide Web for CS or similar majors as a basis for more advanced studies in Web programming.  Topics include: historical and current development of the Internet Web document publishing.  Internet design, communication, and application protocols and the tools that use them.  Internet search tools and their design.  Internet issues such as netiquette, copyright, spam, computer viruses, cookies, security, and future of the Internet.
+Prerequisites: CS 252
+CS 315 Computer Science Undergraduate Colloquium (1 Credit Hour)
+This course consists of talks by invited speakers, including Old Dominion University faculty and guests from different research and industry communities. The colloquium introduces the possibilities of future research and career opportunities in the various areas of the computer science field. Additionally, students will learn about available scholarships and how to apply for them.
+Prerequisites: A grade of C or better in CS 150 , CS 151 , CS 153 or ENGN 150, and junior/senior standing as a computer science major
+CS 330 Object-Oriented Design and Programming (3 Credit Hours)
+Laboratory work required. The techniques, idioms, and design patterns of object-oriented programming. Methods of object-oriented analysis and design with the Unified Modeling Language. Multi-thread programs, synchronization, and graphic user interfaces.
+Prerequisites: CS 252 and a grade of C or better in CS 250 , CS 251 , or CS 253
+CS 350 Introduction to Software Engineering (3 Credit Hours)
+Laboratory work required. An exploration of the software development process, with an emphasis on the tools and techniques that support project teams. Topics include: software development process models, requirements, automated testing, documentation, build, version and configuration management, issue tracking, and agile methods. The course requires each student to participate as a member of a project team and to demonstrate proficiency with a variety of development tools.
+Prerequisites: CS 252 and a grade of C or better in CS 330 or CS 361
+CS 355 Principles of Programming Languages (3 Credit Hours)
+Survey of significant features of programming languages. Language types including imperative, functional, logical, and object-oriented are covered. Concepts include lexical and syntactic analysis, type systems, flow control, modularity, and parallel programming. Small programs in several languages required. Laboratory work required.
+Prerequisites: CS 252 and a grade of C or better in CS 250 , CS 251 , or CS 253
+CS 361 Data Structures and Algorithms (3 Credit Hours)
+Laboratory work required. Common abstract data types, including vectors, lists, stacks, queues, sets, maps, heaps, and graphs.  Standard Java interfaces for these ADTs. Iterators and generics.  Choosing data structures and algorithms to implement ADTs, via analysis of their time and space complexity.
+Prerequisites: CS 252 , MATH 211 , and a grade of C or better in CS 251 or CS 261
+CS 367 Cooperative Education (1-3 Credit Hours)
+Available for pass/fail grading only.  Student participation for credit based on the academic relevance of the work experience, criteria, and evaluative procedures as formally determined by the department and Career Development Services prior to the semester in which the work experience is to take place. Written report required.
+Prerequisites: approval by the CS Department and Career Development Services in accordance with the policy for granting credit for Cooperative Education programs
+CS 368 Computer Science Internship (1-3 Credit Hours)
+Available for pass/fail grading only.  Academic requirements will be established by the department and will vary with the amount of credit desired.  Allows students to gain short duration career-related experience.  An academic project may be required by the department to enhance the value of the educational experience.  Written report required.
+Prerequisites: approval by CS Department and Career Development Services
+CS 381 Introduction to Discrete Structures (3 Credit Hours)
+Topics include propositional and predicate logic, rules of inference, methods of proof, set operations, functions, complexity of algorithms, growth of functions, induction, counting, relations, equivalence relations and graphs.
+Prerequisites: MATH 163 and a grade of C or better in CS 150 , CS 151 , CS 153 , or ENGN 150
+CS 390 Introduction to Theoretical Computer Science (3 Credit Hours)
+Elementary study of theoretical aspects of computer science. Topics in formal languages and automata theory are covered including regular languages, regular expressions, finite automata, context-free languages, pushdown automata, grammars, Turing machines, and unsolvable problems.
+Prerequisites: A grade of C or better in CS 381 and in any one of: CS 250 , CS 251 , or CS 253
+CS 395 Topics in Computer Science (1-3 Credit Hours)
+Special topics in computer science that are not part of the current curriculum at the junior/senior level.
+Prerequisites: permission of the instructor
+CS 402/502 Formal Software Foundations (3 Credit Hours)
+Laboratory work required. Foundational principles and techniques for building correct-by-construction software systems with provable guarantees. Includes functional programming, algebraic and polymorphic data types, pattern matching, computer-assisted theorem proving, proof automation, extraction of certified executable code, examples of verified algorithms.
+Prerequisites: CS 381
+CS 410/510 Professional Workforce Development I (3 Credit Hours)
+Laboratory work required.   Provides students with challenges of business environments in developing a technology based project.  Students identify a societal problem, identify solutions, define project solutions, develop project objectives, conduct feasibility analysis, establish organizational group structure to meet project objectives and develop formal specifications.  Students make formal technical project presentations and develop web documentation. Students prepare a draft grant proposal.
+Prerequisites: A grade of C or better in CS 330 or CS 361
+Pre- or corequisite: CS 350
+CS 411W/511 Professional Workforce Development II (3 Credit Hours)
+Laboratory work required.   Students write professional and non-technical documents and continue the development of the project defined in CS 410 .  Written work is reviewed and returned for corrective rewriting.  Students will design and develop a project prototype, and demonstrate the prototype to a formal panel along with delivering the formal product specifications and a draft formal grant proposal. This is a writing intensive course.
+Prerequisites: A grade of C or better in ENGL 211C or ENGL 221C or ENGL 231C and a grade of C or better in CS 330 , CS 350 , and CS 410
+CS 417/517 Computational Methods and Software (3 Credit Hours)
+Laboratory work required.  Algorithms and software for fundamental problems in scientific computing.  Topics: properties of floating point arithmetic, linear systems of equations, matrix factorizations, stability of algorithms, conditioning of problems, least-squares problems, eigenvalue computations, numerical integration and differentiation, nonlinear equations, iterative solution of linear systems.
+Prerequisites: MATH 316 and a grade of C or better in CS 250 , CS 251 , or CS 253
+CS 418/518 Web Programming (3 Credit Hours)
+Laboratory work required. Overview of Internet and World Wide Web; web servers and security, HTTP protocol; web application and design; server side scripts and database integration, and programming for the Web.
+Prerequisites: A grade of C or better in CS 312 and CS 330
+CS 422/522 Introduction to Machine Learning (3 Credit Hours)
+Laboratory work required. An introduction to machine learning with a focus on practical aspects of various learning techniques. Topics include supervised learning (linear models, probabilistic models, support vector machine, decision trees, neural networks, etc.), unsupervised learning (scaling, dimension reduction, clustering, etc.), reinforcement learning, and model evaluation. The course will also discuss applications on image analysis, text processing, and biomedical informatics.
+Prerequisites: MATH 316 and a grade of C or better in any one of: CS 150 , CS 151 , or CS 153
+CS 431/531 Web Server Design (3 Credit Hours)
+Laboratory work required.   Extensive coverage of the hypertext transfer protocol (HTTP), specifications and commentary (IETF RFCs), and implications for servers and clients.  Students will develop a web server providing common HTTP functionality and implementing all HTTP (including unsafe and conditional) methods, content negotiation, transfer and content encoding, basic & digest authentication, and server-side execution of programs (i.e., dynamic resources). Frequent in-class demonstrations of progress and protocol conformance will be required.
+Prerequisites: A grade of C or better in any one of: CS 150 , CS 151 , CS 153
+CS 432/532 Web Science (3 Credit Hours)
+Provides an overview of the World Wide Web and associated decentralized information structures, focusing mainly on the computing aspects of the Web: how it works, how it is used, and how it can be analyzed. Students will examine a number of topics including: web architecture, web characterization and analysis, web archiving, Web 2.0, social networks, collective intelligence, search engines, web mining, information diffusion on the web, and the Semantic Web.
+Prerequisites: A grade of C or better in CS 361 and CS 330
+CS 433/533 Web Security (3 Credit Hours)
+Provides detailed experience with: principles of web security, attacks and countermeasures, the browser security model, web app vulnerabilities, injection, denial-of-service, TLS attacks, privacy, fingerprinting, same-origin policy, cross site scripting, authentication, JavaScript security, emerging threats, defense-in-depth, techniques for writing secure code, web archiving, and rehosting.
+Prerequisites: A grade of C or better in CS 312 and CS 330
+CS 441/541 App Development for Smart Devices (3 Credit Hours)
+Laboratory work required. Project-oriented coverage of the principles of application design and development for Android platform smart devices. Topics include user interface; input methods; data handling; network techniques; localization and sensing. Students are required to produce a professional-quality mobile application.
+Prerequisites: CS 330 and either CS 251 or CS 261
+CS 450/550 Database Concepts (3 Credit Hours)
+Laboratory work required. Three level database architecture. The relational database model and relational algebra. SQL and its use in database procedures and with conventional programming languages. Entity relationship modeling. Functional dependencies and normalization. Transactions, concurrency and recovery.
+Prerequisites: CS 252 and a grade of C or better in CS 381 and either CS 330 or CS 361
+CS 454/554 Network Management (3 Credit Hours)
+Laboratory work required. The administration of computer networks and their interaction with wide area networks:  network topologies for local and wide area networks, common protocols and services, management of distributed file services, routing and configuration, security, monitoring and trouble-shooting.
+Prerequisites: A grade of C or better in CS 455
+CS 455/555 Introduction to Networks and Communications (3 Credit Hours)
+Internet and the 5-layered protocol architecture for the Internet,  applications built on top of data networks, specifically the Internet,  the web,  the transport layer, TCP and UDP protocols, the network layer, the data link layer, also some of the technologies for the physical layer.
+Prerequisites: CS 252 , CS 270 , and a grade of C or better in any one of: CS 250 , CS 251 , or CS 253
+CS 458/558 Unix System Administration (3 Credit Hours)
+Laboratory work required.  Aspects of administering a SOLARIS/UNIX operating system in a networked environment are covered.  Topics covered include installation, file system management, backup procedures, process control, user administration, device management, Network File Systems (NFS), Network Information Systems (NIS), UNIX security, Domain Name Services (DNS), and integration with other operating systems.
+Prerequisites: experience with UNIX
+CS 460/560 Computer Graphics (3 Credit Hours)
+Laboratory work required.  An introduction to graphical systems and methods.  Topics include basic primitives, windowing, transformations, hardware, interaction devices, 3-D graphics, curved surfaces, solids, and realism techniques such as visible surface, lighting, shadows, and surface detail.  Requires project involving OpenGL programming.
+Prerequisites: A grade of C or better in CS 361
+CS 462/562 Cybersecurity Fundamentals (3 Credit Hours)
+Introduction to networking and the Internet protocol stack; Vulnerable protocols such as HTTP, DNS, and BGP; Overview of wireless communications, vulnerabilities, and security protocols; Introduction to cryptography; Discussion of cyber threats and defenses; Firewalls and IDS/IPS; Kerberos; Transport Layer Security, including certificates; Network Layer Security.
+Prerequisites: MATH 162M
+CS 463/563 Cryptography for Cybersecurity (3 Credit Hours)
+This course covers mathematical foundations, including information theory, number theory, factoring, and prime number generation; cryptographic protocols, including basic building blocks and protocols; cryptographic techniques, including key generation and key management, and applications; and cryptographic algorithms--DES, AES, stream ciphers, hash functions, digital signatures, etc.
+Prerequisites: MATH 162M
+CS 464/564 Networked Systems Security (3 Credit Hours)
+Authentication in cyber systems including password-based, address-based, biometrics-based, and SSO systems; Authorization and accounting in cyber systems; Securing wired and wireless networks; Secured applications including secure e-mail services, secure web services, and secure e-commerce applications; Security and privacy in cloud environments.
+Prerequisites: MATH 162M
+CS 465/565 Information Assurance for Cybersecurity (3 Credit Hours)
+Introduction to information assurance.  Topics to be covered include metrics, planning and deployment; identity and trust technologies; verification and evaluation, and incident response; human factors; regulation, policy languages, and enforcement; legal, ethical, and social implications; privacy and security trade-offs; system survivability; intrusion detection; and fault and security management.
+Prerequisites: MATH 162M and familiarity with computer security area
+CS 466/566 Principles and Practice of Cyber Defense (3 Credit Hours)
+This course is designed to help students gain a thorough understanding of vulnerabilities and attacks in systems and networks and learn cyber defense best practices. It covers fundamental security design principles and defense strategies and security tools used to mitigate various cyber attacks. The topics may include identification of Recon Ops, intrusion detection, identification of C2 Ops, data exfiltration detection, identifying malicious codes, network security techniques, cryptography, malicious activity detection, system security architectures, defense in depth, distributed/cloud and virtualization. Laboratory work required.
+Prerequisites: CS 270 , CS 455 , and a grade of C or better in any one of: CS 250 , CS 251 , CS 253 ; no prior knowledge of computer security is necessary
+CS 467/567 Introduction to Reverse Software Engineering (3 Credit Hours)
+Laboratory work required. Covers all the major components such as static analysis, dynamic analysis, Windows x86/64 Assembly, APIs, DLL/process injection, covert launching methods, behaviors, anti-disassembly, anti-VM, packing/unpacking, shell code, C++, buffer overflow attacks and various kinds of networking attacks; includes a final project that analyzes a piece of real malware.
+Prerequisites: CS 270 and a grade of C or better in any one of: CS 250 , CS 251 , CS 253
+CS 468W Research Methods in Mathematics and Sciences (3 Credit Hours)
+Emphasizes the tools and techniques used to solve scientific problems. Topics include use and design of experiments, use of statistics to interpret experimental results, mathematical modeling of scientific phenomena, and oral and written presentation of scientific results. Students will perform four independent inquiries, combining skills from mathematics and science to solve research problems. Required for Physics teaching licensure track; not available as upper-division elective in content area. This is a writing intensive course.
+Prerequisites: Admission to the Monarch Teach Program; CS 361 or MATH 212 ; and a grade of C or better in ENGL 211C or ENGL 221C or ENGL 231C
+CS 469/569 Data Analytics for Cybersecurity (3 Credit Hours)
+The course introduces classical and advanced models and techniques in machine learning and deep learning. It applies these techniques in the cybersecurity domain including anomaly detection, network security, and malware detection and classification. Advanced applications such as self-driving cars and IoT systems are also discussed. In addition, cyber-attacks on machine learning techniques and AI systems and the possible consequences are also discussed.
+Prerequisites: CS 462 or CS 455 or experience in cybersecurity
+CS 471/571 Operating Systems (3 Credit Hours)
+Laboratory work required. Operating system structures.  Multiprogramming and multiprocessing.  Process management.  Memory and other resource management.  Storage management, I/O systems, distributed systems.  Protection and security.  The concepts will be illustrated through example systems such as Unix and Windows.
+Prerequisites: ECE 346 or ECE 443 or a grade of C or better in CS 361 and CS 170 ; a grade of C or better in ENGN 150 or CS 150 or CS 260
+CS 472 Network and Systems Security (3 Credit Hours)
+Laboratory work required. Basic protocols, techniques and programming issues to secure network and computer systems.  Topics include: cryptographic algorithms and concepts (Secret Key Cryptography, Hashes and Message Digests,  Public Key and Authentication); Security Standards (Kerberos, Public Key Infrastructure, IPsec, SSL/TLS); Security applications (PEM, S/MIME, PGP, HTTP, Firewalls); Hands-on programming using OpenSSL.
+Prerequisites: A grade of C or better in CS 361
+CS 475/575 Introduction to Computer Simulation (3 Credit Hours)
+Laboratory work required.  Efficient implementation methods.  Time management.  Planning and design of simulation experiments.  Statistical issues in simulation.  Generation of random numbers and stochastic variates.  Programming with graphically- and text-based simulation languages.  Verification and validation of simulation models.  Distributed simulation.  Special topics such as HLA will be discussed.
+Prerequisites: STAT 330 and a grade of C or better in CS 330 or CS 361
+CS 476/576 Systems Programming (3 Credit Hours)
+Laboratory work required.  This course is to help students fully understand and utilize the internal workings and capabilities provided by modern computing, networking and programming environments.  Topics include: Shell Script Programming, X Windows (Xlib and Motif), UNIX internals (I/O, Processes, Threads, IPC and Signals), Network Programming (UDP/TCP Sockets and Multicasting) and Java Systems Programming (SWING, Multithreading and Networking).
+Prerequisites: A grade of C or better in CS 330 and CS 361
+CS 478/578 Computational Geometry, Methods and Applications (3 Credit Hours)
+The discipline of Computational Geometry is devoted to the study of algorithms which are formulated in terms of spatially embedded arrangements of objects, such as points, lines, surfaces, and solids. This course covers fundamental algorithms including convex hulls, polygon triangulations, point location, Voronoi diagrams, Delaunaytriangulations, binary space partitions, quadtrees, and other topics.
+Prerequisites: CS 361 and MATH 211
+CS 480/580 Introduction to Artificial Intelligence (3 Credit Hours)
+Laboratory work required.  Introduction to concepts, principles, challenges, and research in major areas of AI.  Areas of discussion include: natural language and vision processing, machine learning, machine logic and reasoning, robotics, expert and mundane systems.
+Prerequisites: A grade of C or better in CS 361
+CS 486/586 Introduction to Parallel Computing (3 Credit Hours)
+Laboratory work required.  The motivation for and successes of parallel computing.  A taxonomy of commercially available parallel computers.  Strategies for parallel decompositions.  Parallel performance metrics.  Parallel algorithms and their relation to corresponding serial algorithms. Numerous examples from scientific computing, mainly in linear algebra and differential equations.  Implementations using public-domain network libraries on workstation clusters and computers.
+Prerequisites: MATH 316 ; knowledge of a high level language
+CS 487 Applied Parallel Computing (3 Credit Hours)
+Laboratory work required.  Fundamental concepts of parallel computing:  Machine models, architectures, parallel topologies and languages, parallel algorithm design and parallel programming, architecture independent message passing interface (MPI) communication library, and scaled-speedup.  Group project required.
+Prerequisites: A grade of C or better in CS 270 and either CS 361 or CS 330 ; CS 417 or linear algebra is recommended
+CS 488/588 Principles of Compiler Construction (3 Credit Hours)
+Laboratory work required.  Theoretical and practical aspects of compiler design and implementation.  Topics will include lexical analysis, parsing, translation, code generation, optimization, and error handling.
+Prerequisites: A grade of C or better in CS 361
+CS 491/591 Honors Research I in Computer Science (3 Credit Hours)
+Laboratory work required. Students perform mentored research in a group environment to develop computational approaches in addressing computer science challenges. The project needs approval by the Computer Science Honors Program director, and registration requires approval of the mentor. A GPA of 3.00 or better is required, or approval by the director of the Computer Science Honors Program.
+Prerequisites: grade of C or better in CS 350
+CS 492/592 Honors Research II in Computer Science (3 Credit Hours)
+Laboratory work required. Students continue mentored research using the project defined in CS 491 . Students will present the work and findings to the public. The project needs approval by the Computer Science Honors Program director, and registration requires approval of the mentor.
+Prerequisites: A grade of B or better in CS 491
+CS 495/595 Topics in Computer Science (1-3 Credit Hours)
+Special topics.
+Prerequisites: permission of the instructor
+CS 497/597 Independent Study in Computer Science (1-3 Credit Hours)
+Independent study under the direction of an instructor.
+Prerequisites: permission of the instructor
+CS 499W Honors Thesis in Computer Science (3 Credit Hours)
+Laboratory work required. Each student writes a thesis and continues the development of the project defined in CS 491 . Written work is reviewed and returned for corrective rewriting. Students will present the work and findings to the public. The project needs approval by the Computer Science Honors Program director, and registration requires approval of the mentor. This is a writing intensive class.
+Prerequisites: A grade of C or better in CS 491
+Search catalog

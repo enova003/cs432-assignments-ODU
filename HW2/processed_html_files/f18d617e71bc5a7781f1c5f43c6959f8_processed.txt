@@ -1,0 +1,40 @@
+Register For Classes
+Register for Classes
+We offer coursework on a semester basis; we do not have an open registration year-round. (The only exceptions are the Engineering Management courses delivered by portable media to military service members. Ashore students should click here to register for MEM courses .)
+Please check the ODU Academic Calendar for important dates including course registration, add/drop/withdraw deadlines, tuition due dates, exams, and holidays.
+How to Find Online Courses in LEO Online
+Click on "Admissions, Registration, Student Records, and Graduation Information" and then "Registration."
+Click "Banner XE Registration." A new window will open.
+Click on "Register for Classes." Select the term and click Continue. (If the registration period is not open yet, click "Browse Classes" instead.)
+Select the Subject of the courses you want to find. When you click in the Subject box, a list will appear. You can select from the list or start typing to find a specific Subject. You can also add more than one Subject.
+If you know the course number, you can enter it in the search criteria. Leave the course number blank to show all courses in your selected Subject.
+Online course sections have a Building name that starts with either WC or WEB. To limit the search to online course sections, click on Advanced Search and choose the Building that corresponds to your student campus designation. Not sure which option to choose? You can find your campus designation in LEO Online under Student Records > View General Student Information.
+If your Campus is Norfolk Main Campus, search for classes with the Building
+WEB2 ONLINE HAMPTON ROADS, or
+WC2 WEB CONF HAMPTON ROADS.
+*If you plan to attend class at main campus, even if the class is also online, then leave the building search option blank. You will register for the class section which is held on campus.
+If your Campus is Online in Virginia, search for classes with the Building
+WEB5 ONLINE STUDENTS IN VA, or
+WC5 WEB CONF IN VIRGINIA
+If your Campus is Online outside of Virginia or Online International, search for classes with the Building
+WEB7 ONLINE STDNTS OUTSIDE VA, or
+WC7 WEB CONF OUTSIDE VIRGINIA
+How Do I Know if a Class Has Required Meeting Times?
+Check the Meeting Times box:
+Live online courses will list a specific specific day and time, and the Building will begin with WC2, WC5, WC7, or WC8. You are expected to connect to class at the day(s) and time listed.
+Asynchronous courses will not have a day or meeting time listed, and the Building will begin with WEB2, WEB5, WEB7, or WEB8.
+Troubleshooting
+I tried to register for a course and I got an error: "Student campus does not match course campus. Registration prohibited. Contact register@odu.edu ."
+Every student at ODU has a campus code that determines which course sections you can register for. You can find your campus code in LEO Online under Student Records > View General Student Information. If you have questions, please email register@odu.edu .
+What is a waitlist or waitlisting?
+Waitlisting is an option that allows students to join a queue for enrollment in a course that has reached its capacity. Learn more about the waitlist process
+What if my computer isn't compatible, or I don't have the other hardware (webcam, microphone, etc.)?
+You can take classes using computers at a higher education center or your local ODUGlobal partner, or attend class in-person on ODU's main campus.
+Check with the ODU ITS Helpdesk to discuss what you need in order for your computer run online classes.
+If you have technical difficulty during a live class, you can review the class through high definition archives of classes within the learning management system and on the ODUGlobal website .
+Live online classes often have an attendance requirement. Sometimes a professor may allow you to attend class by watching the archives of live class sessions, but you should NOT assume that this is allowed. Please check with your advisor or the professor about taking a course by watching the archives rather than attending live online class sessions.
+Need more help?
+We're happy to assist! Please contact your ODUGlobal Student Success Director (academic advisor) , or email ODUGlobal at online@odu.edu .
+Old Dominion University
+Gornto Hall, Norfolk, VA 23529
+Footer

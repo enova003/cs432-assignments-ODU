@@ -1,0 +1,110 @@
+SmarterProctoring Student Guide
+SmarterProctoring Student Guide
+Your instructor is using a proctor scheduling tool called SmarterProctoring. This solution will let you find a proctor and schedule proctoring appointments in one place inside Canvas.
+SmarterProctoring (SP) is course specific. The instructions below are for courses using SP only.
+How It Works
+SmarterProctoring is designed to make scheduling and delivery of proctored exams easier for everyone.
+When you access SmarterProctoring for each exam, you will see which proctoring options your faculty member allows and can schedule your proctored session in the same place.
+Your professor will choose which proctoring options are available for each exam. Options may include:
+Automated on-demand proctor system
+ODU-affiliated or other Testing Centers
+ODU-approved individual proctors
+What is automated, on-demand proctoring? See how it works:
+FAQs
+How will my exam be proctored?
+It depends upon the type of exam and your professor.
+When your instructor creates an exam—either written (paper and pencil) or online (usually inside Canvas)—they will identify who is eligible to proctor it.
+Options may include:
+Automated on-demand proctoring — You don’t need an appointment to use this option. This online system will record your screen and webcam during the exam session. The video will be reviewed by a SmarterProctoring professional to make sure the exam instructions were followed. Requires the Chrome web browser and webcam. Automated proctoring is not available for written paper and pencil exams.
+Live Online Proctoring — You make an appointment for a live proctor from inside SmarterProctoring to take your exam. A trained person from SmarterProctoring will monitor your exam session virtually. Live online proctoring is not available for written paper and pencil exams.
+Testing center services — Make an appointment at an ODU testing center or other ODU-approved testing center to take your exam in a proctored environment at that location.
+Pre-screened third-party individuals — SmarterProctoring has a network of proctors who will be visible based upon your location. In addition, other individuals can act as proctors in an appropriate setting, as long as they are approved by ODU, your instructor, or both. Proctors must be neutral people that you are not related to, friends with, or in a financial relationship with.
+Is proctoring free?
+It depends. Most students will find free proctoring services available. Some testing centers and individual third-parties charge fees.
+Costs for live online proctoring and automated proctoring are paid by ODU. However, some proctoring options charge Late, Rush, or Cancellation Fees when appointments are added or changed in certain circumstances. Costs are listed on the proctor selection pages when you schedule your session.
+What are the best practices for scheduling a proctoring session?
+Plan ahead and schedule a proctoring appointment, if needed, as soon as you are able.
+When selecting a proctor, consider all the options available to you.
+If making an in-person appointment, select multiple proctors when reaching out to maximize your options based on their availability. If you do not receive a proctor response within 48 business hours, follow-up and report the proctor to SmarterProctoring.
+Remember, you must accept and confirm your appointment AFTER the proctor confirms.
+Finally, arrive on-time and fully prepared!
+What if I cannot find a proctor from the options available?
+In unusual circumstances, you may not have access to a pre-approved proctor. It is your responsibility to find one, but ODU can help with the Ad Hoc Proctor Process.
+Identify a qualified individual or testing center based on the list below.
+Coordinate date, time, and location of your proctoring session.
+Complete this online form to tell us who your proctor is. Please allow up to FIVE (5) business days for a proctor to be assigned after submission.
+These are the types of individuals/locations who are qualified to be a proctor:
+Education Professional — Any teacher, higher education instructor, counselor/advisor, or other education professional. This includes staff at all VCCS school’s testing centers. Documentation required to verify employment.
+Government Employee — Any person who identifies as Law Enforcement, First Responder, US Embassy, etc. and must provide documentation to verify employment.
+Librarian — Any person employed at a public library, not located on or affiliated with a college campus, with the title librarian.
+Military Personnel — Anyone with an active military ID and valid military address, and ranked E-7 or higher. Documentation required to verify rank.
+Your instructor may limit the types of proctors allowed for a particular exam. Always check with your instructor if you have any questions.
+Locations for Ad-hoc Proctoring Sessions
+Any locations outside of designated areas must be approved using the online form . Ad-hoc proctoring should not be scheduled at home, in public or open business spaces, or in places where interruptions from others may occur during the exam session.
+Desktop and/or Room Scans
+For Automated On-demand and Live Online proctoring sessions, your instructor may activate Desktop and/or Room scans prior to an exam. Live proctors may request a repeat of the room scan if you take any permissible breaks during the exam. If your exam computer has a fixed webcam preventing a full room scan, the live proctor may instruct you to use a mirror to display your entire proctoring area.
+Step By Step Guide
+Click on the SmarterProctoring link on the left side.
+Locate the Exam
+Scroll down your SmarterProctoring homepage to locate the exam.
+Image
+Review details about the exam.
+Click "Choose a Proctor."
+If an exam is not visible, your professor may have restricted it by date.
+Select and Schedule a Proctor
+First, choose the type of proctor from those available. Available proctors are based on exam rules provided by your professor and on your student account details. You can sort the available proctors by distance or cost, depending on your needs.
+Accommodations: If you have a documented accommodation (extra time, etc.), your professor must add that to your exam session BEFORE you make an appointment with a proctor.
+Follow the scheduling instructions below, depending on which type of proctor you choose.
+Automated Proctoring
+You do not need to make an appointment for the automated option, if it is available.
+You can indicate your intention to take the exam with that system in advance.
+The exam will be available when the testing window opens, as determined by your instructor.
+Live Online Proctoring
+Click Schedule Your Exam.
+Find a date and time based for your exam in the system's calendar. Click Schedule next to the session you want.
+Confirm your session date and time.
+Click Schedule to complete the process.
+When you click Return to dashboard, you should see the session listed under Exams.
+For detailed steps with screenshots, please visit SmarterProctoring's scheduling guide .
+ODU-affiliated Testing Center or other proctor types using RegisterBlast
+Click Request Session. Click Continue to use RegisterBlast.
+Enter the requested information and click Complete Registration.
+Click Return to dashboard to go back to SmarterProctoring.
+Your exam session should now appear on your dashboard under Exams.
+ODU Approved Individual Proctor
+When an Individual Proctor replies to your request, you must return to SmarterProctoring and click "Schedule Session" to complete the process.
+Click Request Session.
+Enter three Preferred Session Times. Click Send. You should request sessions with multiple proctors, to make sure you find one who is available at your preferred times.
+The proctors will reply in 24-48 hours with their available date and time. *COVID-19 Note: Some proctors may not be able to provide proctoring services during the pandemic, but they may still appear in the system. Please read any notes carefully.
+When you receive a reply, return to SmarterProctoring and click "Schedule Session" to complete the process. You can also cancel your requests with other proctors.
+The proctor's reply will show you which date and time they have accepted. If you need to cancel the request, you can also do that here.
+Complete the process by clicking Schedule Session, then Continue.
+Your exam session should now appear on your dashboard under Exams.
+Other Individual Ad Hoc Proctor
+If you cannot find a proctor to use in the SP system, you may be able to use a qualified individual or testing center in your area. It is your responsibility to find one, but ODU can help with the process. Please follow the steps in the FAQ above, " What if I cannot find a proctor from the options available ?" If approved, your chosen proctor will be assigned to you in the SP system approximately two business days after your request was submitted.
+View or Change Appointment
+You can view appointment details at any time in SmarterProctoring. Simply login to Canvas, access SmarterProctoring from your course, and scroll down your SmarterProctoring homepage to find appointments.
+To make a change: View your appointment and click "Cancel Session." Then schedule a new session with the proctor of your choice.
+Your instructor will be able to see if you have scheduled or cancelled a proctoring session.
+Take Your Exam
+If you are traveling to a testing center or higher education center for your exam, please allow extra time to park, check in, and log in to their computer.
+For exams scheduled through SmarterProctoring with Live Online Proctoring or Automated Proctoring:
+Log in to Canvas and select your course.
+Click the SmarterProctoring link on the left side.
+Scroll down your SmarterProctoring homepage to locate the exam and review the details.
+Click "Start Session" to begin your proctored exam.*
+* If your password does not auto-populate when you try to launch an exam with automated proctoring, try this:
+When you are IN a proctor session, at the top of your screen, you should see what looks like a "Blue Key" next to where it says Proctoring session active - Stop Proctoring session and Hide support chat.
+Click on the "blue key" and it will display a drop down that says "Inject password."
+Click on "inject password." If the password is accepted, you can move forward with taking the exam.
+If the inject password doesn't work, you MUST start a chat session with support for them to correct the issue manually and open the exam for you.
+For all other proctored exams:
+Check in with your proctor. When allowed, navigate to your exam. Depending on the course, your exam may be launched from:
+the course in Canvas, under a specific location such as an assignment or module; or
+a third-party website, such as Pearson's MyMath Lab.
+After you launch the exam, your proctor will enter a password so the exam can begin.
+Follow all testing procedures and restrictions that you received from your instructor. Your proctor will observe you for the entire exam.
+Technical Support 24/7
+SmarterProctoring
+Review technical requirements to make sure your computer or browser is up to date. To use SmarterProctoring, your computer must have JavaScript and cookies enabled. For urgent issues, please use the chat feature in the SP system to talk to someone immediately. For non-urgent help, email support@smarterproctoring.com .
+Canvas

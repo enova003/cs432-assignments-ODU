@@ -1,0 +1,65 @@
+Graduate Courses
+GDES 280 Introduction to Graphic Design (3 Credit Hours)
+This course includes intensive study of the basic principles, theories and methods of graphic design, and the creation of visual communication. Topics of study include the characteristics and compositional principles applied to symbol, image, and letterform, as well as the history and practice of graphic design. Emphasis will be placed on creative process, developing visual concepts, formal values, use of materials, and craft. (Offered fall only)
+Pre- or corequisite: ARTS 279 with a grade of C or higher
+GDES 365 Basic Typography (3 Credit Hours)
+This course includes intensive study of the history, terminology, theory, and application of typography, and the creation of visual communication with particular emphasis on typographic content. Topics of study include typographic form and meaning, hierarchy, legibility and readability, structure and composition, and the management of written content within the design process. Specialized technical instruction includes software applications for document construction, layout, and letterform manipulation, building upon the experiences of ARTS 279 . (Offered spring only)
+Prerequisites: Graphic design major and GDES 280 with a grade of C or higher
+GDES 368 Design Internship (3 Credit Hours)
+This advanced course is an individualized internship that focuses on the student’s emphasis within the graphic design industry. It is normally taken during the last semester. Students participate on-site with professionals and are evaluated by predetermined curriculum objectives that have been agreed upon by the employer, instructor and student. This course provides the student with valuable on-the-job experience, interaction with industry professionals, and preparation for job entry. Students must interview for and acquire their internship site. It is recommended that the student seek out instructor expertise for possible recommendation.
+Prerequisites: Permission of the instructor; approval by the department chair and Career Development Services is necessary prior to registration
+GDES 371 Design Concepts (3 Credit Hours)
+The course includes intensive study of the development of creative and effective ideation for application to graphic design problems from selected aspects of the field. Topics of study include project research, content development, messaging, and individual and collaborative creative processes. Emphasis will be placed on critical skills, articulation, productivity, and response to clients, audiences and contexts. (Offered fall only)
+Prerequisites: GDES 280 with a grade of C or higher
+GDES 372 Advanced Typography (3 Credit Hours)
+This is an elective course restricted to students admitted to the graphic design program. It continues the development of typographic practice, exploring issues pertaining to meaning, concept, and expression. The course will also include investigation of typographic history. Topics of study include advanced issues in typographic composition, denotative and connotative aspects of type use, typeface selection, and typesetting.
+Prerequisites: GDES 365 with a grade of C or higher
+GDES 373 Design Systems (3 Credit Hours)
+This course is restricted to students admitted to the graphic design program, and is the fourth course in the graphic design sequence. The course includes intensive study of the development of creative and effective ideation for application across coordinated graphic design campaigns. Projects will address design in series and across multiple formats and media for commercial, promotional, educational, and informational contexts. (Offered spring only)
+Prerequisites: GDES 371
+GDES 374 Web Design (3 Credit Hours)
+This advanced course is an introduction to the basic methods and techniques used to design for web-based delivery. Topics of study include; site management and organization, navigation, grid structures, hierarchy and inventory of content, appropriate use of type and graphics, and format. Emphasis will be placed on process and research, appropriateness, accessibility, dynamic user interface experiences.
+Prerequisites: GDES 371 with a grade of C or higher and GDES 372 with a grade of C or higher or permission of the instructor
+GDES 378 Brand Identity (3 Credit Hours)
+This course is devoted to the study and design of coordinated systems of visual communication elements used to identify a company or cause. Projects will address project research, creative brief development, messaging, and effective ideation for application across coordinated graphic design campaigns for print and digital delivery.
+Prerequisites: GDES 280 with a grade of C or higher
+GDES 381 Interactive Design (3 Credit Hours)
+This advanced course is devoted to creating dynamic design solutions for interactive devices, systems, and services. Students will learn to apply observational techniques to understand interactions in context, develop conceptual models and representations to assess the perspectives of prospective users, and develop interactions that are understandable and useful. Students will be introduced to the fundamental digital design process, and will experiment with a variety of interactive and dynamic design applications.
+Prerequisites: GDES 371 with a grade of C or higher and GDES 372 with a grade of C or higher or permission of the instructor
+GDES 382 UI (User Interface) Design (3 Credit Hours)
+UI (User Interface) designers focus on developing the aesthetics, or the point of contact, of interactive experiences. This course is intended to provide students with the skills needed to utilize traditional design principles to create interactive experiences for a range of platforms. Students will explore key topics such as Principles of User Interface Design, Responsive Design, Design Systems,  Wireframing, and  Prototyping, gaining  a comprehensive  skill set to shape the visual and interactive landscapes of digital interfaces.
+Prerequisites: GDES 280 , GDES 365 , GDES 371 , and GDES 378 , all with a grade of C or higher
+GDES 383 UX (User Experience) Design (3 Credit Hours)
+UX (User Experience) designers ensure that digital experiences are relevant to users. This course is intended to provide students with the skills to create experiences focused on user needs and built on research and data. Students will explore key topics such as User Research Methods, User Journeys, and Usability Testing.
+Prerequisites: GDES 280 , GDES 365 , GDES 371 , and GDES 378 , all with a grade of C or higher
+GDES 385 Advanced Graphic Design (3 Credit Hours)
+Building on concepts introduced in GDES 280 , the course will consider and engage the collaborative, complex, and interrelated nature of design practice, in public and private manifestations, and through form and concept. The personal dimensions of design practice will also be explored through a self-determined project.
+Prerequisites: GDES 280 , GDES 365 , GDES 371 , and GDES 378 , all with a grade of C or higher
+GDES 386 Socially Conscious Design (3 Credit Hours)
+This course delves into the realm of visual communication as a powerful tool for advocating social, environmental, and justice issues. Students will explore the transformative potential of graphic design in fostering positive change within society. As the world faces pressing challenges, this course empowers artists to leverage their creative skills and voices to contribute meaningfully to the betterment of our global community. Key topics covered include ethical design principles and the responsibility of designers in shaping inclusive narratives. Through practical exercises, projects, and case studies, students will develop the skills to navigate the delicate balance between aesthetics and advocacy, ensuring that their designs not only captivate but also inspire positive action.
+Prerequisites: GDES 280 , GDES 365 , GDES 371 , and GDES 378 , all with a grade of C or higher
+GDES 395 Topics in Graphic Design (3 Credit Hours)
+Selected topics designed for elective credit within the graphic design program.
+Prerequisites: Permission of the instructor
+GDES 470 Design Services (3 Credit Hours)
+Design services acts as an independent design agency. Students will gain experience working directly with clients on a design project; discover the aspects of developing commissioned design projects; and consider the legal, practical and ethical considerations of working as an independent (freelance) designer.
+Prerequisites: GDES 280 , GDES 365 , GDES 371 , and GDES 378 , all with a grade of C or higher
+GDES 474 Motion Graphics (3 Credit Hours)
+This advanced course is an introduction to the basics of motion graphic design processes, and focuses on the creative and technical processes of creating motion graphics (predominantly 2D) for a variety of mediums including film, broadcast, DVD, and web. Students will gain practical experience in the development of an animated broadcast graphics package. Motion graphics in the context of interactive interfaces is also explored.
+Prerequisites: GDES 371 with a grade of C or higher and GDES 372 with a grade of C or higher or permission of the instructor
+GDES 480 Advanced New Media (3 Credit Hours)
+Modern graphic design often includes the creation of multi-faceted experimental experiences. This course is intended to provide students with an advanced studio experience, where they will utilize a wide range of software to create experiences that push what each individual student thinks is possible. This course may cover topics such as 3D Modeling, Motion Graphics, Augmented Reality, Installation Art, and more.
+Prerequisites: GDES 280 , GDES 365 , GDES 371 , and GDES 378 , all with a grade of C or higher
+GDES 490 Design Seminar (3 Credit Hours)
+This course is restricted to students admitted to the graphic design program, and is the seventh course in the graphic design sequence. This course introduces students to the broader opportunities and directions present in contemporary design. Through readings, discussion, and self-directed and self-determined projects, students will explore personal directions and sensibilities in their design practice. (Offered fall only)
+Prerequisites: GDES 373 with a grade of C or higher
+GDES 491 Design Capstone (3 Credit Hours)
+This is the concluding course in the graphic design major. Students will prepare for transition to design practice/appreciation or graduate study through the completion of a thesis project appropriate to personal and career goals. Course topics will include creating a portfolio of design work, career options, self-promotion, resume preparation, graduate study, and interview skills. All students are required to present their work at the Graphic Design Gala. Additional review may be required by syllabus. (Offered spring only)
+Prerequisites: GDES 490 with a grade of C or higher
+Pre- or corequisite: 12 hours of Graphic Design elective coursework
+GDES 497 Tutorial Work in Graphic Design (3 Credit Hours)
+An independent investigation of a subject selected and conducted under the advisement of a graphic design instructor.
+Prerequisites: Senior standing and permission of instructor and the chief departmental advisor
+GDES 697 Tutorial in Graphic Design (3 Credit Hours)
+Tutorial is a self-directed learning experience where students work on a project of their devising under the supervision of a faculty member.
+Prerequisites: Instructor permission required

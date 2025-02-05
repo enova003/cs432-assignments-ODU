@@ -1,0 +1,271 @@
+Educational Psychology and Program Evaluation (EPPE) and Foundations of Education (FOUN)
+FOUN 611 Introduction to Research Methods in Education (3 Credit Hours)
+The primary goal of the course is to provide students with the knowledge and skills to access, evaluate, and synthesize empirical research. The course examines types of educational research and criteria for evaluating empirical studies. It introduces various types of research questions and associated research designs, components of research reports, sampling, validity of measures, threats to internal and external validity, and simple statistics.
+Prerequisites: Students in the graduate Counseling program must take COUN 601 before taking this course
+FOUN 612 Applied Research Methods in Education (3 Credit Hours)
+The primary goal of this course is to provide students with the knowledge and skills to write a research proposal and conduct research.  It is intended for those students who are completing a thesis to meet their program requirements, those planning on pursuing a doctoral degree, or those who anticipate conducting research for any other reasons.  The course examines types of educational research and criteria for selection of topics for research projects; describes criteria for effective collection and organization of data; review of literature, analysis of data and proposal writing.
+FOUN 640 Fundamentals of Measurement and Assessment (3 Credit Hours)
+This course stresses the use of measurement and assessment for evaluation and decision making focusing on basic concepts applicable to all types of assessment:  statistical concepts, reliability, validity, and interpretive frameworks for cognitive and non-cognitive measures.
+FOUN 641 Assessment and Evaluation of Student Learning (3 Credit Hours)
+The valid use of formative and summative assessment and evaluation principles for monitoring and promoting students' learning and development will be addressed.  Students will learn how to construct and use a variety of formal and informal teacher assessment procedures.
+FOUN 650 Human Development and Student Learning (3 Credit Hours)
+This course will focus on understanding children's and adolescents' physical, social, emotional, intellectual, and speech/language development; integrating and incorporating children and adolescent differences (economic, social, racial, ethnic, religious, physical, and mental) into understanding developmental issues as they relate to instruction, including the identification and instruction of students with exceptionalities as well as special needs.  Research related to the classroom application of these theories is examined and evaluated based on principles of research design and interpretation.  Student must be a participant in the Teacher Residency Grant.
+FOUN 722 Introduction to Applied Statistics and Data Analysis (3 Credit Hours)
+Introduction to basic topics in statistical analysis, including descriptive statistics and simple inferential statistics such as correlation, regression, t-tests, one-way analysis of variance, and chi-square.
+FOUN 812 Research Design and Analysis (3 Credit Hours)
+This course focuses on the application of advanced research design as it is applied in various educational disciplines. It provides an in-depth examination of quantitative research approaches, sampling techniques, threats to validity, ethical considerations and reviewing, writing quantitative methodology descriptions for research proposals and reports.
+FOUN 813 Program Evaluation in Education (3 Credit Hours)
+Examines procedures and problems in the design and utilization of program evaluation in education. Identifies evaluation purposes and the methods of evaluation especially as affected by organizational behavior, ethical considerations, and political influences. Evaluation methodology includes, but is not limited to, design considerations, data utilization, and teacher evaluation. Both quantitative and qualitative strategies will be covered.
+FOUN 816 Single Subject Research Designs (3 Credit Hours)
+This course is designed to provide the student knowledge and skills that relate to single subject methodology.  It includes an overview of historical and philosophical foundations, basic issues in behavioral assessment, and single subject research and design methodology, including trend and statistical analysis in single subject research.  Students will analyze critically empirical research and be able to plan, implement, and evaluate original research.
+FOUN 818 Analysis with Large Datasets (3 Credit Hours)
+This course concentrates on sample designs, design-based estimation/inference, data preparation, and analysis of complex survey data in education.
+Prerequisites: FOUN 822
+FOUN 822 Applied Linear Models in Educational Research (3 Credit Hours)
+Introduction to the general linear model with emphasis on concepts and applications of multiple linear regression (MLR) to problems in educational research.  Topics include estimation and interpretation of MLR models, relationships between MLR and analysis of variance (ANOVA), logistic regression analysis, and trend analysis.
+Prerequisites: FOUN 722
+FOUN 823 Analysis of Variance Applied to Educational Research (3 Credit Hours)
+Introduction of analysis of variance models as applied in education and human services, including two-way and three-way factorial designs, analysis of covariance, repeated-measures, and mixed-model analysis.
+Prerequisites: FOUN 722
+FOUN 824 Design and Analysis for Causal Inference in Educational Contexts (3 Credit Hours)
+Introduction to research design and statistical analysis for studies intended to support causal inferences.  Topics include experimental, quasi-experimental, and ex post facto design and appropriate models for data analysis.
+Prerequisites: FOUN 822 and FOUN 823 or permission of instructor
+FOUN 825 Applied Multilevel Modeling in Educational Research (3 Credit Hours)
+This course focuses on advanced applications of statistics that are used in educational research in various educational disciplines.  Specifically, the course will offer an introduction to hierarchical linear modeling (HLM) of nested data as applied to education.  Topics include conceptual and statistical background of two- and three-level designs, cross-level interaction effects, and application of multilevel models for repeated measures designs.  Emphasis is on estimation, interpretation, and diagnostics for multilevel models of continuous outcomes.
+Prerequisites: FOUN 822 and FOUN 823 or instructor permission
+FOUN 826 Applied Structural Equation Modeling in Educational Research (3 Credit Hours)
+Introduction to structural equation modeling and related multivariate procedures applied to research problems in education. Topics include a brief review of exploratory factor analysis, confirmatory (structural) factor analysis, path analysis, and structural equation modeling with observed and latent variables.
+Prerequisites: FOUN 822 and FOUN 823 or permission of instructor
+FOUN 827 Applied Logistic Regression (3 Credit Hours)
+A practical and conceptual introduction to applying logistic and probit regression models to typical questions in the social sciences.  Will utilize SPSS for practical applications covering simple and multiple regression models, interactions and curvilinear effects, multinomial models, testing of assumptions, and select advanced applications such as propensity score matching and missing data analysis.
+Prerequisites: FOUN 822 and FOUN 823 or permission of instructor
+FOUN 830 Theories of Learning and Instruction (3 Credit Hours)
+The course consists of critical discussion and analysis of major learning theories that have influenced learning and instruction in today's schools.  Applications of current research to instructional design will be emphasized.
+FOUN 831 Human Development in Education (3 Credit Hours)
+This course introduces the domain of human development to education students by promoting their construction of a developmental perspective and adoption of a developmental theory to understand education-relevant phenomena. The course will cover central tenets of the developmental psychological perspective, several contemporary developmental approaches, and contexts of development relevant to educational processes. Furthermore, the course aims to promote students' skills in pursuing scientific knowledge about educational topics of interest in human development. The course will address life-span processes; however, the primary emphasis will be on processes and ages associated with formal educational settings (K-16).
+Prerequisites: FOUN 830
+FOUN 835 Motivation in Education (3 Credit Hours)
+The course consists of critical discussion and analysis of major theories of motivation and research supporting these theories. Applications to education and classroom instruction will be emphasized. Equity concerns related to how to motivate students placed at risk will also be examined.
+FOUN 836 Metacognition and Self-Regulated Learning (3 Credit Hours)
+The course consists of critical discussion and analysis of major theories and research on metacognition and self-regulated learning. Applications to education and classroom instruction will be emphasized. Strategies to promote self-regulated learning among diverse and at-risk students will also be examined.
+FOUN 840 Educational Measurement and Assessment (3 Credit Hours)
+Overview of advanced educational measurement and assessment ideologies as well as methods. Students will identify, critique, construct and administer educational measures. Psychometric topics such as reliability and validity will be explored as well as advanced assessment issues such as scale construction and item response theory.
+FOUN 848 Assessment and Evaluation in Content Areas (3 Credit Hours)
+Lecture 3 hours, 3 credits.
+FOUN 850 Sociological and Philosophical Foundations of Education (3 Credit Hours)
+Students examine the relationship between education and society by reviewing a variety of theoretical perspectives and empirical studies. Topics include: social mobility and stratification; social reproduction; the dynamics of race, class, and gender in education; social capital; the student-teacher relationship; teaching as a profession; and higher education.
+FOUN 867 Teaching and Research Practicum (3 Credit Hours)
+Advanced graduate students in the Ph.D. Educational Psychology, Research and Evaluation program or other Ph.D. programs will have the opportunity to participate in research, consulting, an internship, or assisting in teaching research and statistics courses.
+Prerequisites: FOUN 822 and FOUN 823
+FOUN 869 Teaching Statistics Practicum (3 Credit Hours)
+Advanced graduate students in the Ph.D. Educational Research, Evaluation and Educational Psychology concentration or other Ph.D. concentrations will have the opportunity to participate in research, consulting, internship, or assisting in teaching research methods and statistics courses.
+Prerequisites: FOUN 822 and FOUN 823
+FOUN 870 Formative Assessment of Student Learning (3 Credit Hours)
+Educators in various leadership and instructional roles need strong skills and knowledge in contemporary assessment of student learning. This course addresses a wide range of student assessment topics which makes connections among assessment practices, self-regulated learning, motivation, feedback, and engagement at the classroom and school levels. Students will learn how to develop, build and sustain formative assessment programs.
+FOUN 881 Dissertation Seminar (3 Credit Hours)
+Instructor approval required. The primary goal of the course is to develop a dissertation proposal. It is intended for doctoral students who have completed all other coursework. The course covers literature reviews, proposal writing, and obtaining approval from Human Subjects committees. Outlets for disseminating the research findings will be explored.
+Prerequisites: FOUN 812 , FOUN 814 and FOUN 822 or FOUN 823
+FOUN 895 Special Topics in Educational Psychology and Program Evaluation (3 Credit Hours)
+Study of selected topics in Educational Psychology and/or Program Evaluation.
+FOUN 897 Independent Study (1-3 Credit Hours)
+This course will be used for independent studies with Educational Psychology and Program Evaluation faculty members.
+FOUN 899 Dissertation (1-12 Credit Hours)
+Dissertation credit.
+FOUN 999 Doctoral Graduate Credit (1 Credit Hour)
+This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.
+Instructional Design and Technology (IDT)
+IDT 617 Foundations of Instructional Technology (3 Credit Hours)
+Required introductory overview to the field of instructional technology.  Topics include a history of the field, basic instructional design, generally accepted theoretical practices and major formats of instructional media.  Emphasis is given to instructional technology trends as applied to various industries, including K-12, military, industry training, and others.
+IDT 630 Foundations of Human Performance Technology (3 Credit Hours)
+This course will introduce students to the field of Human Performance Technology (HPT). Students will explore what HPT is, why instructional designers should know about it, how performance improvements can be measured, and most critically, how it can be applied in real environments to solve real problems. Students will gain practice in thinking systematically about performance, and they will enhance their value as instructional design professionals by being able to offer solutions to organizational needs that go beyond traditional instruction.
+IDT 647 Online Learning (3 Credit Hours)
+This course is an applied survey on online instruction, including relevant online learning theory and design considerations, as well as tools and principles, with an emphasis on K-12 education. Topics include theories and principles of online learning, effectively identifying, locating, evaluating, preparing, and using educational technology as instructional resources in an online environment.
+IDT 725 Human Performance Assessment (3 Credit Hours)
+This course focuses on the theory, design, and evaluation of measurement instruments used to assess individual knowledge, performance, and attitudes.  Topics include fundamentals of measurement, reliability, validity, and instrument selection, construction, and use.  Students will develop and evaluate instruments for instructional and research purposes.
+Prerequisites: FOUN 722 or equivalent
+IDT 730 Principles and Practices of Human Performance Technology (3 Credit Hours)
+This course explores both the principles and practices of human performance technology, with roughly equal emphasis on both.  Students will learn what HPT is, how it's applied in practice, and how and why instructional designers need to know about it.  Particular emphasis is given to determining whether or not problems are best amenable to instructional solutions.
+IDT 735 Noninstructional Interventions (3 Credit Hours)
+This project-based course examines several different non-instructional interventions that can be used to promote performance improvement. Major methodologies common in the field will be explored as a class, and students will also be required to familiarize themselves with other methodologies of their choice. Emphasis will be on the following interventions: job analysis/work design, performance development, human resource development, organizational communication, organizational design and financial systems.
+IDT 737 Consulting Skills for Instructional Designers (3 Credit Hours)
+This project-based course is designed to develop and enhance the ability of instructional designers to work as partners and consultants to clients and superiors.  The focus is on consulting skills per se, and not any particular content.  All students will be required to do an individual consulting project, supervised by the instructor.
+IDT 739 Needs Analysis and Assessment (3 Credit Hours)
+This project-based class will focus on the process of doing a needs analysis and assessment, from start to finish.  Although theoretical considerations regarding needs analyses will be explored, the emphasis is on actually conducting the analysis.  Students will work in teams under the supervision of the instructor to conduct a needs analysis for an external client.
+IDT 746 Foundations of Distance Education (3 Credit Hours)
+An analysis of the trends, issues, and theories of distance education in education, business, and military applications.  Students will examine various distance education systems, policies and lessons from different perspectives.
+IDT 749 Instructional Systems Design (3 Credit Hours)
+Students will gain hands-on experience applying a theoretical understanding of instructional design and development to actual projects.  Students will learn and use the Instructional Systems Design Process from initial learner profile analysis to design and development through to evaluation.  Students will work individually and in teams to gain experience similar to real-world instructional design situations. Students will master the fundamental practices upon which the instructional design process is based.
+IDT 751 Computer-Based Multi-Media Design (3 Credit Hours)
+This course covers the theory, design, and evaluation of computer-based multimedia instruction.  Students will demonstrate a thorough understanding of instructional theory and design strategies for computer-based drills, tutorials, hypermedia, simulations, games, tools, open-ended learning environments, tests, and web-based instruction.  Class projects will center on the design and development of instruction utilizing at least two of these methodologies.
+Prerequisites: IDT 749 and IDT 849
+IDT 752 Diffusion and Adoption of Instructional Technology Innovations (3 Credit Hours)
+This course will explore theories, research, and strategies related to the diffusion and adoption of instructional technology innovations in education and training.  The course will explore why and how individuals, groups, and organizations adopt or fail to adopt an innovation or change.
+IDT 755 Theory and Design of Instructional Simulation (3 Credit Hours)
+This course focuses on learning theory, design and evaluation of instructional simulations and simulators. Topics include history, instructional design, validation, and integration of instructional simulations.
+IDT 756 Instructional Gaming: Theories and Practice (3 Credit Hours)
+Provides both a conceptual framework and experience in the design and development of instructional games.  The course introduces the student to the history, research, theory, and practice of instructional games.  Topics include discussions of relevant learning theories associated with instructional gaming, analysis and design of games and current research in instructional gaming.
+IDT 760 Cognition and Instructional Design (3 Credit Hours)
+Students will be introduced to the theoretical frameworks that form the basis of instructional systems theory and design.  Focus will be on learning theories, instructional psychology, and instructional system theory.  Recent developments in cognition, learning and instruction for educators will also be considered.  Topics include perspectives of behaviorism, social-historical constructivism, cognitive science, situated cognition, and cultural influences on cognition.
+IDT 761 Applied Instructional Design Tools (3 Credit Hours)
+Problem-based course in which students gain experience applying  knowledge from IDT 749 / IDT 849 to real-world instructional and instructional technology problems.  Project work is individual, paired, and in teams.  Students demonstrate mastery of the instructional design and development process through production of tools, technologies, media or materials that successfully resolve an instructional problem.  Focus is on rapid prototyping model.
+Prerequisites: IDT 749 or IDT 849
+IDT 763 Instructional Design Theory (3 Credit Hours)
+Students will investigate traditional and contemporary instructional design theories and models.  Behavioral, cognitive, generative, problem-based learning, and constructivist theories as well as cognitive hierarchies will be examined, compared, contrasted and applied to various instructional situations.
+IDT 764 Instructional Message Design (3 Credit Hours)
+This course is a study of the application of perceptual and learning principles to the design of instructional media for use in educational and training applications.  The focus is on the development and application of heuristics from the research literature.  We will examine verbal and iconic signs as well as visual imagery, and their role in the instructional and learning processes.
+IDT 773 Advanced Instructional Design Techniques (3 Credit Hours)
+Exploration and application of techniques, tools and competencies characteristic of expert designers.  Topics may include: instructional strategies, use of design software, program design, advanced analysis techniques, motivation design, rapid prototyping, reducing design cycle time, and designing instruction for diverse learner populations.
+Prerequisites: IDT 749 / IDT 849
+IDT 775 Designing Online Instruction (3 Credit Hours)
+An applied survey of online instruction, including relevant theory and design considerations.  Topics include efficacy of online learning, design considerations when using course management systems and similar online learning technologies, research and future directions.
+IDT 795 Topics in Instructional Design and Technology (1-3 Credit Hours)
+Provides opportunities for master’s and doctoral students to explore topics related to instructional design.
+IDT 801 Instructional Design and Technology Seminar (3 Credit Hours)
+Introduces new Ph.D. students to the field of instructional design and technology and provides orientation to doctoral level study.  The course includes reading, critiquing and analyzing empirical research, theories, and real-world instructional problems.  Potential student research agendas consistent with faculty or programmatic research foci will be explored.  Academic and technological expectations will be communicated and practiced.
+IDT 810 Trends and Issues in Instructional Design and Technology (3 Credit Hours)
+Exploration and discussion of trends and issues of current and historical significance to instructional design.  Readings will include contributions of key scholars, past and present, in instructional design and related fields.  Includes analysis of trends and issues to track and predict their impact on the future of the field.
+Prerequisites: 9 hours IDT coursework
+IDT 825 Human Performance Assessment (3 Credit Hours)
+This course focuses on the theory, design, and evaluation of measurement instruments used to assess individual knowledge, performance, and attitudes.  Topics include fundamentals of measurement, reliability, validity, and instrument selection, construction, and use.  Students will develop and evaluate instruments for instructional and research purposes.
+Prerequisites: FOUN 722 or equivalent
+IDT 830 Principles and Practices of Human Performance Technology (3 Credit Hours)
+This course explores both the principles and practices of human performance technology, with roughly equal emphasis on both.  Students will learn what HPT is, how it's applied in practice, and how and why instructional designers need to know about it.  Particular emphasis is given to determining whether or not problems are best amenable to instructional solutions.
+IDT 835 Noninstructional Interventions (3 Credit Hours)
+This project-based course examines several different non-instructional interventions that can be used to promote performance improvement. Major methodologies common in the field will be explored as a class, and students will also be required to familiarize themselves with other methodologies of their choice. Emphasis will be on the following interventions: job analysis/work design, performance development, human resource development, organizational communication, organizational design and financial systems.
+IDT 837 Consulting Skills for Instructional Designers (3 Credit Hours)
+This project-based course is designed to develop and enhance the ability of instructional designers to work as partners and consultants to clients and superiors.  The focus is on consulting skills per se, and not any particular content.  All students will be required to do an individual consulting project, supervised by the instructor.
+IDT 839 Needs Analysis and Assessment (3 Credit Hours)
+This project-based class will focus on the process of doing a needs analysis and assessment, from start to finish.  Although theoretical considerations regarding needs analyses will be explored, the emphasis is on actually conducting the analysis.  Students will work in teams under the supervision of the instructor to conduct a needs analysis for an external client.
+IDT 846 Foundations of Distance Education (3 Credit Hours)
+An analysis of the trends, issues, and theories of distance education in education, business, and military applications.  Students will examine various distance education systems, policies and lessons from different perspectives.
+IDT 849 Instructional Systems Design (3 Credit Hours)
+Students will gain hands-on experience applying a theoretical understanding of instructional design and development to actual projects.  Students will learn and use the Instructional Systems Design Process from initial learner profile analysis to design and development through to evaluation.  Students will work individually and in teams to gain experience similar to real-world instructional design situations. Students will master the fundamental practices upon which the instructional design process is based.
+IDT 851 Computer-Based Multi-Media Design (3 Credit Hours)
+This course covers the theory, design, and evaluation of computer-based multimedia instruction.  Students will demonstrate a thorough understanding of instructional theory and design strategies for computer-based drills, tutorials, hypermedia, simulations, games, tools, open-ended learning environments, tests, and web-based instruction.  Class projects will center on the design and development of instruction utilizing at least two of these methodologies.
+Prerequisites: IDT 749 and IDT 849
+IDT 852 Diffusion and Adoption of Instructional Technology Innovations (3 Credit Hours)
+This course will explore theories, research, and strategies related to the diffusion and adoption of instructional technology innovations in education and training.  The course will explore why and how individuals, groups, and organizations adopt or fail to adopt an innovation or change.
+IDT 855 Theory and Design of Instructional Simulation (3 Credit Hours)
+This course focuses on learning theory, design and evaluation of instructional simulations and simulators. Topics include history, instructional design, validation, and integration of instructional simulations.
+IDT 856 Instructional Gaming: Theories and Practice (3 Credit Hours)
+Provides both a conceptual framework and experience in the design and development of instructional games.  The course introduces the student to the history, research, theory, and practice of instructional games.  Topics include discussions of relevant learning theories associated with instructional gaming, analysis and design of games and current research in instructional gaming.
+IDT 860 Cognition and Instructional Design (3 Credit Hours)
+Students will be introduced to the theoretical frameworks that form the basis of instructional systems theory and design.  Focus will be on learning theories, instructional psychology, and instructional system theory.  Recent developments in cognition, learning and instruction for educators will also be considered.  Topics include perspectives of behaviorism, social-historical constructivism, cognitive science, situated cognition, and cultural influences on cognition.
+IDT 861 Applied Instructional Design Tools (3 Credit Hours)
+Problem-based course in which students gain experience applying  knowledge from IDT 749 / IDT 849 to real-world instructional and instructional technology problems.  Project work is individual, paired, and in teams.  Students demonstrate mastery of the instructional design and development process through production of tools, technologies, media or materials that successfully resolve an instructional problem.  Focus is on rapid prototyping model.
+Prerequisites: IDT 749 or IDT 849
+IDT 863 Instructional Design Theory (3 Credit Hours)
+Students will investigate traditional and contemporary instructional design theories and models.  Behavioral, cognitive, generative, problem-based learning, and constructivist theories as well as cognitive hierarchies will be examined, compared, contrasted and applied to various instructional situations.
+IDT 864 Instructional Message Design (3 Credit Hours)
+This course is a study of the application of perceptual and learning principles to the design of instructional media for use in educational and training applications.  The focus is on the development and application of heuristics from the research literature.  We will examine verbal and iconic signs as well as visual imagery, and their role in the instructional and learning processes.
+IDT 873 Advanced Instructional Design Techniques (3 Credit Hours)
+Exploration and application of techniques, tools and competencies characteristic of expert designers.  Topics may include: instructional strategies, use of design software, program design, advanced analysis techniques, motivation design, rapid prototyping, reducing design cycle time, and designing instruction for diverse learner populations.
+Prerequisites: IDT 749 / IDT 849
+IDT 875 Designing Online Instruction (3 Credit Hours)
+An applied survey of online instruction, including relevant theory and design considerations.  Topics include efficacy of online learning, design considerations when using course management systems and similar online learning technologies, research and future directions.
+IDT 879 Research Residency in Instructional Design and Technology (3 Credit Hours)
+An introduction to conducting instructional technology research.  Students will work in consultation with their advisor to develop a proposal for a study related to instructional technology as part of their research residency that will be submitted for presentation at a nationally refereed conference or to a refereed journal.
+IDT 895 Topics in Instructional Design and Technology (3 Credit Hours)
+Provides opportunities for master's and doctoral students to explore topics related to instructional design.
+IDT 898 Research Residency II (1-3 Credit Hours)
+A mentored research project by the student's advisor. Students work independently with their advisor to complete the research residency project. This course focuses on obtaining appropriate human subjects approval, collecting and analyzing data, and preparing a manuscript suitable for presentation or publication in nationally refereed journal or conference. Course may be repeated as needed, but only 3 hours may be counted toward degree requirements.
+Library Science (LIBS)
+LIBS 601 STEM Education and Maker Spaces in Libraries (3 Credit Hours)
+This course builds on current research and practice to strengthen candidates’ conceptual understanding of design-based STEM pedagogy. Through participation in activities and discussions, students will review concepts embedded within design-based, problem-based, project-based, and inquiry instruction and learning. This course will explore a synthesized overview of trends affecting STEM education and investigate makerspaces and making activities to support inquiry-driven, community engagement in information settings. Students will gain hands-on experience with digital and physical making toolkits and design maker experiences within library spaces.
+LIBS 602 Production of Instructional Materials (3 Credit Hours)
+Develops skills in preparing, evaluating, and presenting instructional materials and the use of those materials to promote higher-level thinking and enhance the learning environment. Includes elements of design, multimedia materials, and development of in-service activities. Hands-on practice in media production and dissemination.
+LIBS 603 Online Resources for Teaching (3 Credit Hours)
+Students will gain experience locating, evaluating, collecting, arranging, and disseminating content resources available as open educational resources to support learning and teaching. Issues surrounding open educational resources including copyright, licensing, access, and quality will be addressed. A primary focus will be on developing digital textbooks that may include websites, databases, current awareness experts, and digital field trips to support the delivery of instruction.
+LIBS 608 Foundations of Libraries and Information (3 Credit Hours)
+This course provides social, cultural, and historical perspectives on libraries and librarianship. The purpose, functions and processes of libraries and information are explored.  Current types of libraries and information agencies are explored.  Legal, ethical, advocacy, and economic policies, trends and positions are addressed.
+Prerequisites: Admission to the Master of Library and Information Studies Degree
+LIBS 609 History of Books and Libraries (3 Credit Hours)
+This course provides a historical perspective on books and libraries as social and cultural objects and spaces. Surveys the history of communication technologies from early history through current events and from stone tablets to electronic formats.
+LIBS 610 Preservation Management in Libraries and Archives (3 Credit Hours)
+An introduction to the principles and practice of preservation with an emphasis on the management of preservation activities. Includes physical and intellectual preservation of records and media and the history, kinds of materials and treatments, techniques and technologies, and digitization and digital records. Issues of storage, security, and disaster prevention and response will also be addressed.
+LIBS 611 Community Archiving (3 Credit Hours)
+All communities create historical records, and recent decades have brought a growing critical awareness of how existing social hierarchies influence the creation and maintenance of historical archives. Community archive projects locate the power to preserve and shape history, heritage, and memory in communities themselves. Through readings, discussion, and analysis, this course will introduce students to a range of issues relating to grassroots community archives, archives of community organizations, and what happens when larger institutions partner with communities and community organizations to create and maintain archives.
+Prerequisites: LIBS 608
+LIBS 612 Research Methods in Library and Information Studies (3 Credit Hours)
+This course will introduce students to theoretical and applied research design, methodologies, and evaluation of research in library and information science (LIS). The course will include a review of existing research, allowing students to evaluate and assess the potential value of literature and research findings through critical analysis. Basic qualitative and quantitative research protocols will be learned through this class.
+Pre- or corequisite: LIBS 608
+LIBS 614 Information Ethics (3 Credit Hours)
+Introduces the major theories and basic concepts of ethics. Historical and contemporary professional frameworks and positions will be analyzed in ethical contexts. Students will apply ethical principles to dilemmas and decision making in the information and library profession.
+Prerequisites: LIBS 608
+LIBS 615 Action Research for School Librarians (3 Credit Hours)
+This course explores action research in a school library. Students will examine the value and characteristics of educational action research and apply these ideas toward the development of an action research project. Topics include the evaluation of published action research projects, community-based assessment, data collection and analysis, and the design and development of a project conducted in a school library setting.
+LIBS 626 Web Archiving Theory, Practice, and Implications (3 Credit Hours)
+An interdisciplinary introduction to web archiving fundamentals including web crawling, collection development and summarization including planning, analyzing, and sharing collections. Includes a review of ethical and legal issues, trustworthiness, preservation, security, and cultural impact of web archiving.
+Prerequisites: This course is intended for computer science students with limited information studies skills, as well as information science studies students with limited computer science skills
+LIBS 642 Children’s Literature PREK-8 (3 Credit Hours)
+Students examine, evaluate, discuss, and use literature and related materials for children and young adolescents and explore strategies for introducing and using literature with children.
+Prerequisites: graduate standing
+LIBS 644 Literature and Media for Young Adults (3 Credit Hours)
+An exploration of the selection of literature and media for young adults (ages 12 - 18). Includes current trends and research in teens' social, physical and cultural development, teen interests and needs, and multiple literacies. Focus is on multiple formats, diverse learners, and strategies to promote reading for information, pleasure and lifelong learning.
+Prerequisites: Graduate standing
+LIBS 647 Reading and Literature for Adults (3 Credit Hours)
+Survey of trends and selection tools in literature and reading for adult library patrons including popular fiction and non-fiction genres in multiple formats and across life stages in adulthood.  Strategies will include reader’s advisory, book clubs, and other programming to meet the diverse needs and interests of adult readers.
+LIBS 648 Reading, Evaluating, and Selecting Graphic Novels (3 Credit Hours)
+This course explores the use, selection and evaluation of literature and media that use sequential art to tell stories in a visual format: comics, webcomics, graphic novels, and more. The course will include the history of the sequential art format; an exploration of reading through a variety of  graphics, text and media; and a survey of current and historical titles for all ages. Students will explore resources for selecting and evaluating materials in graphic format as well as specific applications for graphic materials in classrooms and libraries.
+LIBS 649 Storytelling (3 Credit Hours)
+Explores storytelling for the purpose of informing, entertaining and/or educating in an information setting. This course introduces narrative structure and technique using a variety of different media. Storytelling strategies help students gain communication skills and practice. Students will explore the potential use of storytelling for a variety of age groups, from preschool through adults, and for special audiences.
+LIBS 653 User Centered Design in Library and Information (3 Credit Hours)
+This course introduces current and future information professionals to user-centered design in library and information studies. Students learn how to conduct research with users, gather users' requirements, and develop intuitive, user-friendly interfaces (e.g., software, mobile applications). Theories and techniques for engaging users and designing user-centered interfaces are learned and applied.
+Prerequisites: LIBS 608
+LIBS 654 Information Literacy Instruction (3 Credit Hours)
+Students will develop expertise in the delivery of in-person and online information literacy and research instruction in library and information contexts through an exploration of various information literacy models, standards, and theories. Students will gain practical experience in planning, implementing, and assessing library instruction and digital learning objects through a variety of delivery methods.
+LIBS 655 Methods and Strategies for the School Library (1-3 Credit Hours)
+Participants will draw from research-based theory of pedagogical best practice to discuss, model and apply practical applications to content topics. Content focuses on strategies to implement effective classroom management for the library learning environment, engage library learners and assess their performance, and build collaborative relationships that integrates library and content instruction into practice.
+LIBS 656 User Services and Programming (3 Credit Hours)
+An overview of the planning, evaluation, and administration of programs and services designed to meet the needs and interests of individuals and groups in libraries and other information spaces.
+LIBS 657 LGBTQIA+ Issues in Public Libraries (3 Credit Hours)
+The populations served by public libraries are varied and diverse, and they require resources that will address these diverse needs. Budgetary and political concerns, among other things, often restrict the ability of libraries to fulfill the needs of 'invisible populations,' or groups whose minority status is not readily or visually apparent, such as the lesbian, gay, bisexual, transgender, queer, intersex, asexual plus (LGBTQIA+) community. This course is designed to bring particular issues the LGBTQIA+ community may have in relation to public libraries to the forefront and provide students with the tools to address these issues in the field.
+LIBS 658 Knowledge Resources: Planning, Selecting & Managing Collections (3 Credit Hours)
+Examines the concepts and issues related to the lifecycle of recorded knowledge and information including emerging technologies. Addresses fundamentals of planning, selecting, analyzing, managing, and developing collections and technology resources for diverse communities.
+Pre- or corequisite: LIBS 608
+LIBS 668 Internship in Libraries and Information Workplaces (1-9 Credit Hours)
+Students will work in a library or related workplace, fully participating in the day-to-day operations including administrative tasks, instruction, and/or other programming and services.  Students taking this course for school library endorsement may have additional requirements/prerequisites.
+Prerequisites: LIBS 608 , LIBS 658 , LIBS 677 , and LIBS 674
+LIBS 669 Internship in School Libraries (3-6 Credit Hours)
+Students will work in a school library setting, participating fully in the administrative tasks, collaborative planning with teaching peers, and preparation and delivery of instructional lessons. This course is for students who are already licensed teachers or who are seeking initial licensure in school librarianship.
+Prerequisites: LIBS 602 , LIBS 608 , LIBY 642, LIBS 644 , LIBS 658 , LIBS 674 , LIBS 676 , OR LIBS 677
+LIBS 674 Library Management and Leadership (3 Credit Hours)
+An examination of the critical issues concerning the leadership and management of a library. Students will explore the issues involved in building library programs to include considerations of physical space, budgetary decisions, and personnel.
+Pre- or corequisite: LIBS 608
+LIBS 676 Library Media Services and the Curriculum (3 Credit Hours)
+Emphasis is on library services/ programs and the curriculum of the school.  Includes techniques for curriculum design and development, information skills instruction, instructional partnerships, advocacy, implementation of an integrated library-media instructional program and public relations programs.
+Prerequisites: Admittance to the MLIS with School Library Concentration
+Pre- or corequisite: LIBS 608 , LIBS 658 , LIBS 674 , LIBS 677 , and LIBS 602
+LIBS 677 Knowledge Organization and Access (3 Credit Hours)
+Describes the fundamentals whereby library materials are uniformly described and made available through recognized cataloging, processing, organizing and accessing of materials. In this course, students will develop the ability to apply and adapt the principles of classifying and cataloging, and will understand how these fundamental skills fit into the broader area of technical processing and how they support the principles of services in the library.
+Pre- or corequisite: LIBS 608
+LIBS 679 Theory and Management of Reference and Information Retrieval (3 Credit Hours)
+Students will explore database structures, search algorithms, indexing principles, and user interfaces for information search and retrieval. Current issues in the evaluation, acquisitions and management of databases and other information resources will be addressed.  Includes advanced strategies for effective information search and educating and assisting users in search techniques and evaluation.
+Prerequisites: LIBS 677
+LIBS 680 Culturally Responsive Librarianship (3 Credit Hours)
+This course provides thought-provoking background and practical suggestions for engaging with a diverse population. Participants explore their own assumptions about race, class, and culture and learn strategies for creating environments and an open dialog that are culturally inviting to all.
+LIBS 681 Assessment and Evaluation in Library and Information Science (3 Credit Hours)
+Students will explore assessment and evaluation related to library and information contexts with particular attention to historical and current theories and values, relevant standards, and current initiatives and measures. Students will design an evaluation of a current library service or resource that is connected to library goals and objectives with a presentation to effectively communicate data to various stakeholders.
+Prerequisites: LIBS 608
+LIBS 684 Advanced Library Management (3 Credit Hours)
+Reviews the advanced knowledge and competencies required for the senior administration level of all types of libraries and library systems. Competencies include budgeting and analysis, project management, human resources, and the development of library reporting and advocacy materials.
+Prerequisites: LIBS 674
+LIBS 687 Cataloging and Classification (3 Credit Hours)
+Cataloging and metadata principles introduced in LIBS 677 are further developed and applied in this course.  Students will apply principles of bibliographic description, subject analysis, and classification to a variety of formats including multimedia, serials, and online resources. The course will address systems, technology and trends in cataloging and metadata environments.
+Prerequisites: LIBS 677 or instructor approval
+LIBS 690 Seminar in Academic Libraries (3 Credit Hours)
+Academic libraries are dynamic organizations, working to meet the needs of their users and stakeholders while supporting parent higher education institutions. This course examines the functions of the academic library within the higher education environment. A wide variety of topics are covered in this survey of the field, including a focus on the historical background, current trends, and future directions in academic librarianship.
+LIBS 691 Seminar in Public Libraries (3 Credit Hours)
+Students will gain an understanding of public libraries in the United States and their role within their communities. Topics covered include a historical background of public libraries, overviews of current trends, and future directions in public libraries. This course also explores public services, the roles and expectations of public librarianship as a career.
+LIBS 693 Seminar in Archives and Special Collections (3 Credit Hours)
+An introduction to the nature of archives and special collections. The course explores the history of special collections, archives, records, and cultural memory. Aspects of the profession including ethics, values, financial and legal responsibilities are included. Students will be introduced to the basic knowledge, tools, methods and practices associated with archival work.
+LIBS 694 Seminar in Social Justice in Library and Information Work (3 Credit Hours)
+In this seminar course, students will explore current social justice issues through an activist framework.  Historical and contemporary frameworks, positions and initiatives related to the library profession will be considered. The course will examine professional structures, documents, emerging frameworks and social actions as they relate to specific topics of social justice.
+LIBS 695 Topics in Library and Information Studies (1-3 Credit Hours)
+This course provides opportunities for graduate students to explore current topics, trends and issues related to libraries and information studies.
+LIBS 697 Independent Study in Library Science (1-3 Credit Hours)
+This course is an independent study of special topics in Library Science.
+Prerequisites: Instructor approval required
+LIBS 998 Master's Graduate Credit (1 Credit Hour)
+This course is a pass/fail course for master's students in their final semester. It may be taken to fulfill the registration requirement necessary for graduation.  All master's students are required to be registered for at least one graduate credit hour in the semester of their graduation.
+Search catalog

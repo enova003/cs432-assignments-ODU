@@ -1,0 +1,387 @@
+CHEM 103 Preparatory Chemistry (3 Credit Hours)
+An introductory course designed to acquaint the student with the basic principles of chemistry.
+Prerequisites: knowledge of basic algebra
+CHEM 105N Introductory Chemistry (3 Credit Hours)
+This course is the first part of a two-semester sequence of chemistry covering topics in general, organic, and biological chemistry.  In this part, an introduction to the principles of inorganic (general) chemistry is provided.  The topics to be covered include measurements, atoms and elements, compounds and their bonds, energy and matter, gases, solutions, acids and bases, chemical reactions and quantities, chemical equilibrium, and nuclear chemistry.  This course does not meet the prerequisite for CHEM 123N , and cannot be used toward the CHEM major or minor.  Students wishing to pursue advanced study in chemistry should take CHEM 121N , CHEM 122N , CHEM 123N , and CHEM 124N .  Credit for CHEM 105N is not allowed if a student has prior credit for CHEM 121N . CHEM 105N + CHEM 106N satisfy four credits of the University's Nature of Science general education requirement.
+Prerequisites: knowledge of basic algebra
+Corequisites: CHEM 106N
+CHEM 106N Introductory Chemistry Laboratory (1 Credit Hour)
+An introduction to common laboratory techniques and the process of science is provided. CHEM 105N + CHEM 106N satisfy four credits of the University's Nature of Science general education requirement.
+Pre- or corequisite: CHEM 105N
+CHEM 107N Introductory Organic and Biochemistry (3 Credit Hours)
+This course is the second part of a two-semester sequence of chemistry covering topics in general, organic, and biological chemistry.  In this part, an introduction to organic compounds and their role in biological systems is provided.  The topics to be covered include the structure, nomenclature, and reactivity of organic compounds, the structure and function of important biomolecules, and the chemistry of metabolic pathways.  This course does not meet the prerequisite for CHEM 211 , and cannot be used toward the CHEM major or minor.  Students wishing to pursue advanced study in chemistry should take CHEM 121N , CHEM 122N , CHEM 123N , and CHEM 124N . CHEM 107N + CHEM 108N satisfy four credits of the University's Nature of Science general education requirement.
+Prerequisites: CHEM 105N with a grade of C or better
+Corequisites: CHEM 108N
+CHEM 108N Introductory Organic and Biochemistry Laboratory (1 Credit Hour)
+Laboratory experiments involving organic compounds and biomolecules are performed. CHEM 107N + CHEM 108N satisfy four credits of the University's Nature of Science general education requirement.
+Prerequisites: CHEM 106N with a grade of C or better
+Pre- or corequisite: CHEM 107N
+CHEM 120 Foundations of Chemistry I Laboratory for Online Degree Programs (1 Credit Hour)
+In this course, students perform laboratory experiments to complement the topics presented in the companion lecture course, CHEM 121N . CHEM 121N + CHEM 120 does not satisfy the university's Nature of Science requirement. This is a distance learning course restricted to students in an online degree program.
+Pre- or corequisite: CHEM 121N
+CHEM 121N Foundations of Chemistry I Lecture (3 Credit Hours)
+This is the first of a two-course series, designed for science and engineering majors, that prepares the student for subsequent studies in molecular science and constitutes the foundation for all upper-level chemistry courses. Topics include the descriptive chemistry of selected elements, modern atomic and molecular structure, stoichiometry, thermochemistry, and gas laws. A student receiving credit for CHEM 121N cannot receive additional credit for CHEM 103 or CHEM 105N . CHEM 121N + CHEM 122N satisfy 4 credits of the University's Nature of Science general education requirement. Pre- or
+Prerequisites: MATH 102M or MATH 103M or higher with a grade of C or better  and a qualifying score on the Chemistry Placement Exam or successful completion of the Chemistry Placement online modules or CHEM 103 or CHEM 105N with a grade of C or better
+Corequisites: CHEM 122N or CHEM 120
+CHEM 122N Foundations of Chemistry I Laboratory (1 Credit Hour)
+Laboratory experiments are designed to complement the topics presented in the companion lecture course, CHEM 121N .  A student receiving credit for CHEM 122N cannot receive additional credit for CHEM 106N . CHEM 121N + CHEM 122N satisfy 4 credits of the University's Nature of Science general education requirement.
+Pre- or corequisite: CHEM 121N
+CHEM 123N Foundations of Chemistry II Lecture (3 Credit Hours)
+This is the second of a two-course series, designed for science majors, that prepares the student for subsequent studies in molecular science and constitutes the foundation for all upper-level chemistry courses.  Topics include states of matter, solutions, electrochemistry, thermodynamics, equilibria, and kinetics. CHEM 123N + CHEM 124N satisfy 4 credits of the University's Nature of Science general education requirement.
+Prerequisites: CHEM 121N with a grade of C or better
+CHEM 124N Foundations of Chemistry II Laboratory (1 Credit Hour)
+Laboratory experiments are designed to complement the topics in the companion lecture course, CHEM 123N . CHEM 123N + CHEM 124N satisfy 4 credits of the University's Nature of Science general education requirement.
+Pre- or corequisite: CHEM 123N
+CHEM 125 Foundations of Chemistry II Lab with Introduction to Chemical Research (2 Credit Hours)
+This course introduces students to foundational laboratory skills and research in the chemical sciences. Students will gain experience in experimental design and chemical research through a rotation in a faculty member's research lab.
+Prerequisites: CHEM 121N , CHEM 122N , and CHEM 160G with a grade of B or better AND a Chemistry or Biochemistry major
+Corequisites: CHEM 123N
+CHEM 160G Introduction to Chemistry and Biochemistry Research and Careers (3 Credit Hours)
+This course introduces students to information literacy and research in chemistry and biochemistry in the context of future career success. Students will develop skills in searching, evaluating, and citing information required for research projects. Potential career paths and strategies for student success will be investigated to establish a solid platform for development as a chemist or biochemist. Course activities will include field trips to and guest speakers from local industry.
+Pre- or corequisite: CHEM 103 or a Nature of Science (N) course
+CHEM 171T Influence of Polymers on Society (3 Credit Hours)
+In this course, the history of synthetic and natural polymers will be studied from their initial development to modern day. Through these studies, students will learn how polymers are produced, the properties of polymers, and the many application of polymers. Further, the impact these materials have on society will be examined in many different areas such as medicine, electronics, consumer goods and the environment.
+CHEM 173T Nutritional Biochemistry (3 Credit Hours)
+Students will explore the role biotechnology plays in understanding and advancing nutrition and the effects this has on human health, development and societies. The key biological molecules such as vitamins, amino acids, proteins, fats and carbohydrates and their nutritional functions will be discussed. Nutritional biochemistry as it relates to human development, medicine and the evolution of human species will be explored. Students will review present day nutritional issues such as popular diets, organic foods, farming practices and advances such as genetically modified foods.
+CHEM 175T Neurotechnology (3 Credit Hours)
+Neurotechnology is the technology used to understand (assessment neurotechnology) and moderate (intervention neurotechnology) brain chemistry with regards to various aspects of consciousness, thought, memory, perception, addiction and other higher order activities and disorders in the brain. From pharmaceutical drugs to brain scanning, the impact of neurotechnology affects nearly everyone either directly or indirectly - for example: drug use for depression, sleep, ADD, or neurotic behavior; cancer scanning; stroke rehabilitation; etc. This course will explore the basics of neurotechnology and its impact on human behavior and performance as well as broader impacts on society. Further, students will learn how neurotechnology is used to assess and intervene in the neurochemistry of the brain with a particular emphasis on addictive behavior and neurodegenerative disorders.
+CHEM 195 Selected Topics (1-3 Credit Hours)
+Selected laboratory or lecture topics designed for students who need to supplement a transfer course to fulfill a course requirement.
+Prerequisites: permission of the chief departmental advisor or chair of the department
+CHEM 197 Undergraduate Research Experience in Chemistry and Biochemistry (0 Credit Hours)
+Student participation in a supervised, undergraduate research experience for which credit will not apply to the degree.  Experience must be related to the student's major, minor or career area of interest.
+Prerequisites: permission of the instructor
+CHEM 211 Organic Chemistry I Lecture (3 Credit Hours)
+Introduction to organic compounds, isomerism and nomenclature, stereochemistry and conformational analysis, in depth mechanistic understanding of proton transfer reactions, substitution and elimination reactions, and addition to C=C bonds.
+Prerequisites: CHEM 123N with a grade of C or better
+CHEM 212 Organic Chemistry I Laboratory (2 Credit Hours)
+Experience is offered in fundamental laboratory techniques applicable to the characterization, separation and purification of various organic compounds including stereoisomers and introduction to organic reactions.
+Prerequisites: CHEM 124N or CHEM 125 with a grade of C or better
+Pre- or corequisite: CHEM 211 with a grade of C or better
+CHEM 213 Organic Chemistry II Lecture (3 Credit Hours)
+Chemistry of carbon compounds with in-depth treatments of reaction mechanisms, modern spectral techniques, and new synthetic methods to meet the needs of chemistry and biochemistry majors.
+Prerequisites: CHEM 211 with a grade of C or better
+CHEM 214 Organic Chemistry II Laboratory (2 Credit Hours)
+Experience is offered in synthetic,  separation, and analytical methods of organic chemistry.  Modern synthetic and spectroscopic techniques are introduced.
+Prerequisites: CHEM 212 with a grade of C or better
+Pre- or corequisite: CHEM 213 with a grade of C or better
+CHEM 216 Advanced Organic Chemistry Laboratory (2 Credit Hours)
+Experience is offered in advanced organic reactions and spectroscopic techniques. In addition, students will carry out a short, customized, research project in Organic Chemistry or Organic Materials.
+Prerequisites: CHEM 211 and CHEM 212 with a grade of C or better; approval by the course instructor or coordinator
+Pre- or corequisite: CHEM 213
+CHEM 321 Analytical Chemistry Lecture (3 Credit Hours)
+A study of the fundamental principles of quantitative chemical analysis including the application of principles of equilibria to analytical processes.  Emphasis is given to gravimetric and titrimetric methods as well as consideration of electrical, optical, and other methods of chemical analysis.
+Prerequisites: CHEM 123N and MATH 163 or MATH 205 with a grade of C or better
+CHEM 322 Analytical Chemistry Laboratory (2 Credit Hours)
+Statistical principles or measurements and error analysis are integrated with experiments designed to evaluate and refine techniques of fundamental measurements to a level of analytical competency.  These techniques are applied to the analysis of samples using gravimetric, titrimetric, electrical and optical methods.
+Prerequisites: CHEM 124N or CHEM 125 with a grade of C or better
+Pre- or corequisite: CHEM 321 or permission of the instructor
+CHEM 331 Physical Chemistry Lecture I (3 Credit Hours)
+Quantum chemistry, molecular structure, and spectroscopy.
+Prerequisites: CHEM 321 , CHEM 213 , MATH 212 and PHYS 231N - PHYS 232N with a grade of C or better
+CHEM 332W Experimental Physical Chemistry I (2 Credit Hours)
+A laboratory class focusing on a variety of physical chemical techniques. Topics may include electronic, vibrational (Raman) and NMR spectroscopies, calorimetry, viscosity, and atomic force microscopy. This is a writing intensive course, aiming to achieve an in-depth understanding of the physical principles underlying the techniques.
+Prerequisites: grade of C or better in ENGL 211C or ENGL 221C or ENGL 231C
+Pre- or corequisite: CHEM 331 with a grade of C or better
+CHEM 333 Physical Chemistry Lecture II (3 Credit Hours)
+Chemical thermodynamics of pure substances and solutions, chemical equilibrium, electrochemistry, chemical kinetics, and statistical thermodynamics.
+Prerequisites: CHEM 331 with a grade of C or better
+CHEM 334W Experimental Physical Chemistry II (2 Credit Hours)
+A laboratory class focusing on a variety of physical chemical techniques. Topics may include X-Ray Diffraction, Bomb Calorimetry, Thermal Gravimetric Analysis (TGA), Conductance of Solutions, and Polymer Physical Properties. This course may also include a team project that will incorporate many of the techniques learned in the physical chemistry lab sequence.  This project will introduce the students to working as a team to address a specific challenge such as one might encounter in an industrial or government laboratory setting.  This is a writing intensive course.
+Prerequisites: grade of C or better in ENGL 211C or ENGL 221C or ENGL 231C
+Pre- or corequisite: CHEM 332W and CHEM 333 with a grade of C or better
+CHEM 339T The Chemistry of the Environment (3 Credit Hours)
+This class explores the impact of chemical technologies on current environmental topics using basic chemical principles and the scientific method as standards for evaluating and understanding pressing environmental issues. Topics include global and ocean warming, air pollution, atmospheric ozone depletion, effects of enhanced UV light, acid rain and ocean acidification, toxic heavy metals, radioactivity and nuclear power plant disasters, indoor air quality and radon, water pollution, sewage and water treatment, drinking water quality, waste disposal and plastics, pesticides, and the food chain. The course will use math to a modest degree including basic Algebra. It is highly recommended that students have passed a college level algebra math class (e.g., MATH 102M or MATH 103M or higher) and one year of high school chemistry.
+Prerequisites: Any General Education Nature of Science (N) course
+CHEM 343T Science and Technology in Art (3 Credit Hours)
+This combined lecture and lab course will explore the chemical and physical properties of artists’ materials from pigments and binders to ceramics. Topics will include the nature of light and color, historical origins and development of pigments and artistic methods, synthesis of dyes and pigments, and the application of technology to art historical analysis. The course will include hands-on experience with modern laboratory equipment and field trips to local museums and conservation labs.
+Prerequisites: Completion of one Nature of Science general education course or permission of the instructor
+CHEM 351 Inorganic Chemistry (3 Credit Hours)
+This foundational course provides an introduction to inorganic chemistry.  Topics include periodic law, bonding theory, oxidation/reduction, acid/base theory, descriptive chemistry of the main group, an introduction to transition metal coordination chemistry, and human applications of inorganic chemistry.
+Prerequisites: Grade of C or better in CHEM 211
+CHEM 352 Inorganic Chemistry Laboratory (2 Credit Hours)
+Synthesis of metal and nonmetal inorganic compounds and organometallic compounds, their characterization by physical methods, and a study of their properties.
+Prerequisites: CHEM 124N or CHEM 125 and CHEM 211 each with a grade of C or better
+Pre- or corequisite: CHEM 351 with a grade of C or better
+CHEM 365 Undergraduate Teaching Experience (1-3 Credit Hours)
+Teaching experience in a chemistry classroom or laboratory setting under the direct supervision of the course instructor.  Available for Pass/Fail grading only.
+Prerequisites: junior standing and/or approval of the appropriate departmental coordinator
+CHEM 367 Cooperative Education (1-3 Credit Hours)
+May be repeated for credit.  Student participation for credit is based on the academic relevance of the work experience, criteria, and evaluative procedures as formally determined by the department and the Cooperative Education program prior to the semester in which the work experience is to take place.  Available for pass/fail grading only.  (qualifies as a CAP experience)
+Prerequisites: approval by the department and Cooperative Education/Career Development Services in accordance with the policy for granting credit for Cooperative Education programs
+CHEM 369 Chemistry Practicum (1-3 Credit Hours)
+A student may choose a coop, internship, research, or student teaching experience to gain out-of-class experience related to the major.
+Prerequisites: CHEM 331 / CHEM 332W (Chemistry major) or CHEM 441 / CHEM 442W (Biochemistry major) and the approval of the appropriate departmental coordinator
+CHEM 411/511 Natural Products Chemistry in the Carribean (4 Credit Hours)
+A bioinorganic and natural products course that entails the chemistry of the use of chromium, vanadium, and herbs in medicine and the use of tunicates as biomonitors of heavy metal pollution in Jamaica. This is a study abroad course intended for the Maymester term.
+Prerequisites: CHEM 211 and CHEM 212 with a C or better
+CHEM 415/515 Intermediate Organic Chemistry (3 Credit Hours)
+An in-depth look at organic reaction mechanisms, including polar, pericyclic, radical and organometallic reactions.
+Prerequisites: CHEM 211 - CHEM 213 with a grade of C or better
+CHEM 421/521 Instrumental Analysis Lecture (3 Credit Hours)
+Designed to be taken concurrently with CHEM 422 / CHEM 522 .  A study of the basic principles of spectroscopic, chromatographic, and electrochemical methods of quantitative chemical analysis.  Methods of chemical instrumentation are also included.
+Prerequisites: CHEM 321 , MATH 205 or MATH 211 , and PHYS 232N or PHYS 112N each with a grade of C or better
+CHEM 422/522 Instrumental Analysis Laboratory (3 Credit Hours)
+An intensive laboratory study of the principles of analytical chemistry.  Experiments in spectroscopic, chromatographic, and electrochemical methods are conducted to illustrate fundamental principles and to provide the opportunity to develop skills in the use of instrumentation for chemical measurement.
+Pre- or corequisite: CHEM 421
+CHEM 439/539 Introduction to Pharmaceutical Chemistry (3 Credit Hours)
+An introduction to the fundamental concepts of drug action including pharmacodynamics (effect of drugs on the body) and pharmacokinetics (ADME: absorption, distribution, metabolism and elimination) of drugs; an introduction to the process of new drug discovery and synthesis will also be taught.
+Prerequisites: CHEM 213 and CHEM 214 (or CHEM 216 ) with a grade of "C" or higher; CHEM 321 and CHEM 441 recommended
+CHEM 441/541 Biochemistry Lecture (3 Credit Hours)
+This course is a one-semester survey of the major molecular constituents, bioenergetics, enzymes, nucleic acid structure, and genetic information transfer pathways fundamental to biochemistry.
+Prerequisites: CHEM 211 with a grade of C or better
+CHEM 442W/542 Biochemistry Laboratory (4 Credit Hours)
+Principles and techniques of biochemical and immunological procedures involving protein characterization and isolation, enzymology, bioinformatics, and common molecular biology techniques for nucleic acids will be presented. This is a writing intensive course.
+Prerequisites: CHEM 214 with a grade of C or better and ENGL 211C or ENGL 221C or ENGL 231C with a grade of C or better
+Pre- or corequisite: CHEM 441 / CHEM 541 with a grade of C or better
+CHEM 443/543 Intermediate Biochemistry (3 Credit Hours)
+This course presents and in-depth study of protein structure, folding, and synthesis.  The major metabolic pathways will be studied in detail regarding thermodynamics and mechanism of regulation or control of individual enzymes and entire metabolic pathways.  Concepts of metabolic disease will be introduced and effects on integrated metabolism will be presented.
+Prerequisites: CHEM 441 / CHEM 541 with a grade of C or better or equivalent
+CHEM 449/549 Environmental Chemistry (3 Credit Hours)
+An overview of the natural chemical systems operating in the atmosphere, in the terrestrial environment (both water and soils), and in the oceans, and the potential effects that human activities may have on them. Specific topics include the origin and evolution of the earth and life, the chemistry of the atmosphere (including the ozone layer and greenhouse effect), the organic and inorganic components of soil and water, chemical weathering of rocks, metal complexation, biological processes in soil and water, and global-scale chemical processes.
+Prerequisites: CHEM 123N , CHEM 213 and CHEM 321 with a grade of C or higher or permission of the instructor
+CHEM 451/551 Advanced Inorganic Chemistry (3 Credit Hours)
+Theoretical aspects of modern inorganic chemistry:  bonding theories, stereochemistry, acid-base theories, coordination compounds, organometallic and bioinorganic compounds.
+Prerequisites: CHEM 351 with a grade of C or better
+CHEM 452/552 Advanced Inorganic Chemistry Laboratory (2 Credit Hours)
+Synthesis of metal and nonmetal inorganic compounds and organometallic  compounds, their characterization by modern physical methods, and a study of their properties.
+Prerequisites: CHEM 351 and CHEM 352
+CHEM 453/553 Essentials of Toxicology (3 Credit Hours)
+Fundamental principles of toxicology: dose-response relationship, toxicologic testing, chemical and biological factors influencing toxicity, organ toxicology, carcinogenesis, mutagenesis, teratogenesis.
+Prerequisites: CHEM 213 with a grade of C or higher
+CHEM 460/560 Frontiers in Nanoscience and Nanotechnology (1 Credit Hour)
+Nanotechnology presents unparalleled opportunities for advances in technology and medicine.  Simultaneously, nanotechnology presents new challenges to organisms and to our environment.  These undefined risk factors threaten to slow the development of new technologies and novel medical therapies.  This course will review: structure, synthesis and properties of key nanomaterials; key applications of nanomaterials in technology and medicine; and impacts of nanomaterials on plant and animal physiology and the environment more generally.  This course will be team-taught by faculty members in Biological Sciences, Chemistry and Biochemistry, and Engineering.
+Prerequisites: junior standing
+CHEM 468 Research Methods in Mathematics and Science (3 Credit Hours)
+Emphasizes the tools and techniques used to solve scientific problems.  Topics include use and design of experiments, use of statistics to interpret experimental results, mathematical modeling of scientific phenomena, and oral and written presentation of scientific results. Students will perform four independent inquiries, combining skills from mathematics and science to solve research problems. Required for Chemistry teaching licensure track; not available as upper-division elective in content area.
+Prerequisites: CHEM 331 , STEM 201 , and admission to the MonarchTeach program
+CHEM 485 Chemistry and Biochemistry Seminar (1 Credit Hour)
+The formal presentation of a chemical or biochemical topic before students and faculty.  Students will also take Major Field Test during this course.
+Prerequisites: Senior standing; restricted to chemistry and biochemistry majors
+Pre- or corequisite: CHEM 421 or CHEM 443
+CHEM 490 Senior Thesis I (1 Credit Hour)
+Part one of a two-semester thesis project involving literature research, development of scientific writing skills, and obtaining lab experience using a variety of techniques and equipment.  Each student will undertake a research experience under the supervision of a departmental faculty member.  A preliminary report of research findings is required at the end of the semester.
+Prerequisites: Chemistry or Biochemistry major; Senior standing; Cumulative GPA of 3.20 or higher
+CHEM 494 Entrepreneurship in Chemistry and Biochemistry (3 Credit Hours)
+A high level of economic activity and development for any industrialized nation has at its core a strong STEM component. Within this component, the fields of chemistry and biochemistry form one of the strongest inter-disciplinary links by providing an understanding of the processes and products at a molecular level. This course will allow students to combine their academic knowledge in chemistry and biochemistry with the needs of real-world businesses to formulate an economically viable business plan that encompasses a scientifically and economically sound proof-of-concept.
+Prerequisites: Junior standing
+CHEM 495/595 Selected Topics (1-3 Credit Hours)
+Study of selected topics.
+Prerequisites: permission of the instructor
+CHEM 497 Independent Study (1 Credit Hour)
+An opportunity is afforded students to undertake independent study or an original investigation under the direction of a faculty member.
+Prerequisites: course background appropriate to the proposed study project and approval of the department chair and the faculty/research advisor
+CHEM 498 Independent Study (2 Credit Hours)
+An opportunity is afforded students to undertake independent study or an original investigation under the direction of a faculty member.
+Prerequisites: course background appropriate to the proposed study project and approval of the department chair and the faculty/research advisor
+CHEM 499 Senior Thesis II (2 Credit Hours)
+Continuation of CHEM 490 .  The research culminates in a thesis that includes a literature review, description of methods, results and conclusions, and an oral presentation.
+Prerequisites: CHEM 490 and a cumulative GPA of 3.20 or better
+CHEM 511 Natural Products Chemistry in the Carribean (4 Credit Hours)
+A bioinorganic and natural products course that entails the chemistry of the use of chromium, vanadium, and herbs in medicine and the use of tunicates as biomonitors of heavy metal pollution in Jamaica. This is a study abroad course intended for the Maymester term.
+Prerequisites: CHEM 211 and CHEM 212 with a C or better
+CHEM 515 Intermediate Organic Chemistry (3 Credit Hours)
+An in-depth look at organic reaction mechanisms, including polar, pericyclic, radical and organometallic reactions.
+CHEM 521 Instrumental Analysis Lecture (3 Credit Hours)
+Designed to be taken concurrently with CHEM 522 .  A study of the basic principles of spectroscopic, chromatographic, and electrochemical methods of quantitative chemical analysis.  Methods of chemical instrumentation are also included.
+CHEM 522 Instrumental Analysis Laboratory (3 Credit Hours)
+An intensive laboratory study of the principles of analytical chemistry.  Experiments in spectroscopic, chromatographic, and electrochemical methods are conducted to illustrate fundamental principles and to provide the opportunity to develop skills in the use of instrumentation for chemical measurement.
+Pre- or corequisite: CHEM 521 with a grade of C or better
+CHEM 539 Introduction to Pharmaceutical Chemistry (3 Credit Hours)
+An introduction to the fundamental concepts of drug action including pharmacodynamics (effect of drugs on the body) and pharmacokinetics (ADME: absorption, distribution, metabolism and elimination) of drugs; an introduction to the process of new drug discovery and synthesis will also be taught.
+Prerequisites: CHEM 213 and CHEM 214 with a grade of "C" or better; CHEM 321 and CHEM 441 recommended
+CHEM 541 Biochemistry Lecture (3 Credit Hours)
+This course is a one-semester survey of the major molecular constituents, bioenergetics, enzymes, nucleic acid structure, and genetic information transfer pathways fundamental to biochemistry.
+CHEM 542 Biochemistry Laboratory (4 Credit Hours)
+Principles and techniques of biochemical and immunological procedures involving protein characterization and isolation, enzymology, bioinformatics, and common molecular biology techniques for nucleic acids will be presented. (This is a writing intensive course.)
+Pre- or corequisite: CHEM 541 with a grade of C or better
+CHEM 543 Intermediate Biochemistry (3 Credit Hours)
+This course presents and in-depth study of protein structure, folding, and synthesis.  The major metabolic pathways will be studied in detail regarding thermodynamics and mechanism of regulation or control of individual enzymes and entire metabolic pathways.  Concepts of metabolic disease will be introduced and effects on integrated metabolism will  be presented.
+Prerequisites: CHEM 541 with a grade of C or better or equivalent
+CHEM 549 Environmental Chemistry (3 Credit Hours)
+An overview of the natural chemical systems operating in the atmosphere, in the terrestrial environment (both water and soils), and in the oceans, and the potential effects that human activities may have on them. Specific topics include the origin and evolution of the earth and life, the chemistry of the atmosphere (including the ozone layer and greenhouse effect), the organic and inorganic components of soil and water, chemical weathering of rocks, metal complexation, biological processes in soil and water, and global-scale chemical processes.
+CHEM 551 Advanced Inorganic Chemistry (3 Credit Hours)
+Theoretical aspects of modern inorganic chemistry:  bonding theories, stereochemistry, acid-base theories, coordination compounds, organometallic and bioinorganic compounds.
+CHEM 552 Advanced Inorganic Chemistry Laboratory (2 Credit Hours)
+Advanced topics in inorganic synthesis.
+Prerequisites: CHEM 551 with a grade of C or better
+CHEM 553 Essentials of Toxicology (3 Credit Hours)
+Fundamental principles of toxicology: dose-response relationship, toxicologic testing, chemical and biological factors influencing toxicity, organ toxicology, carcinogenesis, mutagenesis, teratogenesis.
+CHEM 560 Frontiers in Nanoscience and Nanotechnology (1 Credit Hour)
+Nanotechnology presents unparalleled opportunities for advances in technology and medicine.  Simultaneously, nanotechnology presents new challenges to organisms and to our environment.  These undefined risk factors threaten to slow the development of new technologies and novel medical therapies.  This course will review: structure, synthesis and properties of key nanomaterials; key applications of nanomaterials in technology and medicine; and impacts of nanomaterials on plant and animal physiology and the environment more generally.  This course will be team-taught by faculty members in Biological Sciences, Chemistry and Biochemistry, and Engineering.
+CHEM 595 Selected Topics (1-3 Credit Hours)
+Study of selected topics.
+Prerequisites: permission of the instructor
+CHEM 669 In-Service Practicum (3-6 Credit Hours)
+6 credits; 50 hours per credit.  One semester of work experience in local hospital, forensic, or industrial laboratory.  Available for pass/fail grading only.
+Prerequisites: CHEM 631 632
+CHEM 670 Graduate Orientation (3 Credit Hours)
+An introduction to graduate studies in chemistry.  Topics include responsible conduct of research (RCR), grant writing skills, oral presentation of chemical research and methods for searching the chemical literature.  Attendance at departmental seminars is required.  Limited to first-year chemistry doctoral students.
+CHEM 685 Frontiers in Chemistry (1-3 Credit Hours)
+Topics representing the most recent advances in various fields of chemistry or ones which represent an interdisciplinary advancement.
+Prerequisites: permission of the department chair
+CHEM 695 Topics in Chemistry (1-3 Credit Hours)
+Study of selected topics in chemistry.
+Prerequisites: permission of the department chair
+CHEM 698 Master’s Research (1-9 Credit Hours)
+CHEM 699 Master’s Thesis (3 Credit Hours)
+Prerequisites: Departmental permission required
+CHEM 701 Advanced Analytical Chemistry (3 Credit Hours)
+The theoretical and practical foundation of analysis with emphasis on recent analytical developments and current literature; topics may include figures of merit and data treatment, sampling and extraction, HPLC, electrochemistry, circular dichroism, FT-IR, Raman, MS, electrophoresis and NMR.  Lectures are given by experts in those techniques.
+CHEM 702 Advanced Analytical Chemistry II (3 Credit Hours)
+This course will review the most cutting-edge advanced analytical chemistry instrumentation and methods, spanning three core areas of analytical chemistry (spectroscopy, separation, and electrochemistry) and offering an in-depth understanding of objectives, motivations, and future directions. The course will focus on advanced instrumentation and methodologies that can achieve ultra-sensitive analysis and detection, including single molecular spectroscopy, nanoparticle probes, high-speed separation in microfluidic devices, and ultramicroelectrodes for sensing and imaging.
+Prerequisites: Instrumental Analysis (or its equivalent)
+CHEM 703 Chromatographic Separations by HPLC and GC (3 Credit Hours)
+This course covers basic principles of  chromatography emphasizing high performance liquid chromatography (HPLC) and gas chromatography (GC), as well as separation modes, instrumentation, detection methods, quantification, and sample preparation including solid phase extraction.  Examples from environmental sciences, biosciences and industry will be stressed.
+CHEM 704 HPLC and GC Laboratory (2-3 Credit Hours)
+This lab course consists of six to seven independent HPLC and GC exercises based on examples from environmental, bioscience, and industrial applications.
+CHEM 715 Automation and Management of the Clinical Chemistry Laboratory (1 Credit Hour)
+The basic principles of management of the clinical chemistry laboratory and regulatory issues in laboratory management are presented.
+Prerequisites: permission of the instructor
+CHEM 716 Electrochemical Methods of Analysis (1-2 Credit Hours)
+This course presents the fundamental principals and practical applications of modern electrochemical methods of analysis. Lectures and text readings cover the basic concepts and fundamental principals of this division of analytical techniques.  Detailed descriptions and demonstrations of modern electrochemical research instrumentation will be provided.  Students will obtain hands-on experience with this instrumentation by performing a required chemical determination using an electroanalytical method, and by undertaking a special analytical project.  Research applications of other electroanalytical techniques and instrumentation, in addition to those actually used by the students in this course, will be discussed and/or demonstrated.
+CHEM 720 Experimental Design and Data Treatment (3 Credit Hours)
+A hands-on approach to experimental design and multivariate data analysis.  Modern computer-based chemometric theories will be presented.
+CHEM 723 Modern Synthetic Organic Chemistry (3 Credit Hours)
+An examination of the design of complex organic molecules and natural products. Topics covered will include: retrosynthetic analysis; stereochemical control; application of fundamental organic reactions to develop synthetic strategies; implementation of protecting groups in organic synthesis; construction of carbocyclic and heterocyclic ring systems, organometallic coupling reactions, and contemporary methods.
+Prerequisites: CHEM 728 or CHEM 828 or permission of the instructor
+CHEM 724 Bioinorganic Chemistry (3 Credit Hours)
+This course is a survey of the mechanisms of biochemical activity of the trace elements.  Topics include oxygen uptake, oxidation-reduction, metabolism, and toxicity.
+CHEM 725 Physical Organic Chemistry (3 Credit Hours)
+Approaches to the study of reaction mechanisms, including molecular orbital theory, thermochemistry, kinetics, isotop effects, solvent and substituent effects (including linear free energy relationships), acidity, acid catalysis, and detection of reactive intermediates.
+CHEM 726 Medicinal Chemistry (3 Credit Hours)
+Study of the chemistry and mode of action of various medicinal and physiologically active compounds.
+Prerequisites: CHEM 211 and CHEM 213 or one-year equivalent organic chemistry courses; CHEM 415 / CHEM 515 and CHEM 441 / CHEM 541 are helpful
+CHEM 728 Organic Reactions (3 Credit Hours)
+A comprehensive evaluation of modern organic transformations with emphasis on the fundamentals of each reaction, their utility and applications.  Topics covered will include: nomenclature, classes of compounds, functional group exchanges (oxidation and reduction reactions), bond forming reactions (carbon-carbon, carbon-oxygen, and carbon-nitrogen), introduction to protecting groups, and reaction control by steric, electronic and topological considerations.
+Prerequisites: CHEM 415 or CHEM 515 or equivalent or permission of the instructor
+CHEM 734 Organic Spectroscopy (3 Credit Hours)
+Organic functional group and structure analysis with ultraviolet, infrared, nuclear magnetic resonance, mass, and other spectroscopic techniques.
+CHEM 736 Introduction to Organic Synthesis (3 Credit Hours)
+Detailed coverage of fundamental organic transformations with emphasis on reduction, oxidation, carbon-carbon bond formation, and protecting group strategy.
+CHEM 738 Organometallics (3 Credit Hours)
+This course examines important transformations of organotransition-metal species. There is an emphasis on basic mechanism, structure-reactivity relationships, and applications in organic synthesis with applications of organotransition-metal catalysis towards industrial applications.
+CHEM 740 Coordination and Transition Metal Chemistry (3 Credit Hours)
+This course is based on the coordination and transition metal chemistry of first row, second row, and third row transition metals.
+Prerequisites: CHEM 351
+CHEM 742 Advanced Mass Spectroscopy (3 Credit Hours)
+This course trains students in the theory and application of advanced mass spectrometric methods as used in all subdisciplines of chemistry and biochemistry.
+CHEM 743 Organic Geochemistry (3 Credit Hours)
+Organic geochemistry is the study of organic compounds originally produced by photosynthesis and altered as they cycle through the soils, atmosphere, rivers, oceans, and crustal rocks.  This course will include the carbon/oxygen cycles, biomarkers, organic matter diagenesis/catagenesis, analytical techniques used in organic geochemistry, and an introduction to carbon isotopes.
+CHEM 744 NMR Spectroscopy (3 Credit Hours)
+NMR is a highly specific spectroscopic technique. It can probe the individual atoms in molecules via a limitless array of distinct experiments tailored to nearly every need. While NMR experiments can contain up to several hundred magnetic pulses, the effect of the pulses and therefore the utility of each experiment can be understood via a primarily visual approach. This course offers a visual-based approach to discuss spectrometer hardware, basic NMR theory, and a series of one, two and three-dimensional NMR experiments, with applications to small molecules, proteins, nucleic acids and their interactions.
+CHEM 747 Medical Biochemistry (3 Credit Hours)
+This course focuses on the applied biochemistry associated with human biological systems. Topics to be covered include the hormonal control of metabolism, vitamins, minerals, diagnostic tests; the biochemistry of the digestive system; connective tissue and bone; the immune system; the urinary system; and the nervous systems, among others. Exams involve answering United States Medical Licensing Exam type questions in some instances. Medical biochemistry case studies are presented and discussed in class that relate to the biochemical basis of disease to enhance the learning experience. Students will also write a research paper and give an in-class presentation on selected topics.
+Prerequisites: CHEM 541 and CHEM 543 (or) CHEM 765
+CHEM 748 Environmental Chemistry Laboratory (3 Credit Hours)
+Study of the basic principles and methods of trace chemical analysis of environmental systems, including spectroscopic, chromatographic, and electrochemical instrumental methods, in addition to wet chemical methods.
+CHEM 749 Environmental Chemistry (3 Credit Hours)
+An overview of the natural chemistry systems operating in the atmosphere, in the terrestrial environment (both water and soils), and in the oceans, and the potential effects that human activities may have on them.  Specific topics include the origin and evolution of the earth and life, the chemistry of the atmosphere (including the ozone layer and greenhouse effect), the organic and inorganic components of soil and water, chemical weathering of rocks, metal complexation, biological processes in soil and water, and global-scale chemical processes.
+CHEM 754 Quantum Chemistry (3 Credit Hours)
+Overview of the development and application of quantum mechanics from a chemical perspective.
+CHEM 755 Computational Chemistry (3 Credit Hours)
+Comprehensive overview of ab initio (quantum) calculations and molecular dynamic simulations, the two most widely used computational methods.  Plus a brief overview of other computational applications in chemistry and biology.
+Prerequisites: CHEM 754 or permission of the instructor
+CHEM 756 Inorganic Reaction Mechanisms (3 Credit Hours)
+This course is a survey of the major mechanisms of inorganic and organometallic chemistry.  Topics include kinetics, ligand substitution, electron transfer, and photochemistry.
+CHEM 758 Atmospheric Chemistry (3 Credit Hours)
+An introductory survey of atmospheric chemistry and physics. Topics to be covered include atmospheric composition, atmospheric pressure, simple models, atmospheric transport, geochemical cycles, the greenhouse effect, aerosols, stratospheric ozone, the oxidizing power of the troposphere, ozone air pollution, satellite orbits, and radiative transfer. The course will also provide a survey of satellite remote sensing. It will conclude with the basics of satellite remote sensing, including a brief survey of satellite instruments.
+CHEM 760 Molecular Spectroscopy (3 Credit Hours)
+An introductory survey of the rotational, vibrational and electronic spectroscopy of molecules from the perspective of quantum mechanics and group theory.
+Prerequisites: CHEM 333
+CHEM 763 Mechanisms of Sensing and Signal Transduction (3 Credit Hours)
+Living organisms must sense and respond to changes in their environment, which requires perceiving extracellular stimuli and converting this information into tangible changes to intracellular function. Sensory and metabolic pathways must integrate stimuli from multiple signals to coordinate cell-wide or organism-wide responses, and signal transduction pathways must be considered in the context of the networks they comprise. Signal transduction networks are the very definition of ‘wholes’ that are greater and more complex than the sums of their parts. This course will have a dual focus on mechanisms of signal transduction, with an emphasis on macromolecular structure, and on network modeling.
+CHEM 765 Advanced Biochemistry (3 Credit Hours)
+This course will cover macromolecular structure, function, thermodynamic stability and folding kinetics; protein chemistry; molecular biology; and molecular mechanisms of disease and bioinformatics.
+CHEM 769 Nucleic Acids Biochemistry (3 Credit Hours)
+A comprehensive presentation of the chemistry of RNA and DNA, including modern concepts of gene regulation, the control over transcription, RNA processing and translation, cell cycle control and molecular carcinogenesis.
+CHEM 775 Physical Biochemistry (3 Credit Hours)
+This course will examine the physical characterization of macromolecules, polarized light, absorption and fluorescence, sedimentation and transport hydrodynamics, electrophoretic mobility, light scattering, and structural x-ray crystallography of proteins and nucleic acids.
+CHEM 779 Kinetics and Thermodynamics (3 Credit Hours)
+A survey of modern theories of reaction rates and mechanisms, classic  thermodynamic functions, and an introduction to statistical thermodynamics.
+CHEM 781 Protein Bioinformatics and Functional Genomics (3 Credit Hours)
+Students will learn cutting-edge bioinformatics and genomics approaches to gain an in depth understanding of genetic and protein evolution as it relates to genetic mutation and adaption and to protein structure, folding and function. The theory and computational skills needed to analyze protein, DNA and non-coding RNA sequences as well as protein structures will be taught and applied. Comparative genomics studies will be conducted, focusing on current topics such as viral outbreaks where students will elucidate functional variations leading to enhanced virulence in isolates during a pandemic such as Zika.
+CHEM 790 Master's Seminar (1 Credit Hour)
+Master's students attend seminars given by researchers from across the country in order to expose them to additional areas of research in chemistry and biochemistry.
+CHEM 791 Master's Seminar (2 Credit Hours)
+Master's students attend seminars, attend a class on giving seminars, and present a seminar on their own research.
+CHEM 795 Selected Topics in Chemistry and Biochemistry (3 Credit Hours)
+Thorough coverage of areas selected to meet special needs and interests.
+Prerequisites: permission of the instructor
+CHEM 801 Advanced Analytical Chemistry (3 Credit Hours)
+The theoretical and practical foundation of analysis with emphasis on recent analytical developments and current literature; topics may include figures of merit and data treatment, sampling and extraction, HPLC, electrochemistry, circular dichroism, FT-IR, Raman, MS, electrophoresis and NMR. Lectures are given by experts in those techniques.
+CHEM 802 Advanced Analytical Chemistry II (3 Credit Hours)
+This course will review the most cutting-edge advanced analytical chemistry instrumentation and methods, spanning three core areas of analytical chemistry (spectroscopy, separation, and electrochemistry) and offering an in-depth understanding of objectives, motivations, and future directions. The course will focus on advanced instrumentation and methodologies that can achieve ultra-sensitive analysis and detection, including single molecular spectroscopy, nanoparticle probes, high-speed separation in microfluidic devices, and ultramicroelectrodes for sensing and imaging.
+CHEM 816 Electrochemical Methods of Analysis (1-2 Credit Hours)
+This course presents the fundamental principals and practical applications of modern electrochemical methods of analysis. Lectures and text readings cover the basic concepts and fundamental principals of this division of analytical techniques.  Detailed descriptions and demonstrations of modern electrochemical research instrumentation will be provided.  Students will obtain hands-on experience with this instrumentation by performing a required chemical determination using an electroanalytical method, and by undertaking a special analytical project.  Research applications of other electroanalytical techniques and instrumentation, in addition to those actually used by the students in this course, will be discussed and/or demonstrated.
+CHEM 823 Modern Synthetic Organic Chemistry (3 Credit Hours)
+An examination of the design of complex organic molecules and natural products. Topics covered will include: retrosynthetic analysis; stereochemical control; application of fundamental organic reactions to develop synthetic strategies; implementation of protecting groups in organic synthesis; construction of carbocyclic and heterocyclic ring systems, organometallic coupling reactions, and contemporary methods
+Pre- or corequisite: CHEM 728 or CHEM 828 or permission of the instructor
+CHEM 824 Bioinorganic Chemistry (3 Credit Hours)
+This course is a survey of the mechanisms of biochemical activity of the trace elements.  Topics include oxygen uptake, oxidation-reduction, metabolism, and toxicity.
+CHEM 825 Physical Organic Chemistry (3 Credit Hours)
+Approaches to the study of reaction mechanisms, including molecular orbital theory, thermochemistry, kinetics, isotop effects, solvent and substituent effects (including linear free energy relationships), acidity, acid catalysis, and detection of reactive intermediates.
+CHEM 826 Medicinal Chemistry (3 Credit Hours)
+Study of the chemistry and mode of action of various medicinal and physiologically active compounds.
+CHEM 828 Organic Reactions (3 Credit Hours)
+A comprehensive evaluation of modern organic transformations with emphasis on the fundamentals of each reaction, their utility and applications. Topics covered will include: nomenclature, classes of compounds, functional group exchanges (oxidation and reduction reactions), bond forming reactions (carbon-carbon, carbon-oxygen, and carbon-nitrogen), introduction to protecting groups, and reaction control by steric, electronic and topological considerations
+Prerequisites: CHEM 415 or CHEM 515 or equivalent or permission of the instructor
+CHEM 834 Organic Spectroscopy (3 Credit Hours)
+Organic functional group and structure analysis with ultraviolet, infrared, nuclear magnetic resonance, mass, and other spectroscopic techniques.
+CHEM 836 Introduction to Organic Synthesis (3 Credit Hours)
+Detailed coverage of fundamental organic transformations with emphasis on reduction, oxidation, carbon-carbon bond formation, and protecting group strategy.
+CHEM 838 Organometallics (3 Credit Hours)
+This course examines important transformations of organotransition-metal species. There is an emphasis on basic mechanism, structure-reactivity relationships, and applications in organic synthesis with applications of organotransition-metal catalysis towards industrial applications.
+CHEM 840 Coordination and Transition Metal Chemistry (3 Credit Hours)
+This course examines the coordination and transition metal chemistry of first row, second row, and third row transition metals.
+CHEM 842 Advanced Mass Spectroscopy (3 Credit Hours)
+This course trains students in the theory and application of advanced mass spectrometric methods as used in all subdisciplines of chemistry and biochemistry.
+CHEM 843 Organic Geochemistry (3 Credit Hours)
+Organic geochemistry is the study of organic compounds originally produced by photosynthesis and altered as they cycle through the soils, atmosphere, rivers, oceans, and crustal rocks. This course will include the carbon/oxygen cycles, biomarkers, organic matter diagenesis/catagenesis, analytical techniques used in organic geochemistry, and an introduction to carbon isotopes.
+CHEM 844 NMR Spectroscopy (3 Credit Hours)
+NMR is a highly specific spectroscopic technique. It can probe the individual atoms in molecules via a limitless array of distinct experiments tailored to nearly every need. While NMR experiments can contain up to several hundred magnetic pulses, the effect of the pulses and therefore the utility of each experiment can be understood via a primarily visual approach. This course offers a visual-based approach to discuss spectrometer hardware, basic NMR theory, and a series of one, two and three-dimensional NMR experiments, with applications to small molecules, proteins, nucleic acids and their interactions.
+CHEM 847 Medical Biochemistry (3 Credit Hours)
+This course focuses on the applied biochemistry associated with human biological systems. Topics to be covered include the hormonal control of metabolism, vitamins, minerals, diagnostic tests; the biochemistry of the digestive system; connective tissue and bone; the immune system; the urinary system; and the nervous systems, among others. Exams involve answering United States Medical Licensing Exam type questions in some instances. Medical biochemistry case studies are presented and discussed in class that relate to the biochemical basis of disease to enhance the learning experience. Students will also write a research paper and give an in-class presentation on selected topics.
+CHEM 849 Environmental Chemistry (3 Credit Hours)
+An overview of the natural chemistry systems operating in the atmosphere, in the terrestrial environment (both water and soils), and in the oceans, and the potential effects that human activities may have on them. Specific topics include the origin and evolution of the earth and life, the chemistry of the atmosphere (including the ozone layer and greenhouse effect), the organic and inorganic components of soil and water, chemical weathering of rocks, metal complexation, biological processes in soil and water, and global-scale chemical processes.
+CHEM 854 Quantum Chemistry (3 Credit Hours)
+Overview of the development and application of quantum mechanics from a chemical perspective.
+CHEM 855 Computational Chemistry (3 Credit Hours)
+Comprehensive overview of ab initio (quantum) calculations and molecular dynamic simulations, the two most widely used computational methods. Plus a brief overview of other computational applications in chemistry and biology.
+CHEM 856 Inorganic Reaction Mechanisms (3 Credit Hours)
+This course is a survey of the major mechanisms of inorganic and organometallic chemistry.  Topics include kinetics, ligand substitution, electron transfer, and photochemistry.
+CHEM 858 Atmospheric Chemistry (3 Credit Hours)
+An introductory survey of atmospheric chemistry and physics. Topics to be covered include atmospheric composition, atmospheric pressure, simple models, atmospheric transport, geochemical cycles, the greenhouse effect, aerosols, stratospheric ozone, the oxidizing power of the troposphere, ozone air pollution, satellite orbits, and radiative transfer. The course will also provide a survey of satellite remote sensing. It will conclude with the basics of satellite remote sensing, including a brief survey of satellite instruments.
+CHEM 859 Statistical Thermodynamics in Chemistry (3 Credit Hours)
+An introduction to statistical mechanics from a chemical perspective. Topics to be covered include ensembles and postulates and their mathematical background; basic thermodynamics; distinguishable and indistinguishable systems; ideal monatomic gas; monatomic crystals; ideal diatomic gas; ideal polyatomic gas; chemical equilibrium; rates of chemical reactions; and quantum statistics.
+Prerequisites: Permission from department chair
+CHEM 860 Molecular Spectroscopy (3 Credit Hours)
+An introductory survey of the rotational, vibrational and electronic spectroscopy of molecules from the perspective of quantum mechanics and group theory.
+CHEM 863 Mechanisms in Sensing and Signal Transduction (3 Credit Hours)
+Living organisms must sense and respond to changes in their environment, which requires perceiving extracellular stimuli and converting this information into tangible changes to intracellular function. Sensory and metabolic pathways must integrate stimuli from multiple signals to coordinate cell-wide or organism-wide responses, and signal transduction pathways must be considered in the context of the networks they comprise. Signal transduction networks are the very definition of ‘wholes’ that are greater and more complex than the sums of their parts. This course will have a dual focus on mechanisms of signal transduction, with an emphasis on macromolecular structure, and on network modeling.
+CHEM 865 Advanced Biochemistry (3 Credit Hours)
+This course will cover macromolecular structure, function, thermodynamic stability and folding kinetics; protein chemistry; molecular biology; and molecular mechanisms of disease and bioinformatics.
+CHEM 868 Internship - Chemistry & Biochemistry (1 Credit Hour)
+This course is designed to provide individual students with advanced on-the-job professional experience. Internship assignments must be approved within the student's program of study. Direct supervision is given by an experienced professional at the internship site.
+CHEM 869 Nucleic Acids Biochemistry (3 Credit Hours)
+A comprehensive presentation of the chemistry of RNA and DNA, including modern concepts of gene regulation, the control over transcription, RNA processing and translation, cell cycle control and molecular carcinogenesis.
+CHEM 875 Physical Biochemistry (3 Credit Hours)
+This course will examine the physical characterization of macromolecules, polarized light, absorption and fluorescence, sedimentation and transport hydrodynamics, electrophoretic mobility, light scattering, and structural x-ray crystallography of proteins and nucleic acids.
+CHEM 879 Kinetics and Thermodynamics (3 Credit Hours)
+A survey of modern theories of reaction rates and mechanisms, classic thermodynamic functions, and an introduction to statistical thermodynamics.
+CHEM 881 Protein Bioinformatics and Functional Genomics (3 Credit Hours)
+Students will learn cutting-edge bioinformatics and genomics approaches to gain an in depth understanding of genetic and protein evolution as it relates to genetic mutation and adaption and to protein structure, folding and function. The theory and computational skills needed to analyze protein, DNA and non-coding RNA sequences as well as protein structures will be taught and applied. Comparative genomics studies will be conducted, focusing on current topics such as viral outbreaks where students will elucidate functional variations leading to enhanced virulence in isolates during a pandemic such as Zika.
+CHEM 890 Chemistry Seminar (1 Credit Hour)
+Students attend seminars given by researchers from across the country on order to expose them to additional areas of research in chemistry and biochemistry.
+CHEM 891 Doctoral Seminar (2 Credit Hours)
+Students attend seminars; attend a class on giving seminars; and present a seminar on their own research.
+CHEM 895 Selected Topics in Chemistry and Biochemistry (3 Credit Hours)
+Thorough coverage of areas selected to meet special needs and interests.
+Prerequisites: permission of the instructor
+CHEM 898 Doctoral Research (1-9 Credit Hours)
+CHEM 899 Dissertation (1-9 Credit Hours)
+CHEM 998 Master's Graduate Credit (1 Credit Hour)
+This course is a pass/fail course for master's students in their final semester. It may be taken to fulfill the registration requirement necessary for graduation.  All master's students are required to be registered for at least one graduate credit hour in the semester of their graduation.
+CHEM 999 Doctoral Graduate Credit (1 Credit Hour)
+This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.
+Search catalog

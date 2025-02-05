@@ -1,0 +1,10 @@
+Leo Online is ODU's student and employee information system. It contains your official record, including personal information, grades, transcripts, employee payroll information and more.
+Logging In
+Enter the secure area at leoonline.odu.edu and log in with your MIDAS ID and password.
+If you have not yet created a MIDAS account, go to midas.odu.edu and click on Need an account?
+Faculty/Staff
+Leo Online contains your official financial information, including payroll and timesheets. Faculty will also use Leo to enter their students' final grades.
+Leo Online Features for Employees
+Payroll information
+Leo Online Features for Faculty
+Class rosters

@@ -1,0 +1,196 @@
+Graduate Courses
+STAT 130M Elementary Statistics (3 Credit Hours)
+Topics include: data description, elementary probability, binomial and normal distributions, interval estimation, hypothesis testing, and correlation. The role of probability in inference is emphasized.
+Prerequisites: A qualifying score on a placement test administered by the University Testing Center, a qualifying SAT or ACT score, a C or better in MATH 101M , or a C or better in a higher level math course
+STAT 306 Introductory Statistics (3 Credit Hours)
+A general probability and statistics course designed specifically to accommodate the needs of school teachers and health professionals.  Topics include: descriptive statistics, basic probability, discrete random variables, continuous random variables, interval estimation, regression and correlation, hypothesis testing, and applications.  (May not be used to satisfy the upper-division elective requirement of the math major program.)
+Prerequisites: A grade of C or better in MATH 102M or MATH 162M
+STAT 310 Introductory Data Analysis (3 Credit Hours)
+Topics include measures of location, dispersion, and strength of relationship; parametric and nonparametric tests of location; one-way analysis of variance; complete block designs; simple and multiple regression; correlation; measures of association for categorical data. Microsoft EXCEL will be used extensively as an aid in data analysis.  Written interpretation of results will be a routine component of daily assignments.
+Prerequisites: A grade of C or better in STAT 130M or MATH 200 or MATH 205 or MATH 211
+STAT 330 An Introduction to Probability and Statistics (3 Credit Hours)
+Topics include: descriptive statistics, probability theory and probability distributions, mathematical expectation and its role in decision making, hypothesis testing, point and interval estimation, numerous applications. (Not open to students with credit in STAT 331 .)
+Prerequisites: A grade of C or better in MATH 211
+STAT 331 Theory of Probability (3 Credit Hours)
+An introduction to probability theory including probability functions, continuous and discrete random variables, combinatorics, special probability distributions, moment generating functions, and limit laws.
+Prerequisites: A grade of C or better in MATH 211
+STAT 405/505 Introduction to Data Handling (3 Credit Hours)
+This course will introduce SAS and R, two of the most widely used statistical software packages. This course will cover the basic skills needed for using computer packages to perform a variety of statistical analyses. Topics include data import/export, manipulation, descriptive statistics and visualization, advanced data handling, and the use of statistical computer packages for categorical data analysis, regression analysis, hypothesis testing, and more.
+Prerequisites: grade of C or better in STAT 130M or equivalent and a grade of C or better in MATH 316 or equivalent or permission of instructor
+STAT 431/531 Theory of Statistics (3 Credit Hours)
+Topics include point and interval estimation, tests of hypotheses, introduction to linear models, likelihood techniques, and regression and correlation analysis.
+Prerequisites: A grade of C or better in STAT 331 or departmental permission
+STAT 432/532 Sampling Theory (3 Credit Hours)
+Sampling from finite populations is discussed. Topics such as simple random sampling, stratified random sampling and ratio and regression estimation are included. Also discussed are aspects of systematic sampling, cluster sampling, and multi-stage sampling.
+Prerequisites: A grade of C or better in STAT 431 / STAT 531
+STAT 435/535 Design and Analysis of Experiments (3 Credit Hours)
+Topics include introduction to design of experiments, analysis of variance with a single factor, power and OC curves, and two factors with interactions, random effects models, randomized blocks, Latin square and related designs, introduction to factorial and 2k factorial designs. Statistical software will be used to analyze real life data.
+Pre- or corequisite: STAT 405 / STAT 505
+STAT 437/537 Applied Regression and Time Series Analysis (3 Credit Hours)
+Topics include introduction to regression and model building, simple linear regression, multiple regression, logistic regression, and simple time series, residual analysis, selection of variables, model adequacy checking, regression on dummy variables, analysis of covariance, regression analysis of time series data, and applications of these techniques to real life data using statistical software. Pre- or
+Corequisites: STAT 405 / STAT 505
+STAT 440/540 Clinical Trials (3 Credit Hours)
+This course will introduce basic statistical concepts and methods used in clinical trials. Topics include phase-I trial designs including 3+3 and CRM dose-finding designs; phase-II trial designs including Gehan’s two-stage and Simon’s two-stage designs; phase-III trial designs including parallel, group allocation, cross-over, and factorial designs; randomization; sample size and power calculation; adaptive trials; and monitoring of trials for safety and efficacy.
+Prerequisites: A grade of C or better in STAT 431 / STAT 531
+STAT 442/542 Environmental Statistics (3 Credit Hours)
+Topics include nonlinear and generalized linear models, quantitative risk assessment, analysis of stimulus-response and spatially correlated data, methods of combining data from several independent studies.  Regression settings are emphasized where one or more predictor variables are used to make inferences on an outcome variable of interest.  Applications include modeling growth inhibition of organisms exposed to environmental toxins, spatial associations of like species, risk estimation, and spatial prediction.  SAS is used extensively in the course.
+Prerequisites: A grade of C or better in STAT 431 / STAT 531 or permission of the instructor; STAT 437 or STAT 537 recommended
+STAT 447/547 Analysis of Longitudinal Data (3 Credit Hours)
+This course introduces statistical methods for analyzing multivariate and longitudinal data. Topics include multivariate normal distribution, covariance modeling, multivariate linear models, principal components, analysis of continuous response repeated measures, and models for discrete longitudinal data. Emphasis will be on the applications to the biological and health sciences and the use of the statistical software.
+Pre- or corequisite: STAT 405 / STAT 505
+STAT 449/549 Nonparametric Statistics (3 Credit Hours)
+Topics include the theory and applications of binomial tests and rank tests, including the tests of McNemar, Mann-Whitney, Friedman, Kruskal-Wallis, and Smirnov.
+Prerequisites: A grade of C or better in STAT 330 or STAT 331 or departmental permission
+STAT 450/550 Categorical Data Analysis (3 Credit Hours)
+Topics include types of categorical data, relative risk and odds ratio measures for 2 x 2 tables, the chi-square and Mantel-Haenszel tests, Fisher's exact test, analysis of sets of 2 x 2 tables using Cochran-Mantel-Haenszel methodology, analysis of I x J and sets of I x J tables for both nominal and ordinal data, logistic regression including the logit and probit models. Emphasis will be on the application of these statistical tools to data related to the health and social sciences. Interpretation of computer output will be stressed.
+Pre- or corequisite: STAT 405 / STAT 505
+STAT 494 Entrepreneurship in Statistics (3 Credit Hours)
+This course is designed to help students enhance their personal and professional development through innovation guided by faculty members and professionals. It offers students an opportunity to apply their knowledge of statistics to the development of a new product, business, nonprofit program, or other initiative. The real world experiences that entrepreneurships provide will help students understand how academic knowledge leads to transformations, innovations, and solutions to different types of problems. This course is administered as an independent project for individual students, or as group projects.
+Prerequisites: 3.0 GPA and permission of the chief departmental advisor
+STAT 497/597 Topics in Statistics (1-3 Credit Hours)
+The advanced study of selected topics.
+Prerequisites: permission of the instructor
+STAT 505 Introduction to Data Handling (3 Credit Hours)
+This course will introduce SAS and R, two of the most widely used statistical software packages. This course will cover the basic skills needed for using computer packages to perform a variety of statistical analyses. Topics include data import/export, manipulation, descriptive statistics and visualization, advanced data handling, and the use of statistical computer packages for categorical data analysis, regression analysis, hypothesis testing, and more.
+Prerequisites: A grade of C or better in STAT 130M or equivalent, and a grade of C or better in MATH 316 or equivalent, or permission of the instructor
+STAT 531 Theory of Statistics (3 Credit Hours)
+Topics include point and interval estimation, tests of hypotheses, introduction to linear models, likelihood techniques, and regression and correlation analysis.
+Prerequisites: A grade of C or better in STAT 331 or permission of the instructor
+STAT 532 Sampling Theory (3 Credit Hours)
+Sampling from finite populations is discussed. Topics such as simple random sampling, stratified random sampling and ratio and regression estimation are included. Also discussed are aspects of systematic sampling, cluster sampling, and multi-stage sampling.
+Prerequisites: A grade of C or better in STAT 431 / STAT 531
+STAT 535 Design and Analysis of Experiments (3 Credit Hours)
+Topics include introduction to design of experiments, analysis of variance with a single factor, power and OC curves, and two factors with interactions, random effects models, randomized blocks, Latin square and related designs, introduction to factorial and 2k factorial designs. Statistical software will be used to analyze real life data.
+Pre- or corequisite: STAT 405 / STAT 505
+STAT 537 Applied Regression and Time Series Analysis (3 Credit Hours)
+Topics include introduction to regression and model building, simple linear regression, multiple regression, logistic regression, and simple time series, residual analysis, selection of variables, model adequacy checking, regression on dummy variables, analysis of covariance, regression analysis of time series data, and applications of these techniques to real life data using statistical software.
+Prerequisites: A grade of C or better in STAT 531
+Pre- or corequisite: STAT 405 or STAT 505
+STAT 540 Clinical Trials (3 Credit Hours)
+This course will introduce basic statistical concepts and methods used in clinical trials. Topics include phase-I trial designs including 3+3 and CRM dose-finding designs; phase-II trial designs including Gehan’s two-stage and Simon’s two-stage designs; phase-III trial designs including parallel, group allocation, cross-over, and factorial designs; randomization; sample size and power calculation; adaptive trials; and monitoring of trials for safety and efficacy.
+Prerequisites: A grade of C or better in STAT 431 or STAT 531
+STAT 542 Environmental Statistics (3 Credit Hours)
+Topics include nonlinear and generalized linear models, quantitative risk assessment, analysis of stimulus-response and spatially correlated data, methods of combining data from several independent studies.  Regression settings are emphasized where one or more predictor variables are used to make inferences on an outcome variable of interest.  Applications include modeling growth inhibition of organisms exposed to environmental toxins, spatial associations of like species, risk estimation, and spatial prediction.  SAS is used extensively in the course.
+Prerequisites: A grade of C or better in STAT 431 or STAT 531 ; STAT 437 or STAT 537 recommended
+STAT 547 Analysis of Longitudinal Data (3 Credit Hours)
+This course introduces statistical methods for analyzing multivariate and longitudinal data. Topics include multivariate normal distribution, covariance modeling, multivariate linear models, principal components, analysis of continuous response repeated measures, and models for discrete longitudinal data. Emphasis will be on the applications to the biological and health sciences and the use of the statistical software.
+Prerequisites: A grade of C or better in STAT 431 or STAT 531
+Pre- or corequisite: STAT 405 OR STAT 505
+STAT 549 Nonparametric Statistics (3 Credit Hours)
+Topics include the theory and applications of binomial tests and rank tests, including the tests of McNemar, Mann-Whitney, Friedman, Kruskal-Wallis, and Smirnov.
+Prerequisites: A grade of C or better in STAT 330 or STAT 331 or departmental permission
+STAT 550 Categorical Data Analysis (3 Credit Hours)
+Topics include types of categorical data, relative risk and odds ratio measures for 2 x 2 tables, the chi-square and Mantel-Haenszel tests, Fisher's exact test, analysis of sets of 2 x 2 tables using Cochran-Mantel-Haenszel methodology, analysis of I x J and sets of I x J tables for both nominal and ordinal data, logistic regression including the logit and probit models. Emphasis will be on the application of these statistical tools to data related to the health and social sciences. Interpretation of computer output will be stressed.
+Prerequisites: A grade of C or better in STAT 431 or STAT 531
+Pre- or corequisite: STAT 405 or STAT 505
+STAT 597 Topics in Statistics (1-3 Credit Hours)
+The advanced study of selected topics.
+Prerequisites: permission of the instructor
+STAT 603 Probability Models for Data Science and Analytics (3 Credit Hours)
+This course will serve as an introduction for modeling data using probability and statistical methods. Topics include basic concepts of probability, Bayes theorem, frequently-occurring discrete and continuous probability distributions, as well as how to simulate data from these distributions. Basic properties of the probability distributions will be discussed, which will provide an insight into the use of these distributions in data science. R and/or Python will be the computation software used in class. This course is open only for students enrolled in the M.S. degree program in Data Science and Analytics.
+Prerequisites: STAT 330 or equivalent or permission of the instructor
+STAT 604 Statistical Tools for Data Science and Analytics (3 Credit Hours)
+This course will cover statistical tools for data exploration. Topics taught include descriptive statistics, correlation, confidence intervals, linear and logistic regressions, t-test for one and two samples, and analysis of variance. For analyzing categorical data, students will study contingency tables, odds ratios for measuring association, and chi-square tests for testing independence. The course will also introduce principal components and clustering methods to analyze multivariate data. R and/or Python software for computing various statistics for real data analysis will be used. This course is open only for students enrolled in the M.S. degree program in Data Science and Analytics.
+Prerequisites: STAT 603 or equivalent or permission of the instructor
+STAT 613 Applied Statistical Methods I (3 Credit Hours)
+Intended for graduate students in all academic disciplines; not available for credit to graduate students in the Department of Mathematics and Statistics.  Topics include descriptive statistics, probability computations, estimation, hypothesis testing, linear regression, analysis of variance and categorical data analysis.  Emphasis will be on statistical analysis of data arising in a research setting.  The rationale for selecting methods to address research questions will be emphasized.  Examples will be given from the health sciences, social sciences, engineering, education and other application areas.
+Prerequisites: A grade of C or better in STAT 130M or STAT 330 or MATH 211 or permission of the instructor
+STAT 625 Probability Theory for Data Science (3 Credit Hours)
+An introduction to probability. Topics include axiomatic foundations of probability, conditional probability, Bayes formula, random variables, density and mass functions, stochastic independence, expectation, moment generating functions, transformations, common families of distributions, multiple random variables, covariance and correlation, multivariate distributions, convergence concepts, law of large numbers, limit theorems.
+Prerequisites: A grade of C+ or better in STAT 531
+STAT 626 Statistical Theory for Data Science (3 Credit Hours)
+An introduction to statistical inference. Principles of data reduction, sufficiency, completeness, ancillary, likelihood principle, point estimation, method of moments, maximum likelihood and Bayes estimation, Cramer-Rao inequality, hypothesis testing, likelihood ratio tests, Bayesian tests, most powerful tests, Neyman-Pearson Lemma, interval estimates, pivotal quantities, asymptotic evaluations, consistency and asymptotic relative efficiency.
+Prerequisites: A grade of C+ or better in STAT 625
+STAT 630 Time Series Models (3 Credit Hours)
+This course examines the principles and concepts of time series and forecasting.  Study includes theory, methods, and model parameter estimation taking into account correlation and autocorrelation structures with data applications from pollution, economics, seasonal trends, and the stock market.  Notions of autoregressive, moving, average, stationary and nonstationary ARIMA models will be discussed.  The multivariate version and state-space models will also be introduced. Simulation of time series data will be discussed in depth.
+Prerequisites: STAT 626 , STAT 505 , and STAT 537
+STAT 632 Master’s Project (3 Credit Hours)
+Under the guidance of a faculty member in the Department of Mathematics and Statistics, the student will undertake a significant data analysis problem in a scientific setting outside the department.  A written report and/or public presentation of results will be required.
+Prerequisites: permission of graduate program director
+STAT 635 Statistical Consulting (3 Credit Hours)
+This course is intended to teach statistical consulting techniques to graduate students in statistics. Students are expected to work on statistical consulting problems brought by faculty and graduate students in various fields.
+Prerequisites: STAT 626
+STAT 637 Advanced Regression and Time Series (3 Credit Hours)
+Topics include theory of least squares regression, multiple linear regression (including its matrix formulation), transformations and weighting, diagnostics for leverage and influence, polynomial and indicator regression model, multi-collinearity, variable selection and model building, validation of regression models, introduction to nonlinear regression, robust regression, regression for time series data, and applications of these techniques using statistical software.
+Pre- or corequisite: STAT 405 / STAT 505
+STAT 638 Advanced Design and Analysis of Experiments (3 Credit Hours)
+Topics include blocking and confounding in factorial designs, power, balanced incomplete block designs, fractional factorial designs, factors with mixed levels, response surface methods and designs, Latin and Graeco-Latin square designs, optimality criterion, examples of optimal designs, experiments with random factors, nested and split-plot designs, analysis of covariance, robust designs. Statistical software will be used to analyze real life data.
+Prerequisites: STAT 435 / STAT 535 or STAT 437 / STAT 537 or STAT 637
+STAT 640 Survival Analysis (3 Credit Hours)
+This course introduces basic concepts and methods for analyzing survival time data obtained from following individuals until occurrence of an event or their loss to follow-up. Topics include survival and hazard functions, censoring, Kaplan-Meier estimation, log-rank and related tests, Cox proportional hazards model, and the extended Cox model for time-varying covariates, and parametric models. Both SAS and R software will be used to analyze survival data.
+Prerequisites: STAT 626
+STAT 660 Advanced Programming in R (3 Credit Hours)
+This course is intended to develop the ability to perform statistical computing using R statistical software. The course will cover programming topics (vectorization, data input and output, data manipulation, and building R packages), statistical and computational methods (visualization, optimization, simulation, and resampling), and direct integration and dynamic reporting using R markdown. Additionally, this course will include the use of high-performance computing resources at Old Dominion University. This is a finishing course for statisticians and professionals willing to pursue a career in statistical programming and simulation.
+Prerequisites: A grade of C or better in STAT 505 and two of STAT 535 , STAT 537 , STAT 547 and STAT 550
+STAT 667 Cooperative Education (1-3 Credit Hours)
+Student participation for credit based on academic relevance of the work experience, criteria, and evaluative procedures as formally determined by the department and the cooperative education program prior to the semester in which the work experience is to take place.
+STAT 697 Topics in Statistics (1-3 Credit Hours)
+Advanced study of selected topics.
+Prerequisites: permission of the instructor
+STAT 725 Linear Statistical Models (3 Credit Hours)
+Topics include the multivariate normal distribution, distributions of quadratic forms, the general linear model, estimability, the Gauss-Markov theorem and general linear hypotheses, analysis of variance (ANOVA) and covariance (ANCOVA) with special attention to unbalanced data, and analysis of mixed effects and variance components models including repeated measures and split-plot designs.
+Prerequisites: STAT 626
+STAT 727 Advanced Statistical Inference I (3 Credit Hours)
+Topics to be covered include introduction to measure theoretic probability, properties of group and exponential families, sufficiency, unbiasedness, equivariance, properties of estimators, large sample theory, maximum likelihood estimation, EM algorithm, information inequality, asymptotic optimality.
+Prerequisites: A grade of C+ or higher in MATH 517 and STAT 626
+STAT 728 Advanced Statistical Inference II (3 Credit Hours)
+Topics to be covered include convergence concepts, limit theorems, large sample theory, asymptotic distributions, decision theory, minimax, admissibility, Bayes estimates, generalized Neyman-Pearson Lemma, uniformly most powerful tests, unbiased tests, invariant tests, and Bayesian tests.
+Prerequisites: A grade of C+ or higher in STAT 727 or STAT 827
+STAT 730 Multivariate Statistics (3 Credit Hours)
+Topics include the multivariate normal distribution, graphical display of multivariate data and tests for normality, Hotelling's T2, multivariate analysis of variance (MANOVA) and regression, profile analysis, growth curve models, canonical correlation analysis, principal components, factor models, clustering, and discriminant analysis. All methods are implemented using the SAS statistical software.
+Prerequisites: STAT 537 or STAT 725 / STAT 825
+STAT 740 Clinical Trials I (3 Credit Hours)
+This course will discuss sequential and adaptive designs for clinical trials; the statistical properties and challenges these designs engender; and the advantages and disadvantages of utilizing sequential and adaptive designs compared to a standard, fixed-sample design.
+Prerequisites: STAT 440 or STAT 540
+STAT 741 Clinical Trials II (3 Credit Hours)
+This course will discuss sequential and adaptive designs for clinical trials; the statistical properties and challenges these designs engender; and the advantages and disadvantages of utilizing sequential and adaptive designs compared to a standard, fixed-sample design.
+Prerequisites: A grade of C or better in STAT 440 / STAT 540 or permission of the instructor
+STAT 747 Advanced Analysis of Longitudinal Data (3 Credit Hours)
+Topics include general linear models, weighted least squares (WLS), maximum likelihood (ML), restricted maximum likelihood (REML) methods of estimation, analysis of continuous response repeated measures data, parametric models for covariance structure, generalized estimating equations (GEE) for discrete longitudinal data, marginal, random effects, and transition models. Limitations of existing approaches will be discussed. Emphasis will be on the application of these tools to data related to the biological and health sciences. Methods will be implemented using statistical software.
+Prerequisites: STAT 447 / STAT 547
+STAT 749 Advanced Nonparametric Statistics (3 Credit Hours)
+Topics include multivariate permutation tests, multivariate rank tests, permutation and rank tests for censored data, bootstrap methods, permutation and rank tests for the analysis of multifactor experiments, and nonparametric smoothing methods.
+Prerequisites: STAT 449 / STAT 549
+STAT 750 Advanced Categorical Data Analysis (3 Credit Hours)
+This course will cover statistical models and methods appropriate for analyzing categorical responses, contingency tables, Pearson Chi-square test, Fisher’s Exact test, Mantel-Haenszel test, Cochran-Armitage trend test, independence and conditional independence, Simpson’s paradox, generalized linear models, logistic and Poisson regression models, matched paired studies, McNemar test, conditional logistic regression model and random effects logistic model for data from matched paired studies, models for multinomial data.
+STAT 795 Seminar in Statistics (1-3 Credit Hours)
+Seminar.
+Prerequisites: permission of the instructor
+STAT 797 Topics in Statistics (1-3 Credit Hours)
+Advanced study of selected topics.
+Prerequisites: Permission of the instructor
+STAT 825 Linear Statistical Models (3 Credit Hours)
+Topics include the multivariate normal distribution, distributions of quadratic forms, the general linear model, estimability, the Gauss-Markov theorem and general linear hypotheses, analysis of variance (ANOVA) and covariance (ANCOVA) with special attention to unbalanced data, and analysis of mixed effects and variance components models including repeated measures and split-plot designs.
+Prerequisites: STAT 626
+STAT 827 Advanced Statistical Inference I (3 Credit Hours)
+Topics to be covered include introduction to measure theoretic probability, properties of group and exponential families, sufficiency, unbiasedness, equivariance, properties of estimators, large sample theory, maximum likelihood estimation, EM algorithm, information inequality, asymptotic optimality.
+Prerequisites: A grade of C+ or higher in MATH 517 and STAT 626
+STAT 828 Advanced Statistical Inference II (3 Credit Hours)
+Topics to be covered include convergence concepts, limit theorems, large sample theory, asymptotic distributions, decision theory, minimax, admissibility, Bayes estimates, generalized Neyman-Pearson Lemma, uniformly most powerful tests, unbiased tests, invariant tests, and Bayesian tests.
+Prerequisites: A grade of C+ or higher in STAT 727 or STAT 827
+STAT 830 Multivariate Statistics (3 Credit Hours)
+Topics include the multivariate normal distribution, graphical display of multivariate data and tests for normality, Hotelling's T2, multivariate analysis of variance (MANOVA) and regression, profile analysis, growth curve models, canonical correlation analysis, principal components, factor models, clustering, and discriminant analysis. All methods are implemented using the SAS statistical software.
+Prerequisites: STAT 537 or STAT 725 / STAT 825
+STAT 840 Clinical Trials I (3 Credit Hours)
+This course will discuss sequential and adaptive designs for clinical trials; the statistical properties and challenges these designs engender; and the advantages and disadvantages of utilizing sequential and adaptive designs compared to a standard, fixed-sample design.
+Prerequisites: STAT 440 / STAT 540
+STAT 841 Clinical Trials II (3 Credit Hours)
+This course will discuss sequential and adaptive designs for clinical trials; the statistical properties and challenges these designs engender; and the advantages and disadvantages of utilizing sequential and adaptive designs compared to a standard, fixed-sample design.
+Prerequisites: A grade of C or better in STAT 440 / STAT 540 or permission of the instructor
+STAT 847 Advanced Analysis of Longitudinal Data (3 Credit Hours)
+Topics include general linear models, weighted least squares (WLS), maximum likelihood (ML), restricted maximum likelihood (REML) methods of estimation, analysis of continuous response repeated measures data, parametric models for covariance structure, generalized estimating equations (GEE) for discrete longitudinal data, marginal, random effects, and transition models. Limitations of existing approaches will be discussed. Emphasis will be on the application of these tools to data related to the biological and health sciences. Methods will be implemented using statistical software.
+Prerequisites: STAT 447 / STAT 547
+STAT 849 Advanced Nonparametric Statistics (3 Credit Hours)
+Topics include multivariate permutation tests, multivariate rank tests, permutation and rank tests for censored data, bootstrap methods, permutation and rank tests for the analysis of multifactor experiments, and nonparametric smoothing methods.
+Prerequisites: STAT 449 / STAT 549
+STAT 850 Advanced Categorical Data Analysis (3 Credit Hours)
+This course will cover statistical models and methods appropriate for analyzing categorical responses, contingency tables, Pearson Chi-square test, Fisher’s Exact test, Mantel-Haenszel test, Cochran-Armitage trend test, independence and conditional independence, Simpson’s paradox, generalized linear models, logistic and Poisson regression models, matched paired studies, McNemar test, conditional logistic regression model and random effects logistic model for data from matched paired studies, models for multinomial data.
+STAT 895 Seminar in Statistics (1-3 Credit Hours)
+Seminar.
+Prerequisites: permission of the instructor
+STAT 897 Topics in Statistics (1-3 Credit Hours)
+STAT 898 Research (1-9 Credit Hours)
+STAT 899 Dissertation (1-9 Credit Hours)
+STAT 999 Doctoral Graduate Credit (1 Credit Hour)
+This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.
+Search catalog

@@ -1,0 +1,4 @@
+14
+{Location Name} Added
+The item/location has been added to your favorites. If you would you like this item/location to be remembered between sessions and displayed each time you visit, please login or create an account.
+Ok

@@ -1,0 +1,194 @@
+Master of Science - Computer Science - Information Communication Technology
+Li Xu, Graduate Program Director
+The Department of Information Technology and Decision Sciences offers this degree program jointly with the Department of Computer Science; please see the entry under the Department of Computer Science for degree requirements.
+Courses
+Business Analytics (BNAL)
+BNAL 503 Data Visualization and Exploration (3 Credit Hours)
+This course introduces students to concepts and processes, technologies, and methodologies that are commonly used in data visualization that an organization may use to enhance its descriptive, predictive, and prescriptive methods for making fact-based decisions.
+Prerequisites: A grade of C or better in BNAL 306 or an equivalent course or instructor's permission
+BNAL 507 Prescriptive Analytics of Management Science (3 Credit Hours)
+Students are introduced to prescriptive analytics through formulation and solution of mathematical models, with a particular focus on optimization models. The business use of the models, as well as their limitations, is emphasized. Topics include linear, integer, non-linear programming, network models, genetic algorithms, decision analysis, and project management models.
+Prerequisites: A grade of C or better in BNAL 306 or an equivalent course or permission of the instructor
+BNAL 515 Advanced Business Analytics/Big Data Applications (3 Credit Hours)
+This course addresses advanced business analytics techniques and the application of such techniques to large data sets. Some alternative business analytics strategies are introduced. Descriptive, predictive, and prescriptive models are included. Topics covered in this course include data visualization and exploration, cluster analysis, and developing and calibrating predictive models for big data. Applications of multivariate, logistic, and probit regression to business analytics are discussed. Software packages such as SAS/JMP/SPSS may be used.
+Prerequisites: A grade of C or better in BNAL 306 or BNAL 606 or an equivalent course or instructor's permission
+BNAL 532 Predictive Analytics for Business (3 Credit Hours)
+Predictive analytics techniques for business. Applications include both shorter term forecasting for sales and operations management as well as forecasting for long term planning. Emphasis is on statistical methods to obtain and evaluate forecasts. Statistical models are implemented using standard software such as MINITAB, EXCEL, R, and/or Python.
+Prerequisites: BNAL 306 or an equivalent course or permission of the instructor
+BNAL 576 Simulation Modeling and Analysis for Business Systems (3 Credit Hours)
+Simulation modeling is an integral part of the analytics revolution, enabling the creation of models that can represent the variability that exists in many real business systems. This course covers the theory and application of simulation modeling, with an emphasis on how simulation provides predictive and prescriptive analytics to support business decision-making. Topics include simulation fundamentals, the project life-cycle, model development, input and output analysis, verification and validation, and the presentation of a simulation study.  We utilize a major commercial simulation software package for assignments and class projects.
+BNAL 606 Statistics for Managers (2 Credit Hours)
+Statistical tools for solving business problems.  Topics include: sampling distributions, confidence intervals, hypothesis testing, simple and multiple regressions, and time series forecasting.  Emphasis is placed on the application of the tools to business problems.  Microsoft Excel is used to do most of the analysis.
+Prerequisites: Admission to the MBA Program and MBA 600 or MBA 600 , MBA 601, MBA 602, MBA 603 and MBA 604
+BNAL 610 Fundamentals of Business Analytics (2 Credit Hours)
+This course provides students with some common tools and techniques that are deployed in business analytics. Topics include big data and related terminology, data management, working with data, and statistical and quantitative methods used in descriptive, predictive, and prescriptive analytics.
+Prerequisites: Admission to the MBA Program, MBA 600 and BNAL 606 or MBA 600 , MBA 601, MBA 602, MBA 603, MBA 604 and BNAL 606
+Pre- or corequisite: BNAL 606
+BNAL 667 Cooperative Education (1-3 Credit Hours)
+Approval for enrollment and allowable credits are determined by the department and Career Development Services in the semester prior to enrollment.
+BNAL 668 Internship in Business Analytics (1-3 Credit Hours)
+Approval for enrollment and allowable credits are determined by the department and Career Development Services in the semester prior to enrollment.
+BNAL 695 Selected Topics in Business Analytics (3 Credit Hours)
+Advanced topics in business analytics offered periodically.
+Prerequisites: Permission of the department chair and graduate program director
+BNAL 697 Independent Study (3 Credit Hours)
+Affords students the opportunity to undertake independent study under the direction of a faculty member.
+Prerequisites: Permission of the instructor
+BNAL 711 Multivariate Statistical Methods for Business (3 Credit Hours)
+An applied study of statistical methods including analysis of variance, cross-sectional multiple regression, time series regression, panel data methods, discriminant analysis, and generalized linear models. Data analyzed using a computerized statistical package. Emphasizes development of the student's ability to use statistics for independent research.
+Prerequisites: BNAL 606 or equivalent
+BNAL 712 Advanced Statistical Models in Business Research (3 Credit Hours)
+Advanced statistical models that are commonly encountered in business research.  Topics include confirmatory factor analysis as well as structural equation modeling.  Emphasis is on model development as well as use of statistical software in analyzing realistic business-oriented data sets.
+Prerequisites: BNAL 711
+BNAL 715 Multilevel Modeling in Business Research (1 Credit Hour)
+This course introduces the fundamentals of multilevel modeling.  Alternative methods of analysis are discussed and critiqued.  Use of specialized multilevel modeling software is demonstrated.  Topics include a detailed discussion of the issues associated with variable centering.  Applications to business research investigations are emphasized.
+Prerequisites: BNAL 711 or permission of the instructor
+BNAL 721 Simulation Modeling for Business and Supply Chain Systems (3 Credit Hours)
+This course covers both the theory and application of simulation modeling and analysis to business, supply chain, and logistics systems. Both discrete-event and continuous simulation modeling approaches are covered, using a major commercial simulation package.  Emphasis will be on the use of simulation as a tool to support  business, supply chain, and logistics decision making.
+Prerequisites: BNAL 606 or STAT 330 or MSIM 601 or BNAL 476 or BNAL 576 or BNAL 722 , or BNAL 822 , or instructor's permission
+BNAL 722 Agent-Based Simulation and Modeling (3 Credit Hours)
+This course will explore both the conceptual and technical aspects of agent-based simulation, particularly as utilized for modeling of business systems.  Students will explore the roots and literature of agent-based modeling and related fields.  Students will also learn to develop agent-based simulation models using a major commercial simulation package.
+BNAL 796 Selected Topics in Business Analytics (1-3 Credit Hours)
+The advanced study of selected topics not offered on a regular basis.
+BNAL 821 Simulation Modeling for Business and Supply Chain Systems (3 Credit Hours)
+This course covers both the theory and application of simulation modeling and analysis to business, supply chain, and logistics systems. Both discrete-event and continuous simulation modeling approaches are covered, using a major commercial simulation package.  Emphasis will be on the use of simulation as a tool to support  business, supply chain, and logistics decision making.
+Prerequisites: BNAL 606 or STAT 330 or MSIM 601 or BNAL 476 or BNAL 576 or BNAL 722 or BNAL 822 , or permission of the instructor or department
+BNAL 822 Agent-Based Simulation and Modeling (3 Credit Hours)
+This course will explore both the conceptual and technical aspects of agent-based simulation, particularly as utilized for modeling of business systems.  Students will explore the roots and literature of agent-based modeling and related fields.  Students will also learn to develop agent-based simulation models using a major commercial simulation package.
+Information Technology (IT)
+IT 564 Essentials of Project Management (3 Credit Hours)
+This course focuses on project management concepts and methodologies. Topics include project management framework, knowledge areas, and techniques.
+Prerequisites: Enrolled in a graduate program or a graduate certificate program, or waiver approved by the instructor
+IT 595 Topics (1-3 Credit Hours)
+IT 614 Information and Knowledge Management (2 Credit Hours)
+Information and knowledge are critical resources for today's organizations.  This course prepares students for the managerial, organizational, and technological challenges involved in managing information and knowledge.
+Prerequisites: Admission to the MBA Program or MBA 600 , MBA 601, MBA 602, MBA 603 and MBA 604
+IT 634 Cloud Computing and Security (3 Credit Hours)
+An introduction to key concepts and techniques of cloud computing and security. Topics include: cloud computing systems, virtualization and container technologies, cloud architecture and service platform design, cloud programming models, big data analytics, cloud performance and security.
+IT 650 Database Management Systems (3 Credit Hours)
+Introduction to database management systems.  The topics addressed include system architecture, data models, database analysis, design and implementation, query processing, business transaction processing, and database security.
+Prerequisites: IT 620 or equivalent; or permission of the department
+IT 651 Business Intelligence (3 Credit Hours)
+Introduction to business intelligence and its three components: data warehouse, data mining, and OLAP. Examines traditional techniques as well as emerging technologies.
+Prerequisites: IT 650 , or admission to a graduate program at ODU, or permission of the instructor or department
+IT 652 Information and Communications Technology for Big Data (3 Credit Hours)
+Introduction to emerging ICT techniques for big data analytics and big data science.  Topics cover WSN, cloud computing and IoT.
+Prerequisites: IT 650 , or admission to a graduate program at ODU, or permission of the instructor or department
+IT 660 Digitalizing Enterprises (3 Credit Hours)
+Information and Communication Technologies (ICT) is a critical enabler of the digital enterprise. This class introduces cutting-edge ICT, including enterprise systems, IoT, CPS as the foundation for digitalizing enterprises for the seamless integration of enterprises and supply chain. Topics includes intra- and inter-organizational integration, supply chain collaboration and integration, and digitalization technologies.
+Prerequisites: IT 650 or permission of the instructor or department or admission to a graduate program at ODU
+IT 664 Project Management (3 Credit Hours)
+This course provides knowledge of project management including tools and techniques to manage scope, time, cost, quality, risk, team, communications, security and procurement.  Special issues in the context of information- and technology-based projects are emphasized.
+IT 667 Cooperative Education (1-3 Credit Hours)
+Approval for enrollment and allowable credits are determined by the department and Career Development Services in the semester prior to enrollment.
+Prerequisites: IT 620 or equivalent
+IT 668 Information Systems Internship (1-3 Credit Hours)
+Approval for enrollment and allowable credits are determined by the department and Career Development Services in the semester prior to enrollment.  Available for pass/fail grading only.
+Prerequisites: IT 620 or equivalent
+IT 672 Enterprise Architectures (3 Credit Hours)
+Introduction to enterprise architectures for business organizations as well as related information architectures. Examines traditional techniques as well as emerging techniques including industrial information integration engineering.
+Prerequisites: IT 650 , or admission to a graduate program at ODU, or permission of the instructor or department
+IT 680 Computing Aspects of Medical Informatics (3 Credit Hours)
+Overview of computing aspects of medical informatics.  Computational methods in scientific computing of medical informatics are covered.  The basic thrust is to demonstrate the usefulness and power of computational methods in solving real-life problems in perspectives of medical informatics.
+IT 695 Selected Topics in Information (1-3 Credit Hours)
+3 credits.
+Prerequisites: permission of the department chair and the graduate program director
+IT 697 Independent Study in Information Systems (1-3 Credit Hours)
+Affords students the opportunity to undertake independent study under the direction of a faculty member.
+Prerequisites: IT 650 or permission of the department
+IT 698 Master's Project in Information (3 Credit Hours)
+3 credits.
+Prerequisites: IT 650 and permission of the department
+IT 699 Master’s Thesis in Information Systems (1-6 Credit Hours)
+1-6 credits.
+Prerequisites: IT 650 and permission of the department
+IT 795 Selected Topics in Management Information Systems (1-3 Credit Hours)
+3 credits.
+Prerequisites: permission of the department chair and the graduate program director
+IT 800 Theoretical Foundation in Supply Chain/Information Technology Research (3 Credit Hours)
+A survey of research methodology in supply chain and operations management, data science, and information technology including empirical, behavioral, computational, and interdisciplinary methods and techniques in different types of problem domains.
+IT 850 Enterprise Architecture (3 Credit Hours)
+This course examines the latest advances in enterprise architecture and computing.  Topics include enterprise architecture design and modeling, service-oriented architecture (SOA), and integration of enterprise information and applications.
+Prerequisites: IT 800
+IT 890 Seminar in Business Process and Enterprise Systems (3 Credit Hours)
+This course discusses how firms achieve business excellence through business process management (BPM), business process improvement (BPI), and business process reengineering (BPR) supported by IT.  Topics include business process and workflow modeling, analysis, integration, monitoring and management.
+Prerequisites: IT 800
+IT 891 Seminar in Business Intelligence (3 Credit Hours)
+The objective of this course is to provide an overview of managerial and technical issues associated with business intelligence.  Topics covered include the state-of-the art data warehousing, data mining and OLAP technologies.
+Prerequisites: IT 800
+IT 892 Seminar in Knowledge Management (3 Credit Hours)
+The course examines the latest advances in knowledge management (KM) including identifying, capturing, sharing and evaluating an enterprise's knowledge assets.  The course reviews and discusses existing technologies in KM and new emerging KM technologies and practices.
+Prerequisites: IT 800
+IT 893 Supply Chain Management for E-Commerce (3 Credit Hours)
+This course examines how supply chain management and information technology integrate to support global e-commerce opportunities.  Topics include the theories and practices of material flow management, omnichannel distribution and retailing, maritime, logistics, procurement, and inventory management.
+IT 895 Selected Topics in Management Information Systems (1-3 Credit Hours)
+3 credits.
+Prerequisites: permission of the department chair and the graduate program director
+IT 899 Dissertation (1-12 Credit Hours)
+Ph.D. level research and writing of dissertation.
+Prerequisites: IT 893 ; departmental approval required
+IT 998 Master's Graduate Credit (1 Credit Hour)
+This course is a pass/fail course for master's students in their final semester. It may be taken to fulfill the registration requirement necessary for graduation.  All master's students are required to be registered for at least one graduate credit hour in the semester of their graduation.
+Maritime and Supply Chain Management (MSCM)
+MSCM 530 Strategic Sourcing and Purchasing Management (3 Credit Hours)
+An overview of the strategic sourcing of materials and services in the organization and its role in the supply chain. Topics include sourcing decisions, price/cost analysis, quality issues, purchasing, supplier selection, legal and ethical issues, third party logistics, freight forwarding, and acquisition of services and capital assets.
+MSCM 568 Distribution Center and Material Handling Management (3 Credit Hours)
+This course is designed to investigate the strategic role of distribution center and material management in the supply chain. Course content includes the analysis of distribution center operations through the study of design, system selection, and layout configuration as well as the evaluation of material handling and inventory management options.
+Prerequisites: OPMT 303
+MSCM 595 Topics in Maritime and Supply Chain Management (3 Credit Hours)
+A study of selected topics within maritime and supply chain management designed to provide an in-depth exploration of current issues.
+Prerequisites: Permission of the instructor
+MSCM 610 International Shipping and Supply Chain Management (3 Credit Hours)
+Examines international freight transportation and terms for movement of international trade; focuses on improving supply chain relationships in the movement of international trade/directing the flow of information, materials and products.  (cross-listed with PORT 610 )
+MSCM 615 Maritime Security and Risk Analysis (3 Credit Hours)
+An overview of international and U.S initiatives to ensure the security of vessels, cargo, people, and infrastructure within the maritime domain. In addition to the impacts of regulatory requirements on maritime commerce, the course also addresses maritime threats to the international economy (including maritime piracy and maritime terrorism), maritime coalitions , and state-of-the-art techniques and tools for safeguarding ocean0borne commerce. (cross-listed with PORT 615 )
+MSCM 616 Reverse Logistics and Sustainable Operations (3 Credit Hours)
+This course explores the theoretical foundations of global supply chain partnerships and reverse logistics systems, and examines the practices, risks, and opportunities found in today's systems.  Fundamental tools and techniques are used to provide insights and solutions on how to best organize, manage, and optimize such systems to achieve sustainable performance. (cross-listed with PORT 616 )
+MSCM 617 Transportation Management (3 Credit Hours)
+The course includes a review of the key elements of transportation such as: modes of transportation, transportation economics, and transportation technology and regulations.   The relationships between intermediaries, carriers and shippers are discussed, as well as company roles and operations within the transportation field, transportation sourcing and management, and transportation risk management.
+MSCM 630 Strategic Sourcing and Supply Management (3 Credit Hours)
+An overview of the strategic sourcing of materials and services in the organization and its role in the supply chain. Emphasis is placed on effectively managing the supply management process. Topics include the analysis of sourcing decisions, price/cost analysis, purchasing, supplier selection and relationship management, legal and ethical issues, third party logistics, freight forwarding, and acquisition of services and capital assets.
+MSCM 641 Supply Chain Management and Logistics (3 Credit Hours)
+Supply chain management integrates all activities associated with the flows of materials, information, and funds.  Examples include strategic sourcing, order processing, warehousing, inventory management, transportation and logistics, and the costs and information systems supporting these activities.
+MSCM 648 Distribution Center Management (3 Credit Hours)
+This course investigates the strategic role of distribution centers in the supply chain. Course content includes the analysis of distribution center operations through the study of design, system selection, and layout configuration as well as the evaluation of material handling and inventory management alternatives. Tactical, operational and strategic planning options are also discussed.
+MSCM 893 Supply Chain Management for E-Commerce (3 Credit Hours)
+This course examines how supply chain management and information technology integrate to support global e-commerce opportunities.  Topics include the theories and practices of material flow management, omnichannel distribution and retailing, maritime, logistics, procurement, and inventory management.
+Maritime Ports Logistics Management (PORT)
+PORT 610 International Shipping and Supply Chain Management (3 Credit Hours)
+Examines international freight transportation and terms for movement of international trade; focuses on improving supply chain relationships in the movement of international trade/directing the flow of information, materials and products.  (cross-listed with MSCM 610 )
+PORT 611 International Maritime Transport (3 Credit Hours)
+Examines the international business of shipping, commercial processes, maritime-related organizations, shipbuilding and repair, ship types and fleets, and commodity movement.
+Prerequisites: an undergraduate course in the international field such as MGMT 361 , MGMT 462 , or a similar graduate course
+PORT 612 Port Operations and Management (3 Credit Hours)
+Covers role, functions, and types of international terminals and ports, including design and operation of general and specialized cargo handling facilities and offshore systems, port authorities, operational structures, and labor.
+Prerequisites: a graduate course in management such as MGMT 602 and a course in operations management
+PORT 613 International Maritime and Admiralty Law (3 Credit Hours)
+International law of the sea, maritime jurisdiction, regulation of shipping, carriage of goods, marine insurance, salvage, marine environmental law, safety at sea, and the Oil Pollution Act of 1990 are covered, along with other maritime laws.
+Prerequisites: a basic law course
+PORT 614 Port Planning and Economics (3 Credit Hours)
+Port planning and competition, ports and ocean container shipping, port impacts, port users in theory, port operator costing and pricing, port carriers and shippers, government and maritime institutions, dockworkers, port environment and port performance evaluation.
+Prerequisites: a course in microeconomics such as ECON 604
+PORT 615 Maritime Security and Risk Analysis (3 Credit Hours)
+An overview of international and U.S initiatives to ensure the security of vessels, cargo, people, and infrastructure within the maritime domain. In addition to the impacts of regulatory requirements on maritime commerce, the course also addresses maritime threats to the international economy (including maritime piracy and maritime terrorism), maritime coalitions , and state-of-the-art techniques and tools for safeguarding ocean0borne commerce. (cross-listed with MSCM 615 )
+PORT 616 Reverse Logistics and Sustainable Operations (3 Credit Hours)
+This course explores the theoretical foundations of global supply chain partnerships and reverse logistics systems, and examines the practices, risks, and opportunities found in today's systems.  Fundamental tools and techniques are used to provide insights and solutions on how to best organize, manage, and optimize such systems to achieve sustainable performance. (cross-listed with MSCM 616 )
+Pre- or corequisite: MSCM 641 or PORT 611 or PORT 612 or instructor's permission
+PORT 617 Transportation Management (3 Credit Hours)
+The course includes a review of the key elements of transportation such as: modes of transportation, transportation economics, and transportation technology and regulations.   The relationships between intermediaries, carriers and shippers are discussed, as well as company roles and operations within the transportation field, transportation sourcing and management, and transportation risk management.
+PORT 618 Shipbuilding and Ship Repair Business Management (3 Credit Hours)
+Examines the shipbuilding and ship repair industry from the perspective of industry economics, industry financial management and repair operations and acquisition processes.  Provides industry professionals with business management practices that shape the industry.
+PORT 619 Marine Insurance (3 Credit Hours)
+Examines the rise of Lloyd's and the London Insurance Market, the current maritime insurance market, priciples of insurance and law, Hull Insurance Law, cargo insurance, general average and salvage insurance.
+PORT 641 Supply Chain Management and Logistics (3 Credit Hours)
+This course examines supply chain management, the integration of all activities associated with the flow of materials and information from product start to customers' receipt. Examples include order processing, warehousing, inventory management, transportation and logistics, and the costs and information systems supporting these activities. Particular attention will be paid to global logistics systems supporting port and maritime activities. Supply chain relationships can be improved through effective integration of management and via such technologies as the World Wide Web, electronic data exchange, and enterprise resource planning (ERP). (cross-listed with MSCM 641 )
+PORT 668 Directed Research/Port Internship (1-3 Credit Hours)
+Practical field experience in international maritime, ports and logistics related challenges through supervised investigation and analysis of a problem or a working internship within the port-related arena.
+PORT 695 Selected Topics in Maritime and Port Management (3 Credit Hours)
+The advanced study of selected topics not offered on a regular basis.
+PORT 697 Independent Study (3 Credit Hours)
+Designed to provide the opportunity for independent study under the guidance of a member of the faculty.
+International Maritime Ports and Logistics Management Institute
+Ricardo Ungo, Executive Director
+The mission of the institute is to provide world quality maritime, ports and logistics management education, training, and research to meet regional, national and international needs. The Maritime Institute serves as a positive catalyst for the delivery of education, training, research, and service programs, thus supporting the economic growth and international competitiveness of greater Hampton Roads and Virginia. Courses are available at both the undergraduate and graduate levels. Professional and executive-level seminars, workshops, and short courses will also be offered.
+Search catalog

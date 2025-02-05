@@ -1,0 +1,38 @@
+Graduate Courses
+ASTP 103N Introductory Astronomy of the Solar System (4 Credit Hours)
+A study of the physical principles and scientific investigation of objects in our solar system. Emphasis on how we acquire knowledge of celestial objects to develop models of our universe.
+ASTP 104N Introductory Astronomy of Galaxies and Cosmology (4 Credit Hours)
+Emphasizes the study of stars, star systems, cosmology and relativity. Emphasis on how we acquire knowledge of celestial objects to develop models of our universe.
+ASTP 108 Intro Astronomy Solar Sys Lab (1 Credit Hour)
+An introductory laboratory course in astronomy dealing with experiments about the laws of nature that apply to objects in our solar system. This course is intended for students with previous transfer credit for an Introductory Astronomy of the Solar System Lecture course.
+Prerequisites: Written permission of the chief departmental advisor of the Physics Department
+ASTP 109 Intro Astron Galaxy/Cosmo Lab (1 Credit Hour)
+A laboratory course in astronomy dealing with experiments about the laws of nature that apply to galaxies and the cosmos as a whole. This course is intended for students with previous transfer credit for an Introductory Astronomy of Stars, Galaxies and the Cosmos Lecture course.
+Prerequisites: Written permission of the chief departmental advisor of the Physics Department
+ASTP 126N Honors: Introductory Astronomy of the Solar System (4 Credit Hours)
+Open only to students in the Honors College. A special honors version of ASTP 103N .
+ASTP 127N Honors: Introductory Astronomy of Galaxies and Cosmology (4 Credit Hours)
+Open only to students in the Honors College. A special honors version of ASTP 104N .
+ASTP 313 Elements of Astrophysics (3 Credit Hours)
+A one-semester course covering the important topics of modern astrophysics. The elementary physical basis of stellar structure and evolution is derived from first principles. Theoretical and observational details of white dwarfs, neutron stars, pulsars, and black holes are developed. Elements of Big Bang cosmology are also presented.
+Prerequisites: PHYS 232N or PHYS 227N or PHYS 262N
+ASTP 406/506 Observational Astronomy (3 Credit Hours)
+Observational techniques in astronomy with emphasis on constellation identification, celestial movements, and telescopic observation.  Individualized night observations are required.
+Prerequisites: Junior standing
+ASTP 408/508 Astronomy for Teachers (3 Credit Hours)
+A course in astronomy dealing with stars and stellar systems. Topics will include observational astronomy, the electromagnetic spectrum, relativity, stellar and galactic structures, cosmology, and the search for extraterrestrial intelligence.
+Prerequisites: Junior Standing
+ASTP 414 Relativity and Cosmology (3 Credit Hours)
+Introduction to special and general relativity and cosmology. The course covers the current understanding of the structure and evolution of the Universe. The most important unsolved cosmological problems will be discussed, as well as current efforts/theories that may lead to the solution. Special and general relativity, Einstein's field equations, Friedmann-Lemaitre-Robertson-Walker metric, Friedmann’s equations, Schwarzschild solution and black holes, Big Bang, cosmic microwave background radiation, dark matter and dark energy are covered.
+Prerequisites: PHYS 232N or PHYS 227N or PHYS 262N and MATH 312 or MATH 307
+ASTP 495/595 Special Topics in Astrophysics (3 Credit Hours)
+In-depth study of a selected topic in astrophysics at the advanced undergraduate level. May include a laboratory or computational component.
+Prerequisites: Permission of the instructor
+ASTP 506 Observational Astronomy (3 Credit Hours)
+Observational techniques in astronomy with emphasis on constellation identification, celestial movements, and telescopic observation.  Individualized night observations are required.
+ASTP 508 Astronomy for Teachers (3 Credit Hours)
+A course in astronomy dealing with stars and stellar systems. Topics will include observational astronomy, the electromagnetic spectrum, relativity, stellar and galactic structures, cosmology, and the search for extraterrestrial intelligence.
+ASTP 595 Special Topics in Astrophysics (3 Credit Hours)
+In-depth study of a selected topic in astrophysics at the introductory graduate level. May include a laboratory or computational component.
+Prerequisites: Permission of the instructor
+Search catalog

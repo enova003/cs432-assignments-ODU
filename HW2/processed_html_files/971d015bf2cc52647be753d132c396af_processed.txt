@@ -1,0 +1,115 @@
+MUSA 139 Half-Hour Lesson (1 Credit Hour)
+Applied lesson.
+Prerequisites: permission of the faculty
+MUSA 140 Half-Hour Lesson (1 Credit Hour)
+Half-hour applied lesson.
+Prerequisites: permission of the faculty and MUSA 139
+MUSA 141 Hour Lesson (2 Credit Hours)
+One hour applied lesson. One or more lecture-performances at Student Performance Hours or equivalents thereof are required.
+Prerequisites: Permission of faculty
+MUSA 142 Hour Lesson (2 Credit Hours)
+One hour applied lesson. One or more lecture-performances at Student Performance Hours or equivalents thereof are required.
+Prerequisites: Permission of faculty
+MUSA 151 Hour Lesson - Performance Major (3 Credit Hours)
+One hour performance level applied lesson. One or more lecture-performances at Student Performance Hours or equivalents thereof are required.
+Prerequisites: Permission of faculty
+MUSA 152 Hour Lesson - Performance Major (3 Credit Hours)
+One hour performance level applied lesson. One or more lecture-performances in Area Studio Class or Student Performance Hours or equivalents thereof are required.
+Prerequisites: Permission of faculty
+MUSA 210 Hour Lesson - Music Minor (2 Credit Hours)
+One-hour applied lesson for music minors.
+Prerequisites: Permission of instructor
+MUSA 211 Hour Lesson - Music Minor (2 Credit Hours)
+One-hour applied lesson for the music minor.
+Prerequisites: Permission of instructor
+MUSA 232 Hour Lesson - Applied Composition (3 Credit Hours)
+One hour lesson in composition.
+MUSA 239 Half-Hour Lesson (1 Credit Hour)
+One half-hour applied lesson.
+Prerequisites: MUSA 140 and permission of the faculty
+MUSA 240 Half-Hour Lesson (1 Credit Hour)
+One half-hour applied lesson.
+Prerequisites: MUSA 239 and permission of the faculty
+MUSA 241 Hour Lesson (2 Credit Hours)
+One hour applied lesson. One or more lecture-performances in Area Studio Class, Student Performance Hours, and/or equivalents thereof are required.
+Prerequisites: Permission of faculty
+MUSA 242 Hour Lesson (2 Credit Hours)
+One hour applied lesson. One or more lecture-performances in Area Studio Class, Student Performance Hours, and/or equivalents thereof are required.
+Prerequisites: Permission of faculty
+MUSA 251 Hour Lesson - Performance Major (3 Credit Hours)
+One hour performance level applied lesson. One or more lecture-performances in Area Studio Class, Student Performance Hours, and/or equivalents thereof are required.
+Prerequisites: Permission of faculty
+MUSA 252 Hour Lesson - Performance Major (3 Credit Hours)
+One hour performance level applied lesson. One or more lecture-performances in Area Studio Class, Student Performance Hours, and/or equivalents thereof are required. Completion of this level requires a half hour public recital for instrumental area students.
+Prerequisites: Permission of faculty
+MUSA 310 Hour Lesson - Music Minor (2 Credit Hours)
+One-hour applied lesson for the music minor.
+Prerequisites: Permission of instructor
+MUSA 311 Hour Lesson - Music Minor (2 Credit Hours)
+One-hour applied lesson for the music minor.
+Prerequisites: Permission of instructor
+MUSA 331 Hour Lesson - Applied Composition (3 Credit Hours)
+One hour composition lesson.  Original work in composition starting with the smaller forms in both the vocal and the instrumental fields.  At least one 10-minute lecture-performance at Student Performance Hours or an equivalent thereof is required.
+Prerequisites: MUSA 232
+MUSA 332 Hour Lesson - Applied Composition (3 Credit Hours)
+One hour composition lesson. Original work in composition starting with the smaller forms in both the vocal and the instrumental fields.  At least one 10-minute lecture-performance at Student Performance Hours or an equivalent thereof is required.
+MUSA 339 Hour Lesson - Applied Composition (2 Credit Hours)
+Hour lesson in composition for minors and non-majors.
+Prerequisites: permission of instructor
+MUSA 340 Hour Lesson - Applied Composition (2 Credit Hours)
+Hour lesson in composition for minors and non-majors.
+Prerequisites: MUSA 240 and permission of faculty
+MUSA 341 Hour Lesson (2 Credit Hours)
+One hour applied lesson. One or more lecture-performances in Area Studio Class, Student Performance Hours, and/or equivalents thereof are required.
+Prerequisites: Permission of faculty
+MUSA 342 Hour Lesson (2 Credit Hours)
+One hour applied lesson. One or more lecture-performances in Area Studio Class, Student Performance Hours, and/or equivalents thereof are required.
+Prerequisites: Permission of faculty
+MUSA 351 Hour Lesson - Performance Major (3 Credit Hours)
+One hour performance level applied lesson. One or more lecture-performances in Area Studio Class, Student Performance Hours, and/or equivalents thereof are required. Successful completion of a half hour recital is also required for vocal students only.
+Prerequisites: Permission of faculty
+MUSA 352 Hour Lesson - Performance Major (3 Credit Hours)
+One hour performance level applied lesson.
+Prerequisites: Permission of faculty
+MUSA 410 Hour Lesson - Music Minor (2 Credit Hours)
+One-hour applied lesson for the music minor.
+Prerequisites: Permission of instructor
+MUSA 411 Hour Lesson - Music Minor (2 Credit Hours)
+One-hour applied lesson for the music minor.
+Prerequisites: Permission of instructor
+MUSA 431 Hour Lesson - Applied Composition (3 Credit Hours)
+One hour composition lesson.  Original composition in larger forms.  One or more lecture-performances at Student Performance Hours or equivalents thereof are required.
+MUSA 432 Hour Lesson - Applied Composition (3 Credit Hours)
+One hour composition lesson.  Original composition in larger forms.
+MUSA 439 Hour Lesson - Applied Composition (2 Credit Hours)
+One hour composition lesson for minors and non-majors.
+Prerequisites: MUSA 340 and permission of faculty
+MUSA 440 Hour Lesson - Applied Composition (2 Credit Hours)
+One hour composition lesson for minors and non-majors.
+Prerequisites: MUSA 439 and permission of faculty
+MUSA 441 Hour Lesson (2 Credit Hours)
+One hour applied lesson.  Satisfaction of a degree requirement on this level includes successful performance of a one-half hour private or, at faculty discretion, public recital.
+Prerequisites: permission of faculty
+MUSA 442 Hour Lesson (2 Credit Hours)
+One hour applied lesson.  Satisfaction of a degree requirement on this level includes successful performance of a one-half hour private or, at faculty discretion, public recital.  Numbers may be repeated.
+Prerequisites: permission of faculty
+MUSA 445 Advanced Electronic Composition I (2 Credit Hours)
+This course is designated only for music majors and/or minors.  Music hardware and software to be studied includes, but is not limited to: K2500 Mackie 1604 VLZ 2 pro, Opcode MIDI 96 and Digital.
+Prerequisites: MUSC 335T and MUSC 336 or equivalent experience
+MUSA 446 Advanced Electronic Composition II (2 Credit Hours)
+This course is designated for music majors and and/or minors.  Music hardware and software to be studied includes, but is not limited to:   K2500, Sound Designer, Oro Tools, and Finale.  The participants are expected to compose a medium-length work (at least 4-5 minutes) using the above equipment.  Grading is based on the knowledge of the electronic equipment and the quality of composing.
+MUSA 451 Hour Lesson - Performance Major (3 Credit Hours)
+One hour performance level lesson.
+Prerequisites: Permission of faculty
+MUSA 452 Hour Lesson - Performance Major (3 Credit Hours)
+One hour performance level lesson. Completion of this level includes successful performance of a one-hour public, lecture-style recital.
+Prerequisites: Permission of faculty
+MUSA 460 Applied Sound Recording Technology Mentorship (2 Credit Hours)
+Each student will receive personalized mentorship, career guidance, and detailed project feedback in an applied lesson studio setting. Emphasizing the creation of a professional portfolio serving as a culminating project or experience, these individualized lessons ensure students are prepared for success in this competitive industry. These advanced projects, developed with faculty advisors, include (but not limited to) producing new songs and film scores, mixing an album, entrepreneurship, and/or conducting original research.
+MUSA 651 Advanced Applied Music (3 Credit Hours)
+Graduate level applied performance level lesson.
+Prerequisites: MUSC 452 or equivalent and permission of faculty; audition required
+MUSA 652 Advanced Applied Music (3 Credit Hours)
+Graduate level applied performance lesson. Completion of this level includes successful performance of a one-hour public recital.
+Prerequisites: MUSC 651 or permission of the instructor; audition required
+Search catalog

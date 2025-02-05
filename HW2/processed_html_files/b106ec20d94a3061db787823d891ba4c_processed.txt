@@ -1,0 +1,330 @@
+Engineering with a Concentration in Environmental Engineering (MS)
+Advanced Engineering Certificate in Energy Systems
+The certificate program provides an opportunity to students in STEM fields and industry personnel with undergraduate degree in STEM fields to learn about energy systems or pursue job markets in energy industries. Refer to the Batten College of Engineering and Technology page for details.
+Courses
+Civil and Environmental Engineering (CEE)
+CEE 512 Computational Methods in Structures (3 Credit Hours)
+Analysis of 2-D and 3-D determinate and indeterminate truss/beam/frame structures by the unified direct stiffness matrix method, for both hand-calculation and computer implementation. Popular commercialized (NASTRAN) software will also be discussed.
+CEE 514 Masonry Structures Design (3 Credit Hours)
+Masonry materials, reinforced beams and lintels, walls, columns and pilasters, shear walls, and buildings.
+CEE 515 Steel Structures Design (3 Credit Hours)
+Load and resistance factor design methods for steel structures.
+CEE 516 Wood Structures Design (3 Credit Hours)
+Design of wood structures based on national design specification and load and resistance factor design.
+CEE 530 Foundation Engineering (3 Credit Hours)
+Subsurface exploration, site preparation, design of shallow and deep foundations, and retaining structures.
+Prerequisites: CEE 323 with a grade of C or better
+CEE 531 Slope Stability and Earth Structures Design (3 Credit Hours)
+Slope stability analysis, including limit equilibrium procedures, finite element method, seepage analysis, and advanced topics such as rapid drawdown, construction of embankments on so􀅌 soil, and seismic slope stability. Lateral earth retention systems, including gravity walls, excavation support systems, and applications of geosynthetic material, will be covered.
+Prerequisites: CEE 323
+CEE 532 Introduction to Earthquake Engineering (3 Credit Hours)
+An overview of earthquake processes and details of the characteristics of destructive ground motion; the effects of such motion on civil engineering structures; reviews of current design practice in mitigating earthquake hazards for various civil engineering structures such as buildings, bridges, dams, lifelines, ports and harbors.
+Prerequisites: permission of the instructor
+CEE 533 Geomaterials Stabilization (3 Credit Hours)
+This course studies soil and aggregate's physical, chemical and biological stabilization procedures. Students are introduced to chemical stabilization analysis and design using materials such as cement, lime, and fly ash. Physical ground modification, compaction methods and mechanical stabilization application and design are also studied.
+CEE 540 Hydraulic Engineering (3 Credit Hours)
+Hydraulic transients; flow control structures; computer analysis of hydraulic systems; design of pipelines, open channels and culverts.
+Prerequisites: CEE 340
+CEE 546 Urban Stormwater Hydrology (3 Credit Hours)
+Storm rainfall analysis, design rainfall hyetographs, runoff calculation procedures, detention basins, use of mathematical models to analyze and design urban storm drainage systems.
+Prerequisites: CEE 340
+CEE 547 Groundwater Hydraulics (3 Credit Hours)
+Description of well hydraulics in single and multiple well systems.  Determination of aquifer parameters from pumping tests.  Use of computer models to determine drawdowns due to multiple well systems.
+CEE 550 Water Distribution and Wastewater Collection System Design (3 Credit Hours)
+Design of water distribution systems, sanitary sewer systems and appurtenances.
+Pre- or corequisite: CEE 340
+CEE 552 Air Quality (3 Credit Hours)
+Study of air quality management standards and regulations and pollutant dynamics.  Design and operation of emission control equipment for mobile and stationary sources of air pollution.
+Prerequisites: CEE 350
+CEE 554 Hazardous Waste Treatment (3 Credit Hours)
+Study of sources, generation rates and characteristics of hazardous wastes and their regulation, handling, and design of treatment and disposal facilities.
+Prerequisites: CEE 350
+CEE 555 Pollution Prevention and Green Engineering (3 Credit Hours)
+Application of engineering methods for the prevention of pollution. Review of the pollution prevention related regulations. Study of source reduction methods, analysis of environmentally conscious manufacturing methods, process changes, life cycle analysis, and water/energy conservation methods. Evaluation of pollution prevention case studies.
+CEE 557 Adaptation to Sea Level Rise (3 Credit Hours)
+Investigation of complex relationships between humans and coastlines and study of how humans adapt and develop adaptation measures and solutions to tackle flooding caused by rising sea levels and subsequent heavy storm events.  This course also evaluates natural and nature-based systems, engineered systems, different flood-proofing methods, and impacts of sea level rise on coastal water quality and the potential impacts on disease transmission.
+Prerequisites: CEE 340 or CET 332
+CEE 558 Sustainable Development (3 Credit Hours)
+Overview of social, economical, technical environmental aspects of regional, national and international efforts to achieve sustainable development.  Discussion of the integration of industrial activity and ecological concerns utilizing principles of zero emissions, pollution prevention and design for the environment.
+Prerequisites: permission of instructor
+CEE 559 Biofuels Engineering (3 Credit Hours)
+Course covers the overview of renewable energy sources; fundamentals of biofuels; biomass and types of biomass (e.g., woody biomass, forest residues, agricultural residues, energy crops); composition of lignocelluloses (cellulose, hemicellulose, and lignin); biomass conversion technologies; thermochemical, supercritical water, and biochemical conversion processes; types of biofuels from biomass; liquid fuels (bioethanol, bio-oil, biocrude, and hydrocarbons); gaseous fuels (synthesis gas, hydrogen, biodiesel); solid fuels (biochar, torrefied biomass); biodiesel from vegetable oils, algae to biofuels; value-added processing of biofuel residues; economic and environmental assessments; policies and future R&D.
+Prerequisites: permission of the instructor
+CEE 571 Transportation Operations I (3 Credit Hours)
+This is the first course in transportation operations and traffic flow theory.  Topics include traffic engineering studies, capacity analysis, intersection control, traffic flow models, shockwave analysis, signal warrant analysis, and safety analysis.  Course includes applications of modeling and simulation to isolated intersections.
+Prerequisites: CEE 370
+CEE 574 Transportation Data Analytics (3 Credit Hours)
+This course presents the basic techniques for transportation data analytics. It will discuss statistical modeling, prominent algorithms, and visualization approaches to analyze both small- and large-scale data sets generated from transportation systems. Practices of using different data for various real-world traffic/transportation applications and decision making will also be discussed., STAT 330 ); any programming language such as C, Python or Java is beneficial but not required.
+Prerequisites: Basic probability and statistics (e.g
+CEE 575 Geometric Design of Highways (3 Credit Hours)
+This course provides students with an understanding of basic principles and techniques in order to develop skills in the highway geometric design process. It introduces design methods for three-dimensional layout for roadways, considering cross section (lanes and shoulders, curbs, medians, roadside slopes and ditches, sidewalks), horizontal alignment (tangents and curves), and vertical alignment (grades and vertical curves).
+CEE 582 Introduction to Coastal Engineering (3 Credit Hours)
+Classical small amplitude wave theory, wave transformations in shallow water, shoaling, refraction, diffraction, reflection, breaking.  Wave induced near shore currents and sediment transport processes.  Alternatives to mitigate coastal erosion processes. Introduction to coastal structures.
+Prerequisites: permission of the instructor
+CEE 595 Topics in Civil and Environmental Engineering (1-3 Credit Hours)
+Special topics of interest with emphasis placed on recent developments in civil and/or environmental engineering.
+Prerequisites: Permission of the instructor
+CEE 667 Cooperative Education (1-3 Credit Hours)
+Available for pass/fail grading only.  May be repeated for credit.  Student participation for credit based on the academic relevance of the work experience, criteria, and evaluative procedures as formally determined by the department and Career Development Services prior to the semester in which the work experience is to take place.
+Prerequisites: approval by the department and Career Development Services in accordance with the policy for granting credit for cooperative education programs
+CEE 668 Internship (1-3 Credit Hours)
+Academic requirements will be established by the department and will vary with the amount of credit desired.  Allows students an opportunity to gain short duration career-related experience.
+Prerequisites: approval by department and Career Development Services
+CEE 669 Practicum (1-3 Credit Hours)
+Academic requirements will be established by the department and will vary with the amount of credit desired.  Allows students an opportunity to gain short duration career-related experience.
+Prerequisites: approval by department and Career Development Services
+CEE 695 Topics in Civil and Environmental Engineering (1-3 Credit Hours)
+Special topics of interest with emphasis placed on recent developments in civil and/or environmental engineering.
+Prerequisites: Permission of the instructor
+CEE 697 Independent Study in Civil and Environmental Engineering (1-3 Credit Hours)
+Individual analytical, experimental and/or design study selected by the student.  Approved and supervised by the advisor.
+Prerequisites: permission of the instructor
+CEE 698 Master’s Project (1-3 Credit Hours)
+Individual project, investigation under the direction of the student’s major professor.
+CEE 699 Thesis (1-6 Credit Hours)
+Research leading to the Master of Science thesis.
+CEE 700 Civil and Environmental Engineering Experimental Design (3 Credit Hours)
+Graduate-level overview of engineering experimental design and analysis with emphasis on statistical methods; practical and proper statistical methods applicable to multidisciplinary, real-world civil and environmental engineering problems.
+CEE 701 Applied Mathematics for Civil and Environmental Engineers (3 Credit Hours)
+An examination of numerical and approximate mathematical methods for civil and environmental engineers with applications; finite-difference and finite-integral techniques for single and simultaneous ordinary differential equations; classical and finite-difference solutions of partial differential equations such as heat, wave, Laplace, and plate equation; and finite element applications selected from geotechnical, environmental, hydraulics/water resources, ocean, transportation, and structural engineering.
+CEE 710 Structural Dynamics (3 Credit Hours)
+Free and forced vibration of discrete and continuous systems; elastic and inelastic response of structures under dynamic loads.
+CEE 711 Finite Element Analysis (3 Credit Hours)
+To provide an understanding of the finite element method (FEM) as derived from an integral formulation perspective.  To demonstrate the solutions of (1-D and 2-D) continuum mechanics problems such as solid mechanics, fluid mechanics and heat transfer.
+CEE 712 Advanced Reinforced Concrete (3 Credit Hours)
+Ultimate-strength theory, yield line methods, limit design, and other relevant advanced topics in the theory and design of concrete structures.
+CEE 713 Prestressed Concrete (3 Credit Hours)
+Analysis and design of prestressed concrete members and structures.  Shrinkage, creep and losses, shear, bond and anchorages are discussed.
+CEE 714 Advanced Structural Analysis (3 Credit Hours)
+Elastic analysis of framed structures using matrix and numerical techniques.
+CEE 715 Engineering Optimization I (3 Credit Hours)
+Formulation and solution algorithms for Linear Programming (LP) problems.  Unconstrained and constrained nonlinear programming (NLP) problems. Optimum solution for practical engineering systems.  (Cross-listed with MAE 715 and MAE 815 )
+CEE 717 Bridge Structures Design (3 Credit Hours)
+Design of steel, concrete, and composite bridges using modern techniques and current specifications.
+Prerequisites: CEE 410 and CEE 415 / CEE 515 or equivalent
+CEE 718 Flood Resistant Structural Design (3 Credit Hours)
+Analysis and design of flood protective shields for residential and commercial buildings, floodwalls and gates under hydrostatic, hydrodynamic, and floating debris impact forces, safety of dams and levees, sea-level rise issues for buildings and bridges, ASCE, IBC, and FEMA guidelines for flood resistant structural design, case histories.
+CEE 719 Inelastic Structures (3 Credit Hours)
+Inelastic analysis and behavior of framed structures.
+CEE 720 Structural Stability (3 Credit Hours)
+Fundamentals of elastic and inelastic stability of beams, columns and frames.
+CEE 721 Plates (3 Credit Hours)
+Classical and modern methods for the solution of plates of various shapes and boundary conditions, continuous and axially loaded plates and plates on elastic supports.  Design examples.
+CEE 722 Cluster Parallel Computing (3 Credit Hours)
+Detailed numerical step-by-step procedures to exploit parallel and sparse computation under MPI (Message, Passing, Interface) computer environments are explained.  Large-scale engineering/science applications are emphasized.  Simultaneous linear equations are discussed.
+CEE 723 Seismic Design of Steel Structures (3 Credit Hours)
+Analysis and design of steel structures under seismic loading conditions, introduction to design specifications for steel structures.
+Prerequisites: CEE 310 or equivalent
+CEE 724 Retrofitting Methods for Bridges and Buildings (3 Credit Hours)
+Retrofitting methods for bridges and buildings combined with related advanced structural analysis and design techniques.
+Prerequisites: CEE 310 or equivalent
+CEE 725 Smart Structures (3 Credit Hours)
+This course covers structural systems integrated with sensing, data processing, and control devices, which control and reduce the vibration of structures. Students will learn about basic theories of smart structures, smart materials, sensors, structural health monitoring (SHM) as well as their application to civil infrastructures.
+CEE 730 Advanced Foundation Engineering (3 Credit Hours)
+Advanced analysis and design of shallow and deep foundations and retaining structures.
+Prerequisites: CEE 430 / CEE 530
+CEE 731 Advanced Soil Mechanics (3 Credit Hours)
+Detailed study of shear strength of soils and its application to slope stability and embankment design and analysis.  Advanced laboratory shear tests are included.
+Prerequisites: CEE 323
+CEE 732 Engineering Behavior of Soils (3 Credit Hours)
+Detailed study of physiochemical behavior of soils, fabric, rheology, effective stress path, and their applications to various geotechnical engineering problems.
+Prerequisites: CEE 323
+CEE 733 Soil Dynamics (3 Credit Hours)
+Study of soil behavior under dynamic loadings.  Laboratory and field techniques for determining soil properties and liquefaction potential.  Design examples.
+Prerequisites: CEE 323
+CEE 741 Open Channel Flow (3 Credit Hours)
+Momentum and energy principles, design of open channels, use of mathematical models for flow calculations in rivers, introduction to unsteady open channel flow.
+Prerequisites: CEE 340
+CEE 747 Groundwater Flow (3 Credit Hours)
+Mathematical formulations of laws governing groundwater flow and contaminant transport. Unsaturated flow.  Use of computer models for modeling groundwater aquifers.
+Prerequisites: CEE 340
+CEE 751 Physicochemical Treatment Processes (3 Credit Hours)
+Physical and chemical processes used in the treatment of water and waste water are covered.  Separation, isolation and reaction processes are characterized as well as reactor engineering.
+Prerequisites: CEE 350
+CEE 752 Biological Wastewater Treatment (3 Credit Hours)
+The use of microorganisms to treat domestic and industrial waste waters for organics and nutrient removal are studied.  Characteristics of individual waste water components and the appropriate treatment processes to remove these components are covered.
+Prerequisites: CEE 350
+CEE 753 Advanced Processes for Water and Wastewater Treatment (3 Credit Hours)
+Theory, operation and application of advanced water and waste water treatment systems, including land application, dissolved solids, organic contaminant and nutrient removal processes.  Emphasis on system development for waste water reclamation/recycling.
+Prerequisites: CEE 751 and CEE 752
+CEE 754 Environmental Engineering Microbiology (3 Credit Hours)
+A lecture and laboratory course dealing with the study of the principles and applications of microbiology in waste water treatment, water treatment, stream self-purification and their effects in environmental engineering.
+Prerequisites: CEE 350
+CEE 755 Water Quality Management (3 Credit Hours)
+Characterization of water quality in natural systems and the human activities that result in contaminant input to these systems are studied. Management practices for minimizing contaminant input and for restoring contaminated waters are discussed.
+CEE 756 Water Quality Modeling (3 Credit Hours)
+Formulation of mathematical equations to describe the fate and transport of aqueous contaminants in dynamic surface water systems.  Use of water quality computer models to predict various contamination scenarios.
+Prerequisites: MATH 307 , CEE 340 , CEE 350 or permission of the instructor
+CEE 759 Carbon-Free Clean Energy (3 Credit Hours)
+The course presents an overview of carbon-free energy sources (nuclear, wind, solar, hydropower, and geothermal). The current status, conversion processes, economics, and environmental issues of these forms of energy will be discussed.
+CEE 760 Managing Phosphorous in Circular Economy (3 Credit Hours)
+This course is focused on the importance of management of phosphorous in preserving sustainable environments. The objectives of the course are to provide an overview of different phosphorous management/recovering/recycling strategies; basics of circular economy; role of microalgae in recovery and recycling of phosphorous; phosphorous recovery from wastewater; and application of the principles of circular economy towards global and regional phosphorous management.
+CEE 761 Water Resources Processes and Analysis Methods (3 Credit Hours)
+This course examines interactive hydrologic processes in water resource; modifications of climate change to these processes; and modern simulation and systematic analysis methods incorporating the modifications into practices of water resource planning, utilization, protection, and engineering.
+CEE 762 Aquatic Chemistry in Environmental Engineering (3 Credit Hours)
+Chemical reactions in natural and engineered systems are studied with emphasis placed on developing kinetic expressions and assessing chemical equilibrium.  Kinetic and equilibrium expressions are applied to engineering problems to predict the reaction time and products of specific reactions.
+Prerequisites: CHEM 123N
+CEE 770 Transportation Safety (3 Credit Hours)
+This course focuses on major transportation safety issues including transportation safety goals, safety of various transportation modes, identification of problematic locations, selection of safety countermeasures and their evaluation, safety data and modeling issues.
+Prerequisites: CEE 471 / CEE 571
+CEE 771 Transportation Operations II (3 Credit Hours)
+This is the second course in transportation operations and traffic flow theory.  Topics covered include design of progressive signal systems, queuing theory, car following models, and applications of microscopic traffic simulation to corridor studies.
+Prerequisites: CEE 471 / CEE 571
+CEE 772 Intelligent Transportation Systems (3 Credit Hours)
+This course examines how ITS can be used to enhance mobility and safety. The topics covered in the course include systems engineering approach to ITS, traveler response to technologies and information, ITS planning and evaluation, and ITS deployment and operational performance.
+Prerequisites: CEE 370
+CEE 773 Transportation Planning (3 Credit Hours)
+This course covers transportation planning processes that include policy direction, transportation data, travel demand forecasting models, and decision-making/stakeholders issues.
+CEE 774 Transportation Network Flow Models (3 Credit Hours)
+This course provides a rigorous introduction to transportation network modeling, with special emphasis on network equilibrium problems. Topics include: elementary graph theory, shortest path problem nonlinear optimization, optimization of univariate functions, deterministic and stochastic user equilibrium.
+Prerequisites: CEE 370 or equivalent
+CEE 775 Transportation Network Algorithms (3 Credit Hours)
+Fundamental models and algorithms in optimization, stochastic modeling and parallel computing will be discussed and illustrated with transportation applications.
+CEE 776 Simulation in Transportation Networks (3 Credit Hours)
+Principles of simulation modeling. Microscopic, mesoscopic and macroscopic traffic simulation models. Driver behavior in networks. Calibration and validation of traffic simulation models. Traffic simulation software.
+CEE 777 Econometric Modeling in Transportation (3 Credit Hours)
+The class focuses on the development of econometric modeling and its application in the field of transportation engineering. Topics to be covered include statistical inference, linear regression, count data models, discrete choice models, survival analysis, time series modeling, spatial modeling, panel data analysis, and structural equation modeling. Students will have a better understanding of the concepts and theories of econometrics and will be equipped with well-suited modeling and analysis techniques.
+Prerequisites: Graduate student status
+CEE 782 Design of Coastal Structures (3 Credit Hours)
+Nonlinear wave theories; wave forces on slender piles and seawalls; design of rubblemound structures; design philosophy, initial costs, maintenance costs, optimized design using stochastic methods; design of renourished beaches.  Advanced alternative solutions for shore protection.
+Prerequisites: CEE 482 / CEE 582
+CEE 787 Dredging and Beach Engineering (3 Credit Hours)
+Types of dredges, factors affecting dredge performance; hydraulic dredges (cutter, hopper) and mechanical dredges systems (bucket, clamshell, etc.); shoaling rate determination; inlet sand bypassing systems; beach renourishment schemes.  Design of beach renourishment/projects.
+Prerequisites: CEE 330
+CEE 788 Coastal Hydrodynamics and Sediment Processes (3 Credit Hours)
+This course discusses the hydrodynamics of the coastal environment and reviews waves, low-frequency motions, and coastal responses, including sediment processes and beach evolution. Specific topics to be covered include: review of linear wave theory; introduction to nonlinear waves; wave-averaged motions and radiation stresses; wave and current boundary layers; wave setup, longshore current, rip current, undertow, and nearshore circulation; wave dissipation mechanisms; and fluid-sediment interaction. An introduction to cohesive sediments, sediment concentration and transport models, and beach morphology will also be addressed.
+Prerequisites: CEE 482 / CEE 582
+CEE 789 Computational Environmental Fluid Dynamics (3 Credit Hours)
+Fluid dynamics conservation laws as transport phenomena.  Classical, finite-difference models for advection, diffusion and combined fluid flows.  Explicit and implicit schemes to solve unsteady, free-surface fluid flow and diffusion (dispersion) problems in one and multi-dimensions.  Turbulence models.
+CEE 795 Topics in Civil and Environmental Engineering (1-3 Credit Hours)
+Special topics of interest with emphasis placed on recent developments in civil and/or environmental engineering.
+Prerequisites: Permission of the instructor
+CEE 797 Independent Study (1-3 Credit Hours)
+CEE 800 Civil and Environmental Engineering Experimental Design (3 Credit Hours)
+Graduate-level overview of engineering experimental design and analysis with emphasis on statistical methods; practical and proper statistical methods applicable to multidisciplinary, real-world civil and environmental engineering problems.
+CEE 801 Applied Mathematics for Civil and Environmental Engineers (3 Credit Hours)
+An examination of numerical and approximate mathematical methods for civil and environmental engineers with applications; finite-difference and finite-integral techniques for single and simultaneous ordinary differential equations; classical and finite-difference solutions of partial differential equations such as heat, wave, Laplace, and plate equation; and finite element applications selected from geotechnical, environmental, hydraulics/water resources, ocean, transportation, and structural engineering.
+CEE 810 Structural Dynamics (3 Credit Hours)
+Free and forced vibration of discrete and continuous systems; elastic and inelastic response of structures under dynamic loads.
+CEE 811 Finite Element Analysis (3 Credit Hours)
+To provide an understanding of the finite element method (FEM) as derived from an integral formulation perspective.  To demonstrate the solutions of (1-D and 2-D) continuum mechanics problems such as solid mechanics, fluid mechanics and heat transfer.
+CEE 812 Advanced Reinforced Concrete (3 Credit Hours)
+Ultimate-strength theory, yield line methods, limit design, and other relevant advanced topics in the theory and design of concrete structures.
+CEE 813 Prestressed Concrete (3 Credit Hours)
+Analysis and design of prestressed concrete members and structures.  Shrinkage, creep and losses, shear, bond and anchorages are discussed.
+CEE 814 Advanced Structural Analysis (3 Credit Hours)
+Elastic analysis of framed structures using matrix and numerical techniques.
+CEE 815 Engineering Optimization I (3 Credit Hours)
+Formulation and solution algorithms for Linear Programming (LP) problems.  Unconstrained and constrained nonlinear programming (NLP) problems. Optimum solution for practical engineering systems.  (Cross-listed with MAE 715 / MAE 815 )
+CEE 817 Bridge Structures Design (3 Credit Hours)
+Design of steel, concrete, and composite bridges using modern techniques and current specifications.
+Prerequisites: CEE 410 and CEE 415 / CEE 515 or equivalent
+CEE 818 Flood Resistant Structural Design (3 Credit Hours)
+Analysis and design of flood protective shields for residential and commercial buildings, floodwalls and gates under hydrostatic, hydrodynamic, and floating debris impact forces, safety of dams and levees, sea-level rise issues for buildings and bridges, ASCE, IBC, and FEMA guidelines for flood resistant structural design, case histories.
+CEE 819 Inelastic Structures (3 Credit Hours)
+Inelastic analysis and behavior of framed structures.
+CEE 820 Structural Stability (3 Credit Hours)
+Fundamentals of elastic and inelastic stability of beams, columns and frames.
+CEE 821 Plates (3 Credit Hours)
+Classical and modern methods for the solution of plates of various shapes and boundary conditions, continuous and axially loaded plates and plates on elastic supports.  Design examples.
+CEE 822 Cluster Parallel Computing (3 Credit Hours)
+Detailed numerical step-by-step procedures to exploit parallel and sparse computation under MPI (Message, Passing, Interface) computer environments are explained.  Large-scale engineering/science applications are emphasized.  Simultaneous linear equations are discussed.
+CEE 823 Seismic Design of Steel Structures (3 Credit Hours)
+Analysis and design of steel structures under seismic loading conditions, introduction to design specifications for steel structures.
+Prerequisites: CEE 310 or equivalent
+CEE 824 Retrofitting Methods for Bridges and Buildings (3 Credit Hours)
+Retrofitting methods for bridges and buildings combined with related advanced structural analysis and design techniques.
+Prerequisites: CEE 310 or equivalent
+CEE 825 Smart Structures (3 Credit Hours)
+This course covers structural systems integrated with sensing, data processing, and control devices, which control and reduce the vibration of structures. Students will learn about basic theories of smart structures, smart materials, sensors, structural health monitoring (SHM) as well as their application to civil infrastructures.
+CEE 830 Advanced Foundation Engineering (3 Credit Hours)
+Advanced analysis and design of shallow and deep foundations and retaining structures.
+Prerequisites: CEE 430 / CEE 530
+CEE 831 Advanced Soil Mechanics (3 Credit Hours)
+Detailed study of shear strength of soils and its application to slope stability and embankment design and analysis.  Advanced laboratory shear tests are included.
+Prerequisites: CEE 323
+CEE 832 Engineering Behavior of Soils (3 Credit Hours)
+Detailed study of physiochemical behavior of soils, fabric, rheology, effective stress path, and their applications to various geotechnical engineering problems.
+Prerequisites: CEE 323
+CEE 833 Soil Dynamics (3 Credit Hours)
+Study of soil behavior under dynamic loadings.  Laboratory and field techniques for determining soil properties and liquefaction potential.  Design examples.
+Prerequisites: CEE 323
+CEE 841 Open Channel Flow (3 Credit Hours)
+Momentum and energy principles, design of open channels, use of mathematical models for flow calculations in rivers, introduction to unsteady open channel flow.
+Prerequisites: CEE 340
+CEE 847 Groundwater Flow (3 Credit Hours)
+Mathematical formulations of laws governing groundwater flow and contaminant transport. Unsaturated flow.  Use of computer models for modeling groundwater aquifers.
+Prerequisites: CEE 340
+CEE 851 Physiochemical Treatment Processes (3 Credit Hours)
+Physical and chemical processes used in the treatment of water and waste water are covered.  Separation, isolation and reaction processes are characterized as well as reactor engineering.
+Prerequisites: CEE 350
+CEE 852 Biological Wastewater Treatment (3 Credit Hours)
+The use of microorganisms to treat domestic and industrial waste waters for organics and nutrient removal are studied.  Characteristics of individual waste water components and the appropriate treatment processes to remove these components are covered.
+Prerequisites: CEE 350
+CEE 853 Advanced Processes for Water and Wastewater Treatment (3 Credit Hours)
+Theory, operation and application of advanced water and waste water treatment systems, including land application, dissolved solids, organic contaminant and nutrient removal processes.  Emphasis on system development for waste water reclamation/recycling.
+Prerequisites: CEE 751 and CEE 752
+CEE 854 Environmental Engineering Microbiology (3 Credit Hours)
+A lecture and laboratory course dealing with the study of the principles and applications of microbiology in waste water treatment, water treatment, stream self-purification and their effects in environmental engineering.
+Prerequisites: CEE 350
+CEE 855 Water Quality Management (3 Credit Hours)
+Characterization of water quality in natural systems and the human activities that result in contaminant input to these systems are studied. Management practices for minimizing contaminant input and for restoring contaminated waters are discussed.
+CEE 856 Water Quality Modeling (3 Credit Hours)
+Formulation of mathematical equations to describe the fate and transport of aqueous contaminants in dynamic surface water systems.  Use of water quality computer models to predict various contamination scenarios.
+Prerequisites: MATH 307 , CEE 340 , CEE 350 or permission of the instructor
+CEE 859 Carbon-Free Clean Energy (3 Credit Hours)
+The course presents an overview of carbon-free energy sources (nuclear, wind, solar, hydropower, and geothermal). The current status, conversion processes, economics, and environmental issues of these forms of energy will be discussed.
+CEE 860 Managing Phosphorous in Circular Economy (3 Credit Hours)
+This course is focused on the importance of management of phosphorous in preserving sustainable environments. The objectives of the course are to provide an overview of different phosphorous management/recovering/recycling strategies; basics of circular economy; role of microalgae in recovery and recycling of phosphorous; phosphorous recovery from wastewater; and application of the principles of circular economy towards global and regional phosphorous management.
+CEE 861 Water Resources Processes and Analysis Methods (3 Credit Hours)
+This course examines interactive hydrologic processes in water resource; modifications of climate change to these processes; and modern simulation and systematic analysis methods incorporating the modifications into practices of water resource planning, utilization, protection, and engineering.
+CEE 862 Aquatic Chemistry in Environmental Engineering (3 Credit Hours)
+Chemical reactions in natural and engineered systems are studied with emphasis placed on developing kinetic expressions and assessing chemical equilibrium.  Kinetic and equilibrium expressions are applied to engineering problems to predict the reaction time and products of specific reactions.
+Prerequisites: CHEM 123N
+CEE 870 Transportation Safety (3 Credit Hours)
+This course focuses on major transportation safety issues including transportation safety goals, safety of various transportation modes, identification of problematic locations, selection of safety countermeasures and their evaluation, safety data and modeling issues.
+Prerequisites: CEE 471 / CEE 571
+CEE 871 Transportation Operations II (3 Credit Hours)
+This is the second course in transportation operations and traffic flow theory.  Topics covered include design of progressive signal systems, queuing theory, car following models, and applications of microscopic traffic simulation to corridor studies.
+Prerequisites: CEE 471 / CEE 571
+CEE 872 Intelligent Transportation Systems (3 Credit Hours)
+This course examines how ITS can be used to enhance mobility and safety. The topics covered in the course include systems engineering approach to ITS, traveler response to technologies and information, ITS planning and evaluation, and ITS deployment and operational performance.
+Prerequisites: CEE 370
+CEE 873 Transportation Planning (3 Credit Hours)
+This course covers transportation planning processes that include policy direction, transportation data, travel demand forecasting models, and decision-making/stakeholders issues.
+CEE 874 Transportation Network Flow Models (3 Credit Hours)
+This course provides a rigorous introduction to transportation network modeling, with special emphasis on network equilibrium problems. Topics include: elementary graph theory, shortest path problem nonlinear optimization, optimization of univariate functions, deterministic and stochastic user equilibrium.
+CEE 875 Transportation Network Algorithms (3 Credit Hours)
+Fundamental models and algorithms in optimization, stochastic modeling and parallel computing will be discussed and illustrated with transportation applications.
+CEE 876 Simulation in Transportation Networks (3 Credit Hours)
+Principles of simulation modeling. Microscopic, mesoscopic and macroscopic traffic simulation models. Driver behavior in networks. Calibration and validation of traffic simulation models. Traffic simulation software.
+CEE 877 Econometric Modeling in Transportation (3 Credit Hours)
+The class focuses on the development of econometric modeling and its application in the field of transportation engineering. Topics to be covered include statistical inference, linear regression, count data models, discrete choice models, survival analysis, time series modeling, spatial modeling, panel data analysis, and structural equation modeling. Students will have a better understanding of the concepts and theories of econometrics and will be equipped with well-suited modeling and analysis techniques.
+Prerequisites: Graduate student status
+CEE 882 Design of Coastal Structures (3 Credit Hours)
+Nonlinear wave theories; wave forces on slender piles and seawalls; design of rubblemound structures; design philosophy, initial costs, maintenance costs, optimized design using stochastic methods; design of renourished beaches.  Advanced alternative solutions for shore protection.
+Prerequisites: CEE 482 / CEE 582
+CEE 887 Dredging and Beach Engineering (3 Credit Hours)
+Types of dredges, factors affecting dredge performance; hydraulic dredges (cutter, hopper) and mechanical dredges systems (bucket, clamshell, etc.); shoaling rate determination; inlet sand bypassing systems; beach renourishment schemes.  Design of beach renourishment/projects.
+Prerequisites: CEE 330
+CEE 888 Coastal Hydrodynamics and Sediment Processes (3 Credit Hours)
+This course discusses the hydrodynamics of the coastal environment and reviews waves, low-frequency motions, and coastal responses, including sediment processes and beach evolution. Specific topics to be covered include: review of linear wave theory; introduction to nonlinear waves; wave-averaged motions and radiation stresses; wave and current boundary layers; wave setup, longshore current, rip current, undertow, and nearshore circulation; wave dissipation mechanisms; and fluid-sediment interaction. An introduction to cohesive sediments, sediment concentration and transport models, and beach morphology will also be addressed.
+Prerequisites: CEE 482 / CEE 582
+CEE 889 Computational Environmental Fluid Dynamics (3 Credit Hours)
+Fluid dynamics conservation laws as transport phenomena.  Classical, finite-difference models for advection, diffusion and combined fluid flows.  Explicit and implicit schemes to solve unsteady, free-surface fluid flow and diffusion (dispersion) problems in one and multi-dimensions.  Turbulence models.
+Prerequisites: CEE 330
+CEE 892 Doctor of Engineering Project (1-12 Credit Hours)
+Directed individual study applying advanced level technical knowledge to identify, formulate, and solve a complex, novel problem in Civil and Environmental Engineering.
+CEE 895 Topics in Civil and Environmental Engineering (1-3 Credit Hours)
+Special topics of interest with emphasis placed on recent developments in civil and/or environmental engineering.
+Prerequisites: Permission of the instructor
+CEE 897 Independent Study (1-3 Credit Hours)
+Individual analytical, experimental and/or design study selected by the student.  Approved and supervised by the advisor.
+Prerequisites: permission of the instructor
+CEE 899 Dissertation Research (1-9 Credit Hours)
+Research for the dissertation.
+CEE 998 Master's Graduate Credit (1 Credit Hour)
+This course is a pass/fail course for master's students in their final semester. It may be taken to fulfill the registration requirement necessary for graduation.  All master's students are required to be registered for at least one graduate credit hour in the semester of their graduation.
+CEE 999 Doctoral Graduate Credit (1 Credit Hour)
+This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.
+Search catalog

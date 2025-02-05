@@ -1,0 +1,29 @@
+Get Started
+Get familiar with the interface
+The Global Navigation Menu is located along the left side of every screen in Canvas. The links in this menu provide quick access to frequently used Canvas features and to your courses. Links include the Dashboard, Courses, Calendar, Inbox, and the Help menu.
+Explore the dashboard
+The Dashboard is the first page you see after you log in. From here, you'll see Course Cards that will take you to each of your courses, along with any Announcements from ODU. In the Dashboard Sidebar (on the right), you can see your To Do list, upcoming assignments and more.
+To change your Dashboard view, click the Options menu (the three vertical dots) and select your preferred viewing option.
+View courses
+To view your courses, click the Courses link on the left (1), then select the name of the course (2).
+The Courses menu can display courses you are enrolled in or your list of favorite courses. To customize your courses list or view all your Canvas courses , click the All Courses link.
+Explore the course home page
+When you select a course, you land on the Course Home Page . You see the Course Navigation on the left (1), the main content area in the middle (2), and the sidebar on the right (3).
+Instructors can customize the links that are shown in their courses, so if you see links in some courses but not others, your instructor may have hidden them. Your main course content will likely be in the Modules link, but your instructor may organize the content differently.
+View and submit assignments
+To view your assignments, click the Assignments link from the Course Navigation on the Course Home Page .
+The Assignment page allows you to view all your courses' assignments. If the Assignments link is not available, you can access Assignments from the Dashboard, Syllabus, Gradebook, Calendar, or Modules.
+To view the details of an assignment (like instructions or grading criteria), click the name of the assignment. Assignment types include online assignments (1), discussions (2), or quizzes (3). There are many ways to submit online assignments in Canvas, depending on what your instructors chooses.
+View grades
+To view your grades for a course, click the Courses link from the Global Navigation Menu, click the name of the course, then click the Grades link.
+The Grades page displays all current grades for that course, sorted chronologically by assignment due date. From this page, you can also change the course for which you would like to view grades, change the sorting order or view additional information like the scoring details, comments, and rubrics.
+Set preferences
+You can change your settings like pronouns , language , and time zone or add contact methods for notifications:
+Click Account in the Global Navigation Menu, then click Settings.
+Click the Edit Settings button on the right.
+Make your edits, then click Update Settings.
+Click Account in the Global Navigation Menu, then click Notifications.
+Select an option from the dropdown and choose what, where and when notifications are sent.
+Additional Resources
+Canvas Overview (Students)
+In this video from Canvas, you will learn about your Canvas Dashboard and Global Navigation links. You'll also learn about navigating a course and accessing assignments.

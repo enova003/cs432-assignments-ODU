@@ -1,0 +1,102 @@
+Graduate Courses
+LIBS 110G Information Literacy for the Digital Age (3 Credit Hours)
+Students require a comprehensive understanding of information literacy so they can become effective users of ideas and information and guide others in activities of knowledge use and creation. This course will provide an introduction to the process and methods of retrieving information using digital literacies. Students will learn to identify an information need, then locate, evaluate, and use appropriate resources while embedding the dispositions of academic integrity and ethical use. Topics include use of collaborative tools for development of information, including social media. The content focuses on implementing effective digital information literacy strategies situated in various content areas with the intent that these strategies can be incorporated into future professional and instructional practices.
+LIBS 601 STEM Education and Maker Spaces in Libraries (3 Credit Hours)
+This course builds on current research and practice to strengthen candidates’ conceptual understanding of design-based STEM pedagogy. Through participation in activities and discussions, students will review concepts embedded within design-based, problem-based, project-based, and inquiry instruction and learning. This course will explore a synthesized overview of trends affecting STEM education and investigate makerspaces and making activities to support inquiry-driven, community engagement in information settings. Students will gain hands-on experience with digital and physical making toolkits and design maker experiences within library spaces.
+LIBS 602 Production of Instructional Materials (3 Credit Hours)
+Develops skills in preparing, evaluating, and presenting instructional materials and the use of those materials to promote higher-level thinking and enhance the learning environment. Includes elements of design, multimedia materials, and development of in-service activities. Hands-on practice in media production and dissemination.
+LIBS 603 Online Resources for Teaching (3 Credit Hours)
+Students will gain experience locating, evaluating, collecting, arranging, and disseminating content resources available as open educational resources to support learning and teaching. Issues surrounding open educational resources including copyright, licensing, access, and quality will be addressed. A primary focus will be on developing digital textbooks that may include websites, databases, current awareness experts, and digital field trips to support the delivery of instruction.
+LIBS 608 Foundations of Libraries and Information (3 Credit Hours)
+This course provides social, cultural, and historical perspectives on libraries and librarianship. The purpose, functions and processes of libraries and information are explored.  Current types of libraries and information agencies are explored.  Legal, ethical, advocacy, and economic policies, trends and positions are addressed.
+Prerequisites: Admission to the Master of Library and Information Studies Degree
+LIBS 609 History of Books and Libraries (3 Credit Hours)
+This course provides a historical perspective on books and libraries as social and cultural objects and spaces. Surveys the history of communication technologies from early history through current events and from stone tablets to electronic formats.
+LIBS 610 Preservation Management in Libraries and Archives (3 Credit Hours)
+An introduction to the principles and practice of preservation with an emphasis on the management of preservation activities. Includes physical and intellectual preservation of records and media and the history, kinds of materials and treatments, techniques and technologies, and digitization and digital records. Issues of storage, security, and disaster prevention and response will also be addressed.
+LIBS 611 Community Archiving (3 Credit Hours)
+All communities create historical records, and recent decades have brought a growing critical awareness of how existing social hierarchies influence the creation and maintenance of historical archives. Community archive projects locate the power to preserve and shape history, heritage, and memory in communities themselves. Through readings, discussion, and analysis, this course will introduce students to a range of issues relating to grassroots community archives, archives of community organizations, and what happens when larger institutions partner with communities and community organizations to create and maintain archives.
+Prerequisites: LIBS 608
+LIBS 612 Research Methods in Library and Information Studies (3 Credit Hours)
+This course will introduce students to theoretical and applied research design, methodologies, and evaluation of research in library and information science (LIS). The course will include a review of existing research, allowing students to evaluate and assess the potential value of literature and research findings through critical analysis. Basic qualitative and quantitative research protocols will be learned through this class.
+Pre- or corequisite: LIBS 608
+LIBS 614 Information Ethics (3 Credit Hours)
+Introduces the major theories and basic concepts of ethics. Historical and contemporary professional frameworks and positions will be analyzed in ethical contexts. Students will apply ethical principles to dilemmas and decision making in the information and library profession.
+Prerequisites: LIBS 608
+LIBS 615 Action Research for School Librarians (3 Credit Hours)
+This course explores action research in a school library. Students will examine the value and characteristics of educational action research and apply these ideas toward the development of an action research project. Topics include the evaluation of published action research projects, community-based assessment, data collection and analysis, and the design and development of a project conducted in a school library setting.
+LIBS 626 Web Archiving Theory, Practice, and Implications (3 Credit Hours)
+An interdisciplinary introduction to web archiving fundamentals including web crawling, collection development and summarization including planning, analyzing, and sharing collections. Includes a review of ethical and legal issues, trustworthiness, preservation, security, and cultural impact of web archiving.
+Prerequisites: This course is intended for computer science students with limited information studies skills, as well as information science studies students with limited computer science skills
+LIBS 642 Children’s Literature PREK-8 (3 Credit Hours)
+Students examine, evaluate, discuss, and use literature and related materials for children and young adolescents and explore strategies for introducing and using literature with children.
+Prerequisites: graduate standing
+LIBS 644 Literature and Media for Young Adults (3 Credit Hours)
+An exploration of the selection of literature and media for young adults (ages 12 - 18). Includes current trends and research in teens' social, physical and cultural development, teen interests and needs, and multiple literacies. Focus is on multiple formats, diverse learners, and strategies to promote reading for information, pleasure and lifelong learning.
+Prerequisites: Graduate standing
+LIBS 647 Reading and Literature for Adults (3 Credit Hours)
+Survey of trends and selection tools in literature and reading for adult library patrons including popular fiction and non-fiction genres in multiple formats and across life stages in adulthood.  Strategies will include reader’s advisory, book clubs, and other programming to meet the diverse needs and interests of adult readers.
+LIBS 648 Reading, Evaluating, and Selecting Graphic Novels (3 Credit Hours)
+This course explores the use, selection and evaluation of literature and media that use sequential art to tell stories in a visual format: comics, webcomics, graphic novels, and more. The course will include the history of the sequential art format; an exploration of reading through a variety of  graphics, text and media; and a survey of current and historical titles for all ages. Students will explore resources for selecting and evaluating materials in graphic format as well as specific applications for graphic materials in classrooms and libraries.
+LIBS 649 Storytelling (3 Credit Hours)
+Explores storytelling for the purpose of informing, entertaining and/or educating in an information setting. This course introduces narrative structure and technique using a variety of different media. Storytelling strategies help students gain communication skills and practice. Students will explore the potential use of storytelling for a variety of age groups, from preschool through adults, and for special audiences.
+LIBS 653 User Centered Design in Library and Information (3 Credit Hours)
+This course introduces current and future information professionals to user-centered design in library and information studies. Students learn how to conduct research with users, gather users' requirements, and develop intuitive, user-friendly interfaces (e.g., software, mobile applications). Theories and techniques for engaging users and designing user-centered interfaces are learned and applied.
+Prerequisites: LIBS 608
+LIBS 654 Information Literacy Instruction (3 Credit Hours)
+Students will develop expertise in the delivery of in-person and online information literacy and research instruction in library and information contexts through an exploration of various information literacy models, standards, and theories. Students will gain practical experience in planning, implementing, and assessing library instruction and digital learning objects through a variety of delivery methods.
+LIBS 655 Methods and Strategies for the School Library (1-3 Credit Hours)
+Participants will draw from research-based theory of pedagogical best practice to discuss, model and apply practical applications to content topics. Content focuses on strategies to implement effective classroom management for the library learning environment, engage library learners and assess their performance, and build collaborative relationships that integrates library and content instruction into practice.
+LIBS 656 User Services and Programming (3 Credit Hours)
+An overview of the planning, evaluation, and administration of programs and services designed to meet the needs and interests of individuals and groups in libraries and other information spaces.
+LIBS 657 LGBTQIA+ Issues in Public Libraries (3 Credit Hours)
+The populations served by public libraries are varied and diverse, and they require resources that will address these diverse needs. Budgetary and political concerns, among other things, often restrict the ability of libraries to fulfill the needs of 'invisible populations,' or groups whose minority status is not readily or visually apparent, such as the lesbian, gay, bisexual, transgender, queer, intersex, asexual plus (LGBTQIA+) community. This course is designed to bring particular issues the LGBTQIA+ community may have in relation to public libraries to the forefront and provide students with the tools to address these issues in the field.
+LIBS 658 Knowledge Resources: Planning, Selecting & Managing Collections (3 Credit Hours)
+Examines the concepts and issues related to the lifecycle of recorded knowledge and information including emerging technologies. Addresses fundamentals of planning, selecting, analyzing, managing, and developing collections and technology resources for diverse communities.
+Pre- or corequisite: LIBS 608
+LIBS 668 Internship in Libraries and Information Workplaces (1-9 Credit Hours)
+Students will work in a library or related workplace, fully participating in the day-to-day operations including administrative tasks, instruction, and/or other programming and services.  Students taking this course for school library endorsement may have additional requirements/prerequisites.
+Prerequisites: LIBS 608 , LIBS 658 , LIBS 677 , and LIBS 674
+LIBS 669 Internship in School Libraries (3-6 Credit Hours)
+Students will work in a school library setting, participating fully in the administrative tasks, collaborative planning with teaching peers, and preparation and delivery of instructional lessons. This course is for students who are already licensed teachers or who are seeking initial licensure in school librarianship.
+Prerequisites: LIBS 602 , LIBS 608 , LIBY 642, LIBS 644 , LIBS 658 , LIBS 674 , LIBS 676 , OR LIBS 677
+LIBS 674 Library Management and Leadership (3 Credit Hours)
+An examination of the critical issues concerning the leadership and management of a library. Students will explore the issues involved in building library programs to include considerations of physical space, budgetary decisions, and personnel.
+Pre- or corequisite: LIBS 608
+LIBS 676 Library Media Services and the Curriculum (3 Credit Hours)
+Emphasis is on library services/ programs and the curriculum of the school.  Includes techniques for curriculum design and development, information skills instruction, instructional partnerships, advocacy, implementation of an integrated library-media instructional program and public relations programs.
+Prerequisites: Admittance to the MLIS with School Library Concentration
+Pre- or corequisite: LIBS 608 , LIBS 658 , LIBS 674 , LIBS 677 , and LIBS 602
+LIBS 677 Knowledge Organization and Access (3 Credit Hours)
+Describes the fundamentals whereby library materials are uniformly described and made available through recognized cataloging, processing, organizing and accessing of materials. In this course, students will develop the ability to apply and adapt the principles of classifying and cataloging, and will understand how these fundamental skills fit into the broader area of technical processing and how they support the principles of services in the library.
+Pre- or corequisite: LIBS 608
+LIBS 679 Theory and Management of Reference and Information Retrieval (3 Credit Hours)
+Students will explore database structures, search algorithms, indexing principles, and user interfaces for information search and retrieval. Current issues in the evaluation, acquisitions and management of databases and other information resources will be addressed.  Includes advanced strategies for effective information search and educating and assisting users in search techniques and evaluation.
+Prerequisites: LIBS 677
+LIBS 680 Culturally Responsive Librarianship (3 Credit Hours)
+This course provides thought-provoking background and practical suggestions for engaging with a diverse population. Participants explore their own assumptions about race, class, and culture and learn strategies for creating environments and an open dialog that are culturally inviting to all.
+LIBS 681 Assessment and Evaluation in Library and Information Science (3 Credit Hours)
+Students will explore assessment and evaluation related to library and information contexts with particular attention to historical and current theories and values, relevant standards, and current initiatives and measures. Students will design an evaluation of a current library service or resource that is connected to library goals and objectives with a presentation to effectively communicate data to various stakeholders.
+Prerequisites: LIBS 608
+LIBS 684 Advanced Library Management (3 Credit Hours)
+Reviews the advanced knowledge and competencies required for the senior administration level of all types of libraries and library systems. Competencies include budgeting and analysis, project management, human resources, and the development of library reporting and advocacy materials.
+Prerequisites: LIBS 674
+LIBS 687 Cataloging and Classification (3 Credit Hours)
+Cataloging and metadata principles introduced in LIBS 677 are further developed and applied in this course.  Students will apply principles of bibliographic description, subject analysis, and classification to a variety of formats including multimedia, serials, and online resources. The course will address systems, technology and trends in cataloging and metadata environments.
+Prerequisites: LIBS 677 or instructor approval
+LIBS 690 Seminar in Academic Libraries (3 Credit Hours)
+Academic libraries are dynamic organizations, working to meet the needs of their users and stakeholders while supporting parent higher education institutions. This course examines the functions of the academic library within the higher education environment. A wide variety of topics are covered in this survey of the field, including a focus on the historical background, current trends, and future directions in academic librarianship.
+LIBS 691 Seminar in Public Libraries (3 Credit Hours)
+Students will gain an understanding of public libraries in the United States and their role within their communities. Topics covered include a historical background of public libraries, overviews of current trends, and future directions in public libraries. This course also explores public services, the roles and expectations of public librarianship as a career.
+LIBS 693 Seminar in Archives and Special Collections (3 Credit Hours)
+An introduction to the nature of archives and special collections. The course explores the history of special collections, archives, records, and cultural memory. Aspects of the profession including ethics, values, financial and legal responsibilities are included. Students will be introduced to the basic knowledge, tools, methods and practices associated with archival work.
+LIBS 694 Seminar in Social Justice in Library and Information Work (3 Credit Hours)
+In this seminar course, students will explore current social justice issues through an activist framework.  Historical and contemporary frameworks, positions and initiatives related to the library profession will be considered. The course will examine professional structures, documents, emerging frameworks and social actions as they relate to specific topics of social justice.
+LIBS 695 Topics in Library and Information Studies (1-3 Credit Hours)
+This course provides opportunities for graduate students to explore current topics, trends and issues related to libraries and information studies.
+LIBS 697 Independent Study in Library Science (1-3 Credit Hours)
+This course is an independent study of special topics in Library Science.
+Prerequisites: Instructor approval required
+LIBS 998 Master's Graduate Credit (1 Credit Hour)
+This course is a pass/fail course for master's students in their final semester. It may be taken to fulfill the registration requirement necessary for graduation.  All master's students are required to be registered for at least one graduate credit hour in the semester of their graduation.
+Search catalog

@@ -1,0 +1,54 @@
+NMED 300 Medical Terminology (3 Credit Hours)
+A course designed to cover the terminology and abbreviations used in the clinical sciences.
+Prerequisites: ENGL 110C or equivalent
+NMED 331 Fundamental Concepts in Nuclear Medicine Technology (4 Credit Hours)
+A course designed to cover the physical principles related to nuclear medicine technology.  The methods and mathematics of radioactive decay, types of radiation, radiation interactions, origins of radionuclides, including SPECT and PET/CT radionuclides also presented.
+Prerequisites: PHYS 101N and PHYS 102N or equivalent
+NMED 332 Nuclear Instrumentation (4 Credit Hours)
+This course is designed to familiarize the student with the theory, operation and quality assurance associated with the instrumentation found in a typical nuclear medicine department. The course also covers the instrumentation of PET/CT scanners as well as the common radiopharmaceuticals, imaging protocols, and radiation safety currently employed in diagnostic PET/CT imaging practice.
+Prerequisites: NMED 331 or permission of program director
+NMED 335 Radiation Health (3 Credit Hours)
+Discussions of radiation effects on cellular systems as well as guidelines for radiation protection and safe handling of radioactive materials in the nuclear medicine clinical setting.
+Prerequisites: NMED 331 or permission of the instructor
+NMED 401 Nuclear Medicine Technology I (4 Credit Hours)
+A course  designed to cover the nuclear medicine procedures and protocols of the gastrointestinal, genitourinary, central nervous, skeletal systems. Other current or emerging clinical nuclear medicine procedures are also covered.
+Prerequisites: BIOL 240 or BIOL 250 and BIOL 241 or BIOL 251 and admission to the nuclear medicine program
+NMED 402 Nuclear Medicine Technology II (4 Credit Hours)
+A course designed to cover the nuclear medicine protocols and procedures of the respiratory, cardiovascular, endocrine, infection/inflammation and lymphatic systems.  Other current and emerging clinical nuclear medicine procedures and protocols are also presented.
+Prerequisites: NMED 401 or permission of the program director
+NMED 403 Radiopharmacy (3 Credit Hours)
+This course is designed to cover the concepts and techniques related to the field of radiopharmacy for nuclear medicine technology practice. The production, preparation, uses and quality assurance of radiopharmaceuticals are presented. Interventional and adjunctive pharmaceutical agents used in nuclear medicine will be covered.
+Prerequisites: NMED 331 , CHEM 105N - CHEM 106N and CHEM 107N - CHEM 108N or equivalent or permission of the program director
+NMED 410 Nuclear Medicine and Molecular Imaging (3 Credit Hours)
+This course covers the concepts, instrumentation and procedures pertaining to molecular imaging as related to nuclear medicine. Topics include: advanced Positron Emission Tomography (PET), Computed Tomography (CT), PET/CT, Magnetic Resonance Imaging (MRI), nuclear cardiology, theranostics, and other emerging technologies. Cross-sectional anatomy and radionuclide therapy, including monoclonal antibodies are also discussed. Review of all content for board examinations.
+Prerequisites: NMED 401 and NMED 402
+NMED 440 Clinical Nuclear Medicine Technology I (3-8 Credit Hours)
+Clinical instruction in patient care, radiation safety, radiopharmaceutical administration, imaging and non-imaging techniques and quality assurance procedures, including PET/CT.
+Prerequisites: admission to the program and permission of the program director
+NMED 450 Clinical Nuclear Medicine Technology II (8 Credit Hours)
+Continued clinical instruction in diagnostic and therapeutic nuclear medicine procedures. The correlation of nuclear medicine procedures is also presented. Clinical experiences include patient care, radiation safety, radiopharmaceutical administration, imaging and non-imaging techniques and quality assurance procedures.
+Prerequisites: NMED 440 and permission of the program director
+NMED 460 Clinical Nuclear Medicine Technology III (8 Credit Hours)
+Advanced clinical instruction in diagnostic and therapeutic nuclear medicine procedures, including PET/CT.   The correlation of nuclear medicine procedures is also presented.
+Prerequisites: NMED 450 and permission of the program director
+NMED 475W Administration and Management in Nuclear Medicine Technology (3 Credit Hours)
+This writing intensive, capstone course is designed to provide a review of the administration, management, policies, and practices relevant to nuclear medicine technology.  The leadership, legal, ethical and planning aspects of operating a nuclear medicine department are covered.
+Prerequisites: Admission to the NMED program and a grade of C or better in ENGL 110C and ENGL 211C or ENGL 221C or ENGL 231C
+NMED 495 Special Topics in Nuclear Medicine Technology (1-3 Credit Hours)
+A study of selected current topics in nuclear medicine technology.
+Prerequisites: permission of the program director
+NMED 497 Directed Study in Nuclear Medicine Technology (1-3 Credit Hours)
+Directed study in a topic relevant to nuclear medicine technology.
+Prerequisites: Permission of the program director
+NMED 498 Directed Research in Nuclear Medicine Technology (1-6 Credit Hours)
+Supervised research on a specific problem in Nuclear Medicine Technology. Regular meetings with faculty and a written/oral report are required.
+Prerequisites: instructor permission required
+NMED 695 Topics in Nuclear Medicing Technology (1-3 Credit Hours)
+Special topic related to the field of nuclear medicine technology and molecular imaging.
+NMED 697 Directed Study in Nuclear Medicine Technology (1-3 Credit Hours)
+Directed study in a topic or area relevant to nuclear medicine or nuclear medicine technology.
+NMED 698 Research (3 Credit Hours)
+Research on a topic or project related to nuclear medicine or nuclear medicine technology.
+NMED 699 Thesis (3 Credit Hours)
+Thesis on a topic in nuclear medicine/molecular imaging or nuclear medicine technology.
+Search catalog

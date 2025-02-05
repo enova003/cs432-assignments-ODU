@@ -1,0 +1,69 @@
+MSCM - Maritime and Supply Chain Management
+MSCM - Maritime and Supply Chain Management
+Graduate Courses
+MSCM 368 Maritime and Supply Chain Internship (1-3 Credit Hours)
+Approval for enrollment and allowable credit is determined by the Business Analytics CAP advisor and the Career Development Services in the semester prior to enrollment.
+Prerequisites: MSCM 370 and MSCM 441 , and a declared major in the University or permission of the Dean's Office
+MSCM 370 International Shipping (3 Credit Hours)
+The course examines international freight transportation and terms for movement of international trade.  It discusses processes and concepts involved in international ocean and intermodal transportation.  It shows how shipping companies enter into foreign markets and participate in international trade.  It also covers operational issues such as payment, commercial documents, insurance; customs and clearance; shipping organizations and societies, and shipping law.
+Prerequisites: junior standing or permission of the instructor
+MSCM 415 Maritime Security and Risk Analysis (3 Credit Hours)
+An overview of international and U.S. initiatives to ensure the security of vessels, cargo, people, and infrastructure within the maritime domain.  In addition to the impacts of regulatory requirements on maritime commerce, the course also addresses maritime threats to the international economy (including maritime piracy and maritime terrorism), maritime coalitions, and state-of-the-art techniques and tools for safeguarding ocean-borne commerce.
+Prerequisites: MSCM 370
+MSCM 430/530 Strategic Sourcing and Purchasing Management (3 Credit Hours)
+An overview of the strategic sourcing of materials and services in the organization and its role in the supply chain.  Topics include sourcing decisions, price/cost analysis, quality issues, purchasing, supplier selection, legal and ethical issues, third party logistics, freight forwarding, and acquisition of services and capital assets.
+Prerequisites: ACCT 202 , BNAL 206 , OPMT 303 , and a declared major in the University or permission of the Dean's Office
+MSCM 439 Quality Management (3 Credit Hours)
+This course examines the application of quality principles to the management of manufacturing and service organizations.  Topics include fundamentals of quality management, Six Sigma, statistical process control, process capability and reliability.
+Prerequisites: OPMT 303 and a declared major in the University or permission of the Strome College of Business Dean's Office
+MSCM 441 Supply Chain Management and Logistics (3 Credit Hours)
+Supply chain management integrates all activities associated with the flow of materials and information from product start to customers.  Examples include order processing, warehousing, inventory management, transportation and logistics, and the costs and information systems supporting these activities.  Particular application is made to global logistics systems supporting port and maritime activities.  Supply chain relationships can be improved through effective integration of management and via such technologies as the World Wide Web, electronic data exchange, and enterprise resource planning (ERP).  (cross-listed with BNAL 441)
+Prerequisites: OPMT 303 , and a declared major in the University or permission of the Dean's Office
+MSCM 445 Marine Insurance (3 Credit Hours)
+An introduction to the fundamentals of cargo, hull, protection and indemnity insurance. Topics include insurance markets, agents, underwriters, forms of policies, valuation, Total Loss, Particular Average, General Average, insured perils, war risks, subrogation, reinsurance and insurers of pollution liabilities.
+Prerequisites: MSCM 370
+MSCM 468/568 Distribution Center and Material Handling Management (3 Credit Hours)
+This course is designed to investigate the strategic role of distribution center and material management in the supply chain. Course content includes the analysis of distribution center operations through the study of design, system selection, and layout configuration as well as the evaluation of material handling and inventory management options.
+Prerequisites: OPMT 303
+MSCM 471 Shipping Management (3 Credit Hours)
+Examines the management of freight shipping organizations involved in the transport of cargo by ship. Key topics are managing ships and ship space; shipping markets, operations, costs, investment, insurance, claims, and regulation; and ship types, cargoes, safety, flagging, pollution, and chartering and purchase.
+Prerequisites: For MSCM majors, the prerequisite is MSCM 370 ; for other business majors, the prerequisites are ECON 201S and ECON 202S ; for nonbusiness majors, the prerequisites are ECON 201S and ECON 202S or permission of the instructor; all students must have a declared major or permission of the College of Business dean's office
+MSCM 472 Port Management (3 Credit Hours)
+Examines the management of seaports in the movement of cargo throughput. It presents concepts related to design, organization, administration, and operation of ports. It discusses issues involved in planning, investment, communication systems, congestion, pollution, safety, security; intermodal transportation; water and land accessibility; and port competition and cooperation to improve customer service.
+Prerequisites: For MSCM majors, the prerequisite is MSCM 370 ; for other business majors, the prerequisites are ECON 201S and ECON 202S ; for nonbusiness majors, the prerequisites are ECON 201S and ECON 202S or permission of the instructor; all students must have a declared major or permission of the College of Business dean's office
+MSCM 473 Inland Waterway and Intermodal Transportation (3 Credit Hours)
+This course is designed to explore and analyze the current condition of inland waterways both throughout the United States and around the globe with an emphasis on the creation of intermodal transportation networks.  It will include an overview of existing infrastructure as well as financing mechanisms, national and international competitive strategies, risk management (public safety and emergency preparedness), and the environmental benefits as well as consider current legislation.
+Prerequisites: MSCM 370
+MSCM 494 Entrepreneurship in Maritime and Supply Chain Management (3 Credit Hours)
+This course is designed to help students enhance their personal and professional development through innovation guided by faculty members and professionals. The course offers students an opportunity to integrate disciplinary theory and knowledge through developing a supply chain process, product, business, or other initiative. The real-world experiences that entrepreneurships provide will help students understand how academic knowledge leads to transformations, innovations, and solutions to different types of problems.
+Prerequisites: MSCM 370 and OPMT 303
+MSCM 495/595 Topics in Maritime and Supply Chain Management (3 Credit Hours)
+A study of selected topics within Maritime and Supply Chain Management designed to provide an in-depth exploration of current issues.
+Prerequisites: permission of the instructor, and a declared major in the University or permission of the College of Business Dean's Office
+MSCM 497 Independent Study (3 Credit Hours)
+Affords students the opportunity to undertake independent study under the direction of a faculty member.
+Prerequisites: permission of the department, and a declared major in the University or permission of the College of Business Dean's Office
+MSCM 530 Strategic Sourcing and Purchasing Management (3 Credit Hours)
+An overview of the strategic sourcing of materials and services in the organization and its role in the supply chain. Topics include sourcing decisions, price/cost analysis, quality issues, purchasing, supplier selection, legal and ethical issues, third party logistics, freight forwarding, and acquisition of services and capital assets.
+MSCM 568 Distribution Center and Material Handling Management (3 Credit Hours)
+This course is designed to investigate the strategic role of distribution center and material management in the supply chain. Course content includes the analysis of distribution center operations through the study of design, system selection, and layout configuration as well as the evaluation of material handling and inventory management options.
+Prerequisites: OPMT 303
+MSCM 595 Topics in Maritime and Supply Chain Management (3 Credit Hours)
+A study of selected topics within maritime and supply chain management designed to provide an in-depth exploration of current issues.
+Prerequisites: Permission of the instructor
+MSCM 610 International Shipping and Supply Chain Management (3 Credit Hours)
+Examines international freight transportation and terms for movement of international trade; focuses on improving supply chain relationships in the movement of international trade/directing the flow of information, materials and products.  (cross-listed with PORT 610 )
+MSCM 615 Maritime Security and Risk Analysis (3 Credit Hours)
+An overview of international and U.S initiatives to ensure the security of vessels, cargo, people, and infrastructure within the maritime domain. In addition to the impacts of regulatory requirements on maritime commerce, the course also addresses maritime threats to the international economy (including maritime piracy and maritime terrorism), maritime coalitions , and state-of-the-art techniques and tools for safeguarding ocean0borne commerce. (cross-listed with PORT 615 )
+MSCM 616 Reverse Logistics and Sustainable Operations (3 Credit Hours)
+This course explores the theoretical foundations of global supply chain partnerships and reverse logistics systems, and examines the practices, risks, and opportunities found in today's systems.  Fundamental tools and techniques are used to provide insights and solutions on how to best organize, manage, and optimize such systems to achieve sustainable performance. (cross-listed with PORT 616 )
+MSCM 617 Transportation Management (3 Credit Hours)
+The course includes a review of the key elements of transportation such as: modes of transportation, transportation economics, and transportation technology and regulations.   The relationships between intermediaries, carriers and shippers are discussed, as well as company roles and operations within the transportation field, transportation sourcing and management, and transportation risk management.
+MSCM 630 Strategic Sourcing and Supply Management (3 Credit Hours)
+An overview of the strategic sourcing of materials and services in the organization and its role in the supply chain. Emphasis is placed on effectively managing the supply management process. Topics include the analysis of sourcing decisions, price/cost analysis, purchasing, supplier selection and relationship management, legal and ethical issues, third party logistics, freight forwarding, and acquisition of services and capital assets.
+MSCM 641 Supply Chain Management and Logistics (3 Credit Hours)
+Supply chain management integrates all activities associated with the flows of materials, information, and funds.  Examples include strategic sourcing, order processing, warehousing, inventory management, transportation and logistics, and the costs and information systems supporting these activities.
+MSCM 648 Distribution Center Management (3 Credit Hours)
+This course investigates the strategic role of distribution centers in the supply chain. Course content includes the analysis of distribution center operations through the study of design, system selection, and layout configuration as well as the evaluation of material handling and inventory management alternatives. Tactical, operational and strategic planning options are also discussed.
+MSCM 893 Supply Chain Management for E-Commerce (3 Credit Hours)
+This course examines how supply chain management and information technology integrate to support global e-commerce opportunities.  Topics include the theories and practices of material flow management, omnichannel distribution and retailing, maritime, logistics, procurement, and inventory management.

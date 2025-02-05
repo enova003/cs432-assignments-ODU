@@ -1,0 +1,88 @@
+Graduate Courses
+MET 120 Computer Aided Drafting (3 Credit Hours)
+Computer based drafting methods are taught with a major emphasis on 'Hands On' practice using 2-D AutoCAD software in the computer lab, along with the various methods of editing, manipulation, visualization and presentation of technical drawings.  This course includes the basic principles of engineering drawing/hand sketching, dimensioning and tolerancing.
+MET 200 Materials and Manufacturing Processes (3 Credit Hours)
+Application and characteristics, both physical and chemical, of the materials most commonly used in industry as well as procedures and processes used in converting raw materials into a finished product.
+MET 225 Strength of Materials Laboratory (1 Credit Hour)
+A laboratory course dealing with the standard methods of inspecting and testing materials used in engineering applications with emphasis on laboratory reports, including presentation and interpretation of experimental data.
+Pre- or corequisite: ENGT 220
+MET 295 Topics (1-3 Credit Hours)
+Study of selected topics.
+MET 300 Thermodynamics (3 Credit Hours)
+The basic laws of thermodynamics, properties of fluids, heat, and work and their applications in processes and cycles and an introduction to conduction heat transfer.
+Prerequisites: CHEM 121N , MATH 211 , and PHYS 111N or PHYS 231N
+MET 310 Dynamics (3 Credit Hours)
+A fundamental treatment of coplanar and three-dimensional kinematics and kinetics of particles and rigid bodies, including relative motion, mass moment of inertia, Newton's laws, work and energy and impulse and momentum.
+Prerequisites: A grade of C or better in MATH 211 , and MET 210 or CET 200 or ENGT 200
+MET 320 Design of Machine Elements (3 Credit Hours)
+Practical analyses of fundamental machine elements such as shafts, springs, and screws. Fundamental principles required for the correct design of the separate elements which compose the machine with attention given to problems of synthesis and the interrelationships of the design of elements within the sub-assembly. Topics include stress analysis of screws, belts, clutches, brakes, chains and thin and thick cylinders, and lubrication and bearings
+Prerequisites: A grade of C or better in MATH 211 , and ENGT 220
+MET 330 Fluid Mechanics (3 Credit Hours)
+The study of fluid statics and dynamics, including momentum, energy, Bernoulli's equation, laminar and turbulent fluid flow and friction in pipes, fluid machinery, and open-channel flow.
+Prerequisites: MATH 211 , and MET 210 or CET 200 or ENGT 200
+MET 331 Fluid Mechanics Laboratory (1 Credit Hour)
+A laboratory course dealing with the verification of fluid equations and principles and the characteristics of fluid machinery with emphasis on presentation and interpretation of experimental data.
+Pre- or corequisite: MET 330
+MET 340 Heat Transfer (3 Credit Hours)
+A study of conduction, convection and radiation heat transfer and heat exchangers. Emphasis is on applications and problem solving using current techniques, and modern correlations.
+Prerequisites: MET 300
+MET 350 Thermal Applications (3 Credit Hours)
+A study of the applications of thermodynamics.  Topics include the basic steam and gas turbine power cycles, internal combustion engines, introduction to refrigeration systems, gas mixtures, and psychrometrics applied to air conditioning processes.
+Prerequisites: MET 300 with a grade of C or better
+MET 351 Thermal Applications Laboratory (1 Credit Hour)
+Experiments dealing with applied thermodynamics, mechanical power and energy systems with emphasis on laboratory report writing, including presentation and interpretation of experimental data.
+Pre- or corequisite: MET 350
+MET 367 Cooperative Education (1-3 Credit Hours)
+May be repeated for credit.  Available for pass/fail grading only.  Student participation for credit based on the academic relevance of the work experience, criteria, and evaluative procedures as formally determined by the department and the Career Development Services program prior to the semester in which the work experience is to take place.  (offered fall, spring, summer)
+Prerequisites: approval by the department and Career Development Services in accordance with the policy for granting credit for Cooperative Education programs
+MET 368 Internship (1-3 Credit Hours)
+Available for pass/fail grading only.  Academic requirements will be established by the department and will vary with the amount of credit desired. Allows students to gain short duration career-related experience.
+Prerequisites: approval by department and Career Development Services
+MET 369 Practicum (1-3 Credit Hours)
+Available for pass/fail grading only.
+Prerequisites: approval by department and Career Development Services
+MET 395 Topics (1-3 Credit Hours)
+Study of selected topics.
+Prerequisites: permission of the instructor
+MET 396 Topics (1-3 Credit Hours)
+Study of selected topics.
+Prerequisites: permission of the instructor
+MET 427 Mechatronic System Design (3 Credit Hours)
+A study of the integrated modeling and optimal design of a physical system, which includes sensors, actuators, electronic components, and its embedded digital control system.  Includes simultaneous optimal design practice with respect to the realization of the design specifications related to different engineering domains.
+Prerequisites: MATH 211
+MET 430 Mechanical Subsystem Design (3 Credit Hours)
+Fundamental principles required for the correct design of the separate elements which compose the machine with attention given to problems of synthesis and the interrelationships of the design of elements within the sub-assembly. Topics include stress analysis of screws, belts, clutches, brakes, chains and thin and thick cylinders, and lubrication and bearings.
+Prerequisites: MET 320
+MET 431 Modeling and Simulation of Mechatronic Systems (3 Credit Hours)
+The course provides foundations, principles, methods, and tools for modeling and simulation of electro-mechanical components and systems using appropriate modeling techniques. The course is focused on the multi-body dynamics systems, fluid, hydraulic, and electrical systems.
+Prerequisites: MATH 211
+MET 450 Energy Systems (3 Credit Hours)
+A study of the application of thermodynamics to power plants, engines, compressors, turbines, and associated systems. A detailed study is made of fossil fuel power plants with an introductory study of nuclear power and other energy conversion systems.
+Prerequisites: MET 350
+MET 460 Refrigeration and Air Conditioning (3 Credit Hours)
+The design and application of refrigeration and air conditioning systems.  Studies are made of compressors, condensers, evaporators, psychometric processes, load calculations and air distribution systems.  High performance vapor compression systems, absorption systems and other cycles are analyzed.
+Prerequisites: MET 330 and MET 350
+MET 471 Nuclear Systems I (3 Credit Hours)
+Reactor physics principles as applied to the design and operation of various types of commercial nuclear power reactors. Topics include sources of radiation and interaction with matter, neutron interactions, diffusion theory, and reactor kinetics.
+Prerequisites: MATH 211
+MET 472 Nuclear Systems II (3 Credit Hours)
+Complete study of the nuclear fuel cycle, from mining through fabrication, fuel management in an operating commercial power reactor, spent fuel management, and fuel reprocessing, with emphasis on chemical engineering considerations.
+Prerequisites: MET 471
+MET 475 Marine Engineering I (3 Credit Hours)
+This course includes: fundamental principles of naval architecture including nomenclature, geometry, stability, hydrostatics, structures, and motions; ship design processes; and a basic introduction to shipboard systems such as HVAC, refrigeration, power generation, propulsion, hydraulics, electronics, cargo handling systems, seawater systems, freshwater systems, and fuel, lube and other oil systems.
+Prerequisites: MET 330 and MET 350
+MET 476 Marine Engineering II (3 Credit Hours)
+This course builds upon MET 475 and provides a more in-depth look on how the marine shipbuilding industry is using various software including SIEMENS PLM, 3D CAD modeling and new technologies like laser scanners and augmented reality to reshape the future of shipbuilding, maintenance, and repair processes. Focus will be based on model-based learning and creating a 'digital thread' of information. Students will practice what they learn on shipbuilding concepts using commercial software that is widely used across automotive, aerospace, and marine industries.
+Prerequisites: MET 475
+MET 480 High Performance Piston Engines (3 Credit Hours)
+A study of the fundamental principles and performance characteristics of spark ignition and diesel internal combustion engines.  Overview of engine types and their operation, engine design and operating parameters; ideal and semi-empirical models of engine cycles; combustion, fluid flow and thermal considerations in engine design and performance.  Laboratory evaluation of engine performance using flow and dynamometer systems. (cross-listed with MAE 477/MAE 577)
+Prerequisites: MET 350 or MAE 312
+MET 485 Maintenance Engineering (3 Credit Hours)
+This course looks at maintenance systems: predictive, preventative and corrective; large scale maintenance systems, principles of reliability engineering, maritime logistics; planning for maintenance and repair, using and ordering spare parts, technical manuals, system specifications, and shipyard operations.
+MET 495 Topics in Mechanical Engineering Technology (1-3 Credit Hours)
+Study of selected topics.
+Prerequisites: permission of the instructor
+MET 496 Topics in Mechanical Engineering Technology (1-3 Credit Hours)
+Study of selected topics.
+Prerequisites: permission of the instructor
+No Graduate courses found.

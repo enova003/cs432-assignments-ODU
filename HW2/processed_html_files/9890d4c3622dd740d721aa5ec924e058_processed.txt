@@ -1,0 +1,134 @@
+Mechanical and Aerospace Engineering (MAE)
+MAE 111 Mechanical and Aerospace Engineering Information Literacy and Research (2 Credit Hours)
+This course will introduce students to the needs, access, evaluation, use, impact and ethical/legal aspects of information, and to the application of information literacy and research in the fields of mechanical and aerospace engineering.
+Prerequisites: ENGN 110
+MAE 195 Topics (1-3 Credit Hours)
+Permission of the chair required.
+MAE 201 Materials Science (3 Credit Hours)
+Principles of materials science with emphasis on the relationship between structure and properties and their control through composition and processing.  Metals, polymers, ceramics, and composite materials are considered.
+Prerequisites: MATH 211 with a grade of C or better
+MAE 203 Mechanical Engineering Laboratory I - Materials Science (1 Credit Hour)
+This laboratory involves experiments demonstrating lecture material covered in the MAE 201 course.
+Pre- or corequisite: MAE 201 and CS 150 or ENGN 150
+MAE 204 Engineering Mechanics I - Statics (3 Credit Hours)
+Introduction to mechanical engineering problems and their solutions through the study of statics of particles and rigid bodies.  Emphasis will be placed on the relationship of the static loads with the mechanical properties of the materials being considered.  Introduction to the concepts of stress and strain and internal forces as applied to static bodies.
+Prerequisites: MATH 211 with a grade of C or better
+Pre- or corequisite: PHYS 231N
+MAE 205 Dynamics (3 Credit Hours)
+Introduction to engineering problems and their solutions through a study of the dynamics of particles and rigid bodies.  General force systems are studied including friction.
+Prerequisites: A grade of C or better in MAE 204 or CEE 204
+Pre- or corequisite: MATH 212
+MAE 220 Engineering Mechanics II - Solid Mechanics (3 Credit Hours)
+Introduction to concepts of stress, strain and their relation to each other.  Stress and strain in axially loaded members and circular rods and tubes subjected to torsion.  Normal and shear stress in beams under bending loads.  Additional topics include bending deflection, transformation of stress and strain, Mohr's circles, statically indeterminate problems, combined stress and thin walled pressure vessels.
+Prerequisites: A grade of C or better in MAE 204 or CEE 204
+MAE 225 Mechanical Engineering Laboratory II - Solid Mechanics (1 Credit Hour)
+Experimental study of the mechanical behavior of materials under axial, bending and torsional loads.  Measurements of elastic properties and strengths.  Statistical treatment of data.  Use of strain gauges.  Experiments with composite materials and piezo-electric transducers.  Use of data acquisition system.  Experiments parallel lectures in MAE 220 .
+Pre- or corequisite: MAE 220
+MAE 230 Engineering Graphics and Computer Solid Modeling (2 Credit Hours)
+Graphical communication for engineers by means of 3D parametric modeling and its applications in industry. Fundamentals of sketching, basics of surface design, assembly modeling, and dynamic modeling of mechanisms using industry standard parametric modeling software. Emphasis on developing the skills needed for engineering design, including use of engineering standards.
+MAE 303 Mechanics of Fluids (3 Credit Hours)
+Fundamental concepts, fluid statics, basic equations in integral form, open-channel flow, Bernoulli's equation, dimensional analysis and similitude, incompressible viscous flow, pipe friction, boundary layers, introduction to differential analysis.
+Prerequisites: MATH 307 , MATH 312 , and a grade of C or better in MAE 205
+MAE 305 Mechanical Engineering Laboratory III - Thermo/Fluids (1 Credit Hour)
+An introduction to thermo-fluid experimentation and measurement; basic flow phenomena demonstrated; measurement techniques for flow temperature, pressure and properties; report writing and data reduction methods, including statistical treatment of data; formal oral reports.
+Prerequisites: Junior standing
+Pre- or corequisite: MAE 303 and MAE 311
+MAE 311 Thermodynamics I (3 Credit Hours)
+Essential definitions of thermodynamics, first law, physical properties, ideal and real gases, second law, reversibility, irreversibility and consequences of thermodynamic cycles.
+Prerequisites: MATH 312 , and a grade of C or better in CHEM 121N
+MAE 312 Thermodynamics II (3 Credit Hours)
+Concepts and principles dealing with thermodynamic cycles, relations and generalized charts, mixtures of fluids, chemical reactions, chemical and phase equilibrium, thermodynamic aspects of fluid flow; introduction to compressible flow, isentropic and normal shock wave relations.
+Prerequisites: MATH 307 , and a grade of C or better in MAE 303 , and a grade of C or better in MAE 311
+MAE 315 Heat and Mass Transfer (3 Credit Hours)
+Fundamental laws of heat transfer by conduction, convection, and radiation; boundary-layer concepts; simultaneous heat, mass, and momentum transfer.
+Prerequisites: A grade of C or better in MAE 303 , and a grade of C or better in MAE 311
+MAE 332 Mechanical Engineering Design I (3 Credit Hours)
+Introduction to machine design including review of stress and deflection analysis.  Statistical considerations in design, strength of mechanical elements with emphasis on theories of failure and fatigue design.
+Prerequisites: MAE 201 , a grade of C or better in MAE 205 , a grade of C or better in MAE 220 , and MET 120 or MET 230
+Pre- or corequisite: MAE 225
+MAE 336 Electromechanical Systems (3 Credit Hours)
+Introduction to analog and digital circuits; sensors, actuators and signals; laboratory instrumentation (oscilloscope, function generator, etc.); data acquisition; and embedded microcontroller systems. Students will perform electronics experiments as homework assignments.
+Prerequisites: CS 150 or ENGN 150 and PHYS 232N
+MAE 340 Computational Methods in Mechanical Engineering (3 Credit Hours)
+A survey of modern computing techniques for mechanical engineers.  Numerical algorithms are presented to solve practical problems in mechanical engineering as found in solid mechanics, fluid mechanics, dynamics, and heat transfer.  Emphasis is on providing computational experience in applied numerical methods using computers. Topics include roots of equations, simultaneous equations, differentiation, integration, regression analysis, interpolation and differential equations.  Analysis, understanding, and quantification of computational errors are included in all topics and applications.
+Prerequisites: ENGN 150 or CS 150 , MATH 307 and MATH 312
+MAE 367 Cooperative Education (1-3 Credit Hours)
+Available for pass/fail grading only. Student participation for credit based on the academic relevance of the work experience, criteria, and evaluative procedures as formally determined by the department and Career Development Services prior to the semester in which the work experience is to take place.
+Prerequisites: Approval by department and Career Development Services in accordance with the policy for granting credit for Cooperative Education programs
+MAE 368 Internship (1-3 Credit Hours)
+Available for pass/fail grading only.  Academic requirements will be established by the department and will vary with the amount of credit desired.  Allows students to gain short duration career-related experience.
+Prerequisites: Approval by department and Career Development Services
+MAE 369 Practicum (1-3 Credit Hours)
+Academic requirements will be established by the department and will vary with the amount of credit desired.  Allows students an opportunity to gain short duration career-related experience.
+Prerequisites: Approval by department and Career Development Services
+MAE 403/503 Flight Mechanics (3 Credit Hours)
+Aircraft concepts including performance prediction and optimization, flight and maneuver envelopes, and steady flight performance.  Additional topics: longitudinal static stability and trim; aircraft dynamics; development, separation and solution of aircraft equations of motion; natural modes; dynamic stability; sensors and actuators; and design of stability augmentation and autopilot systems.
+Prerequisites: MAE 303 with a grade of C or better and MAE 340
+Pre- or corequisite: MAE 436
+MAE 404/504 Vibrations (3 Credit Hours)
+Free and forced vibrations of undamped and damped, single-degree of freedom, multi-degree of freedom, and continuous systems.  Exact and approximate methods to find natural frequencies.
+Prerequisites: A grade of C or better in MAE 205 , a grade of C or better in MAE 220 ; MAE 340 and MATH 312
+MAE 406/506 Flight Vehicle Aerodynamics (3 Credit Hours)
+Inviscid flow concepts including: Euler equations, stream function, velocity potential, singularities, vorticity and circulation laws.  Viscous flow topics including boundary layers, separation, and turbulent flow. In addition, external flows, lift and drag, thin airfoil theory, finite wing theory and airfoil design will be discussed.
+Prerequisites: A grade of C or better in MAE 303 ; MAE 340
+MAE 411/511 Mechanical Engineering Power Systems Theory and Design (3 Credit Hours)
+Thermodynamic properties of gases and vapors relating to power generating devices, work-energy relations, combustion, and heat exchangers.  Performance analyses and design concepts of gas turbines, internal combustion engines, steam power plants and heat exchanger equipment from theoretical and applied viewpoints.
+Prerequisites: MAE 312 and MAE 315
+MAE 412/512 Environmental Control (3 Credit Hours)
+Engineering principles as applied to the analysis and design of systems for automatically controlling man or machine environments.  Course encompasses fundamentals of heating, ventilating, air conditioning, refrigeration, cryogenics, and design of building energy systems.
+Prerequisites: MAE 312 and MAE 315
+MAE 413/513 Energy Conversion (3 Credit Hours)
+Introduction of relevant kinetic theory, solid state, and thermodynamic principles; operation and analysis of thermoelectric, photovoltaic, thermionic, magnetohydrodynamic devices, fuel cell, isotopic, and solar power generators.  Course seeks to define engineering limits of converter efficiency and other performance criteria.
+Prerequisites: MAE 312
+MAE 414/514 Introduction to Gas Dynamics (3 Credit Hours)
+One-dimensional compressible flow considering isentropic flow, normal shocks, flow in constant area ducts with friction, flow in ducts with heating and cooling, oblique shocks, Prandtl-Meyer expansions, shock-expansion theory, flow around diamond shaped airfoils, and wind tunnel mechanics.
+Prerequisites: A grade of C or better in MAE 303 and a grade of C or better in MAE 311
+MAE 417/517 Propulsion Systems (3 Credit Hours)
+Basic principles of design, operation and performance of propulsion systems - including turbojet, turboprop, turbofan, and ramjet engines.  Introduction to chemical rockets, ion and plasma thrusters.
+Prerequisites: MAE 312 or MAE 414
+MAE 420/520 Aerospace Structures (3 Credit Hours)
+Analysis of aircraft and space vehicle structural components.  Effects of bending, torsion and shear on typical aerospace structural components, statically indeterminate beams, shear center and shear flow.  Introduction to typical aerospace structures.  Introduction to composite structures.
+Prerequisites: MAE 332 with a grade of C or better
+MAE 422/522 Modern Engineering Materials (3 Credit Hours)
+Limitations of conventional materials; inter-relationship among materials, design and processing, material selection criteria and procedures; strengthening mechanisms in metals; superelasticity; shape memory effect, amorphous metals; structure-property relationship in polymers; polymers crystallinity; thermoplastic and thermosets; high-temperature restraint polymers; ceramics; toughening mechanisms in ceramics.
+Prerequisites: MAE 201 , MAE 203 , and a grade of C or better in MAE 220 ; MAE 332
+MAE 431/531 Mechanisms Analysis and Design (3 Credit Hours)
+Basic relations necessary for analysis of plane motion mechanisms, numerical and analytical solutions for some of the basic mechanisms, methods of calculating rolling and sliding velocities and accelerations of contacting bodies, cams, and gears.
+Prerequisites: A grade of C or better in MAE 205 , a grade of C or better in MAE 332 , and MATH 312 or MATH 285
+MAE 433 Mechanical Engineering Design II (3 Credit Hours)
+Statistical considerations in design, strength of mechanical elements with emphasis on theories of failure and fatigue design in mechanical elements such as screws, fasteners, connections, welded joints, and flexible mechanical elements. Kinematic analysis, force analysis, and design of spur, helical, worm, and bevel gears.  Antifriction bearings, lubrication and journal bearings, shaft design, mechanical spring design, design of clutches, brakes and couplings.
+Prerequisites: A grade of C or better in MAE 332 and senior standing
+MAE 434W Project Design and Management I (3 Credit Hours)
+This course prepares students to complete their design projects in MAE 435 .  Lecture topics include engineering economics; project planning; costing and risk analysis; and product realization techniques.  Course involves written and oral presentations for students to improve communication and teamwork skills. This is a writing intensive course.
+Pre- or corequisite: MAE 433
+MAE 435 Project Design and Management II (3 Credit Hours)
+Conceptual design ideas are expanded into detailed design ideas. Product realization is applied to complete hardware.  Course covers Gantt charts, preliminary design, evaluation and trading matrices, detailed design and analysis, oral and technical reporting including cost analysis.  Ethics and patent issues are also included.
+Prerequisites: MAE 433 and MAE 434W
+MAE 436 Dynamic Systems and Control (3 Credit Hours)
+Analysis and synthesis of feedback systems; functional description of dynamic systems; basic controllers; sensitivity, stability and error analysis; transient and steady-state response using computational techniques, root locus and frequency response methods; state-space analysis of control systems.
+Prerequisites: A grade of C or better in MAE 205 ; MAE 336 , MATH 307 and MATH 312
+MAE 438/538 Applied Analog and Digital Control (3 Credit Hours)
+Computer-aided analysis and design of practical control systems.  Introduction to state-space, digital signal processing and digital control.  Laboratory sessions on aliasing, analog, system identification, and real-time control.
+Prerequisites: a grade of C or better in MAE 436
+MAE 440/540 Introduction to Finite Element Analysis (3 Credit Hours)
+Basic concepts of finite-element method, method of weighted residuals, interpolation functions, numerical implementation of finite-element method, applications to engineering problems such as beam deflection, heat conduction, and plane elastic problems.
+Prerequisites: MAE 340
+MAE 441 Computer-Aided Design of Mechanical Systems (3 Credit Hours)
+Case studies are used to introduce students to CAD software; design processes involving modeling, analysis and design, and verification.  Typical case studies are beam and plate designs, turbine blade design, and pipe networks.  Advanced topics include:  thermal stress analysis and plates and shells.
+Pre- or corequisite: MAE 332
+MAE 450/550 Principles of Naval Architecture (3 Credit Hours)
+Basic principles of naval architecture related to ship geometry, stability, strength, resistance, propulsion, vibration and motions in waves and controllability.
+Prerequisites: MATH 212 with a grade of C or better
+MAE 460/560 Introduction to Space Systems Engineering (3 Credit Hours)
+Introduction to spacecraft systems starting from mission design and space environment considerations and proceeding through propulsion, altitude control, spacecraft structural design, thermal control, power and communications for spacecraft.
+Prerequisites: MATH 307 and PHYS 232N
+MAE 495/595 Topics in Mechanical and Aerospace Engineering (1-3 Credit Hours)
+Special topics of interest with emphasis placed on recent developments in mechanical and aerospace engineering or engineering mechanics. (offered fall, spring, summer)
+Prerequisites: Senior standing; Permission of the chair is required
+MAE 496 Topics in Mechanical and Aerospace Engineering (1-3 Credit Hours)
+Special topics of interest with emphasis placed on recent developments in mechanical engineering or engineering mechanics. (offered fall, spring, summer)
+Prerequisites: senior standing; permission of the chair is required
+MAE 497/597 Independent Study in Mechanical and Aerospace Engineering (1-3 Credit Hours)
+Individual analytical, computational, and/or experimental study in an area selected by student.  Supervised and approved by the advisor.
+Prerequisites: Senior standing; Permission of the chair is required
+Search catalog

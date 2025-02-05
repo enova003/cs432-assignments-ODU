@@ -1,0 +1,52 @@
+MDTS 668 Clinical Laboratory Internship (3 Credit Hours)
+An optional three-week supervised rotation in a hospital-based molecular diagnostic laboratory or a molecular research laboratory.
+Prerequisites: MDTS 500 , MDTS 501 , MDTS 600 , and MDTS 601 or permission of instructor
+MDTS 714 Molecular Diagnostics Laboratory (2-3 Credit Hours)
+Laboratory rotation with a pre-designated faculty member in which the student obtains hands-on experience. Designed for graduate students to sample different types of research models, techniques, and subject matter without the commitment of dissertation level involvement.
+Prerequisites: Graduate Program Director approval required
+MDTS 720 Genomic Databases: Content, Curation, and Application to Biomedical Research (3 Credit Hours)
+This course combines a didactic survey of topics important for understanding the origin, curation, advantages, and limitations of a variety of key genomic resources with hands-on training in the proper use of widely accessed public genome resources and common bioinformatic tools.
+Prerequisites: Graduate standing
+MDTS 730 Chromosome Biology and Human Disease (3 Credit Hours)
+Course goals are a comprehensive understanding of the mechanisms involved in chromosome function and how aberrations in these processes contribute to human disease. Topics include DNA repair and recombination; centromere and telomere dynamics, maintenance, and function;  chromosome replication and segregation; control of cell division; dynamics of chromatin structure and function; epigenetics and gene expression; and long-range chromatin interactions and genome function.
+Prerequisites: MDTS 610, MDTS 611, or approval of instructor
+MDTS 740 Stem Cells:  Biology and Therapy (3 Credit Hours)
+Topics to be covered include history of stem cell biology, molecular definitions for stem cell identification, methods for stem cell isolations including: adult and embryonic, current technologies for induced pluripotent stem cell reprogramming, stem cells in tissue engineering and regenerative medicine, and current and future stem cell applications.
+Prerequisites: MDTS 600 and MDTS 601 or equivalent
+MDTS 742 Tissue Engineering (3 Credit Hours)
+Topics to be covered include history of tissue engineering, development and morphogenesis, tissue structure, cells, scaffolds, regulators, and creating and evaluating a tissue engineering construct. Focus is on biomedical tissue engineering concepts as applied to creating human tissues in the laboratory for surgical repair of injured and diseased tissues and organs.
+Prerequisites: Graduate standing
+MDTS 750 Molecular Genetics, Gene Function and Genomics (3 Credit Hours)
+The goals of this course are a comprehensive understanding of the mechanisms involved in molecular genetics and gene function and in-depth exploration of modern experimental analyses of these processes. Topics include DNA replication, repair, and recombination; transcription; epigenetic regulation of transcription; chromatin structure, histone modifications, transcription factors, and regulatory RNAs; long-range chromatin interactions and gene regulation; post-transcriptional gene regulation and translation; molecular biology based experimental analysis of gene function; and experimental genomic approaches to gene regulation and gene function.
+Prerequisites: MDTS 600 and MDTS 601 or instructor approval
+MDTS 805 Fundamentals of Cancer Biology (3 Credit Hours)
+Course will cover molecular aspects of cancer including DNA damage, tumor viruses, cell cycle regulation, oncogenes and tumor suppressor genes and their respective roles in cancer prevention/development, genes involved in promoting or inhibiting metastasis, angiogenesis, telomeres and telomerase, regulation of both apoptosis and autophagy in normal and cancer cells, cancer stem cells, and diagnostic screening assays for therapeutic responses or resistance in cancer patients.
+Prerequisites: MDTS 600 and MDTS 601 or equivalents; instructor approval also required
+MDTS 810 Molecular Basis of Health and Disease (3 Credit Hours)
+Emphasis is on human genetic syndromes and disorders associated with dysregulation of key signal transduction pathways that control gene expression, cell growth and protein synthesis including the Ras/MAPK pathway, tuberous sclerosis complex-mammalian target of rapamycin, PI3-kinase and others. Diagnosis, screening and treatment will be covered.
+Prerequisites: MDTS 600 and MDTS 601
+MDTS 814 Molecular Laboratory Rotation (2-3 Credit Hours)
+Laboratory rotation with a pre-designated faculty member in which the student obtains hands-on experience.  Designed for graduate students to sample different types of research models, techniques, and subject matter without the commitment of dissertation level involvement.
+Prerequisites: Graduate Program Director approval required
+MDTS 820 Genomic Databases: Content, Curation, and Application to Biomedical Research (3 Credit Hours)
+This course combines a didactic survey of topics important for understanding the origin, curation, advantages, and limitations of a variety of key genomic resources with hands-on training in the proper use of widely accessed public genome resources and common bioinformatic tools.
+Prerequisites: Graduate standing
+MDTS 830 Chromosome Biology and Human Disease (3 Credit Hours)
+Course goals are a comprehensive understanding of the mechanisms involved in chromosome function and how aberrations in these processes contribute to human disease. Topics include DNA repair and recombination; centromere and telomere dynamics, maintenance, and function;  chromosome replication and segregation; control of cell division; dynamics of chromatin structure and function; epigenetics and gene expression; and long-range chromatin interactions and genome function.
+Prerequisites: MDTS 610, MDTS 611, or approval of instructor
+MDTS 840 Stem Cells:  Biology and Therapy (3 Credit Hours)
+Topics to be covered include history of stem cell biology, molecular definitions for stem cell identification, methods for stem cell isolations including: adult and embryonic, current technologies for induced pluripotent stem cell reprogramming, stem cells in tissue engineering and regenerative medicine, and current and future stem cell applications.
+Prerequisites: MDTS 600 and MDTS 601 or equivalent
+MDTS 842 Tissue Engineering (3 Credit Hours)
+Topics to be covered include history of tissue engineering, development and morphogenesis, tissue structure, cells, scaffolds, regulators, and creating and evaluating a tissue engineering construct. Focus is on biomedical tissue engineering concepts as applied to creating human tissues in the laboratory for surgical repair of injured and diseased tissues and organs.
+Prerequisites: Graduate standing
+MDTS 850 Molecular Genetics, Gene Function and Genomics (3 Credit Hours)
+The goals of this course are a comprehensive understanding of the mechanisms involved in molecular genetics and gene function and in-depth exploration of modern experimental analyses of these processes. Topics include DNA replication, repair, and recombination; transcription; epigenetic regulation of transcription; chromatin structure, histone modifications, transcription factors, and regulatory RNAs; long-range chromatin interactions and gene regulation; post-transcriptional gene regulation and translation; molecular biology based experimental analysis of gene function; and experimental genomic approaches to gene regulation and gene function.
+MDTS 891 Doctoral Seminar (1-2 Credit Hours)
+Students attend seminars, attend a class on giving seminars, and present a seminar on their own research.
+MDTS 895 Topics in Molecular Medicine (1 Credit Hour)
+Student led presentations of current topics related to molecular medicine.
+Prerequisites: Instructor approval required
+MDTS 898 Molecular Biology Research (1-9 Credit Hours)
+Supervised doctoral research in molecular diagnostics or biomedical studies.
+Prerequisites: instructor approval required

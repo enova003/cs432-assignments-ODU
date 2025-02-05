@@ -1,0 +1,116 @@
+No Undergraduate courses found.
+CPSY 632 Intellectual Assessment (3 Credit Hours)
+Provides training in theories of intelligence and psychometric properties, administration, scoring and interpretation of major individually administered intelligence tests for children, adolescents and adults.
+CPSY 635 Multicultural and Social Psychological Issues (3 Credit Hours)
+Using a social psychological framework, the course covers theories such as interpersonal expectancies/behavioral confirmation, prejudice and discrimination, social inclusion, social cognition, and attitudes/attitude change.  The research evidence for these theories and how these social psychological constructs influence or impede the mental health process will also be considered.  This course will also allow students to research and critically analyze conceptual and theoretical foundations for providing psychological services across diverse cultural populations.
+CPSY 651 Developmental Psychology (3 Credit Hours)
+This course covers topics related to the physical, cognitive, social and emotional aspects of growth, from conception to death.  It focuses on human growth and development, but other organisms are also considered.
+Prerequisites: Students must be in the clinical psychology Ph.D. program or receive permission from the instructor
+CPSY 661 Psychopathology (3 Credit Hours)
+The course provides a conceptual basis for the study of abnormal behavior. Students conduct an in-depth review of the literature related to the classification, etiology, and treatment of mental disorders.
+Prerequisites: Students must be in the clinical psychology Ph.D. program or receive permission from the instructor
+CPSY 664 Clinical Assessment: Personality and Individual Differences (3 Credit Hours)
+This course covers history of personality theory and assessment, and psychometrics, and introduces tools and techniques aimed at understanding individual differences in personality and assessment of major psychopathology.
+Prerequisites: Student must be a clinical Ph.D. degree student or receive permission of the instructor
+CPSY 698 Research in Psychology (3 Credit Hours)
+Individual project under guidance of a research advisor. Required for students choosing thesis option. Limited to a total of 3 hours of credit.
+Prerequisites: Students must be in the clinical psychology Ph.D. program and receive permission from the instructor
+CPSY 699 Thesis (3 Credit Hours)
+Individual project under guidance of a research advisor.  Required for students choosing thesis option.
+Prerequisites: Students must be in the clinical psychology Ph.D. program and receive permission from the instructor; CPSY 698
+CPSY 700 Clinical and Ethical Practice (3 Credit Hours)
+Introduces basic therapy skills to clinical psychology students and explores the ethical framework which guides the profession.
+Prerequisites: Must be enrolled in the doctoral clinical psychology program
+CPSY 705 NSU-History & Systems of Psychology (3 Credit Hours)
+Examines the history and systems of psychology related to contemporary applied psychology.
+CPSY 713 Research Methods in Psychology (3 Credit Hours)
+This course will cover research design and methodology.  Topics may include experimental, quasi-experimental, single subject and survey research; validity; reliability; psychometric theory; confounds; measurement; sampling; inductive inference.  Additionally, this course will cover Responsible Conduct of Research, including completion of CITI course, protection of human subjects, University Human Subjects Committee and IRB, APA Style, paper structure, references, tables, figures, etc., research proposal writing, including searching for sources, writing, oral presentation, data collection and management issues (e.g., Qualtrics, SONA, data cleaning).  Students are required to complete a Research Proposal with Introduction and Methods and Data Analysis Plan and give an oral presentation of research proposal.
+Prerequisites: Students must be in the clinical psychology Ph.D. program
+CPSY 720 Multicultural Issues in Clinical Psychology (3 Credit Hours)
+The course covers issues relevant to diverse populations to enhance student development of cultural humility and improved cultural competence in clinical practice. The course reviews conceptual and theoretical foundations as well individual and systemic influences that contribute to mental health.
+Prerequisites: Students must be enrolled in the clinical psychology PhD program or receive permission from the instructor
+CPSY 725 Cognitive Behavioral Therapy (3 Credit Hours)
+Covers theory and techniques of cognitive and behavioral approaches. Applications for assessment and treatment of adults, children, couples and families are discussed.
+Prerequisites: This course is limited to clinical psychology PhD students or permission of instructor
+CPSY 727 Analysis of Variance and Experimental Design (4 Credit Hours)
+Review of the basic descriptive and inferential statistical procedures with a heavy emphasis on fundamental and advanced analysis of variance techniques.  Topics include contrasts, factorial designs, within-subject and mixed designs, and analysis of covariance.  Course materials are covered in the context of classical experimental and quasi-experimental design.
+Prerequisites: Students must be in the clinical psychology Ph.D. program or receive permission from the instructor
+CPSY 728 Regression and Correlation Design (4 Credit Hours)
+Course covers correlation with heavy emphasis on regression analysis in the context of the general linear model.  Topics include partial correlations, categorical and continuous interactions, non-linear regression, and multivariate statistics.  Course materials are covered in the context of correlational designs and survey research.
+Prerequisites: Students must be in the clinical psychology Ph.D. program or receive permission from the instructor
+CPSY 736 Multilevel Models: HLM (3 Credit Hours)
+Social science data frequently have a hierarchical or multilevel structure as a consequence of sampling designs or repeated measures. The purpose of the course is to introduce students to the basic principles and applications of hierarchical linear modeling in social science research. Topics covered include an introduction to multilevel analyses, random intercept models, random slope models, hypotheses testing, hierarchical models for limited dependent variables, model fitting, three-level models, and repeated-measures applications.
+Prerequisites: Students must be in the clinical psychology Ph.D. program or receive permission from the instructor
+CPSY 744 Program Evaluation (3 Credit Hours)
+This course is designed to introduce students to the field of program evaluation as well as to give students practical experience conducting a program evaluation.  Students will get experience creating and conducting qualitative and quantitative assessments.  A course goal is to work in small groups to conduct a program evaluation.
+Prerequisites: Students must be in the clinical psychology Ph.D. program or receive permission from the instructor
+Pre- or corequisite: CPSY 727 /CPSY 827 and CPSY 728 /CPSY 828 (or current enrollment)
+CPSY 745 Psychometric Theory (3 Credit Hours)
+This course introduces classical test theory, including definitions and equations for test reliability, standard error of measurement, and related statistics.  Additional topics include scaling, item statistics useful in test constructions, norms commonly used in educational and psychological testing, test validity and exploratory factor analysis.  If time permits, Item Response (IRT) and Generalizability Theory are introduced.
+Prerequisites: Students must be in the clinical psychology Ph.D. program or receive permission from the instructor
+Pre- or corequisite: CPSY 728 or CPSY 828 or equivalent
+CPSY 746 Structural Equation Modeling (3 Credit Hours)
+This course covers the topics of linear structural equation modeling and focuses on estimation, measurement models, confirmatory and hierarchical factor analysis, structural equations, longitudinal models, multisample analyses, and mean structures.
+Prerequisites: Students must be in the clinical psychology Ph.D. program or receive permission from the instructor
+Pre- or corequisite: CPSY 745 or CPSY 845 or equivalent
+CPSY 749 Social and Affective Bases of Behavior (3 Credit Hours)
+This course discusses the behavior of the human as a member of a group and the experience and expression of emotion. Topics include attitude theory and change, interpersonal attraction, stereotypes and discrimination, social cognition and social affect, aggression, theories of emotion and emotion regulation.
+Prerequisites: Students must be in the clinical psychology Ph.D. program or receive permission from the instructor
+CPSY 795 Topics in Clinical Psychology I (1-4 Credit Hours)
+Study of selected topics in clinical psychology.
+Prerequisites: Students must be in the clinical psychology Ph.D. program or receive permission from the instructor
+CPSY 796 Topics in Clinical Psychology II (1-4 Credit Hours)
+Study of selected topics in clinical psychology.
+Prerequisites: Students must be in the clinical psychology Ph.D. program or receive permission from the instructor
+CPSY 801 Empirically-Supported Therapies (3 Credit Hours)
+Empirically-Supported Therapies is designed to foster the integration of clinical science and the practice of psychotherapy. Course objectives include learning how to identify, evaluate, and implement empirically supported interventions for various psychological disorders.
+Prerequisites: Students must be in the clinical psychology Ph.D. program or receive permission from the instructor
+CPSY 814 Research in Clinical Psychology (1-6 Credit Hours)
+Individual research project under guidance of a research advisor.
+Prerequisites: student must be enrolled in the doctoral clinical PhD program
+CPSY 826 Biological and Cognitive Aspects of Behavior (3 Credit Hours)
+This course provides an integrative overview of how brain structure and functioning produces behavior and cognition in both normal and clinical contexts.  Students learn gross neuroanatomy and physiology of the nervous system (primarily central), a working knowledge of functional neuroanatomy, and how the central nervous system functions in an integrated fashion.  Students also learn the basics of brain-behavior relationships and how these present normally and in clinical cases in order to gain a general and broader understanding of cognitive processes.
+Prerequisites: Students must be in the clinical PhD program or receive permission of the instructor
+CPSY 833 Grant and Manuscript Writing (3 Credit Hours)
+The course is designed: (1) to teach students to write article-length scholarly manuscripts in APA format of publishable quality, and (2) to teach students the critical components of grant applications.  By the end of this course, each student will have prepared a manuscript that is ready for submission to a peer-reviewed journal and have completed sections of a federal grant application.
+Prerequisites: Students must be in the clinical psychology Ph.D. program or receive permission from the instructor
+CPSY 835 Health Psychology (3 Credit Hours)
+This course focuses on contemporary theory and research topics in health psychology. The course examines psychological and behavioral issues affecting health maintenance, coping with life-threatening illnesses and chronic diseases, and health promotion. The course uses the biopsychosocial (mind-body) model as an organizing framework, emphasizing the dynamic interactions among biological, social, personality, and behavioral factors jointly in influencing people's health. The course is conducted as a seminar.
+Prerequisites: Students must be in the clinical psychology Ph.D. program or receive permission from the instructor
+CPSY 836 Multilevel Models: HLM (3 Credit Hours)
+Social science data frequently have a hierarchical or multilevel structure as a consequence of sampling designs or repeated measures. The purpose of the course is to introduce students to the basic principles and applications of hierarchical linear modeling in social science research. Topics covered include an introduction to multilevel analyses, random intercept models, random slope models, hypotheses testing, hierarchical models for limited dependent variables, model fitting, three-level models, and repeated-measures applications.
+Prerequisites: Students must be in the clinical psychology Ph.D. program or receive permission from the instructor
+CPSY 844 Program Evaluation (3 Credit Hours)
+This course is designed to introduce students to the field of program evaluation as well as to give students practical experience conducting a program evaluation.  Students will get experience creating and conducting qualitative and quantitative assessments.  A course goal is to work in small groups to conduct a program evaluation.
+Prerequisites: Students must be in the clinical psychology Ph.D. program or receive permission from the instructor
+Pre- or corequisite: CPSY 727 /CPSY 827 and CPSY 728 /CPSY 828 (or current enrollment)
+CPSY 846 Structural Equation Modeling (3 Credit Hours)
+This course covers the topics of linear structural equation modeling and focuses on estimation, measurement models, confirmatory and hierarchical factor analysis, structural equations, longitudinal models, multisample analyses, and mean structures.
+Prerequisites: Students must be in the clinical psychology Ph.D. program or receive permission from the instructor
+Pre- or corequisite: CPSY 745 or CPSY 845 or equivalent
+CPSY 849 Social and Affective Bases of Behavior (3 Credit Hours)
+This course discusses the behavior of the human as a member of a group and the experience and expression of emotion. Topics include attitude theory and change, interpersonal attraction, stereotypes and discrimination, social cognition and social affect, aggression, theories of emotion and emotion regulation.
+Prerequisites: Students must be in the clinical psychology Ph.D. program or receive permission from the instructor
+CPSY 883 Research in Clinical Psychology (1-4 Credit Hours)
+Individual project under guidance of a research advisor.
+Prerequisites: Students must be in the clinical psychology Ph.D. program
+CPSY 890 Internship in Clinical Psychology (4 Credit Hours)
+Pre-doctoral internship in clinical psychology.
+Prerequisites: Students must be in the clinical psychology Ph.D. program
+CPSY 894 Clinical Dissertation (1-6 Credit Hours)
+1-6 credits each semester for variable credit.
+Prerequisites: Students must be in the clinical psychology Ph.D. program
+CPSY 895 Clinical Practicum (3 Credit Hours)
+Student assigned to a clinical practice setting to learn the skills of a clinical psychologist under close supervision. Various mental health settings through southeastern Virginia are used for this experience.
+CPSY 896 Advanced Clinical Practicum (3-6 Credit Hours)
+Student assigned to a practice setting to be given an opportunity to learn the advanced skills of a clinical psychologist under close supervision. Various mental health settings throughout the area are used.
+CPSY 899 Clinical Dissertation (1-6 Credit Hours)
+Student works with research mentor to develop, write, and defend an empirical dissertation.
+CPSY 971 EVMS-Consultation & Supervision (3 Credit Hours)
+Provides a theoretical and practical introduction to the work of leaders in mental health settings, addressing managerial and clinical supervision and various models of consultation.
+CPSY 990 Clinical Dissertation (1-6 Credit Hours)
+Research related to doctoral dissertation.
+CPSY 999 Doctoral Graduate Credit (1 Credit Hour)
+This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination. All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.
+Prerequisites: Students must be in the clinical psychology Ph.D. program or receive permission from the instructor
+Search catalog

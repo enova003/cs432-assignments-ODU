@@ -1,0 +1,17 @@
+Taking Data With You When You Leave ODU
+Taking Data With You When You Leave ODU
+Student accounts (including email accounts) are deleted one year after your last class at ODU, whether you graduate, transfer or decide not to register for additional classes. Before you lose any of your important files, you may want to migrate your data to a personal account or to another service:
+Migrate Google Data
+Before you do anything, verify the amount of data you have stored in your ODU Google account, and clean up any files that you no longer need in Google Drive before migrating or archiving.
+Depending on when you were admitted, your Google data may include email in addition to any files you have in Google Drive. Students admitted before February 1, 2023, were issued student Gmail accounts.
+Option 1: Migrate your Google data to a personal Google account (recommended)
+Google allows you to migrate your email and Drive data from one Google account to another (from your ODU account to a personal Gmail account, for example). Most personal Google accounts only include 15 GB of total storage space, though, so be mindful of the amount of data you need to migrate and the amount of space available in the account you're migrating to. If you need more space, you might want to purchase additional storage from Google .
+Shared files: Any files that have been shared from your ODU Google Drive will lose their permissions. After the file is transferred to your personal account, you'll need to re-establish sharing permissions from the new location.
+Troubleshooting migration issues
+If you run into any trouble using this method to migrate your data, try the following:
+Before you start the migration, make sure that you are not logged in to both accounts in the same browser at the same time. It's not enough to simply close one of the browser windows; you need to completely log out of your personal account by using the log out button. Confirm that your student account is the only one that you are logged into before you hit transfer, or the migration will fail.
+Make sure you have enough available storage in your personal Google account to hold the data from your student account. If you need more space than the standard 15 GB that comes with a free Google account, you'll need to purchase additional space or delete some things.
+You may get an error when transferring large amounts of data between Google accounts. If this happens, try again until the migration kicks off.
+Option 2: Archive/download your ODU account with Google Takeout
+Use Takeout to download your files to a hard drive or to another service like Microsoft OneDrive. Again, be mindful of your storage requirements when exporting/archiving your data for long-term retention.
+Note: This method is not ideal for archiving email that you want to import and use in another system, as the resulting .mbox files can only be read in limited email clients. If you need to keep your messages "functional," migrate your email to another Gmail address using the recommended method above.

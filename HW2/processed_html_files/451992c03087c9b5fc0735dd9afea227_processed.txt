@@ -1,0 +1,492 @@
+Nurse Anesthesia (NURA)
+NURA 745 Applied Chemistry and Physics for Nurse Anesthetists (2 Credit Hours)
+This course is a review of the principles of organic chemistry, biochemistry, and physics. It is designed as a foundation for the students' understanding of pharmacology, physiology, and the anesthesia gas machine. This course will also provide an introduction to the chemical structure-activity relationships, metabolism and mechanism of action of selected agents.
+NURA 746 Advanced Physiology for Nurse Anesthetists (4 Credit Hours)
+This course focuses on normal physiological functioning of body systems building on undergraduate anatomy and physiology to further examine structure and function focusing on cellular, subcellular, genetic and biochemical processes.   The goal is to provide an in-depth understanding of the function and regulation of body systems to maintain homeostasis. Learners will integrate physiologic concepts for the basis for critical thinking and decision making when assessing patients with multi-system failure. Learners are provided with essential knowledge of human health and disease across the lifespan necessary for advanced nursing practice. This course consists of four hours of lecture/discussion/in-class clinical module work per week.
+NURA 750 Applied Principles of Anesthesia Practice I (4 Credit Hours)
+This course integrates scientific concepts with basic principles of anesthesia practice and prepares the student for their new role in the safe and effective delivery of anesthesia. Emphasis is on vital anesthesia monitoring and delivery systems. Airway management and general anesthesia techniques will also be discussed. Simulation is incorporated into the learning process to reinforce principles introduced in class.
+Prerequisites: NURA 745
+NURA 751 Applied Principles of Anesthesia Practice II (4 Credit Hours)
+This course formulates a basic level of cognitive, affective, and psychomotor expertise for the preoperative, intraoperative, and postoperative anesthesia periods. Students will analyze and apply basic physiological principles in preparation for the anesthesia management of patients undergoing complex surgical procedures. Human Simulation is incorporated into the learning process to reinforce principles introduced in class.
+Prerequisites: NURA 746 and NURA 750
+NURA 752 Applied Principles of Anesthesia Practice III (4 Credit Hours)
+This course is the third course in a series of three and is intended to further the foundation for safe and effective delivery of anesthesia. It is designed to prepare the student for the decision making necessary for the complex issues of anesthesia in clinical practice. Students will apply knowledge of pathophysiological conditions to formulate safe plans of care for patients undergoing complex surgical procedures. Human Simulation is incorporated into the learning process to reinforce principles introduced in class.
+Prerequisites: NURS 770 and NURA 751
+NURA 753 Advanced Pharmacology for Nurse Anesthesia Practice (3 Credit Hours)
+This is a course in advanced anesthesia pharmacotherapeutics that builds on prior knowledge of drug classification, actions, interactions and adverse drug reactions. The major focus of the course is synthesizing principles learned in Advanced Pharmacology for Nursing Practice and applying them to anesthetic pharmaceuticals. Emphasis is placed on the critical thinking process used to choose and prescribe drugs in the management of anesthetic. Core concepts include applied pharmacodynamics, pharmacokinetics, volatile agent delivery systems, theories of anesthetic action and the interactions between patient medication and anesthetic agents. This course consists of three hours of lecture/discussion/in-class clinical module work per week.
+NURA 760 Evidence Based Seminar for Anesthesia Practice (1 Credit Hour)
+This course helps prepare advanced practice nurses with an opportunity to assess clinical and scientific evidence through appraisal of the literature. The course explores the philosophical underpinnings for nursing knowledge and evidence in nursing practice.
+NURA 761 Evidenced-Based Seminar for Anesthesia Practice I (1 Credit Hour)
+This course is the first in a series of five seminar courses that helps prepare advanced practice nurses with an opportunity to assess clinical and scientific evidence through appraisal of the literature. The course explores the philosophical underpinnings for nursing knowledge and evidence in nursing practice.
+Pre- or corequisite: NURA 752 , NURA 754, and NURS 801
+NURA 762 Evidenced-Based Seminar for Anesthesia Practice II (1 Credit Hour)
+This course is the second in a series of five seminar courses that helps prepare advanced practice nurses with an opportunity to assess clinical and scientific evidence through appraisal of the literature. The course is designed to build on the understanding gained in NURA 761 and to expand the advanced practice nursing student's understanding of research methods, design, and statistics.
+NURA 797 Independent Study (1-10 Credit Hours)
+Independent study in nurse anesthesia under the guidance of a faculty.
+Prerequisites: admission to the nurse anesthesia program
+NURA 836 Advanced Physiology and Pathophysiology for Nurse Anesthesia I (3 Credit Hours)
+This course addresses normal and abnormal physiological functioning of body systems building on undergraduate anatomy and physiology. Structure and functions of the systems will be examined at the cellular, subcellular, genetic, and biochemical level. The goal is to provide an in-depth understanding of the dysfunction of body systems in a diseased state as well as comprehension of the normal function to maintain homeostasis.  Systems to be addressed include:  cellular and molecular physiology, immune system, nervous system, skeletal muscle system, and the cardiovascular system.
+NURA 837 Advanced Physiology and Pathophysiology for Nurse Anesthesia II (3 Credit Hours)
+This course addresses normal and abnormal physiological functioning of body systems building on undergraduate anatomy and physiology. Structure and functions of the systems will be examined at the cellular, subcellular, genetic, and biochemical level.  The goal is to provide an in-depth understanding of the dysfunction of body systems in a diseased state as well as comprehension of the normal function to maintain homeostasis.  Systems to be addressed include:  respiratory system, digestive/hepatic system, endocrine system, and neoplasia mechanisms and treatments.
+Prerequisites: NURA 836
+NURA 838 Professional Aspects for Anesthesia (1 Credit Hour)
+A study of the unique goals, distinctive content, and special problems of health/anesthesia care and education in this country. Includes such areas as management, organization, legal aspects, professional adjustments, ethics, psychology, and history.
+NURA 841 Principles of Anesthesia Practice I (4 Credit Hours)
+This course integrates scientific concepts with basic principles of anesthesia practice and prepares the student for their new role in the safe and effective delivery of anesthesia. Emphasis is on vital anesthesia monitoring and delivery systems. Airway management and general anesthesia techniques will also be discussed. Simulation is incorporated into the learning process to reinforce principles introduced in class.
+Prerequisites: NURA 745
+NURA 842 Principles of Anesthesia Practice II (4 Credit Hours)
+This course formulates a basic level of cognitive, affective, and psychomotor expertise for the preoperative, intraoperative, and postoperative anesthesia periods. Students will analyze and apply basic physiological principles in preparation for the anesthesia management of patients undergoing complex surgical procedures. Human simulation is incorporated into the learning process to reinforce principles introduced in class.
+NURA 843 Principles of Anesthesia Practice III (4 Credit Hours)
+This course is the third course in a series of three and is intended to further the foundation for safe and effective delivery of anesthesia. It is designed to prepare the student for the decision making necessary for the complex issues of anesthesia in clinical practice. Students will apply knowledge of pathophysiological conditions to formulate safe plans of care for patients undergoing complex surgical procedures. Human Simulation is incorporated into the learning process to reinforce principles introduced in class.
+NURA 844 Principles of Anesthesia Practice IV (1 Credit Hour)
+This course is the fourth in an increasingly more complex eight-course series intended to accompany NURA 842 . It is designed to review basic sciences and equipment, instrumentation and technology related to clinical practice.
+Pre- or corequisite: NURA 843
+NURA 845 Principles of Anesthesia Practice V (1 Credit Hour)
+This course is the fifth in an increasingly more complex eight-course series intended to accompany NURA 843 . It is designed to review basic sciences and equipment, instrumentation and technology related to clinical practice. This course also incorporates preoperative, intraoperative, and postoperative care of patients.
+Pre- or corequisite: NURA 844
+NURA 846 Principles of Anesthesia Practice VI (1 Credit Hour)
+This course is the sixth in an increasingly more complex eight-course series intended to accompany NURA 844 . This course is designed to review anesthesia concepts and begin the preparation to take the National Certification Exam.
+Pre- or corequisite: NURA 845
+NURA 847 Principles of Anesthesia Practice VII (1 Credit Hour)
+This course is the seventh in an increasingly more complex eight-course series intended to accompany NURA 845 . This course is designed to review anesthesia concepts and continue the preparation to take the National Certification Exam
+Pre- or corequisite: NURA 846
+NURA 848 Principles of Anesthesia Practice VIII (1 Credit Hour)
+This course is the final in an increasingly more complex eight-course series intended to accompany NURA 846 . This course is designed to review anesthesia concepts and examine student readiness of the National Certification Exam.
+Pre- or corequisite: NURA 847
+NURA 853 Nurse Anesthesia Practicum: Orientation for Clinical Anesthesia (2 Credit Hours)
+This introductory-level course is designed to integrate didactic knowledge with basic practical application. The student will apply knowledge concerning preoperative assessment, care plan development, induction sequence, basic airway management, function and usage of anesthesia equipment, pharmacology dosing and mathematics for anesthesia. Course content is based on the American Association of Nurse Anesthetists Standards for Nurse Anesthesia Practice and the American Association of Colleges of Nursing DNP Essentials.
+Prerequisites: Successful completion of all first, second and third semester courses in the Nurse Anesthesia program
+NURA 854 Nurse Anesthesia Practicum I (3 Credit Hours)
+This introductory-level course is designed to integrate didactic knowledge with basic practical application to the art and science of nurse anesthesia. It designed to cultivate the novice student nurse anesthetist in selected clinical settings under direct supervision of qualified clinical preceptors. The student will be immersed in the anesthesia clinical environment for this course. Course content is based on the American Association of Nurse Anesthetists Standards for Nurse Anesthesia Practice and the American Association of Colleges of Nursing DNP Essentials.
+Prerequisites: NURA 853
+NURA 855 Nurse Anesthesia Practicum II (4 Credit Hours)
+This clinical course is the second in an increasingly more complex six-course series and continues the integration of didactic knowledge and practical application to the art and science of nurse anesthesia. It is designed to cultivate the advanced beginner student nurse anesthetist in selected clinical settings under close direction of qualified clinical preceptors. The student will be immersed in the anesthesia clinical environment for this course. Course content is based on the American Association of Nurse Anesthetists Standards for Nurse Anesthesia Practice and the American Association of Colleges of Nursing DNP Essentials.
+Prerequisites: NURA 854
+NURA 856 Nurse Anesthesia Practicum III (4 Credit Hours)
+This clinical course is the third in an increasingly more complex six-course series and continues the integration of didactic knowledge and practical application to the art and science of nurse anesthesia. It is designed to cultivate the competent student nurse anesthetist in a variety of clinical settings under the guidance of qualified clinical preceptors. The student will be immersed in the anesthesia clinical environment for this course. Course content is based on the American Association of Nurse Anesthetists Standards for Nurse Anesthesia Practice and the American Association of Colleges of Nursing DNP Essentials.
+Prerequisites: NURA 855
+NURA 857 Nurse Anesthesia Practicum IV (4 Credit Hours)
+This clinical course is the fourth in an increasingly more complex six-course series and continues the integration of didactic knowledge and practical application to the art and science of nurse anesthesia. It is designed to cultivate the proficient student nurse anesthetist in a variety of clinical settings under the guidance of qualified clinical preceptors. The student will be immersed in the anesthesia clinical environment for this course. Course content is based on the American Association of Nurse Anesthetists Standards for Nurse Anesthesia Practice and the American Association of Colleges of Nursing DNP Essentials.
+Prerequisites: NURA 856
+NURA 858 Nurse Anesthesia Practicum V (4 Credit Hours)
+This clinical course is the fifth of six in an increasingly more complex six-course series, and continues the integration of didactic knowledge and practical application to the art and science of nurse anesthesia. It is designed to cultivate the proficient student nurse anesthetist in a variety of clinical settings in collaboration with qualified clinical preceptors. The student will be immersed in the anesthesia clinical environment for this course. Course content is based on the American Association of Nurse Anesthetists Standards for Nurse Anesthesia Practice and the American Association of Colleges of Nursing DNP Essentials.
+Prerequisites: NURA 857
+NURA 859 Nurse Anesthesia Practicum VI (3 Credit Hours)
+This clinical course is the final in an increasingly more complex six-course series and continues the integration of didactic knowledge and practical application to the art and science of nurse anesthesia. It is designed to cultivate the proficient student nurse anesthetist in a variety of clinical settings in collaboration with qualified clinical preceptors. The student will be immersed in the anesthesia clinical environment for this course. Course content is based on the American Association of Nurse Anesthetists Standards for Nurse Anesthesia Practice and the American Association of Colleges of Nursing DNP Essentials.
+Prerequisites: NURA 858
+NURA 863 Evidenced-Based Seminar for Anesthesia Practice III (1 Credit Hour)
+This course is the third in a series of five seminar courses designed to enhance the nurse anesthesia student's understanding of research methods, design and analysis. A journal club format is used to evaluate anesthesia care for optimum outcomes using published research studies.
+Prerequisites: NURA 762
+NURA 864 Evidenced-Based Seminar for Anesthesia Practice IV (1 Credit Hour)
+This course is the fourth in a series of five seminar courses designed to enhance the nurse anesthesia student's understanding of research methods, design and analysis. A journal club format is used to evaluate anesthesia care for optimum outcomes using published research studies.
+Prerequisites: NURA 863
+NURA 865 Evidenced Based Seminar for Anesthesia Practice V (1 Credit Hour)
+This course is the fifth in a series of five seminar courses designed to enhance the nurse anesthesia student's understanding of research methods, design and analysis. A journal club format is used to evaluate anesthesia care for optimum outcomes using published research studies.
+Prerequisites: NURA 864
+NURA 998 Master's Graduate Credit (1 Credit Hour)
+This course is a pass/fail course for master's students in their final semester. It may be taken to fulfill the registration requirement necessary for graduation.  All master's students are required to be registered for at least one graduate credit hour in the semester of their graduation.
+Nursing (NURS)
+NURS 304 Principles of Practice: Foundations of Health Assessment (3 Credit Hours)
+This didactic and laboratory course emphasizes the assessment phase of the nursing process.  Supervised practice, faculty demonstration, and self-paced learning in the audio-visual laboratory, simulation laboratory and selected clinical sites facilitate skill acquisition in health assessment and health history interviewing. Pre- or
+Prerequisites: Admission to the BSN program
+NURS 305 Health Assessment (3 Credit Hours)
+This course emphasizes the physical assessment phase of the nursing process. For registered nurse students only.
+Prerequisites: Admission to the BSN program
+NURS 306 Theoretical Foundation of Professional Nursing Practice (3 Credit Hours)
+This course focuses on selected nursing models, concepts, and theories as supporting frameworks for professional nursing practice.  Emphasis is placed on the utilization of nursing theory as a methodology for improving nursing practice in various client situations and practice settings.  For registered nurse students only.
+Prerequisites: Admission to the BSN program
+Pre- or corequisite: NURS 401
+NURS 310 Principles of Practice: Introduction to Nutrition/Normal Nutrition (1 Credit Hour)
+This course focuses on concepts of normal nutrition. Emphasis is placed on understanding the impact of various nutrients on the body.
+Prerequisites: Admission to the BSN program
+NURS 311 Principles of Practice: Nutrition of Nursing Practice (1 Credit Hour)
+This course builds upon NURS 310 and introduces the student to selected therapeutic diets. Emphasis is placed on specific diets associated with selected alterations in adaptation and the adult with behavioral issues.
+Prerequisites: NURS 310
+NURS 314 Principles of Practice: Foundational Concepts (3 Credit Hours)
+Emphasis is on concepts and theories that are fundamental to professional nursing practice, the nursing process, and therapeutic nurse-patient communication.
+Prerequisites: Admission to the BSN program
+NURS 316 Principles of Practice: Foundations of Practice (3 Credit Hours)
+This course focuses on concepts and theories underlying professional clinical nursing practice. This course also includes laboratory application of health assessment skills, the nursing process, and clinical nursing techniques.
+Prerequisites: Admission to the BSN program
+Pre- or corequisite: NURS 304
+NURS 317 Principles of Practice: Clinical Foundations of Practice (1 Credit Hour)
+This clinical course focuses on the assessment and basic care of the hospitalized adult client. Application of the nursing process, health assessment, and clinical nursing techniques are implemented using concepts and theories that underlie professional nursing practice.
+Prerequisites: admission to the BSN program
+Pre- or corequisite: NURS 304 and NURS 316
+NURS 322 Health Continuum: Adult Health I (4 Credit Hours)
+This lecture course focuses on the adult who is experiencing selected alterations and/or adaptations in organ system function such as elimination, immune system/cellular regulation, hematological system, fluid balance, temperature regulation and nutritional balances. Focus is also on the adult experiencing pain, inflammation and other selected system alterations. Emphasis is on the use of the nursing process to assist adult patients to adapt to alterations/adaptations in function of systems.
+Pre- or corequisite: NURS 323 and NURS 373
+NURS 323 Health Continuum: Clinical Management Adult Health I (2 Credit Hours)
+This clinical course focuses on the nursing process with adult clients experiencing alterations/adaptations in bodily defense mechanisms. The concepts inclusive in the didactic component will be actualized in general medical surgical units and oncology units.
+Pre- or corequisite: NURS 322 and NURS 373
+NURS 332 Health Continuum: The Growing Family (2 Credit Hours)
+This lecture course focuses on the theoretical and applied concepts related to the care of families experiencing pregnancy and childbirth. Emphasis is on the dynamic familial, societal, psychological and physiological changes that occur in this stage of family and personal development. The assistive role of the nurse and as a family-centered provider of care is a major focus.
+Pre- or corequisite: NURS 333
+NURS 333 Health Continuum: Clinical Management of the Growing Family (1 Credit Hour)
+This clinical course provides the opportunity for planning and provision of nursing care to the childbearing family. Emphasis is on the use of the nursing process to plan, provide and coordinate quality care. Students are expected to demonstrate responsibility and accountability for personal actions as well as a respect for families and clients.
+Pre- or corequisite: NURS 332
+NURS 352 Health Continuum: Behavioral Issues, Altered Cognition and Coping (2 Credit Hours)
+This lecture course focuses on psychotherapeutic processes across the lifespan. Building on foundations from the social and behavioral sciences, emphasis is on the use of the nursing process in providing care to clients with acute and chronic illness in a variety of psychiatric settings.
+Pre- or corequisite: NURS 353
+NURS 353 Clinical Management of Patients with Behavioral Issues, Altered Cognition and Coping (1 Credit Hour)
+This clinical course provides a mechanism for students to perform mental health assessments, plan nursing care, practice therapeutic communication techniques and observe group processes in both inpatient and outpatient settings.
+Pre- or corequisite: NURS 352
+NURS 355 Genetics in Nursing (2 Credit Hours)
+Emphasis is placed on current information and research findings about the role of genetics in health. Students completing this course will be better prepared to incorporate genetic information and technology when providing care to clients.  A student receiving credit for NURS 355 cannot receive credit for NURS 455 .
+Prerequisites: Admission to the prelicensure BSN program
+NURS 356 Global Health Perspectives (2 Credit Hours)
+This introductory course to global health emphasizes the major underlying determinants of poor health and the relationship between health and political, social, and economic development. Students will be introduced to global effects on the health of populations worldwide, current and future challenges to global health and the role of primary health care providers in meeting that challenge. (A student receiving credit for NURS 356 cannot receive credit for NURS 456 .)
+Prerequisites: admission to the prelicensure BSN program
+NURS 357 Palliative Care in Nursing (2 Credit Hours)
+This course provides an overview of the need to improve end of life care and the role of nursing as a member of the interdisciplinary team in providing quality care. Basic principals of palliative care are presented within a quality of life (QOL) framework. Palliative care nursing care combines caring, communication, knowledge, and skill. Clinical issues to include expert assessment skills and aggressive pain and symptom management as well as the psychological, social, and spiritual care of patients and families experiencing a life threatening progressive illness will be discussed. Caring for the dying means not only "doing for" but also "being with". Students will be provided the opportunity to use introspection to clarify their own feelings related to the dying process. A student receiving credit for NURS 357 cannot receive credit for NURS 457 .
+Prerequisites: Admission to the prelicensure BSN program
+NURS 358 Studies in Professional Nursing (2 Credit Hours)
+The study of selected topics in professional nursing practice; designed to provide an in-depth exploration of current nursing issues.
+Prerequisites: Admission to BSN program
+NURS 363 Principles of Practice: Research as Foundation for Practice (3 Credit Hours)
+This course focuses on the theories and concepts utilized in the scientific investigation of nursing practice. Content emphasizes the development of skills necessary to be a consumer of nursing research.
+Prerequisites: Admission to BSN program
+Pre- or corequisite: STAT 130M
+NURS 369 Practicum: Studies in Clinical Nursing Practice (1-3 Credit Hours)
+The study of selected clinical practice applications in professional nursing practice; designed to provide an in-depth practicum in selected nursing practice areas.  Students must have specific practicum arrangements (ex: externship) prior to registration.
+Prerequisites: admission to BSN program and permission of undergraduate program director or chief departmental advisor
+NURS 373 Principles of Practice: Pharmacology for Nursing Practice I (2 Credit Hours)
+This course is designed to involve the student in the application of the nursing process to clinical situations involving drug therapy.
+Pre- or corequisite: NURS 322 and NURS 323
+NURS 376 Principles of Practice: Pharmacology Across the Continuum (1 Credit Hour)
+This course is designed to involve nursing students in the practical application of the nursing process in clinical pharmaco-therapeutics related to selected concepts.
+Prerequisites: NURS 373
+NURS 380 Clinical Nursing Concepts 1 (9 Credit Hours)
+This is an advanced placement course for nursing students concurrently enrolled in level 1 nursing coursework with an approved partner nursing program. After successful completion of the didactic coursework and clinical requirements at the partner institution, the student will be awarded experiential learning credits.
+NURS 381 Clinical Nursing Concepts 2 (9 Credit Hours)
+This is an advanced placement course for nursing students concurrently enrolled in level 2 nursing coursework with an approved partner nursing program. After successful completion of the didactic coursework and clinical requirements at the partner institution, the student will be awarded experiential learning credits.
+NURS 382 Clinical Nursing Concepts 3 (9 Credit Hours)
+This is an advanced placement course for nursing students concurrently enrolled in level 3 nursing coursework with an approved partner nursing program. After successful completion of the didactic coursework and clinical requirements at the partner institution, the student will be awarded experiential learning credits.
+NURS 383 Clinical Nursing Concepts 4 (9 Credit Hours)
+This is an advanced placement course for nursing students concurrently enrolled in level 4 nursing coursework with an approved partner nursing program. After successful completion of the didactic coursework and clinical requirements at the partner institution, the student will be awarded experiential learning credits. Proof of licensure as a registered nurse is required prior to awarding the level 4 experiential learning credits.
+NURS 387 Principles of Practice: Research as Foundation for Practice (3 Credit Hours)
+This course focuses on the theories and concepts utilized in the scientific investigation of nursing practice. Content emphasizes the development of skills necessary to be a consumer of nursing research.  Open to Honors Program students only.
+Prerequisites: Admission to the BSN program
+Pre- or corequisite: STAT 130M
+NURS 393 Clinical Skills for Nonnursing Majors (2 Credit Hours)
+Focuses on basic hygiene, comfort and safety skills required of health professionals providing diagnostic and/or supportive therapies to clients in a health care facility.  May not be taken as required elective by nursing majors.  Open to nuclear medicine technology students only.
+Prerequisites: junior standing and permission of the instructor
+NURS 395 Topics (1-3 Credit Hours)
+Selected health-related topics of interest.  Course descriptions and prerequisites are available from the chief academic advisor.
+Prerequisites: permission of the School of Nursing
+NURS 396 Independent Study (1-3 Credit Hours)
+Nursing majors only. Selected health-related topics of interest to nursing majors. Course descriptions and prerequisites are available from the chief academic advisor.
+Prerequisites: Permission of the School of Nursing
+NURS 397 Independent Study (1-3 Credit Hours)
+Independent study of selected topics.
+Prerequisites: permission of the School of Nursing
+NURS 398 Clinical Nursing Concepts I (17 Credit Hours)
+This advanced placement credit is awarded to the registered nurse who has demonstrated knowledge of selected basic clinical nursing concepts for the provision of nursing care to individuals experiencing health deviations.  Awarded upon completion of 14 credits in major. Registered nurse students only.
+NURS 401 Introduction to Professional Development for Baccalaureate Nursing Practice (4 Credit Hours)
+This course focuses on basic skills required for success in the post-licensure baccalaureate nursing program.  Emphasis is placed on professional development for baccalaureate nursing practice.  Selected skills to be acquired include introduction to the development of a professional portfolio, APA professional writing format, information literacy in nursing literature and professional communication strategies.  For registered nurse students only.
+Prerequisites: Admission to the BSN program
+NURS 402 Role Development for the Baccalaureate Nurse as Educator (3 Credit Hours)
+This course focuses on further development of the baccalaureate nursing student with an emphasis on expanding critical thinking skills, teaching-learning theories and application, professional resume development and exploration of nursing specialties and practice roles.  For registered nursing students only.
+Prerequisites: NURS 401
+NURS 403 Transition to Baccalaureate Nursing Practice (4 Credit Hours)
+This course facilitates the completion of a professional portfolio for the post-licensure baccalaureate nursing student. Emphasis is on advanced professional communication strategies and reflective processes for professional role expansion and development. For registered nurse students only. NURS 403 may only be taken in the final semester of the nursing curriculum.
+Pre- or corequisite: NURS 305 , NURS 306 , NURS 363 , NURS 401 , NURS 412 , NURS 417 , NURS 490W , and NURS 492
+NURS 410 Health Continuum: Adult Health II (4 Credit Hours)
+This lecture course focuses on the adult experiencing multisystem alterations/adaptations. Emphasis is on the use of the nursing process to assist adult clients to adapt to multisystem alterations/adaptations related insults.
+Pre- or corequisite: NURS 453 and NURS 474
+NURS 412 Ethics, Law, Economics & Health Policy: Application to Quality Nursing Practice (2 Credit Hours)
+This course examines ethics, law, economics and health policy that influence nursing practice, the health care system, and quality patient care.
+Prerequisites: Admission to the BSN program
+NURS 417 Nursing Informatics (2 Credit Hours)
+This course focuses on information management and the utilization of patient care technologies to improve the patient experience of care (quality, satisfaction, safety), improve the health of populations, and reduce cost. Students will develop knowledge, skills and attitudes related to nursing informatics through readings, online discussions, case studies and exploration and use of electronic modalities.
+Prerequisites: Admission to the BSN program
+NURS 421 Health Continuum: Clinical Management of Children of the Family (2 Credit Hours)
+This clinical course emphasizes the provision of nursing care to infants and children suffering from acute and chronic illnesses. Through the use of the nursing process, students provide and coordinate care, serving as client advocates. Students are expected to demonstrate responsibility for personal actions related to the practice of nursing.
+Pre- or corequisite: NURS 422
+NURS 422 Heath Continuum: Children of the Family (2 Credit Hours)
+This lecture course provides a basis for understanding the nursing care of children of various ages. Emphasis is on the use of the nursing process to assist children as they encounter acute and chronic illnesses. The nurse's communication with and education of the family and child as individuals or as part of a group are discussed as a means of achieving the goal of comprehensive individualized child care in the home and health care settings.
+Pre- or corequisite: NURS 421
+NURS 430/530 Principles of Practice: Contemporary Issues in Nursing Care of the Older Adult (2 Credit Hours)
+This course focuses on the nursing needs of the well gerontological client. Emphasis is on the multi-complex needs of the older adult.
+Prerequisites: Admission to the BSN program
+NURS 440 Health Continuum Recovery (2 Credit Hours)
+This course introduces the theoretical and applied concepts necessary to assist individuals with potential or actual disabilities prevent further functional dependence or restore maximum levels of function.
+Pre- or corequisite: NURS 441
+NURS 441 Heath Continuum: Clinical Management of Recovery (2 Credit Hours)
+This clinical course focuses on using the nursing process to assist the recovery of individuals with disabilities prevent further functional dependence or restore maximum levels of function. Collaborative team approaches are stressed.
+Pre- or corequisite: NURS 440
+NURS 453 Health Continuum: Clinical Management Adult Health Nursing II (2 Credit Hours)
+This clinical course emphasizes the provision of nursing care to clients who are experiencing alterations/adaptations in organ system functions. Through the use of the nursing process, students will provide and coordinate care and serve as client advocates in a variety of settings.
+Pre- or corequisite: NURS 410 and NURS 474
+NURS 454 Critical Care Nursing (2 Credit Hours)
+This elective clinical and didactic course is designed for final semester pre-licensure students who are requesting adult critical care (CC) or emergency department (ED) Role Transition preceptorship placement.
+Prerequisites: NURS 410 and NURS 453 and permission of the instructor
+NURS 455 Genetics in Nursing (3 Credit Hours)
+Emphasis is placed on current information & research findings about the role of genetics in health. Students completing this course will be better prepared to incorporate genetic information and technology when providing care to clients. A student receiving credit for NURS 355 cannot receive credit for NURS 455 .
+Prerequisites: Admission to the postlicensure BSN program
+NURS 456 Global Health Perspectives (3 Credit Hours)
+This introductory course to global health emphasizes the major underlying determinants of poor health and the relationship between health and political, social, and economic development. Students will be introduced to. global effects on the health of populations worldwide, current and future challenges to global health and the role of primary health care providers in meeting that challenge. (A student receiving credit for NURS 456 cannot receive credit for NURS 356 .)
+Prerequisites: permission of the instructor
+NURS 457 Palliative Care (3 Credit Hours)
+This course provides an overview of the need to improve end of life care and the role of nursing as a member of the interdisciplinary team in providing quality care. Basic principles of palliative care are presented within a quality of life (QOL) framework. Palliative care nursing care combines caring, communication, knowledge, and skill. Clinical issues to include expert assessment skills and aggressive pain and symptom management as well as the psychological, social, and spiritual care of patients and families experiencing a life threatening progressive illness will be discussed. Caring for the dying means not only "doing for" but also "being with". Students will be provided the opportunity to use introspection to clarify their own feelings related to the dying process. A student receiving credit for NURS 357 cannot receive credit for NURS 457 .
+Prerequisites: Admission to the postlicensure BSN program
+NURS 458 Studies in Professional Nursing (3 Credit Hours)
+The study of selected topics in professional nursing practice; designed to provide an in-depth exploration of current nursing issues.
+Prerequisites: admission to B.S.N. program or permission of instructor
+NURS 459 Concepts in Primary Care (3 Credit Hours)
+In this course, students learn to improve the health of individuals, families, and communities in primary care settings.  Emphasis is on health education, health promotion and disease prevention, and management of chronic illnesses, especially for underserved populations and veterans.
+Prerequisites: Junior standing or permission of the instructor
+NURS 462 Nursing in the Health Care System Community I (1 Credit Hour)
+This course focuses on family and community health nursing. Content emphasizes concepts and themes of families and communities and the use of the nursing process to assist in promoting and maintaining health. Application of course concepts through experience and interactions with health care coalition groups is emphasized.
+Pre- or corequisite: NURS 463
+NURS 463 Nursing in the Health Care System: Community Interactions I (1 Credit Hour)
+This clinical course provides opportunity for application of concepts and themes of families and communities through experience and interactions with health care coalition groups.
+Pre- or corequisite: NURS 462
+NURS 472 Nursing in the Health Care System: Community II (1 Credit Hour)
+This course focuses on the continued development of concepts related to family and community health nursing. Content emphasizes development of strategies to facilitate application of concepts and themes of families and communities. The nursing process is used to assist in promoting and maintaining health.
+Pre- or corequisite: NURS 473
+NURS 473 Nursing in the Health Care System: Community Interactions II (1 Credit Hour)
+Application of course concepts through experience and interactions with healthcare coalition groups are emphasized.
+Pre- or corequisite: NURS 472
+NURS 474 Principles of Practice: Pharmacology for Nursing Practice II (2 Credit Hours)
+This course is designed to involve nursing students in the practical application of the nursing process in clinical pharmacotherapeutics related to selected concepts.
+Pre- or corequisite: NURS 410 and NURS 453
+NURS 480W Nursing in the Health Care System: Leadership (3 Credit Hours)
+This course focuses on utilization of strategies from leadership, management systems and change theories to facilitate professional nursing practice. Emphasis is placed on the professional nurse as a leader in the health care system. The influence of organizational behavior, professional image and case management on nursing practice is examined. This is a writing intensive course.
+Prerequisites: Completion of ENGL 110C and ENGL 211C or ENGL 221C or ENGL 231C with a grade of C or better
+NURS 481 Principles of Practice: Role Transition (5 Credit Hours)
+This capstone course is a practicum experience in which students apply theoretical, conceptual and psychomotor learning in a structured clinical environment under the supervision of a staff preceptor. The experience is designed to assist the student to facilitate the transition to the role of the baccalaureate generalist nurse.
+Pre- or corequisite: Senior standing in the curriculum
+NURS 490W Nursing Leadership (3 Credit Hours)
+This course focuses on utilization of strategies from leadership, management, systems and change theories to facilitate professional nursing practice.  Emphasis is placed on the professional nurse as a leader in the health care system.  The influence of organizational behavior, proactive political action, professional image and case management on nursing practice is examined.  For registered nurse students only.   This is a writing intensive course.
+Prerequisites: Admission to the BSN program and completion of ENGL 110C and ENGL 211C or ENGL 221C or ENGL 231C with a grade of C or better
+Pre- or corequisite: NURS 401
+NURS 491 Principles of Practice: Role Transition (5 Credit Hours)
+This capstone course is a practicum experience in which students apply theoretical, conceptual and psychomotor learning in a structured clinical environment under the supervision of a staff preceptor. The experience is designed to assist the student to facilitate the transition to the role of the baccalaureate generalist nurse.
+Pre- or corequisite: Senior standing in the program
+NURS 492 Community Health Nursing (3 Credit Hours)
+This course focuses on professional nursing practice with families and communities as clients.  Emphasis is on community wellness, interaction with political influences and epidemiological principles.  For registered nurse students only.
+Prerequisites: Admission to the BSN program
+Pre- or corequisite: NURS 401
+NURS 495/595 Topics in Nursing (1-3 Credit Hours)
+The study of selected topics that may not be offered regularly.  Special topics will appear in the schedule of classes each semester.
+Prerequisites: Permission of the instructor
+NURS 498 Clinical Nursing Concepts II (16 Credit Hours)
+This advanced placement credit is awarded to the registered nurse who has demonstrated knowledge of selected complex nursing concepts for the provision of nursing care to individuals and families experiencing health deviations. Awarded upon completion of 26 credits in the major.  For registered nurse students only.
+NURS 499 Clinical Nursing Concepts III (33 Credit Hours)
+This is an advanced placement course for registered nurse students. After verification of registered nurse licensure, the student will be awarded 33 experiential learning credits.
+NURS 530 Principles of Practice: Contemporary Issues in Nursing Care of the Older Adult (2 Credit Hours)
+This course focuses on the nursing needs of the well gerontological client. Emphasis is on the multi-complex needs of the older adult.
+NURS 595 Topics in Nursing (1-3 Credit Hours)
+The study of selected topics that may  not be offered regularly.  Special topics will appear in the schedule of classes each semester.
+Prerequisites: Permission of the instructor
+NURS 650 Shenandoah University Midwifery Courses (19 Credit Hours)
+This course provides for the award of credit for selected courses taken at Shenandoah University in fulfillment of Midwifery program requirements: NM 610, NM 620, NMLB 630, NM 640, NMLB 651, NM 652, and NM 660.
+NURS 651 Shenandoah University Psychiatric Mental Health Courses (27 Credit Hours)
+This course provides for the award of credit for selected courses taken at Shenandoah University in fulfillment of the Psychiatric Mental Health Nurse Practitioner program requirements: NP 525,PMH 635, PMH 680,PMH 640, PMH 685, PMH 660, HP 576, PMH 695.
+NURS 654 Assessment and Evaluation in Nursing Education (3 Credit Hours)
+This course concentrates on strategies to measure and improve nursing student performance in the classroom, as well as enhance course and program effectiveness.  Emphasis is on the selection of instruments, data collection methods and reporting procedures to guide assessment and evaluation processes that are appropriate for what is being examined.
+Prerequisites: NURS 634, NURS 636, NURS 644, NURS 645, and NURS 649
+NURS 676 Professional, Ethical and Legal Concepts of Nursing Education (3 Credit Hours)
+This course is designed to prepare students for the role of educator in higher education environments. Emphasis is on the identification of functions, rights, and responsibilities of nursing faculty in relation to students, colleagues, administrators, the institution, community, and profession.
+NURS 699 Thesis/Research Project (1-3 Credit Hours)
+Thesis/research project completion.  Variable credit to be determined by research advisor. May be repeated as needed.
+Prerequisites: NURS 611, NURS 640
+NURS 705 Primary Care Approaches for Children (3 Credit Hours)
+This course for the family nurse practitioner focuses upon primary health care problems in the pediatric population.  Emphasis is placed upon assessment and management of healthy and ill children.
+Prerequisites: NURS 770 , NURS 771 , NURS 761
+NURS 707 Informatics and Healthcare Technology (3 Credit Hours)
+This course will cover the use of data in health care as well as other informatics applications. Students will explore healthcare technology used to improve the delivery and evaluation of care.
+NURS 709 Evidence-Based Research for Nursing Practice (3 Credit Hours)
+This course focuses on the development of advanced nursing knowledge related to the utilization of evidence-based research for best practice. Emphasis is placed on the evaluation and application of research and evidence for use in advanced practice including models, concepts, and theories as a supporting framework for research.
+NURS 713 Telehealth for Providers (1 Credit Hour)
+This course is designed to provide the student involved in healthcare or healthcare supportive roles with knowledge and skills to become actively involved in the implementation and delivery of telehealth services.
+NURS 714 Competitive Resource Design and Utilization (3 Credit Hours)
+This course focuses on the competitive design and utilization of organizational and human resources. Emphasis will be placed on the strategic process to ensure that resources are applied in ways to ensure high-quality care and excellent patient outcomes. The course will cover the business models for effective financial and personnel management of healthcare organizations. Analysis of the costs and quality of care will be performed.
+NURS 715 Ethical Concepts of Advanced Practice Nursing (3 Credit Hours)
+This course is designed to provide students with core ethical knowledge necessary to describe and analyze ethical concepts foundational to the advanced practice nursing role. Students will develop and evaluate strategies, including ethical decision making frameworks, to address ethical dilemmas inherent in patient care, health organizations and research.
+NURS 717 Strategic Leadership Practicum (3 Credit Hours)
+This practicum course emphasizes the advanced practice nurse's role in strategic planning and program development.  Students enrolled in this advanced practice course will participate in clinical practice experiences in a chosen focus area. This course is designed to provide students with experiences in applying the knowledge acquired in Strategic Leadership.
+Pre- or corequisite: NURS 740 or permission of instructor
+NURS 718 Practicum Immersion for Novice Nurse Executives (3 Credit Hours)
+This practicum course serves as a bridge between the roles of nurse administrators and nurse executives. Targeted practicum experiences will enable the nurse administrator to examine the role of the nurse executive related to implementation of change, meeting strategic initiatives, program evaluation, and outcome management in a chosen focus area. Application of futuristic and visionary theory to health care system trends is explored to provide optimal strategic positioning in the future healthcare market.
+NURS 719 Family and  Community Primary Care Assessment (1 Credit Hour)
+This course provides students with the opportunity to develop advanced practice skills for assessing families and family members across the life span and throughout generations. This course will focus on theoretical, research and practice foundations used to develop strategies to maximize safe, comprehensive, and holistic care given by the advanced practice nurse.
+NURS 720 Instructional Delivery Methods & Learner Assessment (3 Credit Hours)
+The enhancement of nursing education through an array of instructional delivery methods based on reports of best practices, research findings, instructional-related theories, and learning-related theories is examined. Emphasis is on identifying ways to blend traditional teaching strategies for classroom and clinical instruction with technology-based instruction utilizing a variety of resources and models.
+Pre- or corequisite: NURS 734 or permission of instructor
+NURS 721 Aging in the 21st Century (3 Credit Hours)
+This course explains the history of the specialty of geriatrics, the social impact, health maintenance goals and physical changes associated with aging. The role of interprofessional teams in meeting the needs of the aging population will be explored.
+NURS 722 Psychiatric Assessment and Differential Diagnosis (1 Credit Hour)
+This didactic course will introduce students to the process of history-taking and assessment of psychiatric mental health problems in the diagnosis of children through older adults and the process of using data from the patient’s history and assessment to formulate a differential diagnosis. Cultural, genetic, religious, behavioral, educational, physical, and laboratory data will be utilized in the formulation of differential diagnoses.
+NURS 723 Psychotherapeutic Approaches & Treatment Modalities (3 Credit Hours)
+This course provides the history and current methods of psychotherapy as well as current methods of diagnosis of mental health disorders and differential diagnosis. Knowledge will be applied across the lifespan including: adult, child, adolescent, older adults and special populations.
+NURS 725 Psychopharmacology and Neurobiology (3 Credit Hours)
+This course will examine the psychopharmacology of medications used to treat mental health disorders. It will also examine basic neurobiology and evaluate the intrinsic and extrinsic factors associated with the development of mental health disorders.
+NURS 726 Managing Psychiatric Disorders Across the Lifespan (3 Credit Hours)
+This course provides the opportunity to gain knowledge of the management of mental health conditions across the lifespan, including child, adolescent, adult and older adult. Disparities across populations will be a component of the course. Culturally-centered, collaborative care will be emphasized in the preventive care and management of mental health disorders.
+NURS 727 Psychiatric Mental Health Nurse Practitioner Practicum I (4 Credit Hours)
+This course provides the opportunity for students to work in various psychiatric mental health environments focusing on a diverse population. The course will offer the opportunity to work with clinical mentors in their own communities. The time in these settings will allow students to begin their diagnosis and selection of appropriate treatment strategies, including medications and therapy, for individuals, families and groups with a wide variety of psychiatric mental health concerns.
+Pre- or corequisite: NURS 726
+NURS 728 Psychiatric Mental Health Nurse Practitioner Practicum II (5 Credit Hours)
+This course provides the opportunity for students to build on previous clinical course work in various psychiatric mental health environments focusing on a diverse population. The time in these settings will allow students to enhance their diagnosis and selection of appropriate treatment strategies for individuals (child, adolescent, adult and older adult), families, and groups with a wide variety of psychiatric mental health concerns. This course requires 280 clinical hours.
+Pre- or corequisite: NURS 769
+NURS 730 Nursing Curricular Design and Program Evaluation (3 Credit Hours)
+This course focuses on factors impacting the development of nursing curricula including theory, professional practice trends, education standards, accreditation guidelines and institutional policy/procedure. Components of curricula are evaluated, and strategies for program evaluation are explored.
+NURS 731 Newborn Assessment (3 Credit Hours)
+This course develops the students’ ability to evaluate the maternal health record and assess and manage normal newborns. This is taken before the neonatal management courses and will provide a theoretical and practical knowledge for newborn assessment for the neonatal nurse practitioner to manage the health care needs of the normal newborn at the highest level of nursing practice.
+NURS 734 Educator Internship: Classroom Instruction (3 Credit Hours)
+This internship course is designed to provide the student with experience facilitating classroom instruction in an entry level nursing program.
+NURS 736 Managing Psychiatric Disorders in Specific Populations: The Adult/Geriatric Patient (4 Credit Hours)
+This course provides the opportunity to gain knowledge of the management of mental health conditions with the adult and geriatric patient populations. Disparities across the two populations will be a component of the course. Culturally centered, collaborative care will be emphasized in the preventive care and management of mental health disorders.  Appropriate care in a variety of treatment settings (inpatient, intensive outpatient, outpatient, forensic, long-term care) will be examined as well as legal ramifications for the PMHNP in treating this patient population.
+NURS 738 Clinical Nurse Specialist I: Introduction to Practice (2 Credit Hours)
+This course provides the graduate student with knowledge of core concepts that provide the foundation for Clinical Nurse Specialist practice.
+NURS 739 Clinical Nurse Specialist I: Role Socialization (4 Credit Hours)
+This course is designed to acquaint the student with the role of the Clinical Nurse Specialist in the practice environment.
+NURS 751 Developmental Neonatal Physiology (2 Credit Hours)
+This course provides an in-depth examination of human genetics, embryologic development and normal physiologic functioning of developing body systems. Mechanisms involved in cell division, gametogenesis, and inheritance patterns will be addressed. Basic genetics and epigenetics will be included. The structural and functional development of fetal systems, during critical periods, will be emphasized. Abnormalities and alterations in fetal development will be explored.
+NURS 756 Clinical Nurse Specialist II: Transition to Practice (3 Credit Hours)
+This course provides the graduate student with knowledge necessary for developing Clinical Nurse Specialist practice and leadership skills.
+Pre- or corequisite: NURS 757
+NURS 757 Clinical Nurse Specialist Practicum II: Role Transition (5 Credit Hours)
+This clinical course focuses on Clinical Nurse Specialist practice.  Concepts presented in the didactic component ( NURS 756 ) will be actualized in the clinical setting.
+Pre- or corequisite: NURS 756
+NURS 758 Clinical Nurse Specialist Practicum III: Role Synthesis (3 Credit Hours)
+This capstone course focuses on synthesis and application of key concepts related to the Clinical Nurse Specialist practice.
+Prerequisites: NURS 738 , NURS 739 , NURS 756 , and NURS 757
+NURS 760 Advanced Family Nursing I Practicum (3 Credit Hours)
+This course provides the opportunity to practice clinical decision-making and primary care assessment skills within a primary care setting. Collaborative strategies will be emphasized in the position of health promotion/maintenance strategies and the management of common health problems.
+NURS 761 Pharmacology for Advanced Practice Nursing (3 Credit Hours)
+This course will develop and enhance the advanced practice nurse's knowledge of pharmacological management of the patient. Expanded knowledge and application of advanced pharmacologic concepts across the lifespan will build upon previous elemental concepts in pharmacology and pharmacotherapeutics obtained in undergraduate education and clinical practice.
+Prerequisites: Admission to the MSN or DNP program is required
+NURS 762 Advanced Family Nursing I:  Management of Acute Illnesses (3 Credit Hours)
+Focus is on acute health problems in the primary care setting, including assessment and management.  Inclusion of geriatric content relating to acute illnesses will be added.
+Prerequisites: NURS 761 , NURS 770 , and NURS 771
+NURS 763 Health Promotion and Maintenance (2 Credit Hours)
+This course provides the nurse practitioner student the opportunity to work with students from other professions as they develop health promotion strategies that consider the expertise of each discipline. Students will incorporate technology in promoting health.
+NURS 764 Advanced Family Nursing II Practicum (4 Credit Hours)
+The purpose of this clinical course is to prepare the family nurse practitioner student to deliver primary care services to families in which a patient has either acute, women’s health or pediatric care disorders.
+Prerequisites: NURS 761 , NURS 770 , and NURS 771
+NURS 765 Advanced Family Nursing II:  Management of Chronic Illnesses (3 Credit Hours)
+The focus of this course is on the accurate diagnosis and management of chronic health problems within the primary care setting for the family nurse practitioner (FNP).
+Prerequisites: NURS 761 , NURS 763 , NURS 770 , and NURS 771
+NURS 766 Primary Care Approaches for Women (3 Credit Hours)
+This course will explore current clinical concepts related to the care of healthy and pregnant women. Roles and responsibilities of the family nurse practitioner in these sub-specialties will also be discussed.
+NURS 767 Advanced Family Nursing III Practicum (3-4 Credit Hours)
+This clinical emphasizes integration of primary care skills and clinical course decision-making in populations with acute chronic, complex, pediatric or women’s health disorders for family nurse practitioner students.
+Prerequisites: NURS 761 , NURS 760 , NURS 770 , NURS 771 , NURS 762 , and NURS 764
+NURS 770 Pathophysiology for Advanced Nursing Practice (3 Credit Hours)
+This course explains the pathophysiology of disease as a basis for advanced practice and assessment for prevention and management of health conditions.
+Prerequisites: Admission to the MSN or DNP program is required to enroll in this course
+NURS 771 Physical Assessment for Advanced Nursing Practice (3 Credit Hours)
+Emphasis is on advanced history taking, physical assessment and interviewing skills for advanced practice nursing. Advanced practice students will participate in lab sessions with experiential activities allowing for the development of physical assessment skills across the lifespan.
+Prerequisites: Admission to either the MSN or DNP program is required to enroll in this course
+NURS 772 Foundations of Advanced Neonatal Care (3 Credit Hours)
+The foundations of advanced neonatal care course provides the theoretical and practical knowledge for the neonatal nurse practitioner or physician assistant to manage the health care needs of the neonate in the newborn nursery or level II neonatal intensive care unit.
+Prerequisites: NURS 776 , NURS 768 and NURS 787
+NURS 773 Pharmacology for Advanced Neonatal Care (3 Credit Hours)
+The course offers scientific inquiry into the use of pharmacologic agents in the advanced nursing care of infants, including fetal, neonatal life, and early childhood. Pharmacokinetics, pharmacodynamics, drug use in pregnancy and lactation, pharmacologic agents used in disease prevention and treatment, drug monitoring and drug safety in the home are explored.
+Pre- or corequisite: NURS 761
+NURS 774 Advanced Neonatal Care: High Risk Management I (3 Credit Hours)
+This course develops the students' ability to manage high-risk neonates. This is the second of three sequential management courses that provide the theoretical and practical knowledge for the neonatal nurse practitioner to manage the health care needs of the neonate at the highest level of nursing practice.
+Pre- or corequisite: NURS 778
+NURS 775 Advanced Neonatal Care: High Risk Management II (3 Credit Hours)
+An organ systems approach is used to explore the diagnosis and management of neonates requiring surgery and advanced technologies. Additional topics will include developmental follow-up of the medically fragile infant and withdrawal of life support in the NICU.
+Pre- or corequisite: NURS 789
+NURS 776 Advance Neonatal Nursing Practicum I (3 Credit Hours)
+The development of foundational skills associated with the physical assessment and management of the neonate is the focus of this practicum experience.
+Pre- or corequisite: NURS 768, NURS 787 and NURS 790
+NURS 778 Advanced Neonatal Nursing: Practicum II (4 Credit Hours)
+The focus of this course is the accurate diagnosis and management of high risk neonatal clinical problems.
+Pre- or corequisite: NURS 775
+NURS 779 Seminar in Pediatrics: Management of Chronic and Complex Neonatal Clinical Problems (2 Credit Hours)
+This course utilizes a journal club approach and is designed to acquaint the advance practice neonatal nurse with issues associated with the management of chronic and complex clinical problems. Emphasis is on the identification of clinical conditions requiring timely referral for diagnosis and treatment. Topics will include, but are not limited to, genetics and congenital conditions, palliative/end-of-life care and complications of prematurity.
+NURS 781 Advanced Pediatric Nursing: Practicum I Primary Care (3 Credit Hours)
+This course provides the opportunity to practice clinical decision-making and primary care assessment skills within a primary care setting. Collaborative strategies will be emphasized related to health promotion/maintenance and the management of common health problems for pediatric patients and their families.
+NURS 782 The Growth and Development of Children in the 21st Century (3 Credit Hours)
+Physical, cognitive, psychosocial, psychosexual, and social-moral growth and development milestones from infancy through adolescence will be explored from a nursing perspective. Emphasis is on the assessment and management of the child within the context of environmental, cultural, and social factors affecting growth and development.
+NURS 783 Management of Acute Pediatric Conditions I (3 Credit Hours)
+An organ systems approach is used to explore the diagnosis and management of childhood disorders. The actions of the PNP and PEDS CNS and the needs of the child are considered across the continuum of care from urgent/primary care to acute care.
+Corequisites: NURS 784
+NURS 784 Advanced Pediatric Nursing: Practicum II (4 Credit Hours)
+This course provides the opportunity to practice clinical decision-making and primary care assessment skills within a primary care setting. Collaborative strategies will be emphasized related to health promotion/maintenance and the management of common health problems for pediatric patients and their families.
+NURS 785 Seminar in Pediatrics: Management of Chronic and Complex Clinical Conditions (3 Credit Hours)
+This course explores issues associated with the management of chronic and complex clinical conditions for children. Emphasis is on the identification of clinical conditions requiring timely referral for diagnosis and treatment.  Topics will include, but are not limited to genetics, palliative/end-of-life care, and psychiatric/mental issues.
+Pre- or corequisite: NURS 783 and NURS 784
+NURS 786 Management of Acute/Critical Pediatric Conditions II (3 Credit Hours)
+An organ systems approach is used to explore the diagnosis and management of childhood disorders. The actions of the PNP and the needs of the child are considered across the continuum of care from urgent/primary care to acute /critical care.
+Corequisites: NURS 788
+NURS 788 Advanced Pediatric Nursing: Practicum III (3 Credit Hours)
+This course provides the opportunity to practice clinical decision-making and primary care assessment skills within a primary care setting. Collaborative strategies will be emphasized related to health promotion/maintenance and the management of common health problems for pediatric patients and their families.
+Pre- or corequisite: NURS 865 or NURS 816
+NURS 789 Advanced Neonatal Nursing Practicum III (4 Credit Hours)
+The focus of this course is on the accurate diagnosis and management of high risk neonatal clinical problems.
+Pre- or corequisite: NURS 775
+NURS 795 Topics (3 Credit Hours)
+Designed to provide the advanced student with an opportunity to investigate specific topics of current interest in the health services.
+Prerequisites: Ph.D. standing or permission of the instructor
+NURS 797 Independent Study (1-3 Credit Hours)
+This course is for students completing an independent study or independent clinical hours.
+NURS 798 Independent Clinical Study (1-3 Credit Hours)
+This course focuses on clinical and/or research-related competencies of graduate nursing students. Students enroll on an as-needed basis as determined by the instructor or student.
+Prerequisites: Enrollment in the graduate nursing program and permission of the instructor
+NURS 800 Integrative Concepts for Advanced Nursing Practice Roles (3 Credit Hours)
+This course focuses on four integrative concepts including leadership, advocacy, practice, and translational research. Issues related to planning and providing care related to disparity and issues for vulnerable and underserved populations will be highlighted. The role of epidemiology will be explored.
+NURS 801 Roles and Responsibilities for Transforming Practice (3 Credit Hours)
+This course focuses on role expectations for advanced practice nurses; the intersection of models of leadership, advocacy, practice and translational research will be emphasized. Personal strategic planning of the students will be addressed as it applies to disparity issues and vulnerable and underserved populations.
+NURS 802 The Business of Advanced Nursing Practice (3 Credit Hours)
+This course will explore the business dimensions of practice including legal, safety, quality and financial. The course will focus on SWOT analysis,developing business plans and community assessments.
+NURS 803 Leadership and Interprofessional Practice in Healthcare (3 Credit Hours)
+This is an interprofessional course that explores organizational and structural opportunities and barriers within healthcare organizations through interprofessional collaboration and teamwork. Ethical issues will be explored. The focus is on the role of the healthcare provider as a leader of their profession within healthcare and on healthcare teams. Emphasis is on meeting the needs of underserved populations.
+NURS 805 Application of Practice-Based Research Methods (2 Credit Hours)
+This course focuses on the research process used to conduct practice-based research.  It prepares advanced practice nurses to develop, implement, and evaluate programs that focus on improving healthcare outcomes.
+NURS 806 Proposal Development and Database Management (4 Credit Hours)
+This research course is designed to provide the Advanced Practice Nurse and Nurse Executive student with knowledge and skills regarding the design and methodology used to conduct a practice focused research study. Focus will be on human subjects protection, statistical analysis and database management.
+Prerequisites: NURS 805
+NURS 807 Informatics and Healthcare Technology (3 Credit Hours)
+This course will cover the use of data in health care as well as other informatics applications.  Students will explore healthcare technology used to improve the delivery and evaluation of care.
+NURS 809 Advocacy for Healthcare Public Policy for Advanced Practice (3 Credit Hours)
+This course will prepare the DNP to assume a leadership role in developing, implementing, and advocating for health care policy that results in quality, accessible, comprehensive health care for vulnerable populations.
+NURS 810 Leadership in Complex Systems and Organizations (3 Credit Hours)
+This course will focus on the leadership that comprises two types:  informal and formal leadership.  Competencies will include communication, knowledge of health care environment, leadership, professionalism, and business skills.
+NURS 812 Evidence-Based Management for Quality Healthcare (3 Credit Hours)
+The focus of the course is on the development of systems  processes to ensure quality healthcare.  The evidence-based model will be applied to organizational systems.
+NURS 814 Competitive Resource Design and Utilization (3 Credit Hours)
+This course focuses on the competitive design and utilization of organizational and human resources.  Emphasis wiil be placed on the strategic process to ensure that resources are applied in ways to ensure high-quality care and excellent patient outcomes.  The course will cover the business models for effective financial and personnel management of healthcare organizations.  Analysis of the costs of care and quality of care will be performed.
+NURS 816 DNP Executive Practicum I (2-5 Credit Hours)
+This practicum focuses on the application of nurse executive leadership skills in the practice environment. Focus will be on the role of the nurse executive and evidence-based research.
+Corequisites: NURS 805
+NURS 817 DNP Executive Practicum II (2-5 Credit Hours)
+This experience focuses on the application of executive leadership skills in nursing. Focus will be on the role of the nurse executive and evidence-based research.
+Corequisites: NURS 806
+NURS 818 DNP Executive Practicum III (3-5 Credit Hours)
+This practicum focuses on the application of executive leadership skills in the practice environment. Focus will be on the role of the nurse executive, evidence-based research and the use of healthcare technology.
+NURS 819 DNP Executive Practicum IV (3-5 Credit Hours)
+An examination of the application of executive leadership skills in the practice environment. Focus will be on the role of the nurse executive, evidence-based research, and practice dissemination.
+NURS 865 DNP Clinical Practicum I (1-2 Credit Hours)
+This course is designed to provide the Advanced Practice Nurse with the knowledge and skills to practice at an advanced level in a practice-based setting. Focus will be on enhanced clinical skills and evidence-based research.
+Corequisites: NURS 805
+NURS 866 DNP Clinical Practicum II (1-2 Credit Hours)
+This course is designed to provide the Advanced Practice Nurse with the knowledge and skills to practice at an advanced level in a practice-based setting. Focus will be on evidence-based practice, teamwork, evidence-based research, and advanced clinical diagnostics.
+Corequisites: NURS 806
+NURS 867 DNP Clinical Practicum III (1-3 Credit Hours)
+This course is designed to provide the Advanced Practice Nurse with the knowledge and skills to practice as an expert clinician, a program evaluator, and a team leader within a practice-based setting focusing on evidence-based practice. Healthcare technology will be explored.
+NURS 868 DNP Clinical Practicum IV (1-3 Credit Hours)
+This course is designed to provide the Advanced Practice Nurse with the knowledge and skills to practice as an expert clinician, a program evaluator, a team leader, and a change agent with emphasis on translational and evidence-based research.
+Corequisites: NURS 890
+NURS 890 DNP Nursing Capstone (3 Credit Hours)
+This capstone course is designed to facilitate the ability of the advanced practice nurse to synthesize, translate, and disseminate practice-focused research findings and apply them to practice settings.
+NURS 895 Topics (1-3 Credit Hours)
+Designed to provide the advanced doctoral student with an opportunity to investigate specific topics of current interest in the health services.
+Prerequisites: DNP standing or permission of the instructor
+NURS 897 Independent Study (1-3 Credit Hours)
+This course focuses on research-related competencies of graduate nursing students. Students enroll on an as-needed basis as determined by the instructor.
+Prerequisites: Enrollment in the graduate nursing DNP program and permission of instructor
+NURS 898 Independent Clinical Study (1-3 Credit Hours)
+This course focuses on clinical and/or research-related competencies of DNP graduate nursing students. Students enroll on an as-needed basis as determined by the instructor.
+Prerequisites: Enrollment in the graduate nursing program and permission of instructor
+NURS 998 Master's Graduate Credit (1 Credit Hour)
+This course is a pass/fail course for master's students in their final semester. It may be taken to fulfill the registration requirement necessary for graduation.  All master's students are required to be registered for at least one graduate credit hour in the semester of their graduation.
+NURS 999 Doctoral Graduate Credit (1 Credit Hour)
+This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.
+Search catalog
