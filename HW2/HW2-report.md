@@ -104,3 +104,4 @@ TF-IDF = TF * IDF
 
 
 # References
+* Module-04 Searching, <https://docs.google.com/presentation/d/1xHWYidHcqPljtvqcGsUXgXU7j6KEFDVXrTftHmkv6OA/edit?pli=1#slide=id.g32fc6d3dd1_0_4>
