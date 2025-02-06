@@ -59,6 +59,8 @@ To answer the question asked in the homework, of the original 618 unique URIs th
 ```
 
 ## Calculating TF, IDF, TF-IDF
+The formulas for each of these equations can be found in the Module-04 Searching slides for CS432, so I used each provided formula. Please find my work below.
+
 Total Number of documents = 602 
 
 ### Compute Document Frequency:
