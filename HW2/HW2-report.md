@@ -102,7 +102,7 @@ TF-IDF = TF * IDF
 9.) TF-IDF = 0.000162206 * 4.98569216332 = 0.00080870918
 10.) TF-IDF = 0.00053518865 * 4.98569216332 = 0.00266828585
 ```
-### Table
+### Table (decreasing order by TF-IDF values)
 
 |TF-IDF	|TF	|IDF	|URI
 |------:|--:|---:|---
