@@ -17,6 +17,7 @@ To answer the question asked in the homework, of the original 618 unique URIs th
 # Q2 Answer
  ### I used the term "gift" for this question, and these are the ten documents that I selected:
  `grep -c "gift" *.txt`
+ ```
 1.) f8d5b9d5f1efef4cadd56f1bcd132b75_processed.txt:1
 2.) 3871f5d6ea6bedfd85c71a6ac01a8f77_processed.txt:1   
 3.) 4a544ef247d7a5640c8a196af4229b02_processed.txt:1
@@ -27,8 +28,10 @@ To answer the question asked in the homework, of the original 618 unique URIs th
 8.) b10c01549227c83825e3c82761084462_processed.txt:1
 9.) 8c8c1acc9f3a93a1a2b7ed6c1c1123e6_processed.txt:1
 10.) 30eedd0632a5c9369deea1bdc7822cec_processed.txt:2
+```
 
 ### URI of each document:
+```
 1.) https://catalog.odu.edu/undergraduate/studentfinancialaid/
 2.) https://catalog.odu.edu/courses/tax/
 3.) https://catalog.odu.edu/graduate/business/accounting/
@@ -39,8 +42,10 @@ To answer the question asked in the homework, of the original 618 unique URIs th
 8.) https://www.odu.edu/life/culture/arts/diehn
 9.) https://catalog.odu.edu/undergraduate/continuing-education/
 10.) https://catalog.odu.edu/graduate/financialawardsforgraduatestudents/
+```
 
 ### I used `wc -w` to find the word count of each .txt file:
+```
 1.) f8d5b9d5f1efef4cadd56f1bcd132b75_processed.txt  29662
 2.) 3871f5d6ea6bedfd85c71a6ac01a8f77_processed.txt  707
 3.) 4a544ef247d7a5640c8a196af4229b02_processed.txt  2260
@@ -51,6 +56,7 @@ To answer the question asked in the homework, of the original 618 unique URIs th
 8.) b10c01549227c83825e3c82761084462_processed.txt  3435
 9.) 8c8c1acc9f3a93a1a2b7ed6c1c1123e6_processed.txt  6165
 10.) 30eedd0632a5c9369deea1bdc7822cec_processed.txt  3737
+```
 
 ## Calculating TF, IDF, TF-IDF
 Total Number of documents = 602 
@@ -61,7 +67,7 @@ DF = 19
 
 ### Compute Term frequency (TF) for each .txt file:
 TF = number of times "gift" appears in the document / total number of words in the document
-
+```
 1.) TF = 1 / 29662 = 0.00003371316
 2.) TF = 1 / 707 = 0.00141442715
 3.) TF = 1 / 2260 = 0.00044247787
@@ -72,6 +78,7 @@ TF = number of times "gift" appears in the document / total number of words in t
 8.) TF = 1 / 3435 = 0.00029112081
 9.) TF = 1 / 6165 = 0.000162206
 10.) TF = 2 / 3737 = 0.00053518865
+```
 
 ### Compute IDF:
 
@@ -81,7 +88,7 @@ IDF = log_2 ( total number of documents / number of documents that contain "gift
 ### Compute TF-IDF for each .txt file:
 
 TF-IDF = TF * IDF
-
+```
 1.) IDF = 0.00003371316 * 4.98569216332 = 0.00016808343
 2.) IDF = 0.00141442715 * 4.98569216332 = 0.00705189835
 3.) IDF = 0.00044247787 * 4.98569216332 = 0.00220605844
@@ -92,7 +99,7 @@ TF-IDF = TF * IDF
 8.) IDF = 0.00029112081 * 4.98569216332 = 0.00145143874
 9.) IDF = 0.000162206 * 4.98569216332 = 0.00080870918
 10.) IDF = 0.00053518865 * 4.98569216332 = 0.00266828585
-
+```
 # Q3 Answer
 
 
