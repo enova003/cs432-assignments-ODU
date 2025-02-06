@@ -15,7 +15,83 @@ After this, I created another python script called `removeHTMLboilerplate.py`.  
 To answer the question asked in the homework, of the original 618 unique URIs that I obtained, only 602 of them contained useful text. This was slightly surprising to me, as I thought all of the URIs would have contained meaningful text. 
 
 # Q2 Answer
+ ### I used the term "gift" for this question, and these are the ten documents that I selected:
+ `grep -c "gift" *.txt`
+1.) f8d5b9d5f1efef4cadd56f1bcd132b75_processed.txt:1
+2.) 3871f5d6ea6bedfd85c71a6ac01a8f77_processed.txt:1   
+3.) 4a544ef247d7a5640c8a196af4229b02_processed.txt:1
+4.) e66d8fb3b87a52a0769553bb94df56a2_processed.txt:2
+5.) 2c8adf3a27454c5cb367b83a0124beaa_processed.txt:5
+6.) d6f771f500f797bff9b8b9039383594f_processed.txt:1
+7.) 172480efeaa0d98a7987f2d13ec04dba_processed.txt:1
+8.) b10c01549227c83825e3c82761084462_processed.txt:1
+9.) 8c8c1acc9f3a93a1a2b7ed6c1c1123e6_processed.txt:1
+10.) 30eedd0632a5c9369deea1bdc7822cec_processed.txt:2
 
+### URI of each document:
+1.) https://catalog.odu.edu/undergraduate/studentfinancialaid/
+2.) https://catalog.odu.edu/courses/tax/
+3.) https://catalog.odu.edu/graduate/business/accounting/
+4.) https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/
+5.) https://catalog.odu.edu/courses/sped/
+6.) https://catalog.odu.edu/courses/fin/
+7.) https://catalog.odu.edu/undergraduate/business/financial-management/
+8.) https://www.odu.edu/life/culture/arts/diehn
+9.) https://catalog.odu.edu/undergraduate/continuing-education/
+10.) https://catalog.odu.edu/graduate/financialawardsforgraduatestudents/
+
+### I used `wc -w` to find the word count of each .txt file:
+1.) f8d5b9d5f1efef4cadd56f1bcd132b75_processed.txt  29662
+2.) 3871f5d6ea6bedfd85c71a6ac01a8f77_processed.txt  707
+3.) 4a544ef247d7a5640c8a196af4229b02_processed.txt  2260
+4.) e66d8fb3b87a52a0769553bb94df56a2_processed.txt  6767
+5.) 2c8adf3a27454c5cb367b83a0124beaa_processed.txt  9851
+6.) d6f771f500f797bff9b8b9039383594f_processed.txt  2431
+7.) 172480efeaa0d98a7987f2d13ec04dba_processed.txt  2031
+8.) b10c01549227c83825e3c82761084462_processed.txt  3435
+9.) 8c8c1acc9f3a93a1a2b7ed6c1c1123e6_processed.txt  6165
+10.) 30eedd0632a5c9369deea1bdc7822cec_processed.txt  3737
+
+## Calculating TF, IDF, TF-IDF
+Total Number of documents = 602 
+
+### Compute Document Frequency:
+The term "gift" was found in 19 documents
+DF = 19
+
+### Compute Term frequency (TF) for each .txt file:
+TF = number of times "gift" appears in the document / total number of words in the document
+
+1.) TF = 1 / 29662 = 0.00003371316
+2.) TF = 1 / 707 = 0.00141442715
+3.) TF = 1 / 2260 = 0.00044247787
+4.) TF = 2 / 6767 = 0.00029555194
+5.) TF = 5 / 9851 = 0.00050756268
+6.) TF = 1 / 2431 = 0.00041135335
+7.) TF = 1 / 2031 = 0.00049236829
+8.) TF = 1 / 3435 = 0.00029112081
+9.) TF = 1 / 6165 = 0.000162206
+10.) TF = 2 / 3737 = 0.00053518865
+
+### Compute IDF:
+
+IDF = log_2 ( total number of documents / number of documents that contain "gift")
+= log_2 (602 / 19) = 4.98569216332
+
+### Compute TF-IDF for each .txt file:
+
+TF-IDF = TF * IDF
+
+1.) IDF = 0.00003371316 * 4.98569216332 = 0.00016808343
+2.) IDF = 0.00141442715 * 4.98569216332 = 0.00705189835
+3.) IDF = 0.00044247787 * 4.98569216332 = 0.00220605844
+4.) IDF = 0.00029555194 * 4.98569216332 = 0.00147353099
+5.) IDF = 0.00050756268 * 4.98569216332 = 0.00253055127
+6.) IDF = 0.00041135335 * 4.98569216332 = 0.00205088117
+7.) IDF = 0.00049236829 * 4.98569216332 = 0.00245479672
+8.) IDF = 0.00029112081 * 4.98569216332 = 0.00145143874
+9.) IDF = 0.000162206 * 4.98569216332 = 0.00080870918
+10.) IDF = 0.00053518865 * 4.98569216332 = 0.00266828585
 
 # Q3 Answer
 
