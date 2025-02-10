@@ -123,18 +123,24 @@ TF-IDF = TF * IDF
 
 ### PageRank Table
 
+I used https://searchenginereports.net/google-pagerank-checker to check the page rankings. 
+
 |PageRank |URI
 |------:|---
-|0.00705189835 |https://catalog.odu.edu/courses/tax/
-|0.00266828585	|https://catalog.odu.edu/graduate/financialawardsforgraduatestudents/
-|0.00253055127	|https://catalog.odu.edu/courses/sped/
-|0.00245479672	|https://catalog.odu.edu/undergraduate/business/financial-management/
-|0.00220605844	|https://catalog.odu.edu/graduate/business/accounting/
-|0.00205088117	|https://catalog.odu.edu/courses/fin/
-|0.00147353099	|https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/
-|0.00145143874	|https://www.odu.edu/life/culture/arts/diehn
-|0.00080870918	|https://catalog.odu.edu/undergraduate/continuing-education/
-|0.00016808343	|https://catalog.odu.edu/undergraduate/studentfinancialaid/
+|0.7 |https://catalog.odu.edu/courses/tax/
+|0.7	|https://catalog.odu.edu/graduate/financialawardsforgraduatestudents/
+|0.7	|https://catalog.odu.edu/courses/sped/
+|0.7	|https://catalog.odu.edu/undergraduate/business/financial-management/
+|0.7	|https://catalog.odu.edu/graduate/business/accounting/
+|0.7	|https://catalog.odu.edu/courses/fin/
+|0.7	|https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/
+|0.7	|https://www.odu.edu/life/culture/arts/diehn
+|0.7	|https://catalog.odu.edu/undergraduate/continuing-education/
+|0.7	|https://catalog.odu.edu/undergraduate/studentfinancialaid/
+
+### Comparing rankings between q2 and q3
+From q2, the webpage with the highest TF-IDF ranking was https://catalog.odu.edu/courses/tax/ Additionally, the webpage with the lowest TF-IDF score is https://catalog.odu.edu/undergraduate/studentfinancialaid/ indicating that this webpage has less relevance to the term "gift". Furthermore, all webpages recieved the same PageRank score (0.7), meaning that all pages hold similar levels of importance based on the link analysis within the domain.  The TF-IDF ranking focuses on how relevant the content is to the term, and the PageRank is used to assess the link structure.
 
 # References
 * Module-04 Searching, <https://docs.google.com/presentation/d/1xHWYidHcqPljtvqcGsUXgXU7j6KEFDVXrTftHmkv6OA/edit?pli=1#slide=id.g32fc6d3dd1_0_4>
+* Page Rank Checker, <https://searchenginereports.net/google-pagerank-checker>
