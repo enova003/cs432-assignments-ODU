@@ -121,6 +121,20 @@ TF-IDF = TF * IDF
 
 # Q3 Answer
 
+### PageRank Table
+
+|PageRank |URI
+|------:|---
+|0.00705189835 |https://catalog.odu.edu/courses/tax/
+|0.00266828585	|https://catalog.odu.edu/graduate/financialawardsforgraduatestudents/
+|0.00253055127	|https://catalog.odu.edu/courses/sped/
+|0.00245479672	|https://catalog.odu.edu/undergraduate/business/financial-management/
+|0.00220605844	|https://catalog.odu.edu/graduate/business/accounting/
+|0.00205088117	|https://catalog.odu.edu/courses/fin/
+|0.00147353099	|https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/
+|0.00145143874	|https://www.odu.edu/life/culture/arts/diehn
+|0.00080870918	|https://catalog.odu.edu/undergraduate/continuing-education/
+|0.00016808343	|https://catalog.odu.edu/undergraduate/studentfinancialaid/
 
 # References
 * Module-04 Searching, <https://docs.google.com/presentation/d/1xHWYidHcqPljtvqcGsUXgXU7j6KEFDVXrTftHmkv6OA/edit?pli=1#slide=id.g32fc6d3dd1_0_4>
