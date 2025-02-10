@@ -15,7 +15,9 @@ After this, I created another python script called `removeHTMLboilerplate.py`.  
 To answer the question asked in the homework, of the original 618 unique URIs that I obtained, only 602 of them contained useful text. This was slightly surprising to me, as I thought all of the URIs would have contained meaningful text. 
 
 # Q2 Answer
- ### I used the term "gift" for this question.  The total number of documents that contained this term was 19.  However, these are the ten documents that I selected, and the result of each document after I ran the following command:
+### Important Note: I checked all 19 html files, and there were not 10 different domains.  They were all different URIs, however, many of them shared a common domain. 
+
+### I used the term "gift" for this question.  The total number of documents that contained this term was 19.  However, these are the ten documents that I selected, and the result of each document after I ran the following command:
  `grep -c "gift" *.txt`
  ```
 1.) f8d5b9d5f1efef4cadd56f1bcd132b75_processed.txt:1
