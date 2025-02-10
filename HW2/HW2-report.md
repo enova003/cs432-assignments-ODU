@@ -141,6 +141,10 @@ I used https://searchenginereports.net/google-pagerank-checker to check the page
 ### Comparing rankings between q2 and q3
 From q2, the webpage with the highest TF-IDF ranking was https://catalog.odu.edu/courses/tax/ Additionally, the webpage with the lowest TF-IDF score is https://catalog.odu.edu/undergraduate/studentfinancialaid/ indicating that this webpage has less relevance to the term "gift". Furthermore, all webpages recieved the same PageRank score (0.7), meaning that all pages hold similar levels of importance based on the link analysis within the domain.  The TF-IDF ranking focuses on how relevant the content is to the term, and the PageRank is used to assess the link structure.
 
+# Extra Credit Q5
+
+I built a simple script to index all words for all 602 URIs. The python script can be found in this repository; the file name is `inverted_file.py`.  The .txt file that this script generates was too large to be uploaded to this GitHub repository, as it was almost 150 MB in size. I tried to upload it multiple times, however, it would not work. Nonetheless, the script is preloaded with all 602 uris, and it can be executed with the following command `python inverted_file.py` or `python3 inverted_file.py` depending on what version of python your machine is running. An interesting aspect of the actual .txt file that it generates is that all variations in case and punction are removed, allowing for more accurate search results. 
+
 # References
 * Module-04 Searching, <https://docs.google.com/presentation/d/1xHWYidHcqPljtvqcGsUXgXU7j6KEFDVXrTftHmkv6OA/edit?pli=1#slide=id.g32fc6d3dd1_0_4>
 * Page Rank Checker, <https://searchenginereports.net/google-pagerank-checker>
