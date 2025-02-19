@@ -4,7 +4,7 @@
 ### Sunday March 2, 2025 11:59pm
 
 # Q1 Answer
-In HW1 and HW2, I obtained the list of 500 unique URIs from https://www.odu.edu/, therefore, for this problem, I obtained the TimeMaps for each of the unique URIs that I collected from https://www.odu.edu/ using MemGator Memento Aggregator. I installed a stand-alone version of MemGator on my own machine, as described in the EC-memgator assignment. My machine utilizes Windows, therefore, I downloaded the MemGator Windows AMD 64 version of MemGator. After this was downloaded, I created a Python script that reads over my URI to hash map file from HW2, iterates through each URI, and runs the MemGator command to fetch the TimeMap for each URI.  The script completely handles the process of calling MemGator, generatign the corresponding output filenames using the MD5 hash, and adding a delay between requests.  
+In HW1 and HW2, I obtained the list of 500 unique URIs from https://www.odu.edu/, therefore, for this problem, I obtained the TimeMaps for each of the unique URIs that I collected from https://www.odu.edu/ using MemGator Memento Aggregator. I installed a stand-alone version of MemGator on my own machine, as described in the EC-memgator assignment. My machine utilizes Windows, therefore, I downloaded the MemGator Windows AMD 64 version of MemGator. After this was downloaded, I created a Python script that reads over my URI to hash map file from HW2, iterates through each URI, and runs the MemGator command to fetch the TimeMap for each URI.  The script completely handles the process of calling MemGator, generating the corresponding output filenames using the MD5 hash, and adding a delay between requests.  
 
 Here is the Python script:
 
