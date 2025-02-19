@@ -79,7 +79,7 @@ The script reads my uri_to_hash_map.txt file from HW2 and splits the line into t
 
 Additionally, the program checks the size of each file, and if a file is greater than 10 MB, the script automatically handles compressing the file using gzip, as the assignment instructions stated. The function that is responsible for compressing the file is called `compress_file()`, and this function uses the gzip utility to compress the file.  After the file is compressed, the original uncompressed file is deleted. 
 
-The TimeMap files for each of the URIs can be found at this file path: `spr25-enova003/HW3/TimeMaps-Q1`. 
+The TimeMap files for each of the URIs can be found at this file path: `spr25-enova003/HW3/timemaps`. 
 
 # Q2 Answer
 
