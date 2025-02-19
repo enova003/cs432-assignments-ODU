@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://www.odu.edu/technology-services/email/student",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/technology-services/email/student",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-12-20T21:28:49Z",
+        "uri": "https://web.archive.org/web/20241220212849/https://www.odu.edu/technology-services/email/student"
+      },
+      {
+        "datetime": "2024-12-24T17:53:35Z",
+        "uri": "https://web.archive.org/web/20241224175335/https://www.odu.edu/technology-services/email/student"
+      },
+      {
+        "datetime": "2025-01-15T19:30:20Z",
+        "uri": "https://web.archive.org/web/20250115193020/https://www.odu.edu/technology-services/email/student"
+      },
+      {
+        "datetime": "2025-02-14T09:59:50Z",
+        "uri": "https://web.archive.org/web/20250214095950/https://www.odu.edu/technology-services/email/student"
+      }
+    ],
+    "first": {
+      "datetime": "2024-12-20T21:28:49Z",
+      "uri": "https://web.archive.org/web/20241220212849/https://www.odu.edu/technology-services/email/student"
+    },
+    "last": {
+      "datetime": "2025-02-14T09:59:50Z",
+      "uri": "https://web.archive.org/web/20250214095950/https://www.odu.edu/technology-services/email/student"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/technology-services/email/student",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/technology-services/email/student",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/technology-services/email/student"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/technology-services/email/student"
+}

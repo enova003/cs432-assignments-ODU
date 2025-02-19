@@ -1,0 +1,106 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/educ/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/educ/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-10-26T23:26:56Z",
+        "uri": "https://web.archive.org/web/20181026232656/http://catalog.odu.edu:80/courses/educ/"
+      },
+      {
+        "datetime": "2018-12-26T17:43:20Z",
+        "uri": "https://web.archive.org/web/20181226174320/http://catalog.odu.edu:80/courses/educ/"
+      },
+      {
+        "datetime": "2019-02-26T22:55:18Z",
+        "uri": "https://web.archive.org/web/20190226225518/http://catalog.odu.edu:80/courses/educ/"
+      },
+      {
+        "datetime": "2019-04-28T21:21:01Z",
+        "uri": "https://web.archive.org/web/20190428212101/http://catalog.odu.edu:80/courses/educ/"
+      },
+      {
+        "datetime": "2019-06-28T20:48:25Z",
+        "uri": "https://web.archive.org/web/20190628204825/http://catalog.odu.edu:80/courses/educ/"
+      },
+      {
+        "datetime": "2019-08-28T19:26:53Z",
+        "uri": "https://web.archive.org/web/20190828192653/http://catalog.odu.edu:80/courses/educ/"
+      },
+      {
+        "datetime": "2019-10-09T05:25:24Z",
+        "uri": "https://web.archive.org/web/20191009052524/http://catalog.odu.edu:80/courses/educ/"
+      },
+      {
+        "datetime": "2019-12-08T12:32:46Z",
+        "uri": "https://web.archive.org/web/20191208123246/http://catalog.odu.edu:80/courses/educ/"
+      },
+      {
+        "datetime": "2020-02-06T16:36:49Z",
+        "uri": "https://web.archive.org/web/20200206163649/http://catalog.odu.edu:80/courses/educ/"
+      },
+      {
+        "datetime": "2020-03-02T06:04:05Z",
+        "uri": "https://web.archive.org/web/20200302060405/http://catalog.odu.edu:80/courses/educ/"
+      },
+      {
+        "datetime": "2020-05-01T08:42:28Z",
+        "uri": "https://web.archive.org/web/20200501084228/http://catalog.odu.edu:80/courses/educ/"
+      },
+      {
+        "datetime": "2020-06-30T12:15:28Z",
+        "uri": "https://web.archive.org/web/20200630121528/http://catalog.odu.edu:80/courses/educ/"
+      },
+      {
+        "datetime": "2021-01-24T09:26:28Z",
+        "uri": "https://web.archive.org/web/20210124092628/https://catalog.odu.edu/courses/educ/"
+      },
+      {
+        "datetime": "2021-04-12T20:40:17Z",
+        "uri": "https://web.archive.org/web/20210412204017/http://catalog.odu.edu/courses/educ/"
+      },
+      {
+        "datetime": "2021-11-18T16:08:59Z",
+        "uri": "https://web.archive.org/web/20211118160859/https://catalog.odu.edu/courses/educ/"
+      },
+      {
+        "datetime": "2022-03-19T20:11:15Z",
+        "uri": "https://web.archive.org/web/20220319201115/https://catalog.odu.edu/courses/educ/"
+      },
+      {
+        "datetime": "2022-12-09T00:19:14Z",
+        "uri": "https://web.archive.org/web/20221209001914/https://catalog.odu.edu/courses/educ/"
+      },
+      {
+        "datetime": "2024-02-29T16:09:58Z",
+        "uri": "https://web.archive.org/web/20240229160958/https://catalog.odu.edu/courses/educ/"
+      },
+      {
+        "datetime": "2024-06-22T00:53:26Z",
+        "uri": "https://web.archive.org/web/20240622005326/https://catalog.odu.edu/courses/educ/"
+      },
+      {
+        "datetime": "2024-09-12T05:34:31Z",
+        "uri": "https://web.archive.org/web/20240912053431/https://catalog.odu.edu/courses/educ/"
+      },
+      {
+        "datetime": "2024-12-07T04:57:35Z",
+        "uri": "https://web.archive.org/web/20241207045735/https://catalog.odu.edu/courses/educ/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-10-26T23:26:56Z",
+      "uri": "https://web.archive.org/web/20181026232656/http://catalog.odu.edu:80/courses/educ/"
+    },
+    "last": {
+      "datetime": "2024-12-07T04:57:35Z",
+      "uri": "https://web.archive.org/web/20241207045735/https://catalog.odu.edu/courses/educ/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/educ/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/educ/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/educ/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/educ/"
+}

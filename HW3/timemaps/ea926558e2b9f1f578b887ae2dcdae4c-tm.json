@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://online.odu.edu/continuing-education/programs/for-credit/cpd-elective-credits-program",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/continuing-education/programs/for-credit/cpd-elective-credits-program",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-11-05T12:17:06Z",
+        "uri": "https://web.archive.org/web/20241105121706/https://online.odu.edu/continuing-education/programs/for-credit/cpd-elective-credits-program"
+      }
+    ],
+    "first": {
+      "datetime": "2024-11-05T12:17:06Z",
+      "uri": "https://web.archive.org/web/20241105121706/https://online.odu.edu/continuing-education/programs/for-credit/cpd-elective-credits-program"
+    },
+    "last": {
+      "datetime": "2024-11-05T12:17:06Z",
+      "uri": "https://web.archive.org/web/20241105121706/https://online.odu.edu/continuing-education/programs/for-credit/cpd-elective-credits-program"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/continuing-education/programs/for-credit/cpd-elective-credits-program",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/continuing-education/programs/for-credit/cpd-elective-credits-program",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/continuing-education/programs/for-credit/cpd-elective-credits-program"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/continuing-education/programs/for-credit/cpd-elective-credits-program"
+}

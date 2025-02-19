@@ -1,0 +1,118 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/ipeh/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/ipeh/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-05-29T05:41:43Z",
+        "uri": "https://web.archive.org/web/20180529054143/http://catalog.odu.edu:80/courses/ipeh/"
+      },
+      {
+        "datetime": "2018-07-30T03:37:17Z",
+        "uri": "https://web.archive.org/web/20180730033717/http://catalog.odu.edu:80/courses/ipeh/"
+      },
+      {
+        "datetime": "2018-09-29T03:15:54Z",
+        "uri": "https://web.archive.org/web/20180929031554/http://catalog.odu.edu:80/courses/ipeh/"
+      },
+      {
+        "datetime": "2018-11-28T23:42:12Z",
+        "uri": "https://web.archive.org/web/20181128234212/http://catalog.odu.edu:80/courses/ipeh/"
+      },
+      {
+        "datetime": "2019-01-28T18:03:50Z",
+        "uri": "https://web.archive.org/web/20190128180350/http://catalog.odu.edu:80/courses/ipeh/"
+      },
+      {
+        "datetime": "2019-03-30T18:34:00Z",
+        "uri": "https://web.archive.org/web/20190330183400/http://catalog.odu.edu:80/courses/ipeh/"
+      },
+      {
+        "datetime": "2019-05-30T15:19:20Z",
+        "uri": "https://web.archive.org/web/20190530151920/http://catalog.odu.edu:80/courses/ipeh/"
+      },
+      {
+        "datetime": "2019-07-30T18:45:19Z",
+        "uri": "https://web.archive.org/web/20190730184519/http://catalog.odu.edu:80/courses/ipeh/"
+      },
+      {
+        "datetime": "2019-09-29T03:55:37Z",
+        "uri": "https://web.archive.org/web/20190929035537/http://catalog.odu.edu:80/courses/ipeh/"
+      },
+      {
+        "datetime": "2019-10-09T05:17:58Z",
+        "uri": "https://web.archive.org/web/20191009051758/http://catalog.odu.edu:80/courses/ipeh/"
+      },
+      {
+        "datetime": "2019-12-08T12:34:18Z",
+        "uri": "https://web.archive.org/web/20191208123418/http://catalog.odu.edu:80/courses/ipeh/"
+      },
+      {
+        "datetime": "2020-02-06T16:38:13Z",
+        "uri": "https://web.archive.org/web/20200206163813/http://catalog.odu.edu:80/courses/ipeh/"
+      },
+      {
+        "datetime": "2020-03-02T06:13:38Z",
+        "uri": "https://web.archive.org/web/20200302061338/http://catalog.odu.edu:80/courses/ipeh/"
+      },
+      {
+        "datetime": "2020-05-01T08:46:06Z",
+        "uri": "https://web.archive.org/web/20200501084606/http://catalog.odu.edu:80/courses/ipeh/"
+      },
+      {
+        "datetime": "2020-06-30T12:18:05Z",
+        "uri": "https://web.archive.org/web/20200630121805/http://catalog.odu.edu:80/courses/ipeh/"
+      },
+      {
+        "datetime": "2021-01-24T08:03:44Z",
+        "uri": "https://web.archive.org/web/20210124080344/https://catalog.odu.edu/courses/ipeh/"
+      },
+      {
+        "datetime": "2021-04-12T20:20:07Z",
+        "uri": "https://web.archive.org/web/20210412202007/http://catalog.odu.edu/courses/ipeh/"
+      },
+      {
+        "datetime": "2021-11-19T02:49:40Z",
+        "uri": "https://web.archive.org/web/20211119024940/https://catalog.odu.edu/courses/ipeh/"
+      },
+      {
+        "datetime": "2022-03-19T20:33:49Z",
+        "uri": "https://web.archive.org/web/20220319203349/https://catalog.odu.edu/courses/ipeh/"
+      },
+      {
+        "datetime": "2022-12-09T00:19:14Z",
+        "uri": "https://web.archive.org/web/20221209001914/https://catalog.odu.edu/courses/ipeh/"
+      },
+      {
+        "datetime": "2024-02-26T03:49:57Z",
+        "uri": "https://web.archive.org/web/20240226034957/https://catalog.odu.edu/courses/ipeh/"
+      },
+      {
+        "datetime": "2024-02-28T21:41:54Z",
+        "uri": "https://web.archive.org/web/20240228214154/https://catalog.odu.edu/courses/ipeh/"
+      },
+      {
+        "datetime": "2024-02-29T16:10:09Z",
+        "uri": "https://web.archive.org/web/20240229161009/https://catalog.odu.edu/courses/ipeh/"
+      },
+      {
+        "datetime": "2024-09-26T12:04:41Z",
+        "uri": "https://web.archive.org/web/20240926120441/https://catalog.odu.edu/courses/ipeh/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-05-29T05:41:43Z",
+      "uri": "https://web.archive.org/web/20180529054143/http://catalog.odu.edu:80/courses/ipeh/"
+    },
+    "last": {
+      "datetime": "2024-09-26T12:04:41Z",
+      "uri": "https://web.archive.org/web/20240926120441/https://catalog.odu.edu/courses/ipeh/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/ipeh/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/ipeh/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/ipeh/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/ipeh/"
+}

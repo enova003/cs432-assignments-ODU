@@ -1,0 +1,290 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/paup/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/paup/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:27:14Z",
+        "uri": "https://web.archive.org/web/20120902042714/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2013-05-17T08:07:30Z",
+        "uri": "https://web.archive.org/web/20130517080730/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2014-06-20T15:26:54Z",
+        "uri": "https://web.archive.org/web/20140620152654/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2014-08-20T12:35:14Z",
+        "uri": "https://web.archive.org/web/20140820123514/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2014-10-20T03:43:52Z",
+        "uri": "https://web.archive.org/web/20141020034352/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2014-12-19T15:11:19Z",
+        "uri": "https://web.archive.org/web/20141219151119/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2015-02-15T16:05:33Z",
+        "uri": "https://web.archive.org/web/20150215160533/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2015-04-17T03:17:18Z",
+        "uri": "https://web.archive.org/web/20150417031718/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2015-05-11T08:09:04Z",
+        "uri": "https://web.archive.org/web/20150511080904/http://catalog.odu.edu/courses/paup/"
+      },
+      {
+        "datetime": "2015-06-16T14:54:31Z",
+        "uri": "https://web.archive.org/web/20150616145431/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2015-07-03T04:57:09Z",
+        "uri": "https://web.archive.org/web/20150703045709/http://catalog.odu.edu/courses/paup/"
+      },
+      {
+        "datetime": "2015-08-16T01:01:09Z",
+        "uri": "https://web.archive.org/web/20150816010109/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2015-10-15T07:22:43Z",
+        "uri": "https://web.archive.org/web/20151015072243/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2015-12-09T20:19:17Z",
+        "uri": "https://web.archive.org/web/20151209201917/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2015-12-09T20:19:17Z",
+        "uri": "https://web.archive.org/web/20151209201917/http://catalog.odu.edu:80/courses/paup"
+      },
+      {
+        "datetime": "2015-12-15T00:00:50Z",
+        "uri": "https://web.archive.org/web/20151215000050/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2016-01-10T11:36:32Z",
+        "uri": "https://web.archive.org/web/20160110113632/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2016-01-10T11:36:32Z",
+        "uri": "https://web.archive.org/web/20160110113632/http://catalog.odu.edu:80/courses/paup"
+      },
+      {
+        "datetime": "2016-02-10T02:23:31Z",
+        "uri": "https://web.archive.org/web/20160210022331/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2016-02-10T02:23:31Z",
+        "uri": "https://web.archive.org/web/20160210022331/http://catalog.odu.edu:80/courses/paup"
+      },
+      {
+        "datetime": "2016-02-13T06:43:07Z",
+        "uri": "https://web.archive.org/web/20160213064307/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2016-03-12T09:26:27Z",
+        "uri": "https://web.archive.org/web/20160312092627/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2016-03-12T09:26:27Z",
+        "uri": "https://web.archive.org/web/20160312092627/http://catalog.odu.edu:80/courses/paup"
+      },
+      {
+        "datetime": "2016-04-09T05:08:09Z",
+        "uri": "https://web.archive.org/web/20160409050809/http://catalog.odu.edu/courses/paup/"
+      },
+      {
+        "datetime": "2016-04-12T18:09:09Z",
+        "uri": "https://web.archive.org/web/20160412180909/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2016-04-12T18:09:09Z",
+        "uri": "https://web.archive.org/web/20160412180909/http://catalog.odu.edu:80/courses/paup"
+      },
+      {
+        "datetime": "2016-04-14T10:52:06Z",
+        "uri": "https://web.archive.org/web/20160414105206/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2016-05-14T01:11:46Z",
+        "uri": "https://web.archive.org/web/20160514011146/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2016-05-14T01:11:46Z",
+        "uri": "https://web.archive.org/web/20160514011146/http://catalog.odu.edu:80/courses/paup"
+      },
+      {
+        "datetime": "2016-06-14T04:19:35Z",
+        "uri": "https://web.archive.org/web/20160614041935/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2016-08-13T19:44:03Z",
+        "uri": "https://web.archive.org/web/20160813194403/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2016-08-15T00:03:31Z",
+        "uri": "https://web.archive.org/web/20160815000331/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2016-10-14T18:45:59Z",
+        "uri": "https://web.archive.org/web/20161014184559/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2016-12-05T05:00:27Z",
+        "uri": "https://web.archive.org/web/20161205050027/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2017-04-08T18:16:34Z",
+        "uri": "https://web.archive.org/web/20170408181634/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2017-04-27T06:02:21Z",
+        "uri": "https://web.archive.org/web/20170427060221/http://catalog.odu.edu/courses/paup/"
+      },
+      {
+        "datetime": "2017-06-08T07:08:27Z",
+        "uri": "https://web.archive.org/web/20170608070827/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2017-07-09T02:01:01Z",
+        "uri": "https://web.archive.org/web/20170709020101/http://catalog.odu.edu/courses/paup/"
+      },
+      {
+        "datetime": "2017-08-08T13:34:20Z",
+        "uri": "https://web.archive.org/web/20170808133420/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2017-10-08T19:01:12Z",
+        "uri": "https://web.archive.org/web/20171008190112/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2017-12-09T00:11:12Z",
+        "uri": "https://web.archive.org/web/20171209001112/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2018-02-07T18:47:21Z",
+        "uri": "https://web.archive.org/web/20180207184721/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2018-04-09T20:21:15Z",
+        "uri": "https://web.archive.org/web/20180409202115/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2018-06-10T06:27:23Z",
+        "uri": "https://web.archive.org/web/20180610062723/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2018-08-10T07:51:45Z",
+        "uri": "https://web.archive.org/web/20180810075145/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2018-10-10T04:05:34Z",
+        "uri": "https://web.archive.org/web/20181010040534/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2018-10-11T04:28:54Z",
+        "uri": "https://web.archive.org/web/20181011042854/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2018-12-11T10:31:43Z",
+        "uri": "https://web.archive.org/web/20181211103143/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2019-02-11T09:41:21Z",
+        "uri": "https://web.archive.org/web/20190211094121/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2019-04-13T00:23:36Z",
+        "uri": "https://web.archive.org/web/20190413002336/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2019-06-12T16:37:08Z",
+        "uri": "https://web.archive.org/web/20190612163708/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2019-08-13T05:22:24Z",
+        "uri": "https://web.archive.org/web/20190813052224/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2019-10-09T05:28:44Z",
+        "uri": "https://web.archive.org/web/20191009052844/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2019-12-08T12:35:48Z",
+        "uri": "https://web.archive.org/web/20191208123548/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2020-02-06T16:39:43Z",
+        "uri": "https://web.archive.org/web/20200206163943/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2020-03-02T06:14:53Z",
+        "uri": "https://web.archive.org/web/20200302061453/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2020-05-01T08:53:47Z",
+        "uri": "https://web.archive.org/web/20200501085347/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2020-06-30T15:12:25Z",
+        "uri": "https://web.archive.org/web/20200630151225/http://catalog.odu.edu:80/courses/paup/"
+      },
+      {
+        "datetime": "2021-01-22T23:28:16Z",
+        "uri": "https://web.archive.org/web/20210122232816/https://catalog.odu.edu/courses/paup/"
+      },
+      {
+        "datetime": "2021-04-12T20:27:59Z",
+        "uri": "https://web.archive.org/web/20210412202759/http://catalog.odu.edu/courses/paup/"
+      },
+      {
+        "datetime": "2021-11-22T14:28:04Z",
+        "uri": "https://web.archive.org/web/20211122142804/https://catalog.odu.edu/courses/paup/"
+      },
+      {
+        "datetime": "2022-03-19T22:04:44Z",
+        "uri": "https://web.archive.org/web/20220319220444/https://catalog.odu.edu/courses/paup/"
+      },
+      {
+        "datetime": "2022-03-19T23:15:44Z",
+        "uri": "https://web.archive.org/web/20220319231544/https://catalog.odu.edu/courses/paup/"
+      },
+      {
+        "datetime": "2022-03-19T23:15:44Z",
+        "uri": "https://web.archive.org/web/20220319231544/http://catalog.odu.edu/courses/paup/"
+      },
+      {
+        "datetime": "2023-12-08T06:22:13Z",
+        "uri": "https://web.archive.org/web/20231208062213/https://catalog.odu.edu/courses/paup/"
+      },
+      {
+        "datetime": "2024-02-29T00:41:33Z",
+        "uri": "https://web.archive.org/web/20240229004133/https://catalog.odu.edu/courses/paup/"
+      },
+      {
+        "datetime": "2024-09-12T06:10:33Z",
+        "uri": "https://web.archive.org/web/20240912061033/https://catalog.odu.edu/courses/paup/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:27:14Z",
+      "uri": "https://web.archive.org/web/20120902042714/http://catalog.odu.edu:80/courses/paup/"
+    },
+    "last": {
+      "datetime": "2024-09-12T06:10:33Z",
+      "uri": "https://web.archive.org/web/20240912061033/https://catalog.odu.edu/courses/paup/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/paup/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/paup/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/paup/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/paup/"
+}

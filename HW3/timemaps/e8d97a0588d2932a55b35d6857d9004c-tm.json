@@ -1,0 +1,494 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/mgmt/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/mgmt/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:37:06Z",
+        "uri": "https://web.archive.org/web/20120902043706/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2013-05-17T08:19:53Z",
+        "uri": "https://web.archive.org/web/20130517081953/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2014-04-19T02:39:02Z",
+        "uri": "https://web.archive.org/web/20140419023902/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2014-04-19T02:39:02Z",
+        "uri": "https://web.archive.org/web/20140419023902/http://catalog.odu.edu:80/courses/mgmt"
+      },
+      {
+        "datetime": "2014-04-21T22:24:03Z",
+        "uri": "https://web.archive.org/web/20140421222403/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2014-05-19T14:13:52Z",
+        "uri": "https://web.archive.org/web/20140519141352/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2014-05-19T14:13:52Z",
+        "uri": "https://web.archive.org/web/20140519141352/http://catalog.odu.edu:80/courses/mgmt"
+      },
+      {
+        "datetime": "2014-06-19T10:00:28Z",
+        "uri": "https://web.archive.org/web/20140619100028/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2014-06-19T10:00:28Z",
+        "uri": "https://web.archive.org/web/20140619100028/http://catalog.odu.edu:80/courses/mgmt"
+      },
+      {
+        "datetime": "2014-06-21T09:50:36Z",
+        "uri": "https://web.archive.org/web/20140621095036/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2014-08-20T22:53:44Z",
+        "uri": "https://web.archive.org/web/20140820225344/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2014-10-20T16:23:42Z",
+        "uri": "https://web.archive.org/web/20141020162342/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2014-12-20T10:31:33Z",
+        "uri": "https://web.archive.org/web/20141220103133/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2015-02-03T10:01:15Z",
+        "uri": "https://web.archive.org/web/20150203100115/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2015-02-03T10:01:15Z",
+        "uri": "https://web.archive.org/web/20150203100115/http://catalog.odu.edu:80/courses/mgmt"
+      },
+      {
+        "datetime": "2015-02-15T15:58:00Z",
+        "uri": "https://web.archive.org/web/20150215155800/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2015-03-07T13:29:32Z",
+        "uri": "https://web.archive.org/web/20150307132932/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2015-03-07T13:29:32Z",
+        "uri": "https://web.archive.org/web/20150307132932/http://catalog.odu.edu:80/courses/mgmt"
+      },
+      {
+        "datetime": "2015-04-07T02:21:42Z",
+        "uri": "https://web.archive.org/web/20150407022142/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2015-04-07T02:21:42Z",
+        "uri": "https://web.archive.org/web/20150407022142/http://catalog.odu.edu:80/courses/mgmt"
+      },
+      {
+        "datetime": "2015-04-17T00:54:32Z",
+        "uri": "https://web.archive.org/web/20150417005432/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2015-05-07T08:54:54Z",
+        "uri": "https://web.archive.org/web/20150507085454/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2015-05-07T08:54:54Z",
+        "uri": "https://web.archive.org/web/20150507085454/http://catalog.odu.edu:80/courses/mgmt"
+      },
+      {
+        "datetime": "2015-05-11T08:30:55Z",
+        "uri": "https://web.archive.org/web/20150511083055/http://catalog.odu.edu/courses/mgmt/"
+      },
+      {
+        "datetime": "2015-06-07T07:02:14Z",
+        "uri": "https://web.archive.org/web/20150607070214/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2015-06-07T07:02:14Z",
+        "uri": "https://web.archive.org/web/20150607070214/http://catalog.odu.edu:80/courses/mgmt"
+      },
+      {
+        "datetime": "2015-06-16T14:53:15Z",
+        "uri": "https://web.archive.org/web/20150616145315/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2015-07-03T07:52:10Z",
+        "uri": "https://web.archive.org/web/20150703075210/http://catalog.odu.edu/courses/mgmt/"
+      },
+      {
+        "datetime": "2015-07-08T01:40:56Z",
+        "uri": "https://web.archive.org/web/20150708014056/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2015-07-08T01:40:56Z",
+        "uri": "https://web.archive.org/web/20150708014056/http://catalog.odu.edu:80/courses/mgmt"
+      },
+      {
+        "datetime": "2015-08-16T00:55:53Z",
+        "uri": "https://web.archive.org/web/20150816005553/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2015-10-15T07:21:30Z",
+        "uri": "https://web.archive.org/web/20151015072130/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2015-10-29T05:48:02Z",
+        "uri": "https://web.archive.org/web/20151029054802/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2015-10-29T05:48:02Z",
+        "uri": "https://web.archive.org/web/20151029054802/http://catalog.odu.edu:80/courses/mgmt"
+      },
+      {
+        "datetime": "2015-12-14T13:59:13Z",
+        "uri": "https://web.archive.org/web/20151214135913/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2016-02-13T03:30:30Z",
+        "uri": "https://web.archive.org/web/20160213033030/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2016-04-09T05:05:56Z",
+        "uri": "https://web.archive.org/web/20160409050556/http://catalog.odu.edu/courses/mgmt/"
+      },
+      {
+        "datetime": "2016-04-13T17:58:51Z",
+        "uri": "https://web.archive.org/web/20160413175851/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2016-06-13T11:00:09Z",
+        "uri": "https://web.archive.org/web/20160613110009/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2016-08-13T03:32:01Z",
+        "uri": "https://web.archive.org/web/20160813033201/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2016-10-14T18:45:48Z",
+        "uri": "https://web.archive.org/web/20161014184548/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2016-12-05T04:59:07Z",
+        "uri": "https://web.archive.org/web/20161205045907/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2017-04-13T07:21:41Z",
+        "uri": "https://web.archive.org/web/20170413072141/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2017-04-27T06:23:45Z",
+        "uri": "https://web.archive.org/web/20170427062345/http://catalog.odu.edu/courses/mgmt/"
+      },
+      {
+        "datetime": "2017-06-03T06:45:25Z",
+        "uri": "https://web.archive.org/web/20170603064525/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2017-06-03T06:45:25Z",
+        "uri": "https://web.archive.org/web/20170603064525/http://catalog.odu.edu:80/courses/mgmt"
+      },
+      {
+        "datetime": "2017-06-13T15:37:12Z",
+        "uri": "https://web.archive.org/web/20170613153712/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2017-07-04T12:08:24Z",
+        "uri": "https://web.archive.org/web/20170704120824/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2017-07-04T12:08:24Z",
+        "uri": "https://web.archive.org/web/20170704120824/http://catalog.odu.edu:80/courses/mgmt"
+      },
+      {
+        "datetime": "2017-07-09T02:17:42Z",
+        "uri": "https://web.archive.org/web/20170709021742/http://catalog.odu.edu/courses/mgmt/"
+      },
+      {
+        "datetime": "2017-08-13T10:43:19Z",
+        "uri": "https://web.archive.org/web/20170813104319/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2017-10-13T08:46:30Z",
+        "uri": "https://web.archive.org/web/20171013084630/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2017-12-13T03:56:02Z",
+        "uri": "https://web.archive.org/web/20171213035602/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2017-12-19T14:32:04Z",
+        "uri": "https://web.archive.org/web/20171219143204/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2017-12-19T14:32:04Z",
+        "uri": "https://web.archive.org/web/20171219143204/http://catalog.odu.edu:80/courses/mgmt"
+      },
+      {
+        "datetime": "2018-01-19T08:39:40Z",
+        "uri": "https://web.archive.org/web/20180119083940/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2018-01-19T08:39:40Z",
+        "uri": "https://web.archive.org/web/20180119083940/http://catalog.odu.edu:80/courses/mgmt"
+      },
+      {
+        "datetime": "2018-02-19T03:56:36Z",
+        "uri": "https://web.archive.org/web/20180219035636/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2018-02-19T03:56:36Z",
+        "uri": "https://web.archive.org/web/20180219035636/http://catalog.odu.edu:80/courses/mgmt"
+      },
+      {
+        "datetime": "2018-03-23T11:30:11Z",
+        "uri": "https://web.archive.org/web/20180323113011/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2018-03-23T11:30:11Z",
+        "uri": "https://web.archive.org/web/20180323113011/http://catalog.odu.edu:80/courses/mgmt"
+      },
+      {
+        "datetime": "2018-04-24T00:18:25Z",
+        "uri": "https://web.archive.org/web/20180424001825/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2018-04-24T00:18:25Z",
+        "uri": "https://web.archive.org/web/20180424001825/http://catalog.odu.edu:80/courses/mgmt"
+      },
+      {
+        "datetime": "2018-05-25T09:01:40Z",
+        "uri": "https://web.archive.org/web/20180525090140/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2018-05-25T09:01:40Z",
+        "uri": "https://web.archive.org/web/20180525090140/http://catalog.odu.edu:80/courses/mgmt"
+      },
+      {
+        "datetime": "2018-06-14T22:44:49Z",
+        "uri": "https://web.archive.org/web/20180614224449/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2018-06-16T04:19:56Z",
+        "uri": "https://web.archive.org/web/20180616041956/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2018-06-26T01:30:28Z",
+        "uri": "https://web.archive.org/web/20180626013028/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2018-06-26T01:30:28Z",
+        "uri": "https://web.archive.org/web/20180626013028/http://catalog.odu.edu:80/courses/mgmt"
+      },
+      {
+        "datetime": "2018-07-27T07:44:04Z",
+        "uri": "https://web.archive.org/web/20180727074404/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2018-07-27T07:44:04Z",
+        "uri": "https://web.archive.org/web/20180727074404/http://catalog.odu.edu:80/courses/mgmt"
+      },
+      {
+        "datetime": "2018-08-16T15:48:03Z",
+        "uri": "https://web.archive.org/web/20180816154803/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2018-08-27T10:18:13Z",
+        "uri": "https://web.archive.org/web/20180827101813/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2018-08-27T10:18:13Z",
+        "uri": "https://web.archive.org/web/20180827101813/http://catalog.odu.edu:80/courses/mgmt"
+      },
+      {
+        "datetime": "2018-09-27T19:12:19Z",
+        "uri": "https://web.archive.org/web/20180927191219/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2018-09-27T19:12:19Z",
+        "uri": "https://web.archive.org/web/20180927191219/http://catalog.odu.edu:80/courses/mgmt"
+      },
+      {
+        "datetime": "2018-10-16T16:27:19Z",
+        "uri": "https://web.archive.org/web/20181016162719/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2018-10-28T16:56:43Z",
+        "uri": "https://web.archive.org/web/20181028165643/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2018-10-28T16:56:43Z",
+        "uri": "https://web.archive.org/web/20181028165643/http://catalog.odu.edu:80/courses/mgmt"
+      },
+      {
+        "datetime": "2018-11-28T17:27:35Z",
+        "uri": "https://web.archive.org/web/20181128172735/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2018-11-28T17:27:35Z",
+        "uri": "https://web.archive.org/web/20181128172735/http://catalog.odu.edu:80/courses/mgmt"
+      },
+      {
+        "datetime": "2018-12-16T11:33:10Z",
+        "uri": "https://web.archive.org/web/20181216113310/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2018-12-30T10:41:08Z",
+        "uri": "https://web.archive.org/web/20181230104108/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2018-12-30T10:41:08Z",
+        "uri": "https://web.archive.org/web/20181230104108/http://catalog.odu.edu:80/courses/mgmt"
+      },
+      {
+        "datetime": "2019-01-30T11:43:02Z",
+        "uri": "https://web.archive.org/web/20190130114302/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2019-01-30T11:43:02Z",
+        "uri": "https://web.archive.org/web/20190130114302/http://catalog.odu.edu:80/courses/mgmt"
+      },
+      {
+        "datetime": "2019-02-15T17:30:13Z",
+        "uri": "https://web.archive.org/web/20190215173013/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2019-03-02T15:14:23Z",
+        "uri": "https://web.archive.org/web/20190302151423/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2019-03-02T15:14:23Z",
+        "uri": "https://web.archive.org/web/20190302151423/http://catalog.odu.edu:80/courses/mgmt"
+      },
+      {
+        "datetime": "2019-04-02T17:38:52Z",
+        "uri": "https://web.archive.org/web/20190402173852/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2019-04-02T17:38:52Z",
+        "uri": "https://web.archive.org/web/20190402173852/http://catalog.odu.edu:80/courses/mgmt"
+      },
+      {
+        "datetime": "2019-05-03T13:52:05Z",
+        "uri": "https://web.archive.org/web/20190503135205/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2019-05-03T13:52:05Z",
+        "uri": "https://web.archive.org/web/20190503135205/http://catalog.odu.edu:80/courses/mgmt"
+      },
+      {
+        "datetime": "2019-06-04T03:54:45Z",
+        "uri": "https://web.archive.org/web/20190604035445/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2019-06-04T03:54:45Z",
+        "uri": "https://web.archive.org/web/20190604035445/http://catalog.odu.edu:80/courses/mgmt"
+      },
+      {
+        "datetime": "2019-06-17T06:07:27Z",
+        "uri": "https://web.archive.org/web/20190617060727/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2019-07-05T18:43:24Z",
+        "uri": "https://web.archive.org/web/20190705184324/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2019-07-05T18:43:24Z",
+        "uri": "https://web.archive.org/web/20190705184324/http://catalog.odu.edu:80/courses/mgmt"
+      },
+      {
+        "datetime": "2019-08-05T22:55:29Z",
+        "uri": "https://web.archive.org/web/20190805225529/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2019-08-05T22:55:29Z",
+        "uri": "https://web.archive.org/web/20190805225529/http://catalog.odu.edu:80/courses/mgmt"
+      },
+      {
+        "datetime": "2019-08-17T01:29:51Z",
+        "uri": "https://web.archive.org/web/20190817012951/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2019-09-06T05:44:59Z",
+        "uri": "https://web.archive.org/web/20190906054459/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2019-09-06T05:44:59Z",
+        "uri": "https://web.archive.org/web/20190906054459/http://catalog.odu.edu:80/courses/mgmt"
+      },
+      {
+        "datetime": "2019-10-09T05:27:39Z",
+        "uri": "https://web.archive.org/web/20191009052739/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2019-12-08T12:35:03Z",
+        "uri": "https://web.archive.org/web/20191208123503/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2020-03-02T06:06:16Z",
+        "uri": "https://web.archive.org/web/20200302060616/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2020-05-01T08:52:19Z",
+        "uri": "https://web.archive.org/web/20200501085219/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2020-06-30T15:11:00Z",
+        "uri": "https://web.archive.org/web/20200630151100/http://catalog.odu.edu:80/courses/mgmt/"
+      },
+      {
+        "datetime": "2021-01-24T09:45:27Z",
+        "uri": "https://web.archive.org/web/20210124094527/https://catalog.odu.edu/courses/mgmt/"
+      },
+      {
+        "datetime": "2021-04-12T20:26:10Z",
+        "uri": "https://web.archive.org/web/20210412202610/http://catalog.odu.edu/courses/mgmt/"
+      },
+      {
+        "datetime": "2021-09-15T05:19:52Z",
+        "uri": "https://arquivo.pt/wayback/20210915051952mp_/https://catalog.odu.edu/courses/mgmt/"
+      },
+      {
+        "datetime": "2021-11-03T21:55:51Z",
+        "uri": "https://web.archive.org/web/20211103215551/https://catalog.odu.edu/courses/mgmt/"
+      },
+      {
+        "datetime": "2021-11-18T01:37:44Z",
+        "uri": "https://web.archive.org/web/20211118013744/https://catalog.odu.edu/courses/mgmt/"
+      },
+      {
+        "datetime": "2022-03-19T21:00:02Z",
+        "uri": "https://web.archive.org/web/20220319210002/https://catalog.odu.edu/courses/mgmt/"
+      },
+      {
+        "datetime": "2022-05-26T07:41:37Z",
+        "uri": "https://web.archive.org/web/20220526074137/https://catalog.odu.edu/courses/mgmt/"
+      },
+      {
+        "datetime": "2023-12-08T06:22:15Z",
+        "uri": "https://web.archive.org/web/20231208062215/https://catalog.odu.edu/courses/mgmt/"
+      },
+      {
+        "datetime": "2024-09-12T06:20:17Z",
+        "uri": "https://web.archive.org/web/20240912062017/https://catalog.odu.edu/courses/mgmt/"
+      },
+      {
+        "datetime": "2024-12-07T05:17:11Z",
+        "uri": "https://web.archive.org/web/20241207051711/https://catalog.odu.edu/courses/mgmt/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:37:06Z",
+      "uri": "https://web.archive.org/web/20120902043706/http://catalog.odu.edu:80/courses/mgmt/"
+    },
+    "last": {
+      "datetime": "2024-12-07T05:17:11Z",
+      "uri": "https://web.archive.org/web/20241207051711/https://catalog.odu.edu/courses/mgmt/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/mgmt/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/mgmt/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/mgmt/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/mgmt/"
+}

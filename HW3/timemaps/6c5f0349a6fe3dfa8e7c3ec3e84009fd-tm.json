@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.odu.edu/article/dr-rene-love-named-dean-of-ellmer-school-of-nursing",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/article/dr-rene-love-named-dean-of-ellmer-school-of-nursing",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2025-01-29T19:58:22Z",
+        "uri": "https://web.archive.org/web/20250129195822/https://www.odu.edu/article/dr-rene-love-named-dean-of-ellmer-school-of-nursing"
+      }
+    ],
+    "first": {
+      "datetime": "2025-01-29T19:58:22Z",
+      "uri": "https://web.archive.org/web/20250129195822/https://www.odu.edu/article/dr-rene-love-named-dean-of-ellmer-school-of-nursing"
+    },
+    "last": {
+      "datetime": "2025-01-29T19:58:22Z",
+      "uri": "https://web.archive.org/web/20250129195822/https://www.odu.edu/article/dr-rene-love-named-dean-of-ellmer-school-of-nursing"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/article/dr-rene-love-named-dean-of-ellmer-school-of-nursing",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/article/dr-rene-love-named-dean-of-ellmer-school-of-nursing",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/article/dr-rene-love-named-dean-of-ellmer-school-of-nursing"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/article/dr-rene-love-named-dean-of-ellmer-school-of-nursing"
+}

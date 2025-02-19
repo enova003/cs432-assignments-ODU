@@ -1,0 +1,314 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/dnth/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/dnth/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:17:17Z",
+        "uri": "https://web.archive.org/web/20120902041717/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2013-05-17T07:50:06Z",
+        "uri": "https://web.archive.org/web/20130517075006/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2014-04-22T11:50:17Z",
+        "uri": "https://web.archive.org/web/20140422115017/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2014-06-22T04:23:13Z",
+        "uri": "https://web.archive.org/web/20140622042313/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2014-08-22T03:31:40Z",
+        "uri": "https://web.archive.org/web/20140822033140/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2014-10-21T20:47:55Z",
+        "uri": "https://web.archive.org/web/20141021204755/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2014-12-21T05:20:23Z",
+        "uri": "https://web.archive.org/web/20141221052023/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2015-02-15T16:02:54Z",
+        "uri": "https://web.archive.org/web/20150215160254/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2015-04-10T23:55:10Z",
+        "uri": "https://web.archive.org/web/20150410235510/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2015-04-10T23:55:10Z",
+        "uri": "https://web.archive.org/web/20150410235510/http://catalog.odu.edu:80/courses/dnth"
+      },
+      {
+        "datetime": "2015-04-17T00:53:59Z",
+        "uri": "https://web.archive.org/web/20150417005359/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2015-05-11T07:45:18Z",
+        "uri": "https://web.archive.org/web/20150511074518/http://catalog.odu.edu/courses/dnth/"
+      },
+      {
+        "datetime": "2015-05-11T13:49:11Z",
+        "uri": "https://web.archive.org/web/20150511134911/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2015-05-11T13:49:11Z",
+        "uri": "https://web.archive.org/web/20150511134911/http://catalog.odu.edu:80/courses/dnth"
+      },
+      {
+        "datetime": "2015-06-13T05:23:54Z",
+        "uri": "https://web.archive.org/web/20150613052354/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2015-06-13T05:23:54Z",
+        "uri": "https://web.archive.org/web/20150613052354/http://catalog.odu.edu:80/courses/dnth"
+      },
+      {
+        "datetime": "2015-06-16T14:38:17Z",
+        "uri": "https://web.archive.org/web/20150616143817/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2015-07-03T06:18:23Z",
+        "uri": "https://web.archive.org/web/20150703061823/http://catalog.odu.edu/courses/dnth/"
+      },
+      {
+        "datetime": "2015-07-16T13:10:05Z",
+        "uri": "https://web.archive.org/web/20150716131005/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2015-07-16T13:10:05Z",
+        "uri": "https://web.archive.org/web/20150716131005/http://catalog.odu.edu:80/courses/dnth"
+      },
+      {
+        "datetime": "2015-08-16T00:46:57Z",
+        "uri": "https://web.archive.org/web/20150816004657/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2015-10-15T07:10:59Z",
+        "uri": "https://web.archive.org/web/20151015071059/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2015-12-14T15:28:22Z",
+        "uri": "https://web.archive.org/web/20151214152822/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2016-01-24T05:27:37Z",
+        "uri": "https://web.archive.org/web/20160124052737/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2016-01-24T05:27:37Z",
+        "uri": "https://web.archive.org/web/20160124052737/http://catalog.odu.edu:80/courses/dnth"
+      },
+      {
+        "datetime": "2016-02-13T06:10:18Z",
+        "uri": "https://web.archive.org/web/20160213061018/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2016-02-23T22:41:21Z",
+        "uri": "https://web.archive.org/web/20160223224121/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2016-02-23T22:41:21Z",
+        "uri": "https://web.archive.org/web/20160223224121/http://catalog.odu.edu:80/courses/dnth"
+      },
+      {
+        "datetime": "2016-03-25T16:43:23Z",
+        "uri": "https://web.archive.org/web/20160325164323/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2016-03-25T16:43:23Z",
+        "uri": "https://web.archive.org/web/20160325164323/http://catalog.odu.edu:80/courses/dnth"
+      },
+      {
+        "datetime": "2016-04-09T05:04:24Z",
+        "uri": "https://web.archive.org/web/20160409050424/http://catalog.odu.edu/courses/dnth/"
+      },
+      {
+        "datetime": "2016-04-13T17:42:09Z",
+        "uri": "https://web.archive.org/web/20160413174209/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2016-04-28T10:57:58Z",
+        "uri": "https://web.archive.org/web/20160428105758/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2016-04-28T10:57:58Z",
+        "uri": "https://web.archive.org/web/20160428105758/http://catalog.odu.edu:80/courses/dnth"
+      },
+      {
+        "datetime": "2016-06-13T10:58:57Z",
+        "uri": "https://web.archive.org/web/20160613105857/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2016-08-13T03:30:04Z",
+        "uri": "https://web.archive.org/web/20160813033004/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2016-10-13T00:08:05Z",
+        "uri": "https://web.archive.org/web/20161013000805/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2016-12-05T04:55:11Z",
+        "uri": "https://web.archive.org/web/20161205045511/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2017-04-08T18:15:09Z",
+        "uri": "https://web.archive.org/web/20170408181509/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2017-04-27T05:20:16Z",
+        "uri": "https://web.archive.org/web/20170427052016/http://catalog.odu.edu/courses/dnth/"
+      },
+      {
+        "datetime": "2017-05-10T10:23:51Z",
+        "uri": "https://web.archive.org/web/20170510102351/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2017-05-10T10:23:51Z",
+        "uri": "https://web.archive.org/web/20170510102351/http://catalog.odu.edu:80/courses/dnth"
+      },
+      {
+        "datetime": "2017-06-08T03:05:05Z",
+        "uri": "https://web.archive.org/web/20170608030505/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2017-06-10T03:59:27Z",
+        "uri": "https://web.archive.org/web/20170610035927/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2017-06-10T03:59:27Z",
+        "uri": "https://web.archive.org/web/20170610035927/http://catalog.odu.edu:80/courses/dnth"
+      },
+      {
+        "datetime": "2017-07-09T01:41:01Z",
+        "uri": "https://web.archive.org/web/20170709014101/http://catalog.odu.edu/courses/dnth/"
+      },
+      {
+        "datetime": "2017-08-08T09:54:40Z",
+        "uri": "https://web.archive.org/web/20170808095440/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2017-08-09T12:13:53Z",
+        "uri": "https://web.archive.org/web/20170809121353/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2017-10-09T08:50:08Z",
+        "uri": "https://web.archive.org/web/20171009085008/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2017-12-09T03:00:25Z",
+        "uri": "https://web.archive.org/web/20171209030025/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2018-02-07T18:44:37Z",
+        "uri": "https://web.archive.org/web/20180207184437/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2018-04-09T20:14:15Z",
+        "uri": "https://web.archive.org/web/20180409201415/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2018-06-10T06:20:15Z",
+        "uri": "https://web.archive.org/web/20180610062015/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2018-08-10T07:41:58Z",
+        "uri": "https://web.archive.org/web/20180810074158/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2018-10-11T04:21:21Z",
+        "uri": "https://web.archive.org/web/20181011042121/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2019-04-12T10:43:57Z",
+        "uri": "https://web.archive.org/web/20190412104357/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2019-06-12T01:32:39Z",
+        "uri": "https://web.archive.org/web/20190612013239/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2019-08-11T18:46:25Z",
+        "uri": "https://web.archive.org/web/20190811184625/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2019-10-09T05:25:14Z",
+        "uri": "https://web.archive.org/web/20191009052514/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2019-12-08T12:32:36Z",
+        "uri": "https://web.archive.org/web/20191208123236/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2020-02-06T16:36:44Z",
+        "uri": "https://web.archive.org/web/20200206163644/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2020-03-02T06:03:55Z",
+        "uri": "https://web.archive.org/web/20200302060355/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2020-05-01T08:42:18Z",
+        "uri": "https://web.archive.org/web/20200501084218/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2020-06-30T12:15:18Z",
+        "uri": "https://web.archive.org/web/20200630121518/http://catalog.odu.edu:80/courses/dnth/"
+      },
+      {
+        "datetime": "2021-01-22T22:00:55Z",
+        "uri": "https://web.archive.org/web/20210122220055/https://catalog.odu.edu/courses/dnth/"
+      },
+      {
+        "datetime": "2021-04-12T20:42:18Z",
+        "uri": "https://web.archive.org/web/20210412204218/http://catalog.odu.edu/courses/dnth/"
+      },
+      {
+        "datetime": "2021-11-03T21:56:25Z",
+        "uri": "https://web.archive.org/web/20211103215625/https://catalog.odu.edu/courses/dnth/"
+      },
+      {
+        "datetime": "2021-11-19T02:45:42Z",
+        "uri": "https://web.archive.org/web/20211119024542/https://catalog.odu.edu/courses/dnth/"
+      },
+      {
+        "datetime": "2022-03-19T20:34:32Z",
+        "uri": "https://web.archive.org/web/20220319203432/https://catalog.odu.edu/courses/dnth/"
+      },
+      {
+        "datetime": "2022-12-09T00:19:14Z",
+        "uri": "https://web.archive.org/web/20221209001914/https://catalog.odu.edu/courses/dnth/"
+      },
+      {
+        "datetime": "2023-12-17T01:36:36Z",
+        "uri": "https://web.archive.org/web/20231217013636/https://catalog.odu.edu/courses/dnth/"
+      },
+      {
+        "datetime": "2024-08-13T21:00:07Z",
+        "uri": "https://web.archive.org/web/20240813210007/https://catalog.odu.edu/courses/dnth/"
+      },
+      {
+        "datetime": "2024-11-11T22:45:45Z",
+        "uri": "https://web.archive.org/web/20241111224545/https://catalog.odu.edu/courses/dnth/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:17:17Z",
+      "uri": "https://web.archive.org/web/20120902041717/http://catalog.odu.edu:80/courses/dnth/"
+    },
+    "last": {
+      "datetime": "2024-11-11T22:45:45Z",
+      "uri": "https://web.archive.org/web/20241111224545/https://catalog.odu.edu/courses/dnth/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/dnth/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/dnth/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/dnth/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/dnth/"
+}

@@ -1,0 +1,342 @@
+{
+  "original_uri": "https://www.odu.edu/honors/research",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/honors/research",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2013-12-03T14:35:18Z",
+        "uri": "https://web.archive.org/web/20131203143518/http://www.odu.edu:80/honors/research"
+      },
+      {
+        "datetime": "2014-04-18T23:32:15Z",
+        "uri": "https://web.archive.org/web/20140418233215/http://www.odu.edu:80/honors/research"
+      },
+      {
+        "datetime": "2014-07-07T12:21:04Z",
+        "uri": "https://web.archive.org/web/20140707122104/http://odu.edu/honors/research"
+      },
+      {
+        "datetime": "2016-06-18T23:00:21Z",
+        "uri": "https://web.archive.org/web/20160618230021/http://www.odu.edu:80/honors/research"
+      },
+      {
+        "datetime": "2017-08-14T23:52:41Z",
+        "uri": "https://web.archive.org/web/20170814235241/http://www.odu.edu:80/honors/research"
+      },
+      {
+        "datetime": "2019-09-22T22:46:52Z",
+        "uri": "https://web.archive.org/web/20190922224652/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2020-07-26T18:42:28Z",
+        "uri": "https://web.archive.org/web/20200726184228/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2020-07-26T18:42:36Z",
+        "uri": "https://web.archive.org/web/20200726184236/http://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2021-04-19T08:31:59Z",
+        "uri": "https://web.archive.org/web/20210419083159/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2021-05-27T05:02:28Z",
+        "uri": "https://web.archive.org/web/20210527050228/https://odu.edu/honors/research"
+      },
+      {
+        "datetime": "2021-05-27T05:02:35Z",
+        "uri": "https://web.archive.org/web/20210527050235/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2021-05-27T05:02:46Z",
+        "uri": "https://web.archive.org/web/20210527050246/http://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2021-08-13T19:58:17Z",
+        "uri": "https://web.archive.org/web/20210813195817/https://odu.edu/honors/research"
+      },
+      {
+        "datetime": "2021-11-15T16:19:00Z",
+        "uri": "https://arquivo.pt/wayback/20211115161900mp_/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2021-11-15T16:19:00Z",
+        "uri": "https://web.archive.org/web/20211115161900/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2021-11-15T16:19:04Z",
+        "uri": "https://arquivo.pt/wayback/20211115161904mp_/http://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2021-11-15T16:19:04Z",
+        "uri": "https://web.archive.org/web/20211115161904/http://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2022-01-20T17:37:38Z",
+        "uri": "https://web.archive.org/web/20220120173738/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2022-01-20T18:24:39Z",
+        "uri": "https://web.archive.org/web/20220120182439/https://www.odu.edu/honors/research/"
+      },
+      {
+        "datetime": "2022-01-20T21:29:22Z",
+        "uri": "https://web.archive.org/web/20220120212922/http://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2022-01-20T21:29:23Z",
+        "uri": "https://web.archive.org/web/20220120212923/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2022-05-27T12:34:15Z",
+        "uri": "https://arquivo.pt/wayback/20220527123415mp_/https://odu.edu/honors/research"
+      },
+      {
+        "datetime": "2022-05-27T16:09:17Z",
+        "uri": "https://web.archive.org/web/20220527160917/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2022-05-27T22:16:40Z",
+        "uri": "https://web.archive.org/web/20220527221640/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2022-05-28T17:36:41Z",
+        "uri": "https://web.archive.org/web/20220528173641/https://odu.edu/honors/research"
+      },
+      {
+        "datetime": "2022-08-11T06:55:28Z",
+        "uri": "https://web.archive.org/web/20220811065528/https://odu.edu/honors/research"
+      },
+      {
+        "datetime": "2022-08-11T06:55:34Z",
+        "uri": "https://web.archive.org/web/20220811065534/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2022-08-11T06:55:40Z",
+        "uri": "https://web.archive.org/web/20220811065540/http://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2022-09-24T22:56:08Z",
+        "uri": "https://web.archive.org/web/20220924225608/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2022-09-27T15:20:18Z",
+        "uri": "https://web.archive.org/web/20220927152018/https://odu.edu/honors/research"
+      },
+      {
+        "datetime": "2022-10-21T23:50:23Z",
+        "uri": "https://web.archive.org/web/20221021235023/http://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2022-10-31T12:13:46Z",
+        "uri": "https://web.archive.org/web/20221031121346/http://www.odu.edu/honors/research/"
+      },
+      {
+        "datetime": "2022-11-07T06:04:59Z",
+        "uri": "https://web.archive.org/web/20221107060459/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2022-11-07T19:19:29Z",
+        "uri": "https://web.archive.org/web/20221107191929/http://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2022-11-16T04:54:54Z",
+        "uri": "https://arquivo.pt/wayback/20221116045454mp_/https://odu.edu/honors/research"
+      },
+      {
+        "datetime": "2022-11-18T18:41:27Z",
+        "uri": "https://web.archive.org/web/20221118184127/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2022-12-07T12:28:37Z",
+        "uri": "https://web.archive.org/web/20221207122837/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2022-12-08T05:51:08Z",
+        "uri": "https://web.archive.org/web/20221208055108/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2022-12-10T18:10:04Z",
+        "uri": "https://web.archive.org/web/20221210181004/http://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2023-01-07T11:38:16Z",
+        "uri": "https://web.archive.org/web/20230107113816/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2023-01-10T02:37:22Z",
+        "uri": "https://web.archive.org/web/20230110023722/http://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2023-01-24T20:29:26Z",
+        "uri": "https://arquivo.pt/wayback/20230124202926mp_/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2023-02-07T10:24:06Z",
+        "uri": "https://web.archive.org/web/20230207102406/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2023-02-10T05:06:14Z",
+        "uri": "https://web.archive.org/web/20230210050614/http://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2023-02-20T01:03:26Z",
+        "uri": "https://web.archive.org/web/20230220010326/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2023-03-07T04:57:06Z",
+        "uri": "https://web.archive.org/web/20230307045706/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2023-03-07T15:34:14Z",
+        "uri": "https://web.archive.org/web/20230307153414/http://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2023-03-27T16:12:14Z",
+        "uri": "https://web.archive.org/web/20230327161214/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2023-03-27T22:34:38Z",
+        "uri": "https://web.archive.org/web/20230327223438/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2023-06-09T05:29:00Z",
+        "uri": "https://web.archive.org/web/20230609052900/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2023-08-25T18:51:03Z",
+        "uri": "https://web.archive.org/web/20230825185103/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2023-10-01T09:03:35Z",
+        "uri": "https://web.archive.org/web/20231001090335/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2023-11-28T03:54:15Z",
+        "uri": "https://web.archive.org/web/20231128035415/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2023-12-07T07:55:43Z",
+        "uri": "https://web.archive.org/web/20231207075543/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2024-02-14T16:08:26Z",
+        "uri": "https://web.archive.org/web/20240214160826/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2024-02-21T20:14:29Z",
+        "uri": "https://web.archive.org/web/20240221201429/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2024-02-28T23:50:10Z",
+        "uri": "https://web.archive.org/web/20240228235010/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2024-02-29T02:08:03Z",
+        "uri": "https://web.archive.org/web/20240229020803/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2024-03-16T16:07:58Z",
+        "uri": "https://web.archive.org/web/20240316160758/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2024-03-25T12:56:45Z",
+        "uri": "https://web.archive.org/web/20240325125645/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2024-04-03T23:28:50Z",
+        "uri": "https://web.archive.org/web/20240403232850/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2024-04-04T07:27:06Z",
+        "uri": "https://web.archive.org/web/20240404072706/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2024-04-14T17:36:20Z",
+        "uri": "https://web.archive.org/web/20240414173620/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2024-04-27T16:08:14Z",
+        "uri": "https://web.archive.org/web/20240427160814/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2024-05-13T13:54:06Z",
+        "uri": "https://web.archive.org/web/20240513135406/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2024-06-17T23:51:12Z",
+        "uri": "https://web.archive.org/web/20240617235112/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2024-06-18T17:39:19Z",
+        "uri": "https://web.archive.org/web/20240618173919/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2024-07-15T23:30:30Z",
+        "uri": "https://web.archive.org/web/20240715233030/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2024-07-29T08:06:30Z",
+        "uri": "https://web.archive.org/web/20240729080630/https://odu.edu/honors/research"
+      },
+      {
+        "datetime": "2024-08-08T01:13:52Z",
+        "uri": "https://web.archive.org/web/20240808011352/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2024-09-10T11:07:34Z",
+        "uri": "https://web.archive.org/web/20240910110734/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2024-09-17T09:38:49Z",
+        "uri": "https://web.archive.org/web/20240917093849/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2024-10-03T17:10:26Z",
+        "uri": "https://web.archive.org/web/20241003171026/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2024-10-07T10:23:21Z",
+        "uri": "https://web.archive.org/web/20241007102321/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2024-11-18T04:07:24Z",
+        "uri": "https://web.archive.org/web/20241118040724/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2024-12-24T17:56:02Z",
+        "uri": "https://web.archive.org/web/20241224175602/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2024-12-25T13:38:38Z",
+        "uri": "https://web.archive.org/web/20241225133838/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2024-12-27T16:51:53Z",
+        "uri": "https://web.archive.org/web/20241227165153/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2025-01-17T04:48:21Z",
+        "uri": "https://web.archive.org/web/20250117044821/https://www.odu.edu/honors/research"
+      },
+      {
+        "datetime": "2025-02-14T10:00:09Z",
+        "uri": "https://web.archive.org/web/20250214100009/https://www.odu.edu/honors/research"
+      }
+    ],
+    "first": {
+      "datetime": "2013-12-03T14:35:18Z",
+      "uri": "https://web.archive.org/web/20131203143518/http://www.odu.edu:80/honors/research"
+    },
+    "last": {
+      "datetime": "2025-02-14T10:00:09Z",
+      "uri": "https://web.archive.org/web/20250214100009/https://www.odu.edu/honors/research"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/honors/research",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/honors/research",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/honors/research"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/honors/research"
+}

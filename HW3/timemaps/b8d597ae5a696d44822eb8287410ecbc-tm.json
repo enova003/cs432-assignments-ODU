@@ -1,0 +1,202 @@
+{
+  "original_uri": "https://online.odu.edu/academics",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/academics",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2015-09-24T07:30:59Z",
+        "uri": "https://web.archive.org/web/20150924073059/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2016-02-01T16:18:48Z",
+        "uri": "https://web.archive.org/web/20160201161848/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2016-04-17T21:58:49Z",
+        "uri": "https://web.archive.org/web/20160417215849/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2016-06-09T20:37:48Z",
+        "uri": "https://web.archive.org/web/20160609203748/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2016-09-15T18:05:50Z",
+        "uri": "https://web.archive.org/web/20160915180550/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2016-10-18T17:19:43Z",
+        "uri": "https://web.archive.org/web/20161018171943/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2017-01-19T06:02:47Z",
+        "uri": "https://web.archive.org/web/20170119060247/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2017-03-01T16:34:30Z",
+        "uri": "https://web.archive.org/web/20170301163430/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2017-03-09T13:26:10Z",
+        "uri": "https://web.archive.org/web/20170309132610/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2017-07-06T15:16:15Z",
+        "uri": "https://web.archive.org/web/20170706151615/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2020-04-27T14:50:12Z",
+        "uri": "https://web.archive.org/web/20200427145012/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2020-05-31T02:04:50Z",
+        "uri": "https://web.archive.org/web/20200531020450/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2020-06-17T08:54:04Z",
+        "uri": "https://web.archive.org/web/20200617085404/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2020-09-25T23:44:07Z",
+        "uri": "https://web.archive.org/web/20200925234407/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2020-11-25T11:18:29Z",
+        "uri": "https://web.archive.org/web/20201125111829/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2020-11-30T22:49:22Z",
+        "uri": "https://web.archive.org/web/20201130224922/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2021-03-03T11:59:37Z",
+        "uri": "https://web.archive.org/web/20210303115937/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2021-04-13T04:08:39Z",
+        "uri": "https://web.archive.org/web/20210413040839/http://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2021-05-07T19:36:49Z",
+        "uri": "https://web.archive.org/web/20210507193649/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2021-07-30T23:19:16Z",
+        "uri": "https://web.archive.org/web/20210730231916/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2021-10-27T22:45:58Z",
+        "uri": "https://web.archive.org/web/20211027224558/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2021-12-09T09:25:19Z",
+        "uri": "https://web.archive.org/web/20211209092519/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2022-01-18T04:23:40Z",
+        "uri": "https://web.archive.org/web/20220118042340/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2022-03-19T22:42:55Z",
+        "uri": "https://web.archive.org/web/20220319224255/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2022-03-19T22:42:55Z",
+        "uri": "https://web.archive.org/web/20220319224255/http://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2022-03-19T23:26:46Z",
+        "uri": "https://web.archive.org/web/20220319232646/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2022-05-09T22:39:53Z",
+        "uri": "https://web.archive.org/web/20220509223953/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2022-05-27T06:23:02Z",
+        "uri": "https://web.archive.org/web/20220527062302/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2022-06-08T00:53:42Z",
+        "uri": "https://web.archive.org/web/20220608005342/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2022-08-08T17:25:10Z",
+        "uri": "https://web.archive.org/web/20220808172510/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2022-10-04T23:10:30Z",
+        "uri": "https://web.archive.org/web/20221004231030/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2022-10-09T03:40:11Z",
+        "uri": "https://web.archive.org/web/20221009034011/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2023-02-08T23:37:28Z",
+        "uri": "https://web.archive.org/web/20230208233728/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2023-05-24T14:51:20Z",
+        "uri": "https://web.archive.org/web/20230524145120/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2023-05-24T14:51:24Z",
+        "uri": "https://web.archive.org/web/20230524145124/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2023-05-30T10:31:18Z",
+        "uri": "https://web.archive.org/web/20230530103118/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2023-06-02T11:58:44Z",
+        "uri": "https://web.archive.org/web/20230602115844/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2023-12-02T15:13:41Z",
+        "uri": "https://web.archive.org/web/20231202151341/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2024-04-23T04:53:28Z",
+        "uri": "https://web.archive.org/web/20240423045328/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2024-07-21T22:39:39Z",
+        "uri": "https://web.archive.org/web/20240721223939/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2024-07-22T07:41:07Z",
+        "uri": "https://web.archive.org/web/20240722074107/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2024-07-26T14:43:52Z",
+        "uri": "https://web.archive.org/web/20240726144352/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2024-09-20T17:26:20Z",
+        "uri": "https://web.archive.org/web/20240920172620/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2024-11-05T13:10:07Z",
+        "uri": "https://web.archive.org/web/20241105131007/https://online.odu.edu/academics"
+      },
+      {
+        "datetime": "2025-01-19T13:02:56Z",
+        "uri": "https://web.archive.org/web/20250119130256/https://online.odu.edu/academics"
+      }
+    ],
+    "first": {
+      "datetime": "2015-09-24T07:30:59Z",
+      "uri": "https://web.archive.org/web/20150924073059/https://online.odu.edu/academics"
+    },
+    "last": {
+      "datetime": "2025-01-19T13:02:56Z",
+      "uri": "https://web.archive.org/web/20250119130256/https://online.odu.edu/academics"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/academics",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/academics",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/academics"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/academics"
+}

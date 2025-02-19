@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/career-technical-education-technology-bs/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/career-technical-education-technology-bs/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-07-04T09:03:35Z",
+        "uri": "https://web.archive.org/web/20240704090335/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/career-technical-education-technology-bs/"
+      },
+      {
+        "datetime": "2024-07-18T08:18:42Z",
+        "uri": "https://web.archive.org/web/20240718081842/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/career-technical-education-technology-bs/"
+      },
+      {
+        "datetime": "2024-08-01T01:44:12Z",
+        "uri": "https://web.archive.org/web/20240801014412/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/career-technical-education-technology-bs/"
+      },
+      {
+        "datetime": "2024-09-25T11:57:24Z",
+        "uri": "https://web.archive.org/web/20240925115724/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/career-technical-education-technology-bs/"
+      },
+      {
+        "datetime": "2024-10-09T14:51:47Z",
+        "uri": "https://web.archive.org/web/20241009145147/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/career-technical-education-technology-bs/"
+      },
+      {
+        "datetime": "2024-10-13T07:37:09Z",
+        "uri": "https://web.archive.org/web/20241013073709/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/career-technical-education-technology-bs/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-07-04T09:03:35Z",
+      "uri": "https://web.archive.org/web/20240704090335/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/career-technical-education-technology-bs/"
+    },
+    "last": {
+      "datetime": "2024-10-13T07:37:09Z",
+      "uri": "https://web.archive.org/web/20241013073709/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/career-technical-education-technology-bs/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/career-technical-education-technology-bs/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/career-technical-education-technology-bs/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/career-technical-education-technology-bs/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/career-technical-education-technology-bs/"
+}

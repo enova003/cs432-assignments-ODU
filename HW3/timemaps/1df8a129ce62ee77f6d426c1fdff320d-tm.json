@@ -1,0 +1,314 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/pas/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/pas/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:27:09Z",
+        "uri": "https://web.archive.org/web/20120902042709/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2013-05-17T08:02:29Z",
+        "uri": "https://web.archive.org/web/20130517080229/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2014-04-19T03:50:51Z",
+        "uri": "https://web.archive.org/web/20140419035051/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2014-04-19T03:50:51Z",
+        "uri": "https://web.archive.org/web/20140419035051/http://catalog.odu.edu:80/courses/pas"
+      },
+      {
+        "datetime": "2014-04-22T11:54:23Z",
+        "uri": "https://web.archive.org/web/20140422115423/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2014-05-20T15:53:37Z",
+        "uri": "https://web.archive.org/web/20140520155337/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2014-05-20T15:53:37Z",
+        "uri": "https://web.archive.org/web/20140520155337/http://catalog.odu.edu:80/courses/pas"
+      },
+      {
+        "datetime": "2014-06-22T01:31:55Z",
+        "uri": "https://web.archive.org/web/20140622013155/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2014-08-22T03:29:50Z",
+        "uri": "https://web.archive.org/web/20140822032950/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2014-10-21T21:00:06Z",
+        "uri": "https://web.archive.org/web/20141021210006/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2014-11-10T01:43:14Z",
+        "uri": "https://web.archive.org/web/20141110014314/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2014-11-10T01:43:14Z",
+        "uri": "https://web.archive.org/web/20141110014314/http://catalog.odu.edu:80/courses/pas"
+      },
+      {
+        "datetime": "2014-12-19T09:43:13Z",
+        "uri": "https://web.archive.org/web/20141219094313/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2014-12-19T09:43:13Z",
+        "uri": "https://web.archive.org/web/20141219094313/http://catalog.odu.edu:80/courses/pas"
+      },
+      {
+        "datetime": "2014-12-21T05:22:55Z",
+        "uri": "https://web.archive.org/web/20141221052255/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2015-02-15T16:00:47Z",
+        "uri": "https://web.archive.org/web/20150215160047/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2015-04-17T03:17:15Z",
+        "uri": "https://web.archive.org/web/20150417031715/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2015-05-11T07:19:37Z",
+        "uri": "https://web.archive.org/web/20150511071937/http://catalog.odu.edu/courses/pas/"
+      },
+      {
+        "datetime": "2015-06-15T01:23:19Z",
+        "uri": "https://web.archive.org/web/20150615012319/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2015-06-15T01:23:19Z",
+        "uri": "https://web.archive.org/web/20150615012319/http://catalog.odu.edu:80/courses/pas"
+      },
+      {
+        "datetime": "2015-07-03T07:23:27Z",
+        "uri": "https://web.archive.org/web/20150703072327/http://catalog.odu.edu/courses/pas/"
+      },
+      {
+        "datetime": "2015-07-16T10:28:15Z",
+        "uri": "https://web.archive.org/web/20150716102815/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2015-07-16T10:28:15Z",
+        "uri": "https://web.archive.org/web/20150716102815/http://catalog.odu.edu:80/courses/pas"
+      },
+      {
+        "datetime": "2015-08-17T23:02:50Z",
+        "uri": "https://web.archive.org/web/20150817230250/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2015-10-17T15:14:11Z",
+        "uri": "https://web.archive.org/web/20151017151411/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2015-10-18T16:24:11Z",
+        "uri": "https://web.archive.org/web/20151018162411/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2015-12-18T01:01:11Z",
+        "uri": "https://web.archive.org/web/20151218010111/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2016-02-16T10:27:07Z",
+        "uri": "https://web.archive.org/web/20160216102707/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2016-04-08T22:59:31Z",
+        "uri": "https://web.archive.org/web/20160408225931/http://catalog.odu.edu/courses/pas/"
+      },
+      {
+        "datetime": "2016-04-17T10:31:07Z",
+        "uri": "https://web.archive.org/web/20160417103107/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2016-04-18T11:44:18Z",
+        "uri": "https://web.archive.org/web/20160418114418/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2016-06-18T07:53:44Z",
+        "uri": "https://web.archive.org/web/20160618075344/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2016-08-18T17:22:08Z",
+        "uri": "https://web.archive.org/web/20160818172208/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2016-10-02T08:35:38Z",
+        "uri": "https://web.archive.org/web/20161002083538/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2016-10-02T08:35:38Z",
+        "uri": "https://web.archive.org/web/20161002083538/http://catalog.odu.edu:80/courses/pas"
+      },
+      {
+        "datetime": "2016-10-18T12:16:10Z",
+        "uri": "https://web.archive.org/web/20161018121610/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2016-11-03T01:54:40Z",
+        "uri": "https://web.archive.org/web/20161103015440/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2016-11-03T01:54:40Z",
+        "uri": "https://web.archive.org/web/20161103015440/http://catalog.odu.edu:80/courses/pas"
+      },
+      {
+        "datetime": "2016-11-23T15:07:53Z",
+        "uri": "https://web.archive.org/web/20161123150753/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2016-11-23T15:07:53Z",
+        "uri": "https://web.archive.org/web/20161123150753/http://catalog.odu.edu:80/courses/pas"
+      },
+      {
+        "datetime": "2016-11-24T16:12:29Z",
+        "uri": "https://web.archive.org/web/20161124161229/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2017-01-24T06:10:45Z",
+        "uri": "https://web.archive.org/web/20170124061045/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2017-04-08T17:59:09Z",
+        "uri": "https://web.archive.org/web/20170408175909/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2017-04-27T04:15:22Z",
+        "uri": "https://web.archive.org/web/20170427041522/http://catalog.odu.edu/courses/pas/"
+      },
+      {
+        "datetime": "2017-06-08T07:08:21Z",
+        "uri": "https://web.archive.org/web/20170608070821/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2017-07-09T01:05:56Z",
+        "uri": "https://web.archive.org/web/20170709010556/http://catalog.odu.edu/courses/pas/"
+      },
+      {
+        "datetime": "2017-08-08T13:43:15Z",
+        "uri": "https://web.archive.org/web/20170808134315/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2017-10-08T18:55:32Z",
+        "uri": "https://web.archive.org/web/20171008185532/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2017-12-09T00:22:44Z",
+        "uri": "https://web.archive.org/web/20171209002244/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2018-02-07T18:50:48Z",
+        "uri": "https://web.archive.org/web/20180207185048/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2018-04-09T20:21:11Z",
+        "uri": "https://web.archive.org/web/20180409202111/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2018-06-10T06:21:45Z",
+        "uri": "https://web.archive.org/web/20180610062145/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2018-08-10T07:51:40Z",
+        "uri": "https://web.archive.org/web/20180810075140/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2018-10-10T04:03:24Z",
+        "uri": "https://web.archive.org/web/20181010040324/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2018-10-11T04:26:32Z",
+        "uri": "https://web.archive.org/web/20181011042632/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2018-12-11T10:31:38Z",
+        "uri": "https://web.archive.org/web/20181211103138/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2019-02-11T09:41:16Z",
+        "uri": "https://web.archive.org/web/20190211094116/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2019-04-13T00:23:30Z",
+        "uri": "https://web.archive.org/web/20190413002330/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2019-06-12T16:32:58Z",
+        "uri": "https://web.archive.org/web/20190612163258/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2019-08-13T05:21:40Z",
+        "uri": "https://web.archive.org/web/20190813052140/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2019-10-09T05:28:39Z",
+        "uri": "https://web.archive.org/web/20191009052839/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2019-12-08T12:35:43Z",
+        "uri": "https://web.archive.org/web/20191208123543/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2020-02-06T16:39:38Z",
+        "uri": "https://web.archive.org/web/20200206163938/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2020-03-02T06:14:48Z",
+        "uri": "https://web.archive.org/web/20200302061448/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2020-05-01T08:53:42Z",
+        "uri": "https://web.archive.org/web/20200501085342/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2020-06-30T15:12:20Z",
+        "uri": "https://web.archive.org/web/20200630151220/http://catalog.odu.edu:80/courses/pas/"
+      },
+      {
+        "datetime": "2021-01-22T23:22:49Z",
+        "uri": "https://web.archive.org/web/20210122232249/https://catalog.odu.edu/courses/pas/"
+      },
+      {
+        "datetime": "2021-04-12T20:20:12Z",
+        "uri": "https://web.archive.org/web/20210412202012/http://catalog.odu.edu/courses/pas/"
+      },
+      {
+        "datetime": "2021-11-18T01:42:45Z",
+        "uri": "https://web.archive.org/web/20211118014245/https://catalog.odu.edu/courses/pas/"
+      },
+      {
+        "datetime": "2022-03-19T20:08:20Z",
+        "uri": "https://web.archive.org/web/20220319200820/https://catalog.odu.edu/courses/pas/"
+      },
+      {
+        "datetime": "2024-02-29T16:08:36Z",
+        "uri": "https://web.archive.org/web/20240229160836/https://catalog.odu.edu/courses/pas/"
+      },
+      {
+        "datetime": "2024-07-28T14:30:46Z",
+        "uri": "https://web.archive.org/web/20240728143046/http://catalog.odu.edu/courses/pas/"
+      },
+      {
+        "datetime": "2024-09-27T03:22:14Z",
+        "uri": "https://web.archive.org/web/20240927032214/https://catalog.odu.edu/courses/pas/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:27:09Z",
+      "uri": "https://web.archive.org/web/20120902042709/http://catalog.odu.edu:80/courses/pas/"
+    },
+    "last": {
+      "datetime": "2024-09-27T03:22:14Z",
+      "uri": "https://web.archive.org/web/20240927032214/https://catalog.odu.edu/courses/pas/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/pas/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/pas/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/pas/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/pas/"
+}

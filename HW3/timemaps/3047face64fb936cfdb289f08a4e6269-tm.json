@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.odu.edu/technology-services/software-services",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/technology-services/software-services",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-12-20T21:52:01Z",
+        "uri": "https://web.archive.org/web/20241220215201/https://www.odu.edu/technology-services/software-services"
+      }
+    ],
+    "first": {
+      "datetime": "2024-12-20T21:52:01Z",
+      "uri": "https://web.archive.org/web/20241220215201/https://www.odu.edu/technology-services/software-services"
+    },
+    "last": {
+      "datetime": "2024-12-20T21:52:01Z",
+      "uri": "https://web.archive.org/web/20241220215201/https://www.odu.edu/technology-services/software-services"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/technology-services/software-services",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/technology-services/software-services",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/technology-services/software-services"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/technology-services/software-services"
+}

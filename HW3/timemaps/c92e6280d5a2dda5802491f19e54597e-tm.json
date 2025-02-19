@@ -1,0 +1,62 @@
+{
+  "original_uri": "https://online.odu.edu/admissions/new-enrolllment-checklist",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/admissions/new-enrolllment-checklist",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-07-15T00:31:10Z",
+        "uri": "https://web.archive.org/web/20230715003110/https://online.odu.edu/admissions/new-enrolllment-checklist"
+      },
+      {
+        "datetime": "2023-08-03T21:21:40Z",
+        "uri": "https://web.archive.org/web/20230803212140/https://online.odu.edu/admissions/new-enrolllment-checklist"
+      },
+      {
+        "datetime": "2023-09-24T16:20:31Z",
+        "uri": "https://web.archive.org/web/20230924162031/https://online.odu.edu/admissions/new-enrolllment-checklist"
+      },
+      {
+        "datetime": "2023-09-24T19:28:34Z",
+        "uri": "https://web.archive.org/web/20230924192834/https://online.odu.edu/admissions/new-enrolllment-checklist"
+      },
+      {
+        "datetime": "2024-03-17T22:31:03Z",
+        "uri": "https://web.archive.org/web/20240317223103/https://online.odu.edu/admissions/new-enrolllment-checklist"
+      },
+      {
+        "datetime": "2024-03-28T02:18:48Z",
+        "uri": "https://web.archive.org/web/20240328021848/https://online.odu.edu/admissions/new-enrolllment-checklist"
+      },
+      {
+        "datetime": "2024-04-23T03:56:28Z",
+        "uri": "https://web.archive.org/web/20240423035628/https://online.odu.edu/admissions/new-enrolllment-checklist"
+      },
+      {
+        "datetime": "2024-08-04T17:00:33Z",
+        "uri": "https://web.archive.org/web/20240804170033/https://online.odu.edu/admissions/new-enrolllment-checklist"
+      },
+      {
+        "datetime": "2024-11-05T12:13:54Z",
+        "uri": "https://web.archive.org/web/20241105121354/https://online.odu.edu/admissions/new-enrolllment-checklist"
+      },
+      {
+        "datetime": "2025-01-19T13:02:24Z",
+        "uri": "https://web.archive.org/web/20250119130224/https://online.odu.edu/admissions/new-enrolllment-checklist"
+      }
+    ],
+    "first": {
+      "datetime": "2023-07-15T00:31:10Z",
+      "uri": "https://web.archive.org/web/20230715003110/https://online.odu.edu/admissions/new-enrolllment-checklist"
+    },
+    "last": {
+      "datetime": "2025-01-19T13:02:24Z",
+      "uri": "https://web.archive.org/web/20250119130224/https://online.odu.edu/admissions/new-enrolllment-checklist"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/admissions/new-enrolllment-checklist",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/admissions/new-enrolllment-checklist",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/admissions/new-enrolllment-checklist"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/admissions/new-enrolllment-checklist"
+}

@@ -1,0 +1,914 @@
+{
+  "original_uri": "https://www.odu.edu/about/accreditation",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/about/accreditation",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T23:04:09Z",
+        "uri": "https://web.archive.org/web/20120902230409/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2012-11-02T13:35:54Z",
+        "uri": "https://web.archive.org/web/20121102133554/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2012-12-09T20:55:34Z",
+        "uri": "https://web.archive.org/web/20121209205534/http://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2013-01-02T18:16:08Z",
+        "uri": "https://web.archive.org/web/20130102181608/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2013-01-17T17:34:30Z",
+        "uri": "https://web.archive.org/web/20130117173430/http://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2013-03-04T16:51:01Z",
+        "uri": "https://web.archive.org/web/20130304165101/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2013-05-02T08:07:12Z",
+        "uri": "https://web.archive.org/web/20130502080712/http://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2013-05-04T18:13:52Z",
+        "uri": "https://web.archive.org/web/20130504181352/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2013-07-19T03:16:09Z",
+        "uri": "https://web.archive.org/web/20130719031609/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2013-08-11T05:38:13Z",
+        "uri": "https://web.archive.org/web/20130811053813/http://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2013-09-17T14:26:59Z",
+        "uri": "https://web.archive.org/web/20130917142659/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2013-09-21T13:35:32Z",
+        "uri": "https://web.archive.org/web/20130921133532/http://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2013-11-17T19:17:57Z",
+        "uri": "https://web.archive.org/web/20131117191757/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2014-01-17T14:08:30Z",
+        "uri": "https://web.archive.org/web/20140117140830/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2014-02-03T12:17:00Z",
+        "uri": "https://web.archive.org/web/20140203121700/http://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2014-03-23T16:06:53Z",
+        "uri": "https://web.archive.org/web/20140323160653/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2014-03-28T10:08:24Z",
+        "uri": "https://web.archive.org/web/20140328100824/http://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2014-05-23T12:07:05Z",
+        "uri": "https://web.archive.org/web/20140523120705/http://odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2014-07-01T05:34:12Z",
+        "uri": "https://web.archive.org/web/20140701053412/http://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2014-08-02T16:12:11Z",
+        "uri": "https://web.archive.org/web/20140802161211/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2014-10-10T03:56:24Z",
+        "uri": "http://archive.md/20141010035624/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2016-03-02T20:25:38Z",
+        "uri": "https://web.archive.org/web/20160302202538/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2016-04-02T14:48:19Z",
+        "uri": "https://web.archive.org/web/20160402144819/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2016-05-03T09:50:31Z",
+        "uri": "https://web.archive.org/web/20160503095031/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2016-10-27T06:58:07Z",
+        "uri": "https://web.archive.org/web/20161027065807/http://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2016-11-07T04:55:53Z",
+        "uri": "https://web.archive.org/web/20161107045553/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2016-11-19T14:10:50Z",
+        "uri": "https://web.archive.org/web/20161119141050/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2016-11-22T03:44:15Z",
+        "uri": "https://web.archive.org/web/20161122034415/http://odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2017-01-19T07:01:43Z",
+        "uri": "https://web.archive.org/web/20170119070143/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2017-01-22T14:46:04Z",
+        "uri": "https://web.archive.org/web/20170122144604/http://odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2017-03-18T09:11:26Z",
+        "uri": "https://web.archive.org/web/20170318091126/http://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2017-03-18T19:26:40Z",
+        "uri": "https://web.archive.org/web/20170318192640/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2017-03-24T00:31:06Z",
+        "uri": "https://web.archive.org/web/20170324003106/http://odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2017-03-25T20:07:47Z",
+        "uri": "https://web.archive.org/web/20170325200747/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2017-04-17T11:05:11Z",
+        "uri": "https://web.archive.org/web/20170417110511/http://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2017-05-04T06:33:12Z",
+        "uri": "https://web.archive.org/web/20170504063312/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2017-05-06T03:37:22Z",
+        "uri": "https://web.archive.org/web/20170506033722/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2017-05-26T13:22:24Z",
+        "uri": "https://web.archive.org/web/20170526132224/http://odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2017-06-06T04:18:02Z",
+        "uri": "https://web.archive.org/web/20170606041802/http://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2017-07-06T20:33:16Z",
+        "uri": "https://web.archive.org/web/20170706203316/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2017-07-26T13:07:38Z",
+        "uri": "https://web.archive.org/web/20170726130738/http://odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2017-09-05T14:40:45Z",
+        "uri": "https://web.archive.org/web/20170905144045/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2017-09-25T10:44:13Z",
+        "uri": "https://web.archive.org/web/20170925104413/http://odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2017-11-05T19:33:54Z",
+        "uri": "https://web.archive.org/web/20171105193354/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2017-11-24T20:26:01Z",
+        "uri": "https://web.archive.org/web/20171124202601/http://odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2018-01-06T04:07:20Z",
+        "uri": "https://web.archive.org/web/20180106040720/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2018-01-25T19:57:44Z",
+        "uri": "https://web.archive.org/web/20180125195744/http://odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2018-03-07T15:18:44Z",
+        "uri": "https://web.archive.org/web/20180307151844/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2018-03-27T09:34:13Z",
+        "uri": "https://web.archive.org/web/20180327093413/http://odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2018-05-07T18:14:37Z",
+        "uri": "https://web.archive.org/web/20180507181437/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2018-05-27T05:42:35Z",
+        "uri": "https://web.archive.org/web/20180527054235/http://odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2018-07-07T23:55:36Z",
+        "uri": "https://web.archive.org/web/20180707235536/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2018-07-26T23:40:23Z",
+        "uri": "https://web.archive.org/web/20180726234023/http://odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2018-09-06T23:02:08Z",
+        "uri": "https://web.archive.org/web/20180906230208/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2018-09-08T01:29:26Z",
+        "uri": "https://web.archive.org/web/20180908012926/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2018-09-12T13:13:47Z",
+        "uri": "https://web.archive.org/web/20180912131347/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2018-11-05T05:59:56Z",
+        "uri": "https://web.archive.org/web/20181105055956/http://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2018-11-06T23:32:48Z",
+        "uri": "https://web.archive.org/web/20181106233248/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2019-01-06T19:38:05Z",
+        "uri": "https://web.archive.org/web/20190106193805/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2019-03-08T12:03:06Z",
+        "uri": "https://web.archive.org/web/20190308120306/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2019-04-08T20:20:56Z",
+        "uri": "https://web.archive.org/web/20190408202056/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2019-04-14T21:36:38Z",
+        "uri": "https://web.archive.org/web/20190414213638/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2019-04-17T12:26:54Z",
+        "uri": "https://web.archive.org/web/20190417122654/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2019-05-08T05:15:03Z",
+        "uri": "https://web.archive.org/web/20190508051503/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2019-06-04T20:23:07Z",
+        "uri": "https://web.archive.org/web/20190604202307/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2019-07-07T22:26:48Z",
+        "uri": "https://web.archive.org/web/20190707222648/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2019-09-06T15:39:13Z",
+        "uri": "https://web.archive.org/web/20190906153913/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2019-10-16T05:28:22Z",
+        "uri": "https://web.archive.org/web/20191016052822/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2019-12-14T12:53:59Z",
+        "uri": "https://web.archive.org/web/20191214125359/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2019-12-15T09:06:35Z",
+        "uri": "https://web.archive.org/web/20191215090635/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2019-12-21T17:53:22Z",
+        "uri": "https://web.archive.org/web/20191221175322/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2020-02-13T14:34:50Z",
+        "uri": "https://web.archive.org/web/20200213143450/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2020-02-14T15:11:50Z",
+        "uri": "https://web.archive.org/web/20200214151150/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2020-04-16T19:00:24Z",
+        "uri": "https://web.archive.org/web/20200416190024/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2020-04-16T19:00:49Z",
+        "uri": "https://web.archive.org/web/20200416190049/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2020-04-16T19:01:14Z",
+        "uri": "https://web.archive.org/web/20200416190114/http://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2020-04-24T13:43:05Z",
+        "uri": "https://web.archive.org/web/20200424134305/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2020-04-27T13:52:21Z",
+        "uri": "https://web.archive.org/web/20200427135221/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2020-05-03T16:46:38Z",
+        "uri": "https://web.archive.org/web/20200503164638/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2020-06-26T06:51:39Z",
+        "uri": "https://web.archive.org/web/20200626065139/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2020-07-02T19:08:32Z",
+        "uri": "https://web.archive.org/web/20200702190832/http://www.odu.edu:80/about/accreditation"
+      },
+      {
+        "datetime": "2020-07-14T22:57:46Z",
+        "uri": "https://web.archive.org/web/20200714225746/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2020-08-17T11:24:39Z",
+        "uri": "https://web.archive.org/web/20200817112439/http://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2020-09-11T00:27:24Z",
+        "uri": "https://web.archive.org/web/20200911002724/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2020-09-11T00:27:38Z",
+        "uri": "https://web.archive.org/web/20200911002738/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2020-09-11T00:27:49Z",
+        "uri": "https://web.archive.org/web/20200911002749/http://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2020-09-15T17:25:19Z",
+        "uri": "https://web.archive.org/web/20200915172519/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2020-10-07T13:44:17Z",
+        "uri": "https://web.archive.org/web/20201007134417/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2020-11-01T13:22:26Z",
+        "uri": "https://web.archive.org/web/20201101132226/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2020-11-12T03:23:59Z",
+        "uri": "https://web.archive.org/web/20201112032359/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2020-12-22T06:09:40Z",
+        "uri": "https://web.archive.org/web/20201222060940/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2020-12-22T06:09:44Z",
+        "uri": "https://web.archive.org/web/20201222060944/http://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2020-12-22T06:09:52Z",
+        "uri": "https://web.archive.org/web/20201222060952/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2021-02-02T20:30:16Z",
+        "uri": "https://web.archive.org/web/20210202203016/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2021-03-21T15:32:02Z",
+        "uri": "https://web.archive.org/web/20210321153202/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2021-04-09T23:29:15Z",
+        "uri": "https://web.archive.org/web/20210409232915/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2021-04-13T17:35:37Z",
+        "uri": "https://web.archive.org/web/20210413173537/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2021-04-14T03:48:53Z",
+        "uri": "https://web.archive.org/web/20210414034853/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2021-04-14T08:19:37Z",
+        "uri": "https://web.archive.org/web/20210414081937/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2021-04-25T20:53:26Z",
+        "uri": "https://web.archive.org/web/20210425205326/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2021-04-30T20:14:28Z",
+        "uri": "https://web.archive.org/web/20210430201428/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2021-05-20T16:07:23Z",
+        "uri": "https://web.archive.org/web/20210520160723/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2021-05-26T19:54:55Z",
+        "uri": "https://web.archive.org/web/20210526195455/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2021-06-02T01:57:15Z",
+        "uri": "https://web.archive.org/web/20210602015715/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2021-08-11T19:21:30Z",
+        "uri": "https://web.archive.org/web/20210811192130/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2021-08-12T06:48:49Z",
+        "uri": "https://web.archive.org/web/20210812064849/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2021-08-12T08:24:10Z",
+        "uri": "https://web.archive.org/web/20210812082410/http://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2021-08-19T22:59:58Z",
+        "uri": "https://web.archive.org/web/20210819225958/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2021-09-10T15:34:58Z",
+        "uri": "https://arquivo.pt/wayback/20210910153458mp_/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2021-10-19T05:03:44Z",
+        "uri": "https://web.archive.org/web/20211019050344/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2021-10-21T05:55:53Z",
+        "uri": "https://arquivo.pt/wayback/20211021055553mp_/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2021-10-21T05:55:53Z",
+        "uri": "https://web.archive.org/web/20211021055553/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2021-11-10T14:16:21Z",
+        "uri": "https://web.archive.org/web/20211110141621/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2021-11-23T23:40:45Z",
+        "uri": "https://web.archive.org/web/20211123234045/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-01-08T16:38:42Z",
+        "uri": "https://web.archive.org/web/20220108163842/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-01-10T17:04:11Z",
+        "uri": "https://web.archive.org/web/20220110170411/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-01-11T20:14:54Z",
+        "uri": "https://web.archive.org/web/20220111201454/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-01-12T16:59:32Z",
+        "uri": "https://web.archive.org/web/20220112165932/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-01-12T21:57:32Z",
+        "uri": "https://web.archive.org/web/20220112215732/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-01-13T01:01:58Z",
+        "uri": "https://web.archive.org/web/20220113010158/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-01-13T19:32:08Z",
+        "uri": "https://web.archive.org/web/20220113193208/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-01-16T23:34:48Z",
+        "uri": "https://web.archive.org/web/20220116233448/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-01-17T07:08:49Z",
+        "uri": "https://web.archive.org/web/20220117070849/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-01-19T04:41:20Z",
+        "uri": "https://web.archive.org/web/20220119044120/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-01-19T05:10:56Z",
+        "uri": "https://web.archive.org/web/20220119051056/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-01-21T21:46:27Z",
+        "uri": "https://web.archive.org/web/20220121214627/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-01-22T10:24:21Z",
+        "uri": "https://arquivo.pt/wayback/20220122102421mp_/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-01-24T20:27:37Z",
+        "uri": "https://web.archive.org/web/20220124202737/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-01-26T02:02:21Z",
+        "uri": "https://web.archive.org/web/20220126020221/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-01-31T22:17:56Z",
+        "uri": "https://web.archive.org/web/20220131221756/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-02-01T22:30:45Z",
+        "uri": "https://web.archive.org/web/20220201223045/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-02-03T18:59:35Z",
+        "uri": "https://web.archive.org/web/20220203185935/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-02-17T22:19:25Z",
+        "uri": "https://web.archive.org/web/20220217221925/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-03-19T20:27:30Z",
+        "uri": "https://web.archive.org/web/20220319202730/http://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-03-19T20:27:31Z",
+        "uri": "https://web.archive.org/web/20220319202731/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-04-17T05:29:56Z",
+        "uri": "https://arquivo.pt/wayback/20220417052956mp_/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-04-19T18:09:30Z",
+        "uri": "https://web.archive.org/web/20220419180930/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-04-20T17:00:30Z",
+        "uri": "https://arquivo.pt/wayback/20220420170030mp_/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-05-14T05:03:11Z",
+        "uri": "https://web.archive.org/web/20220514050311/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-06-08T14:59:30Z",
+        "uri": "https://web.archive.org/web/20220608145930/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-06-19T01:41:44Z",
+        "uri": "https://web.archive.org/web/20220619014144/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-06-19T03:31:30Z",
+        "uri": "https://web.archive.org/web/20220619033130/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-06-19T11:21:44Z",
+        "uri": "https://web.archive.org/web/20220619112144/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-06-19T11:23:00Z",
+        "uri": "https://web.archive.org/web/20220619112300/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-06-19T20:38:16Z",
+        "uri": "https://web.archive.org/web/20220619203816/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-06-19T23:28:08Z",
+        "uri": "https://web.archive.org/web/20220619232808/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-06-19T23:28:36Z",
+        "uri": "https://web.archive.org/web/20220619232836/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-08-02T23:38:51Z",
+        "uri": "https://web.archive.org/web/20220802233851/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-08-04T04:59:35Z",
+        "uri": "https://web.archive.org/web/20220804045935/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-08-04T07:40:36Z",
+        "uri": "https://web.archive.org/web/20220804074036/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-08-06T23:26:15Z",
+        "uri": "https://web.archive.org/web/20220806232615/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-08-08T00:24:48Z",
+        "uri": "https://web.archive.org/web/20220808002448/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-08-08T12:36:03Z",
+        "uri": "https://web.archive.org/web/20220808123603/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-08-08T13:23:17Z",
+        "uri": "https://web.archive.org/web/20220808132317/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-08-10T16:24:04Z",
+        "uri": "https://web.archive.org/web/20220810162404/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-08-10T19:58:18Z",
+        "uri": "https://web.archive.org/web/20220810195818/https://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-08-10T20:34:40Z",
+        "uri": "https://web.archive.org/web/20220810203440/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-09-22T11:47:58Z",
+        "uri": "https://web.archive.org/web/20220922114758/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-10-14T04:38:19Z",
+        "uri": "https://web.archive.org/web/20221014043819/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-11-07T06:10:51Z",
+        "uri": "https://web.archive.org/web/20221107061051/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-11-09T00:55:12Z",
+        "uri": "https://web.archive.org/web/20221109005512/http://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-12-07T13:49:12Z",
+        "uri": "https://web.archive.org/web/20221207134912/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-12-08T05:51:05Z",
+        "uri": "https://web.archive.org/web/20221208055105/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2022-12-14T02:56:34Z",
+        "uri": "https://web.archive.org/web/20221214025634/http://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2023-01-07T13:29:34Z",
+        "uri": "https://web.archive.org/web/20230107132934/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2023-01-24T19:18:13Z",
+        "uri": "https://arquivo.pt/wayback/20230124191813mp_/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2023-02-07T12:16:34Z",
+        "uri": "https://web.archive.org/web/20230207121634/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2023-02-20T01:08:41Z",
+        "uri": "https://web.archive.org/web/20230220010841/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2023-03-07T05:06:02Z",
+        "uri": "https://web.archive.org/web/20230307050602/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2023-03-09T04:15:31Z",
+        "uri": "https://web.archive.org/web/20230309041531/http://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2023-03-17T10:28:19Z",
+        "uri": "https://web.archive.org/web/20230317102819/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2023-03-27T21:17:33Z",
+        "uri": "https://web.archive.org/web/20230327211733/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2023-03-27T22:36:07Z",
+        "uri": "https://web.archive.org/web/20230327223607/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2023-03-31T21:40:54Z",
+        "uri": "https://web.archive.org/web/20230331214054/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2023-04-02T02:08:31Z",
+        "uri": "https://web.archive.org/web/20230402020831/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2023-05-12T04:06:11Z",
+        "uri": "https://web.archive.org/web/20230512040611/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2023-06-01T07:31:45Z",
+        "uri": "https://web.archive.org/web/20230601073145/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2023-06-04T23:12:55Z",
+        "uri": "https://web.archive.org/web/20230604231255/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2023-07-01T11:10:38Z",
+        "uri": "https://web.archive.org/web/20230701111038/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2023-08-01T15:43:11Z",
+        "uri": "https://web.archive.org/web/20230801154311/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2023-08-03T16:54:59Z",
+        "uri": "https://web.archive.org/web/20230803165459/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2023-08-25T19:06:22Z",
+        "uri": "https://web.archive.org/web/20230825190622/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2023-08-27T02:21:50Z",
+        "uri": "https://web.archive.org/web/20230827022150/http://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2023-10-10T17:17:11Z",
+        "uri": "https://web.archive.org/web/20231010171711/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2023-11-01T15:51:07Z",
+        "uri": "https://web.archive.org/web/20231101155107/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2023-12-01T13:59:55Z",
+        "uri": "https://web.archive.org/web/20231201135955/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2024-01-01T13:30:54Z",
+        "uri": "https://web.archive.org/web/20240101133054/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2024-01-17T00:35:58Z",
+        "uri": "https://web.archive.org/web/20240117003558/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2024-01-17T00:35:58Z",
+        "uri": "https://web.archive.org/web/20240117003558/http://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2024-02-01T10:07:27Z",
+        "uri": "https://web.archive.org/web/20240201100727/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2024-02-21T20:15:57Z",
+        "uri": "https://web.archive.org/web/20240221201557/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2024-02-28T23:37:27Z",
+        "uri": "https://web.archive.org/web/20240228233727/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2024-02-28T23:45:10Z",
+        "uri": "https://web.archive.org/web/20240228234510/http://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2024-03-02T14:40:59Z",
+        "uri": "https://web.archive.org/web/20240302144059/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2024-03-25T13:00:23Z",
+        "uri": "https://web.archive.org/web/20240325130023/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2024-04-01T00:37:18Z",
+        "uri": "https://web.archive.org/web/20240401003718/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2024-04-01T13:05:48Z",
+        "uri": "https://web.archive.org/web/20240401130548/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2024-04-04T07:27:01Z",
+        "uri": "https://web.archive.org/web/20240404072701/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2024-04-04T07:27:15Z",
+        "uri": "https://web.archive.org/web/20240404072715/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2024-04-04T07:27:15Z",
+        "uri": "https://web.archive.org/web/20240404072715/http://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2024-04-27T16:08:08Z",
+        "uri": "https://web.archive.org/web/20240427160808/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2024-05-01T10:19:23Z",
+        "uri": "https://web.archive.org/web/20240501101923/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2024-05-13T13:54:04Z",
+        "uri": "https://web.archive.org/web/20240513135404/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2024-05-25T08:15:45Z",
+        "uri": "https://web.archive.org/web/20240525081545/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2024-06-01T01:33:42Z",
+        "uri": "https://web.archive.org/web/20240601013342/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2024-07-01T11:22:13Z",
+        "uri": "https://web.archive.org/web/20240701112213/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2024-07-15T23:30:26Z",
+        "uri": "https://web.archive.org/web/20240715233026/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2024-08-01T00:27:43Z",
+        "uri": "https://web.archive.org/web/20240801002743/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2024-08-14T00:50:25Z",
+        "uri": "https://web.archive.org/web/20240814005025/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2024-08-18T03:37:36Z",
+        "uri": "https://web.archive.org/web/20240818033736/http://odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2024-09-09T12:16:07Z",
+        "uri": "https://web.archive.org/web/20240909121607/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2024-09-17T21:00:14Z",
+        "uri": "https://web.archive.org/web/20240917210014/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2024-09-25T11:38:30Z",
+        "uri": "https://web.archive.org/web/20240925113830/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2024-10-01T05:59:27Z",
+        "uri": "https://web.archive.org/web/20241001055927/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2024-10-07T10:23:21Z",
+        "uri": "https://web.archive.org/web/20241007102321/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2024-11-10T08:32:19Z",
+        "uri": "https://web.archive.org/web/20241110083219/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2024-12-01T16:02:31Z",
+        "uri": "https://web.archive.org/web/20241201160231/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2024-12-17T21:22:05Z",
+        "uri": "https://web.archive.org/web/20241217212205/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2024-12-22T13:18:29Z",
+        "uri": "https://web.archive.org/web/20241222131829/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2024-12-26T16:56:49Z",
+        "uri": "https://web.archive.org/web/20241226165649/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2025-01-03T22:31:40Z",
+        "uri": "https://web.archive.org/web/20250103223140/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2025-02-14T10:00:03Z",
+        "uri": "https://web.archive.org/web/20250214100003/https://www.odu.edu/about/accreditation"
+      },
+      {
+        "datetime": "2025-02-14T14:09:11Z",
+        "uri": "https://web.archive.org/web/20250214140911/https://www.odu.edu/about/accreditation"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T23:04:09Z",
+      "uri": "https://web.archive.org/web/20120902230409/http://www.odu.edu:80/about/accreditation"
+    },
+    "last": {
+      "datetime": "2025-02-14T14:09:11Z",
+      "uri": "https://web.archive.org/web/20250214140911/https://www.odu.edu/about/accreditation"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/about/accreditation",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/about/accreditation",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/about/accreditation"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/about/accreditation"
+}

@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://online.odu.edu/partners/business-partnerships",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/partners/business-partnerships",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2025-01-19T13:02:22Z",
+        "uri": "https://web.archive.org/web/20250119130222/https://online.odu.edu/partners/business-partnerships"
+      }
+    ],
+    "first": {
+      "datetime": "2025-01-19T13:02:22Z",
+      "uri": "https://web.archive.org/web/20250119130222/https://online.odu.edu/partners/business-partnerships"
+    },
+    "last": {
+      "datetime": "2025-01-19T13:02:22Z",
+      "uri": "https://web.archive.org/web/20250119130222/https://online.odu.edu/partners/business-partnerships"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/partners/business-partnerships",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/partners/business-partnerships",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/partners/business-partnerships"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/partners/business-partnerships"
+}

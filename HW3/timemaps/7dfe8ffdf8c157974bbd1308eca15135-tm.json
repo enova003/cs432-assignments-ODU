@@ -1,0 +1,510 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/crjs/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/crjs/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:28:41Z",
+        "uri": "https://web.archive.org/web/20120902042841/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2013-05-17T07:50:01Z",
+        "uri": "https://web.archive.org/web/20130517075001/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2014-04-22T11:50:01Z",
+        "uri": "https://web.archive.org/web/20140422115001/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2014-06-22T04:23:03Z",
+        "uri": "https://web.archive.org/web/20140622042303/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2014-08-22T03:31:30Z",
+        "uri": "https://web.archive.org/web/20140822033130/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2014-08-29T16:57:06Z",
+        "uri": "https://web.archive.org/web/20140829165706/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2014-08-29T16:57:06Z",
+        "uri": "https://web.archive.org/web/20140829165706/http://catalog.odu.edu:80/courses/crjs"
+      },
+      {
+        "datetime": "2014-09-29T15:06:30Z",
+        "uri": "https://web.archive.org/web/20140929150630/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2014-09-29T15:06:30Z",
+        "uri": "https://web.archive.org/web/20140929150630/http://catalog.odu.edu:80/courses/crjs"
+      },
+      {
+        "datetime": "2014-10-21T19:33:07Z",
+        "uri": "https://web.archive.org/web/20141021193307/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2014-12-01T14:20:04Z",
+        "uri": "https://web.archive.org/web/20141201142004/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2014-12-01T14:20:04Z",
+        "uri": "https://web.archive.org/web/20141201142004/http://catalog.odu.edu:80/courses/crjs"
+      },
+      {
+        "datetime": "2014-12-21T05:15:22Z",
+        "uri": "https://web.archive.org/web/20141221051522/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2015-01-01T08:40:16Z",
+        "uri": "https://web.archive.org/web/20150101084016/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2015-01-01T08:40:16Z",
+        "uri": "https://web.archive.org/web/20150101084016/http://catalog.odu.edu:80/courses/crjs"
+      },
+      {
+        "datetime": "2015-02-15T15:47:42Z",
+        "uri": "https://web.archive.org/web/20150215154742/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2015-04-17T03:04:23Z",
+        "uri": "https://web.archive.org/web/20150417030423/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2015-05-11T06:51:20Z",
+        "uri": "https://web.archive.org/web/20150511065120/http://catalog.odu.edu/courses/crjs/"
+      },
+      {
+        "datetime": "2015-06-16T14:37:52Z",
+        "uri": "https://web.archive.org/web/20150616143752/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2015-07-03T07:46:35Z",
+        "uri": "https://web.archive.org/web/20150703074635/http://catalog.odu.edu/courses/crjs/"
+      },
+      {
+        "datetime": "2015-08-07T21:09:45Z",
+        "uri": "https://web.archive.org/web/20150807210945/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2015-08-07T21:09:45Z",
+        "uri": "https://web.archive.org/web/20150807210945/http://catalog.odu.edu:80/courses/crjs"
+      },
+      {
+        "datetime": "2015-08-31T18:33:07Z",
+        "uri": "https://web.archive.org/web/20150831183307/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2015-09-07T12:42:19Z",
+        "uri": "https://web.archive.org/web/20150907124219/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2015-09-07T12:42:19Z",
+        "uri": "https://web.archive.org/web/20150907124219/http://catalog.odu.edu:80/courses/crjs"
+      },
+      {
+        "datetime": "2015-10-31T05:42:24Z",
+        "uri": "https://web.archive.org/web/20151031054224/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2015-11-13T02:25:45Z",
+        "uri": "https://web.archive.org/web/20151113022545/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2015-11-13T02:25:45Z",
+        "uri": "https://web.archive.org/web/20151113022545/http://catalog.odu.edu:80/courses/crjs"
+      },
+      {
+        "datetime": "2015-12-14T18:47:11Z",
+        "uri": "https://web.archive.org/web/20151214184711/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2015-12-14T18:47:11Z",
+        "uri": "https://web.archive.org/web/20151214184711/http://catalog.odu.edu:80/courses/crjs"
+      },
+      {
+        "datetime": "2015-12-30T22:10:26Z",
+        "uri": "https://web.archive.org/web/20151230221026/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2016-01-14T09:30:51Z",
+        "uri": "https://web.archive.org/web/20160114093051/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2016-01-14T09:30:51Z",
+        "uri": "https://web.archive.org/web/20160114093051/http://catalog.odu.edu:80/courses/crjs"
+      },
+      {
+        "datetime": "2016-02-14T03:12:32Z",
+        "uri": "https://web.archive.org/web/20160214031232/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2016-02-14T03:12:32Z",
+        "uri": "https://web.archive.org/web/20160214031232/http://catalog.odu.edu:80/courses/crjs"
+      },
+      {
+        "datetime": "2016-02-29T09:42:14Z",
+        "uri": "https://web.archive.org/web/20160229094214/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2016-03-15T18:11:23Z",
+        "uri": "https://web.archive.org/web/20160315181123/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2016-03-15T18:11:23Z",
+        "uri": "https://web.archive.org/web/20160315181123/http://catalog.odu.edu:80/courses/crjs"
+      },
+      {
+        "datetime": "2016-04-08T17:27:33Z",
+        "uri": "https://web.archive.org/web/20160408172733/http://catalog.odu.edu/courses/crjs/"
+      },
+      {
+        "datetime": "2016-04-15T12:54:02Z",
+        "uri": "https://web.archive.org/web/20160415125402/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2016-04-15T12:54:02Z",
+        "uri": "https://web.archive.org/web/20160415125402/http://catalog.odu.edu:80/courses/crjs"
+      },
+      {
+        "datetime": "2016-04-30T12:16:58Z",
+        "uri": "https://web.archive.org/web/20160430121658/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2016-05-19T22:18:00Z",
+        "uri": "https://web.archive.org/web/20160519221800/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2016-05-19T22:18:00Z",
+        "uri": "https://web.archive.org/web/20160519221800/http://catalog.odu.edu:80/courses/crjs"
+      },
+      {
+        "datetime": "2016-06-30T16:12:01Z",
+        "uri": "https://web.archive.org/web/20160630161201/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2016-08-12T01:11:01Z",
+        "uri": "https://web.archive.org/web/20160812011101/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2016-08-12T01:11:01Z",
+        "uri": "https://web.archive.org/web/20160812011101/http://catalog.odu.edu:80/courses/crjs"
+      },
+      {
+        "datetime": "2016-08-30T13:45:22Z",
+        "uri": "https://web.archive.org/web/20160830134522/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2016-09-11T16:57:18Z",
+        "uri": "https://web.archive.org/web/20160911165718/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2016-09-11T16:57:18Z",
+        "uri": "https://web.archive.org/web/20160911165718/http://catalog.odu.edu:80/courses/crjs"
+      },
+      {
+        "datetime": "2016-10-12T14:17:17Z",
+        "uri": "https://web.archive.org/web/20161012141717/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2016-10-12T14:17:17Z",
+        "uri": "https://web.archive.org/web/20161012141717/http://catalog.odu.edu:80/courses/crjs"
+      },
+      {
+        "datetime": "2016-10-30T06:52:46Z",
+        "uri": "https://web.archive.org/web/20161030065246/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2016-11-12T21:49:05Z",
+        "uri": "https://web.archive.org/web/20161112214905/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2016-11-12T21:49:05Z",
+        "uri": "https://web.archive.org/web/20161112214905/http://catalog.odu.edu:80/courses/crjs"
+      },
+      {
+        "datetime": "2016-12-05T04:54:46Z",
+        "uri": "https://web.archive.org/web/20161205045446/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2016-12-18T09:22:51Z",
+        "uri": "https://web.archive.org/web/20161218092251/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2016-12-18T09:22:51Z",
+        "uri": "https://web.archive.org/web/20161218092251/http://catalog.odu.edu:80/courses/crjs"
+      },
+      {
+        "datetime": "2017-04-08T18:15:04Z",
+        "uri": "https://web.archive.org/web/20170408181504/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2017-04-27T03:33:49Z",
+        "uri": "https://web.archive.org/web/20170427033349/http://catalog.odu.edu/courses/crjs/"
+      },
+      {
+        "datetime": "2017-06-08T07:05:34Z",
+        "uri": "https://web.archive.org/web/20170608070534/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2017-07-08T23:59:43Z",
+        "uri": "https://web.archive.org/web/20170708235943/http://catalog.odu.edu/courses/crjs/"
+      },
+      {
+        "datetime": "2017-08-08T13:36:43Z",
+        "uri": "https://web.archive.org/web/20170808133643/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2017-10-08T19:00:32Z",
+        "uri": "https://web.archive.org/web/20171008190032/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2017-10-24T17:01:14Z",
+        "uri": "https://web.archive.org/web/20171024170114/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2017-10-24T17:01:14Z",
+        "uri": "https://web.archive.org/web/20171024170114/http://catalog.odu.edu:80/courses/crjs"
+      },
+      {
+        "datetime": "2017-11-24T16:56:22Z",
+        "uri": "https://web.archive.org/web/20171124165622/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2017-11-24T16:56:22Z",
+        "uri": "https://web.archive.org/web/20171124165622/http://catalog.odu.edu:80/courses/crjs"
+      },
+      {
+        "datetime": "2017-12-08T14:48:10Z",
+        "uri": "https://web.archive.org/web/20171208144810/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2018-04-09T20:14:10Z",
+        "uri": "https://web.archive.org/web/20180409201410/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2018-06-10T06:20:10Z",
+        "uri": "https://web.archive.org/web/20180610062010/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2018-06-22T13:16:49Z",
+        "uri": "https://web.archive.org/web/20180622131649/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2018-06-22T13:16:49Z",
+        "uri": "https://web.archive.org/web/20180622131649/http://catalog.odu.edu:80/courses/crjs"
+      },
+      {
+        "datetime": "2018-06-23T21:44:07Z",
+        "uri": "https://web.archive.org/web/20180623214407/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2018-06-23T21:44:07Z",
+        "uri": "https://web.archive.org/web/20180623214407/http://catalog.odu.edu:80/courses/crjs"
+      },
+      {
+        "datetime": "2018-07-25T03:17:49Z",
+        "uri": "https://web.archive.org/web/20180725031749/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2018-07-25T03:17:49Z",
+        "uri": "https://web.archive.org/web/20180725031749/http://catalog.odu.edu:80/courses/crjs"
+      },
+      {
+        "datetime": "2018-08-25T11:15:20Z",
+        "uri": "https://web.archive.org/web/20180825111520/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2018-08-25T11:15:20Z",
+        "uri": "https://web.archive.org/web/20180825111520/http://catalog.odu.edu:80/courses/crjs"
+      },
+      {
+        "datetime": "2018-09-25T09:58:10Z",
+        "uri": "https://web.archive.org/web/20180925095810/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2018-09-25T09:58:10Z",
+        "uri": "https://web.archive.org/web/20180925095810/http://catalog.odu.edu:80/courses/crjs"
+      },
+      {
+        "datetime": "2018-10-09T17:45:56Z",
+        "uri": "https://web.archive.org/web/20181009174556/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2018-10-26T20:28:06Z",
+        "uri": "https://web.archive.org/web/20181026202806/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2018-10-26T20:28:06Z",
+        "uri": "https://web.archive.org/web/20181026202806/http://catalog.odu.edu:80/courses/crjs"
+      },
+      {
+        "datetime": "2018-11-27T00:07:13Z",
+        "uri": "https://web.archive.org/web/20181127000713/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2018-11-27T00:07:13Z",
+        "uri": "https://web.archive.org/web/20181127000713/http://catalog.odu.edu:80/courses/crjs"
+      },
+      {
+        "datetime": "2018-12-10T15:23:33Z",
+        "uri": "https://web.archive.org/web/20181210152333/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2018-12-28T05:58:39Z",
+        "uri": "https://web.archive.org/web/20181228055839/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2018-12-28T05:58:39Z",
+        "uri": "https://web.archive.org/web/20181228055839/http://catalog.odu.edu:80/courses/crjs"
+      },
+      {
+        "datetime": "2019-01-28T11:53:31Z",
+        "uri": "https://web.archive.org/web/20190128115331/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2019-01-28T11:53:31Z",
+        "uri": "https://web.archive.org/web/20190128115331/http://catalog.odu.edu:80/courses/crjs"
+      },
+      {
+        "datetime": "2019-02-10T00:33:37Z",
+        "uri": "https://web.archive.org/web/20190210003337/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2019-02-28T13:48:39Z",
+        "uri": "https://web.archive.org/web/20190228134839/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2019-02-28T13:48:39Z",
+        "uri": "https://web.archive.org/web/20190228134839/http://catalog.odu.edu:80/courses/crjs"
+      },
+      {
+        "datetime": "2019-03-31T11:07:01Z",
+        "uri": "https://web.archive.org/web/20190331110701/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2019-03-31T11:07:01Z",
+        "uri": "https://web.archive.org/web/20190331110701/http://catalog.odu.edu:80/courses/crjs"
+      },
+      {
+        "datetime": "2019-05-01T08:43:08Z",
+        "uri": "https://web.archive.org/web/20190501084308/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2019-05-01T08:43:08Z",
+        "uri": "https://web.archive.org/web/20190501084308/http://catalog.odu.edu:80/courses/crjs"
+      },
+      {
+        "datetime": "2019-06-01T19:28:45Z",
+        "uri": "https://web.archive.org/web/20190601192845/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2019-06-01T19:28:45Z",
+        "uri": "https://web.archive.org/web/20190601192845/http://catalog.odu.edu:80/courses/crjs"
+      },
+      {
+        "datetime": "2019-06-12T01:30:06Z",
+        "uri": "https://web.archive.org/web/20190612013006/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2019-07-03T14:18:53Z",
+        "uri": "https://web.archive.org/web/20190703141853/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2019-07-03T14:18:53Z",
+        "uri": "https://web.archive.org/web/20190703141853/http://catalog.odu.edu:80/courses/crjs"
+      },
+      {
+        "datetime": "2019-08-03T19:06:13Z",
+        "uri": "https://web.archive.org/web/20190803190613/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2019-08-03T19:06:13Z",
+        "uri": "https://web.archive.org/web/20190803190613/http://catalog.odu.edu:80/courses/crjs"
+      },
+      {
+        "datetime": "2019-08-11T18:46:20Z",
+        "uri": "https://web.archive.org/web/20190811184620/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2019-09-04T00:52:43Z",
+        "uri": "https://web.archive.org/web/20190904005243/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2019-09-04T00:52:43Z",
+        "uri": "https://web.archive.org/web/20190904005243/http://catalog.odu.edu:80/courses/crjs"
+      },
+      {
+        "datetime": "2019-10-09T05:24:54Z",
+        "uri": "https://web.archive.org/web/20191009052454/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2019-12-08T12:32:06Z",
+        "uri": "https://web.archive.org/web/20191208123206/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2020-02-06T16:36:14Z",
+        "uri": "https://web.archive.org/web/20200206163614/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2020-03-02T06:12:18Z",
+        "uri": "https://web.archive.org/web/20200302061218/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2020-05-01T08:39:51Z",
+        "uri": "https://web.archive.org/web/20200501083951/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2020-06-30T12:14:53Z",
+        "uri": "https://web.archive.org/web/20200630121453/http://catalog.odu.edu:80/courses/crjs/"
+      },
+      {
+        "datetime": "2021-01-22T23:02:32Z",
+        "uri": "https://web.archive.org/web/20210122230232/https://catalog.odu.edu/courses/crjs/"
+      },
+      {
+        "datetime": "2021-04-12T20:22:34Z",
+        "uri": "https://web.archive.org/web/20210412202234/http://catalog.odu.edu/courses/crjs/"
+      },
+      {
+        "datetime": "2021-11-23T15:43:39Z",
+        "uri": "https://web.archive.org/web/20211123154339/https://catalog.odu.edu/courses/crjs/"
+      },
+      {
+        "datetime": "2022-03-19T20:41:18Z",
+        "uri": "https://web.archive.org/web/20220319204118/https://catalog.odu.edu/courses/crjs/"
+      },
+      {
+        "datetime": "2023-12-20T22:59:20Z",
+        "uri": "https://web.archive.org/web/20231220225920/https://catalog.odu.edu/courses/crjs/"
+      },
+      {
+        "datetime": "2024-08-13T21:53:13Z",
+        "uri": "https://web.archive.org/web/20240813215313/https://catalog.odu.edu/courses/crjs/"
+      },
+      {
+        "datetime": "2024-09-26T13:05:47Z",
+        "uri": "https://web.archive.org/web/20240926130547/https://catalog.odu.edu/courses/crjs/"
+      },
+      {
+        "datetime": "2024-11-11T23:54:05Z",
+        "uri": "https://web.archive.org/web/20241111235405/https://catalog.odu.edu/courses/crjs/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:28:41Z",
+      "uri": "https://web.archive.org/web/20120902042841/http://catalog.odu.edu:80/courses/crjs/"
+    },
+    "last": {
+      "datetime": "2024-11-11T23:54:05Z",
+      "uri": "https://web.archive.org/web/20241111235405/https://catalog.odu.edu/courses/crjs/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/crjs/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/crjs/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/crjs/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/crjs/"
+}

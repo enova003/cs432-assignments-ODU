@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.odu.edu/technology-services/two-factor-authentication",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/technology-services/two-factor-authentication",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-12-20T20:11:55Z",
+        "uri": "https://web.archive.org/web/20241220201155/https://www.odu.edu/technology-services/two-factor-authentication"
+      },
+      {
+        "datetime": "2025-01-13T12:25:13Z",
+        "uri": "https://web.archive.org/web/20250113122513/https://www.odu.edu/technology-services/two-factor-authentication"
+      }
+    ],
+    "first": {
+      "datetime": "2024-12-20T20:11:55Z",
+      "uri": "https://web.archive.org/web/20241220201155/https://www.odu.edu/technology-services/two-factor-authentication"
+    },
+    "last": {
+      "datetime": "2025-01-13T12:25:13Z",
+      "uri": "https://web.archive.org/web/20250113122513/https://www.odu.edu/technology-services/two-factor-authentication"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/technology-services/two-factor-authentication",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/technology-services/two-factor-authentication",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/technology-services/two-factor-authentication"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/technology-services/two-factor-authentication"
+}

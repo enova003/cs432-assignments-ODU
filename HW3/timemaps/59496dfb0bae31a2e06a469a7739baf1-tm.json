@@ -1,0 +1,526 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/nurs/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/nurs/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2013-05-17T07:37:18Z",
+        "uri": "https://web.archive.org/web/20130517073718/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2014-07-29T03:29:42Z",
+        "uri": "https://web.archive.org/web/20140729032942/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2014-09-28T11:56:25Z",
+        "uri": "https://web.archive.org/web/20140928115625/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2014-11-28T06:27:06Z",
+        "uri": "https://web.archive.org/web/20141128062706/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2015-01-28T01:17:20Z",
+        "uri": "https://web.archive.org/web/20150128011720/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2015-02-15T16:05:19Z",
+        "uri": "https://web.archive.org/web/20150215160519/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2015-04-17T03:15:50Z",
+        "uri": "https://web.archive.org/web/20150417031550/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2015-05-23T12:05:06Z",
+        "uri": "https://web.archive.org/web/20150523120506/http://catalog.odu.edu/courses/nurs/"
+      },
+      {
+        "datetime": "2015-06-16T14:54:11Z",
+        "uri": "https://web.archive.org/web/20150616145411/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2015-07-03T06:27:10Z",
+        "uri": "https://web.archive.org/web/20150703062710/http://catalog.odu.edu/courses/nurs/"
+      },
+      {
+        "datetime": "2015-08-16T00:58:54Z",
+        "uri": "https://web.archive.org/web/20150816005854/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2015-10-15T07:22:22Z",
+        "uri": "https://web.archive.org/web/20151015072222/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2015-12-14T15:24:53Z",
+        "uri": "https://web.archive.org/web/20151214152453/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2016-02-13T07:52:49Z",
+        "uri": "https://web.archive.org/web/20160213075249/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2016-04-09T05:04:58Z",
+        "uri": "https://web.archive.org/web/20160409050458/http://catalog.odu.edu/courses/nurs/"
+      },
+      {
+        "datetime": "2016-04-13T17:43:51Z",
+        "uri": "https://web.archive.org/web/20160413174351/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2016-04-16T15:12:44Z",
+        "uri": "https://web.archive.org/web/20160416151244/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2016-04-16T15:12:44Z",
+        "uri": "https://web.archive.org/web/20160416151244/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2016-05-18T01:40:39Z",
+        "uri": "https://web.archive.org/web/20160518014039/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2016-05-18T01:40:39Z",
+        "uri": "https://web.archive.org/web/20160518014039/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2016-06-13T08:19:43Z",
+        "uri": "https://web.archive.org/web/20160613081943/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2016-06-17T19:18:37Z",
+        "uri": "https://web.archive.org/web/20160617191837/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2016-06-17T19:18:37Z",
+        "uri": "https://web.archive.org/web/20160617191837/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2016-07-19T03:08:04Z",
+        "uri": "https://web.archive.org/web/20160719030804/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2016-07-19T03:08:04Z",
+        "uri": "https://web.archive.org/web/20160719030804/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2016-08-13T01:01:02Z",
+        "uri": "https://web.archive.org/web/20160813010102/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2016-08-19T11:41:31Z",
+        "uri": "https://web.archive.org/web/20160819114131/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2016-08-19T11:41:31Z",
+        "uri": "https://web.archive.org/web/20160819114131/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2016-09-22T03:33:19Z",
+        "uri": "https://web.archive.org/web/20160922033319/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2016-09-22T03:33:19Z",
+        "uri": "https://web.archive.org/web/20160922033319/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2016-10-13T00:08:56Z",
+        "uri": "https://web.archive.org/web/20161013000856/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2016-12-05T05:00:02Z",
+        "uri": "https://web.archive.org/web/20161205050002/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2017-04-08T18:16:30Z",
+        "uri": "https://web.archive.org/web/20170408181630/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2017-04-27T05:48:15Z",
+        "uri": "https://web.archive.org/web/20170427054815/http://catalog.odu.edu/courses/nurs/"
+      },
+      {
+        "datetime": "2017-05-12T09:04:35Z",
+        "uri": "https://web.archive.org/web/20170512090435/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2017-05-12T09:04:35Z",
+        "uri": "https://web.archive.org/web/20170512090435/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2017-06-08T03:06:15Z",
+        "uri": "https://web.archive.org/web/20170608030615/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2017-07-09T01:55:50Z",
+        "uri": "https://web.archive.org/web/20170709015550/http://catalog.odu.edu/courses/nurs/"
+      },
+      {
+        "datetime": "2017-07-28T11:24:28Z",
+        "uri": "https://web.archive.org/web/20170728112428/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2017-07-28T11:24:28Z",
+        "uri": "https://web.archive.org/web/20170728112428/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2017-08-07T21:39:23Z",
+        "uri": "https://web.archive.org/web/20170807213923/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2017-08-28T06:51:34Z",
+        "uri": "https://web.archive.org/web/20170828065134/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2017-08-28T06:51:34Z",
+        "uri": "https://web.archive.org/web/20170828065134/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2017-09-28T19:17:52Z",
+        "uri": "https://web.archive.org/web/20170928191752/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2017-09-28T19:17:52Z",
+        "uri": "https://web.archive.org/web/20170928191752/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2017-10-08T19:01:07Z",
+        "uri": "https://web.archive.org/web/20171008190107/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2017-10-29T21:07:09Z",
+        "uri": "https://web.archive.org/web/20171029210709/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2017-10-29T21:07:09Z",
+        "uri": "https://web.archive.org/web/20171029210709/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2017-11-29T21:18:28Z",
+        "uri": "https://web.archive.org/web/20171129211828/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2017-11-29T21:18:28Z",
+        "uri": "https://web.archive.org/web/20171129211828/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2017-12-09T00:22:39Z",
+        "uri": "https://web.archive.org/web/20171209002239/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2017-12-30T17:58:13Z",
+        "uri": "https://web.archive.org/web/20171230175813/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2017-12-30T17:58:13Z",
+        "uri": "https://web.archive.org/web/20171230175813/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2018-01-31T19:36:03Z",
+        "uri": "https://web.archive.org/web/20180131193603/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2018-01-31T19:36:03Z",
+        "uri": "https://web.archive.org/web/20180131193603/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2018-03-03T16:10:59Z",
+        "uri": "https://web.archive.org/web/20180303161059/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2018-03-03T16:10:59Z",
+        "uri": "https://web.archive.org/web/20180303161059/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2018-04-05T08:29:41Z",
+        "uri": "https://web.archive.org/web/20180405082941/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2018-04-05T08:29:41Z",
+        "uri": "https://web.archive.org/web/20180405082941/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2018-04-09T18:19:24Z",
+        "uri": "https://web.archive.org/web/20180409181924/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2018-05-06T10:37:35Z",
+        "uri": "https://web.archive.org/web/20180506103735/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2018-05-06T10:37:35Z",
+        "uri": "https://web.archive.org/web/20180506103735/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2018-06-06T20:13:49Z",
+        "uri": "https://web.archive.org/web/20180606201349/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2018-06-06T20:13:49Z",
+        "uri": "https://web.archive.org/web/20180606201349/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2018-06-08T00:46:47Z",
+        "uri": "https://web.archive.org/web/20180608004647/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2018-06-08T00:46:47Z",
+        "uri": "https://web.archive.org/web/20180608004647/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2018-06-10T02:40:38Z",
+        "uri": "https://web.archive.org/web/20180610024038/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2018-07-08T17:43:35Z",
+        "uri": "https://web.archive.org/web/20180708174335/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2018-07-08T17:43:35Z",
+        "uri": "https://web.archive.org/web/20180708174335/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2018-08-08T14:10:12Z",
+        "uri": "https://web.archive.org/web/20180808141012/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2018-08-08T14:10:12Z",
+        "uri": "https://web.archive.org/web/20180808141012/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2018-08-10T14:03:42Z",
+        "uri": "https://web.archive.org/web/20180810140342/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2018-09-08T09:16:11Z",
+        "uri": "https://web.archive.org/web/20180908091611/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2018-09-08T09:16:11Z",
+        "uri": "https://web.archive.org/web/20180908091611/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2018-10-10T04:08:30Z",
+        "uri": "https://web.archive.org/web/20181010040830/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2018-10-10T07:28:27Z",
+        "uri": "https://web.archive.org/web/20181010072827/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2018-10-10T07:28:27Z",
+        "uri": "https://web.archive.org/web/20181010072827/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2018-11-10T08:12:29Z",
+        "uri": "https://web.archive.org/web/20181110081229/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2018-11-10T08:12:29Z",
+        "uri": "https://web.archive.org/web/20181110081229/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2018-12-10T15:34:43Z",
+        "uri": "https://web.archive.org/web/20181210153443/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2018-12-11T19:16:32Z",
+        "uri": "https://web.archive.org/web/20181211191632/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2018-12-11T19:16:32Z",
+        "uri": "https://web.archive.org/web/20181211191632/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2019-01-11T11:28:02Z",
+        "uri": "https://web.archive.org/web/20190111112802/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2019-01-11T11:28:02Z",
+        "uri": "https://web.archive.org/web/20190111112802/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2019-02-10T00:35:40Z",
+        "uri": "https://web.archive.org/web/20190210003540/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2019-02-11T21:17:21Z",
+        "uri": "https://web.archive.org/web/20190211211721/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2019-02-11T21:17:21Z",
+        "uri": "https://web.archive.org/web/20190211211721/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2019-02-13T06:08:37Z",
+        "uri": "https://web.archive.org/web/20190213060837/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2019-02-13T06:08:37Z",
+        "uri": "https://web.archive.org/web/20190213060837/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2019-03-16T01:36:57Z",
+        "uri": "https://web.archive.org/web/20190316013657/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2019-03-16T01:36:57Z",
+        "uri": "https://web.archive.org/web/20190316013657/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2019-04-12T10:42:58Z",
+        "uri": "https://web.archive.org/web/20190412104258/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2019-04-16T21:30:02Z",
+        "uri": "https://web.archive.org/web/20190416213002/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2019-04-16T21:30:02Z",
+        "uri": "https://web.archive.org/web/20190416213002/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2019-05-17T13:58:09Z",
+        "uri": "https://web.archive.org/web/20190517135809/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2019-05-17T13:58:09Z",
+        "uri": "https://web.archive.org/web/20190517135809/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2019-06-12T01:30:16Z",
+        "uri": "https://web.archive.org/web/20190612013016/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2019-06-17T09:10:13Z",
+        "uri": "https://web.archive.org/web/20190617091013/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2019-06-17T09:10:13Z",
+        "uri": "https://web.archive.org/web/20190617091013/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2019-07-21T15:55:37Z",
+        "uri": "https://web.archive.org/web/20190721155537/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2019-07-21T15:55:37Z",
+        "uri": "https://web.archive.org/web/20190721155537/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2019-08-11T18:45:26Z",
+        "uri": "https://web.archive.org/web/20190811184526/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2019-08-21T21:11:06Z",
+        "uri": "https://web.archive.org/web/20190821211106/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2019-08-21T21:11:06Z",
+        "uri": "https://web.archive.org/web/20190821211106/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2019-09-22T13:46:48Z",
+        "uri": "https://web.archive.org/web/20190922134648/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2019-09-22T13:46:48Z",
+        "uri": "https://web.archive.org/web/20190922134648/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2019-10-09T05:18:53Z",
+        "uri": "https://web.archive.org/web/20191009051853/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2019-10-20T16:46:50Z",
+        "uri": "https://web.archive.org/web/20191020164650/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2019-11-20T02:06:14Z",
+        "uri": "https://web.archive.org/web/20191120020614/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2019-11-30T09:43:56Z",
+        "uri": "https://web.archive.org/web/20191130094356/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2019-11-30T09:43:56Z",
+        "uri": "https://web.archive.org/web/20191130094356/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2019-12-30T16:04:24Z",
+        "uri": "https://web.archive.org/web/20191230160424/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2019-12-30T16:04:24Z",
+        "uri": "https://web.archive.org/web/20191230160424/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2020-01-29T19:04:51Z",
+        "uri": "https://web.archive.org/web/20200129190451/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2020-01-29T19:04:51Z",
+        "uri": "https://web.archive.org/web/20200129190451/http://catalog.odu.edu:80/courses/nurs"
+      },
+      {
+        "datetime": "2020-03-02T06:14:38Z",
+        "uri": "https://web.archive.org/web/20200302061438/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2020-05-01T08:53:22Z",
+        "uri": "https://web.archive.org/web/20200501085322/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2020-06-30T15:12:00Z",
+        "uri": "https://web.archive.org/web/20200630151200/http://catalog.odu.edu:80/courses/nurs/"
+      },
+      {
+        "datetime": "2021-01-22T23:27:06Z",
+        "uri": "https://web.archive.org/web/20210122232706/https://catalog.odu.edu/courses/nurs/"
+      },
+      {
+        "datetime": "2021-04-12T20:23:43Z",
+        "uri": "https://web.archive.org/web/20210412202343/http://catalog.odu.edu/courses/nurs/"
+      },
+      {
+        "datetime": "2021-09-15T05:18:31Z",
+        "uri": "https://arquivo.pt/wayback/20210915051831mp_/https://catalog.odu.edu/courses/nurs/"
+      },
+      {
+        "datetime": "2021-11-07T17:02:09Z",
+        "uri": "https://web.archive.org/web/20211107170209/https://catalog.odu.edu/courses/nurs/"
+      },
+      {
+        "datetime": "2022-03-19T20:07:09Z",
+        "uri": "https://web.archive.org/web/20220319200709/https://catalog.odu.edu/courses/nurs/"
+      },
+      {
+        "datetime": "2024-02-29T16:13:24Z",
+        "uri": "https://web.archive.org/web/20240229161324/https://catalog.odu.edu/courses/nurs/"
+      },
+      {
+        "datetime": "2024-07-17T11:14:34Z",
+        "uri": "https://web.archive.org/web/20240717111434/https://catalog.odu.edu/courses/nurs/"
+      },
+      {
+        "datetime": "2024-10-13T08:17:22Z",
+        "uri": "https://web.archive.org/web/20241013081722/https://catalog.odu.edu/courses/nurs/"
+      }
+    ],
+    "first": {
+      "datetime": "2013-05-17T07:37:18Z",
+      "uri": "https://web.archive.org/web/20130517073718/http://catalog.odu.edu:80/courses/nurs/"
+    },
+    "last": {
+      "datetime": "2024-10-13T08:17:22Z",
+      "uri": "https://web.archive.org/web/20241013081722/https://catalog.odu.edu/courses/nurs/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/nurs/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/nurs/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/nurs/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/nurs/"
+}

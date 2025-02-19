@@ -1,0 +1,1146 @@
+{
+  "original_uri": "https://www.odu.edu/research",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/research",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2004-10-15T01:48:46Z",
+        "uri": "https://web.archive.org/web/20041015014846/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2004-12-12T23:16:53Z",
+        "uri": "https://web.archive.org/web/20041212231653/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2005-02-16T00:12:55Z",
+        "uri": "https://web.archive.org/web/20050216001255/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2006-09-03T07:02:24Z",
+        "uri": "https://web.archive.org/web/20060903070224/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2007-02-27T19:14:07Z",
+        "uri": "https://web.archive.org/web/20070227191407/http://www.odu.edu:80/research/"
+      },
+      {
+        "datetime": "2007-05-06T18:16:07Z",
+        "uri": "https://web.archive.org/web/20070506181607/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2007-06-26T18:02:01Z",
+        "uri": "https://web.archive.org/web/20070626180201/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2007-08-08T07:07:09Z",
+        "uri": "https://web.archive.org/web/20070808070709/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2012-08-31T14:48:34Z",
+        "uri": "https://web.archive.org/web/20120831144834/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2012-09-21T13:23:22Z",
+        "uri": "https://web.archive.org/web/20120921132322/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2012-10-10T13:18:59Z",
+        "uri": "https://web.archive.org/web/20121010131859/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2012-10-30T21:06:21Z",
+        "uri": "https://web.archive.org/web/20121030210621/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2012-11-30T03:32:02Z",
+        "uri": "https://web.archive.org/web/20121130033202/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2012-12-11T12:25:12Z",
+        "uri": "https://web.archive.org/web/20121211122512/http://odu.edu/research"
+      },
+      {
+        "datetime": "2012-12-18T14:51:09Z",
+        "uri": "https://web.archive.org/web/20121218145109/http://odu.edu/research"
+      },
+      {
+        "datetime": "2012-12-25T12:45:34Z",
+        "uri": "https://web.archive.org/web/20121225124534/http://odu.edu/research"
+      },
+      {
+        "datetime": "2013-01-15T17:19:46Z",
+        "uri": "https://web.archive.org/web/20130115171946/http://odu.edu/research"
+      },
+      {
+        "datetime": "2013-02-13T13:28:16Z",
+        "uri": "https://web.archive.org/web/20130213132816/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2013-03-16T03:39:19Z",
+        "uri": "https://web.archive.org/web/20130316033919/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2013-04-23T05:12:06Z",
+        "uri": "https://web.archive.org/web/20130423051206/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2013-04-26T14:21:37Z",
+        "uri": "https://web.archive.org/web/20130426142137/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2013-05-31T20:18:23Z",
+        "uri": "https://web.archive.org/web/20130531201823/http://odu.edu/research"
+      },
+      {
+        "datetime": "2013-07-16T09:50:33Z",
+        "uri": "https://web.archive.org/web/20130716095033/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2013-08-05T21:52:06Z",
+        "uri": "https://web.archive.org/web/20130805215206/http://odu.edu/research"
+      },
+      {
+        "datetime": "2013-08-16T06:38:25Z",
+        "uri": "https://web.archive.org/web/20130816063825/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2013-09-16T07:36:03Z",
+        "uri": "https://web.archive.org/web/20130916073603/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2013-09-21T23:03:08Z",
+        "uri": "https://web.archive.org/web/20130921230308/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2013-10-17T15:15:54Z",
+        "uri": "https://web.archive.org/web/20131017151554/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2013-10-30T15:55:33Z",
+        "uri": "https://web.archive.org/web/20131030155533/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2013-11-27T14:30:48Z",
+        "uri": "https://web.archive.org/web/20131127143048/http://odu.edu/research"
+      },
+      {
+        "datetime": "2014-01-04T14:59:27Z",
+        "uri": "https://web.archive.org/web/20140104145927/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2014-02-04T06:02:48Z",
+        "uri": "https://web.archive.org/web/20140204060248/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2014-02-09T02:52:36Z",
+        "uri": "https://web.archive.org/web/20140209025236/http://odu.edu/research"
+      },
+      {
+        "datetime": "2014-02-13T11:33:02Z",
+        "uri": "https://web.archive.org/web/20140213113302/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2014-03-18T08:03:43Z",
+        "uri": "https://web.archive.org/web/20140318080343/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2014-05-09T06:55:14Z",
+        "uri": "https://web.archive.org/web/20140509065514/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2014-06-09T04:35:55Z",
+        "uri": "https://web.archive.org/web/20140609043555/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2014-06-25T10:10:14Z",
+        "uri": "https://web.archive.org/web/20140625101014/http://odu.edu/research"
+      },
+      {
+        "datetime": "2014-07-12T00:10:16Z",
+        "uri": "https://web.archive.org/web/20140712001016/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2014-07-28T08:01:08Z",
+        "uri": "https://web.archive.org/web/20140728080108/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2014-08-11T18:01:00Z",
+        "uri": "https://web.archive.org/web/20140811180100/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2014-08-23T02:41:04Z",
+        "uri": "https://web.archive.org/web/20140823024104/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2015-02-17T01:02:15Z",
+        "uri": "https://web.archive.org/web/20150217010215/http://odu.edu/research"
+      },
+      {
+        "datetime": "2015-12-12T13:04:53Z",
+        "uri": "https://web.archive.org/web/20151212130453/http://odu.edu/research"
+      },
+      {
+        "datetime": "2016-05-30T00:41:22Z",
+        "uri": "https://web.archive.org/web/20160530004122/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2016-08-03T04:02:24Z",
+        "uri": "https://web.archive.org/web/20160803040224/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2016-09-05T09:13:55Z",
+        "uri": "https://web.archive.org/web/20160905091355/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2016-10-27T07:27:48Z",
+        "uri": "https://web.archive.org/web/20161027072748/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2016-11-07T07:22:03Z",
+        "uri": "https://web.archive.org/web/20161107072203/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2016-11-19T02:25:49Z",
+        "uri": "https://web.archive.org/web/20161119022549/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2016-11-20T04:56:57Z",
+        "uri": "https://web.archive.org/web/20161120045657/http://odu.edu:80/research"
+      },
+      {
+        "datetime": "2017-01-18T14:24:06Z",
+        "uri": "https://web.archive.org/web/20170118142406/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2017-01-19T14:54:50Z",
+        "uri": "https://web.archive.org/web/20170119145450/http://odu.edu:80/research"
+      },
+      {
+        "datetime": "2017-03-18T07:50:52Z",
+        "uri": "https://web.archive.org/web/20170318075052/http://odu.edu/research"
+      },
+      {
+        "datetime": "2017-03-20T02:01:01Z",
+        "uri": "https://web.archive.org/web/20170320020101/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2017-03-21T14:57:10Z",
+        "uri": "https://web.archive.org/web/20170321145710/http://odu.edu:80/research"
+      },
+      {
+        "datetime": "2017-03-25T18:47:41Z",
+        "uri": "https://web.archive.org/web/20170325184741/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2017-04-19T02:51:43Z",
+        "uri": "https://web.archive.org/web/20170419025143/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2017-05-19T17:54:31Z",
+        "uri": "https://web.archive.org/web/20170519175431/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2017-05-21T09:12:53Z",
+        "uri": "https://web.archive.org/web/20170521091253/http://odu.edu:80/research"
+      },
+      {
+        "datetime": "2017-06-06T04:55:11Z",
+        "uri": "https://web.archive.org/web/20170606045511/http://odu.edu/research"
+      },
+      {
+        "datetime": "2017-06-15T18:35:43Z",
+        "uri": "https://web.archive.org/web/20170615183543/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2017-07-06T01:10:06Z",
+        "uri": "https://web.archive.org/web/20170706011006/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2017-07-20T17:46:44Z",
+        "uri": "https://web.archive.org/web/20170720174644/http://odu.edu:80/research"
+      },
+      {
+        "datetime": "2017-08-16T13:56:37Z",
+        "uri": "https://web.archive.org/web/20170816135637/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2017-08-17T19:05:05Z",
+        "uri": "https://web.archive.org/web/20170817190505/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2017-09-09T14:30:00Z",
+        "uri": "https://web.archive.org/web/20170909143000/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2017-09-17T15:08:46Z",
+        "uri": "https://web.archive.org/web/20170917150846/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2017-09-19T04:50:30Z",
+        "uri": "https://web.archive.org/web/20170919045030/http://odu.edu:80/research"
+      },
+      {
+        "datetime": "2017-10-17T19:36:30Z",
+        "uri": "https://web.archive.org/web/20171017193630/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2017-10-18T13:17:24Z",
+        "uri": "https://web.archive.org/web/20171018131724/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2017-11-18T21:00:00Z",
+        "uri": "https://web.archive.org/web/20171118210000/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2017-11-18T21:44:55Z",
+        "uri": "https://web.archive.org/web/20171118214455/http://odu.edu:80/research"
+      },
+      {
+        "datetime": "2017-12-19T11:39:20Z",
+        "uri": "https://web.archive.org/web/20171219113920/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2017-12-19T15:09:36Z",
+        "uri": "https://web.archive.org/web/20171219150936/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2017-12-21T17:25:53Z",
+        "uri": "https://web.archive.org/web/20171221172553/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2017-12-23T21:55:57Z",
+        "uri": "https://web.archive.org/web/20171223215557/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2018-01-18T16:59:55Z",
+        "uri": "https://web.archive.org/web/20180118165955/http://odu.edu:80/research"
+      },
+      {
+        "datetime": "2018-02-20T22:07:36Z",
+        "uri": "https://web.archive.org/web/20180220220736/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2018-03-03T04:43:56Z",
+        "uri": "https://web.archive.org/web/20180303044356/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2018-03-20T12:44:11Z",
+        "uri": "https://web.archive.org/web/20180320124411/http://odu.edu:80/research"
+      },
+      {
+        "datetime": "2018-04-24T11:10:56Z",
+        "uri": "https://web.archive.org/web/20180424111056/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2018-04-26T21:24:09Z",
+        "uri": "https://web.archive.org/web/20180426212409/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2018-05-21T20:27:25Z",
+        "uri": "https://web.archive.org/web/20180521202725/http://odu.edu:80/research"
+      },
+      {
+        "datetime": "2018-05-24T23:52:03Z",
+        "uri": "https://web.archive.org/web/20180524235203/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2018-06-27T14:38:41Z",
+        "uri": "https://web.archive.org/web/20180627143841/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2018-06-29T04:24:16Z",
+        "uri": "https://web.archive.org/web/20180629042416/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2018-07-21T10:42:50Z",
+        "uri": "https://web.archive.org/web/20180721104250/http://odu.edu:80/research"
+      },
+      {
+        "datetime": "2018-07-25T04:54:25Z",
+        "uri": "https://web.archive.org/web/20180725045425/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2018-08-04T00:29:12Z",
+        "uri": "https://web.archive.org/web/20180804002912/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2018-09-07T23:38:48Z",
+        "uri": "https://web.archive.org/web/20180907233848/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2018-09-12T15:23:27Z",
+        "uri": "https://web.archive.org/web/20180912152327/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2018-10-03T18:10:32Z",
+        "uri": "https://web.archive.org/web/20181003181032/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2018-11-05T18:27:47Z",
+        "uri": "https://web.archive.org/web/20181105182747/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2018-12-03T16:01:06Z",
+        "uri": "https://web.archive.org/web/20181203160106/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2019-02-02T06:00:51Z",
+        "uri": "https://web.archive.org/web/20190202060051/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2019-04-04T07:23:18Z",
+        "uri": "https://web.archive.org/web/20190404072318/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2019-04-08T20:21:38Z",
+        "uri": "https://web.archive.org/web/20190408202138/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2019-04-14T21:36:41Z",
+        "uri": "https://web.archive.org/web/20190414213641/https://odu.edu/research"
+      },
+      {
+        "datetime": "2019-04-17T12:20:44Z",
+        "uri": "https://web.archive.org/web/20190417122044/https://odu.edu/research"
+      },
+      {
+        "datetime": "2019-06-04T01:42:56Z",
+        "uri": "https://web.archive.org/web/20190604014256/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2019-06-04T20:24:16Z",
+        "uri": "https://web.archive.org/web/20190604202416/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2019-08-04T06:36:35Z",
+        "uri": "https://web.archive.org/web/20190804063635/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2019-10-16T05:49:18Z",
+        "uri": "https://web.archive.org/web/20191016054918/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2019-11-08T18:51:30Z",
+        "uri": "https://web.archive.org/web/20191108185130/https://odu.edu/research"
+      },
+      {
+        "datetime": "2019-12-15T08:56:32Z",
+        "uri": "https://web.archive.org/web/20191215085632/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2019-12-21T17:53:22Z",
+        "uri": "https://web.archive.org/web/20191221175322/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2020-02-13T14:05:05Z",
+        "uri": "https://web.archive.org/web/20200213140505/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2020-04-16T19:55:45Z",
+        "uri": "https://web.archive.org/web/20200416195545/https://odu.edu/research"
+      },
+      {
+        "datetime": "2020-04-16T19:56:08Z",
+        "uri": "https://web.archive.org/web/20200416195608/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2020-04-16T19:56:32Z",
+        "uri": "https://web.archive.org/web/20200416195632/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2020-04-24T16:27:09Z",
+        "uri": "https://web.archive.org/web/20200424162709/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2020-05-02T00:07:10Z",
+        "uri": "https://web.archive.org/web/20200502000710/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2020-06-26T14:11:26Z",
+        "uri": "https://web.archive.org/web/20200626141126/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2020-07-01T03:45:13Z",
+        "uri": "https://web.archive.org/web/20200701034513/http://www.odu.edu:80/research"
+      },
+      {
+        "datetime": "2020-07-12T11:04:13Z",
+        "uri": "https://web.archive.org/web/20200712110413/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2020-07-12T11:04:17Z",
+        "uri": "https://web.archive.org/web/20200712110417/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2020-08-30T22:13:18Z",
+        "uri": "https://web.archive.org/web/20200830221318/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2020-09-01T05:22:48Z",
+        "uri": "https://web.archive.org/web/20200901052248/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2021-01-13T13:04:44Z",
+        "uri": "https://web.archive.org/web/20210113130444/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2021-02-02T01:38:43Z",
+        "uri": "https://web.archive.org/web/20210202013843/https://odu.edu/research"
+      },
+      {
+        "datetime": "2021-02-04T18:01:12Z",
+        "uri": "https://web.archive.org/web/20210204180112/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2021-02-06T15:02:07Z",
+        "uri": "https://web.archive.org/web/20210206150207/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2021-02-23T19:47:23Z",
+        "uri": "https://web.archive.org/web/20210223194723/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2021-02-23T19:47:24Z",
+        "uri": "https://web.archive.org/web/20210223194724/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2021-03-21T15:31:05Z",
+        "uri": "https://web.archive.org/web/20210321153105/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2021-04-09T23:28:48Z",
+        "uri": "https://web.archive.org/web/20210409232848/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2021-04-13T17:34:56Z",
+        "uri": "https://web.archive.org/web/20210413173456/https://odu.edu/research"
+      },
+      {
+        "datetime": "2021-04-14T03:38:35Z",
+        "uri": "https://web.archive.org/web/20210414033835/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2021-04-14T10:49:15Z",
+        "uri": "https://web.archive.org/web/20210414104915/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2021-04-15T08:37:45Z",
+        "uri": "https://web.archive.org/web/20210415083745/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2021-04-23T17:02:32Z",
+        "uri": "https://web.archive.org/web/20210423170232/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2021-04-25T17:34:07Z",
+        "uri": "https://web.archive.org/web/20210425173407/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2021-04-30T20:14:08Z",
+        "uri": "https://web.archive.org/web/20210430201408/https://odu.edu/research"
+      },
+      {
+        "datetime": "2021-05-09T14:07:44Z",
+        "uri": "https://web.archive.org/web/20210509140744/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2021-05-20T15:24:32Z",
+        "uri": "https://web.archive.org/web/20210520152432/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2021-05-26T20:10:39Z",
+        "uri": "https://web.archive.org/web/20210526201039/https://odu.edu/research"
+      },
+      {
+        "datetime": "2021-05-26T20:11:05Z",
+        "uri": "https://web.archive.org/web/20210526201105/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2021-05-26T20:11:43Z",
+        "uri": "https://web.archive.org/web/20210526201143/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2021-06-14T17:14:18Z",
+        "uri": "https://web.archive.org/web/20210614171418/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2021-06-14T17:14:18Z",
+        "uri": "https://web.archive.org/web/20210614171418/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2021-08-11T19:22:50Z",
+        "uri": "https://web.archive.org/web/20210811192250/https://odu.edu/research"
+      },
+      {
+        "datetime": "2021-08-12T05:56:47Z",
+        "uri": "https://web.archive.org/web/20210812055647/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2021-08-12T22:22:13Z",
+        "uri": "https://web.archive.org/web/20210812222213/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2021-09-10T15:39:32Z",
+        "uri": "https://arquivo.pt/wayback/20210910153932mp_/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2021-10-19T19:24:10Z",
+        "uri": "https://web.archive.org/web/20211019192410/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2021-10-21T05:42:46Z",
+        "uri": "https://arquivo.pt/wayback/20211021054246mp_/http://odu.edu/research"
+      },
+      {
+        "datetime": "2021-10-21T05:42:46Z",
+        "uri": "https://web.archive.org/web/20211021054246/http://odu.edu/research"
+      },
+      {
+        "datetime": "2021-11-03T13:27:24Z",
+        "uri": "https://arquivo.pt/wayback/20211103132724mp_/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2021-11-03T13:27:24Z",
+        "uri": "https://web.archive.org/web/20211103132724/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2021-11-07T04:57:24Z",
+        "uri": "https://web.archive.org/web/20211107045724/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2021-11-22T18:09:02Z",
+        "uri": "https://web.archive.org/web/20211122180902/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2021-11-29T22:09:53Z",
+        "uri": "https://web.archive.org/web/20211129220953/https://odu.edu/research"
+      },
+      {
+        "datetime": "2021-12-09T09:23:57Z",
+        "uri": "https://web.archive.org/web/20211209092357/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2021-12-09T09:32:47Z",
+        "uri": "https://web.archive.org/web/20211209093247/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2021-12-21T04:25:59Z",
+        "uri": "https://web.archive.org/web/20211221042559/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-01-08T02:07:28Z",
+        "uri": "https://web.archive.org/web/20220108020728/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-01-08T16:38:31Z",
+        "uri": "https://web.archive.org/web/20220108163831/https://odu.edu/research"
+      },
+      {
+        "datetime": "2022-01-10T17:05:11Z",
+        "uri": "https://web.archive.org/web/20220110170511/https://odu.edu/research"
+      },
+      {
+        "datetime": "2022-01-11T20:16:34Z",
+        "uri": "https://web.archive.org/web/20220111201634/https://odu.edu/research"
+      },
+      {
+        "datetime": "2022-01-12T16:57:19Z",
+        "uri": "https://web.archive.org/web/20220112165719/https://odu.edu/research"
+      },
+      {
+        "datetime": "2022-01-12T21:57:33Z",
+        "uri": "https://web.archive.org/web/20220112215733/https://odu.edu/research"
+      },
+      {
+        "datetime": "2022-01-13T01:00:34Z",
+        "uri": "https://web.archive.org/web/20220113010034/https://odu.edu/research"
+      },
+      {
+        "datetime": "2022-01-13T19:32:40Z",
+        "uri": "https://web.archive.org/web/20220113193240/https://odu.edu/research"
+      },
+      {
+        "datetime": "2022-01-16T23:36:29Z",
+        "uri": "https://web.archive.org/web/20220116233629/https://odu.edu/research"
+      },
+      {
+        "datetime": "2022-01-17T07:07:43Z",
+        "uri": "https://web.archive.org/web/20220117070743/https://odu.edu/research"
+      },
+      {
+        "datetime": "2022-01-20T22:55:28Z",
+        "uri": "https://web.archive.org/web/20220120225528/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-01-20T22:55:28Z",
+        "uri": "https://web.archive.org/web/20220120225528/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-01-21T21:46:17Z",
+        "uri": "https://web.archive.org/web/20220121214617/https://odu.edu/research"
+      },
+      {
+        "datetime": "2022-01-22T10:47:00Z",
+        "uri": "https://arquivo.pt/wayback/20220122104700mp_/https://odu.edu/research"
+      },
+      {
+        "datetime": "2022-01-24T20:26:30Z",
+        "uri": "https://web.archive.org/web/20220124202630/https://odu.edu/research"
+      },
+      {
+        "datetime": "2022-01-26T02:01:07Z",
+        "uri": "https://web.archive.org/web/20220126020107/https://odu.edu/research"
+      },
+      {
+        "datetime": "2022-01-26T05:38:58Z",
+        "uri": "https://arquivo.pt/wayback/20220126053858mp_/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-01-31T22:16:16Z",
+        "uri": "https://web.archive.org/web/20220131221616/https://odu.edu/research"
+      },
+      {
+        "datetime": "2022-02-01T22:31:55Z",
+        "uri": "https://web.archive.org/web/20220201223155/https://odu.edu/research"
+      },
+      {
+        "datetime": "2022-02-03T18:59:12Z",
+        "uri": "https://web.archive.org/web/20220203185912/https://odu.edu/research"
+      },
+      {
+        "datetime": "2022-02-10T09:43:25Z",
+        "uri": "https://web.archive.org/web/20220210094325/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-02-17T22:19:33Z",
+        "uri": "https://web.archive.org/web/20220217221933/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-03-10T00:46:15Z",
+        "uri": "https://web.archive.org/web/20220310004615/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-03-19T19:39:14Z",
+        "uri": "https://web.archive.org/web/20220319193914/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-03-19T19:39:14Z",
+        "uri": "https://web.archive.org/web/20220319193914/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-03-19T21:46:24Z",
+        "uri": "https://web.archive.org/web/20220319214624/https://www.odu.edu/research/"
+      },
+      {
+        "datetime": "2022-03-19T21:46:24Z",
+        "uri": "https://web.archive.org/web/20220319214624/http://www.odu.edu/research/"
+      },
+      {
+        "datetime": "2022-03-19T22:29:49Z",
+        "uri": "https://web.archive.org/web/20220319222949/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-03-19T22:29:49Z",
+        "uri": "https://web.archive.org/web/20220319222949/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-04-15T17:30:43Z",
+        "uri": "https://web.archive.org/web/20220415173043/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-04-17T00:54:11Z",
+        "uri": "https://web.archive.org/web/20220417005411/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-04-17T05:55:45Z",
+        "uri": "https://arquivo.pt/wayback/20220417055545mp_/https://odu.edu/research"
+      },
+      {
+        "datetime": "2022-04-19T12:52:50Z",
+        "uri": "https://web.archive.org/web/20220419125250/https://odu.edu/research"
+      },
+      {
+        "datetime": "2022-04-22T17:21:50Z",
+        "uri": "https://arquivo.pt/wayback/20220422172150mp_/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-04-22T17:21:54Z",
+        "uri": "https://arquivo.pt/wayback/20220422172154mp_/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-04-24T18:55:25Z",
+        "uri": "https://arquivo.pt/wayback/20220424185525mp_/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-05-14T05:09:44Z",
+        "uri": "https://web.archive.org/web/20220514050944/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-05-15T19:10:59Z",
+        "uri": "https://web.archive.org/web/20220515191059/https://odu.edu/research"
+      },
+      {
+        "datetime": "2022-05-23T08:40:55Z",
+        "uri": "https://web.archive.org/web/20220523084055/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-05-25T09:22:19Z",
+        "uri": "https://web.archive.org/web/20220525092219/https://odu.edu/research"
+      },
+      {
+        "datetime": "2022-05-26T07:07:51Z",
+        "uri": "https://web.archive.org/web/20220526070751/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-06-08T14:59:31Z",
+        "uri": "https://web.archive.org/web/20220608145931/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-06-15T05:40:36Z",
+        "uri": "https://web.archive.org/web/20220615054036/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-06-19T00:18:26Z",
+        "uri": "https://web.archive.org/web/20220619001826/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-06-19T00:33:43Z",
+        "uri": "https://web.archive.org/web/20220619003343/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-06-19T11:21:15Z",
+        "uri": "https://web.archive.org/web/20220619112115/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-06-19T11:21:20Z",
+        "uri": "https://web.archive.org/web/20220619112120/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-06-19T23:23:19Z",
+        "uri": "https://web.archive.org/web/20220619232319/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-06-19T23:24:46Z",
+        "uri": "https://web.archive.org/web/20220619232446/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-06-25T11:00:43Z",
+        "uri": "https://web.archive.org/web/20220625110043/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-06-28T02:19:28Z",
+        "uri": "https://web.archive.org/web/20220628021928/https://odu.edu/research"
+      },
+      {
+        "datetime": "2022-07-12T13:36:33Z",
+        "uri": "https://web.archive.org/web/20220712133633/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-07-12T13:36:34Z",
+        "uri": "https://web.archive.org/web/20220712133634/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-07-30T15:04:09Z",
+        "uri": "https://arquivo.pt/wayback/20220730150409mp_/https://odu.edu/research"
+      },
+      {
+        "datetime": "2022-08-02T17:52:22Z",
+        "uri": "https://web.archive.org/web/20220802175222/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-08-03T03:01:30Z",
+        "uri": "https://web.archive.org/web/20220803030130/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-08-03T11:20:36Z",
+        "uri": "https://web.archive.org/web/20220803112036/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-08-03T15:42:26Z",
+        "uri": "https://web.archive.org/web/20220803154226/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-08-04T05:13:16Z",
+        "uri": "https://web.archive.org/web/20220804051316/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-08-04T13:14:41Z",
+        "uri": "https://web.archive.org/web/20220804131441/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-08-07T00:22:03Z",
+        "uri": "https://web.archive.org/web/20220807002203/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-08-07T20:49:48Z",
+        "uri": "https://web.archive.org/web/20220807204948/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-08-08T18:54:23Z",
+        "uri": "https://web.archive.org/web/20220808185423/https://odu.edu/research"
+      },
+      {
+        "datetime": "2022-08-08T19:29:30Z",
+        "uri": "https://web.archive.org/web/20220808192930/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-08-08T19:49:10Z",
+        "uri": "https://web.archive.org/web/20220808194910/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-08-10T17:37:41Z",
+        "uri": "https://web.archive.org/web/20220810173741/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-08-10T20:23:04Z",
+        "uri": "https://web.archive.org/web/20220810202304/https://odu.edu/research"
+      },
+      {
+        "datetime": "2022-08-10T20:23:34Z",
+        "uri": "https://web.archive.org/web/20220810202334/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-08-10T20:23:54Z",
+        "uri": "https://web.archive.org/web/20220810202354/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-08-10T20:26:04Z",
+        "uri": "https://web.archive.org/web/20220810202604/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-08-11T08:34:53Z",
+        "uri": "https://web.archive.org/web/20220811083453/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-09-22T09:23:22Z",
+        "uri": "https://web.archive.org/web/20220922092322/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-10-14T07:19:00Z",
+        "uri": "https://web.archive.org/web/20221014071900/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-10-25T06:42:31Z",
+        "uri": "https://web.archive.org/web/20221025064231/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-10-31T11:20:58Z",
+        "uri": "https://web.archive.org/web/20221031112058/https://www.odu.edu/research/"
+      },
+      {
+        "datetime": "2022-11-07T06:03:16Z",
+        "uri": "https://web.archive.org/web/20221107060316/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-11-07T07:14:13Z",
+        "uri": "https://web.archive.org/web/20221107071413/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-12-07T11:58:58Z",
+        "uri": "https://web.archive.org/web/20221207115858/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-12-08T01:13:40Z",
+        "uri": "https://web.archive.org/web/20221208011340/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2022-12-08T05:51:43Z",
+        "uri": "https://web.archive.org/web/20221208055143/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2023-01-07T11:30:07Z",
+        "uri": "https://web.archive.org/web/20230107113007/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2023-01-07T21:36:25Z",
+        "uri": "https://web.archive.org/web/20230107213625/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2023-01-24T20:26:59Z",
+        "uri": "https://arquivo.pt/wayback/20230124202659mp_/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2023-02-07T09:59:21Z",
+        "uri": "https://web.archive.org/web/20230207095921/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2023-02-07T21:38:04Z",
+        "uri": "https://web.archive.org/web/20230207213804/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2023-02-20T01:03:26Z",
+        "uri": "https://web.archive.org/web/20230220010326/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2023-03-07T04:56:26Z",
+        "uri": "https://web.archive.org/web/20230307045626/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2023-03-07T05:37:41Z",
+        "uri": "https://web.archive.org/web/20230307053741/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2023-03-27T15:22:03Z",
+        "uri": "https://web.archive.org/web/20230327152203/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2023-03-27T22:34:29Z",
+        "uri": "https://web.archive.org/web/20230327223429/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2023-07-10T23:17:20Z",
+        "uri": "https://web.archive.org/web/20230710231720/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2023-07-15T00:31:08Z",
+        "uri": "https://web.archive.org/web/20230715003108/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2023-08-19T13:29:04Z",
+        "uri": "https://web.archive.org/web/20230819132904/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2023-08-25T18:50:41Z",
+        "uri": "https://web.archive.org/web/20230825185041/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2023-08-25T19:57:33Z",
+        "uri": "https://web.archive.org/web/20230825195733/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2023-08-30T12:17:31Z",
+        "uri": "https://web.archive.org/web/20230830121731/https://odu.edu/research"
+      },
+      {
+        "datetime": "2023-11-28T03:54:21Z",
+        "uri": "https://web.archive.org/web/20231128035421/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2024-01-17T00:34:23Z",
+        "uri": "https://web.archive.org/web/20240117003423/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2024-01-17T00:34:23Z",
+        "uri": "https://web.archive.org/web/20240117003423/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2024-02-21T20:16:45Z",
+        "uri": "https://web.archive.org/web/20240221201645/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2024-02-28T21:32:56Z",
+        "uri": "https://web.archive.org/web/20240228213256/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2024-02-28T23:44:52Z",
+        "uri": "https://web.archive.org/web/20240228234452/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2024-03-05T03:57:16Z",
+        "uri": "https://web.archive.org/web/20240305035716/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2024-03-05T03:57:19Z",
+        "uri": "https://web.archive.org/web/20240305035719/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2024-03-06T15:28:56Z",
+        "uri": "https://web.archive.org/web/20240306152856/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2024-03-25T12:55:35Z",
+        "uri": "https://web.archive.org/web/20240325125535/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2024-04-01T13:05:35Z",
+        "uri": "https://web.archive.org/web/20240401130535/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2024-04-04T07:27:01Z",
+        "uri": "https://web.archive.org/web/20240404072701/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2024-04-04T07:27:16Z",
+        "uri": "https://web.archive.org/web/20240404072716/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2024-04-04T07:27:17Z",
+        "uri": "https://web.archive.org/web/20240404072717/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2024-04-17T03:31:02Z",
+        "uri": "https://web.archive.org/web/20240417033102/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2024-04-27T16:10:04Z",
+        "uri": "https://web.archive.org/web/20240427161004/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2024-05-14T02:19:45Z",
+        "uri": "https://web.archive.org/web/20240514021945/http://odu.edu/research"
+      },
+      {
+        "datetime": "2024-06-20T17:43:36Z",
+        "uri": "https://web.archive.org/web/20240620174336/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2024-09-06T18:04:23Z",
+        "uri": "https://web.archive.org/web/20240906180423/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2024-09-06T18:04:24Z",
+        "uri": "https://web.archive.org/web/20240906180424/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2024-09-17T09:30:05Z",
+        "uri": "https://web.archive.org/web/20240917093005/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2024-09-27T21:12:06Z",
+        "uri": "https://web.archive.org/web/20240927211206/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2024-10-07T10:23:22Z",
+        "uri": "https://web.archive.org/web/20241007102322/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2024-11-17T16:42:28Z",
+        "uri": "https://web.archive.org/web/20241117164228/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2024-12-07T20:41:36Z",
+        "uri": "https://web.archive.org/web/20241207204136/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2024-12-23T10:07:37Z",
+        "uri": "https://web.archive.org/web/20241223100737/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2024-12-24T17:53:09Z",
+        "uri": "https://web.archive.org/web/20241224175309/http://www.odu.edu/research"
+      },
+      {
+        "datetime": "2024-12-24T17:53:35Z",
+        "uri": "https://web.archive.org/web/20241224175335/https://www.odu.edu/research"
+      },
+      {
+        "datetime": "2025-02-14T10:00:30Z",
+        "uri": "https://web.archive.org/web/20250214100030/https://www.odu.edu/research"
+      }
+    ],
+    "first": {
+      "datetime": "2004-10-15T01:48:46Z",
+      "uri": "https://web.archive.org/web/20041015014846/http://www.odu.edu:80/research"
+    },
+    "last": {
+      "datetime": "2025-02-14T10:00:30Z",
+      "uri": "https://web.archive.org/web/20250214100030/https://www.odu.edu/research"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/research",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/research",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/research"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/research"
+}

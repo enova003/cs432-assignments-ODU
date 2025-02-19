@@ -1,0 +1,54 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/education/stem-education-professional-studies/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/education/stem-education-professional-studies/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T03:05:45Z",
+        "uri": "https://web.archive.org/web/20230927030545/https://catalog.odu.edu/graduate/education/stem-education-professional-studies/"
+      },
+      {
+        "datetime": "2023-10-03T11:45:27Z",
+        "uri": "https://web.archive.org/web/20231003114527/https://catalog.odu.edu/graduate/education/stem-education-professional-studies/"
+      },
+      {
+        "datetime": "2024-01-11T18:14:16Z",
+        "uri": "https://web.archive.org/web/20240111181416/https://catalog.odu.edu/graduate/education/stem-education-professional-studies/"
+      },
+      {
+        "datetime": "2024-02-28T21:41:41Z",
+        "uri": "https://web.archive.org/web/20240228214141/https://catalog.odu.edu/graduate/education/stem-education-professional-studies/"
+      },
+      {
+        "datetime": "2024-02-29T00:40:37Z",
+        "uri": "https://web.archive.org/web/20240229004037/https://catalog.odu.edu/graduate/education/stem-education-professional-studies/"
+      },
+      {
+        "datetime": "2024-04-01T23:23:44Z",
+        "uri": "https://web.archive.org/web/20240401232344/http://catalog.odu.edu/graduate/education/stem-education-professional-studies/"
+      },
+      {
+        "datetime": "2024-04-02T03:05:50Z",
+        "uri": "https://web.archive.org/web/20240402030550/https://catalog.odu.edu/graduate/education/stem-education-professional-studies/"
+      },
+      {
+        "datetime": "2024-04-17T23:02:40Z",
+        "uri": "https://web.archive.org/web/20240417230240/https://catalog.odu.edu/graduate/education/stem-education-professional-studies/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T03:05:45Z",
+      "uri": "https://web.archive.org/web/20230927030545/https://catalog.odu.edu/graduate/education/stem-education-professional-studies/"
+    },
+    "last": {
+      "datetime": "2024-04-17T23:02:40Z",
+      "uri": "https://web.archive.org/web/20240417230240/https://catalog.odu.edu/graduate/education/stem-education-professional-studies/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/education/stem-education-professional-studies/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/education/stem-education-professional-studies/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/education/stem-education-professional-studies/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/education/stem-education-professional-studies/"
+}

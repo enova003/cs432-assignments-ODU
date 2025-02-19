@@ -1,0 +1,134 @@
+{
+  "original_uri": "https://online.odu.edu/privacy-policy",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/privacy-policy",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-05-27T21:58:53Z",
+        "uri": "https://web.archive.org/web/20220527215853/https://online.odu.edu/privacy-policy"
+      },
+      {
+        "datetime": "2022-08-07T15:57:27Z",
+        "uri": "https://web.archive.org/web/20220807155727/https://online.odu.edu/privacy-policy"
+      },
+      {
+        "datetime": "2022-08-08T17:24:30Z",
+        "uri": "https://web.archive.org/web/20220808172430/https://online.odu.edu/privacy-policy"
+      },
+      {
+        "datetime": "2022-10-31T11:17:50Z",
+        "uri": "https://web.archive.org/web/20221031111750/https://online.odu.edu/privacy-policy"
+      },
+      {
+        "datetime": "2022-11-28T04:56:26Z",
+        "uri": "https://web.archive.org/web/20221128045626/https://online.odu.edu/privacy-policy"
+      },
+      {
+        "datetime": "2023-03-25T11:01:41Z",
+        "uri": "https://web.archive.org/web/20230325110141/https://online.odu.edu/privacy-policy"
+      },
+      {
+        "datetime": "2023-05-02T09:49:56Z",
+        "uri": "https://web.archive.org/web/20230502094956/https://online.odu.edu/privacy-policy"
+      },
+      {
+        "datetime": "2023-06-13T12:43:47Z",
+        "uri": "https://web.archive.org/web/20230613124347/https://online.odu.edu/privacy-policy"
+      },
+      {
+        "datetime": "2023-07-07T00:04:03Z",
+        "uri": "https://web.archive.org/web/20230707000403/https://online.odu.edu/privacy-policy"
+      },
+      {
+        "datetime": "2023-07-15T00:31:11Z",
+        "uri": "https://web.archive.org/web/20230715003111/https://online.odu.edu/privacy-policy"
+      },
+      {
+        "datetime": "2023-08-03T21:19:41Z",
+        "uri": "https://web.archive.org/web/20230803211941/https://online.odu.edu/privacy-policy"
+      },
+      {
+        "datetime": "2023-10-02T21:29:01Z",
+        "uri": "https://web.archive.org/web/20231002212901/https://online.odu.edu/privacy-policy"
+      },
+      {
+        "datetime": "2023-12-26T23:12:18Z",
+        "uri": "https://web.archive.org/web/20231226231218/https://online.odu.edu/privacy-policy"
+      },
+      {
+        "datetime": "2024-01-10T20:55:13Z",
+        "uri": "https://web.archive.org/web/20240110205513/https://online.odu.edu/privacy-policy"
+      },
+      {
+        "datetime": "2024-02-04T01:41:39Z",
+        "uri": "https://web.archive.org/web/20240204014139/https://online.odu.edu/privacy-policy"
+      },
+      {
+        "datetime": "2024-02-25T08:37:09Z",
+        "uri": "https://web.archive.org/web/20240225083709/https://online.odu.edu/privacy-policy"
+      },
+      {
+        "datetime": "2024-03-25T10:18:35Z",
+        "uri": "https://web.archive.org/web/20240325101835/https://online.odu.edu/privacy-policy"
+      },
+      {
+        "datetime": "2024-04-01T11:38:03Z",
+        "uri": "https://web.archive.org/web/20240401113803/https://online.odu.edu/privacy-policy"
+      },
+      {
+        "datetime": "2024-05-02T22:29:27Z",
+        "uri": "https://web.archive.org/web/20240502222927/https://online.odu.edu/privacy-policy"
+      },
+      {
+        "datetime": "2024-06-02T02:14:24Z",
+        "uri": "https://web.archive.org/web/20240602021424/https://online.odu.edu/privacy-policy"
+      },
+      {
+        "datetime": "2024-06-13T23:24:05Z",
+        "uri": "https://web.archive.org/web/20240613232405/https://online.odu.edu/privacy-policy"
+      },
+      {
+        "datetime": "2024-07-03T10:45:24Z",
+        "uri": "https://web.archive.org/web/20240703104524/https://online.odu.edu/privacy-policy"
+      },
+      {
+        "datetime": "2024-08-01T12:14:51Z",
+        "uri": "https://web.archive.org/web/20240801121451/https://online.odu.edu/privacy-policy"
+      },
+      {
+        "datetime": "2024-09-13T04:53:20Z",
+        "uri": "https://web.archive.org/web/20240913045320/https://online.odu.edu/privacy-policy"
+      },
+      {
+        "datetime": "2024-10-04T07:27:13Z",
+        "uri": "https://web.archive.org/web/20241004072713/https://online.odu.edu/privacy-policy"
+      },
+      {
+        "datetime": "2024-11-05T12:58:59Z",
+        "uri": "https://web.archive.org/web/20241105125859/https://online.odu.edu/privacy-policy"
+      },
+      {
+        "datetime": "2025-01-19T13:02:16Z",
+        "uri": "https://web.archive.org/web/20250119130216/https://online.odu.edu/privacy-policy"
+      },
+      {
+        "datetime": "2025-01-24T02:58:20Z",
+        "uri": "https://web.archive.org/web/20250124025820/https://online.odu.edu/privacy-policy"
+      }
+    ],
+    "first": {
+      "datetime": "2022-05-27T21:58:53Z",
+      "uri": "https://web.archive.org/web/20220527215853/https://online.odu.edu/privacy-policy"
+    },
+    "last": {
+      "datetime": "2025-01-24T02:58:20Z",
+      "uri": "https://web.archive.org/web/20250124025820/https://online.odu.edu/privacy-policy"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/privacy-policy",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/privacy-policy",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/privacy-policy"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/privacy-policy"
+}

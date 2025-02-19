@@ -1,0 +1,42 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/sciences/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/sciences/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T01:45:08Z",
+        "uri": "https://web.archive.org/web/20230927014508/https://catalog.odu.edu/undergraduate/sciences/"
+      },
+      {
+        "datetime": "2023-12-09T23:03:18Z",
+        "uri": "https://web.archive.org/web/20231209230318/https://catalog.odu.edu/undergraduate/sciences/"
+      },
+      {
+        "datetime": "2023-12-09T23:04:20Z",
+        "uri": "https://web.archive.org/web/20231209230420/http://catalog.odu.edu/undergraduate/sciences/"
+      },
+      {
+        "datetime": "2023-12-10T23:55:12Z",
+        "uri": "https://web.archive.org/web/20231210235512/https://catalog.odu.edu/undergraduate/sciences/"
+      },
+      {
+        "datetime": "2023-12-17T01:36:37Z",
+        "uri": "https://web.archive.org/web/20231217013637/https://catalog.odu.edu/undergraduate/sciences/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T01:45:08Z",
+      "uri": "https://web.archive.org/web/20230927014508/https://catalog.odu.edu/undergraduate/sciences/"
+    },
+    "last": {
+      "datetime": "2023-12-17T01:36:37Z",
+      "uri": "https://web.archive.org/web/20231217013637/https://catalog.odu.edu/undergraduate/sciences/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/sciences/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/sciences/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/sciences/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/sciences/"
+}

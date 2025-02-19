@@ -1,0 +1,498 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/opmt/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/opmt/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:21:54Z",
+        "uri": "https://web.archive.org/web/20120902042154/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2013-05-17T08:00:17Z",
+        "uri": "https://web.archive.org/web/20130517080017/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2014-05-16T07:31:26Z",
+        "uri": "https://web.archive.org/web/20140516073126/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2014-07-16T05:41:35Z",
+        "uri": "https://web.archive.org/web/20140716054135/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2014-09-14T16:56:06Z",
+        "uri": "https://web.archive.org/web/20140914165606/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2014-11-14T12:51:21Z",
+        "uri": "https://web.archive.org/web/20141114125121/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2015-01-24T02:29:06Z",
+        "uri": "https://web.archive.org/web/20150124022906/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2015-01-24T02:29:06Z",
+        "uri": "https://web.archive.org/web/20150124022906/http://catalog.odu.edu:80/courses/opmt"
+      },
+      {
+        "datetime": "2015-02-15T16:00:42Z",
+        "uri": "https://web.archive.org/web/20150215160042/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2015-03-28T21:46:21Z",
+        "uri": "https://web.archive.org/web/20150328214621/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2015-03-28T21:46:21Z",
+        "uri": "https://web.archive.org/web/20150328214621/http://catalog.odu.edu:80/courses/opmt"
+      },
+      {
+        "datetime": "2015-04-17T00:54:47Z",
+        "uri": "https://web.archive.org/web/20150417005447/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2015-04-28T09:36:47Z",
+        "uri": "https://web.archive.org/web/20150428093647/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2015-04-28T09:36:47Z",
+        "uri": "https://web.archive.org/web/20150428093647/http://catalog.odu.edu:80/courses/opmt"
+      },
+      {
+        "datetime": "2015-05-11T08:44:46Z",
+        "uri": "https://web.archive.org/web/20150511084446/http://catalog.odu.edu/courses/opmt/"
+      },
+      {
+        "datetime": "2015-05-29T09:33:27Z",
+        "uri": "https://web.archive.org/web/20150529093327/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2015-05-29T09:33:27Z",
+        "uri": "https://web.archive.org/web/20150529093327/http://catalog.odu.edu:80/courses/opmt"
+      },
+      {
+        "datetime": "2015-06-16T14:54:21Z",
+        "uri": "https://web.archive.org/web/20150616145421/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2015-06-29T14:35:58Z",
+        "uri": "https://web.archive.org/web/20150629143558/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2015-06-29T14:35:58Z",
+        "uri": "https://web.archive.org/web/20150629143558/http://catalog.odu.edu:80/courses/opmt"
+      },
+      {
+        "datetime": "2015-07-03T08:05:39Z",
+        "uri": "https://web.archive.org/web/20150703080539/http://catalog.odu.edu/courses/opmt/"
+      },
+      {
+        "datetime": "2015-08-16T01:00:59Z",
+        "uri": "https://web.archive.org/web/20150816010059/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2015-10-15T07:22:33Z",
+        "uri": "https://web.archive.org/web/20151015072233/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2015-12-14T15:25:03Z",
+        "uri": "https://web.archive.org/web/20151214152503/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2016-02-13T07:52:59Z",
+        "uri": "https://web.archive.org/web/20160213075259/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2016-04-09T05:08:48Z",
+        "uri": "https://web.archive.org/web/20160409050848/http://catalog.odu.edu/courses/opmt/"
+      },
+      {
+        "datetime": "2016-04-13T17:44:01Z",
+        "uri": "https://web.archive.org/web/20160413174401/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2016-07-29T00:06:03Z",
+        "uri": "https://web.archive.org/web/20160729000603/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2016-07-29T00:06:03Z",
+        "uri": "https://web.archive.org/web/20160729000603/http://catalog.odu.edu:80/courses/opmt"
+      },
+      {
+        "datetime": "2016-08-13T01:01:07Z",
+        "uri": "https://web.archive.org/web/20160813010107/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2016-08-29T08:10:25Z",
+        "uri": "https://web.archive.org/web/20160829081025/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2016-08-29T08:10:25Z",
+        "uri": "https://web.archive.org/web/20160829081025/http://catalog.odu.edu:80/courses/opmt"
+      },
+      {
+        "datetime": "2016-09-29T04:45:55Z",
+        "uri": "https://web.archive.org/web/20160929044555/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2016-09-29T04:45:55Z",
+        "uri": "https://web.archive.org/web/20160929044555/http://catalog.odu.edu:80/courses/opmt"
+      },
+      {
+        "datetime": "2016-10-12T22:49:05Z",
+        "uri": "https://web.archive.org/web/20161012224905/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2016-10-30T16:30:55Z",
+        "uri": "https://web.archive.org/web/20161030163055/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2016-10-30T16:30:55Z",
+        "uri": "https://web.archive.org/web/20161030163055/http://catalog.odu.edu:80/courses/opmt"
+      },
+      {
+        "datetime": "2016-12-05T05:00:17Z",
+        "uri": "https://web.archive.org/web/20161205050017/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2017-04-08T17:59:04Z",
+        "uri": "https://web.archive.org/web/20170408175904/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2017-04-27T06:28:55Z",
+        "uri": "https://web.archive.org/web/20170427062855/http://catalog.odu.edu/courses/opmt/"
+      },
+      {
+        "datetime": "2017-06-08T07:08:16Z",
+        "uri": "https://web.archive.org/web/20170608070816/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2017-07-09T02:27:32Z",
+        "uri": "https://web.archive.org/web/20170709022732/http://catalog.odu.edu/courses/opmt/"
+      },
+      {
+        "datetime": "2017-08-08T13:43:10Z",
+        "uri": "https://web.archive.org/web/20170808134310/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2017-10-08T18:55:27Z",
+        "uri": "https://web.archive.org/web/20171008185527/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2017-11-11T23:29:25Z",
+        "uri": "https://web.archive.org/web/20171111232925/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2017-11-11T23:29:25Z",
+        "uri": "https://web.archive.org/web/20171111232925/http://catalog.odu.edu:80/courses/opmt"
+      },
+      {
+        "datetime": "2017-12-08T14:48:15Z",
+        "uri": "https://web.archive.org/web/20171208144815/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2017-12-12T23:05:41Z",
+        "uri": "https://web.archive.org/web/20171212230541/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2017-12-12T23:05:41Z",
+        "uri": "https://web.archive.org/web/20171212230541/http://catalog.odu.edu:80/courses/opmt"
+      },
+      {
+        "datetime": "2018-01-12T22:07:48Z",
+        "uri": "https://web.archive.org/web/20180112220748/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2018-01-12T22:07:48Z",
+        "uri": "https://web.archive.org/web/20180112220748/http://catalog.odu.edu:80/courses/opmt"
+      },
+      {
+        "datetime": "2018-02-07T19:13:28Z",
+        "uri": "https://web.archive.org/web/20180207191328/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2018-02-12T20:34:58Z",
+        "uri": "https://web.archive.org/web/20180212203458/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2018-02-12T20:34:58Z",
+        "uri": "https://web.archive.org/web/20180212203458/http://catalog.odu.edu:80/courses/opmt"
+      },
+      {
+        "datetime": "2018-03-15T22:49:54Z",
+        "uri": "https://web.archive.org/web/20180315224954/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2018-03-15T22:49:54Z",
+        "uri": "https://web.archive.org/web/20180315224954/http://catalog.odu.edu:80/courses/opmt"
+      },
+      {
+        "datetime": "2018-04-09T20:17:02Z",
+        "uri": "https://web.archive.org/web/20180409201702/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2018-04-15T20:43:11Z",
+        "uri": "https://web.archive.org/web/20180415204311/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2018-04-15T20:43:11Z",
+        "uri": "https://web.archive.org/web/20180415204311/http://catalog.odu.edu:80/courses/opmt"
+      },
+      {
+        "datetime": "2018-05-17T00:19:02Z",
+        "uri": "https://web.archive.org/web/20180517001902/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2018-05-17T00:19:02Z",
+        "uri": "https://web.archive.org/web/20180517001902/http://catalog.odu.edu:80/courses/opmt"
+      },
+      {
+        "datetime": "2018-06-10T06:27:18Z",
+        "uri": "https://web.archive.org/web/20180610062718/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2018-06-17T09:05:01Z",
+        "uri": "https://web.archive.org/web/20180617090501/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2018-06-17T09:05:01Z",
+        "uri": "https://web.archive.org/web/20180617090501/http://catalog.odu.edu:80/courses/opmt"
+      },
+      {
+        "datetime": "2018-07-18T10:10:47Z",
+        "uri": "https://web.archive.org/web/20180718101047/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2018-07-18T10:10:47Z",
+        "uri": "https://web.archive.org/web/20180718101047/http://catalog.odu.edu:80/courses/opmt"
+      },
+      {
+        "datetime": "2018-08-10T07:42:34Z",
+        "uri": "https://web.archive.org/web/20180810074234/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2018-08-18T11:37:15Z",
+        "uri": "https://web.archive.org/web/20180818113715/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2018-08-18T11:37:15Z",
+        "uri": "https://web.archive.org/web/20180818113715/http://catalog.odu.edu:80/courses/opmt"
+      },
+      {
+        "datetime": "2018-09-19T02:14:23Z",
+        "uri": "https://web.archive.org/web/20180919021423/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2018-09-19T02:14:23Z",
+        "uri": "https://web.archive.org/web/20180919021423/http://catalog.odu.edu:80/courses/opmt"
+      },
+      {
+        "datetime": "2018-10-10T04:04:14Z",
+        "uri": "https://web.archive.org/web/20181010040414/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2018-10-11T04:28:49Z",
+        "uri": "https://web.archive.org/web/20181011042849/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2018-10-20T08:39:17Z",
+        "uri": "https://web.archive.org/web/20181020083917/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2018-10-20T08:39:17Z",
+        "uri": "https://web.archive.org/web/20181020083917/http://catalog.odu.edu:80/courses/opmt"
+      },
+      {
+        "datetime": "2018-11-20T04:34:56Z",
+        "uri": "https://web.archive.org/web/20181120043456/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2018-11-20T04:34:56Z",
+        "uri": "https://web.archive.org/web/20181120043456/http://catalog.odu.edu:80/courses/opmt"
+      },
+      {
+        "datetime": "2018-12-11T10:31:28Z",
+        "uri": "https://web.archive.org/web/20181211103128/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2018-12-21T14:54:00Z",
+        "uri": "https://web.archive.org/web/20181221145400/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2018-12-21T14:54:00Z",
+        "uri": "https://web.archive.org/web/20181221145400/http://catalog.odu.edu:80/courses/opmt"
+      },
+      {
+        "datetime": "2019-01-21T12:56:22Z",
+        "uri": "https://web.archive.org/web/20190121125622/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2019-01-21T12:56:22Z",
+        "uri": "https://web.archive.org/web/20190121125622/http://catalog.odu.edu:80/courses/opmt"
+      },
+      {
+        "datetime": "2019-02-11T09:41:05Z",
+        "uri": "https://web.archive.org/web/20190211094105/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2019-02-21T16:28:24Z",
+        "uri": "https://web.archive.org/web/20190221162824/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2019-02-21T16:28:24Z",
+        "uri": "https://web.archive.org/web/20190221162824/http://catalog.odu.edu:80/courses/opmt"
+      },
+      {
+        "datetime": "2019-03-24T16:17:12Z",
+        "uri": "https://web.archive.org/web/20190324161712/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2019-03-24T16:17:12Z",
+        "uri": "https://web.archive.org/web/20190324161712/http://catalog.odu.edu:80/courses/opmt"
+      },
+      {
+        "datetime": "2019-04-24T09:23:26Z",
+        "uri": "https://web.archive.org/web/20190424092326/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2019-04-24T09:23:26Z",
+        "uri": "https://web.archive.org/web/20190424092326/http://catalog.odu.edu:80/courses/opmt"
+      },
+      {
+        "datetime": "2019-05-25T07:54:33Z",
+        "uri": "https://web.archive.org/web/20190525075433/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2019-05-25T07:54:33Z",
+        "uri": "https://web.archive.org/web/20190525075433/http://catalog.odu.edu:80/courses/opmt"
+      },
+      {
+        "datetime": "2019-06-12T16:35:26Z",
+        "uri": "https://web.archive.org/web/20190612163526/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2019-06-25T09:38:07Z",
+        "uri": "https://web.archive.org/web/20190625093807/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2019-06-25T09:38:07Z",
+        "uri": "https://web.archive.org/web/20190625093807/http://catalog.odu.edu:80/courses/opmt"
+      },
+      {
+        "datetime": "2019-07-26T17:58:39Z",
+        "uri": "https://web.archive.org/web/20190726175839/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2019-07-26T17:58:39Z",
+        "uri": "https://web.archive.org/web/20190726175839/http://catalog.odu.edu:80/courses/opmt"
+      },
+      {
+        "datetime": "2019-08-13T06:08:44Z",
+        "uri": "https://web.archive.org/web/20190813060844/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2019-08-26T18:41:41Z",
+        "uri": "https://web.archive.org/web/20190826184141/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2019-08-26T18:41:41Z",
+        "uri": "https://web.archive.org/web/20190826184141/http://catalog.odu.edu:80/courses/opmt"
+      },
+      {
+        "datetime": "2019-09-27T14:55:54Z",
+        "uri": "https://web.archive.org/web/20190927145554/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2019-09-27T14:55:54Z",
+        "uri": "https://web.archive.org/web/20190927145554/http://catalog.odu.edu:80/courses/opmt"
+      },
+      {
+        "datetime": "2019-10-09T05:28:29Z",
+        "uri": "https://web.archive.org/web/20191009052829/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2019-10-24T15:31:35Z",
+        "uri": "https://web.archive.org/web/20191024153135/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2019-11-23T22:56:51Z",
+        "uri": "https://web.archive.org/web/20191123225651/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2019-12-24T04:09:55Z",
+        "uri": "https://web.archive.org/web/20191224040955/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2020-01-23T08:01:22Z",
+        "uri": "https://web.archive.org/web/20200123080122/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2020-02-22T11:40:24Z",
+        "uri": "https://web.archive.org/web/20200222114024/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2020-03-02T06:14:43Z",
+        "uri": "https://web.archive.org/web/20200302061443/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2020-05-01T08:53:32Z",
+        "uri": "https://web.archive.org/web/20200501085332/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2020-06-30T15:12:10Z",
+        "uri": "https://web.archive.org/web/20200630151210/http://catalog.odu.edu:80/courses/opmt/"
+      },
+      {
+        "datetime": "2021-01-22T23:13:55Z",
+        "uri": "https://web.archive.org/web/20210122231355/https://catalog.odu.edu/courses/opmt/"
+      },
+      {
+        "datetime": "2021-04-12T20:35:18Z",
+        "uri": "https://web.archive.org/web/20210412203518/http://catalog.odu.edu/courses/opmt/"
+      },
+      {
+        "datetime": "2021-11-22T14:28:03Z",
+        "uri": "https://web.archive.org/web/20211122142803/https://catalog.odu.edu/courses/opmt/"
+      },
+      {
+        "datetime": "2022-03-19T20:25:53Z",
+        "uri": "https://web.archive.org/web/20220319202553/https://catalog.odu.edu/courses/opmt/"
+      },
+      {
+        "datetime": "2022-12-09T00:19:14Z",
+        "uri": "https://web.archive.org/web/20221209001914/https://catalog.odu.edu/courses/opmt/"
+      },
+      {
+        "datetime": "2023-12-17T01:36:35Z",
+        "uri": "https://web.archive.org/web/20231217013635/https://catalog.odu.edu/courses/opmt/"
+      },
+      {
+        "datetime": "2024-02-28T21:42:46Z",
+        "uri": "https://web.archive.org/web/20240228214246/https://catalog.odu.edu/courses/opmt/"
+      },
+      {
+        "datetime": "2024-06-21T23:00:06Z",
+        "uri": "https://web.archive.org/web/20240621230006/https://catalog.odu.edu/courses/opmt/"
+      },
+      {
+        "datetime": "2024-11-12T00:11:49Z",
+        "uri": "https://web.archive.org/web/20241112001149/https://catalog.odu.edu/courses/opmt/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:21:54Z",
+      "uri": "https://web.archive.org/web/20120902042154/http://catalog.odu.edu:80/courses/opmt/"
+    },
+    "last": {
+      "datetime": "2024-11-12T00:11:49Z",
+      "uri": "https://web.archive.org/web/20241112001149/https://catalog.odu.edu/courses/opmt/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/opmt/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/opmt/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/opmt/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/opmt/"
+}

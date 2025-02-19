@@ -1,0 +1,42 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/arts-letters/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/arts-letters/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T01:14:06Z",
+        "uri": "https://web.archive.org/web/20230927011406/https://catalog.odu.edu/graduate/arts-letters/"
+      },
+      {
+        "datetime": "2023-12-08T06:22:17Z",
+        "uri": "https://web.archive.org/web/20231208062217/https://catalog.odu.edu/graduate/arts-letters/"
+      },
+      {
+        "datetime": "2023-12-09T23:00:59Z",
+        "uri": "https://web.archive.org/web/20231209230059/https://catalog.odu.edu/graduate/arts-letters/"
+      },
+      {
+        "datetime": "2023-12-09T23:01:24Z",
+        "uri": "https://web.archive.org/web/20231209230124/http://catalog.odu.edu/graduate/arts-letters/"
+      },
+      {
+        "datetime": "2024-04-17T22:14:34Z",
+        "uri": "https://web.archive.org/web/20240417221434/https://catalog.odu.edu/graduate/arts-letters/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T01:14:06Z",
+      "uri": "https://web.archive.org/web/20230927011406/https://catalog.odu.edu/graduate/arts-letters/"
+    },
+    "last": {
+      "datetime": "2024-04-17T22:14:34Z",
+      "uri": "https://web.archive.org/web/20240417221434/https://catalog.odu.edu/graduate/arts-letters/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/arts-letters/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/arts-letters/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/arts-letters/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/arts-letters/"
+}

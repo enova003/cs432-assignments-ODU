@@ -1,0 +1,302 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/msl/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/msl/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:35:18Z",
+        "uri": "https://web.archive.org/web/20120902043518/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2013-05-17T08:04:19Z",
+        "uri": "https://web.archive.org/web/20130517080419/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2014-06-20T15:43:44Z",
+        "uri": "https://web.archive.org/web/20140620154344/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2014-08-20T12:35:09Z",
+        "uri": "https://web.archive.org/web/20140820123509/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2014-10-20T03:43:43Z",
+        "uri": "https://web.archive.org/web/20141020034343/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2014-12-19T15:11:14Z",
+        "uri": "https://web.archive.org/web/20141219151114/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2015-02-12T02:20:18Z",
+        "uri": "https://web.archive.org/web/20150212022018/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2015-02-12T02:20:18Z",
+        "uri": "https://web.archive.org/web/20150212022018/http://catalog.odu.edu:80/courses/msl"
+      },
+      {
+        "datetime": "2015-02-13T02:57:43Z",
+        "uri": "https://web.archive.org/web/20150213025743/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2015-03-15T00:52:32Z",
+        "uri": "https://web.archive.org/web/20150315005232/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2015-03-15T00:52:32Z",
+        "uri": "https://web.archive.org/web/20150315005232/http://catalog.odu.edu:80/courses/msl"
+      },
+      {
+        "datetime": "2015-04-14T09:34:41Z",
+        "uri": "https://web.archive.org/web/20150414093441/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2015-04-14T09:34:41Z",
+        "uri": "https://web.archive.org/web/20150414093441/http://catalog.odu.edu:80/courses/msl"
+      },
+      {
+        "datetime": "2015-04-15T23:26:10Z",
+        "uri": "https://web.archive.org/web/20150415232610/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2015-05-11T07:50:44Z",
+        "uri": "https://web.archive.org/web/20150511075044/http://catalog.odu.edu/courses/msl/"
+      },
+      {
+        "datetime": "2015-05-15T08:15:33Z",
+        "uri": "https://web.archive.org/web/20150515081533/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2015-05-15T08:15:33Z",
+        "uri": "https://web.archive.org/web/20150515081533/http://catalog.odu.edu:80/courses/msl"
+      },
+      {
+        "datetime": "2015-06-15T11:16:50Z",
+        "uri": "https://web.archive.org/web/20150615111650/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2015-07-03T07:36:17Z",
+        "uri": "https://web.archive.org/web/20150703073617/http://catalog.odu.edu/courses/msl/"
+      },
+      {
+        "datetime": "2015-07-21T02:03:27Z",
+        "uri": "https://web.archive.org/web/20150721020327/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2015-07-21T02:03:27Z",
+        "uri": "https://web.archive.org/web/20150721020327/http://catalog.odu.edu:80/courses/msl"
+      },
+      {
+        "datetime": "2015-08-15T02:50:49Z",
+        "uri": "https://web.archive.org/web/20150815025049/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2015-10-14T13:14:59Z",
+        "uri": "https://web.archive.org/web/20151014131459/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2015-12-14T10:21:46Z",
+        "uri": "https://web.archive.org/web/20151214102146/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2016-02-13T03:30:35Z",
+        "uri": "https://web.archive.org/web/20160213033035/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2016-04-09T05:04:45Z",
+        "uri": "https://web.archive.org/web/20160409050445/http://catalog.odu.edu/courses/msl/"
+      },
+      {
+        "datetime": "2016-04-13T17:59:02Z",
+        "uri": "https://web.archive.org/web/20160413175902/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2016-06-13T11:03:01Z",
+        "uri": "https://web.archive.org/web/20160613110301/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2016-07-27T04:50:33Z",
+        "uri": "https://web.archive.org/web/20160727045033/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2016-07-27T04:50:33Z",
+        "uri": "https://web.archive.org/web/20160727045033/http://catalog.odu.edu:80/courses/msl"
+      },
+      {
+        "datetime": "2016-07-28T10:38:33Z",
+        "uri": "https://web.archive.org/web/20160728103833/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2016-07-28T10:38:33Z",
+        "uri": "https://web.archive.org/web/20160728103833/http://catalog.odu.edu:80/courses/msl"
+      },
+      {
+        "datetime": "2016-08-13T01:03:00Z",
+        "uri": "https://web.archive.org/web/20160813010300/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2016-08-28T19:38:05Z",
+        "uri": "https://web.archive.org/web/20160828193805/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2016-08-28T19:38:05Z",
+        "uri": "https://web.archive.org/web/20160828193805/http://catalog.odu.edu:80/courses/msl"
+      },
+      {
+        "datetime": "2016-09-29T04:01:56Z",
+        "uri": "https://web.archive.org/web/20160929040156/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2016-09-29T04:01:56Z",
+        "uri": "https://web.archive.org/web/20160929040156/http://catalog.odu.edu:80/courses/msl"
+      },
+      {
+        "datetime": "2016-10-12T22:49:00Z",
+        "uri": "https://web.archive.org/web/20161012224900/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2016-10-30T17:01:28Z",
+        "uri": "https://web.archive.org/web/20161030170128/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2016-10-30T17:01:28Z",
+        "uri": "https://web.archive.org/web/20161030170128/http://catalog.odu.edu:80/courses/msl"
+      },
+      {
+        "datetime": "2016-12-05T04:59:32Z",
+        "uri": "https://web.archive.org/web/20161205045932/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2017-04-08T18:16:14Z",
+        "uri": "https://web.archive.org/web/20170408181614/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2017-04-27T05:24:55Z",
+        "uri": "https://web.archive.org/web/20170427052455/http://catalog.odu.edu/courses/msl/"
+      },
+      {
+        "datetime": "2017-06-08T07:07:51Z",
+        "uri": "https://web.archive.org/web/20170608070751/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2017-07-09T01:46:40Z",
+        "uri": "https://web.archive.org/web/20170709014640/http://catalog.odu.edu/courses/msl/"
+      },
+      {
+        "datetime": "2017-08-08T13:42:59Z",
+        "uri": "https://web.archive.org/web/20170808134259/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2017-10-08T18:53:01Z",
+        "uri": "https://web.archive.org/web/20171008185301/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2017-12-09T00:22:29Z",
+        "uri": "https://web.archive.org/web/20171209002229/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2018-02-07T18:45:13Z",
+        "uri": "https://web.archive.org/web/20180207184513/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2018-04-09T20:16:37Z",
+        "uri": "https://web.archive.org/web/20180409201637/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2018-06-10T06:27:02Z",
+        "uri": "https://web.archive.org/web/20180610062702/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2018-08-12T00:55:08Z",
+        "uri": "https://web.archive.org/web/20180812005508/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2018-10-12T17:18:15Z",
+        "uri": "https://web.archive.org/web/20181012171815/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2018-12-12T15:39:49Z",
+        "uri": "https://web.archive.org/web/20181212153949/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2018-12-13T23:17:28Z",
+        "uri": "https://web.archive.org/web/20181213231728/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2019-02-12T19:42:42Z",
+        "uri": "https://web.archive.org/web/20190212194242/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2019-04-14T22:35:03Z",
+        "uri": "https://web.archive.org/web/20190414223503/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2019-06-15T14:28:39Z",
+        "uri": "https://web.archive.org/web/20190615142839/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2019-08-15T18:24:18Z",
+        "uri": "https://web.archive.org/web/20190815182418/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2019-10-09T05:28:14Z",
+        "uri": "https://web.archive.org/web/20191009052814/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2019-12-08T12:35:18Z",
+        "uri": "https://web.archive.org/web/20191208123518/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2020-02-06T16:39:08Z",
+        "uri": "https://web.archive.org/web/20200206163908/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2020-03-02T06:14:13Z",
+        "uri": "https://web.archive.org/web/20200302061413/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2020-05-01T08:52:53Z",
+        "uri": "https://web.archive.org/web/20200501085253/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2020-06-30T15:11:30Z",
+        "uri": "https://web.archive.org/web/20200630151130/http://catalog.odu.edu:80/courses/msl/"
+      },
+      {
+        "datetime": "2021-01-22T23:23:01Z",
+        "uri": "https://web.archive.org/web/20210122232301/https://catalog.odu.edu/courses/msl/"
+      },
+      {
+        "datetime": "2021-04-12T20:23:41Z",
+        "uri": "https://web.archive.org/web/20210412202341/http://catalog.odu.edu/courses/msl/"
+      },
+      {
+        "datetime": "2022-03-19T21:53:46Z",
+        "uri": "https://web.archive.org/web/20220319215346/https://catalog.odu.edu/courses/msl/"
+      },
+      {
+        "datetime": "2024-02-29T00:41:31Z",
+        "uri": "https://web.archive.org/web/20240229004131/https://catalog.odu.edu/courses/msl/"
+      },
+      {
+        "datetime": "2024-02-29T16:08:49Z",
+        "uri": "https://web.archive.org/web/20240229160849/https://catalog.odu.edu/courses/msl/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:35:18Z",
+      "uri": "https://web.archive.org/web/20120902043518/http://catalog.odu.edu:80/courses/msl/"
+    },
+    "last": {
+      "datetime": "2024-02-29T16:08:49Z",
+      "uri": "https://web.archive.org/web/20240229160849/https://catalog.odu.edu/courses/msl/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/msl/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/msl/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/msl/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/msl/"
+}

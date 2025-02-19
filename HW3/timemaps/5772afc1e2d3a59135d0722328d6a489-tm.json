@@ -1,0 +1,258 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/mdts/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/mdts/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2014-06-20T15:26:44Z",
+        "uri": "https://web.archive.org/web/20140620152644/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2014-08-20T12:28:54Z",
+        "uri": "https://web.archive.org/web/20140820122854/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2014-10-20T03:43:33Z",
+        "uri": "https://web.archive.org/web/20141020034333/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2014-12-19T15:11:04Z",
+        "uri": "https://web.archive.org/web/20141219151104/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2015-02-15T16:04:46Z",
+        "uri": "https://web.archive.org/web/20150215160446/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2015-04-17T03:12:51Z",
+        "uri": "https://web.archive.org/web/20150417031251/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2015-05-11T08:06:37Z",
+        "uri": "https://web.archive.org/web/20150511080637/http://catalog.odu.edu/courses/mdts/"
+      },
+      {
+        "datetime": "2015-06-16T14:53:05Z",
+        "uri": "https://web.archive.org/web/20150616145305/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2015-07-03T05:28:28Z",
+        "uri": "https://web.archive.org/web/20150703052828/http://catalog.odu.edu/courses/mdts/"
+      },
+      {
+        "datetime": "2015-08-16T00:55:43Z",
+        "uri": "https://web.archive.org/web/20150816005543/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2015-10-15T07:14:05Z",
+        "uri": "https://web.archive.org/web/20151015071405/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2015-12-14T15:29:43Z",
+        "uri": "https://web.archive.org/web/20151214152943/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2016-02-13T07:51:59Z",
+        "uri": "https://web.archive.org/web/20160213075159/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2016-04-09T04:55:54Z",
+        "uri": "https://web.archive.org/web/20160409045554/http://catalog.odu.edu/courses/mdts/"
+      },
+      {
+        "datetime": "2016-04-13T17:43:15Z",
+        "uri": "https://web.archive.org/web/20160413174315/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2016-06-10T13:26:52Z",
+        "uri": "https://web.archive.org/web/20160610132652/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2016-06-10T13:26:52Z",
+        "uri": "https://web.archive.org/web/20160610132652/http://catalog.odu.edu:80/courses/mdts"
+      },
+      {
+        "datetime": "2016-06-13T08:18:38Z",
+        "uri": "https://web.archive.org/web/20160613081838/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2016-07-11T18:29:51Z",
+        "uri": "https://web.archive.org/web/20160711182951/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2016-07-11T18:29:51Z",
+        "uri": "https://web.archive.org/web/20160711182951/http://catalog.odu.edu:80/courses/mdts"
+      },
+      {
+        "datetime": "2016-08-12T00:49:51Z",
+        "uri": "https://web.archive.org/web/20160812004951/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2016-08-12T00:49:51Z",
+        "uri": "https://web.archive.org/web/20160812004951/http://catalog.odu.edu:80/courses/mdts"
+      },
+      {
+        "datetime": "2016-08-13T19:43:20Z",
+        "uri": "https://web.archive.org/web/20160813194320/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2016-08-14T20:21:52Z",
+        "uri": "https://web.archive.org/web/20160814202152/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2016-10-14T17:37:23Z",
+        "uri": "https://web.archive.org/web/20161014173723/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2016-12-05T04:58:52Z",
+        "uri": "https://web.archive.org/web/20161205045852/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2017-04-08T17:58:33Z",
+        "uri": "https://web.archive.org/web/20170408175833/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2017-04-27T05:56:25Z",
+        "uri": "https://web.archive.org/web/20170427055625/http://catalog.odu.edu/courses/mdts/"
+      },
+      {
+        "datetime": "2017-06-08T07:07:30Z",
+        "uri": "https://web.archive.org/web/20170608070730/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2017-07-09T01:59:15Z",
+        "uri": "https://web.archive.org/web/20170709015915/http://catalog.odu.edu/courses/mdts/"
+      },
+      {
+        "datetime": "2017-08-08T13:40:09Z",
+        "uri": "https://web.archive.org/web/20170808134009/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2017-10-08T18:55:17Z",
+        "uri": "https://web.archive.org/web/20171008185517/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2017-12-09T00:10:42Z",
+        "uri": "https://web.archive.org/web/20171209001042/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2018-02-07T18:45:03Z",
+        "uri": "https://web.archive.org/web/20180207184503/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2018-04-09T20:16:17Z",
+        "uri": "https://web.archive.org/web/20180409201617/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2018-06-10T06:26:42Z",
+        "uri": "https://web.archive.org/web/20180610062642/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2018-08-10T07:50:18Z",
+        "uri": "https://web.archive.org/web/20180810075018/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2018-10-10T04:07:20Z",
+        "uri": "https://web.archive.org/web/20181010040720/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2018-10-11T04:22:37Z",
+        "uri": "https://web.archive.org/web/20181011042237/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2018-12-11T10:31:07Z",
+        "uri": "https://web.archive.org/web/20181211103107/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2019-02-11T09:40:30Z",
+        "uri": "https://web.archive.org/web/20190211094030/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2019-04-13T00:22:02Z",
+        "uri": "https://web.archive.org/web/20190413002202/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2019-06-12T16:36:54Z",
+        "uri": "https://web.archive.org/web/20190612163654/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2019-08-13T05:21:31Z",
+        "uri": "https://web.archive.org/web/20190813052131/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2019-10-09T05:27:29Z",
+        "uri": "https://web.archive.org/web/20191009052729/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2019-12-08T12:34:58Z",
+        "uri": "https://web.archive.org/web/20191208123458/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2020-02-06T16:38:53Z",
+        "uri": "https://web.archive.org/web/20200206163853/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2020-03-02T06:06:11Z",
+        "uri": "https://web.archive.org/web/20200302060611/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2020-05-01T08:52:12Z",
+        "uri": "https://web.archive.org/web/20200501085212/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2020-06-30T15:10:55Z",
+        "uri": "https://web.archive.org/web/20200630151055/http://catalog.odu.edu:80/courses/mdts/"
+      },
+      {
+        "datetime": "2021-01-22T22:14:16Z",
+        "uri": "https://web.archive.org/web/20210122221416/https://catalog.odu.edu/courses/mdts/"
+      },
+      {
+        "datetime": "2021-04-12T20:22:36Z",
+        "uri": "https://web.archive.org/web/20210412202236/http://catalog.odu.edu/courses/mdts/"
+      },
+      {
+        "datetime": "2021-11-03T21:59:18Z",
+        "uri": "https://web.archive.org/web/20211103215918/https://catalog.odu.edu/courses/mdts/"
+      },
+      {
+        "datetime": "2021-11-07T17:08:02Z",
+        "uri": "https://web.archive.org/web/20211107170802/https://catalog.odu.edu/courses/mdts/"
+      },
+      {
+        "datetime": "2021-11-07T17:10:10Z",
+        "uri": "https://web.archive.org/web/20211107171010/https://catalog.odu.edu/courses/mdts/"
+      },
+      {
+        "datetime": "2022-03-19T20:31:20Z",
+        "uri": "https://web.archive.org/web/20220319203120/https://catalog.odu.edu/courses/mdts/"
+      },
+      {
+        "datetime": "2023-12-17T01:36:36Z",
+        "uri": "https://web.archive.org/web/20231217013636/https://catalog.odu.edu/courses/mdts/"
+      },
+      {
+        "datetime": "2024-07-17T10:12:03Z",
+        "uri": "https://web.archive.org/web/20240717101203/https://catalog.odu.edu/courses/mdts/"
+      },
+      {
+        "datetime": "2024-10-13T06:39:12Z",
+        "uri": "https://web.archive.org/web/20241013063912/https://catalog.odu.edu/courses/mdts/"
+      }
+    ],
+    "first": {
+      "datetime": "2014-06-20T15:26:44Z",
+      "uri": "https://web.archive.org/web/20140620152644/http://catalog.odu.edu:80/courses/mdts/"
+    },
+    "last": {
+      "datetime": "2024-10-13T06:39:12Z",
+      "uri": "https://web.archive.org/web/20241013063912/https://catalog.odu.edu/courses/mdts/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/mdts/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/mdts/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/mdts/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/mdts/"
+}

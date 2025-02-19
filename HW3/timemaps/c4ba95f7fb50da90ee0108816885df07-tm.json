@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/at/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/at/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-10-23T01:26:31Z",
+        "uri": "https://arquivo.pt/wayback/20211023012631mp_/http://catalog.odu.edu/courses/at/"
+      },
+      {
+        "datetime": "2021-10-23T01:26:35Z",
+        "uri": "https://arquivo.pt/wayback/20211023012635mp_/https://catalog.odu.edu/courses/at/"
+      }
+    ],
+    "first": {
+      "datetime": "2021-10-23T01:26:31Z",
+      "uri": "https://arquivo.pt/wayback/20211023012631mp_/http://catalog.odu.edu/courses/at/"
+    },
+    "last": {
+      "datetime": "2021-10-23T01:26:35Z",
+      "uri": "https://arquivo.pt/wayback/20211023012635mp_/https://catalog.odu.edu/courses/at/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/at/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/at/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/at/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/at/"
+}

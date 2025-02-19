@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/arts-letters/womens-studies/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/arts-letters/womens-studies/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T03:05:07Z",
+        "uri": "https://web.archive.org/web/20230927030507/https://catalog.odu.edu/graduate/arts-letters/womens-studies/"
+      },
+      {
+        "datetime": "2023-10-01T02:01:10Z",
+        "uri": "https://web.archive.org/web/20231001020110/https://catalog.odu.edu/graduate/arts-letters/womens-studies/"
+      },
+      {
+        "datetime": "2023-12-09T23:03:57Z",
+        "uri": "https://web.archive.org/web/20231209230357/https://catalog.odu.edu/graduate/arts-letters/womens-studies/"
+      },
+      {
+        "datetime": "2023-12-09T23:04:06Z",
+        "uri": "https://web.archive.org/web/20231209230406/http://catalog.odu.edu/graduate/arts-letters/womens-studies/"
+      },
+      {
+        "datetime": "2024-02-29T16:06:23Z",
+        "uri": "https://web.archive.org/web/20240229160623/https://catalog.odu.edu/graduate/arts-letters/womens-studies/"
+      },
+      {
+        "datetime": "2024-03-04T06:12:53Z",
+        "uri": "https://web.archive.org/web/20240304061253/https://catalog.odu.edu/graduate/arts-letters/womens-studies/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T03:05:07Z",
+      "uri": "https://web.archive.org/web/20230927030507/https://catalog.odu.edu/graduate/arts-letters/womens-studies/"
+    },
+    "last": {
+      "datetime": "2024-03-04T06:12:53Z",
+      "uri": "https://web.archive.org/web/20240304061253/https://catalog.odu.edu/graduate/arts-letters/womens-studies/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/arts-letters/womens-studies/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/arts-letters/womens-studies/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/arts-letters/womens-studies/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/arts-letters/womens-studies/"
+}

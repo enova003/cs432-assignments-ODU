@@ -1,0 +1,62 @@
+{
+  "original_uri": "https://www.odu.edu/research/research-centers",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/research/research-centers",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-09-21T17:18:22Z",
+        "uri": "https://web.archive.org/web/20240921171822/https://www.odu.edu/research/research-centers"
+      },
+      {
+        "datetime": "2024-10-02T21:29:25Z",
+        "uri": "https://web.archive.org/web/20241002212925/https://www.odu.edu/research/research-centers"
+      },
+      {
+        "datetime": "2024-10-06T11:03:05Z",
+        "uri": "https://web.archive.org/web/20241006110305/https://www.odu.edu/research/research-centers"
+      },
+      {
+        "datetime": "2024-10-07T10:50:08Z",
+        "uri": "https://web.archive.org/web/20241007105008/https://www.odu.edu/research/research-centers"
+      },
+      {
+        "datetime": "2024-11-10T09:28:15Z",
+        "uri": "https://web.archive.org/web/20241110092815/https://www.odu.edu/research/research-centers"
+      },
+      {
+        "datetime": "2024-11-19T05:54:03Z",
+        "uri": "https://web.archive.org/web/20241119055403/https://www.odu.edu/research/research-centers"
+      },
+      {
+        "datetime": "2024-12-10T21:46:54Z",
+        "uri": "https://web.archive.org/web/20241210214654/https://www.odu.edu/research/research-centers"
+      },
+      {
+        "datetime": "2024-12-18T11:50:58Z",
+        "uri": "https://web.archive.org/web/20241218115058/https://www.odu.edu/research/research-centers"
+      },
+      {
+        "datetime": "2024-12-19T03:35:22Z",
+        "uri": "https://web.archive.org/web/20241219033522/https://www.odu.edu/research/research-centers"
+      },
+      {
+        "datetime": "2025-02-14T10:00:46Z",
+        "uri": "https://web.archive.org/web/20250214100046/https://www.odu.edu/research/research-centers"
+      }
+    ],
+    "first": {
+      "datetime": "2024-09-21T17:18:22Z",
+      "uri": "https://web.archive.org/web/20240921171822/https://www.odu.edu/research/research-centers"
+    },
+    "last": {
+      "datetime": "2025-02-14T10:00:46Z",
+      "uri": "https://web.archive.org/web/20250214100046/https://www.odu.edu/research/research-centers"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/research/research-centers",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/research/research-centers",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/research/research-centers"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/research/research-centers"
+}

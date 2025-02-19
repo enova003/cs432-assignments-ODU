@@ -1,0 +1,866 @@
+{
+  "original_uri": "https://www.odu.edu/life/culture/arts",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/life/culture/arts",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2013-08-16T20:27:27Z",
+        "uri": "https://web.archive.org/web/20130816202727/http://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2013-08-27T15:57:33Z",
+        "uri": "https://web.archive.org/web/20130827155733/http://www.odu.edu:80/life/culture/arts"
+      },
+      {
+        "datetime": "2013-11-01T23:15:50Z",
+        "uri": "https://web.archive.org/web/20131101231550/http://www.odu.edu:80/life/culture/arts"
+      },
+      {
+        "datetime": "2014-03-26T08:49:26Z",
+        "uri": "https://web.archive.org/web/20140326084926/http://www.odu.edu:80/life/culture/arts"
+      },
+      {
+        "datetime": "2014-03-28T09:37:35Z",
+        "uri": "https://web.archive.org/web/20140328093735/http://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2014-05-25T23:30:31Z",
+        "uri": "https://web.archive.org/web/20140525233031/http://odu.edu:80/life/culture/arts"
+      },
+      {
+        "datetime": "2014-06-29T19:16:31Z",
+        "uri": "https://web.archive.org/web/20140629191631/http://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2016-02-05T09:11:24Z",
+        "uri": "https://web.archive.org/web/20160205091124/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2016-07-30T01:20:49Z",
+        "uri": "https://web.archive.org/web/20160730012049/http://www.odu.edu:80/life/culture/arts"
+      },
+      {
+        "datetime": "2016-08-30T05:24:38Z",
+        "uri": "https://web.archive.org/web/20160830052438/http://www.odu.edu:80/life/culture/arts"
+      },
+      {
+        "datetime": "2016-09-29T23:20:21Z",
+        "uri": "https://web.archive.org/web/20160929232021/http://www.odu.edu:80/life/culture/arts"
+      },
+      {
+        "datetime": "2016-10-31T13:15:08Z",
+        "uri": "https://web.archive.org/web/20161031131508/http://www.odu.edu:80/life/culture/arts"
+      },
+      {
+        "datetime": "2017-03-09T13:15:27Z",
+        "uri": "https://web.archive.org/web/20170309131527/http://odu.edu:80/life/culture/arts"
+      },
+      {
+        "datetime": "2017-06-05T23:20:48Z",
+        "uri": "https://web.archive.org/web/20170605232048/http://www.odu.edu:80/life/culture/arts"
+      },
+      {
+        "datetime": "2017-06-22T10:11:23Z",
+        "uri": "https://web.archive.org/web/20170622101123/http://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2017-07-23T15:21:37Z",
+        "uri": "https://web.archive.org/web/20170723152137/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2017-09-03T20:51:38Z",
+        "uri": "https://web.archive.org/web/20170903205138/http://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2017-09-07T21:38:44Z",
+        "uri": "https://web.archive.org/web/20170907213844/http://www.odu.edu:80/life/culture/arts"
+      },
+      {
+        "datetime": "2017-10-26T06:13:16Z",
+        "uri": "https://web.archive.org/web/20171026061316/http://odu.edu:80/life/culture/arts"
+      },
+      {
+        "datetime": "2017-11-11T04:17:23Z",
+        "uri": "https://web.archive.org/web/20171111041723/http://www.odu.edu:80/life/culture/arts"
+      },
+      {
+        "datetime": "2017-11-26T05:36:12Z",
+        "uri": "https://web.archive.org/web/20171126053612/http://odu.edu:80/life/culture/arts"
+      },
+      {
+        "datetime": "2018-01-11T13:10:04Z",
+        "uri": "https://web.archive.org/web/20180111131004/http://www.odu.edu:80/life/culture/arts"
+      },
+      {
+        "datetime": "2018-03-19T19:52:11Z",
+        "uri": "https://web.archive.org/web/20180319195211/http://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2018-04-03T08:50:59Z",
+        "uri": "https://web.archive.org/web/20180403085059/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2018-05-06T17:23:57Z",
+        "uri": "https://web.archive.org/web/20180506172357/http://www.odu.edu:80/life/culture/arts"
+      },
+      {
+        "datetime": "2018-07-07T05:03:26Z",
+        "uri": "https://web.archive.org/web/20180707050326/http://www.odu.edu:80/life/culture/arts"
+      },
+      {
+        "datetime": "2019-04-17T04:00:30Z",
+        "uri": "https://web.archive.org/web/20190417040030/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2019-09-25T21:09:37Z",
+        "uri": "https://web.archive.org/web/20190925210937/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2019-10-07T21:11:50Z",
+        "uri": "https://web.archive.org/web/20191007211150/http://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2019-10-07T21:11:52Z",
+        "uri": "https://web.archive.org/web/20191007211152/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2020-07-31T20:45:43Z",
+        "uri": "https://web.archive.org/web/20200731204543/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2020-07-31T20:49:36Z",
+        "uri": "https://web.archive.org/web/20200731204936/http://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2020-11-01T02:33:29Z",
+        "uri": "https://web.archive.org/web/20201101023329/http://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2020-11-01T02:33:30Z",
+        "uri": "https://web.archive.org/web/20201101023330/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2021-01-12T20:52:26Z",
+        "uri": "https://web.archive.org/web/20210112205226/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2021-01-12T20:52:26Z",
+        "uri": "https://web.archive.org/web/20210112205226/http://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2021-04-09T23:30:03Z",
+        "uri": "https://web.archive.org/web/20210409233003/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2021-04-13T17:34:28Z",
+        "uri": "https://web.archive.org/web/20210413173428/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2021-04-14T06:04:47Z",
+        "uri": "https://web.archive.org/web/20210414060447/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2021-04-25T18:21:45Z",
+        "uri": "https://web.archive.org/web/20210425182145/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2021-04-30T20:12:59Z",
+        "uri": "https://web.archive.org/web/20210430201259/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2021-05-20T23:23:55Z",
+        "uri": "https://web.archive.org/web/20210520232355/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2021-05-26T20:11:32Z",
+        "uri": "https://wayback.archive-it.org/all/20210526201132/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2021-05-26T20:11:32Z",
+        "uri": "https://web.archive.org/web/20210526201132/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2021-05-26T20:11:53Z",
+        "uri": "https://wayback.archive-it.org/all/20210526201153/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2021-05-26T20:11:53Z",
+        "uri": "https://web.archive.org/web/20210526201153/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2021-05-26T20:12:02Z",
+        "uri": "https://wayback.archive-it.org/all/20210526201202/http://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2021-05-26T20:12:02Z",
+        "uri": "https://web.archive.org/web/20210526201202/http://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2021-05-28T22:25:48Z",
+        "uri": "https://wayback.archive-it.org/all/20210528222548/http://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2021-05-28T22:25:48Z",
+        "uri": "https://web.archive.org/web/20210528222548/http://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2021-06-02T01:58:57Z",
+        "uri": "https://web.archive.org/web/20210602015857/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2021-08-11T19:22:53Z",
+        "uri": "https://web.archive.org/web/20210811192253/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2021-08-12T11:06:09Z",
+        "uri": "https://web.archive.org/web/20210812110609/http://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2021-08-13T02:01:12Z",
+        "uri": "https://web.archive.org/web/20210813020112/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2021-09-10T15:39:41Z",
+        "uri": "https://arquivo.pt/wayback/20210910153941mp_/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2021-10-20T02:56:41Z",
+        "uri": "https://web.archive.org/web/20211020025641/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2021-11-03T11:21:49Z",
+        "uri": "https://arquivo.pt/wayback/20211103112149mp_/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2021-11-03T11:21:49Z",
+        "uri": "https://web.archive.org/web/20211103112149/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2021-11-03T11:21:53Z",
+        "uri": "https://arquivo.pt/wayback/20211103112153mp_/http://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2021-11-03T11:21:53Z",
+        "uri": "https://web.archive.org/web/20211103112153/http://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2021-11-15T04:21:43Z",
+        "uri": "https://web.archive.org/web/20211115042143/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2021-11-23T23:40:59Z",
+        "uri": "https://web.archive.org/web/20211123234059/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2021-12-26T10:12:44Z",
+        "uri": "https://web.archive.org/web/20211226101244/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-01-07T22:46:54Z",
+        "uri": "https://web.archive.org/web/20220107224654/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-01-08T16:39:48Z",
+        "uri": "https://web.archive.org/web/20220108163948/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-01-10T17:04:09Z",
+        "uri": "https://web.archive.org/web/20220110170409/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-01-11T20:15:09Z",
+        "uri": "https://web.archive.org/web/20220111201509/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-01-12T16:57:34Z",
+        "uri": "https://web.archive.org/web/20220112165734/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-01-12T21:56:47Z",
+        "uri": "https://web.archive.org/web/20220112215647/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-01-13T01:02:06Z",
+        "uri": "https://web.archive.org/web/20220113010206/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-01-13T19:32:04Z",
+        "uri": "https://web.archive.org/web/20220113193204/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-01-16T23:36:00Z",
+        "uri": "https://web.archive.org/web/20220116233600/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-01-17T07:07:22Z",
+        "uri": "https://web.archive.org/web/20220117070722/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-01-21T21:46:24Z",
+        "uri": "https://web.archive.org/web/20220121214624/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-01-22T10:47:57Z",
+        "uri": "https://arquivo.pt/wayback/20220122104757mp_/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-01-24T20:28:12Z",
+        "uri": "https://web.archive.org/web/20220124202812/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-01-26T02:01:07Z",
+        "uri": "https://web.archive.org/web/20220126020107/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-01-26T05:39:05Z",
+        "uri": "https://arquivo.pt/wayback/20220126053905mp_/http://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-01-31T22:15:15Z",
+        "uri": "https://web.archive.org/web/20220131221515/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-02-01T22:30:14Z",
+        "uri": "https://web.archive.org/web/20220201223014/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-02-03T18:59:40Z",
+        "uri": "https://web.archive.org/web/20220203185940/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-02-17T23:58:14Z",
+        "uri": "https://web.archive.org/web/20220217235814/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-03-19T22:27:19Z",
+        "uri": "https://web.archive.org/web/20220319222719/http://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-03-19T22:27:20Z",
+        "uri": "https://web.archive.org/web/20220319222720/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-04-07T09:44:44Z",
+        "uri": "https://web.archive.org/web/20220407094444/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-04-17T05:56:58Z",
+        "uri": "https://arquivo.pt/wayback/20220417055658mp_/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-04-19T12:56:29Z",
+        "uri": "https://web.archive.org/web/20220419125629/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-04-22T17:22:02Z",
+        "uri": "https://arquivo.pt/wayback/20220422172202mp_/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-04-22T17:22:06Z",
+        "uri": "https://arquivo.pt/wayback/20220422172206mp_/http://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-04-24T18:55:32Z",
+        "uri": "https://arquivo.pt/wayback/20220424185532mp_/http://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-05-14T05:09:40Z",
+        "uri": "https://web.archive.org/web/20220514050940/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-05-19T17:55:29Z",
+        "uri": "https://web.archive.org/web/20220519175529/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-05-25T09:18:05Z",
+        "uri": "https://web.archive.org/web/20220525091805/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-06-15T05:39:15Z",
+        "uri": "https://web.archive.org/web/20220615053915/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-06-18T23:25:35Z",
+        "uri": "https://web.archive.org/web/20220618232535/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-06-18T23:30:27Z",
+        "uri": "https://web.archive.org/web/20220618233027/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-06-19T02:19:24Z",
+        "uri": "https://web.archive.org/web/20220619021924/http://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-06-19T02:53:03Z",
+        "uri": "https://web.archive.org/web/20220619025303/http://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-06-19T11:22:06Z",
+        "uri": "https://web.archive.org/web/20220619112206/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-06-19T11:25:33Z",
+        "uri": "https://web.archive.org/web/20220619112533/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-06-19T23:24:29Z",
+        "uri": "https://web.archive.org/web/20220619232429/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-06-19T23:26:48Z",
+        "uri": "https://web.archive.org/web/20220619232648/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-06-26T20:13:55Z",
+        "uri": "https://web.archive.org/web/20220626201355/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-07-12T13:36:58Z",
+        "uri": "https://web.archive.org/web/20220712133658/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-07-30T15:05:07Z",
+        "uri": "https://arquivo.pt/wayback/20220730150507mp_/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-08-02T18:51:21Z",
+        "uri": "https://web.archive.org/web/20220802185121/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-08-02T23:40:09Z",
+        "uri": "https://web.archive.org/web/20220802234009/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-08-03T00:49:32Z",
+        "uri": "https://web.archive.org/web/20220803004932/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-08-04T01:18:11Z",
+        "uri": "https://web.archive.org/web/20220804011811/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-08-04T22:43:16Z",
+        "uri": "https://web.archive.org/web/20220804224316/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-08-08T01:02:59Z",
+        "uri": "https://web.archive.org/web/20220808010259/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-08-08T12:23:41Z",
+        "uri": "https://web.archive.org/web/20220808122341/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-08-08T18:53:32Z",
+        "uri": "https://web.archive.org/web/20220808185332/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-08-08T19:30:46Z",
+        "uri": "https://web.archive.org/web/20220808193046/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-08-10T18:01:20Z",
+        "uri": "https://web.archive.org/web/20220810180120/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-08-10T20:23:54Z",
+        "uri": "https://wayback.archive-it.org/all/20220810202354/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-08-10T20:23:54Z",
+        "uri": "https://web.archive.org/web/20220810202354/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-08-10T20:24:12Z",
+        "uri": "https://wayback.archive-it.org/all/20220810202412/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-08-10T20:24:12Z",
+        "uri": "https://web.archive.org/web/20220810202412/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-08-10T20:24:30Z",
+        "uri": "https://wayback.archive-it.org/all/20220810202430/http://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-08-10T20:24:30Z",
+        "uri": "https://web.archive.org/web/20220810202430/http://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-08-12T08:12:01Z",
+        "uri": "https://web.archive.org/web/20220812081201/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-08-13T05:57:48Z",
+        "uri": "https://wayback.archive-it.org/all/20220813055748/http://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-08-13T05:57:48Z",
+        "uri": "https://web.archive.org/web/20220813055748/http://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-08-13T20:30:14Z",
+        "uri": "https://web.archive.org/web/20220813203014/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-08-14T19:34:14Z",
+        "uri": "https://web.archive.org/web/20220814193414/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-08-14T23:37:05Z",
+        "uri": "https://web.archive.org/web/20220814233705/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-09-19T13:56:10Z",
+        "uri": "https://web.archive.org/web/20220919135610/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-09-22T09:48:33Z",
+        "uri": "https://web.archive.org/web/20220922094833/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-09-23T05:43:27Z",
+        "uri": "https://web.archive.org/web/20220923054327/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-09-30T18:39:57Z",
+        "uri": "https://web.archive.org/web/20220930183957/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-10-02T09:03:01Z",
+        "uri": "https://web.archive.org/web/20221002090301/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-10-11T02:38:36Z",
+        "uri": "https://arquivo.pt/wayback/20221011023836mp_/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-10-13T14:35:25Z",
+        "uri": "https://web.archive.org/web/20221013143525/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-11-07T06:38:52Z",
+        "uri": "https://wayback.archive-it.org/all/20221107063852/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-11-07T06:38:52Z",
+        "uri": "https://web.archive.org/web/20221107063852/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-11-08T04:28:42Z",
+        "uri": "https://wayback.archive-it.org/all/20221108042842/http://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-11-08T04:28:42Z",
+        "uri": "https://web.archive.org/web/20221108042842/http://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-11-30T19:12:59Z",
+        "uri": "https://web.archive.org/web/20221130191259/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-11-30T19:12:59Z",
+        "uri": "https://web.archive.org/web/20221130191259/http://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-11-30T19:13:13Z",
+        "uri": "https://web.archive.org/web/20221130191313/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-12-06T20:40:19Z",
+        "uri": "https://web.archive.org/web/20221206204019/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-12-07T14:19:59Z",
+        "uri": "https://wayback.archive-it.org/all/20221207141959/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-12-07T14:19:59Z",
+        "uri": "https://web.archive.org/web/20221207141959/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-12-08T06:50:21Z",
+        "uri": "https://web.archive.org/web/20221208065021/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-12-11T08:35:17Z",
+        "uri": "https://wayback.archive-it.org/all/20221211083517/http://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2022-12-11T08:35:17Z",
+        "uri": "https://web.archive.org/web/20221211083517/http://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2023-01-07T14:14:08Z",
+        "uri": "https://wayback.archive-it.org/all/20230107141408/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2023-01-07T14:14:08Z",
+        "uri": "https://web.archive.org/web/20230107141408/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2023-01-12T01:12:51Z",
+        "uri": "https://wayback.archive-it.org/all/20230112011251/http://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2023-01-12T01:12:51Z",
+        "uri": "https://web.archive.org/web/20230112011251/http://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2023-01-24T20:46:20Z",
+        "uri": "https://arquivo.pt/wayback/20230124204620mp_/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2023-02-05T10:15:55Z",
+        "uri": "https://web.archive.org/web/20230205101555/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2023-02-05T20:30:27Z",
+        "uri": "https://web.archive.org/web/20230205203027/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2023-02-07T12:57:10Z",
+        "uri": "https://wayback.archive-it.org/all/20230207125710/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2023-02-07T12:57:10Z",
+        "uri": "https://web.archive.org/web/20230207125710/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2023-02-11T08:14:16Z",
+        "uri": "https://wayback.archive-it.org/all/20230211081416/http://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2023-02-11T08:14:16Z",
+        "uri": "https://web.archive.org/web/20230211081416/http://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2023-02-20T01:10:48Z",
+        "uri": "https://web.archive.org/web/20230220011048/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2023-03-07T05:09:25Z",
+        "uri": "https://wayback.archive-it.org/all/20230307050925/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2023-03-07T05:09:25Z",
+        "uri": "https://web.archive.org/web/20230307050925/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2023-03-07T22:41:06Z",
+        "uri": "https://wayback.archive-it.org/all/20230307224106/http://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2023-03-07T22:41:06Z",
+        "uri": "https://web.archive.org/web/20230307224106/http://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2023-03-24T10:00:21Z",
+        "uri": "https://web.archive.org/web/20230324100021/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2023-03-27T15:22:03Z",
+        "uri": "https://web.archive.org/web/20230327152203/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2023-03-27T22:37:03Z",
+        "uri": "https://web.archive.org/web/20230327223703/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2023-03-29T22:42:38Z",
+        "uri": "https://web.archive.org/web/20230329224238/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2023-04-02T11:08:47Z",
+        "uri": "https://web.archive.org/web/20230402110847/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2023-06-09T21:20:08Z",
+        "uri": "https://web.archive.org/web/20230609212008/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2023-08-25T19:10:45Z",
+        "uri": "https://wayback.archive-it.org/all/20230825191045/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2023-08-25T19:10:45Z",
+        "uri": "https://web.archive.org/web/20230825191045/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2023-08-26T22:29:37Z",
+        "uri": "https://wayback.archive-it.org/all/20230826222937/http://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2023-08-26T22:29:37Z",
+        "uri": "https://web.archive.org/web/20230826222937/http://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2023-08-30T00:53:35Z",
+        "uri": "https://wayback.archive-it.org/all/20230830005335/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2023-08-30T00:53:35Z",
+        "uri": "https://web.archive.org/web/20230830005335/https://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2023-08-30T14:42:47Z",
+        "uri": "https://wayback.archive-it.org/all/20230830144247/http://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2023-08-30T14:42:47Z",
+        "uri": "https://web.archive.org/web/20230830144247/http://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2023-11-29T17:59:52Z",
+        "uri": "https://web.archive.org/web/20231129175952/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2023-12-05T11:55:52Z",
+        "uri": "https://web.archive.org/web/20231205115552/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2024-02-21T20:13:54Z",
+        "uri": "https://web.archive.org/web/20240221201354/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2024-02-28T21:32:56Z",
+        "uri": "https://web.archive.org/web/20240228213256/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2024-02-28T23:38:36Z",
+        "uri": "https://web.archive.org/web/20240228233836/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2024-03-02T13:21:18Z",
+        "uri": "https://web.archive.org/web/20240302132118/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2024-04-04T07:27:08Z",
+        "uri": "https://web.archive.org/web/20240404072708/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2024-04-17T03:30:53Z",
+        "uri": "https://web.archive.org/web/20240417033053/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2024-04-27T16:09:08Z",
+        "uri": "https://web.archive.org/web/20240427160908/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2024-05-23T23:33:17Z",
+        "uri": "https://wayback.archive-it.org/all/20240523233317/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2024-05-25T15:33:49Z",
+        "uri": "https://web.archive.org/web/20240525153349/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2024-05-26T21:15:30Z",
+        "uri": "https://wayback.archive-it.org/all/20240526211530/http://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2024-05-28T07:23:16Z",
+        "uri": "https://web.archive.org/web/20240528072316/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2024-06-18T17:38:06Z",
+        "uri": "https://web.archive.org/web/20240618173806/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2024-06-24T15:29:01Z",
+        "uri": "https://web.archive.org/web/20240624152901/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2024-06-30T13:34:37Z",
+        "uri": "https://web.archive.org/web/20240630133437/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2024-07-15T23:30:26Z",
+        "uri": "https://web.archive.org/web/20240715233026/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2024-07-20T06:19:36Z",
+        "uri": "https://web.archive.org/web/20240720061936/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2024-07-24T10:08:58Z",
+        "uri": "https://web.archive.org/web/20240724100858/http://odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2024-07-28T12:53:11Z",
+        "uri": "https://web.archive.org/web/20240728125311/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2024-08-14T23:03:55Z",
+        "uri": "https://web.archive.org/web/20240814230355/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2024-09-12T08:54:27Z",
+        "uri": "https://web.archive.org/web/20240912085427/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2024-09-13T18:43:18Z",
+        "uri": "https://web.archive.org/web/20240913184318/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2024-09-17T21:10:05Z",
+        "uri": "https://web.archive.org/web/20240917211005/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2024-10-07T10:39:09Z",
+        "uri": "https://web.archive.org/web/20241007103909/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2024-10-10T20:07:36Z",
+        "uri": "https://web.archive.org/web/20241010200736/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2024-11-04T01:29:58Z",
+        "uri": "https://web.archive.org/web/20241104012958/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2024-11-22T14:33:12Z",
+        "uri": "https://web.archive.org/web/20241122143312/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2024-12-11T12:38:07Z",
+        "uri": "https://web.archive.org/web/20241211123807/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2024-12-22T19:27:12Z",
+        "uri": "https://web.archive.org/web/20241222192712/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2024-12-24T17:56:02Z",
+        "uri": "https://web.archive.org/web/20241224175602/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2024-12-26T12:48:41Z",
+        "uri": "https://web.archive.org/web/20241226124841/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2025-01-16T15:16:20Z",
+        "uri": "https://web.archive.org/web/20250116151620/https://www.odu.edu/life/culture/arts"
+      },
+      {
+        "datetime": "2025-02-14T10:00:51Z",
+        "uri": "https://web.archive.org/web/20250214100051/https://www.odu.edu/life/culture/arts"
+      }
+    ],
+    "first": {
+      "datetime": "2013-08-16T20:27:27Z",
+      "uri": "https://web.archive.org/web/20130816202727/http://odu.edu/life/culture/arts"
+    },
+    "last": {
+      "datetime": "2025-02-14T10:00:51Z",
+      "uri": "https://web.archive.org/web/20250214100051/https://www.odu.edu/life/culture/arts"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/life/culture/arts",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/life/culture/arts",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/life/culture/arts"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/life/culture/arts"
+}

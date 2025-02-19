@@ -1,0 +1,42 @@
+{
+  "original_uri": "https://www.odu.edu/technology-services/canvas",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/technology-services/canvas",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-12-20T19:55:54Z",
+        "uri": "https://web.archive.org/web/20241220195554/https://www.odu.edu/technology-services/canvas"
+      },
+      {
+        "datetime": "2024-12-24T17:53:35Z",
+        "uri": "https://web.archive.org/web/20241224175335/https://www.odu.edu/technology-services/canvas"
+      },
+      {
+        "datetime": "2025-01-15T04:53:10Z",
+        "uri": "https://web.archive.org/web/20250115045310/https://www.odu.edu/technology-services/canvas"
+      },
+      {
+        "datetime": "2025-01-15T18:29:04Z",
+        "uri": "https://web.archive.org/web/20250115182904/https://www.odu.edu/technology-services/canvas"
+      },
+      {
+        "datetime": "2025-02-14T10:00:29Z",
+        "uri": "https://web.archive.org/web/20250214100029/https://www.odu.edu/technology-services/canvas"
+      }
+    ],
+    "first": {
+      "datetime": "2024-12-20T19:55:54Z",
+      "uri": "https://web.archive.org/web/20241220195554/https://www.odu.edu/technology-services/canvas"
+    },
+    "last": {
+      "datetime": "2025-02-14T10:00:29Z",
+      "uri": "https://web.archive.org/web/20250214100029/https://www.odu.edu/technology-services/canvas"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/technology-services/canvas",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/technology-services/canvas",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/technology-services/canvas"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/technology-services/canvas"
+}

@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://online.odu.edu/partners/academic-partnerships/list",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/partners/academic-partnerships/list",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-09-13T23:27:03Z",
+        "uri": "https://web.archive.org/web/20240913232703/https://online.odu.edu/partners/academic-partnerships/list"
+      },
+      {
+        "datetime": "2024-10-05T13:43:34Z",
+        "uri": "https://web.archive.org/web/20241005134334/https://online.odu.edu/partners/academic-partnerships/list"
+      },
+      {
+        "datetime": "2024-12-14T23:38:24Z",
+        "uri": "https://web.archive.org/web/20241214233824/https://online.odu.edu/partners/academic-partnerships/list"
+      },
+      {
+        "datetime": "2025-01-19T13:02:48Z",
+        "uri": "https://web.archive.org/web/20250119130248/https://online.odu.edu/partners/academic-partnerships/list"
+      }
+    ],
+    "first": {
+      "datetime": "2024-09-13T23:27:03Z",
+      "uri": "https://web.archive.org/web/20240913232703/https://online.odu.edu/partners/academic-partnerships/list"
+    },
+    "last": {
+      "datetime": "2025-01-19T13:02:48Z",
+      "uri": "https://web.archive.org/web/20250119130248/https://online.odu.edu/partners/academic-partnerships/list"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/partners/academic-partnerships/list",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/partners/academic-partnerships/list",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/partners/academic-partnerships/list"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/partners/academic-partnerships/list"
+}

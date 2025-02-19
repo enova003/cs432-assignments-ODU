@@ -1,0 +1,50 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/arts-letters/communication-theatre-arts/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/arts-letters/communication-theatre-arts/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-21T18:19:45Z",
+        "uri": "https://web.archive.org/web/20230921181945/https://catalog.odu.edu/undergraduate/arts-letters/communication-theatre-arts/"
+      },
+      {
+        "datetime": "2023-09-27T02:44:03Z",
+        "uri": "https://web.archive.org/web/20230927024403/https://catalog.odu.edu/undergraduate/arts-letters/communication-theatre-arts/"
+      },
+      {
+        "datetime": "2023-12-08T06:22:15Z",
+        "uri": "https://web.archive.org/web/20231208062215/https://catalog.odu.edu/undergraduate/arts-letters/communication-theatre-arts/"
+      },
+      {
+        "datetime": "2023-12-09T23:04:29Z",
+        "uri": "https://web.archive.org/web/20231209230429/http://catalog.odu.edu/undergraduate/arts-letters/communication-theatre-arts/"
+      },
+      {
+        "datetime": "2023-12-09T23:04:49Z",
+        "uri": "https://web.archive.org/web/20231209230449/https://catalog.odu.edu/undergraduate/arts-letters/communication-theatre-arts/"
+      },
+      {
+        "datetime": "2024-03-22T11:31:26Z",
+        "uri": "https://web.archive.org/web/20240322113126/https://catalog.odu.edu/undergraduate/arts-letters/communication-theatre-arts/"
+      },
+      {
+        "datetime": "2024-04-17T22:46:27Z",
+        "uri": "https://web.archive.org/web/20240417224627/https://catalog.odu.edu/undergraduate/arts-letters/communication-theatre-arts/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-21T18:19:45Z",
+      "uri": "https://web.archive.org/web/20230921181945/https://catalog.odu.edu/undergraduate/arts-letters/communication-theatre-arts/"
+    },
+    "last": {
+      "datetime": "2024-04-17T22:46:27Z",
+      "uri": "https://web.archive.org/web/20240417224627/https://catalog.odu.edu/undergraduate/arts-letters/communication-theatre-arts/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/arts-letters/communication-theatre-arts/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/arts-letters/communication-theatre-arts/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/arts-letters/communication-theatre-arts/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/arts-letters/communication-theatre-arts/"
+}

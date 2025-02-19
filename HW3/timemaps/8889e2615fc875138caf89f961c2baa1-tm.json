@@ -1,0 +1,62 @@
+{
+  "original_uri": "https://www.odu.edu/public-health/centers/global-health",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/public-health/centers/global-health",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-10-01T17:49:20Z",
+        "uri": "https://web.archive.org/web/20241001174920/https://www.odu.edu/public-health/centers/global-health"
+      },
+      {
+        "datetime": "2024-10-06T10:44:14Z",
+        "uri": "https://web.archive.org/web/20241006104414/https://www.odu.edu/public-health/centers/global-health"
+      },
+      {
+        "datetime": "2024-10-07T10:23:21Z",
+        "uri": "https://web.archive.org/web/20241007102321/https://www.odu.edu/public-health/centers/global-health"
+      },
+      {
+        "datetime": "2024-11-04T14:41:18Z",
+        "uri": "https://web.archive.org/web/20241104144118/https://www.odu.edu/public-health/centers/global-health"
+      },
+      {
+        "datetime": "2024-11-11T11:09:51Z",
+        "uri": "https://web.archive.org/web/20241111110951/https://www.odu.edu/public-health/centers/global-health"
+      },
+      {
+        "datetime": "2024-11-17T09:23:49Z",
+        "uri": "https://web.archive.org/web/20241117092349/https://www.odu.edu/public-health/centers/global-health"
+      },
+      {
+        "datetime": "2024-12-10T18:23:31Z",
+        "uri": "https://web.archive.org/web/20241210182331/https://www.odu.edu/public-health/centers/global-health"
+      },
+      {
+        "datetime": "2024-12-24T17:53:35Z",
+        "uri": "https://web.archive.org/web/20241224175335/https://www.odu.edu/public-health/centers/global-health"
+      },
+      {
+        "datetime": "2024-12-25T13:39:52Z",
+        "uri": "https://web.archive.org/web/20241225133952/https://www.odu.edu/public-health/centers/global-health"
+      },
+      {
+        "datetime": "2025-02-14T09:59:44Z",
+        "uri": "https://web.archive.org/web/20250214095944/https://www.odu.edu/public-health/centers/global-health"
+      }
+    ],
+    "first": {
+      "datetime": "2024-10-01T17:49:20Z",
+      "uri": "https://web.archive.org/web/20241001174920/https://www.odu.edu/public-health/centers/global-health"
+    },
+    "last": {
+      "datetime": "2025-02-14T09:59:44Z",
+      "uri": "https://web.archive.org/web/20250214095944/https://www.odu.edu/public-health/centers/global-health"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/public-health/centers/global-health",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/public-health/centers/global-health",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/public-health/centers/global-health"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/public-health/centers/global-health"
+}

@@ -1,0 +1,170 @@
+{
+  "original_uri": "https://give.odu.edu/",
+  "self": "http://localhost:1208/timemap/json/https://give.odu.edu/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-11-03T23:17:45Z",
+        "uri": "https://web.archive.org/web/20221103231745/https://give.odu.edu/"
+      },
+      {
+        "datetime": "2022-11-03T23:17:58Z",
+        "uri": "https://web.archive.org/web/20221103231758/http://give.odu.edu/"
+      },
+      {
+        "datetime": "2022-11-03T23:18:09Z",
+        "uri": "https://web.archive.org/web/20221103231809/https://give.odu.edu/"
+      },
+      {
+        "datetime": "2022-11-03T23:18:12Z",
+        "uri": "https://web.archive.org/web/20221103231812/https://give.odu.edu/"
+      },
+      {
+        "datetime": "2022-11-04T10:22:48Z",
+        "uri": "https://web.archive.org/web/20221104102248/http://give.odu.edu/"
+      },
+      {
+        "datetime": "2022-11-10T12:58:07Z",
+        "uri": "https://web.archive.org/web/20221110125807/http://give.odu.edu/"
+      },
+      {
+        "datetime": "2022-11-15T11:52:21Z",
+        "uri": "https://web.archive.org/web/20221115115221/https://give.odu.edu/"
+      },
+      {
+        "datetime": "2022-12-07T02:53:29Z",
+        "uri": "https://web.archive.org/web/20221207025329/https://give.odu.edu/"
+      },
+      {
+        "datetime": "2022-12-08T05:49:52Z",
+        "uri": "https://web.archive.org/web/20221208054952/https://give.odu.edu/"
+      },
+      {
+        "datetime": "2022-12-08T05:49:59Z",
+        "uri": "https://web.archive.org/web/20221208054959/https://give.odu.edu/"
+      },
+      {
+        "datetime": "2022-12-08T05:49:59Z",
+        "uri": "https://web.archive.org/web/20221208054959/http://give.odu.edu/"
+      },
+      {
+        "datetime": "2023-01-31T16:29:59Z",
+        "uri": "https://web.archive.org/web/20230131162959/https://give.odu.edu/"
+      },
+      {
+        "datetime": "2023-02-27T14:12:08Z",
+        "uri": "https://web.archive.org/web/20230227141208/https://give.odu.edu/"
+      },
+      {
+        "datetime": "2023-03-27T15:22:03Z",
+        "uri": "https://web.archive.org/web/20230327152203/https://give.odu.edu/"
+      },
+      {
+        "datetime": "2023-03-27T22:28:01Z",
+        "uri": "https://web.archive.org/web/20230327222801/https://give.odu.edu/"
+      },
+      {
+        "datetime": "2023-05-24T16:02:19Z",
+        "uri": "https://web.archive.org/web/20230524160219/http://give.odu.edu/"
+      },
+      {
+        "datetime": "2023-06-07T15:17:24Z",
+        "uri": "https://web.archive.org/web/20230607151724/https://give.odu.edu/"
+      },
+      {
+        "datetime": "2023-07-15T00:31:31Z",
+        "uri": "https://web.archive.org/web/20230715003131/http://give.odu.edu/"
+      },
+      {
+        "datetime": "2023-12-06T17:06:00Z",
+        "uri": "https://web.archive.org/web/20231206170600/https://give.odu.edu/"
+      },
+      {
+        "datetime": "2023-12-23T08:57:48Z",
+        "uri": "https://web.archive.org/web/20231223085748/https://give.odu.edu/"
+      },
+      {
+        "datetime": "2024-04-18T07:00:10Z",
+        "uri": "https://web.archive.org/web/20240418070010/https://give.odu.edu/"
+      },
+      {
+        "datetime": "2024-04-27T16:08:13Z",
+        "uri": "https://web.archive.org/web/20240427160813/https://give.odu.edu/"
+      },
+      {
+        "datetime": "2024-05-27T09:17:00Z",
+        "uri": "https://web.archive.org/web/20240527091700/https://give.odu.edu/"
+      },
+      {
+        "datetime": "2024-06-17T16:25:39Z",
+        "uri": "https://web.archive.org/web/20240617162539/https://give.odu.edu/"
+      },
+      {
+        "datetime": "2024-07-08T11:21:16Z",
+        "uri": "https://web.archive.org/web/20240708112116/https://give.odu.edu/"
+      },
+      {
+        "datetime": "2024-07-08T19:43:30Z",
+        "uri": "https://web.archive.org/web/20240708194330/https://give.odu.edu/"
+      },
+      {
+        "datetime": "2024-07-14T22:41:38Z",
+        "uri": "https://web.archive.org/web/20240714224138/https://give.odu.edu/"
+      },
+      {
+        "datetime": "2024-08-08T03:45:30Z",
+        "uri": "https://web.archive.org/web/20240808034530/https://give.odu.edu/"
+      },
+      {
+        "datetime": "2024-08-17T18:24:39Z",
+        "uri": "https://web.archive.org/web/20240817182439/https://give.odu.edu/"
+      },
+      {
+        "datetime": "2024-09-09T04:45:37Z",
+        "uri": "https://web.archive.org/web/20240909044537/https://give.odu.edu/"
+      },
+      {
+        "datetime": "2024-09-13T21:46:23Z",
+        "uri": "https://web.archive.org/web/20240913214623/https://give.odu.edu/"
+      },
+      {
+        "datetime": "2024-09-27T07:41:09Z",
+        "uri": "https://web.archive.org/web/20240927074109/https://give.odu.edu/"
+      },
+      {
+        "datetime": "2024-10-07T11:31:09Z",
+        "uri": "https://web.archive.org/web/20241007113109/https://give.odu.edu/"
+      },
+      {
+        "datetime": "2024-12-05T09:32:32Z",
+        "uri": "https://web.archive.org/web/20241205093232/https://give.odu.edu/"
+      },
+      {
+        "datetime": "2024-12-19T03:47:32Z",
+        "uri": "https://web.archive.org/web/20241219034732/https://give.odu.edu/"
+      },
+      {
+        "datetime": "2024-12-22T18:48:30Z",
+        "uri": "https://web.archive.org/web/20241222184830/https://give.odu.edu/"
+      },
+      {
+        "datetime": "2025-02-14T10:00:44Z",
+        "uri": "https://web.archive.org/web/20250214100044/https://give.odu.edu/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-11-03T23:17:45Z",
+      "uri": "https://web.archive.org/web/20221103231745/https://give.odu.edu/"
+    },
+    "last": {
+      "datetime": "2025-02-14T10:00:44Z",
+      "uri": "https://web.archive.org/web/20250214100044/https://give.odu.edu/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://give.odu.edu/",
+    "json_format": "http://localhost:1208/timemap/json/https://give.odu.edu/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://give.odu.edu/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://give.odu.edu/"
+}

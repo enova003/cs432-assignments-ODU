@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/physical-education-adapted-msed/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/physical-education-adapted-msed/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-07-31T23:59:34Z",
+        "uri": "https://web.archive.org/web/20240731235934/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/physical-education-adapted-msed/"
+      },
+      {
+        "datetime": "2024-08-01T00:39:36Z",
+        "uri": "https://web.archive.org/web/20240801003936/http://catalog.odu.edu/graduate/education/human-movement-studies-special-education/physical-education-adapted-msed/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-07-31T23:59:34Z",
+      "uri": "https://web.archive.org/web/20240731235934/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/physical-education-adapted-msed/"
+    },
+    "last": {
+      "datetime": "2024-08-01T00:39:36Z",
+      "uri": "https://web.archive.org/web/20240801003936/http://catalog.odu.edu/graduate/education/human-movement-studies-special-education/physical-education-adapted-msed/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/physical-education-adapted-msed/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/physical-education-adapted-msed/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/physical-education-adapted-msed/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/physical-education-adapted-msed/"
+}

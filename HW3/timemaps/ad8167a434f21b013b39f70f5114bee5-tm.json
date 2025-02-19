@@ -1,0 +1,42 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/graduateregistrationrequirementsandprocedures/linkedprograms/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/graduateregistrationrequirementsandprocedures/linkedprograms/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-12-04T18:55:13Z",
+        "uri": "https://web.archive.org/web/20231204185513/https://catalog.odu.edu/graduate/graduateregistrationrequirementsandprocedures/linkedprograms/"
+      },
+      {
+        "datetime": "2023-12-05T18:10:22Z",
+        "uri": "https://web.archive.org/web/20231205181022/https://catalog.odu.edu/graduate/graduateregistrationrequirementsandprocedures/linkedprograms/"
+      },
+      {
+        "datetime": "2024-02-28T21:41:40Z",
+        "uri": "https://web.archive.org/web/20240228214140/https://catalog.odu.edu/graduate/graduateregistrationrequirementsandprocedures/linkedprograms/"
+      },
+      {
+        "datetime": "2024-02-29T16:10:08Z",
+        "uri": "https://web.archive.org/web/20240229161008/https://catalog.odu.edu/graduate/graduateregistrationrequirementsandprocedures/linkedprograms/"
+      },
+      {
+        "datetime": "2024-09-12T10:59:19Z",
+        "uri": "https://web.archive.org/web/20240912105919/https://catalog.odu.edu/graduate/graduateregistrationrequirementsandprocedures/linkedprograms/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-12-04T18:55:13Z",
+      "uri": "https://web.archive.org/web/20231204185513/https://catalog.odu.edu/graduate/graduateregistrationrequirementsandprocedures/linkedprograms/"
+    },
+    "last": {
+      "datetime": "2024-09-12T10:59:19Z",
+      "uri": "https://web.archive.org/web/20240912105919/https://catalog.odu.edu/graduate/graduateregistrationrequirementsandprocedures/linkedprograms/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/graduateregistrationrequirementsandprocedures/linkedprograms/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/graduateregistrationrequirementsandprocedures/linkedprograms/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/graduateregistrationrequirementsandprocedures/linkedprograms/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/graduateregistrationrequirementsandprocedures/linkedprograms/"
+}

@@ -1,0 +1,326 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/bme/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/bme/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:24:55Z",
+        "uri": "https://web.archive.org/web/20120902042455/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2013-05-17T08:19:13Z",
+        "uri": "https://web.archive.org/web/20130517081913/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2014-04-21T22:20:01Z",
+        "uri": "https://web.archive.org/web/20140421222001/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2014-06-21T11:35:11Z",
+        "uri": "https://web.archive.org/web/20140621113511/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2014-08-21T00:25:51Z",
+        "uri": "https://web.archive.org/web/20140821002551/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2014-10-16T20:02:19Z",
+        "uri": "https://web.archive.org/web/20141016200219/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2014-10-16T20:02:19Z",
+        "uri": "https://web.archive.org/web/20141016200219/http://catalog.odu.edu:80/courses/bme"
+      },
+      {
+        "datetime": "2014-10-20T15:56:41Z",
+        "uri": "https://web.archive.org/web/20141020155641/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2014-12-20T10:19:14Z",
+        "uri": "https://web.archive.org/web/20141220101914/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2015-02-15T15:42:39Z",
+        "uri": "https://web.archive.org/web/20150215154239/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2015-04-17T03:03:33Z",
+        "uri": "https://web.archive.org/web/20150417030333/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2015-05-11T08:50:49Z",
+        "uri": "https://web.archive.org/web/20150511085049/http://catalog.odu.edu/courses/bme/"
+      },
+      {
+        "datetime": "2015-06-16T14:36:57Z",
+        "uri": "https://web.archive.org/web/20150616143657/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2015-07-03T07:44:20Z",
+        "uri": "https://web.archive.org/web/20150703074420/http://catalog.odu.edu/courses/bme/"
+      },
+      {
+        "datetime": "2015-08-16T00:45:37Z",
+        "uri": "https://web.archive.org/web/20150816004537/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2015-10-15T07:09:54Z",
+        "uri": "https://web.archive.org/web/20151015070954/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2015-12-19T17:30:23Z",
+        "uri": "https://web.archive.org/web/20151219173023/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2015-12-19T17:30:23Z",
+        "uri": "https://web.archive.org/web/20151219173023/http://catalog.odu.edu:80/courses/bme"
+      },
+      {
+        "datetime": "2016-01-19T07:32:01Z",
+        "uri": "https://web.archive.org/web/20160119073201/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2016-01-19T07:32:01Z",
+        "uri": "https://web.archive.org/web/20160119073201/http://catalog.odu.edu:80/courses/bme"
+      },
+      {
+        "datetime": "2016-02-12T23:58:22Z",
+        "uri": "https://web.archive.org/web/20160212235822/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2016-02-18T19:18:28Z",
+        "uri": "https://web.archive.org/web/20160218191828/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2016-02-18T19:18:28Z",
+        "uri": "https://web.archive.org/web/20160218191828/http://catalog.odu.edu:80/courses/bme"
+      },
+      {
+        "datetime": "2016-03-20T21:23:33Z",
+        "uri": "https://web.archive.org/web/20160320212333/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2016-03-20T21:23:33Z",
+        "uri": "https://web.archive.org/web/20160320212333/http://catalog.odu.edu:80/courses/bme"
+      },
+      {
+        "datetime": "2016-04-09T05:08:15Z",
+        "uri": "https://web.archive.org/web/20160409050815/http://catalog.odu.edu/courses/bme/"
+      },
+      {
+        "datetime": "2016-04-13T17:45:30Z",
+        "uri": "https://web.archive.org/web/20160413174530/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2016-06-13T10:58:37Z",
+        "uri": "https://web.archive.org/web/20160613105837/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2016-08-13T03:29:23Z",
+        "uri": "https://web.archive.org/web/20160813032923/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2016-10-13T00:07:50Z",
+        "uri": "https://web.archive.org/web/20161013000750/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2016-12-05T04:53:31Z",
+        "uri": "https://web.archive.org/web/20161205045331/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2017-04-08T17:57:14Z",
+        "uri": "https://web.archive.org/web/20170408175714/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2017-04-27T06:35:49Z",
+        "uri": "https://web.archive.org/web/20170427063549/http://catalog.odu.edu/courses/bme/"
+      },
+      {
+        "datetime": "2017-06-08T07:04:54Z",
+        "uri": "https://web.archive.org/web/20170608070454/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2017-07-09T02:33:53Z",
+        "uri": "https://web.archive.org/web/20170709023353/http://catalog.odu.edu/courses/bme/"
+      },
+      {
+        "datetime": "2017-08-08T13:39:04Z",
+        "uri": "https://web.archive.org/web/20170808133904/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2017-10-08T19:03:27Z",
+        "uri": "https://web.archive.org/web/20171008190327/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2017-12-09T00:20:41Z",
+        "uri": "https://web.archive.org/web/20171209002041/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2018-02-07T19:12:18Z",
+        "uri": "https://web.archive.org/web/20180207191218/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2018-04-09T20:13:40Z",
+        "uri": "https://web.archive.org/web/20180409201340/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2018-06-10T06:25:41Z",
+        "uri": "https://web.archive.org/web/20180610062541/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2018-08-10T07:41:43Z",
+        "uri": "https://web.archive.org/web/20180810074143/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2018-10-10T04:06:55Z",
+        "uri": "https://web.archive.org/web/20181010040655/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2018-10-11T04:27:13Z",
+        "uri": "https://web.archive.org/web/20181011042713/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2018-12-11T10:33:20Z",
+        "uri": "https://web.archive.org/web/20181211103320/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2019-02-11T09:38:35Z",
+        "uri": "https://web.archive.org/web/20190211093835/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2019-04-13T00:21:37Z",
+        "uri": "https://web.archive.org/web/20190413002137/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2019-04-28T01:49:04Z",
+        "uri": "https://web.archive.org/web/20190428014904/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2019-04-28T01:49:04Z",
+        "uri": "https://web.archive.org/web/20190428014904/http://catalog.odu.edu:80/courses/bme"
+      },
+      {
+        "datetime": "2019-05-29T00:22:34Z",
+        "uri": "https://web.archive.org/web/20190529002234/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2019-05-29T00:22:34Z",
+        "uri": "https://web.archive.org/web/20190529002234/http://catalog.odu.edu:80/courses/bme"
+      },
+      {
+        "datetime": "2019-06-28T22:20:30Z",
+        "uri": "https://web.archive.org/web/20190628222030/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2019-06-28T22:20:30Z",
+        "uri": "https://web.archive.org/web/20190628222030/http://catalog.odu.edu:80/courses/bme"
+      },
+      {
+        "datetime": "2019-07-30T13:45:44Z",
+        "uri": "https://web.archive.org/web/20190730134544/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2019-07-30T13:45:44Z",
+        "uri": "https://web.archive.org/web/20190730134544/http://catalog.odu.edu:80/courses/bme"
+      },
+      {
+        "datetime": "2019-08-13T03:42:44Z",
+        "uri": "https://web.archive.org/web/20190813034244/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2019-08-30T04:04:09Z",
+        "uri": "https://web.archive.org/web/20190830040409/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2019-08-30T04:04:09Z",
+        "uri": "https://web.archive.org/web/20190830040409/http://catalog.odu.edu:80/courses/bme"
+      },
+      {
+        "datetime": "2019-09-29T23:36:51Z",
+        "uri": "https://web.archive.org/web/20190929233651/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2019-09-29T23:36:51Z",
+        "uri": "https://web.archive.org/web/20190929233651/http://catalog.odu.edu:80/courses/bme"
+      },
+      {
+        "datetime": "2019-10-09T05:24:08Z",
+        "uri": "https://web.archive.org/web/20191009052408/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2019-10-28T16:56:03Z",
+        "uri": "https://web.archive.org/web/20191028165603/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2019-11-28T03:59:50Z",
+        "uri": "https://web.archive.org/web/20191128035950/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2019-12-28T10:24:24Z",
+        "uri": "https://web.archive.org/web/20191228102424/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2020-01-27T12:49:46Z",
+        "uri": "https://web.archive.org/web/20200127124946/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2020-03-02T06:02:55Z",
+        "uri": "https://web.archive.org/web/20200302060255/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2020-05-01T08:38:29Z",
+        "uri": "https://web.archive.org/web/20200501083829/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2020-06-30T12:13:32Z",
+        "uri": "https://web.archive.org/web/20200630121332/http://catalog.odu.edu:80/courses/bme/"
+      },
+      {
+        "datetime": "2021-01-24T08:22:52Z",
+        "uri": "https://web.archive.org/web/20210124082252/https://catalog.odu.edu/courses/bme/"
+      },
+      {
+        "datetime": "2021-04-12T20:22:32Z",
+        "uri": "https://web.archive.org/web/20210412202232/http://catalog.odu.edu/courses/bme/"
+      },
+      {
+        "datetime": "2021-11-18T01:37:47Z",
+        "uri": "https://web.archive.org/web/20211118013747/https://catalog.odu.edu/courses/bme/"
+      },
+      {
+        "datetime": "2022-03-19T20:05:43Z",
+        "uri": "https://web.archive.org/web/20220319200543/https://catalog.odu.edu/courses/bme/"
+      },
+      {
+        "datetime": "2022-12-09T00:19:14Z",
+        "uri": "https://web.archive.org/web/20221209001914/https://catalog.odu.edu/courses/bme/"
+      },
+      {
+        "datetime": "2024-02-29T16:12:13Z",
+        "uri": "https://web.archive.org/web/20240229161213/https://catalog.odu.edu/courses/bme/"
+      },
+      {
+        "datetime": "2024-07-19T20:02:58Z",
+        "uri": "https://web.archive.org/web/20240719200258/http://catalog.odu.edu/courses/bme/"
+      },
+      {
+        "datetime": "2024-09-12T05:03:43Z",
+        "uri": "https://web.archive.org/web/20240912050343/https://catalog.odu.edu/courses/bme/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:24:55Z",
+      "uri": "https://web.archive.org/web/20120902042455/http://catalog.odu.edu:80/courses/bme/"
+    },
+    "last": {
+      "datetime": "2024-09-12T05:03:43Z",
+      "uri": "https://web.archive.org/web/20240912050343/https://catalog.odu.edu/courses/bme/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/bme/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/bme/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/bme/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/bme/"
+}

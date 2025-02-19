@@ -1,0 +1,70 @@
+{
+  "original_uri": "https://www.odu.edu/homecoming-week",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/homecoming-week",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-12-07T05:13:05Z",
+        "uri": "https://web.archive.org/web/20231207051305/https://www.odu.edu/homecoming-week"
+      },
+      {
+        "datetime": "2024-07-14T18:02:16Z",
+        "uri": "https://web.archive.org/web/20240714180216/https://www.odu.edu/homecoming-week"
+      },
+      {
+        "datetime": "2024-09-14T14:20:19Z",
+        "uri": "https://web.archive.org/web/20240914142019/https://www.odu.edu/homecoming-week"
+      },
+      {
+        "datetime": "2024-09-17T11:17:11Z",
+        "uri": "https://web.archive.org/web/20240917111711/https://www.odu.edu/homecoming-week"
+      },
+      {
+        "datetime": "2024-10-07T10:23:21Z",
+        "uri": "https://web.archive.org/web/20241007102321/https://www.odu.edu/homecoming-week"
+      },
+      {
+        "datetime": "2024-11-03T01:17:53Z",
+        "uri": "https://web.archive.org/web/20241103011753/https://www.odu.edu/homecoming-week"
+      },
+      {
+        "datetime": "2024-11-25T04:21:44Z",
+        "uri": "https://web.archive.org/web/20241125042144/https://www.odu.edu/homecoming-week"
+      },
+      {
+        "datetime": "2024-12-12T05:25:08Z",
+        "uri": "https://web.archive.org/web/20241212052508/https://www.odu.edu/homecoming-week"
+      },
+      {
+        "datetime": "2024-12-19T07:01:42Z",
+        "uri": "https://web.archive.org/web/20241219070142/https://www.odu.edu/homecoming-week"
+      },
+      {
+        "datetime": "2024-12-22T19:53:48Z",
+        "uri": "https://web.archive.org/web/20241222195348/https://www.odu.edu/homecoming-week"
+      },
+      {
+        "datetime": "2024-12-24T17:54:05Z",
+        "uri": "https://web.archive.org/web/20241224175405/https://www.odu.edu/homecoming-week"
+      },
+      {
+        "datetime": "2025-02-14T10:00:11Z",
+        "uri": "https://web.archive.org/web/20250214100011/https://www.odu.edu/homecoming-week"
+      }
+    ],
+    "first": {
+      "datetime": "2023-12-07T05:13:05Z",
+      "uri": "https://web.archive.org/web/20231207051305/https://www.odu.edu/homecoming-week"
+    },
+    "last": {
+      "datetime": "2025-02-14T10:00:11Z",
+      "uri": "https://web.archive.org/web/20250214100011/https://www.odu.edu/homecoming-week"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/homecoming-week",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/homecoming-week",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/homecoming-week"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/homecoming-week"
+}

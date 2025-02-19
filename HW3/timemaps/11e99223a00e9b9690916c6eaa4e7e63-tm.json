@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.odu.edu/human-resources",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/human-resources",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-05-23T19:46:55Z",
+        "uri": "https://wayback.archive-it.org/all/20240523194655/https://www.odu.edu/human-resources"
+      },
+      {
+        "datetime": "2024-05-26T11:34:34Z",
+        "uri": "https://wayback.archive-it.org/all/20240526113434/https://www.odu.edu/human-resources/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-05-23T19:46:55Z",
+      "uri": "https://wayback.archive-it.org/all/20240523194655/https://www.odu.edu/human-resources"
+    },
+    "last": {
+      "datetime": "2024-05-26T11:34:34Z",
+      "uri": "https://wayback.archive-it.org/all/20240526113434/https://www.odu.edu/human-resources/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/human-resources",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/human-resources",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/human-resources"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/human-resources"
+}

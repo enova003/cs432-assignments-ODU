@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/cee/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/cee/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-09-15T05:20:53Z",
+        "uri": "https://arquivo.pt/wayback/20210915052053mp_/https://catalog.odu.edu/courses/cee/"
+      },
+      {
+        "datetime": "2021-10-23T01:40:09Z",
+        "uri": "https://arquivo.pt/wayback/20211023014009mp_/https://catalog.odu.edu/courses/cee/"
+      }
+    ],
+    "first": {
+      "datetime": "2021-09-15T05:20:53Z",
+      "uri": "https://arquivo.pt/wayback/20210915052053mp_/https://catalog.odu.edu/courses/cee/"
+    },
+    "last": {
+      "datetime": "2021-10-23T01:40:09Z",
+      "uri": "https://arquivo.pt/wayback/20211023014009mp_/https://catalog.odu.edu/courses/cee/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/cee/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/cee/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/cee/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/cee/"
+}

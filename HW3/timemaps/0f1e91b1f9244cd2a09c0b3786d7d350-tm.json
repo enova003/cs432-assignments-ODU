@@ -1,0 +1,78 @@
+{
+  "original_uri": "https://www.odu.edu/monarch-magazine",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/monarch-magazine",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-09-14T04:02:57Z",
+        "uri": "https://web.archive.org/web/20240914040257/https://www.odu.edu/monarch-magazine"
+      },
+      {
+        "datetime": "2024-09-16T16:40:47Z",
+        "uri": "https://web.archive.org/web/20240916164047/https://www.odu.edu/monarch-magazine"
+      },
+      {
+        "datetime": "2024-09-17T19:24:56Z",
+        "uri": "https://web.archive.org/web/20240917192456/https://www.odu.edu/monarch-magazine"
+      },
+      {
+        "datetime": "2024-10-03T13:43:23Z",
+        "uri": "https://web.archive.org/web/20241003134323/https://www.odu.edu/monarch-magazine"
+      },
+      {
+        "datetime": "2024-10-06T10:25:08Z",
+        "uri": "https://web.archive.org/web/20241006102508/https://www.odu.edu/monarch-magazine"
+      },
+      {
+        "datetime": "2024-10-07T10:23:23Z",
+        "uri": "https://web.archive.org/web/20241007102323/https://www.odu.edu/monarch-magazine"
+      },
+      {
+        "datetime": "2024-11-10T08:26:20Z",
+        "uri": "https://web.archive.org/web/20241110082620/https://www.odu.edu/monarch-magazine"
+      },
+      {
+        "datetime": "2024-11-18T01:43:52Z",
+        "uri": "https://web.archive.org/web/20241118014352/https://www.odu.edu/monarch-magazine"
+      },
+      {
+        "datetime": "2024-11-19T00:57:23Z",
+        "uri": "https://web.archive.org/web/20241119005723/http://odu.edu/monarch-magazine"
+      },
+      {
+        "datetime": "2024-11-19T02:18:10Z",
+        "uri": "https://web.archive.org/web/20241119021810/https://odu.edu/monarch-magazine"
+      },
+      {
+        "datetime": "2024-12-24T17:53:35Z",
+        "uri": "https://web.archive.org/web/20241224175335/https://www.odu.edu/monarch-magazine"
+      },
+      {
+        "datetime": "2024-12-25T11:16:59Z",
+        "uri": "https://web.archive.org/web/20241225111659/https://www.odu.edu/monarch-magazine"
+      },
+      {
+        "datetime": "2025-01-13T10:14:23Z",
+        "uri": "https://web.archive.org/web/20250113101423/https://www.odu.edu/monarch-magazine"
+      },
+      {
+        "datetime": "2025-02-14T10:00:29Z",
+        "uri": "https://web.archive.org/web/20250214100029/https://www.odu.edu/monarch-magazine"
+      }
+    ],
+    "first": {
+      "datetime": "2024-09-14T04:02:57Z",
+      "uri": "https://web.archive.org/web/20240914040257/https://www.odu.edu/monarch-magazine"
+    },
+    "last": {
+      "datetime": "2025-02-14T10:00:29Z",
+      "uri": "https://web.archive.org/web/20250214100029/https://www.odu.edu/monarch-magazine"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/monarch-magazine",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/monarch-magazine",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/monarch-magazine"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/monarch-magazine"
+}

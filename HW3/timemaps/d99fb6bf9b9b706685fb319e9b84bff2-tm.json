@@ -1,0 +1,102 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/mls/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/mls/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-05-29T05:44:29Z",
+        "uri": "https://web.archive.org/web/20180529054429/http://catalog.odu.edu:80/courses/mls/"
+      },
+      {
+        "datetime": "2018-09-29T03:15:59Z",
+        "uri": "https://web.archive.org/web/20180929031559/http://catalog.odu.edu:80/courses/mls/"
+      },
+      {
+        "datetime": "2018-11-28T23:42:17Z",
+        "uri": "https://web.archive.org/web/20181128234217/http://catalog.odu.edu:80/courses/mls/"
+      },
+      {
+        "datetime": "2019-01-28T18:04:27Z",
+        "uri": "https://web.archive.org/web/20190128180427/http://catalog.odu.edu:80/courses/mls/"
+      },
+      {
+        "datetime": "2019-03-30T18:34:06Z",
+        "uri": "https://web.archive.org/web/20190330183406/http://catalog.odu.edu:80/courses/mls/"
+      },
+      {
+        "datetime": "2019-05-30T15:19:25Z",
+        "uri": "https://web.archive.org/web/20190530151925/http://catalog.odu.edu:80/courses/mls/"
+      },
+      {
+        "datetime": "2019-07-30T18:53:33Z",
+        "uri": "https://web.archive.org/web/20190730185333/http://catalog.odu.edu:80/courses/mls/"
+      },
+      {
+        "datetime": "2019-09-29T03:55:43Z",
+        "uri": "https://web.archive.org/web/20190929035543/http://catalog.odu.edu:80/courses/mls/"
+      },
+      {
+        "datetime": "2019-10-09T05:27:54Z",
+        "uri": "https://web.archive.org/web/20191009052754/http://catalog.odu.edu:80/courses/mls/"
+      },
+      {
+        "datetime": "2019-12-08T12:35:13Z",
+        "uri": "https://web.archive.org/web/20191208123513/http://catalog.odu.edu:80/courses/mls/"
+      },
+      {
+        "datetime": "2020-02-06T16:39:03Z",
+        "uri": "https://web.archive.org/web/20200206163903/http://catalog.odu.edu:80/courses/mls/"
+      },
+      {
+        "datetime": "2020-03-02T06:06:26Z",
+        "uri": "https://web.archive.org/web/20200302060626/http://catalog.odu.edu:80/courses/mls/"
+      },
+      {
+        "datetime": "2020-05-01T08:52:33Z",
+        "uri": "https://web.archive.org/web/20200501085233/http://catalog.odu.edu:80/courses/mls/"
+      },
+      {
+        "datetime": "2020-06-30T15:11:15Z",
+        "uri": "https://web.archive.org/web/20200630151115/http://catalog.odu.edu:80/courses/mls/"
+      },
+      {
+        "datetime": "2021-01-24T10:12:10Z",
+        "uri": "https://web.archive.org/web/20210124101210/https://catalog.odu.edu/courses/mls/"
+      },
+      {
+        "datetime": "2021-04-12T20:40:21Z",
+        "uri": "https://web.archive.org/web/20210412204021/http://catalog.odu.edu/courses/mls/"
+      },
+      {
+        "datetime": "2021-11-19T02:47:59Z",
+        "uri": "https://web.archive.org/web/20211119024759/https://catalog.odu.edu/courses/mls/"
+      },
+      {
+        "datetime": "2022-03-19T21:05:12Z",
+        "uri": "https://web.archive.org/web/20220319210512/https://catalog.odu.edu/courses/mls/"
+      },
+      {
+        "datetime": "2023-12-20T22:59:19Z",
+        "uri": "https://web.archive.org/web/20231220225919/https://catalog.odu.edu/courses/mls/"
+      },
+      {
+        "datetime": "2024-12-07T06:07:57Z",
+        "uri": "https://web.archive.org/web/20241207060757/https://catalog.odu.edu/courses/mls/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-05-29T05:44:29Z",
+      "uri": "https://web.archive.org/web/20180529054429/http://catalog.odu.edu:80/courses/mls/"
+    },
+    "last": {
+      "datetime": "2024-12-07T06:07:57Z",
+      "uri": "https://web.archive.org/web/20241207060757/https://catalog.odu.edu/courses/mls/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/mls/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/mls/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/mls/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/mls/"
+}

@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.odu.edu/admissions/events/february-open-house",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/admissions/events/february-open-house",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2025-02-14T10:00:26Z",
+        "uri": "https://web.archive.org/web/20250214100026/https://www.odu.edu/admissions/events/february-open-house"
+      }
+    ],
+    "first": {
+      "datetime": "2025-02-14T10:00:26Z",
+      "uri": "https://web.archive.org/web/20250214100026/https://www.odu.edu/admissions/events/february-open-house"
+    },
+    "last": {
+      "datetime": "2025-02-14T10:00:26Z",
+      "uri": "https://web.archive.org/web/20250214100026/https://www.odu.edu/admissions/events/february-open-house"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/admissions/events/february-open-house",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/admissions/events/february-open-house",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/admissions/events/february-open-house"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/admissions/events/february-open-house"
+}

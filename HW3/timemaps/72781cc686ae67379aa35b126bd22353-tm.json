@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.odu.edu/technology-services/email/gmail-guides",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/technology-services/email/gmail-guides",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-12-20T23:48:28Z",
+        "uri": "https://web.archive.org/web/20241220234828/https://www.odu.edu/technology-services/email/gmail-guides"
+      }
+    ],
+    "first": {
+      "datetime": "2024-12-20T23:48:28Z",
+      "uri": "https://web.archive.org/web/20241220234828/https://www.odu.edu/technology-services/email/gmail-guides"
+    },
+    "last": {
+      "datetime": "2024-12-20T23:48:28Z",
+      "uri": "https://web.archive.org/web/20241220234828/https://www.odu.edu/technology-services/email/gmail-guides"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/technology-services/email/gmail-guides",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/technology-services/email/gmail-guides",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/technology-services/email/gmail-guides"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/technology-services/email/gmail-guides"
+}

@@ -1,0 +1,422 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/chin/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/chin/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:28:25Z",
+        "uri": "https://web.archive.org/web/20120902042825/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2013-05-17T07:47:04Z",
+        "uri": "https://web.archive.org/web/20130517074704/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2014-04-21T22:20:21Z",
+        "uri": "https://web.archive.org/web/20140421222021/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2014-06-21T11:35:31Z",
+        "uri": "https://web.archive.org/web/20140621113531/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2014-08-21T00:26:06Z",
+        "uri": "https://web.archive.org/web/20140821002606/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2014-10-20T16:22:16Z",
+        "uri": "https://web.archive.org/web/20141020162216/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2014-12-20T10:28:06Z",
+        "uri": "https://web.archive.org/web/20141220102806/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2015-02-15T15:43:09Z",
+        "uri": "https://web.archive.org/web/20150215154309/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2015-04-17T03:03:57Z",
+        "uri": "https://web.archive.org/web/20150417030357/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2015-05-11T06:44:51Z",
+        "uri": "https://web.archive.org/web/20150511064451/http://catalog.odu.edu/courses/chin/"
+      },
+      {
+        "datetime": "2015-06-16T14:37:23Z",
+        "uri": "https://web.archive.org/web/20150616143723/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2015-07-03T06:41:38Z",
+        "uri": "https://web.archive.org/web/20150703064138/http://catalog.odu.edu/courses/chin/"
+      },
+      {
+        "datetime": "2015-08-16T00:46:04Z",
+        "uri": "https://web.archive.org/web/20150816004604/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2015-10-15T07:10:18Z",
+        "uri": "https://web.archive.org/web/20151015071018/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2015-12-14T15:28:02Z",
+        "uri": "https://web.archive.org/web/20151214152802/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2016-01-19T03:04:19Z",
+        "uri": "https://web.archive.org/web/20160119030419/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2016-01-19T03:04:19Z",
+        "uri": "https://web.archive.org/web/20160119030419/http://catalog.odu.edu:80/courses/chin"
+      },
+      {
+        "datetime": "2016-02-13T07:49:27Z",
+        "uri": "https://web.archive.org/web/20160213074927/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2016-02-18T18:51:00Z",
+        "uri": "https://web.archive.org/web/20160218185100/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2016-02-18T18:51:00Z",
+        "uri": "https://web.archive.org/web/20160218185100/http://catalog.odu.edu:80/courses/chin"
+      },
+      {
+        "datetime": "2016-03-20T21:09:06Z",
+        "uri": "https://web.archive.org/web/20160320210906/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2016-03-20T21:09:06Z",
+        "uri": "https://web.archive.org/web/20160320210906/http://catalog.odu.edu:80/courses/chin"
+      },
+      {
+        "datetime": "2016-04-08T16:43:33Z",
+        "uri": "https://web.archive.org/web/20160408164333/http://catalog.odu.edu/courses/chin/"
+      },
+      {
+        "datetime": "2016-04-13T17:41:41Z",
+        "uri": "https://web.archive.org/web/20160413174141/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2016-04-20T18:14:53Z",
+        "uri": "https://web.archive.org/web/20160420181453/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2016-04-20T18:14:53Z",
+        "uri": "https://web.archive.org/web/20160420181453/http://catalog.odu.edu:80/courses/chin"
+      },
+      {
+        "datetime": "2016-06-13T10:58:47Z",
+        "uri": "https://web.archive.org/web/20160613105847/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2016-08-13T03:29:38Z",
+        "uri": "https://web.archive.org/web/20160813032938/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2016-10-13T00:08:00Z",
+        "uri": "https://web.archive.org/web/20161013000800/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2016-12-05T04:54:11Z",
+        "uri": "https://web.archive.org/web/20161205045411/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2017-04-08T18:14:44Z",
+        "uri": "https://web.archive.org/web/20170408181444/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2017-04-27T03:31:27Z",
+        "uri": "https://web.archive.org/web/20170427033127/http://catalog.odu.edu/courses/chin/"
+      },
+      {
+        "datetime": "2017-06-08T07:05:09Z",
+        "uri": "https://web.archive.org/web/20170608070509/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2017-07-08T23:49:01Z",
+        "uri": "https://web.archive.org/web/20170708234901/http://catalog.odu.edu/courses/chin/"
+      },
+      {
+        "datetime": "2017-08-08T13:39:09Z",
+        "uri": "https://web.archive.org/web/20170808133909/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2017-10-08T18:54:47Z",
+        "uri": "https://web.archive.org/web/20171008185447/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2017-12-09T00:09:51Z",
+        "uri": "https://web.archive.org/web/20171209000951/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2018-02-07T18:46:45Z",
+        "uri": "https://web.archive.org/web/20180207184645/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2018-04-09T20:13:55Z",
+        "uri": "https://web.archive.org/web/20180409201355/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2018-04-12T09:57:09Z",
+        "uri": "https://web.archive.org/web/20180412095709/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2018-04-12T09:57:09Z",
+        "uri": "https://web.archive.org/web/20180412095709/http://catalog.odu.edu:80/courses/chin"
+      },
+      {
+        "datetime": "2018-05-14T18:48:38Z",
+        "uri": "https://web.archive.org/web/20180514184838/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2018-05-14T18:48:38Z",
+        "uri": "https://web.archive.org/web/20180514184838/http://catalog.odu.edu:80/courses/chin"
+      },
+      {
+        "datetime": "2018-06-10T02:25:56Z",
+        "uri": "https://web.archive.org/web/20180610022556/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2018-06-14T23:18:37Z",
+        "uri": "https://web.archive.org/web/20180614231837/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2018-06-14T23:18:37Z",
+        "uri": "https://web.archive.org/web/20180614231837/http://catalog.odu.edu:80/courses/chin"
+      },
+      {
+        "datetime": "2018-07-16T10:52:17Z",
+        "uri": "https://web.archive.org/web/20180716105217/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2018-07-16T10:52:17Z",
+        "uri": "https://web.archive.org/web/20180716105217/http://catalog.odu.edu:80/courses/chin"
+      },
+      {
+        "datetime": "2018-08-10T07:41:53Z",
+        "uri": "https://web.archive.org/web/20180810074153/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2018-08-16T13:59:10Z",
+        "uri": "https://web.archive.org/web/20180816135910/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2018-08-16T13:59:10Z",
+        "uri": "https://web.archive.org/web/20180816135910/http://catalog.odu.edu:80/courses/chin"
+      },
+      {
+        "datetime": "2018-09-16T06:04:27Z",
+        "uri": "https://web.archive.org/web/20180916060427/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2018-09-16T06:04:27Z",
+        "uri": "https://web.archive.org/web/20180916060427/http://catalog.odu.edu:80/courses/chin"
+      },
+      {
+        "datetime": "2018-10-10T04:09:05Z",
+        "uri": "https://web.archive.org/web/20181010040905/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2018-10-11T04:22:26Z",
+        "uri": "https://web.archive.org/web/20181011042226/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2018-10-17T00:02:07Z",
+        "uri": "https://web.archive.org/web/20181017000207/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2018-10-17T00:02:07Z",
+        "uri": "https://web.archive.org/web/20181017000207/http://catalog.odu.edu:80/courses/chin"
+      },
+      {
+        "datetime": "2018-11-16T17:28:58Z",
+        "uri": "https://web.archive.org/web/20181116172858/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2018-11-16T17:28:58Z",
+        "uri": "https://web.archive.org/web/20181116172858/http://catalog.odu.edu:80/courses/chin"
+      },
+      {
+        "datetime": "2018-12-11T10:33:25Z",
+        "uri": "https://web.archive.org/web/20181211103325/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2018-12-17T11:40:52Z",
+        "uri": "https://web.archive.org/web/20181217114052/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2018-12-17T11:40:52Z",
+        "uri": "https://web.archive.org/web/20181217114052/http://catalog.odu.edu:80/courses/chin"
+      },
+      {
+        "datetime": "2019-01-17T13:59:52Z",
+        "uri": "https://web.archive.org/web/20190117135952/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2019-01-17T13:59:52Z",
+        "uri": "https://web.archive.org/web/20190117135952/http://catalog.odu.edu:80/courses/chin"
+      },
+      {
+        "datetime": "2019-02-11T09:38:45Z",
+        "uri": "https://web.archive.org/web/20190211093845/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2019-02-17T14:25:18Z",
+        "uri": "https://web.archive.org/web/20190217142518/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2019-02-17T14:25:18Z",
+        "uri": "https://web.archive.org/web/20190217142518/http://catalog.odu.edu:80/courses/chin"
+      },
+      {
+        "datetime": "2019-03-20T16:09:11Z",
+        "uri": "https://web.archive.org/web/20190320160911/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2019-03-20T16:09:11Z",
+        "uri": "https://web.archive.org/web/20190320160911/http://catalog.odu.edu:80/courses/chin"
+      },
+      {
+        "datetime": "2019-04-13T00:21:42Z",
+        "uri": "https://web.archive.org/web/20190413002142/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2019-04-20T17:35:24Z",
+        "uri": "https://web.archive.org/web/20190420173524/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2019-04-20T17:35:24Z",
+        "uri": "https://web.archive.org/web/20190420173524/http://catalog.odu.edu:80/courses/chin"
+      },
+      {
+        "datetime": "2019-05-22T08:10:04Z",
+        "uri": "https://web.archive.org/web/20190522081004/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2019-05-22T08:10:04Z",
+        "uri": "https://web.archive.org/web/20190522081004/http://catalog.odu.edu:80/courses/chin"
+      },
+      {
+        "datetime": "2019-06-12T16:32:33Z",
+        "uri": "https://web.archive.org/web/20190612163233/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2019-06-22T20:08:33Z",
+        "uri": "https://web.archive.org/web/20190622200833/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2019-06-22T20:08:33Z",
+        "uri": "https://web.archive.org/web/20190622200833/http://catalog.odu.edu:80/courses/chin"
+      },
+      {
+        "datetime": "2019-07-23T19:08:15Z",
+        "uri": "https://web.archive.org/web/20190723190815/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2019-07-23T19:08:15Z",
+        "uri": "https://web.archive.org/web/20190723190815/http://catalog.odu.edu:80/courses/chin"
+      },
+      {
+        "datetime": "2019-08-13T04:41:33Z",
+        "uri": "https://web.archive.org/web/20190813044133/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2019-08-23T16:02:14Z",
+        "uri": "https://web.archive.org/web/20190823160214/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2019-08-23T16:02:14Z",
+        "uri": "https://web.archive.org/web/20190823160214/http://catalog.odu.edu:80/courses/chin"
+      },
+      {
+        "datetime": "2019-09-23T11:41:08Z",
+        "uri": "https://web.archive.org/web/20190923114108/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2019-09-23T11:41:08Z",
+        "uri": "https://web.archive.org/web/20190923114108/http://catalog.odu.edu:80/courses/chin"
+      },
+      {
+        "datetime": "2019-10-09T05:24:39Z",
+        "uri": "https://web.archive.org/web/20191009052439/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2019-10-21T20:20:59Z",
+        "uri": "https://web.archive.org/web/20191021202059/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2019-11-21T02:04:03Z",
+        "uri": "https://web.archive.org/web/20191121020403/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2019-12-21T07:44:12Z",
+        "uri": "https://web.archive.org/web/20191221074412/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2020-01-20T12:15:25Z",
+        "uri": "https://web.archive.org/web/20200120121525/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2020-02-19T17:57:42Z",
+        "uri": "https://web.archive.org/web/20200219175742/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2020-03-02T06:12:03Z",
+        "uri": "https://web.archive.org/web/20200302061203/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2020-05-01T08:39:16Z",
+        "uri": "https://web.archive.org/web/20200501083916/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2020-06-30T12:14:18Z",
+        "uri": "https://web.archive.org/web/20200630121418/http://catalog.odu.edu:80/courses/chin/"
+      },
+      {
+        "datetime": "2021-01-24T09:43:54Z",
+        "uri": "https://web.archive.org/web/20210124094354/https://catalog.odu.edu/courses/chin/"
+      },
+      {
+        "datetime": "2021-04-12T20:38:08Z",
+        "uri": "https://web.archive.org/web/20210412203808/http://catalog.odu.edu/courses/chin/"
+      },
+      {
+        "datetime": "2021-11-03T21:59:00Z",
+        "uri": "https://web.archive.org/web/20211103215900/https://catalog.odu.edu/courses/chin/"
+      },
+      {
+        "datetime": "2021-11-18T16:08:58Z",
+        "uri": "https://web.archive.org/web/20211118160858/https://catalog.odu.edu/courses/chin/"
+      },
+      {
+        "datetime": "2023-12-20T22:59:20Z",
+        "uri": "https://web.archive.org/web/20231220225920/https://catalog.odu.edu/courses/chin/"
+      },
+      {
+        "datetime": "2024-08-13T21:31:03Z",
+        "uri": "https://web.archive.org/web/20240813213103/https://catalog.odu.edu/courses/chin/"
+      },
+      {
+        "datetime": "2024-12-07T05:15:26Z",
+        "uri": "https://web.archive.org/web/20241207051526/https://catalog.odu.edu/courses/chin/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:28:25Z",
+      "uri": "https://web.archive.org/web/20120902042825/http://catalog.odu.edu:80/courses/chin/"
+    },
+    "last": {
+      "datetime": "2024-12-07T05:15:26Z",
+      "uri": "https://web.archive.org/web/20241207051526/https://catalog.odu.edu/courses/chin/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/chin/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/chin/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/chin/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/chin/"
+}

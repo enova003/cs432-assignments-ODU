@@ -1,0 +1,54 @@
+{
+  "original_uri": "https://online.odu.edu/military",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/military",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-11-09T02:12:17Z",
+        "uri": "https://arquivo.pt/wayback/20211109021217mp_/http://online.odu.edu/military"
+      },
+      {
+        "datetime": "2021-11-09T02:12:17Z",
+        "uri": "https://web.archive.org/web/20211109021217/http://online.odu.edu/military"
+      },
+      {
+        "datetime": "2021-11-09T02:12:22Z",
+        "uri": "https://arquivo.pt/wayback/20211109021222mp_/https://online.odu.edu/military"
+      },
+      {
+        "datetime": "2021-11-09T02:12:22Z",
+        "uri": "https://web.archive.org/web/20211109021222/https://online.odu.edu/military"
+      },
+      {
+        "datetime": "2024-07-29T22:04:39Z",
+        "uri": "https://web.archive.org/web/20240729220439/http://online.odu.edu/military"
+      },
+      {
+        "datetime": "2024-07-29T22:32:59Z",
+        "uri": "https://web.archive.org/web/20240729223259/https://online.odu.edu/military"
+      },
+      {
+        "datetime": "2024-12-14T22:30:33Z",
+        "uri": "https://web.archive.org/web/20241214223033/https://online.odu.edu/military"
+      },
+      {
+        "datetime": "2025-01-19T13:02:24Z",
+        "uri": "https://web.archive.org/web/20250119130224/https://online.odu.edu/military"
+      }
+    ],
+    "first": {
+      "datetime": "2021-11-09T02:12:17Z",
+      "uri": "https://arquivo.pt/wayback/20211109021217mp_/http://online.odu.edu/military"
+    },
+    "last": {
+      "datetime": "2025-01-19T13:02:24Z",
+      "uri": "https://web.archive.org/web/20250119130224/https://online.odu.edu/military"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/military",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/military",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/military"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/military"
+}

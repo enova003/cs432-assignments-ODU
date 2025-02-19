@@ -1,0 +1,54 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/engineering-technology/civil-environmental-engineering/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/engineering-technology/civil-environmental-engineering/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-21T19:24:03Z",
+        "uri": "https://web.archive.org/web/20230921192403/https://catalog.odu.edu/undergraduate/engineering-technology/civil-environmental-engineering/"
+      },
+      {
+        "datetime": "2023-09-27T02:59:03Z",
+        "uri": "https://web.archive.org/web/20230927025903/https://catalog.odu.edu/undergraduate/engineering-technology/civil-environmental-engineering/"
+      },
+      {
+        "datetime": "2023-12-17T01:36:37Z",
+        "uri": "https://web.archive.org/web/20231217013637/https://catalog.odu.edu/undergraduate/engineering-technology/civil-environmental-engineering/"
+      },
+      {
+        "datetime": "2024-03-24T05:15:42Z",
+        "uri": "https://web.archive.org/web/20240324051542/https://catalog.odu.edu/undergraduate/engineering-technology/civil-environmental-engineering/"
+      },
+      {
+        "datetime": "2024-04-05T21:04:19Z",
+        "uri": "https://web.archive.org/web/20240405210419/http://catalog.odu.edu/undergraduate/engineering-technology/civil-environmental-engineering/"
+      },
+      {
+        "datetime": "2024-04-17T22:59:08Z",
+        "uri": "https://web.archive.org/web/20240417225908/https://catalog.odu.edu/undergraduate/engineering-technology/civil-environmental-engineering/"
+      },
+      {
+        "datetime": "2024-09-12T06:58:37Z",
+        "uri": "https://web.archive.org/web/20240912065837/https://catalog.odu.edu/undergraduate/engineering-technology/civil-environmental-engineering/"
+      },
+      {
+        "datetime": "2024-12-07T06:16:57Z",
+        "uri": "https://web.archive.org/web/20241207061657/https://catalog.odu.edu/undergraduate/engineering-technology/civil-environmental-engineering/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-21T19:24:03Z",
+      "uri": "https://web.archive.org/web/20230921192403/https://catalog.odu.edu/undergraduate/engineering-technology/civil-environmental-engineering/"
+    },
+    "last": {
+      "datetime": "2024-12-07T06:16:57Z",
+      "uri": "https://web.archive.org/web/20241207061657/https://catalog.odu.edu/undergraduate/engineering-technology/civil-environmental-engineering/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/engineering-technology/civil-environmental-engineering/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/engineering-technology/civil-environmental-engineering/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/engineering-technology/civil-environmental-engineering/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/engineering-technology/civil-environmental-engineering/"
+}

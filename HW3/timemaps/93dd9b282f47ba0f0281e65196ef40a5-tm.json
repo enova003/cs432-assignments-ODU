@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/park-recreation-tourism-studies-ms/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/park-recreation-tourism-studies-ms/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-09-26T19:32:43Z",
+        "uri": "https://web.archive.org/web/20240926193243/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/park-recreation-tourism-studies-ms/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-09-26T19:32:43Z",
+      "uri": "https://web.archive.org/web/20240926193243/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/park-recreation-tourism-studies-ms/"
+    },
+    "last": {
+      "datetime": "2024-09-26T19:32:43Z",
+      "uri": "https://web.archive.org/web/20240926193243/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/park-recreation-tourism-studies-ms/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/park-recreation-tourism-studies-ms/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/park-recreation-tourism-studies-ms/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/park-recreation-tourism-studies-ms/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/park-recreation-tourism-studies-ms/"
+}

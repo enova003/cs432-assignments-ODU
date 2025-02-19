@@ -1,0 +1,106 @@
+{
+  "original_uri": "https://www.odu.edu/career-leadership/service-learning",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/career-leadership/service-learning",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-08-19T17:30:11Z",
+        "uri": "https://web.archive.org/web/20240819173011/https://www.odu.edu/career-leadership/service-learning"
+      },
+      {
+        "datetime": "2024-08-19T19:10:40Z",
+        "uri": "https://web.archive.org/web/20240819191040/https://www.odu.edu/career-leadership/service-learning"
+      },
+      {
+        "datetime": "2024-08-30T18:41:03Z",
+        "uri": "https://web.archive.org/web/20240830184103/https://www.odu.edu/career-leadership/service-learning"
+      },
+      {
+        "datetime": "2024-09-01T07:34:03Z",
+        "uri": "https://web.archive.org/web/20240901073403/https://www.odu.edu/career-leadership/service-learning"
+      },
+      {
+        "datetime": "2024-09-13T16:58:31Z",
+        "uri": "https://web.archive.org/web/20240913165831/https://www.odu.edu/career-leadership/service-learning"
+      },
+      {
+        "datetime": "2024-09-16T05:51:01Z",
+        "uri": "https://web.archive.org/web/20240916055101/https://www.odu.edu/career-leadership/service-learning"
+      },
+      {
+        "datetime": "2024-09-17T11:23:32Z",
+        "uri": "https://web.archive.org/web/20240917112332/https://www.odu.edu/career-leadership/service-learning"
+      },
+      {
+        "datetime": "2024-10-01T07:19:22Z",
+        "uri": "https://web.archive.org/web/20241001071922/https://www.odu.edu/career-leadership/service-learning"
+      },
+      {
+        "datetime": "2024-10-03T17:23:02Z",
+        "uri": "https://web.archive.org/web/20241003172302/https://www.odu.edu/career-leadership/service-learning"
+      },
+      {
+        "datetime": "2024-10-07T10:48:37Z",
+        "uri": "https://web.archive.org/web/20241007104837/https://www.odu.edu/career-leadership/service-learning"
+      },
+      {
+        "datetime": "2024-11-11T11:11:18Z",
+        "uri": "https://web.archive.org/web/20241111111118/https://www.odu.edu/career-leadership/service-learning"
+      },
+      {
+        "datetime": "2024-11-17T23:54:52Z",
+        "uri": "https://web.archive.org/web/20241117235452/https://www.odu.edu/career-leadership/service-learning"
+      },
+      {
+        "datetime": "2024-12-01T15:27:17Z",
+        "uri": "https://web.archive.org/web/20241201152717/https://www.odu.edu/career-leadership/service-learning"
+      },
+      {
+        "datetime": "2024-12-10T21:31:42Z",
+        "uri": "https://web.archive.org/web/20241210213142/https://www.odu.edu/career-leadership/service-learning"
+      },
+      {
+        "datetime": "2024-12-14T06:29:42Z",
+        "uri": "https://web.archive.org/web/20241214062942/https://www.odu.edu/career-leadership/service-learning"
+      },
+      {
+        "datetime": "2024-12-22T17:52:11Z",
+        "uri": "https://web.archive.org/web/20241222175211/https://www.odu.edu/career-leadership/service-learning"
+      },
+      {
+        "datetime": "2024-12-24T22:17:50Z",
+        "uri": "https://web.archive.org/web/20241224221750/https://www.odu.edu/career-leadership/service-learning"
+      },
+      {
+        "datetime": "2025-01-03T22:34:04Z",
+        "uri": "https://web.archive.org/web/20250103223404/https://www.odu.edu/career-leadership/service-learning"
+      },
+      {
+        "datetime": "2025-01-14T06:41:44Z",
+        "uri": "https://web.archive.org/web/20250114064144/https://www.odu.edu/career-leadership/service-learning"
+      },
+      {
+        "datetime": "2025-02-14T09:59:49Z",
+        "uri": "https://web.archive.org/web/20250214095949/https://www.odu.edu/career-leadership/service-learning"
+      },
+      {
+        "datetime": "2025-02-14T23:05:47Z",
+        "uri": "https://web.archive.org/web/20250214230547/https://www.odu.edu/career-leadership/service-learning"
+      }
+    ],
+    "first": {
+      "datetime": "2024-08-19T17:30:11Z",
+      "uri": "https://web.archive.org/web/20240819173011/https://www.odu.edu/career-leadership/service-learning"
+    },
+    "last": {
+      "datetime": "2025-02-14T23:05:47Z",
+      "uri": "https://web.archive.org/web/20250214230547/https://www.odu.edu/career-leadership/service-learning"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/career-leadership/service-learning",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/career-leadership/service-learning",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/career-leadership/service-learning"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/career-leadership/service-learning"
+}

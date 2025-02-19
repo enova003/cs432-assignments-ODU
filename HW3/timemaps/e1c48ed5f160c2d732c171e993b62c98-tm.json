@@ -1,0 +1,34 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/occupational-technical-studies-training-specialist-bs/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/occupational-technical-studies-training-specialist-bs/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-07-18T08:36:17Z",
+        "uri": "https://web.archive.org/web/20240718083617/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/occupational-technical-studies-training-specialist-bs/"
+      },
+      {
+        "datetime": "2024-09-27T08:59:39Z",
+        "uri": "https://web.archive.org/web/20240927085939/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/occupational-technical-studies-training-specialist-bs/"
+      },
+      {
+        "datetime": "2024-11-12T00:24:21Z",
+        "uri": "https://web.archive.org/web/20241112002421/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/occupational-technical-studies-training-specialist-bs/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-07-18T08:36:17Z",
+      "uri": "https://web.archive.org/web/20240718083617/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/occupational-technical-studies-training-specialist-bs/"
+    },
+    "last": {
+      "datetime": "2024-11-12T00:24:21Z",
+      "uri": "https://web.archive.org/web/20241112002421/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/occupational-technical-studies-training-specialist-bs/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/occupational-technical-studies-training-specialist-bs/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/occupational-technical-studies-training-specialist-bs/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/occupational-technical-studies-training-specialist-bs/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/occupational-technical-studies-training-specialist-bs/"
+}

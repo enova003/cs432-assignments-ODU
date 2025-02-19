@@ -1,0 +1,322 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/officersoftheuniversity/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/officersoftheuniversity/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-06-25T03:39:10Z",
+        "uri": "https://web.archive.org/web/20120625033910/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2012-08-24T10:54:14Z",
+        "uri": "https://web.archive.org/web/20120824105414/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2012-10-24T03:04:43Z",
+        "uri": "https://web.archive.org/web/20121024030443/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2013-05-03T23:30:57Z",
+        "uri": "https://web.archive.org/web/20130503233057/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2013-06-17T11:05:31Z",
+        "uri": "https://web.archive.org/web/20130617110531/http://catalog.odu.edu/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2013-07-03T20:56:09Z",
+        "uri": "https://web.archive.org/web/20130703205609/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2013-09-04T08:03:43Z",
+        "uri": "https://web.archive.org/web/20130904080343/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2013-11-04T01:21:26Z",
+        "uri": "https://web.archive.org/web/20131104012126/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2014-01-03T23:49:25Z",
+        "uri": "https://web.archive.org/web/20140103234925/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2014-03-10T04:50:17Z",
+        "uri": "https://web.archive.org/web/20140310045017/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2014-05-10T22:52:41Z",
+        "uri": "https://web.archive.org/web/20140510225241/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2014-07-10T15:31:23Z",
+        "uri": "https://web.archive.org/web/20140710153123/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2014-09-09T04:04:39Z",
+        "uri": "https://web.archive.org/web/20140909040439/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2014-11-08T18:09:37Z",
+        "uri": "https://web.archive.org/web/20141108180937/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2015-01-08T10:03:11Z",
+        "uri": "https://web.archive.org/web/20150108100311/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2015-01-25T07:59:58Z",
+        "uri": "https://web.archive.org/web/20150125075958/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2015-01-25T07:59:58Z",
+        "uri": "https://web.archive.org/web/20150125075958/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity"
+      },
+      {
+        "datetime": "2015-02-16T03:59:31Z",
+        "uri": "https://web.archive.org/web/20150216035931/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2015-04-17T13:08:12Z",
+        "uri": "https://web.archive.org/web/20150417130812/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2015-05-11T07:23:39Z",
+        "uri": "https://web.archive.org/web/20150511072339/http://catalog.odu.edu/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2015-06-17T00:59:52Z",
+        "uri": "https://web.archive.org/web/20150617005952/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2015-07-03T06:29:45Z",
+        "uri": "https://web.archive.org/web/20150703062945/http://catalog.odu.edu/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2015-08-16T10:04:57Z",
+        "uri": "https://web.archive.org/web/20150816100457/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2015-10-16T01:09:17Z",
+        "uri": "https://web.archive.org/web/20151016010917/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2015-12-15T12:18:41Z",
+        "uri": "https://web.archive.org/web/20151215121841/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2016-02-14T06:43:36Z",
+        "uri": "https://web.archive.org/web/20160214064336/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2016-04-08T22:55:36Z",
+        "uri": "https://web.archive.org/web/20160408225536/http://catalog.odu.edu/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2016-04-15T08:07:31Z",
+        "uri": "https://web.archive.org/web/20160415080731/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2016-06-15T01:52:12Z",
+        "uri": "https://web.archive.org/web/20160615015212/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2016-08-15T00:04:50Z",
+        "uri": "https://web.archive.org/web/20160815000450/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2016-08-26T18:14:40Z",
+        "uri": "https://web.archive.org/web/20160826181440/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2016-08-26T18:14:40Z",
+        "uri": "https://web.archive.org/web/20160826181440/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity"
+      },
+      {
+        "datetime": "2016-09-27T03:26:31Z",
+        "uri": "https://web.archive.org/web/20160927032631/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2016-09-27T03:26:31Z",
+        "uri": "https://web.archive.org/web/20160927032631/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity"
+      },
+      {
+        "datetime": "2016-10-14T16:26:58Z",
+        "uri": "https://web.archive.org/web/20161014162658/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2016-10-28T03:44:55Z",
+        "uri": "https://web.archive.org/web/20161028034455/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2016-10-28T03:44:55Z",
+        "uri": "https://web.archive.org/web/20161028034455/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity"
+      },
+      {
+        "datetime": "2016-10-29T07:10:44Z",
+        "uri": "https://web.archive.org/web/20161029071044/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2016-10-29T07:10:44Z",
+        "uri": "https://web.archive.org/web/20161029071044/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity"
+      },
+      {
+        "datetime": "2016-12-05T05:11:09Z",
+        "uri": "https://web.archive.org/web/20161205051109/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2017-04-08T18:19:41Z",
+        "uri": "https://web.archive.org/web/20170408181941/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2017-04-27T04:20:03Z",
+        "uri": "https://web.archive.org/web/20170427042003/http://catalog.odu.edu/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2017-06-08T07:11:48Z",
+        "uri": "https://web.archive.org/web/20170608071148/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2017-08-08T13:37:54Z",
+        "uri": "https://web.archive.org/web/20170808133754/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2017-10-08T21:07:24Z",
+        "uri": "https://web.archive.org/web/20171008210724/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2017-12-09T00:15:22Z",
+        "uri": "https://web.archive.org/web/20171209001522/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2018-02-07T19:11:33Z",
+        "uri": "https://web.archive.org/web/20180207191133/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2018-04-09T20:23:42Z",
+        "uri": "https://web.archive.org/web/20180409202342/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2018-06-10T06:28:49Z",
+        "uri": "https://web.archive.org/web/20180610062849/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2018-08-10T07:54:45Z",
+        "uri": "https://web.archive.org/web/20180810075445/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2018-10-10T04:09:00Z",
+        "uri": "https://web.archive.org/web/20181010040900/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2018-10-11T04:27:03Z",
+        "uri": "https://web.archive.org/web/20181011042703/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2018-12-11T10:35:28Z",
+        "uri": "https://web.archive.org/web/20181211103528/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2019-02-11T09:43:41Z",
+        "uri": "https://web.archive.org/web/20190211094341/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2019-04-13T00:24:01Z",
+        "uri": "https://web.archive.org/web/20190413002401/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2019-06-12T16:38:12Z",
+        "uri": "https://web.archive.org/web/20190612163812/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2019-08-13T04:42:23Z",
+        "uri": "https://web.archive.org/web/20190813044223/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2019-10-09T06:30:37Z",
+        "uri": "https://web.archive.org/web/20191009063037/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2019-12-08T12:46:16Z",
+        "uri": "https://web.archive.org/web/20191208124616/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2020-02-06T16:49:16Z",
+        "uri": "https://web.archive.org/web/20200206164916/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2020-03-02T07:41:43Z",
+        "uri": "https://web.archive.org/web/20200302074143/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2020-05-01T11:46:56Z",
+        "uri": "https://web.archive.org/web/20200501114656/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2020-06-30T15:39:33Z",
+        "uri": "https://web.archive.org/web/20200630153933/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2021-01-22T23:27:00Z",
+        "uri": "https://web.archive.org/web/20210122232700/https://catalog.odu.edu/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2021-04-12T20:27:40Z",
+        "uri": "https://web.archive.org/web/20210412202740/http://catalog.odu.edu/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2021-11-03T21:56:58Z",
+        "uri": "https://web.archive.org/web/20211103215658/https://catalog.odu.edu/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2021-11-07T17:02:07Z",
+        "uri": "https://web.archive.org/web/20211107170207/https://catalog.odu.edu/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2022-03-19T21:37:15Z",
+        "uri": "https://web.archive.org/web/20220319213715/https://catalog.odu.edu/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2022-03-19T21:56:34Z",
+        "uri": "https://web.archive.org/web/20220319215634/https://catalog.odu.edu/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2022-03-19T21:56:34Z",
+        "uri": "https://web.archive.org/web/20220319215634/http://catalog.odu.edu/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2023-12-08T06:22:16Z",
+        "uri": "https://web.archive.org/web/20231208062216/https://catalog.odu.edu/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2024-04-17T22:23:48Z",
+        "uri": "https://web.archive.org/web/20240417222348/https://catalog.odu.edu/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2024-05-28T13:17:00Z",
+        "uri": "https://web.archive.org/web/20240528131700/https://catalog.odu.edu/undergraduate/officersoftheuniversity/"
+      },
+      {
+        "datetime": "2024-07-07T05:12:17Z",
+        "uri": "https://web.archive.org/web/20240707051217/http://catalog.odu.edu/undergraduate/officersoftheuniversity"
+      },
+      {
+        "datetime": "2024-07-07T07:53:05Z",
+        "uri": "https://web.archive.org/web/20240707075305/https://catalog.odu.edu/undergraduate/officersoftheuniversity"
+      }
+    ],
+    "first": {
+      "datetime": "2012-06-25T03:39:10Z",
+      "uri": "https://web.archive.org/web/20120625033910/http://catalog.odu.edu:80/undergraduate/officersoftheuniversity/"
+    },
+    "last": {
+      "datetime": "2024-07-07T07:53:05Z",
+      "uri": "https://web.archive.org/web/20240707075305/https://catalog.odu.edu/undergraduate/officersoftheuniversity"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/officersoftheuniversity/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/officersoftheuniversity/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/officersoftheuniversity/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/officersoftheuniversity/"
+}

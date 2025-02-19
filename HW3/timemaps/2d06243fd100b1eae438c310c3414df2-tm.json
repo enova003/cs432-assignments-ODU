@@ -1,0 +1,126 @@
+{
+  "original_uri": "https://online.odu.edu/academics/degree/doctorate-ed-specialist",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/academics/degree/doctorate-ed-specialist",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-04-27T12:34:50Z",
+        "uri": "https://web.archive.org/web/20200427123450/https://online.odu.edu/academics/degree/doctorate-ed-specialist"
+      },
+      {
+        "datetime": "2020-05-30T01:08:35Z",
+        "uri": "https://web.archive.org/web/20200530010835/https://online.odu.edu/academics/degree/doctorate-ed-specialist"
+      },
+      {
+        "datetime": "2020-09-25T23:19:03Z",
+        "uri": "https://web.archive.org/web/20200925231903/https://online.odu.edu/academics/degree/doctorate-ed-specialist"
+      },
+      {
+        "datetime": "2020-11-25T11:09:43Z",
+        "uri": "https://web.archive.org/web/20201125110943/https://online.odu.edu/academics/degree/doctorate-ed-specialist"
+      },
+      {
+        "datetime": "2021-01-17T00:17:09Z",
+        "uri": "https://web.archive.org/web/20210117001709/https://online.odu.edu/academics/degree/doctorate-ed-specialist"
+      },
+      {
+        "datetime": "2021-04-13T19:26:05Z",
+        "uri": "https://web.archive.org/web/20210413192605/https://online.odu.edu/academics/degree/doctorate-ed-specialist"
+      },
+      {
+        "datetime": "2021-04-23T05:14:35Z",
+        "uri": "https://web.archive.org/web/20210423051435/https://online.odu.edu/academics/degree/doctorate-ed-specialist"
+      },
+      {
+        "datetime": "2021-06-15T18:56:05Z",
+        "uri": "https://web.archive.org/web/20210615185605/https://online.odu.edu/academics/degree/doctorate-ed-specialist"
+      },
+      {
+        "datetime": "2021-06-15T18:56:05Z",
+        "uri": "https://web.archive.org/web/20210615185605/https://online.odu.edu/academics/degree/doctorate-ed-specialist"
+      },
+      {
+        "datetime": "2021-09-24T14:56:21Z",
+        "uri": "https://web.archive.org/web/20210924145621/https://online.odu.edu/academics/degree/doctorate-ed-specialist"
+      },
+      {
+        "datetime": "2021-12-09T01:03:00Z",
+        "uri": "https://web.archive.org/web/20211209010300/https://online.odu.edu/academics/degree/doctorate-ed-specialist"
+      },
+      {
+        "datetime": "2021-12-09T09:35:17Z",
+        "uri": "https://web.archive.org/web/20211209093517/https://online.odu.edu/academics/degree/doctorate-ed-specialist"
+      },
+      {
+        "datetime": "2022-03-19T21:40:49Z",
+        "uri": "https://web.archive.org/web/20220319214049/https://online.odu.edu/academics/degree/doctorate-ed-specialist"
+      },
+      {
+        "datetime": "2022-05-27T21:47:29Z",
+        "uri": "https://web.archive.org/web/20220527214729/https://online.odu.edu/academics/degree/doctorate-ed-specialist"
+      },
+      {
+        "datetime": "2022-06-30T19:22:35Z",
+        "uri": "https://web.archive.org/web/20220630192235/https://online.odu.edu/academics/degree/doctorate-ed-specialist"
+      },
+      {
+        "datetime": "2022-10-04T22:46:49Z",
+        "uri": "https://web.archive.org/web/20221004224649/https://online.odu.edu/academics/degree/doctorate-ed-specialist"
+      },
+      {
+        "datetime": "2022-12-02T12:39:21Z",
+        "uri": "https://web.archive.org/web/20221202123921/https://online.odu.edu/academics/degree/doctorate-ed-specialist"
+      },
+      {
+        "datetime": "2023-03-25T10:48:03Z",
+        "uri": "https://web.archive.org/web/20230325104803/https://online.odu.edu/academics/degree/doctorate-ed-specialist"
+      },
+      {
+        "datetime": "2023-07-15T00:31:07Z",
+        "uri": "https://web.archive.org/web/20230715003107/https://online.odu.edu/academics/degree/doctorate-ed-specialist"
+      },
+      {
+        "datetime": "2023-09-24T20:10:34Z",
+        "uri": "https://web.archive.org/web/20230924201034/https://online.odu.edu/academics/degree/doctorate-ed-specialist"
+      },
+      {
+        "datetime": "2024-02-25T08:24:38Z",
+        "uri": "https://web.archive.org/web/20240225082438/https://online.odu.edu/academics/degree/doctorate-ed-specialist"
+      },
+      {
+        "datetime": "2024-03-17T22:54:37Z",
+        "uri": "https://web.archive.org/web/20240317225437/https://online.odu.edu/academics/degree/doctorate-ed-specialist"
+      },
+      {
+        "datetime": "2024-04-23T04:26:25Z",
+        "uri": "https://web.archive.org/web/20240423042625/https://online.odu.edu/academics/degree/doctorate-ed-specialist"
+      },
+      {
+        "datetime": "2024-07-21T22:18:36Z",
+        "uri": "https://web.archive.org/web/20240721221836/https://online.odu.edu/academics/degree/doctorate-ed-specialist"
+      },
+      {
+        "datetime": "2024-10-03T16:37:42Z",
+        "uri": "https://web.archive.org/web/20241003163742/https://online.odu.edu/academics/degree/doctorate-ed-specialist"
+      },
+      {
+        "datetime": "2025-01-19T13:02:58Z",
+        "uri": "https://web.archive.org/web/20250119130258/https://online.odu.edu/academics/degree/doctorate-ed-specialist"
+      }
+    ],
+    "first": {
+      "datetime": "2020-04-27T12:34:50Z",
+      "uri": "https://web.archive.org/web/20200427123450/https://online.odu.edu/academics/degree/doctorate-ed-specialist"
+    },
+    "last": {
+      "datetime": "2025-01-19T13:02:58Z",
+      "uri": "https://web.archive.org/web/20250119130258/https://online.odu.edu/academics/degree/doctorate-ed-specialist"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/academics/degree/doctorate-ed-specialist",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/academics/degree/doctorate-ed-specialist",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/academics/degree/doctorate-ed-specialist"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/academics/degree/doctorate-ed-specialist"
+}

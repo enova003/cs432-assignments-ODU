@@ -1,0 +1,118 @@
+{
+  "original_uri": "https://www.odu.edu/arts/galleries",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/arts/galleries",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-11-12T10:59:43Z",
+        "uri": "https://arquivo.pt/wayback/20211112105943mp_/http://odu.edu/arts/galleries"
+      },
+      {
+        "datetime": "2021-11-12T10:59:43Z",
+        "uri": "https://web.archive.org/web/20211112105943/http://odu.edu/arts/galleries"
+      },
+      {
+        "datetime": "2022-08-31T19:00:10Z",
+        "uri": "https://web.archive.org/web/20220831190010/http://odu.edu/arts/galleries"
+      },
+      {
+        "datetime": "2022-08-31T19:00:50Z",
+        "uri": "https://web.archive.org/web/20220831190050/https://odu.edu/arts/galleries"
+      },
+      {
+        "datetime": "2022-11-04T23:16:30Z",
+        "uri": "https://web.archive.org/web/20221104231630/https://www.odu.edu/arts/galleries"
+      },
+      {
+        "datetime": "2022-11-07T07:29:25Z",
+        "uri": "https://wayback.archive-it.org/all/20221107072925/https://www.odu.edu/arts/galleries"
+      },
+      {
+        "datetime": "2022-11-07T07:29:25Z",
+        "uri": "https://web.archive.org/web/20221107072925/https://www.odu.edu/arts/galleries"
+      },
+      {
+        "datetime": "2022-12-08T02:04:18Z",
+        "uri": "https://wayback.archive-it.org/all/20221208020418/https://www.odu.edu/arts/galleries"
+      },
+      {
+        "datetime": "2022-12-08T02:04:18Z",
+        "uri": "https://web.archive.org/web/20221208020418/https://www.odu.edu/arts/galleries"
+      },
+      {
+        "datetime": "2023-01-07T21:55:46Z",
+        "uri": "https://wayback.archive-it.org/all/20230107215546/https://www.odu.edu/arts/galleries"
+      },
+      {
+        "datetime": "2023-01-07T21:55:46Z",
+        "uri": "https://web.archive.org/web/20230107215546/https://www.odu.edu/arts/galleries"
+      },
+      {
+        "datetime": "2023-01-24T21:35:21Z",
+        "uri": "https://arquivo.pt/wayback/20230124213521mp_/https://www.odu.edu/arts/galleries"
+      },
+      {
+        "datetime": "2023-02-08T12:11:50Z",
+        "uri": "https://wayback.archive-it.org/all/20230208121150/https://www.odu.edu/arts/galleries"
+      },
+      {
+        "datetime": "2023-02-08T12:11:50Z",
+        "uri": "https://web.archive.org/web/20230208121150/https://www.odu.edu/arts/galleries"
+      },
+      {
+        "datetime": "2023-02-20T01:10:47Z",
+        "uri": "https://web.archive.org/web/20230220011047/https://www.odu.edu/arts/galleries"
+      },
+      {
+        "datetime": "2023-03-07T06:13:07Z",
+        "uri": "https://wayback.archive-it.org/all/20230307061307/https://www.odu.edu/arts/galleries"
+      },
+      {
+        "datetime": "2023-03-07T06:13:07Z",
+        "uri": "https://web.archive.org/web/20230307061307/https://www.odu.edu/arts/galleries"
+      },
+      {
+        "datetime": "2023-08-25T19:12:46Z",
+        "uri": "https://wayback.archive-it.org/all/20230825191246/https://www.odu.edu/arts/galleries"
+      },
+      {
+        "datetime": "2023-08-25T19:12:46Z",
+        "uri": "https://web.archive.org/web/20230825191246/https://www.odu.edu/arts/galleries"
+      },
+      {
+        "datetime": "2024-04-04T07:26:15Z",
+        "uri": "https://web.archive.org/web/20240404072615/https://www.odu.edu/arts/galleries"
+      },
+      {
+        "datetime": "2024-04-27T16:08:31Z",
+        "uri": "https://web.archive.org/web/20240427160831/https://www.odu.edu/arts/galleries"
+      },
+      {
+        "datetime": "2024-05-24T02:40:38Z",
+        "uri": "https://wayback.archive-it.org/all/20240524024038/https://www.odu.edu/arts/galleries"
+      },
+      {
+        "datetime": "2024-12-25T07:43:03Z",
+        "uri": "https://web.archive.org/web/20241225074303/https://www.odu.edu/arts/galleries"
+      },
+      {
+        "datetime": "2025-02-14T09:59:49Z",
+        "uri": "https://web.archive.org/web/20250214095949/https://www.odu.edu/arts/galleries"
+      }
+    ],
+    "first": {
+      "datetime": "2021-11-12T10:59:43Z",
+      "uri": "https://arquivo.pt/wayback/20211112105943mp_/http://odu.edu/arts/galleries"
+    },
+    "last": {
+      "datetime": "2025-02-14T09:59:49Z",
+      "uri": "https://web.archive.org/web/20250214095949/https://www.odu.edu/arts/galleries"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/arts/galleries",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/arts/galleries",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/arts/galleries"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/arts/galleries"
+}

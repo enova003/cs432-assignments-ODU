@@ -1,0 +1,50 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/career-technical-education-marketing-bs/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/career-technical-education-marketing-bs/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-07-04T06:38:33Z",
+        "uri": "https://web.archive.org/web/20240704063833/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/career-technical-education-marketing-bs/"
+      },
+      {
+        "datetime": "2024-07-18T08:10:14Z",
+        "uri": "https://web.archive.org/web/20240718081014/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/career-technical-education-marketing-bs/"
+      },
+      {
+        "datetime": "2024-08-01T02:05:06Z",
+        "uri": "https://web.archive.org/web/20240801020506/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/career-technical-education-marketing-bs/"
+      },
+      {
+        "datetime": "2024-09-25T11:57:04Z",
+        "uri": "https://web.archive.org/web/20240925115704/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/career-technical-education-marketing-bs/"
+      },
+      {
+        "datetime": "2024-09-27T15:07:37Z",
+        "uri": "https://web.archive.org/web/20240927150737/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/career-technical-education-marketing-bs/"
+      },
+      {
+        "datetime": "2024-10-09T14:52:08Z",
+        "uri": "https://web.archive.org/web/20241009145208/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/career-technical-education-marketing-bs/"
+      },
+      {
+        "datetime": "2024-10-13T07:32:52Z",
+        "uri": "https://web.archive.org/web/20241013073252/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/career-technical-education-marketing-bs/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-07-04T06:38:33Z",
+      "uri": "https://web.archive.org/web/20240704063833/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/career-technical-education-marketing-bs/"
+    },
+    "last": {
+      "datetime": "2024-10-13T07:32:52Z",
+      "uri": "https://web.archive.org/web/20241013073252/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/career-technical-education-marketing-bs/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/career-technical-education-marketing-bs/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/career-technical-education-marketing-bs/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/career-technical-education-marketing-bs/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/career-technical-education-marketing-bs/"
+}

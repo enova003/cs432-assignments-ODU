@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/business/economics/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/business/economics/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T02:30:37Z",
+        "uri": "https://web.archive.org/web/20230927023037/https://catalog.odu.edu/graduate/business/economics/"
+      },
+      {
+        "datetime": "2023-10-01T02:28:04Z",
+        "uri": "https://web.archive.org/web/20231001022804/https://catalog.odu.edu/graduate/business/economics/"
+      },
+      {
+        "datetime": "2023-12-08T06:22:16Z",
+        "uri": "https://web.archive.org/web/20231208062216/https://catalog.odu.edu/graduate/business/economics/"
+      },
+      {
+        "datetime": "2023-12-09T23:05:42Z",
+        "uri": "https://web.archive.org/web/20231209230542/https://catalog.odu.edu/graduate/business/economics/"
+      },
+      {
+        "datetime": "2023-12-09T23:05:57Z",
+        "uri": "https://web.archive.org/web/20231209230557/http://catalog.odu.edu/graduate/business/economics/"
+      },
+      {
+        "datetime": "2024-03-04T05:36:30Z",
+        "uri": "https://web.archive.org/web/20240304053630/https://catalog.odu.edu/graduate/business/economics/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T02:30:37Z",
+      "uri": "https://web.archive.org/web/20230927023037/https://catalog.odu.edu/graduate/business/economics/"
+    },
+    "last": {
+      "datetime": "2024-03-04T05:36:30Z",
+      "uri": "https://web.archive.org/web/20240304053630/https://catalog.odu.edu/graduate/business/economics/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/business/economics/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/business/economics/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/business/economics/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/business/economics/"
+}

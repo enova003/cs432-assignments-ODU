@@ -1,0 +1,54 @@
+{
+  "original_uri": "https://online.odu.edu/admissions/apply-now",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/admissions/apply-now",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-03-17T22:34:42Z",
+        "uri": "https://web.archive.org/web/20240317223442/https://online.odu.edu/admissions/apply-now"
+      },
+      {
+        "datetime": "2024-03-31T20:00:36Z",
+        "uri": "https://web.archive.org/web/20240331200036/https://online.odu.edu/admissions/apply-now"
+      },
+      {
+        "datetime": "2024-04-23T05:20:53Z",
+        "uri": "https://web.archive.org/web/20240423052053/https://online.odu.edu/admissions/apply-now"
+      },
+      {
+        "datetime": "2024-06-14T00:05:50Z",
+        "uri": "https://web.archive.org/web/20240614000550/https://online.odu.edu/admissions/apply-now"
+      },
+      {
+        "datetime": "2024-07-09T01:49:55Z",
+        "uri": "https://web.archive.org/web/20240709014955/https://online.odu.edu/admissions/apply-now"
+      },
+      {
+        "datetime": "2024-08-04T18:25:25Z",
+        "uri": "https://web.archive.org/web/20240804182525/https://online.odu.edu/admissions/apply-now"
+      },
+      {
+        "datetime": "2024-10-03T17:28:22Z",
+        "uri": "https://web.archive.org/web/20241003172822/https://online.odu.edu/admissions/apply-now"
+      },
+      {
+        "datetime": "2025-01-19T13:02:15Z",
+        "uri": "https://web.archive.org/web/20250119130215/https://online.odu.edu/admissions/apply-now"
+      }
+    ],
+    "first": {
+      "datetime": "2024-03-17T22:34:42Z",
+      "uri": "https://web.archive.org/web/20240317223442/https://online.odu.edu/admissions/apply-now"
+    },
+    "last": {
+      "datetime": "2025-01-19T13:02:15Z",
+      "uri": "https://web.archive.org/web/20250119130215/https://online.odu.edu/admissions/apply-now"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/admissions/apply-now",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/admissions/apply-now",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/admissions/apply-now"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/admissions/apply-now"
+}

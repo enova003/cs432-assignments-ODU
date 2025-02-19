@@ -1,0 +1,342 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/geog/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/geog/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:34:18Z",
+        "uri": "https://web.archive.org/web/20120902043418/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2013-05-17T08:19:38Z",
+        "uri": "https://web.archive.org/web/20130517081938/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2014-04-21T22:23:06Z",
+        "uri": "https://web.archive.org/web/20140421222306/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2014-06-21T11:39:17Z",
+        "uri": "https://web.archive.org/web/20140621113917/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2014-08-21T00:23:50Z",
+        "uri": "https://web.archive.org/web/20140821002350/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2014-12-20T10:28:42Z",
+        "uri": "https://web.archive.org/web/20141220102842/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2015-02-15T16:03:46Z",
+        "uri": "https://web.archive.org/web/20150215160346/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2015-04-17T03:06:59Z",
+        "uri": "https://web.archive.org/web/20150417030659/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2015-05-11T06:47:37Z",
+        "uri": "https://web.archive.org/web/20150511064737/http://catalog.odu.edu/courses/geog/"
+      },
+      {
+        "datetime": "2015-06-16T14:51:02Z",
+        "uri": "https://web.archive.org/web/20150616145102/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2015-07-03T07:58:31Z",
+        "uri": "https://web.archive.org/web/20150703075831/http://catalog.odu.edu/courses/geog/"
+      },
+      {
+        "datetime": "2015-08-16T00:48:24Z",
+        "uri": "https://web.archive.org/web/20150816004824/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2015-10-05T22:25:56Z",
+        "uri": "https://web.archive.org/web/20151005222556/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2015-10-05T22:25:56Z",
+        "uri": "https://web.archive.org/web/20151005222556/http://catalog.odu.edu:80/courses/geog"
+      },
+      {
+        "datetime": "2015-10-15T07:11:59Z",
+        "uri": "https://web.archive.org/web/20151015071159/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2015-11-07T01:29:30Z",
+        "uri": "https://web.archive.org/web/20151107012930/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2015-11-07T01:29:30Z",
+        "uri": "https://web.archive.org/web/20151107012930/http://catalog.odu.edu:80/courses/geog"
+      },
+      {
+        "datetime": "2015-12-07T16:54:58Z",
+        "uri": "https://web.archive.org/web/20151207165458/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2015-12-07T16:54:58Z",
+        "uri": "https://web.archive.org/web/20151207165458/http://catalog.odu.edu:80/courses/geog"
+      },
+      {
+        "datetime": "2015-12-14T15:28:37Z",
+        "uri": "https://web.archive.org/web/20151214152837/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2016-02-13T07:50:32Z",
+        "uri": "https://web.archive.org/web/20160213075032/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2016-02-19T08:55:13Z",
+        "uri": "https://web.archive.org/web/20160219085513/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2016-02-19T08:55:13Z",
+        "uri": "https://web.archive.org/web/20160219085513/http://catalog.odu.edu:80/courses/geog"
+      },
+      {
+        "datetime": "2016-03-21T04:02:58Z",
+        "uri": "https://web.archive.org/web/20160321040258/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2016-03-21T04:02:58Z",
+        "uri": "https://web.archive.org/web/20160321040258/http://catalog.odu.edu:80/courses/geog"
+      },
+      {
+        "datetime": "2016-04-08T17:00:54Z",
+        "uri": "https://web.archive.org/web/20160408170054/http://catalog.odu.edu/courses/geog/"
+      },
+      {
+        "datetime": "2016-04-13T17:57:29Z",
+        "uri": "https://web.archive.org/web/20160413175729/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2016-04-20T18:12:47Z",
+        "uri": "https://web.archive.org/web/20160420181247/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2016-04-20T18:12:47Z",
+        "uri": "https://web.archive.org/web/20160420181247/http://catalog.odu.edu:80/courses/geog"
+      },
+      {
+        "datetime": "2016-05-22T04:14:34Z",
+        "uri": "https://web.archive.org/web/20160522041434/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2016-05-22T04:14:34Z",
+        "uri": "https://web.archive.org/web/20160522041434/http://catalog.odu.edu:80/courses/geog"
+      },
+      {
+        "datetime": "2016-06-13T10:59:13Z",
+        "uri": "https://web.archive.org/web/20160613105913/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2016-06-22T01:46:22Z",
+        "uri": "https://web.archive.org/web/20160622014622/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2016-06-22T01:46:22Z",
+        "uri": "https://web.archive.org/web/20160622014622/http://catalog.odu.edu:80/courses/geog"
+      },
+      {
+        "datetime": "2016-07-27T04:49:49Z",
+        "uri": "https://web.archive.org/web/20160727044949/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2016-07-27T04:49:49Z",
+        "uri": "https://web.archive.org/web/20160727044949/http://catalog.odu.edu:80/courses/geog"
+      },
+      {
+        "datetime": "2016-07-28T10:19:43Z",
+        "uri": "https://web.archive.org/web/20160728101943/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2016-07-28T10:19:43Z",
+        "uri": "https://web.archive.org/web/20160728101943/http://catalog.odu.edu:80/courses/geog"
+      },
+      {
+        "datetime": "2016-08-13T01:02:44Z",
+        "uri": "https://web.archive.org/web/20160813010244/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2016-08-28T19:33:32Z",
+        "uri": "https://web.archive.org/web/20160828193332/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2016-08-28T19:33:32Z",
+        "uri": "https://web.archive.org/web/20160828193332/http://catalog.odu.edu:80/courses/geog"
+      },
+      {
+        "datetime": "2016-09-29T04:06:50Z",
+        "uri": "https://web.archive.org/web/20160929040650/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2016-09-29T04:06:50Z",
+        "uri": "https://web.archive.org/web/20160929040650/http://catalog.odu.edu:80/courses/geog"
+      },
+      {
+        "datetime": "2016-10-12T21:25:51Z",
+        "uri": "https://web.archive.org/web/20161012212551/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2016-10-30T16:34:19Z",
+        "uri": "https://web.archive.org/web/20161030163419/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2016-10-30T16:34:19Z",
+        "uri": "https://web.archive.org/web/20161030163419/http://catalog.odu.edu:80/courses/geog"
+      },
+      {
+        "datetime": "2016-12-05T04:56:46Z",
+        "uri": "https://web.archive.org/web/20161205045646/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2017-04-08T18:15:34Z",
+        "uri": "https://web.archive.org/web/20170408181534/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2017-04-27T03:32:00Z",
+        "uri": "https://web.archive.org/web/20170427033200/http://catalog.odu.edu/courses/geog/"
+      },
+      {
+        "datetime": "2017-06-08T07:06:24Z",
+        "uri": "https://web.archive.org/web/20170608070624/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2017-07-08T23:53:45Z",
+        "uri": "https://web.archive.org/web/20170708235345/http://catalog.odu.edu/courses/geog/"
+      },
+      {
+        "datetime": "2017-08-08T13:39:39Z",
+        "uri": "https://web.archive.org/web/20170808133939/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2017-10-08T19:00:47Z",
+        "uri": "https://web.archive.org/web/20171008190047/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2017-12-09T00:10:12Z",
+        "uri": "https://web.archive.org/web/20171209001012/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2018-02-07T18:50:07Z",
+        "uri": "https://web.archive.org/web/20180207185007/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2018-04-09T20:15:06Z",
+        "uri": "https://web.archive.org/web/20180409201506/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2018-06-10T06:20:45Z",
+        "uri": "https://web.archive.org/web/20180610062045/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2018-08-10T07:53:17Z",
+        "uri": "https://web.archive.org/web/20180810075317/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2018-10-10T04:08:15Z",
+        "uri": "https://web.archive.org/web/20181010040815/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2018-10-11T04:27:23Z",
+        "uri": "https://web.archive.org/web/20181011042723/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2018-12-11T10:30:14Z",
+        "uri": "https://web.archive.org/web/20181211103014/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2019-02-11T09:39:50Z",
+        "uri": "https://web.archive.org/web/20190211093950/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2019-04-13T00:24:43Z",
+        "uri": "https://web.archive.org/web/20190413002443/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2019-06-12T16:36:34Z",
+        "uri": "https://web.archive.org/web/20190612163634/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2019-08-13T04:52:19Z",
+        "uri": "https://web.archive.org/web/20190813045219/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2019-10-09T05:26:19Z",
+        "uri": "https://web.archive.org/web/20191009052619/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2019-12-08T12:33:36Z",
+        "uri": "https://web.archive.org/web/20191208123336/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2020-02-06T16:37:34Z",
+        "uri": "https://web.archive.org/web/20200206163734/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2020-03-02T06:12:48Z",
+        "uri": "https://web.archive.org/web/20200302061248/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2020-05-01T08:44:43Z",
+        "uri": "https://web.archive.org/web/20200501084443/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2020-06-30T12:16:44Z",
+        "uri": "https://web.archive.org/web/20200630121644/http://catalog.odu.edu:80/courses/geog/"
+      },
+      {
+        "datetime": "2021-01-22T23:29:14Z",
+        "uri": "https://web.archive.org/web/20210122232914/https://catalog.odu.edu/courses/geog/"
+      },
+      {
+        "datetime": "2021-04-12T20:29:35Z",
+        "uri": "https://web.archive.org/web/20210412202935/http://catalog.odu.edu/courses/geog/"
+      },
+      {
+        "datetime": "2021-09-15T05:20:49Z",
+        "uri": "https://arquivo.pt/wayback/20210915052049mp_/https://catalog.odu.edu/courses/geog/"
+      },
+      {
+        "datetime": "2021-11-18T01:37:43Z",
+        "uri": "https://web.archive.org/web/20211118013743/https://catalog.odu.edu/courses/geog/"
+      },
+      {
+        "datetime": "2022-03-19T20:38:33Z",
+        "uri": "https://web.archive.org/web/20220319203833/https://catalog.odu.edu/courses/geog/"
+      },
+      {
+        "datetime": "2023-12-17T01:36:35Z",
+        "uri": "https://web.archive.org/web/20231217013635/https://catalog.odu.edu/courses/geog/"
+      },
+      {
+        "datetime": "2024-07-07T03:03:56Z",
+        "uri": "https://web.archive.org/web/20240707030356/http://catalog.odu.edu/courses/geog/"
+      },
+      {
+        "datetime": "2024-08-13T22:26:15Z",
+        "uri": "https://web.archive.org/web/20240813222615/https://catalog.odu.edu/courses/geog/"
+      },
+      {
+        "datetime": "2024-11-12T00:52:56Z",
+        "uri": "https://web.archive.org/web/20241112005256/https://catalog.odu.edu/courses/geog/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:34:18Z",
+      "uri": "https://web.archive.org/web/20120902043418/http://catalog.odu.edu:80/courses/geog/"
+    },
+    "last": {
+      "datetime": "2024-11-12T00:52:56Z",
+      "uri": "https://web.archive.org/web/20241112005256/https://catalog.odu.edu/courses/geog/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/geog/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/geog/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/geog/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/geog/"
+}

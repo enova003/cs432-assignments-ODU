@@ -1,0 +1,430 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/facultyemeriti/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/facultyemeriti/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-06-25T03:41:05Z",
+        "uri": "https://web.archive.org/web/20120625034105/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2012-08-24T10:53:58Z",
+        "uri": "https://web.archive.org/web/20120824105358/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2012-10-24T03:04:38Z",
+        "uri": "https://web.archive.org/web/20121024030438/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2013-01-06T08:51:12Z",
+        "uri": "https://web.archive.org/web/20130106085112/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2013-03-12T08:27:03Z",
+        "uri": "https://web.archive.org/web/20130312082703/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2013-06-17T13:18:25Z",
+        "uri": "https://web.archive.org/web/20130617131825/http://catalog.odu.edu/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2013-07-13T14:41:30Z",
+        "uri": "https://web.archive.org/web/20130713144130/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2013-09-13T03:44:51Z",
+        "uri": "https://web.archive.org/web/20130913034451/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2013-11-12T20:05:12Z",
+        "uri": "https://web.archive.org/web/20131112200512/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2014-01-12T13:46:55Z",
+        "uri": "https://web.archive.org/web/20140112134655/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2014-03-14T02:45:12Z",
+        "uri": "https://web.archive.org/web/20140314024512/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2014-03-15T04:51:14Z",
+        "uri": "https://web.archive.org/web/20140315045114/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2014-05-14T13:03:09Z",
+        "uri": "https://web.archive.org/web/20140514130309/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2014-07-14T02:30:54Z",
+        "uri": "https://web.archive.org/web/20140714023054/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2014-09-12T15:59:15Z",
+        "uri": "https://web.archive.org/web/20140912155915/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2014-11-12T09:30:04Z",
+        "uri": "https://web.archive.org/web/20141112093004/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2015-01-12T08:52:04Z",
+        "uri": "https://web.archive.org/web/20150112085204/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2015-02-16T03:59:27Z",
+        "uri": "https://web.archive.org/web/20150216035927/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2015-04-10T23:55:21Z",
+        "uri": "https://web.archive.org/web/20150410235521/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2015-04-10T23:55:21Z",
+        "uri": "https://web.archive.org/web/20150410235521/http://catalog.odu.edu:80/undergraduate/facultyemeriti"
+      },
+      {
+        "datetime": "2015-04-17T10:13:16Z",
+        "uri": "https://web.archive.org/web/20150417101316/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2015-05-11T07:14:22Z",
+        "uri": "https://web.archive.org/web/20150511071422/http://catalog.odu.edu/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2015-05-11T13:59:57Z",
+        "uri": "https://web.archive.org/web/20150511135957/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2015-05-11T13:59:57Z",
+        "uri": "https://web.archive.org/web/20150511135957/http://catalog.odu.edu:80/undergraduate/facultyemeriti"
+      },
+      {
+        "datetime": "2015-06-13T06:53:44Z",
+        "uri": "https://web.archive.org/web/20150613065344/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2015-06-13T06:53:44Z",
+        "uri": "https://web.archive.org/web/20150613065344/http://catalog.odu.edu:80/undergraduate/facultyemeriti"
+      },
+      {
+        "datetime": "2015-06-17T00:59:47Z",
+        "uri": "https://web.archive.org/web/20150617005947/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2015-07-03T08:07:41Z",
+        "uri": "https://web.archive.org/web/20150703080741/http://catalog.odu.edu/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2015-07-16T11:34:46Z",
+        "uri": "https://web.archive.org/web/20150716113446/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2015-07-16T11:34:46Z",
+        "uri": "https://web.archive.org/web/20150716113446/http://catalog.odu.edu:80/undergraduate/facultyemeriti"
+      },
+      {
+        "datetime": "2015-08-16T10:04:47Z",
+        "uri": "https://web.archive.org/web/20150816100447/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2015-10-16T01:08:54Z",
+        "uri": "https://web.archive.org/web/20151016010854/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2015-12-15T12:18:26Z",
+        "uri": "https://web.archive.org/web/20151215121826/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2016-01-10T11:35:03Z",
+        "uri": "https://web.archive.org/web/20160110113503/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2016-01-10T11:35:03Z",
+        "uri": "https://web.archive.org/web/20160110113503/http://catalog.odu.edu:80/undergraduate/facultyemeriti"
+      },
+      {
+        "datetime": "2016-02-10T01:54:53Z",
+        "uri": "https://web.archive.org/web/20160210015453/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2016-02-10T01:54:53Z",
+        "uri": "https://web.archive.org/web/20160210015453/http://catalog.odu.edu:80/undergraduate/facultyemeriti"
+      },
+      {
+        "datetime": "2016-02-14T06:43:26Z",
+        "uri": "https://web.archive.org/web/20160214064326/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2016-03-12T09:22:41Z",
+        "uri": "https://web.archive.org/web/20160312092241/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2016-03-12T09:22:41Z",
+        "uri": "https://web.archive.org/web/20160312092241/http://catalog.odu.edu:80/undergraduate/facultyemeriti"
+      },
+      {
+        "datetime": "2016-04-08T22:52:24Z",
+        "uri": "https://web.archive.org/web/20160408225224/http://catalog.odu.edu/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2016-04-15T08:07:16Z",
+        "uri": "https://web.archive.org/web/20160415080716/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2016-06-15T02:21:16Z",
+        "uri": "https://web.archive.org/web/20160615022116/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2016-08-15T00:04:24Z",
+        "uri": "https://web.archive.org/web/20160815000424/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2016-12-05T05:10:24Z",
+        "uri": "https://web.archive.org/web/20161205051024/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2017-04-08T18:19:36Z",
+        "uri": "https://web.archive.org/web/20170408181936/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2017-04-27T04:02:43Z",
+        "uri": "https://web.archive.org/web/20170427040243/http://catalog.odu.edu/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2017-06-08T07:11:33Z",
+        "uri": "https://web.archive.org/web/20170608071133/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2017-07-09T00:58:30Z",
+        "uri": "https://web.archive.org/web/20170709005830/http://catalog.odu.edu/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2017-08-08T13:37:49Z",
+        "uri": "https://web.archive.org/web/20170808133749/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2017-10-08T21:06:28Z",
+        "uri": "https://web.archive.org/web/20171008210628/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2017-12-09T00:23:21Z",
+        "uri": "https://web.archive.org/web/20171209002321/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2018-02-07T19:11:28Z",
+        "uri": "https://web.archive.org/web/20180207191128/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2018-04-09T20:23:37Z",
+        "uri": "https://web.archive.org/web/20180409202337/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2018-06-10T06:28:39Z",
+        "uri": "https://web.archive.org/web/20180610062839/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2018-08-10T07:52:20Z",
+        "uri": "https://web.archive.org/web/20180810075220/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2018-10-10T04:08:55Z",
+        "uri": "https://web.archive.org/web/20181010040855/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2018-10-11T04:25:52Z",
+        "uri": "https://web.archive.org/web/20181011042552/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2018-12-11T10:32:49Z",
+        "uri": "https://web.archive.org/web/20181211103249/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2019-02-11T09:43:36Z",
+        "uri": "https://web.archive.org/web/20190211094336/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2019-02-28T21:16:39Z",
+        "uri": "https://web.archive.org/web/20190228211639/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2019-02-28T21:16:39Z",
+        "uri": "https://web.archive.org/web/20190228211639/http://catalog.odu.edu:80/undergraduate/facultyemeriti"
+      },
+      {
+        "datetime": "2019-04-01T22:36:17Z",
+        "uri": "https://web.archive.org/web/20190401223617/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2019-04-01T22:36:17Z",
+        "uri": "https://web.archive.org/web/20190401223617/http://catalog.odu.edu:80/undergraduate/facultyemeriti"
+      },
+      {
+        "datetime": "2019-04-17T11:33:04Z",
+        "uri": "https://web.archive.org/web/20190417113304/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2019-05-03T14:36:58Z",
+        "uri": "https://web.archive.org/web/20190503143658/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2019-05-03T14:36:58Z",
+        "uri": "https://web.archive.org/web/20190503143658/http://catalog.odu.edu:80/undergraduate/facultyemeriti"
+      },
+      {
+        "datetime": "2019-06-04T03:49:39Z",
+        "uri": "https://web.archive.org/web/20190604034939/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2019-06-04T03:49:39Z",
+        "uri": "https://web.archive.org/web/20190604034939/http://catalog.odu.edu:80/undergraduate/facultyemeriti"
+      },
+      {
+        "datetime": "2019-06-17T06:06:22Z",
+        "uri": "https://web.archive.org/web/20190617060622/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2019-07-05T18:09:08Z",
+        "uri": "https://web.archive.org/web/20190705180908/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2019-07-05T18:09:08Z",
+        "uri": "https://web.archive.org/web/20190705180908/http://catalog.odu.edu:80/undergraduate/facultyemeriti"
+      },
+      {
+        "datetime": "2019-08-05T23:00:58Z",
+        "uri": "https://web.archive.org/web/20190805230058/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2019-08-05T23:00:58Z",
+        "uri": "https://web.archive.org/web/20190805230058/http://catalog.odu.edu:80/undergraduate/facultyemeriti"
+      },
+      {
+        "datetime": "2019-08-17T01:30:27Z",
+        "uri": "https://web.archive.org/web/20190817013027/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2019-09-05T21:02:57Z",
+        "uri": "https://web.archive.org/web/20190905210257/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2019-09-05T21:02:57Z",
+        "uri": "https://web.archive.org/web/20190905210257/http://catalog.odu.edu:80/undergraduate/facultyemeriti"
+      },
+      {
+        "datetime": "2019-10-09T06:28:41Z",
+        "uri": "https://web.archive.org/web/20191009062841/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2019-12-08T12:45:51Z",
+        "uri": "https://web.archive.org/web/20191208124551/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2020-02-06T16:48:46Z",
+        "uri": "https://web.archive.org/web/20200206164846/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2020-03-02T06:30:36Z",
+        "uri": "https://web.archive.org/web/20200302063036/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2020-05-01T09:14:41Z",
+        "uri": "https://web.archive.org/web/20200501091441/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2020-06-30T15:38:38Z",
+        "uri": "https://web.archive.org/web/20200630153838/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2021-01-22T22:23:01Z",
+        "uri": "https://web.archive.org/web/20210122222301/https://catalog.odu.edu/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2021-04-12T20:25:50Z",
+        "uri": "https://web.archive.org/web/20210412202550/http://catalog.odu.edu/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2021-04-13T16:03:00Z",
+        "uri": "https://web.archive.org/web/20210413160300/https://catalog.odu.edu/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2021-06-13T10:29:40Z",
+        "uri": "https://web.archive.org/web/20210613102940/https://catalog.odu.edu/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2021-06-13T10:29:40Z",
+        "uri": "https://web.archive.org/web/20210613102940/https://catalog.odu.edu/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2021-09-20T10:29:19Z",
+        "uri": "https://web.archive.org/web/20210920102919/https://catalog.odu.edu/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2021-11-09T16:49:03Z",
+        "uri": "https://web.archive.org/web/20211109164903/https://catalog.odu.edu/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2022-01-17T00:25:20Z",
+        "uri": "https://web.archive.org/web/20220117002520/https://catalog.odu.edu/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2022-03-19T20:13:39Z",
+        "uri": "https://web.archive.org/web/20220319201339/https://catalog.odu.edu/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2022-03-19T22:31:48Z",
+        "uri": "https://web.archive.org/web/20220319223148/http://catalog.odu.edu/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2022-03-19T22:31:49Z",
+        "uri": "https://web.archive.org/web/20220319223149/https://catalog.odu.edu/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2022-07-07T09:57:23Z",
+        "uri": "https://web.archive.org/web/20220707095723/https://catalog.odu.edu/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2022-11-27T01:22:53Z",
+        "uri": "https://web.archive.org/web/20221127012253/https://catalog.odu.edu/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2023-03-27T09:42:42Z",
+        "uri": "https://web.archive.org/web/20230327094242/https://catalog.odu.edu/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2023-10-03T09:58:15Z",
+        "uri": "https://web.archive.org/web/20231003095815/https://catalog.odu.edu/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2023-12-17T01:36:37Z",
+        "uri": "https://web.archive.org/web/20231217013637/https://catalog.odu.edu/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2024-04-17T22:20:46Z",
+        "uri": "https://web.archive.org/web/20240417222046/https://catalog.odu.edu/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2024-07-17T09:33:19Z",
+        "uri": "https://web.archive.org/web/20240717093319/https://catalog.odu.edu/undergraduate/facultyemeriti/"
+      },
+      {
+        "datetime": "2024-10-13T06:42:36Z",
+        "uri": "https://web.archive.org/web/20241013064236/https://catalog.odu.edu/undergraduate/facultyemeriti/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-06-25T03:41:05Z",
+      "uri": "https://web.archive.org/web/20120625034105/http://catalog.odu.edu:80/undergraduate/facultyemeriti/"
+    },
+    "last": {
+      "datetime": "2024-10-13T06:42:36Z",
+      "uri": "https://web.archive.org/web/20241013064236/https://catalog.odu.edu/undergraduate/facultyemeriti/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/facultyemeriti/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/facultyemeriti/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/facultyemeriti/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/facultyemeriti/"
+}

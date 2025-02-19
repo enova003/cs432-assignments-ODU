@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/education/educational-leadership-workforce-development/educational-leadership-administration-supervision-msed/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/education/educational-leadership-workforce-development/educational-leadership-administration-supervision-msed/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-10-13T06:26:10Z",
+        "uri": "https://web.archive.org/web/20241013062610/https://catalog.odu.edu/graduate/education/educational-leadership-workforce-development/educational-leadership-administration-supervision-msed/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-10-13T06:26:10Z",
+      "uri": "https://web.archive.org/web/20241013062610/https://catalog.odu.edu/graduate/education/educational-leadership-workforce-development/educational-leadership-administration-supervision-msed/"
+    },
+    "last": {
+      "datetime": "2024-10-13T06:26:10Z",
+      "uri": "https://web.archive.org/web/20241013062610/https://catalog.odu.edu/graduate/education/educational-leadership-workforce-development/educational-leadership-administration-supervision-msed/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/education/educational-leadership-workforce-development/educational-leadership-administration-supervision-msed/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/education/educational-leadership-workforce-development/educational-leadership-administration-supervision-msed/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/education/educational-leadership-workforce-development/educational-leadership-administration-supervision-msed/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/education/educational-leadership-workforce-development/educational-leadership-administration-supervision-msed/"
+}

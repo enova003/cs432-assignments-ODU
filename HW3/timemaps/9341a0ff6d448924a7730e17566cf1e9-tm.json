@@ -1,0 +1,42 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/graduatestudentresources/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/graduatestudentresources/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T01:36:01Z",
+        "uri": "https://web.archive.org/web/20230927013601/https://catalog.odu.edu/graduate/graduatestudentresources/"
+      },
+      {
+        "datetime": "2024-02-28T21:42:28Z",
+        "uri": "https://web.archive.org/web/20240228214228/https://catalog.odu.edu/graduate/graduatestudentresources/"
+      },
+      {
+        "datetime": "2024-02-29T16:10:12Z",
+        "uri": "https://web.archive.org/web/20240229161012/https://catalog.odu.edu/graduate/graduatestudentresources/"
+      },
+      {
+        "datetime": "2024-03-04T05:18:38Z",
+        "uri": "https://web.archive.org/web/20240304051838/https://catalog.odu.edu/graduate/graduatestudentresources/"
+      },
+      {
+        "datetime": "2024-08-18T03:25:19Z",
+        "uri": "https://web.archive.org/web/20240818032519/https://catalog.odu.edu/graduate/graduatestudentresources/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T01:36:01Z",
+      "uri": "https://web.archive.org/web/20230927013601/https://catalog.odu.edu/graduate/graduatestudentresources/"
+    },
+    "last": {
+      "datetime": "2024-08-18T03:25:19Z",
+      "uri": "https://web.archive.org/web/20240818032519/https://catalog.odu.edu/graduate/graduatestudentresources/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/graduatestudentresources/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/graduatestudentresources/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/graduatestudentresources/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/graduatestudentresources/"
+}

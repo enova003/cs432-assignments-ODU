@@ -1,0 +1,58 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/business/financial-management/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/business/financial-management/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T01:22:53Z",
+        "uri": "https://web.archive.org/web/20230927012253/https://catalog.odu.edu/undergraduate/business/financial-management/"
+      },
+      {
+        "datetime": "2023-10-01T02:46:42Z",
+        "uri": "https://web.archive.org/web/20231001024642/https://catalog.odu.edu/undergraduate/business/financial-management/"
+      },
+      {
+        "datetime": "2023-12-09T23:06:27Z",
+        "uri": "https://web.archive.org/web/20231209230627/http://catalog.odu.edu/undergraduate/business/financial-management/"
+      },
+      {
+        "datetime": "2023-12-09T23:06:41Z",
+        "uri": "https://web.archive.org/web/20231209230641/https://catalog.odu.edu/undergraduate/business/financial-management/"
+      },
+      {
+        "datetime": "2023-12-17T01:36:38Z",
+        "uri": "https://web.archive.org/web/20231217013638/https://catalog.odu.edu/undergraduate/business/financial-management/"
+      },
+      {
+        "datetime": "2024-02-28T21:41:36Z",
+        "uri": "https://web.archive.org/web/20240228214136/https://catalog.odu.edu/undergraduate/business/financial-management/"
+      },
+      {
+        "datetime": "2024-03-04T04:29:54Z",
+        "uri": "https://web.archive.org/web/20240304042954/https://catalog.odu.edu/undergraduate/business/financial-management/"
+      },
+      {
+        "datetime": "2024-07-17T09:50:25Z",
+        "uri": "https://web.archive.org/web/20240717095025/https://catalog.odu.edu/undergraduate/business/financial-management/"
+      },
+      {
+        "datetime": "2024-10-13T06:54:37Z",
+        "uri": "https://web.archive.org/web/20241013065437/https://catalog.odu.edu/undergraduate/business/financial-management/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T01:22:53Z",
+      "uri": "https://web.archive.org/web/20230927012253/https://catalog.odu.edu/undergraduate/business/financial-management/"
+    },
+    "last": {
+      "datetime": "2024-10-13T06:54:37Z",
+      "uri": "https://web.archive.org/web/20241013065437/https://catalog.odu.edu/undergraduate/business/financial-management/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/business/financial-management/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/business/financial-management/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/business/financial-management/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/business/financial-management/"
+}

@@ -1,0 +1,1222 @@
+{
+  "original_uri": "https://www.odu.edu/about/contact",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/about/contact",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-08-31T14:34:19Z",
+        "uri": "https://web.archive.org/web/20120831143419/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2012-09-20T20:44:23Z",
+        "uri": "https://web.archive.org/web/20120920204423/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2012-09-21T13:06:29Z",
+        "uri": "https://web.archive.org/web/20120921130629/http://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2012-10-10T13:17:36Z",
+        "uri": "https://web.archive.org/web/20121010131736/http://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2012-10-25T23:50:33Z",
+        "uri": "https://web.archive.org/web/20121025235033/http://odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2012-11-25T07:44:54Z",
+        "uri": "https://web.archive.org/web/20121125074454/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2012-12-11T12:38:47Z",
+        "uri": "https://web.archive.org/web/20121211123847/http://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2012-12-18T15:02:22Z",
+        "uri": "https://web.archive.org/web/20121218150222/http://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2012-12-25T12:57:49Z",
+        "uri": "https://web.archive.org/web/20121225125749/http://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2013-01-02T10:39:34Z",
+        "uri": "https://web.archive.org/web/20130102103934/http://odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2013-01-15T17:17:26Z",
+        "uri": "https://web.archive.org/web/20130115171726/http://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2013-02-02T03:05:11Z",
+        "uri": "https://web.archive.org/web/20130202030511/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2013-03-23T19:00:59Z",
+        "uri": "https://web.archive.org/web/20130323190059/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2013-04-23T05:27:44Z",
+        "uri": "https://web.archive.org/web/20130423052744/http://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2013-04-26T15:42:06Z",
+        "uri": "https://web.archive.org/web/20130426154206/http://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2013-04-29T00:36:46Z",
+        "uri": "https://web.archive.org/web/20130429003646/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2013-05-29T20:00:52Z",
+        "uri": "https://web.archive.org/web/20130529200052/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2013-06-01T01:52:56Z",
+        "uri": "https://web.archive.org/web/20130601015256/http://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2013-07-16T09:23:34Z",
+        "uri": "https://web.archive.org/web/20130716092334/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2013-08-06T01:00:11Z",
+        "uri": "https://web.archive.org/web/20130806010011/http://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2013-08-16T14:04:36Z",
+        "uri": "https://web.archive.org/web/20130816140436/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2013-09-16T22:20:18Z",
+        "uri": "https://web.archive.org/web/20130916222018/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2013-09-22T03:51:26Z",
+        "uri": "https://web.archive.org/web/20130922035126/http://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2013-10-19T20:39:13Z",
+        "uri": "https://web.archive.org/web/20131019203913/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2013-10-30T15:17:13Z",
+        "uri": "https://web.archive.org/web/20131030151713/http://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2013-11-20T03:21:50Z",
+        "uri": "https://web.archive.org/web/20131120032150/http://odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2013-11-27T14:49:06Z",
+        "uri": "https://web.archive.org/web/20131127144906/http://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2013-12-21T06:46:23Z",
+        "uri": "https://web.archive.org/web/20131221064623/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2014-01-21T03:51:08Z",
+        "uri": "https://web.archive.org/web/20140121035108/http://odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2014-02-09T03:00:26Z",
+        "uri": "https://web.archive.org/web/20140209030026/http://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2014-02-13T11:09:10Z",
+        "uri": "https://web.archive.org/web/20140213110910/http://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2014-02-21T01:06:46Z",
+        "uri": "https://web.archive.org/web/20140221010646/http://odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2014-03-24T08:11:02Z",
+        "uri": "https://web.archive.org/web/20140324081102/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2014-04-24T08:21:15Z",
+        "uri": "https://web.archive.org/web/20140424082115/http://odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2014-05-25T05:24:59Z",
+        "uri": "https://web.archive.org/web/20140525052459/http://odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2014-06-24T21:02:48Z",
+        "uri": "https://web.archive.org/web/20140624210248/http://odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2014-06-25T07:46:15Z",
+        "uri": "https://web.archive.org/web/20140625074615/http://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2014-07-25T14:13:38Z",
+        "uri": "https://web.archive.org/web/20140725141338/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2014-07-28T13:23:52Z",
+        "uri": "https://web.archive.org/web/20140728132352/http://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2014-08-02T00:26:40Z",
+        "uri": "https://web.archive.org/web/20140802002640/http://www.odu.edu//about/contact"
+      },
+      {
+        "datetime": "2014-08-23T03:12:25Z",
+        "uri": "https://web.archive.org/web/20140823031225/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2014-08-25T14:36:04Z",
+        "uri": "https://web.archive.org/web/20140825143604/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2015-02-17T01:52:29Z",
+        "uri": "https://web.archive.org/web/20150217015229/http://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2015-12-12T21:19:33Z",
+        "uri": "https://web.archive.org/web/20151212211933/http://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2016-02-07T06:44:52Z",
+        "uri": "https://web.archive.org/web/20160207064452/http://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2016-10-27T07:06:10Z",
+        "uri": "https://web.archive.org/web/20161027070610/http://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2016-11-07T08:31:22Z",
+        "uri": "https://web.archive.org/web/20161107083122/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2016-11-19T02:23:34Z",
+        "uri": "https://web.archive.org/web/20161119022334/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2016-11-20T04:55:40Z",
+        "uri": "https://web.archive.org/web/20161120045540/http://odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2016-12-12T00:30:16Z",
+        "uri": "https://web.archive.org/web/20161212003016/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2016-12-24T11:49:40Z",
+        "uri": "https://web.archive.org/web/20161224114940/http://odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2017-01-11T11:21:26Z",
+        "uri": "https://web.archive.org/web/20170111112126/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2017-03-18T08:13:33Z",
+        "uri": "https://web.archive.org/web/20170318081333/http://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2017-03-25T20:57:43Z",
+        "uri": "https://web.archive.org/web/20170325205743/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2017-04-19T06:50:35Z",
+        "uri": "https://web.archive.org/web/20170419065035/http://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2017-05-01T01:22:50Z",
+        "uri": "https://web.archive.org/web/20170501012250/http://odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2017-05-06T22:29:34Z",
+        "uri": "https://web.archive.org/web/20170506222934/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2017-05-09T09:21:05Z",
+        "uri": "https://web.archive.org/web/20170509092105/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2017-06-06T06:22:38Z",
+        "uri": "https://web.archive.org/web/20170606062238/http://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2017-06-07T04:07:21Z",
+        "uri": "https://web.archive.org/web/20170607040721/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2017-06-30T22:29:55Z",
+        "uri": "https://web.archive.org/web/20170630222955/http://odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2017-07-07T23:37:31Z",
+        "uri": "https://web.archive.org/web/20170707233731/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2017-08-07T14:27:33Z",
+        "uri": "https://web.archive.org/web/20170807142733/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2017-08-30T09:27:14Z",
+        "uri": "https://web.archive.org/web/20170830092714/http://odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2017-09-07T14:09:34Z",
+        "uri": "https://web.archive.org/web/20170907140934/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2017-09-09T19:51:16Z",
+        "uri": "https://web.archive.org/web/20170909195116/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2017-10-08T22:55:38Z",
+        "uri": "https://web.archive.org/web/20171008225538/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2017-10-30T12:21:43Z",
+        "uri": "https://web.archive.org/web/20171030122143/http://odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2017-11-26T06:00:59Z",
+        "uri": "https://web.archive.org/web/20171126060059/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2017-12-18T02:46:35Z",
+        "uri": "https://web.archive.org/web/20171218024635/http://odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2017-12-26T23:41:11Z",
+        "uri": "https://web.archive.org/web/20171226234111/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2018-01-09T16:37:31Z",
+        "uri": "https://web.archive.org/web/20180109163731/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2018-01-18T06:00:59Z",
+        "uri": "https://web.archive.org/web/20180118060059/http://odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2018-02-07T15:27:43Z",
+        "uri": "https://web.archive.org/web/20180207152743/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2018-02-18T15:46:49Z",
+        "uri": "https://web.archive.org/web/20180218154649/http://odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2018-03-10T04:40:00Z",
+        "uri": "https://web.archive.org/web/20180310044000/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2018-03-12T12:12:14Z",
+        "uri": "https://web.archive.org/web/20180312121214/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2018-03-21T04:25:13Z",
+        "uri": "https://web.archive.org/web/20180321042513/http://odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2018-04-09T21:08:48Z",
+        "uri": "https://web.archive.org/web/20180409210848/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2018-04-21T09:47:58Z",
+        "uri": "https://web.archive.org/web/20180421094758/http://odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2018-05-11T23:21:23Z",
+        "uri": "https://web.archive.org/web/20180511232123/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2018-05-12T09:59:58Z",
+        "uri": "https://web.archive.org/web/20180512095958/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2018-05-22T15:17:05Z",
+        "uri": "https://web.archive.org/web/20180522151705/http://odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2018-05-26T17:01:22Z",
+        "uri": "https://web.archive.org/web/20180526170122/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2018-06-12T10:36:53Z",
+        "uri": "https://web.archive.org/web/20180612103653/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2018-06-22T14:17:26Z",
+        "uri": "https://web.archive.org/web/20180622141726/http://odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2018-07-13T09:27:41Z",
+        "uri": "https://web.archive.org/web/20180713092741/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2018-07-23T15:40:32Z",
+        "uri": "https://web.archive.org/web/20180723154032/http://odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2018-07-26T14:11:33Z",
+        "uri": "https://web.archive.org/web/20180726141133/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2018-08-13T12:12:43Z",
+        "uri": "https://web.archive.org/web/20180813121243/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2018-08-23T21:13:19Z",
+        "uri": "https://web.archive.org/web/20180823211319/http://odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2018-08-25T11:18:32Z",
+        "uri": "https://web.archive.org/web/20180825111832/http://odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2018-09-08T03:26:28Z",
+        "uri": "https://web.archive.org/web/20180908032628/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2018-09-12T23:40:42Z",
+        "uri": "https://web.archive.org/web/20180912234042/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2018-09-13T17:15:27Z",
+        "uri": "https://web.archive.org/web/20180913171527/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2018-09-25T10:50:14Z",
+        "uri": "https://web.archive.org/web/20180925105014/http://odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2018-10-14T17:16:27Z",
+        "uri": "https://web.archive.org/web/20181014171627/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2018-10-26T20:56:37Z",
+        "uri": "https://web.archive.org/web/20181026205637/http://odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2018-11-05T19:15:45Z",
+        "uri": "https://web.archive.org/web/20181105191545/http://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2018-11-14T19:53:44Z",
+        "uri": "https://web.archive.org/web/20181114195344/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2018-11-27T00:24:14Z",
+        "uri": "https://web.archive.org/web/20181127002414/http://odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2018-12-15T21:14:05Z",
+        "uri": "https://web.archive.org/web/20181215211405/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2018-12-28T06:01:59Z",
+        "uri": "https://web.archive.org/web/20181228060159/http://odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2019-01-15T23:28:36Z",
+        "uri": "https://web.archive.org/web/20190115232836/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2019-01-28T12:32:29Z",
+        "uri": "https://web.archive.org/web/20190128123229/http://odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2019-02-16T04:48:42Z",
+        "uri": "https://web.archive.org/web/20190216044842/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2019-02-28T13:54:40Z",
+        "uri": "https://web.archive.org/web/20190228135440/http://odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2019-03-19T12:04:40Z",
+        "uri": "https://web.archive.org/web/20190319120440/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2019-03-31T09:56:38Z",
+        "uri": "https://web.archive.org/web/20190331095638/http://odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2019-04-08T20:21:51Z",
+        "uri": "https://web.archive.org/web/20190408202151/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2019-04-14T21:35:25Z",
+        "uri": "https://web.archive.org/web/20190414213525/https://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2019-04-17T11:47:01Z",
+        "uri": "https://web.archive.org/web/20190417114701/https://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2019-04-19T22:40:57Z",
+        "uri": "https://web.archive.org/web/20190419224057/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2019-05-01T09:01:52Z",
+        "uri": "https://web.archive.org/web/20190501090152/http://odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2019-05-22T08:11:35Z",
+        "uri": "https://web.archive.org/web/20190522081135/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2019-06-01T20:01:42Z",
+        "uri": "https://web.archive.org/web/20190601200142/http://odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2019-06-04T20:23:15Z",
+        "uri": "https://web.archive.org/web/20190604202315/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2019-06-22T21:13:07Z",
+        "uri": "https://web.archive.org/web/20190622211307/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2019-07-03T14:25:40Z",
+        "uri": "https://web.archive.org/web/20190703142540/http://odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2019-07-23T19:28:26Z",
+        "uri": "https://web.archive.org/web/20190723192826/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2019-08-03T19:35:21Z",
+        "uri": "https://web.archive.org/web/20190803193521/http://odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2019-08-23T15:46:00Z",
+        "uri": "https://web.archive.org/web/20190823154600/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2019-09-03T17:41:18Z",
+        "uri": "https://web.archive.org/web/20190903174118/http://odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2019-09-23T11:05:11Z",
+        "uri": "https://web.archive.org/web/20190923110511/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2019-10-09T06:34:36Z",
+        "uri": "https://web.archive.org/web/20191009063436/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2019-12-08T12:47:50Z",
+        "uri": "https://web.archive.org/web/20191208124750/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2019-12-14T12:54:32Z",
+        "uri": "https://web.archive.org/web/20191214125432/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2019-12-21T17:53:14Z",
+        "uri": "https://web.archive.org/web/20191221175314/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2019-12-21T17:53:21Z",
+        "uri": "https://web.archive.org/web/20191221175321/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2020-02-06T16:50:42Z",
+        "uri": "https://web.archive.org/web/20200206165042/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2020-03-02T06:32:57Z",
+        "uri": "https://web.archive.org/web/20200302063257/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2020-04-16T19:05:49Z",
+        "uri": "https://web.archive.org/web/20200416190549/https://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2020-04-16T19:06:45Z",
+        "uri": "https://web.archive.org/web/20200416190645/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2020-04-16T19:07:18Z",
+        "uri": "https://web.archive.org/web/20200416190718/http://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2020-04-24T14:56:40Z",
+        "uri": "https://web.archive.org/web/20200424145640/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2020-05-01T11:31:01Z",
+        "uri": "https://web.archive.org/web/20200501113101/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2020-06-30T15:41:46Z",
+        "uri": "https://web.archive.org/web/20200630154146/http://www.odu.edu:80/about/contact"
+      },
+      {
+        "datetime": "2020-07-12T10:46:12Z",
+        "uri": "https://web.archive.org/web/20200712104612/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2020-07-13T06:42:03Z",
+        "uri": "https://web.archive.org/web/20200713064203/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2020-07-14T22:09:14Z",
+        "uri": "https://web.archive.org/web/20200714220914/http://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2020-07-29T00:49:46Z",
+        "uri": "https://web.archive.org/web/20200729004946/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2020-10-06T10:07:42Z",
+        "uri": "https://web.archive.org/web/20201006100742/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2021-01-26T11:59:39Z",
+        "uri": "https://web.archive.org/web/20210126115939/https://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2021-02-08T18:52:20Z",
+        "uri": "https://web.archive.org/web/20210208185220/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2021-02-09T11:47:13Z",
+        "uri": "https://web.archive.org/web/20210209114713/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2021-03-21T15:31:49Z",
+        "uri": "https://web.archive.org/web/20210321153149/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2021-04-09T23:29:17Z",
+        "uri": "https://web.archive.org/web/20210409232917/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2021-04-14T10:47:28Z",
+        "uri": "https://web.archive.org/web/20210414104728/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2021-04-15T04:55:40Z",
+        "uri": "https://web.archive.org/web/20210415045540/http://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2021-04-25T18:24:23Z",
+        "uri": "https://web.archive.org/web/20210425182423/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2021-04-30T20:13:12Z",
+        "uri": "https://web.archive.org/web/20210430201312/https://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2021-05-14T15:59:07Z",
+        "uri": "https://web.archive.org/web/20210514155907/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2021-05-20T14:58:45Z",
+        "uri": "https://web.archive.org/web/20210520145845/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2021-05-26T02:04:39Z",
+        "uri": "https://web.archive.org/web/20210526020439/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2021-05-26T19:57:12Z",
+        "uri": "https://web.archive.org/web/20210526195712/https://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2021-05-26T19:57:17Z",
+        "uri": "https://web.archive.org/web/20210526195717/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2021-05-26T19:57:22Z",
+        "uri": "https://web.archive.org/web/20210526195722/http://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2021-06-02T01:59:53Z",
+        "uri": "https://web.archive.org/web/20210602015953/https://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2021-08-11T19:21:38Z",
+        "uri": "https://web.archive.org/web/20210811192138/https://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2021-08-12T06:13:51Z",
+        "uri": "https://web.archive.org/web/20210812061351/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2021-08-12T07:16:12Z",
+        "uri": "https://web.archive.org/web/20210812071612/http://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2021-08-30T09:10:04Z",
+        "uri": "https://web.archive.org/web/20210830091004/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2021-08-30T10:06:19Z",
+        "uri": "https://web.archive.org/web/20210830100619/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2021-09-10T15:35:41Z",
+        "uri": "https://arquivo.pt/wayback/20210910153541mp_/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2021-10-19T19:20:51Z",
+        "uri": "https://web.archive.org/web/20211019192051/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2021-11-03T11:16:23Z",
+        "uri": "https://arquivo.pt/wayback/20211103111623mp_/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2021-11-03T11:16:23Z",
+        "uri": "https://web.archive.org/web/20211103111623/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2021-11-03T11:16:27Z",
+        "uri": "https://arquivo.pt/wayback/20211103111627mp_/http://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2021-11-03T11:16:27Z",
+        "uri": "https://web.archive.org/web/20211103111627/http://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2021-11-10T14:16:23Z",
+        "uri": "https://web.archive.org/web/20211110141623/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2021-12-11T14:31:31Z",
+        "uri": "https://web.archive.org/web/20211211143131/https://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-01-08T16:40:11Z",
+        "uri": "https://web.archive.org/web/20220108164011/https://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-01-10T17:07:50Z",
+        "uri": "https://web.archive.org/web/20220110170750/https://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-01-11T20:16:42Z",
+        "uri": "https://web.archive.org/web/20220111201642/https://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-01-12T16:56:45Z",
+        "uri": "https://web.archive.org/web/20220112165645/https://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-01-12T21:56:38Z",
+        "uri": "https://web.archive.org/web/20220112215638/https://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-01-13T01:01:00Z",
+        "uri": "https://web.archive.org/web/20220113010100/https://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-01-13T19:29:58Z",
+        "uri": "https://web.archive.org/web/20220113192958/https://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-01-16T23:34:33Z",
+        "uri": "https://web.archive.org/web/20220116233433/https://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-01-17T07:07:24Z",
+        "uri": "https://web.archive.org/web/20220117070724/https://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-01-21T21:46:27Z",
+        "uri": "https://web.archive.org/web/20220121214627/https://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-01-22T10:27:32Z",
+        "uri": "https://arquivo.pt/wayback/20220122102732mp_/https://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-01-24T20:27:45Z",
+        "uri": "https://web.archive.org/web/20220124202745/https://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-01-26T02:03:13Z",
+        "uri": "https://web.archive.org/web/20220126020313/https://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-01-26T05:34:43Z",
+        "uri": "https://arquivo.pt/wayback/20220126053443mp_/http://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-01-31T22:17:50Z",
+        "uri": "https://web.archive.org/web/20220131221750/https://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-02-01T22:30:18Z",
+        "uri": "https://web.archive.org/web/20220201223018/https://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-02-03T19:00:38Z",
+        "uri": "https://web.archive.org/web/20220203190038/https://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-02-17T22:25:51Z",
+        "uri": "https://web.archive.org/web/20220217222551/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-03-10T00:32:41Z",
+        "uri": "https://web.archive.org/web/20220310003241/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-03-19T20:10:22Z",
+        "uri": "https://web.archive.org/web/20220319201022/http://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-03-19T20:10:23Z",
+        "uri": "https://web.archive.org/web/20220319201023/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-03-23T06:20:36Z",
+        "uri": "https://web.archive.org/web/20220323062036/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-04-17T00:54:14Z",
+        "uri": "https://web.archive.org/web/20220417005414/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-04-17T05:33:46Z",
+        "uri": "https://arquivo.pt/wayback/20220417053346mp_/https://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-04-19T12:50:38Z",
+        "uri": "https://web.archive.org/web/20220419125038/https://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-04-22T17:16:17Z",
+        "uri": "https://arquivo.pt/wayback/20220422171617mp_/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-04-22T17:16:21Z",
+        "uri": "https://arquivo.pt/wayback/20220422171621mp_/http://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-04-24T18:51:42Z",
+        "uri": "https://arquivo.pt/wayback/20220424185142mp_/http://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-05-14T05:03:48Z",
+        "uri": "https://web.archive.org/web/20220514050348/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-05-25T09:14:30Z",
+        "uri": "https://web.archive.org/web/20220525091430/https://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-06-08T14:59:29Z",
+        "uri": "https://web.archive.org/web/20220608145929/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-06-15T05:39:51Z",
+        "uri": "https://web.archive.org/web/20220615053951/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-06-19T00:42:50Z",
+        "uri": "https://web.archive.org/web/20220619004250/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-06-19T00:49:52Z",
+        "uri": "https://web.archive.org/web/20220619004952/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-06-19T11:20:44Z",
+        "uri": "https://web.archive.org/web/20220619112044/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-06-19T11:29:06Z",
+        "uri": "https://web.archive.org/web/20220619112906/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-06-19T23:24:26Z",
+        "uri": "https://web.archive.org/web/20220619232426/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-06-19T23:29:14Z",
+        "uri": "https://web.archive.org/web/20220619232914/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-07-30T14:42:30Z",
+        "uri": "https://arquivo.pt/wayback/20220730144230mp_/https://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-08-02T18:06:13Z",
+        "uri": "https://web.archive.org/web/20220802180613/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-08-02T22:19:09Z",
+        "uri": "https://web.archive.org/web/20220802221909/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-08-02T23:54:11Z",
+        "uri": "https://web.archive.org/web/20220802235411/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-08-05T01:43:39Z",
+        "uri": "https://web.archive.org/web/20220805014339/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-08-05T20:33:50Z",
+        "uri": "https://web.archive.org/web/20220805203350/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-08-08T02:01:41Z",
+        "uri": "https://web.archive.org/web/20220808020141/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-08-08T11:04:41Z",
+        "uri": "https://web.archive.org/web/20220808110441/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-08-08T17:19:08Z",
+        "uri": "https://web.archive.org/web/20220808171908/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-08-08T18:47:10Z",
+        "uri": "https://web.archive.org/web/20220808184710/https://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-08-09T08:28:08Z",
+        "uri": "https://web.archive.org/web/20220809082808/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-08-09T13:04:27Z",
+        "uri": "https://web.archive.org/web/20220809130427/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-08-10T17:25:27Z",
+        "uri": "https://web.archive.org/web/20220810172527/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-08-10T20:02:01Z",
+        "uri": "https://web.archive.org/web/20220810200201/https://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-08-10T20:02:34Z",
+        "uri": "https://web.archive.org/web/20220810200234/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-08-10T20:02:55Z",
+        "uri": "https://web.archive.org/web/20220810200255/http://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-08-11T07:54:04Z",
+        "uri": "https://web.archive.org/web/20220811075404/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-08-14T17:08:19Z",
+        "uri": "https://web.archive.org/web/20220814170819/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-09-22T15:42:29Z",
+        "uri": "https://web.archive.org/web/20220922154229/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-10-02T15:19:13Z",
+        "uri": "https://web.archive.org/web/20221002151913/https://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-10-14T05:11:21Z",
+        "uri": "https://web.archive.org/web/20221014051121/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-10-19T09:17:34Z",
+        "uri": "https://web.archive.org/web/20221019091734/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-11-07T04:38:27Z",
+        "uri": "https://web.archive.org/web/20221107043827/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-11-07T09:45:34Z",
+        "uri": "https://web.archive.org/web/20221107094534/http://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-12-07T06:52:32Z",
+        "uri": "https://web.archive.org/web/20221207065232/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-12-08T05:58:53Z",
+        "uri": "https://web.archive.org/web/20221208055853/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-12-08T06:50:46Z",
+        "uri": "https://web.archive.org/web/20221208065046/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2022-12-08T07:20:05Z",
+        "uri": "https://web.archive.org/web/20221208072005/http://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2023-01-07T06:37:53Z",
+        "uri": "https://web.archive.org/web/20230107063753/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2023-01-08T03:23:45Z",
+        "uri": "https://web.archive.org/web/20230108032345/http://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2023-01-24T19:25:37Z",
+        "uri": "https://arquivo.pt/wayback/20230124192537mp_/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2023-02-07T05:43:52Z",
+        "uri": "https://web.archive.org/web/20230207054352/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2023-02-08T12:40:28Z",
+        "uri": "https://web.archive.org/web/20230208124028/http://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2023-02-20T00:41:41Z",
+        "uri": "https://web.archive.org/web/20230220004141/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2023-03-07T04:21:07Z",
+        "uri": "https://web.archive.org/web/20230307042107/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2023-03-07T07:02:02Z",
+        "uri": "https://web.archive.org/web/20230307070202/http://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2023-03-27T15:22:03Z",
+        "uri": "https://web.archive.org/web/20230327152203/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2023-03-27T22:28:20Z",
+        "uri": "https://web.archive.org/web/20230327222820/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2023-03-31T21:41:16Z",
+        "uri": "https://web.archive.org/web/20230331214116/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2023-04-02T06:19:53Z",
+        "uri": "https://web.archive.org/web/20230402061953/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2023-05-11T04:08:58Z",
+        "uri": "https://web.archive.org/web/20230511040858/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2023-06-01T09:37:09Z",
+        "uri": "https://web.archive.org/web/20230601093709/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2023-06-04T23:10:49Z",
+        "uri": "https://web.archive.org/web/20230604231049/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2023-06-06T07:42:20Z",
+        "uri": "https://web.archive.org/web/20230606074220/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2023-07-01T11:10:01Z",
+        "uri": "https://web.archive.org/web/20230701111001/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2023-08-02T16:11:19Z",
+        "uri": "https://web.archive.org/web/20230802161119/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2023-08-07T20:44:01Z",
+        "uri": "https://web.archive.org/web/20230807204401/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2023-08-25T17:31:33Z",
+        "uri": "https://web.archive.org/web/20230825173133/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2023-08-26T04:46:33Z",
+        "uri": "https://web.archive.org/web/20230826044633/http://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2023-10-10T16:12:38Z",
+        "uri": "https://web.archive.org/web/20231010161238/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2023-11-01T14:15:28Z",
+        "uri": "https://web.archive.org/web/20231101141528/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2023-11-28T03:54:12Z",
+        "uri": "https://web.archive.org/web/20231128035412/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2023-12-01T11:21:25Z",
+        "uri": "https://web.archive.org/web/20231201112125/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2024-01-01T14:17:03Z",
+        "uri": "https://web.archive.org/web/20240101141703/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2024-01-17T00:35:53Z",
+        "uri": "https://web.archive.org/web/20240117003553/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2024-01-17T00:35:53Z",
+        "uri": "https://web.archive.org/web/20240117003553/http://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2024-02-01T10:07:48Z",
+        "uri": "https://web.archive.org/web/20240201100748/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2024-02-14T16:09:26Z",
+        "uri": "https://web.archive.org/web/20240214160926/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2024-02-21T20:14:16Z",
+        "uri": "https://web.archive.org/web/20240221201416/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2024-02-28T21:33:19Z",
+        "uri": "https://web.archive.org/web/20240228213319/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2024-03-02T10:41:45Z",
+        "uri": "https://web.archive.org/web/20240302104145/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2024-04-01T00:10:48Z",
+        "uri": "https://web.archive.org/web/20240401001048/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2024-04-01T13:06:42Z",
+        "uri": "https://web.archive.org/web/20240401130642/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2024-04-04T07:27:10Z",
+        "uri": "https://web.archive.org/web/20240404072710/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2024-04-27T16:08:26Z",
+        "uri": "https://web.archive.org/web/20240427160826/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2024-05-01T11:59:17Z",
+        "uri": "https://web.archive.org/web/20240501115917/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2024-05-23T08:58:20Z",
+        "uri": "https://web.archive.org/web/20240523085820/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2024-06-01T02:39:00Z",
+        "uri": "https://web.archive.org/web/20240601023900/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2024-06-03T17:57:36Z",
+        "uri": "https://web.archive.org/web/20240603175736/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2024-06-20T09:06:16Z",
+        "uri": "https://web.archive.org/web/20240620090616/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2024-06-30T13:34:38Z",
+        "uri": "https://web.archive.org/web/20240630133438/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2024-07-04T02:49:14Z",
+        "uri": "https://web.archive.org/web/20240704024914/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2024-07-06T14:29:47Z",
+        "uri": "https://web.archive.org/web/20240706142947/http://odu.edu/about/contact"
+      },
+      {
+        "datetime": "2024-07-15T23:30:27Z",
+        "uri": "https://web.archive.org/web/20240715233027/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2024-08-01T00:27:31Z",
+        "uri": "https://web.archive.org/web/20240801002731/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2024-09-10T02:24:42Z",
+        "uri": "https://web.archive.org/web/20240910022442/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2024-09-12T05:53:10Z",
+        "uri": "https://web.archive.org/web/20240912055310/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2024-09-17T10:05:20Z",
+        "uri": "https://web.archive.org/web/20240917100520/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2024-09-24T19:43:07Z",
+        "uri": "https://web.archive.org/web/20240924194307/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2024-10-01T05:01:48Z",
+        "uri": "https://web.archive.org/web/20241001050148/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2024-10-07T12:38:51Z",
+        "uri": "https://web.archive.org/web/20241007123851/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2024-11-04T14:33:02Z",
+        "uri": "https://web.archive.org/web/20241104143302/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2024-11-18T21:24:02Z",
+        "uri": "https://web.archive.org/web/20241118212402/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2024-12-10T11:45:10Z",
+        "uri": "https://web.archive.org/web/20241210114510/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2024-12-25T04:14:32Z",
+        "uri": "https://web.archive.org/web/20241225041432/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2024-12-27T13:16:32Z",
+        "uri": "https://web.archive.org/web/20241227131632/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2025-01-03T22:30:50Z",
+        "uri": "https://web.archive.org/web/20250103223050/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2025-01-13T10:20:41Z",
+        "uri": "https://web.archive.org/web/20250113102041/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2025-01-27T09:21:15Z",
+        "uri": "https://web.archive.org/web/20250127092115/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2025-02-14T10:00:08Z",
+        "uri": "https://web.archive.org/web/20250214100008/https://www.odu.edu/about/contact"
+      },
+      {
+        "datetime": "2025-02-14T23:11:35Z",
+        "uri": "https://web.archive.org/web/20250214231135/https://www.odu.edu/about/contact"
+      }
+    ],
+    "first": {
+      "datetime": "2012-08-31T14:34:19Z",
+      "uri": "https://web.archive.org/web/20120831143419/http://www.odu.edu:80/about/contact"
+    },
+    "last": {
+      "datetime": "2025-02-14T23:11:35Z",
+      "uri": "https://web.archive.org/web/20250214231135/https://www.odu.edu/about/contact"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/about/contact",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/about/contact",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/about/contact"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/about/contact"
+}

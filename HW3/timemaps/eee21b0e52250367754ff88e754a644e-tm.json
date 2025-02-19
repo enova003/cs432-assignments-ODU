@@ -1,0 +1,34 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/wgs/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/wgs/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-07-18T08:07:03Z",
+        "uri": "https://web.archive.org/web/20240718080703/https://catalog.odu.edu/courses/wgs/"
+      },
+      {
+        "datetime": "2024-09-27T06:12:35Z",
+        "uri": "https://web.archive.org/web/20240927061235/https://catalog.odu.edu/courses/wgs/"
+      },
+      {
+        "datetime": "2024-10-13T07:30:40Z",
+        "uri": "https://web.archive.org/web/20241013073040/https://catalog.odu.edu/courses/wgs/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-07-18T08:07:03Z",
+      "uri": "https://web.archive.org/web/20240718080703/https://catalog.odu.edu/courses/wgs/"
+    },
+    "last": {
+      "datetime": "2024-10-13T07:30:40Z",
+      "uri": "https://web.archive.org/web/20241013073040/https://catalog.odu.edu/courses/wgs/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/wgs/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/wgs/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/wgs/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/wgs/"
+}

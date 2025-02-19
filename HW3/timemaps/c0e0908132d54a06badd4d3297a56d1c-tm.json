@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.odu.edu/events/provosts-spotlight-conversation-michelle-kelley-gail-dodge",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/events/provosts-spotlight-conversation-michelle-kelley-gail-dodge",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2025-02-14T09:59:42Z",
+        "uri": "https://web.archive.org/web/20250214095942/https://www.odu.edu/events/provosts-spotlight-conversation-michelle-kelley-gail-dodge"
+      },
+      {
+        "datetime": "2025-02-14T12:20:53Z",
+        "uri": "https://web.archive.org/web/20250214122053/https://www.odu.edu/events/provosts-spotlight-conversation-michelle-kelley-gail-dodge"
+      }
+    ],
+    "first": {
+      "datetime": "2025-02-14T09:59:42Z",
+      "uri": "https://web.archive.org/web/20250214095942/https://www.odu.edu/events/provosts-spotlight-conversation-michelle-kelley-gail-dodge"
+    },
+    "last": {
+      "datetime": "2025-02-14T12:20:53Z",
+      "uri": "https://web.archive.org/web/20250214122053/https://www.odu.edu/events/provosts-spotlight-conversation-michelle-kelley-gail-dodge"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/events/provosts-spotlight-conversation-michelle-kelley-gail-dodge",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/events/provosts-spotlight-conversation-michelle-kelley-gail-dodge",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/events/provosts-spotlight-conversation-michelle-kelley-gail-dodge"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/events/provosts-spotlight-conversation-michelle-kelley-gail-dodge"
+}

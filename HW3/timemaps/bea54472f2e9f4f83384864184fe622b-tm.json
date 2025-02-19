@@ -1,0 +1,42 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/engineering-technology/electrical-computer-engineering/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/engineering-technology/electrical-computer-engineering/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T00:55:09Z",
+        "uri": "https://web.archive.org/web/20230927005509/https://catalog.odu.edu/graduate/engineering-technology/electrical-computer-engineering/"
+      },
+      {
+        "datetime": "2023-09-28T21:45:49Z",
+        "uri": "https://web.archive.org/web/20230928214549/https://catalog.odu.edu/graduate/engineering-technology/electrical-computer-engineering/"
+      },
+      {
+        "datetime": "2024-02-29T16:09:19Z",
+        "uri": "https://web.archive.org/web/20240229160919/https://catalog.odu.edu/graduate/engineering-technology/electrical-computer-engineering/"
+      },
+      {
+        "datetime": "2024-03-04T03:59:39Z",
+        "uri": "https://web.archive.org/web/20240304035939/https://catalog.odu.edu/graduate/engineering-technology/electrical-computer-engineering/"
+      },
+      {
+        "datetime": "2024-03-26T05:53:04Z",
+        "uri": "https://web.archive.org/web/20240326055304/https://catalog.odu.edu/graduate/engineering-technology/electrical-computer-engineering/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T00:55:09Z",
+      "uri": "https://web.archive.org/web/20230927005509/https://catalog.odu.edu/graduate/engineering-technology/electrical-computer-engineering/"
+    },
+    "last": {
+      "datetime": "2024-03-26T05:53:04Z",
+      "uri": "https://web.archive.org/web/20240326055304/https://catalog.odu.edu/graduate/engineering-technology/electrical-computer-engineering/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/engineering-technology/electrical-computer-engineering/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/engineering-technology/electrical-computer-engineering/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/engineering-technology/electrical-computer-engineering/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/engineering-technology/electrical-computer-engineering/"
+}

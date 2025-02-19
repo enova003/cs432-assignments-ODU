@@ -1,0 +1,346 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/sci/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/sci/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:27:34Z",
+        "uri": "https://web.archive.org/web/20120902042734/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2013-05-17T07:55:33Z",
+        "uri": "https://web.archive.org/web/20130517075533/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2014-04-19T03:50:56Z",
+        "uri": "https://web.archive.org/web/20140419035056/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2014-04-19T03:50:56Z",
+        "uri": "https://web.archive.org/web/20140419035056/http://catalog.odu.edu:80/courses/sci"
+      },
+      {
+        "datetime": "2014-04-22T11:54:49Z",
+        "uri": "https://web.archive.org/web/20140422115449/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2014-05-20T17:03:42Z",
+        "uri": "https://web.archive.org/web/20140520170342/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2014-05-20T17:03:42Z",
+        "uri": "https://web.archive.org/web/20140520170342/http://catalog.odu.edu:80/courses/sci"
+      },
+      {
+        "datetime": "2014-06-22T01:32:01Z",
+        "uri": "https://web.archive.org/web/20140622013201/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2014-08-22T03:30:05Z",
+        "uri": "https://web.archive.org/web/20140822033005/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2014-10-21T21:00:27Z",
+        "uri": "https://web.archive.org/web/20141021210027/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2014-11-10T02:03:01Z",
+        "uri": "https://web.archive.org/web/20141110020301/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2014-11-10T02:03:01Z",
+        "uri": "https://web.archive.org/web/20141110020301/http://catalog.odu.edu:80/courses/sci"
+      },
+      {
+        "datetime": "2014-12-19T10:09:39Z",
+        "uri": "https://web.archive.org/web/20141219100939/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2014-12-19T10:09:39Z",
+        "uri": "https://web.archive.org/web/20141219100939/http://catalog.odu.edu:80/courses/sci"
+      },
+      {
+        "datetime": "2014-12-21T05:23:14Z",
+        "uri": "https://web.archive.org/web/20141221052314/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2015-02-15T16:10:07Z",
+        "uri": "https://web.archive.org/web/20150215161007/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2015-04-17T03:20:19Z",
+        "uri": "https://web.archive.org/web/20150417032019/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2015-05-09T20:05:04Z",
+        "uri": "https://web.archive.org/web/20150509200504/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2015-05-09T20:05:04Z",
+        "uri": "https://web.archive.org/web/20150509200504/http://catalog.odu.edu:80/courses/sci"
+      },
+      {
+        "datetime": "2015-05-11T06:55:30Z",
+        "uri": "https://web.archive.org/web/20150511065530/http://catalog.odu.edu/courses/sci/"
+      },
+      {
+        "datetime": "2015-06-09T06:35:11Z",
+        "uri": "https://web.archive.org/web/20150609063511/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2015-06-09T06:35:11Z",
+        "uri": "https://web.archive.org/web/20150609063511/http://catalog.odu.edu:80/courses/sci"
+      },
+      {
+        "datetime": "2015-06-22T20:46:05Z",
+        "uri": "https://web.archive.org/web/20150622204605/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2015-07-03T06:17:21Z",
+        "uri": "https://web.archive.org/web/20150703061721/http://catalog.odu.edu/courses/sci/"
+      },
+      {
+        "datetime": "2015-07-10T03:19:49Z",
+        "uri": "https://web.archive.org/web/20150710031949/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2015-07-10T03:19:49Z",
+        "uri": "https://web.archive.org/web/20150710031949/http://catalog.odu.edu:80/courses/sci"
+      },
+      {
+        "datetime": "2015-08-22T03:44:52Z",
+        "uri": "https://web.archive.org/web/20150822034452/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2015-10-21T19:17:17Z",
+        "uri": "https://web.archive.org/web/20151021191717/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2015-12-21T09:15:06Z",
+        "uri": "https://web.archive.org/web/20151221091506/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2016-02-20T00:47:18Z",
+        "uri": "https://web.archive.org/web/20160220004718/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2016-02-20T13:22:56Z",
+        "uri": "https://web.archive.org/web/20160220132256/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2016-04-08T22:57:00Z",
+        "uri": "https://web.archive.org/web/20160408225700/http://catalog.odu.edu/courses/sci/"
+      },
+      {
+        "datetime": "2016-04-21T10:41:16Z",
+        "uri": "https://web.archive.org/web/20160421104116/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2016-06-21T03:24:40Z",
+        "uri": "https://web.archive.org/web/20160621032440/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2016-06-22T18:25:42Z",
+        "uri": "https://web.archive.org/web/20160622182542/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2016-07-27T04:50:39Z",
+        "uri": "https://web.archive.org/web/20160727045039/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2016-07-27T04:50:39Z",
+        "uri": "https://web.archive.org/web/20160727045039/http://catalog.odu.edu:80/courses/sci"
+      },
+      {
+        "datetime": "2016-07-28T10:16:01Z",
+        "uri": "https://web.archive.org/web/20160728101601/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2016-07-28T10:16:01Z",
+        "uri": "https://web.archive.org/web/20160728101601/http://catalog.odu.edu:80/courses/sci"
+      },
+      {
+        "datetime": "2016-08-22T20:54:21Z",
+        "uri": "https://web.archive.org/web/20160822205421/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2016-08-23T22:26:44Z",
+        "uri": "https://web.archive.org/web/20160823222644/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2016-08-28T19:36:30Z",
+        "uri": "https://web.archive.org/web/20160828193630/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2016-08-28T19:36:30Z",
+        "uri": "https://web.archive.org/web/20160828193630/http://catalog.odu.edu:80/courses/sci"
+      },
+      {
+        "datetime": "2016-09-29T04:45:58Z",
+        "uri": "https://web.archive.org/web/20160929044558/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2016-09-29T04:45:58Z",
+        "uri": "https://web.archive.org/web/20160929044558/http://catalog.odu.edu:80/courses/sci"
+      },
+      {
+        "datetime": "2016-10-24T00:21:37Z",
+        "uri": "https://web.archive.org/web/20161024002137/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2016-10-25T17:06:10Z",
+        "uri": "https://web.archive.org/web/20161025170610/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2016-10-30T17:01:33Z",
+        "uri": "https://web.archive.org/web/20161030170133/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2016-10-30T17:01:33Z",
+        "uri": "https://web.archive.org/web/20161030170133/http://catalog.odu.edu:80/courses/sci"
+      },
+      {
+        "datetime": "2016-12-05T05:01:37Z",
+        "uri": "https://web.archive.org/web/20161205050137/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2017-04-08T18:16:55Z",
+        "uri": "https://web.archive.org/web/20170408181655/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2017-04-27T03:36:12Z",
+        "uri": "https://web.archive.org/web/20170427033612/http://catalog.odu.edu/courses/sci/"
+      },
+      {
+        "datetime": "2017-06-08T07:08:57Z",
+        "uri": "https://web.archive.org/web/20170608070857/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2017-07-09T00:30:13Z",
+        "uri": "https://web.archive.org/web/20170709003013/http://catalog.odu.edu/courses/sci/"
+      },
+      {
+        "datetime": "2017-08-08T13:40:29Z",
+        "uri": "https://web.archive.org/web/20170808134029/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2017-10-08T18:55:52Z",
+        "uri": "https://web.archive.org/web/20171008185552/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2017-12-09T00:11:16Z",
+        "uri": "https://web.archive.org/web/20171209001116/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2018-02-07T18:47:31Z",
+        "uri": "https://web.archive.org/web/20180207184731/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2018-04-09T20:21:56Z",
+        "uri": "https://web.archive.org/web/20180409202156/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2018-06-10T06:22:10Z",
+        "uri": "https://web.archive.org/web/20180610062210/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2018-08-10T07:54:15Z",
+        "uri": "https://web.archive.org/web/20180810075415/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2018-10-10T04:07:30Z",
+        "uri": "https://web.archive.org/web/20181010040730/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2018-10-11T04:27:39Z",
+        "uri": "https://web.archive.org/web/20181011042739/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2018-12-11T10:34:41Z",
+        "uri": "https://web.archive.org/web/20181211103441/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2019-02-11T09:41:51Z",
+        "uri": "https://web.archive.org/web/20190211094151/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2019-04-13T00:24:54Z",
+        "uri": "https://web.archive.org/web/20190413002454/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2019-06-12T16:34:39Z",
+        "uri": "https://web.archive.org/web/20190612163439/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2019-08-13T06:08:52Z",
+        "uri": "https://web.archive.org/web/20190813060852/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2019-10-09T05:29:30Z",
+        "uri": "https://web.archive.org/web/20191009052930/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2019-12-08T12:36:34Z",
+        "uri": "https://web.archive.org/web/20191208123634/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2020-02-06T16:40:23Z",
+        "uri": "https://web.archive.org/web/20200206164023/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2020-03-02T06:15:34Z",
+        "uri": "https://web.archive.org/web/20200302061534/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2020-05-01T08:55:05Z",
+        "uri": "https://web.archive.org/web/20200501085505/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2020-06-30T15:13:40Z",
+        "uri": "https://web.archive.org/web/20200630151340/http://catalog.odu.edu:80/courses/sci/"
+      },
+      {
+        "datetime": "2021-01-22T23:14:50Z",
+        "uri": "https://web.archive.org/web/20210122231450/https://catalog.odu.edu/courses/sci/"
+      },
+      {
+        "datetime": "2021-04-12T20:38:27Z",
+        "uri": "https://web.archive.org/web/20210412203827/http://catalog.odu.edu/courses/sci/"
+      },
+      {
+        "datetime": "2021-11-23T15:42:33Z",
+        "uri": "https://web.archive.org/web/20211123154233/https://catalog.odu.edu/courses/sci/"
+      },
+      {
+        "datetime": "2022-03-19T21:05:49Z",
+        "uri": "https://web.archive.org/web/20220319210549/https://catalog.odu.edu/courses/sci/"
+      },
+      {
+        "datetime": "2024-02-29T16:09:14Z",
+        "uri": "https://web.archive.org/web/20240229160914/https://catalog.odu.edu/courses/sci/"
+      },
+      {
+        "datetime": "2024-08-13T21:06:19Z",
+        "uri": "https://web.archive.org/web/20240813210619/https://catalog.odu.edu/courses/sci/"
+      },
+      {
+        "datetime": "2024-12-07T05:33:28Z",
+        "uri": "https://web.archive.org/web/20241207053328/https://catalog.odu.edu/courses/sci/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:27:34Z",
+      "uri": "https://web.archive.org/web/20120902042734/http://catalog.odu.edu:80/courses/sci/"
+    },
+    "last": {
+      "datetime": "2024-12-07T05:33:28Z",
+      "uri": "https://web.archive.org/web/20241207053328/https://catalog.odu.edu/courses/sci/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/sci/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/sci/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/sci/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/sci/"
+}

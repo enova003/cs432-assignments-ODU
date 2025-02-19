@@ -1,0 +1,66 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/wlc/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/wlc/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-05-29T08:27:43Z",
+        "uri": "https://web.archive.org/web/20200529082743/http://catalog.odu.edu:80/courses/wlc/"
+      },
+      {
+        "datetime": "2020-07-28T13:16:15Z",
+        "uri": "https://web.archive.org/web/20200728131615/http://catalog.odu.edu:80/courses/wlc/"
+      },
+      {
+        "datetime": "2020-09-24T04:25:18Z",
+        "uri": "https://web.archive.org/web/20200924042518/http://catalog.odu.edu/courses/wlc/"
+      },
+      {
+        "datetime": "2020-12-04T23:15:49Z",
+        "uri": "https://web.archive.org/web/20201204231549/https://catalog.odu.edu/courses/wlc/"
+      },
+      {
+        "datetime": "2021-01-22T22:43:01Z",
+        "uri": "https://web.archive.org/web/20210122224301/https://catalog.odu.edu/courses/wlc/"
+      },
+      {
+        "datetime": "2021-11-09T16:50:30Z",
+        "uri": "https://web.archive.org/web/20211109165030/https://catalog.odu.edu/courses/wlc/"
+      },
+      {
+        "datetime": "2022-03-19T21:58:41Z",
+        "uri": "https://web.archive.org/web/20220319215841/https://catalog.odu.edu/courses/wlc/"
+      },
+      {
+        "datetime": "2024-01-11T18:14:16Z",
+        "uri": "https://web.archive.org/web/20240111181416/https://catalog.odu.edu/courses/wlc/"
+      },
+      {
+        "datetime": "2024-06-21T23:28:58Z",
+        "uri": "https://web.archive.org/web/20240621232858/https://catalog.odu.edu/courses/wlc/"
+      },
+      {
+        "datetime": "2024-09-12T05:35:36Z",
+        "uri": "https://web.archive.org/web/20240912053536/https://catalog.odu.edu/courses/wlc/"
+      },
+      {
+        "datetime": "2024-12-07T04:58:06Z",
+        "uri": "https://web.archive.org/web/20241207045806/https://catalog.odu.edu/courses/wlc/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-05-29T08:27:43Z",
+      "uri": "https://web.archive.org/web/20200529082743/http://catalog.odu.edu:80/courses/wlc/"
+    },
+    "last": {
+      "datetime": "2024-12-07T04:58:06Z",
+      "uri": "https://web.archive.org/web/20241207045806/https://catalog.odu.edu/courses/wlc/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/wlc/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/wlc/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/wlc/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/wlc/"
+}

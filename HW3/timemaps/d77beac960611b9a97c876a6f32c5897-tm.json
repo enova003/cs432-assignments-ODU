@@ -1,0 +1,298 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/ppcm/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/ppcm/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2014-04-21T22:24:40Z",
+        "uri": "https://web.archive.org/web/20140421222440/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2014-06-21T11:40:42Z",
+        "uri": "https://web.archive.org/web/20140621114042/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2014-08-21T00:27:32Z",
+        "uri": "https://web.archive.org/web/20140821002732/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2014-10-20T16:24:13Z",
+        "uri": "https://web.archive.org/web/20141020162413/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2014-12-20T10:31:54Z",
+        "uri": "https://web.archive.org/web/20141220103154/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2015-02-15T16:05:49Z",
+        "uri": "https://web.archive.org/web/20150215160549/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2015-04-17T03:19:47Z",
+        "uri": "https://web.archive.org/web/20150417031947/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2015-05-11T07:16:05Z",
+        "uri": "https://web.archive.org/web/20150511071605/http://catalog.odu.edu/courses/ppcm/"
+      },
+      {
+        "datetime": "2015-06-16T14:55:02Z",
+        "uri": "https://web.archive.org/web/20150616145502/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2015-06-22T23:59:55Z",
+        "uri": "https://web.archive.org/web/20150622235955/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2015-06-22T23:59:55Z",
+        "uri": "https://web.archive.org/web/20150622235955/http://catalog.odu.edu:80/courses/ppcm"
+      },
+      {
+        "datetime": "2015-07-03T05:25:01Z",
+        "uri": "https://web.archive.org/web/20150703052501/http://catalog.odu.edu/courses/ppcm/"
+      },
+      {
+        "datetime": "2015-08-16T01:01:34Z",
+        "uri": "https://web.archive.org/web/20150816010134/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2015-10-15T07:23:08Z",
+        "uri": "https://web.archive.org/web/20151015072308/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2015-12-14T15:25:18Z",
+        "uri": "https://web.archive.org/web/20151214152518/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2016-02-13T07:53:14Z",
+        "uri": "https://web.archive.org/web/20160213075314/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2016-04-08T22:59:14Z",
+        "uri": "https://web.archive.org/web/20160408225914/http://catalog.odu.edu/courses/ppcm/"
+      },
+      {
+        "datetime": "2016-04-13T05:45:54Z",
+        "uri": "https://web.archive.org/web/20160413054554/http://catalog.odu.edu/courses/ppcm/"
+      },
+      {
+        "datetime": "2016-04-13T06:16:57Z",
+        "uri": "https://web.archive.org/web/20160413061657/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2016-04-13T06:16:57Z",
+        "uri": "https://web.archive.org/web/20160413061657/http://catalog.odu.edu:80/courses/ppcm"
+      },
+      {
+        "datetime": "2016-04-15T06:55:21Z",
+        "uri": "https://web.archive.org/web/20160415065521/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2016-05-14T01:20:06Z",
+        "uri": "https://web.archive.org/web/20160514012006/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2016-05-14T01:20:06Z",
+        "uri": "https://web.archive.org/web/20160514012006/http://catalog.odu.edu:80/courses/ppcm"
+      },
+      {
+        "datetime": "2016-06-14T12:53:01Z",
+        "uri": "https://web.archive.org/web/20160614125301/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2016-06-14T12:53:01Z",
+        "uri": "https://web.archive.org/web/20160614125301/http://catalog.odu.edu:80/courses/ppcm"
+      },
+      {
+        "datetime": "2016-06-16T04:44:22Z",
+        "uri": "https://web.archive.org/web/20160616044422/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2016-08-16T01:36:04Z",
+        "uri": "https://web.archive.org/web/20160816013604/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2016-10-16T04:46:48Z",
+        "uri": "https://web.archive.org/web/20161016044648/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2016-12-05T05:00:57Z",
+        "uri": "https://web.archive.org/web/20161205050057/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2017-04-08T17:59:19Z",
+        "uri": "https://web.archive.org/web/20170408175919/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2017-04-27T04:08:32Z",
+        "uri": "https://web.archive.org/web/20170427040832/http://catalog.odu.edu/courses/ppcm/"
+      },
+      {
+        "datetime": "2017-05-31T06:01:58Z",
+        "uri": "https://web.archive.org/web/20170531060158/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2017-05-31T06:01:58Z",
+        "uri": "https://web.archive.org/web/20170531060158/http://catalog.odu.edu:80/courses/ppcm"
+      },
+      {
+        "datetime": "2017-06-08T07:08:37Z",
+        "uri": "https://web.archive.org/web/20170608070837/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2017-06-16T04:47:26Z",
+        "uri": "https://web.archive.org/web/20170616044726/http://catalog.odu.edu/courses/ppcm/"
+      },
+      {
+        "datetime": "2017-07-01T19:51:55Z",
+        "uri": "https://web.archive.org/web/20170701195155/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2017-07-01T19:51:55Z",
+        "uri": "https://web.archive.org/web/20170701195155/http://catalog.odu.edu:80/courses/ppcm"
+      },
+      {
+        "datetime": "2017-07-03T03:35:55Z",
+        "uri": "https://web.archive.org/web/20170703033555/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2017-07-03T03:35:55Z",
+        "uri": "https://web.archive.org/web/20170703033555/http://catalog.odu.edu:80/courses/ppcm"
+      },
+      {
+        "datetime": "2017-08-03T05:37:35Z",
+        "uri": "https://web.archive.org/web/20170803053735/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2017-08-03T05:37:35Z",
+        "uri": "https://web.archive.org/web/20170803053735/http://catalog.odu.edu:80/courses/ppcm"
+      },
+      {
+        "datetime": "2017-08-08T13:34:24Z",
+        "uri": "https://web.archive.org/web/20170808133424/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2017-10-08T18:55:37Z",
+        "uri": "https://web.archive.org/web/20171008185537/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2017-12-09T00:22:50Z",
+        "uri": "https://web.archive.org/web/20171209002250/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2018-02-07T18:50:53Z",
+        "uri": "https://web.archive.org/web/20180207185053/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2018-04-09T20:21:31Z",
+        "uri": "https://web.archive.org/web/20180409202131/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2018-06-10T06:27:33Z",
+        "uri": "https://web.archive.org/web/20180610062733/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2018-08-10T07:42:39Z",
+        "uri": "https://web.archive.org/web/20180810074239/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2018-10-10T04:06:34Z",
+        "uri": "https://web.archive.org/web/20181010040634/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2018-10-11T04:26:38Z",
+        "uri": "https://web.archive.org/web/20181011042638/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2018-12-11T10:34:31Z",
+        "uri": "https://web.archive.org/web/20181211103431/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2019-02-11T09:41:26Z",
+        "uri": "https://web.archive.org/web/20190211094126/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2019-04-13T00:20:40Z",
+        "uri": "https://web.archive.org/web/20190413002040/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2019-06-12T16:34:25Z",
+        "uri": "https://web.archive.org/web/20190612163425/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2019-08-13T06:08:48Z",
+        "uri": "https://web.archive.org/web/20190813060848/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2019-10-09T05:29:05Z",
+        "uri": "https://web.archive.org/web/20191009052905/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2019-12-08T12:35:59Z",
+        "uri": "https://web.archive.org/web/20191208123559/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2020-02-06T16:39:53Z",
+        "uri": "https://web.archive.org/web/20200206163953/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2020-03-02T06:06:56Z",
+        "uri": "https://web.archive.org/web/20200302060656/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2020-05-01T08:54:19Z",
+        "uri": "https://web.archive.org/web/20200501085419/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2020-06-30T15:12:56Z",
+        "uri": "https://web.archive.org/web/20200630151256/http://catalog.odu.edu:80/courses/ppcm/"
+      },
+      {
+        "datetime": "2021-01-24T10:13:55Z",
+        "uri": "https://web.archive.org/web/20210124101355/https://catalog.odu.edu/courses/ppcm/"
+      },
+      {
+        "datetime": "2021-04-12T20:26:12Z",
+        "uri": "https://web.archive.org/web/20210412202612/http://catalog.odu.edu/courses/ppcm/"
+      },
+      {
+        "datetime": "2021-11-18T16:10:21Z",
+        "uri": "https://web.archive.org/web/20211118161021/https://catalog.odu.edu/courses/ppcm/"
+      },
+      {
+        "datetime": "2021-12-17T11:44:29Z",
+        "uri": "https://web.archive.org/web/20211217114429/http://catalog.odu.edu/courses/ppcm/"
+      },
+      {
+        "datetime": "2021-12-17T22:18:19Z",
+        "uri": "https://web.archive.org/web/20211217221819/https://catalog.odu.edu/courses/ppcm/"
+      },
+      {
+        "datetime": "2022-03-19T21:54:15Z",
+        "uri": "https://web.archive.org/web/20220319215415/https://catalog.odu.edu/courses/ppcm/"
+      },
+      {
+        "datetime": "2024-02-29T16:09:39Z",
+        "uri": "https://web.archive.org/web/20240229160939/https://catalog.odu.edu/courses/ppcm/"
+      },
+      {
+        "datetime": "2024-07-06T12:05:33Z",
+        "uri": "https://web.archive.org/web/20240706120533/http://catalog.odu.edu/courses/ppcm/"
+      }
+    ],
+    "first": {
+      "datetime": "2014-04-21T22:24:40Z",
+      "uri": "https://web.archive.org/web/20140421222440/http://catalog.odu.edu:80/courses/ppcm/"
+    },
+    "last": {
+      "datetime": "2024-07-06T12:05:33Z",
+      "uri": "https://web.archive.org/web/20240706120533/http://catalog.odu.edu/courses/ppcm/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/ppcm/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/ppcm/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/ppcm/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/ppcm/"
+}

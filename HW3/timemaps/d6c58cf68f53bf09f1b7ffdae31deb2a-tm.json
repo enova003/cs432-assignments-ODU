@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.linkedin.com/company/oducepd",
+  "self": "http://localhost:1208/timemap/json/https://www.linkedin.com/company/oducepd",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-11-18T07:08:53Z",
+        "uri": "https://web.archive.org/web/20241118070853/https://www.linkedin.com/company/oducepd"
+      },
+      {
+        "datetime": "2024-11-21T00:26:32Z",
+        "uri": "https://web.archive.org/web/20241121002632/https://www.linkedin.com/company/oducepd"
+      }
+    ],
+    "first": {
+      "datetime": "2024-11-18T07:08:53Z",
+      "uri": "https://web.archive.org/web/20241118070853/https://www.linkedin.com/company/oducepd"
+    },
+    "last": {
+      "datetime": "2024-11-21T00:26:32Z",
+      "uri": "https://web.archive.org/web/20241121002632/https://www.linkedin.com/company/oducepd"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.linkedin.com/company/oducepd",
+    "json_format": "http://localhost:1208/timemap/json/https://www.linkedin.com/company/oducepd",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.linkedin.com/company/oducepd"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.linkedin.com/company/oducepd"
+}

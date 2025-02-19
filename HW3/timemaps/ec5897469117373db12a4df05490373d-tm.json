@@ -1,0 +1,50 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/general-education-requirements/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/general-education-requirements/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T01:54:56Z",
+        "uri": "https://web.archive.org/web/20230927015456/https://catalog.odu.edu/undergraduate/general-education-requirements/"
+      },
+      {
+        "datetime": "2023-12-05T19:13:14Z",
+        "uri": "https://web.archive.org/web/20231205191314/https://catalog.odu.edu/undergraduate/general-education-requirements/"
+      },
+      {
+        "datetime": "2023-12-09T23:07:00Z",
+        "uri": "https://web.archive.org/web/20231209230700/https://catalog.odu.edu/undergraduate/general-education-requirements/"
+      },
+      {
+        "datetime": "2023-12-17T01:36:34Z",
+        "uri": "https://web.archive.org/web/20231217013634/https://catalog.odu.edu/undergraduate/general-education-requirements/"
+      },
+      {
+        "datetime": "2024-02-29T16:06:25Z",
+        "uri": "https://web.archive.org/web/20240229160625/https://catalog.odu.edu/undergraduate/general-education-requirements/"
+      },
+      {
+        "datetime": "2024-03-15T18:39:58Z",
+        "uri": "https://perma.cc/86N8-NMY4"
+      },
+      {
+        "datetime": "2024-03-15T18:40:00Z",
+        "uri": "https://web.archive.org/web/20240315184000/https://catalog.odu.edu/undergraduate/general-education-requirements/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T01:54:56Z",
+      "uri": "https://web.archive.org/web/20230927015456/https://catalog.odu.edu/undergraduate/general-education-requirements/"
+    },
+    "last": {
+      "datetime": "2024-03-15T18:40:00Z",
+      "uri": "https://web.archive.org/web/20240315184000/https://catalog.odu.edu/undergraduate/general-education-requirements/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/general-education-requirements/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/general-education-requirements/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/general-education-requirements/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/general-education-requirements/"
+}

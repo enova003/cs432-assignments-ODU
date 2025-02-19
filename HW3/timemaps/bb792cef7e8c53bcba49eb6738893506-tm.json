@@ -1,0 +1,422 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/envh/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/envh/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:36:19Z",
+        "uri": "https://web.archive.org/web/20120902043619/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2013-05-18T01:55:54Z",
+        "uri": "https://web.archive.org/web/20130518015554/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2014-06-20T15:26:33Z",
+        "uri": "https://web.archive.org/web/20140620152633/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2014-08-20T12:35:04Z",
+        "uri": "https://web.archive.org/web/20140820123504/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2014-10-20T03:43:23Z",
+        "uri": "https://web.archive.org/web/20141020034323/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2014-11-07T05:16:56Z",
+        "uri": "https://web.archive.org/web/20141107051656/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2014-11-07T05:16:56Z",
+        "uri": "https://web.archive.org/web/20141107051656/http://catalog.odu.edu:80/courses/envh"
+      },
+      {
+        "datetime": "2014-12-30T07:26:56Z",
+        "uri": "https://web.archive.org/web/20141230072656/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2015-01-13T08:05:19Z",
+        "uri": "https://web.archive.org/web/20150113080519/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2015-01-13T08:05:19Z",
+        "uri": "https://web.archive.org/web/20150113080519/http://catalog.odu.edu:80/courses/envh"
+      },
+      {
+        "datetime": "2015-02-15T15:48:16Z",
+        "uri": "https://web.archive.org/web/20150215154816/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2015-04-17T03:06:12Z",
+        "uri": "https://web.archive.org/web/20150417030612/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2015-05-11T08:26:55Z",
+        "uri": "https://web.archive.org/web/20150511082655/http://catalog.odu.edu/courses/envh/"
+      },
+      {
+        "datetime": "2015-06-16T14:50:22Z",
+        "uri": "https://web.archive.org/web/20150616145022/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2015-07-03T07:09:52Z",
+        "uri": "https://web.archive.org/web/20150703070952/http://catalog.odu.edu/courses/envh/"
+      },
+      {
+        "datetime": "2015-08-16T00:47:44Z",
+        "uri": "https://web.archive.org/web/20150816004744/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2015-08-24T02:09:34Z",
+        "uri": "https://web.archive.org/web/20150824020934/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2015-08-24T02:09:34Z",
+        "uri": "https://web.archive.org/web/20150824020934/http://catalog.odu.edu:80/courses/envh"
+      },
+      {
+        "datetime": "2015-09-23T09:35:16Z",
+        "uri": "https://web.archive.org/web/20150923093516/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2015-09-23T09:35:16Z",
+        "uri": "https://web.archive.org/web/20150923093516/http://catalog.odu.edu:80/courses/envh"
+      },
+      {
+        "datetime": "2015-10-15T07:11:25Z",
+        "uri": "https://web.archive.org/web/20151015071125/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2015-10-23T23:40:26Z",
+        "uri": "https://web.archive.org/web/20151023234026/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2015-10-23T23:40:26Z",
+        "uri": "https://web.archive.org/web/20151023234026/http://catalog.odu.edu:80/courses/envh"
+      },
+      {
+        "datetime": "2015-12-13T15:01:02Z",
+        "uri": "https://web.archive.org/web/20151213150102/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2015-12-13T15:01:02Z",
+        "uri": "https://web.archive.org/web/20151213150102/http://catalog.odu.edu:80/courses/envh"
+      },
+      {
+        "datetime": "2015-12-15T03:37:10Z",
+        "uri": "https://web.archive.org/web/20151215033710/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2016-01-13T14:03:40Z",
+        "uri": "https://web.archive.org/web/20160113140340/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2016-01-13T14:03:40Z",
+        "uri": "https://web.archive.org/web/20160113140340/http://catalog.odu.edu:80/courses/envh"
+      },
+      {
+        "datetime": "2016-02-13T15:29:45Z",
+        "uri": "https://web.archive.org/web/20160213152945/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2016-02-13T15:29:45Z",
+        "uri": "https://web.archive.org/web/20160213152945/http://catalog.odu.edu:80/courses/envh"
+      },
+      {
+        "datetime": "2016-02-14T18:42:30Z",
+        "uri": "https://web.archive.org/web/20160214184230/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2016-03-15T18:05:31Z",
+        "uri": "https://web.archive.org/web/20160315180531/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2016-03-15T18:05:31Z",
+        "uri": "https://web.archive.org/web/20160315180531/http://catalog.odu.edu:80/courses/envh"
+      },
+      {
+        "datetime": "2016-04-09T05:05:43Z",
+        "uri": "https://web.archive.org/web/20160409050543/http://catalog.odu.edu/courses/envh/"
+      },
+      {
+        "datetime": "2016-04-15T19:48:46Z",
+        "uri": "https://web.archive.org/web/20160415194846/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2016-06-15T12:52:25Z",
+        "uri": "https://web.archive.org/web/20160615125225/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2016-08-15T10:36:42Z",
+        "uri": "https://web.archive.org/web/20160815103642/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2016-12-05T04:56:01Z",
+        "uri": "https://web.archive.org/web/20161205045601/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2017-04-08T17:57:33Z",
+        "uri": "https://web.archive.org/web/20170408175733/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2017-04-27T06:20:32Z",
+        "uri": "https://web.archive.org/web/20170427062032/http://catalog.odu.edu/courses/envh/"
+      },
+      {
+        "datetime": "2017-06-08T07:05:59Z",
+        "uri": "https://web.archive.org/web/20170608070559/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2017-07-09T02:14:37Z",
+        "uri": "https://web.archive.org/web/20170709021437/http://catalog.odu.edu/courses/envh/"
+      },
+      {
+        "datetime": "2017-08-08T13:33:49Z",
+        "uri": "https://web.archive.org/web/20170808133349/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2017-10-08T19:03:52Z",
+        "uri": "https://web.archive.org/web/20171008190352/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2017-12-10T09:01:09Z",
+        "uri": "https://web.archive.org/web/20171210090109/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2018-02-10T05:33:04Z",
+        "uri": "https://web.archive.org/web/20180210053304/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2018-04-11T18:35:43Z",
+        "uri": "https://web.archive.org/web/20180411183543/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2018-06-12T13:56:44Z",
+        "uri": "https://web.archive.org/web/20180612135644/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2018-08-04T01:40:44Z",
+        "uri": "https://web.archive.org/web/20180804014044/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2018-08-04T01:40:44Z",
+        "uri": "https://web.archive.org/web/20180804014044/http://catalog.odu.edu:80/courses/envh"
+      },
+      {
+        "datetime": "2018-08-13T01:30:38Z",
+        "uri": "https://web.archive.org/web/20180813013038/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2018-09-03T21:52:22Z",
+        "uri": "https://web.archive.org/web/20180903215222/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2018-09-03T21:52:22Z",
+        "uri": "https://web.archive.org/web/20180903215222/http://catalog.odu.edu:80/courses/envh"
+      },
+      {
+        "datetime": "2018-10-04T11:27:58Z",
+        "uri": "https://web.archive.org/web/20181004112758/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2018-10-04T11:27:58Z",
+        "uri": "https://web.archive.org/web/20181004112758/http://catalog.odu.edu:80/courses/envh"
+      },
+      {
+        "datetime": "2018-10-12T11:19:22Z",
+        "uri": "https://web.archive.org/web/20181012111922/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2018-11-04T11:59:47Z",
+        "uri": "https://web.archive.org/web/20181104115947/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2018-11-04T11:59:47Z",
+        "uri": "https://web.archive.org/web/20181104115947/http://catalog.odu.edu:80/courses/envh"
+      },
+      {
+        "datetime": "2018-12-05T21:57:00Z",
+        "uri": "https://web.archive.org/web/20181205215700/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2018-12-05T21:57:00Z",
+        "uri": "https://web.archive.org/web/20181205215700/http://catalog.odu.edu:80/courses/envh"
+      },
+      {
+        "datetime": "2018-12-12T15:40:05Z",
+        "uri": "https://web.archive.org/web/20181212154005/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2018-12-13T23:17:18Z",
+        "uri": "https://web.archive.org/web/20181213231718/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2019-01-06T13:12:44Z",
+        "uri": "https://web.archive.org/web/20190106131244/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2019-01-06T13:12:44Z",
+        "uri": "https://web.archive.org/web/20190106131244/http://catalog.odu.edu:80/courses/envh"
+      },
+      {
+        "datetime": "2019-02-06T12:40:42Z",
+        "uri": "https://web.archive.org/web/20190206124042/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2019-02-06T12:40:42Z",
+        "uri": "https://web.archive.org/web/20190206124042/http://catalog.odu.edu:80/courses/envh"
+      },
+      {
+        "datetime": "2019-02-12T19:42:33Z",
+        "uri": "https://web.archive.org/web/20190212194233/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2019-03-09T07:39:03Z",
+        "uri": "https://web.archive.org/web/20190309073903/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2019-03-09T07:39:03Z",
+        "uri": "https://web.archive.org/web/20190309073903/http://catalog.odu.edu:80/courses/envh"
+      },
+      {
+        "datetime": "2019-04-08T19:54:41Z",
+        "uri": "https://web.archive.org/web/20190408195441/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2019-04-08T19:54:41Z",
+        "uri": "https://web.archive.org/web/20190408195441/http://catalog.odu.edu:80/courses/envh"
+      },
+      {
+        "datetime": "2019-04-14T22:35:18Z",
+        "uri": "https://web.archive.org/web/20190414223518/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2019-05-09T11:15:09Z",
+        "uri": "https://web.archive.org/web/20190509111509/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2019-05-09T11:15:09Z",
+        "uri": "https://web.archive.org/web/20190509111509/http://catalog.odu.edu:80/courses/envh"
+      },
+      {
+        "datetime": "2019-06-09T07:22:19Z",
+        "uri": "https://web.archive.org/web/20190609072219/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2019-06-09T07:22:19Z",
+        "uri": "https://web.archive.org/web/20190609072219/http://catalog.odu.edu:80/courses/envh"
+      },
+      {
+        "datetime": "2019-06-15T14:28:29Z",
+        "uri": "https://web.archive.org/web/20190615142829/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2019-07-21T15:13:20Z",
+        "uri": "https://web.archive.org/web/20190721151320/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2019-07-21T15:13:20Z",
+        "uri": "https://web.archive.org/web/20190721151320/http://catalog.odu.edu:80/courses/envh"
+      },
+      {
+        "datetime": "2019-08-15T18:24:07Z",
+        "uri": "https://web.archive.org/web/20190815182407/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2019-08-21T19:25:29Z",
+        "uri": "https://web.archive.org/web/20190821192529/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2019-08-21T19:25:29Z",
+        "uri": "https://web.archive.org/web/20190821192529/http://catalog.odu.edu:80/courses/envh"
+      },
+      {
+        "datetime": "2019-09-23T00:53:54Z",
+        "uri": "https://web.archive.org/web/20190923005354/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2019-09-23T00:53:54Z",
+        "uri": "https://web.archive.org/web/20190923005354/http://catalog.odu.edu:80/courses/envh"
+      },
+      {
+        "datetime": "2019-10-09T05:25:54Z",
+        "uri": "https://web.archive.org/web/20191009052554/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2019-10-20T16:44:57Z",
+        "uri": "https://web.archive.org/web/20191020164457/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2019-11-20T02:14:45Z",
+        "uri": "https://web.archive.org/web/20191120021445/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2019-12-20T08:30:24Z",
+        "uri": "https://web.archive.org/web/20191220083024/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2020-01-19T16:05:05Z",
+        "uri": "https://web.archive.org/web/20200119160505/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2020-02-18T19:12:52Z",
+        "uri": "https://web.archive.org/web/20200218191252/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2020-03-02T06:04:36Z",
+        "uri": "https://web.archive.org/web/20200302060436/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2020-05-01T08:44:04Z",
+        "uri": "https://web.archive.org/web/20200501084404/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2020-06-30T12:16:04Z",
+        "uri": "https://web.archive.org/web/20200630121604/http://catalog.odu.edu:80/courses/envh/"
+      },
+      {
+        "datetime": "2021-01-22T22:51:18Z",
+        "uri": "https://web.archive.org/web/20210122225118/https://catalog.odu.edu/courses/envh/"
+      },
+      {
+        "datetime": "2021-04-12T20:20:02Z",
+        "uri": "https://web.archive.org/web/20210412202002/http://catalog.odu.edu/courses/envh/"
+      },
+      {
+        "datetime": "2021-11-18T16:10:19Z",
+        "uri": "https://web.archive.org/web/20211118161019/https://catalog.odu.edu/courses/envh/"
+      },
+      {
+        "datetime": "2022-03-19T21:52:25Z",
+        "uri": "https://web.archive.org/web/20220319215225/https://catalog.odu.edu/courses/envh/"
+      },
+      {
+        "datetime": "2024-02-29T16:10:27Z",
+        "uri": "https://web.archive.org/web/20240229161027/https://catalog.odu.edu/courses/envh/"
+      },
+      {
+        "datetime": "2024-08-13T21:00:53Z",
+        "uri": "https://web.archive.org/web/20240813210053/https://catalog.odu.edu/courses/envh/"
+      },
+      {
+        "datetime": "2024-12-07T05:04:28Z",
+        "uri": "https://web.archive.org/web/20241207050428/https://catalog.odu.edu/courses/envh/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:36:19Z",
+      "uri": "https://web.archive.org/web/20120902043619/http://catalog.odu.edu:80/courses/envh/"
+    },
+    "last": {
+      "datetime": "2024-12-07T05:04:28Z",
+      "uri": "https://web.archive.org/web/20241207050428/https://catalog.odu.edu/courses/envh/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/envh/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/envh/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/envh/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/envh/"
+}

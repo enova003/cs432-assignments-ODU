@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/business/military-science-leadership/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/business/military-science-leadership/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-21T18:48:57Z",
+        "uri": "https://web.archive.org/web/20230921184857/https://catalog.odu.edu/undergraduate/business/military-science-leadership/"
+      },
+      {
+        "datetime": "2023-09-27T01:07:48Z",
+        "uri": "https://web.archive.org/web/20230927010748/https://catalog.odu.edu/undergraduate/business/military-science-leadership/"
+      },
+      {
+        "datetime": "2023-12-08T06:22:17Z",
+        "uri": "https://web.archive.org/web/20231208062217/https://catalog.odu.edu/undergraduate/business/military-science-leadership/"
+      },
+      {
+        "datetime": "2023-12-09T23:06:37Z",
+        "uri": "https://web.archive.org/web/20231209230637/https://catalog.odu.edu/undergraduate/business/military-science-leadership/"
+      },
+      {
+        "datetime": "2023-12-09T23:07:18Z",
+        "uri": "https://web.archive.org/web/20231209230718/http://catalog.odu.edu/undergraduate/business/military-science-leadership/"
+      },
+      {
+        "datetime": "2024-03-04T04:12:34Z",
+        "uri": "https://web.archive.org/web/20240304041234/https://catalog.odu.edu/undergraduate/business/military-science-leadership/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-21T18:48:57Z",
+      "uri": "https://web.archive.org/web/20230921184857/https://catalog.odu.edu/undergraduate/business/military-science-leadership/"
+    },
+    "last": {
+      "datetime": "2024-03-04T04:12:34Z",
+      "uri": "https://web.archive.org/web/20240304041234/https://catalog.odu.edu/undergraduate/business/military-science-leadership/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/business/military-science-leadership/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/business/military-science-leadership/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/business/military-science-leadership/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/business/military-science-leadership/"
+}

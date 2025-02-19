@@ -1,0 +1,218 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/cpsy/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/cpsy/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2014-08-22T09:40:48Z",
+        "uri": "https://web.archive.org/web/20140822094048/http://catalog.odu.edu:80/courses/cpsy/"
+      },
+      {
+        "datetime": "2014-10-21T20:47:40Z",
+        "uri": "https://web.archive.org/web/20141021204740/http://catalog.odu.edu:80/courses/cpsy/"
+      },
+      {
+        "datetime": "2014-12-21T05:20:00Z",
+        "uri": "https://web.archive.org/web/20141221052000/http://catalog.odu.edu:80/courses/cpsy/"
+      },
+      {
+        "datetime": "2015-02-15T15:43:25Z",
+        "uri": "https://web.archive.org/web/20150215154325/http://catalog.odu.edu:80/courses/cpsy/"
+      },
+      {
+        "datetime": "2015-04-17T03:04:13Z",
+        "uri": "https://web.archive.org/web/20150417030413/http://catalog.odu.edu:80/courses/cpsy/"
+      },
+      {
+        "datetime": "2015-05-11T08:50:52Z",
+        "uri": "https://web.archive.org/web/20150511085052/http://catalog.odu.edu/courses/cpsy/"
+      },
+      {
+        "datetime": "2015-06-16T14:37:42Z",
+        "uri": "https://web.archive.org/web/20150616143742/http://catalog.odu.edu:80/courses/cpsy/"
+      },
+      {
+        "datetime": "2015-07-03T07:28:24Z",
+        "uri": "https://web.archive.org/web/20150703072824/http://catalog.odu.edu/courses/cpsy/"
+      },
+      {
+        "datetime": "2015-08-16T00:46:25Z",
+        "uri": "https://web.archive.org/web/20150816004625/http://catalog.odu.edu:80/courses/cpsy/"
+      },
+      {
+        "datetime": "2015-10-15T07:10:28Z",
+        "uri": "https://web.archive.org/web/20151015071028/http://catalog.odu.edu:80/courses/cpsy/"
+      },
+      {
+        "datetime": "2015-12-14T15:28:07Z",
+        "uri": "https://web.archive.org/web/20151214152807/http://catalog.odu.edu:80/courses/cpsy/"
+      },
+      {
+        "datetime": "2016-02-13T07:49:37Z",
+        "uri": "https://web.archive.org/web/20160213074937/http://catalog.odu.edu:80/courses/cpsy/"
+      },
+      {
+        "datetime": "2016-04-09T05:08:53Z",
+        "uri": "https://web.archive.org/web/20160409050853/http://catalog.odu.edu/courses/cpsy/"
+      },
+      {
+        "datetime": "2016-04-13T17:41:46Z",
+        "uri": "https://web.archive.org/web/20160413174146/http://catalog.odu.edu:80/courses/cpsy/"
+      },
+      {
+        "datetime": "2016-06-13T10:58:52Z",
+        "uri": "https://web.archive.org/web/20160613105852/http://catalog.odu.edu:80/courses/cpsy/"
+      },
+      {
+        "datetime": "2016-08-13T03:29:48Z",
+        "uri": "https://web.archive.org/web/20160813032948/http://catalog.odu.edu:80/courses/cpsy/"
+      },
+      {
+        "datetime": "2016-10-13T00:05:33Z",
+        "uri": "https://web.archive.org/web/20161013000533/http://catalog.odu.edu:80/courses/cpsy/"
+      },
+      {
+        "datetime": "2016-12-05T04:54:36Z",
+        "uri": "https://web.archive.org/web/20161205045436/http://catalog.odu.edu:80/courses/cpsy/"
+      },
+      {
+        "datetime": "2017-04-08T18:14:59Z",
+        "uri": "https://web.archive.org/web/20170408181459/http://catalog.odu.edu:80/courses/cpsy/"
+      },
+      {
+        "datetime": "2017-04-27T06:35:53Z",
+        "uri": "https://web.archive.org/web/20170427063553/http://catalog.odu.edu/courses/cpsy/"
+      },
+      {
+        "datetime": "2017-06-08T07:05:29Z",
+        "uri": "https://web.archive.org/web/20170608070529/http://catalog.odu.edu:80/courses/cpsy/"
+      },
+      {
+        "datetime": "2017-07-09T02:34:01Z",
+        "uri": "https://web.archive.org/web/20170709023401/http://catalog.odu.edu/courses/cpsy/"
+      },
+      {
+        "datetime": "2017-08-08T13:39:24Z",
+        "uri": "https://web.archive.org/web/20170808133924/http://catalog.odu.edu:80/courses/cpsy/"
+      },
+      {
+        "datetime": "2017-10-08T19:03:38Z",
+        "uri": "https://web.archive.org/web/20171008190338/http://catalog.odu.edu:80/courses/cpsy/"
+      },
+      {
+        "datetime": "2017-12-09T00:10:01Z",
+        "uri": "https://web.archive.org/web/20171209001001/http://catalog.odu.edu:80/courses/cpsy/"
+      },
+      {
+        "datetime": "2018-02-07T18:49:53Z",
+        "uri": "https://web.archive.org/web/20180207184953/http://catalog.odu.edu:80/courses/cpsy/"
+      },
+      {
+        "datetime": "2018-04-09T20:14:05Z",
+        "uri": "https://web.archive.org/web/20180409201405/http://catalog.odu.edu:80/courses/cpsy/"
+      },
+      {
+        "datetime": "2018-06-10T06:20:05Z",
+        "uri": "https://web.archive.org/web/20180610062005/http://catalog.odu.edu:80/courses/cpsy/"
+      },
+      {
+        "datetime": "2018-08-10T07:53:01Z",
+        "uri": "https://web.archive.org/web/20180810075301/http://catalog.odu.edu:80/courses/cpsy/"
+      },
+      {
+        "datetime": "2018-10-11T04:23:51Z",
+        "uri": "https://web.archive.org/web/20181011042351/http://catalog.odu.edu:80/courses/cpsy/"
+      },
+      {
+        "datetime": "2018-12-11T10:29:43Z",
+        "uri": "https://web.archive.org/web/20181211102943/http://catalog.odu.edu:80/courses/cpsy/"
+      },
+      {
+        "datetime": "2019-02-11T09:39:00Z",
+        "uri": "https://web.archive.org/web/20190211093900/http://catalog.odu.edu:80/courses/cpsy/"
+      },
+      {
+        "datetime": "2019-04-13T00:22:38Z",
+        "uri": "https://web.archive.org/web/20190413002238/http://catalog.odu.edu:80/courses/cpsy/"
+      },
+      {
+        "datetime": "2019-06-12T16:32:38Z",
+        "uri": "https://web.archive.org/web/20190612163238/http://catalog.odu.edu:80/courses/cpsy/"
+      },
+      {
+        "datetime": "2019-08-13T04:48:51Z",
+        "uri": "https://web.archive.org/web/20190813044851/http://catalog.odu.edu:80/courses/cpsy/"
+      },
+      {
+        "datetime": "2019-10-09T05:16:42Z",
+        "uri": "https://web.archive.org/web/20191009051642/http://catalog.odu.edu:80/courses/cpsy/"
+      },
+      {
+        "datetime": "2019-12-08T12:31:56Z",
+        "uri": "https://web.archive.org/web/20191208123156/http://catalog.odu.edu:80/courses/cpsy/"
+      },
+      {
+        "datetime": "2020-02-06T16:36:04Z",
+        "uri": "https://web.archive.org/web/20200206163604/http://catalog.odu.edu:80/courses/cpsy/"
+      },
+      {
+        "datetime": "2020-03-02T06:03:30Z",
+        "uri": "https://web.archive.org/web/20200302060330/http://catalog.odu.edu:80/courses/cpsy/"
+      },
+      {
+        "datetime": "2020-05-01T08:39:41Z",
+        "uri": "https://web.archive.org/web/20200501083941/http://catalog.odu.edu:80/courses/cpsy/"
+      },
+      {
+        "datetime": "2020-06-30T12:14:43Z",
+        "uri": "https://web.archive.org/web/20200630121443/http://catalog.odu.edu:80/courses/cpsy/"
+      },
+      {
+        "datetime": "2021-01-22T22:52:44Z",
+        "uri": "https://web.archive.org/web/20210122225244/https://catalog.odu.edu/courses/cpsy/"
+      },
+      {
+        "datetime": "2021-04-12T20:21:40Z",
+        "uri": "https://web.archive.org/web/20210412202140/http://catalog.odu.edu/courses/cpsy/"
+      },
+      {
+        "datetime": "2021-09-15T05:21:33Z",
+        "uri": "https://arquivo.pt/wayback/20210915052133mp_/https://catalog.odu.edu/courses/cpsy/"
+      },
+      {
+        "datetime": "2021-11-08T18:15:36Z",
+        "uri": "https://web.archive.org/web/20211108181536/https://catalog.odu.edu/courses/cpsy/"
+      },
+      {
+        "datetime": "2022-03-19T22:42:23Z",
+        "uri": "https://web.archive.org/web/20220319224223/https://catalog.odu.edu/courses/cpsy/"
+      },
+      {
+        "datetime": "2022-08-03T00:22:56Z",
+        "uri": "https://web.archive.org/web/20220803002256/http://catalog.odu.edu/courses/cpsy/"
+      },
+      {
+        "datetime": "2023-12-17T01:36:34Z",
+        "uri": "https://web.archive.org/web/20231217013634/https://catalog.odu.edu/courses/cpsy/"
+      },
+      {
+        "datetime": "2024-12-07T04:39:29Z",
+        "uri": "https://web.archive.org/web/20241207043929/https://catalog.odu.edu/courses/cpsy/"
+      }
+    ],
+    "first": {
+      "datetime": "2014-08-22T09:40:48Z",
+      "uri": "https://web.archive.org/web/20140822094048/http://catalog.odu.edu:80/courses/cpsy/"
+    },
+    "last": {
+      "datetime": "2024-12-07T04:39:29Z",
+      "uri": "https://web.archive.org/web/20241207043929/https://catalog.odu.edu/courses/cpsy/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/cpsy/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/cpsy/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/cpsy/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/cpsy/"
+}

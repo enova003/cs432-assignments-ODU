@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://www.linkedin.com/company/oduglobal/mycompany/",
+  "self": "http://localhost:1208/timemap/json/https://www.linkedin.com/company/oduglobal/mycompany/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-04-06T00:19:16Z",
+        "uri": "https://web.archive.org/web/20240406001916/https://www.linkedin.com/company/oduglobal/mycompany/"
+      },
+      {
+        "datetime": "2024-04-18T23:53:47Z",
+        "uri": "https://web.archive.org/web/20240418235347/https://www.linkedin.com/company/oduglobal/mycompany/"
+      },
+      {
+        "datetime": "2024-09-09T03:10:15Z",
+        "uri": "https://web.archive.org/web/20240909031015/https://www.linkedin.com/company/oduglobal/mycompany/"
+      },
+      {
+        "datetime": "2025-01-19T13:02:28Z",
+        "uri": "https://web.archive.org/web/20250119130228/https://www.linkedin.com/company/oduglobal/mycompany/"
+      },
+      {
+        "datetime": "2025-01-26T12:58:21Z",
+        "uri": "https://web.archive.org/web/20250126125821/https://www.linkedin.com/company/oduglobal/mycompany/"
+      },
+      {
+        "datetime": "2025-01-26T12:58:23Z",
+        "uri": "https://web.archive.org/web/20250126125823/https://www.linkedin.com/company/oduglobal/mycompany/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-04-06T00:19:16Z",
+      "uri": "https://web.archive.org/web/20240406001916/https://www.linkedin.com/company/oduglobal/mycompany/"
+    },
+    "last": {
+      "datetime": "2025-01-26T12:58:23Z",
+      "uri": "https://web.archive.org/web/20250126125823/https://www.linkedin.com/company/oduglobal/mycompany/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.linkedin.com/company/oduglobal/mycompany/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.linkedin.com/company/oduglobal/mycompany/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.linkedin.com/company/oduglobal/mycompany/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.linkedin.com/company/oduglobal/mycompany/"
+}

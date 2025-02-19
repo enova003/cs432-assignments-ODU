@@ -1,0 +1,50 @@
+{
+  "original_uri": "https://www.odu.edu/student-engagement-traditions/student-orgs/resources",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/student-engagement-traditions/student-orgs/resources",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-08-26T10:58:34Z",
+        "uri": "https://web.archive.org/web/20230826105834/https://www.odu.edu/student-engagement-traditions/student-orgs/resources"
+      },
+      {
+        "datetime": "2023-09-22T11:20:19Z",
+        "uri": "https://web.archive.org/web/20230922112019/https://www.odu.edu/student-engagement-traditions/student-orgs/resources"
+      },
+      {
+        "datetime": "2024-02-21T17:55:31Z",
+        "uri": "https://web.archive.org/web/20240221175531/https://www.odu.edu/student-engagement-traditions/student-orgs/resources"
+      },
+      {
+        "datetime": "2024-02-24T09:31:00Z",
+        "uri": "https://web.archive.org/web/20240224093100/https://www.odu.edu/student-engagement-traditions/student-orgs/resources"
+      },
+      {
+        "datetime": "2024-04-18T00:10:19Z",
+        "uri": "https://web.archive.org/web/20240418001019/https://www.odu.edu/student-engagement-traditions/student-orgs/resources"
+      },
+      {
+        "datetime": "2024-06-14T05:34:46Z",
+        "uri": "https://web.archive.org/web/20240614053446/https://www.odu.edu/student-engagement-traditions/student-orgs/resources"
+      },
+      {
+        "datetime": "2024-10-03T16:38:11Z",
+        "uri": "https://web.archive.org/web/20241003163811/https://www.odu.edu/student-engagement-traditions/student-orgs/resources"
+      }
+    ],
+    "first": {
+      "datetime": "2023-08-26T10:58:34Z",
+      "uri": "https://web.archive.org/web/20230826105834/https://www.odu.edu/student-engagement-traditions/student-orgs/resources"
+    },
+    "last": {
+      "datetime": "2024-10-03T16:38:11Z",
+      "uri": "https://web.archive.org/web/20241003163811/https://www.odu.edu/student-engagement-traditions/student-orgs/resources"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/student-engagement-traditions/student-orgs/resources",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/student-engagement-traditions/student-orgs/resources",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/student-engagement-traditions/student-orgs/resources"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/student-engagement-traditions/student-orgs/resources"
+}

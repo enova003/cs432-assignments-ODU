@@ -1,0 +1,42 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/cge/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/cge/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-07-07T09:50:41Z",
+        "uri": "https://web.archive.org/web/20220707095041/https://catalog.odu.edu/courses/cge/"
+      },
+      {
+        "datetime": "2022-10-31T11:19:44Z",
+        "uri": "https://web.archive.org/web/20221031111944/https://catalog.odu.edu/courses/cge/"
+      },
+      {
+        "datetime": "2022-11-27T01:19:44Z",
+        "uri": "https://web.archive.org/web/20221127011944/https://catalog.odu.edu/courses/cge/"
+      },
+      {
+        "datetime": "2023-12-08T06:22:16Z",
+        "uri": "https://web.archive.org/web/20231208062216/https://catalog.odu.edu/courses/cge/"
+      },
+      {
+        "datetime": "2024-09-27T04:32:42Z",
+        "uri": "https://web.archive.org/web/20240927043242/https://catalog.odu.edu/courses/cge/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-07-07T09:50:41Z",
+      "uri": "https://web.archive.org/web/20220707095041/https://catalog.odu.edu/courses/cge/"
+    },
+    "last": {
+      "datetime": "2024-09-27T04:32:42Z",
+      "uri": "https://web.archive.org/web/20240927043242/https://catalog.odu.edu/courses/cge/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/cge/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/cge/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/cge/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/cge/"
+}

@@ -1,0 +1,510 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/faculty/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/faculty/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2013-08-11T10:36:19Z",
+        "uri": "https://web.archive.org/web/20130811103619/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2013-10-11T02:05:30Z",
+        "uri": "https://web.archive.org/web/20131011020530/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2013-12-10T16:55:32Z",
+        "uri": "https://web.archive.org/web/20131210165532/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2014-02-09T11:15:45Z",
+        "uri": "https://web.archive.org/web/20140209111545/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2014-04-12T18:15:14Z",
+        "uri": "https://web.archive.org/web/20140412181514/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2014-06-12T14:43:02Z",
+        "uri": "https://web.archive.org/web/20140612144302/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2014-08-12T10:39:11Z",
+        "uri": "https://web.archive.org/web/20140812103911/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2014-10-12T06:09:41Z",
+        "uri": "https://web.archive.org/web/20141012060941/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2014-11-13T02:03:42Z",
+        "uri": "https://web.archive.org/web/20141113020342/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2014-11-13T02:03:42Z",
+        "uri": "https://web.archive.org/web/20141113020342/http://catalog.odu.edu:80/graduate/faculty"
+      },
+      {
+        "datetime": "2014-12-17T11:35:41Z",
+        "uri": "https://web.archive.org/web/20141217113541/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2014-12-19T01:40:22Z",
+        "uri": "https://web.archive.org/web/20141219014022/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2014-12-19T01:40:22Z",
+        "uri": "https://web.archive.org/web/20141219014022/http://catalog.odu.edu:80/graduate/faculty"
+      },
+      {
+        "datetime": "2015-02-17T02:34:45Z",
+        "uri": "https://web.archive.org/web/20150217023445/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2015-04-02T01:24:22Z",
+        "uri": "https://web.archive.org/web/20150402012422/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2015-04-02T01:24:22Z",
+        "uri": "https://web.archive.org/web/20150402012422/http://catalog.odu.edu:80/graduate/faculty"
+      },
+      {
+        "datetime": "2015-04-18T13:26:51Z",
+        "uri": "https://web.archive.org/web/20150418132651/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2015-05-02T14:28:03Z",
+        "uri": "https://web.archive.org/web/20150502142803/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2015-05-02T14:28:03Z",
+        "uri": "https://web.archive.org/web/20150502142803/http://catalog.odu.edu:80/graduate/faculty"
+      },
+      {
+        "datetime": "2015-05-11T07:54:00Z",
+        "uri": "https://web.archive.org/web/20150511075400/http://catalog.odu.edu/graduate/faculty/"
+      },
+      {
+        "datetime": "2015-06-02T05:36:43Z",
+        "uri": "https://web.archive.org/web/20150602053643/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2015-06-02T05:36:43Z",
+        "uri": "https://web.archive.org/web/20150602053643/http://catalog.odu.edu:80/graduate/faculty"
+      },
+      {
+        "datetime": "2015-06-18T02:25:23Z",
+        "uri": "https://web.archive.org/web/20150618022523/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2015-07-03T07:31:42Z",
+        "uri": "https://web.archive.org/web/20150703073142/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2015-07-03T07:31:42Z",
+        "uri": "https://web.archive.org/web/20150703073142/http://catalog.odu.edu:80/graduate/faculty"
+      },
+      {
+        "datetime": "2015-08-17T20:42:35Z",
+        "uri": "https://web.archive.org/web/20150817204235/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2015-10-17T15:15:22Z",
+        "uri": "https://web.archive.org/web/20151017151522/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2015-11-07T01:29:45Z",
+        "uri": "https://web.archive.org/web/20151107012945/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2015-11-07T01:29:45Z",
+        "uri": "https://web.archive.org/web/20151107012945/http://catalog.odu.edu:80/graduate/faculty"
+      },
+      {
+        "datetime": "2015-12-07T16:40:40Z",
+        "uri": "https://web.archive.org/web/20151207164040/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2015-12-07T16:40:40Z",
+        "uri": "https://web.archive.org/web/20151207164040/http://catalog.odu.edu:80/graduate/faculty"
+      },
+      {
+        "datetime": "2015-12-17T03:12:39Z",
+        "uri": "https://web.archive.org/web/20151217031239/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2016-01-08T15:23:03Z",
+        "uri": "https://web.archive.org/web/20160108152303/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2016-01-08T15:23:03Z",
+        "uri": "https://web.archive.org/web/20160108152303/http://catalog.odu.edu:80/graduate/faculty"
+      },
+      {
+        "datetime": "2016-02-09T02:24:36Z",
+        "uri": "https://web.archive.org/web/20160209022436/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2016-02-09T02:24:36Z",
+        "uri": "https://web.archive.org/web/20160209022436/http://catalog.odu.edu:80/graduate/faculty"
+      },
+      {
+        "datetime": "2016-03-12T09:19:34Z",
+        "uri": "https://web.archive.org/web/20160312091934/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2016-03-12T09:19:34Z",
+        "uri": "https://web.archive.org/web/20160312091934/http://catalog.odu.edu:80/graduate/faculty"
+      },
+      {
+        "datetime": "2016-04-09T04:55:42Z",
+        "uri": "https://web.archive.org/web/20160409045542/http://catalog.odu.edu/graduate/faculty/"
+      },
+      {
+        "datetime": "2016-04-16T14:31:38Z",
+        "uri": "https://web.archive.org/web/20160416143138/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2016-06-16T18:08:11Z",
+        "uri": "https://web.archive.org/web/20160616180811/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2016-06-16T18:08:11Z",
+        "uri": "https://web.archive.org/web/20160616180811/http://catalog.odu.edu:80/graduate/faculty"
+      },
+      {
+        "datetime": "2016-06-18T10:43:03Z",
+        "uri": "https://web.archive.org/web/20160618104303/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2016-07-18T11:03:13Z",
+        "uri": "https://web.archive.org/web/20160718110313/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2016-07-18T11:03:13Z",
+        "uri": "https://web.archive.org/web/20160718110313/http://catalog.odu.edu:80/graduate/faculty"
+      },
+      {
+        "datetime": "2016-08-18T17:22:23Z",
+        "uri": "https://web.archive.org/web/20160818172223/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2016-08-18T22:50:59Z",
+        "uri": "https://web.archive.org/web/20160818225059/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2016-08-18T22:50:59Z",
+        "uri": "https://web.archive.org/web/20160818225059/http://catalog.odu.edu:80/graduate/faculty"
+      },
+      {
+        "datetime": "2016-09-19T18:41:39Z",
+        "uri": "https://web.archive.org/web/20160919184139/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2016-09-19T18:41:39Z",
+        "uri": "https://web.archive.org/web/20160919184139/http://catalog.odu.edu:80/graduate/faculty"
+      },
+      {
+        "datetime": "2016-09-21T02:00:37Z",
+        "uri": "https://web.archive.org/web/20160921020037/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2016-09-21T02:00:37Z",
+        "uri": "https://web.archive.org/web/20160921020037/http://catalog.odu.edu:80/graduate/faculty"
+      },
+      {
+        "datetime": "2016-10-23T12:05:30Z",
+        "uri": "https://web.archive.org/web/20161023120530/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2016-10-23T12:05:30Z",
+        "uri": "https://web.archive.org/web/20161023120530/http://catalog.odu.edu:80/graduate/faculty"
+      },
+      {
+        "datetime": "2016-12-05T05:05:43Z",
+        "uri": "https://web.archive.org/web/20161205050543/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2017-04-08T18:00:49Z",
+        "uri": "https://web.archive.org/web/20170408180049/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2017-04-27T05:37:34Z",
+        "uri": "https://web.archive.org/web/20170427053734/http://catalog.odu.edu/graduate/faculty/"
+      },
+      {
+        "datetime": "2017-09-05T06:21:00Z",
+        "uri": "https://web.archive.org/web/20170905062100/http://catalog.odu.edu/graduate/faculty/"
+      },
+      {
+        "datetime": "2017-10-07T16:36:07Z",
+        "uri": "https://web.archive.org/web/20171007163607/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2018-02-13T06:02:57Z",
+        "uri": "https://web.archive.org/web/20180213060257/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2018-02-13T06:02:57Z",
+        "uri": "https://web.archive.org/web/20180213060257/http://catalog.odu.edu:80/graduate/faculty"
+      },
+      {
+        "datetime": "2018-03-15T22:19:00Z",
+        "uri": "https://web.archive.org/web/20180315221900/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2018-03-15T22:19:00Z",
+        "uri": "https://web.archive.org/web/20180315221900/http://catalog.odu.edu:80/graduate/faculty"
+      },
+      {
+        "datetime": "2018-04-07T02:45:58Z",
+        "uri": "https://web.archive.org/web/20180407024558/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2018-04-15T21:21:41Z",
+        "uri": "https://web.archive.org/web/20180415212141/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2018-04-15T21:21:41Z",
+        "uri": "https://web.archive.org/web/20180415212141/http://catalog.odu.edu:80/graduate/faculty"
+      },
+      {
+        "datetime": "2018-05-17T00:45:23Z",
+        "uri": "https://web.archive.org/web/20180517004523/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2018-05-17T00:45:23Z",
+        "uri": "https://web.archive.org/web/20180517004523/http://catalog.odu.edu:80/graduate/faculty"
+      },
+      {
+        "datetime": "2018-06-07T02:37:36Z",
+        "uri": "https://web.archive.org/web/20180607023736/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2018-06-08T04:31:58Z",
+        "uri": "https://web.archive.org/web/20180608043158/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2018-06-17T08:49:33Z",
+        "uri": "https://web.archive.org/web/20180617084933/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2018-06-17T08:49:33Z",
+        "uri": "https://web.archive.org/web/20180617084933/http://catalog.odu.edu:80/graduate/faculty"
+      },
+      {
+        "datetime": "2018-07-18T10:07:31Z",
+        "uri": "https://web.archive.org/web/20180718100731/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2018-07-18T10:07:31Z",
+        "uri": "https://web.archive.org/web/20180718100731/http://catalog.odu.edu:80/graduate/faculty"
+      },
+      {
+        "datetime": "2018-08-18T11:08:07Z",
+        "uri": "https://web.archive.org/web/20180818110807/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2018-08-18T11:08:07Z",
+        "uri": "https://web.archive.org/web/20180818110807/http://catalog.odu.edu:80/graduate/faculty"
+      },
+      {
+        "datetime": "2018-09-19T02:14:27Z",
+        "uri": "https://web.archive.org/web/20180919021427/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2018-09-19T02:14:27Z",
+        "uri": "https://web.archive.org/web/20180919021427/http://catalog.odu.edu:80/graduate/faculty"
+      },
+      {
+        "datetime": "2018-10-07T19:18:49Z",
+        "uri": "https://web.archive.org/web/20181007191849/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2018-10-20T08:50:00Z",
+        "uri": "https://web.archive.org/web/20181020085000/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2018-10-20T08:50:00Z",
+        "uri": "https://web.archive.org/web/20181020085000/http://catalog.odu.edu:80/graduate/faculty"
+      },
+      {
+        "datetime": "2018-11-20T05:12:39Z",
+        "uri": "https://web.archive.org/web/20181120051239/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2018-11-20T05:12:39Z",
+        "uri": "https://web.archive.org/web/20181120051239/http://catalog.odu.edu:80/graduate/faculty"
+      },
+      {
+        "datetime": "2018-12-21T13:35:00Z",
+        "uri": "https://web.archive.org/web/20181221133500/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2018-12-21T13:35:00Z",
+        "uri": "https://web.archive.org/web/20181221133500/http://catalog.odu.edu:80/graduate/faculty"
+      },
+      {
+        "datetime": "2019-01-21T12:18:29Z",
+        "uri": "https://web.archive.org/web/20190121121829/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2019-01-21T12:18:29Z",
+        "uri": "https://web.archive.org/web/20190121121829/http://catalog.odu.edu:80/graduate/faculty"
+      },
+      {
+        "datetime": "2019-02-21T16:53:32Z",
+        "uri": "https://web.archive.org/web/20190221165332/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2019-02-21T16:53:32Z",
+        "uri": "https://web.archive.org/web/20190221165332/http://catalog.odu.edu:80/graduate/faculty"
+      },
+      {
+        "datetime": "2019-03-24T15:22:26Z",
+        "uri": "https://web.archive.org/web/20190324152226/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2019-03-24T15:22:26Z",
+        "uri": "https://web.archive.org/web/20190324152226/http://catalog.odu.edu:80/graduate/faculty"
+      },
+      {
+        "datetime": "2019-04-08T17:34:36Z",
+        "uri": "https://web.archive.org/web/20190408173436/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2019-04-24T09:23:31Z",
+        "uri": "https://web.archive.org/web/20190424092331/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2019-04-24T09:23:31Z",
+        "uri": "https://web.archive.org/web/20190424092331/http://catalog.odu.edu:80/graduate/faculty"
+      },
+      {
+        "datetime": "2019-05-25T16:19:33Z",
+        "uri": "https://web.archive.org/web/20190525161933/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2019-05-25T16:19:33Z",
+        "uri": "https://web.archive.org/web/20190525161933/http://catalog.odu.edu:80/graduate/faculty"
+      },
+      {
+        "datetime": "2019-06-08T17:18:32Z",
+        "uri": "https://web.archive.org/web/20190608171832/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2019-06-25T09:46:03Z",
+        "uri": "https://web.archive.org/web/20190625094603/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2019-06-25T09:46:03Z",
+        "uri": "https://web.archive.org/web/20190625094603/http://catalog.odu.edu:80/graduate/faculty"
+      },
+      {
+        "datetime": "2019-07-26T17:31:00Z",
+        "uri": "https://web.archive.org/web/20190726173100/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2019-07-26T17:31:00Z",
+        "uri": "https://web.archive.org/web/20190726173100/http://catalog.odu.edu:80/graduate/faculty"
+      },
+      {
+        "datetime": "2019-08-26T19:14:14Z",
+        "uri": "https://web.archive.org/web/20190826191414/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2019-08-26T19:14:14Z",
+        "uri": "https://web.archive.org/web/20190826191414/http://catalog.odu.edu:80/graduate/faculty"
+      },
+      {
+        "datetime": "2019-09-27T14:48:06Z",
+        "uri": "https://web.archive.org/web/20190927144806/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2019-09-27T14:48:06Z",
+        "uri": "https://web.archive.org/web/20190927144806/http://catalog.odu.edu:80/graduate/faculty"
+      },
+      {
+        "datetime": "2019-10-24T15:31:00Z",
+        "uri": "https://web.archive.org/web/20191024153100/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2019-11-23T22:56:57Z",
+        "uri": "https://web.archive.org/web/20191123225657/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2019-12-24T04:04:06Z",
+        "uri": "https://web.archive.org/web/20191224040406/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2020-01-23T07:56:17Z",
+        "uri": "https://web.archive.org/web/20200123075617/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2020-02-22T11:39:44Z",
+        "uri": "https://web.archive.org/web/20200222113944/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2020-06-27T22:29:38Z",
+        "uri": "https://web.archive.org/web/20200627222938/http://catalog.odu.edu:80/graduate/faculty/"
+      },
+      {
+        "datetime": "2021-01-24T10:14:36Z",
+        "uri": "https://web.archive.org/web/20210124101436/https://catalog.odu.edu/graduate/faculty/"
+      },
+      {
+        "datetime": "2021-04-12T20:26:24Z",
+        "uri": "https://web.archive.org/web/20210412202624/http://catalog.odu.edu/graduate/faculty/"
+      },
+      {
+        "datetime": "2021-11-03T22:00:12Z",
+        "uri": "https://web.archive.org/web/20211103220012/https://catalog.odu.edu/graduate/faculty/"
+      },
+      {
+        "datetime": "2021-11-08T18:19:10Z",
+        "uri": "https://web.archive.org/web/20211108181910/https://catalog.odu.edu/graduate/faculty/"
+      },
+      {
+        "datetime": "2022-03-19T21:36:16Z",
+        "uri": "https://web.archive.org/web/20220319213616/https://catalog.odu.edu/graduate/faculty/"
+      },
+      {
+        "datetime": "2022-03-19T21:36:16Z",
+        "uri": "https://web.archive.org/web/20220319213616/http://catalog.odu.edu/graduate/faculty/"
+      },
+      {
+        "datetime": "2022-03-20T06:17:39Z",
+        "uri": "https://web.archive.org/web/20220320061739/https://catalog.odu.edu/graduate/faculty/"
+      },
+      {
+        "datetime": "2023-04-04T15:30:48Z",
+        "uri": "https://web.archive.org/web/20230404153048/https://catalog.odu.edu/graduate/faculty/"
+      },
+      {
+        "datetime": "2024-02-29T16:09:23Z",
+        "uri": "https://web.archive.org/web/20240229160923/https://catalog.odu.edu/graduate/faculty/"
+      },
+      {
+        "datetime": "2024-08-13T22:50:03Z",
+        "uri": "https://web.archive.org/web/20240813225003/https://catalog.odu.edu/graduate/faculty/"
+      },
+      {
+        "datetime": "2024-11-12T00:50:36Z",
+        "uri": "https://web.archive.org/web/20241112005036/https://catalog.odu.edu/graduate/faculty/"
+      }
+    ],
+    "first": {
+      "datetime": "2013-08-11T10:36:19Z",
+      "uri": "https://web.archive.org/web/20130811103619/http://catalog.odu.edu:80/graduate/faculty/"
+    },
+    "last": {
+      "datetime": "2024-11-12T00:50:36Z",
+      "uri": "https://web.archive.org/web/20241112005036/https://catalog.odu.edu/graduate/faculty/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/faculty/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/faculty/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/faculty/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/faculty/"
+}

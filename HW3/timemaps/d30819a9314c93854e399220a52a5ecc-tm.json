@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/physical-education-health-sport-pedagogy-msed/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/physical-education-health-sport-pedagogy-msed/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-08-01T00:41:07Z",
+        "uri": "https://web.archive.org/web/20240801004107/http://catalog.odu.edu/graduate/education/human-movement-studies-special-education/physical-education-health-sport-pedagogy-msed/"
+      },
+      {
+        "datetime": "2024-08-01T01:39:47Z",
+        "uri": "https://web.archive.org/web/20240801013947/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/physical-education-health-sport-pedagogy-msed/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-08-01T00:41:07Z",
+      "uri": "https://web.archive.org/web/20240801004107/http://catalog.odu.edu/graduate/education/human-movement-studies-special-education/physical-education-health-sport-pedagogy-msed/"
+    },
+    "last": {
+      "datetime": "2024-08-01T01:39:47Z",
+      "uri": "https://web.archive.org/web/20240801013947/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/physical-education-health-sport-pedagogy-msed/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/physical-education-health-sport-pedagogy-msed/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/physical-education-health-sport-pedagogy-msed/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/physical-education-health-sport-pedagogy-msed/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/physical-education-health-sport-pedagogy-msed/"
+}

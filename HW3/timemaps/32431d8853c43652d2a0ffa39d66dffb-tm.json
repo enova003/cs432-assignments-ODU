@@ -1,0 +1,114 @@
+{
+  "original_uri": "https://www.odu.edu/internship",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/internship",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-08-30T10:28:25Z",
+        "uri": "https://web.archive.org/web/20230830102825/https://www.odu.edu/internship"
+      },
+      {
+        "datetime": "2023-11-30T01:45:19Z",
+        "uri": "https://web.archive.org/web/20231130014519/https://www.odu.edu/internship"
+      },
+      {
+        "datetime": "2024-02-23T03:11:44Z",
+        "uri": "https://web.archive.org/web/20240223031144/https://www.odu.edu/internship"
+      },
+      {
+        "datetime": "2024-04-05T20:25:05Z",
+        "uri": "https://web.archive.org/web/20240405202505/https://www.odu.edu/internship"
+      },
+      {
+        "datetime": "2024-04-17T23:36:32Z",
+        "uri": "https://web.archive.org/web/20240417233632/https://www.odu.edu/internship"
+      },
+      {
+        "datetime": "2024-04-21T16:58:14Z",
+        "uri": "https://web.archive.org/web/20240421165814/http://www.odu.edu/internship"
+      },
+      {
+        "datetime": "2024-05-17T22:39:10Z",
+        "uri": "https://web.archive.org/web/20240517223910/http://odu.edu/internship"
+      },
+      {
+        "datetime": "2024-06-02T17:53:21Z",
+        "uri": "https://web.archive.org/web/20240602175321/https://odu.edu/internship"
+      },
+      {
+        "datetime": "2024-06-14T09:44:40Z",
+        "uri": "https://web.archive.org/web/20240614094440/https://www.odu.edu/internship"
+      },
+      {
+        "datetime": "2024-07-04T14:22:27Z",
+        "uri": "https://web.archive.org/web/20240704142227/https://www.odu.edu/internship"
+      },
+      {
+        "datetime": "2024-07-04T15:09:07Z",
+        "uri": "https://web.archive.org/web/20240704150907/https://www.odu.edu/internship"
+      },
+      {
+        "datetime": "2024-07-04T21:59:00Z",
+        "uri": "https://web.archive.org/web/20240704215900/https://www.odu.edu/internship"
+      },
+      {
+        "datetime": "2024-07-25T18:34:13Z",
+        "uri": "https://web.archive.org/web/20240725183413/https://www.odu.edu/internship"
+      },
+      {
+        "datetime": "2024-09-12T06:40:35Z",
+        "uri": "https://web.archive.org/web/20240912064035/https://www.odu.edu/internship"
+      },
+      {
+        "datetime": "2024-10-02T21:00:16Z",
+        "uri": "https://web.archive.org/web/20241002210016/https://www.odu.edu/internship"
+      },
+      {
+        "datetime": "2024-10-07T10:26:26Z",
+        "uri": "https://web.archive.org/web/20241007102626/https://www.odu.edu/internship"
+      },
+      {
+        "datetime": "2024-11-10T09:21:12Z",
+        "uri": "https://web.archive.org/web/20241110092112/https://www.odu.edu/internship"
+      },
+      {
+        "datetime": "2024-11-19T03:55:50Z",
+        "uri": "https://web.archive.org/web/20241119035550/https://www.odu.edu/internship"
+      },
+      {
+        "datetime": "2024-12-10T18:35:35Z",
+        "uri": "https://web.archive.org/web/20241210183535/https://www.odu.edu/internship"
+      },
+      {
+        "datetime": "2024-12-22T16:24:35Z",
+        "uri": "https://web.archive.org/web/20241222162435/https://www.odu.edu/internship"
+      },
+      {
+        "datetime": "2024-12-24T17:53:35Z",
+        "uri": "https://web.archive.org/web/20241224175335/https://www.odu.edu/internship"
+      },
+      {
+        "datetime": "2025-02-12T16:25:41Z",
+        "uri": "https://web.archive.org/web/20250212162541/https://www.odu.edu/internship"
+      },
+      {
+        "datetime": "2025-02-14T09:59:20Z",
+        "uri": "https://web.archive.org/web/20250214095920/https://www.odu.edu/internship"
+      }
+    ],
+    "first": {
+      "datetime": "2023-08-30T10:28:25Z",
+      "uri": "https://web.archive.org/web/20230830102825/https://www.odu.edu/internship"
+    },
+    "last": {
+      "datetime": "2025-02-14T09:59:20Z",
+      "uri": "https://web.archive.org/web/20250214095920/https://www.odu.edu/internship"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/internship",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/internship",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/internship"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/internship"
+}

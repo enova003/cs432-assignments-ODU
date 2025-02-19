@@ -1,0 +1,54 @@
+{
+  "original_uri": "https://online.odu.edu/faculty",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/faculty",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-03-28T14:27:37Z",
+        "uri": "https://web.archive.org/web/20240328142737/https://online.odu.edu/faculty"
+      },
+      {
+        "datetime": "2024-04-23T04:30:25Z",
+        "uri": "https://web.archive.org/web/20240423043025/https://online.odu.edu/faculty"
+      },
+      {
+        "datetime": "2024-05-25T20:09:04Z",
+        "uri": "https://web.archive.org/web/20240525200904/https://online.odu.edu/faculty"
+      },
+      {
+        "datetime": "2024-06-14T00:31:20Z",
+        "uri": "https://web.archive.org/web/20240614003120/https://online.odu.edu/faculty"
+      },
+      {
+        "datetime": "2024-07-10T04:01:34Z",
+        "uri": "https://web.archive.org/web/20240710040134/https://online.odu.edu/faculty"
+      },
+      {
+        "datetime": "2024-09-20T16:49:50Z",
+        "uri": "https://web.archive.org/web/20240920164950/https://online.odu.edu/faculty"
+      },
+      {
+        "datetime": "2024-12-14T22:10:12Z",
+        "uri": "https://web.archive.org/web/20241214221012/https://online.odu.edu/faculty"
+      },
+      {
+        "datetime": "2025-01-19T13:02:49Z",
+        "uri": "https://web.archive.org/web/20250119130249/https://online.odu.edu/faculty"
+      }
+    ],
+    "first": {
+      "datetime": "2024-03-28T14:27:37Z",
+      "uri": "https://web.archive.org/web/20240328142737/https://online.odu.edu/faculty"
+    },
+    "last": {
+      "datetime": "2025-01-19T13:02:49Z",
+      "uri": "https://web.archive.org/web/20250119130249/https://online.odu.edu/faculty"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/faculty",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/faculty",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/faculty"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/faculty"
+}

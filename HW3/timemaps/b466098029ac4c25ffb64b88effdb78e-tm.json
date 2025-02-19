@@ -1,0 +1,50 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/health-sciences/dental-hygiene/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/health-sciences/dental-hygiene/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-21T19:33:55Z",
+        "uri": "https://web.archive.org/web/20230921193355/https://catalog.odu.edu/graduate/health-sciences/dental-hygiene/"
+      },
+      {
+        "datetime": "2023-09-27T02:56:22Z",
+        "uri": "https://web.archive.org/web/20230927025622/https://catalog.odu.edu/graduate/health-sciences/dental-hygiene/"
+      },
+      {
+        "datetime": "2024-02-20T19:29:24Z",
+        "uri": "https://web.archive.org/web/20240220192924/http://catalog.odu.edu/graduate/health-sciences/dental-hygiene/"
+      },
+      {
+        "datetime": "2024-02-21T09:13:27Z",
+        "uri": "https://web.archive.org/web/20240221091327/https://catalog.odu.edu/graduate/health-sciences/dental-hygiene/"
+      },
+      {
+        "datetime": "2024-02-29T16:06:20Z",
+        "uri": "https://web.archive.org/web/20240229160620/https://catalog.odu.edu/graduate/health-sciences/dental-hygiene/"
+      },
+      {
+        "datetime": "2024-03-04T06:07:44Z",
+        "uri": "https://web.archive.org/web/20240304060744/https://catalog.odu.edu/graduate/health-sciences/dental-hygiene/"
+      },
+      {
+        "datetime": "2024-09-26T14:09:39Z",
+        "uri": "https://web.archive.org/web/20240926140939/https://catalog.odu.edu/graduate/health-sciences/dental-hygiene/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-21T19:33:55Z",
+      "uri": "https://web.archive.org/web/20230921193355/https://catalog.odu.edu/graduate/health-sciences/dental-hygiene/"
+    },
+    "last": {
+      "datetime": "2024-09-26T14:09:39Z",
+      "uri": "https://web.archive.org/web/20240926140939/https://catalog.odu.edu/graduate/health-sciences/dental-hygiene/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/health-sciences/dental-hygiene/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/health-sciences/dental-hygiene/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/health-sciences/dental-hygiene/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/health-sciences/dental-hygiene/"
+}

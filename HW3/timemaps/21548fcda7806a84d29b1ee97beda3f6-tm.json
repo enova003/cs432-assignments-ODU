@@ -1,0 +1,230 @@
+{
+  "original_uri": "https://www.odu.edu/procurement/vendors",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/procurement/vendors",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-12-09T21:28:12Z",
+        "uri": "https://web.archive.org/web/20121209212812/http://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2013-01-17T19:16:02Z",
+        "uri": "https://web.archive.org/web/20130117191602/http://odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2013-05-02T19:11:29Z",
+        "uri": "https://web.archive.org/web/20130502191129/http://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2013-08-07T19:03:36Z",
+        "uri": "https://web.archive.org/web/20130807190336/http://odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2014-03-28T19:57:10Z",
+        "uri": "https://web.archive.org/web/20140328195710/http://odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2014-06-22T15:37:31Z",
+        "uri": "https://web.archive.org/web/20140622153731/http://www.odu.edu:80/procurement/vendors"
+      },
+      {
+        "datetime": "2014-07-01T23:07:49Z",
+        "uri": "https://web.archive.org/web/20140701230749/http://odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2017-06-29T18:37:26Z",
+        "uri": "https://web.archive.org/web/20170629183726/http://odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2020-07-15T00:34:17Z",
+        "uri": "https://web.archive.org/web/20200715003417/https://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2020-07-15T00:34:23Z",
+        "uri": "https://web.archive.org/web/20200715003423/http://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2021-04-17T18:20:07Z",
+        "uri": "https://web.archive.org/web/20210417182007/https://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2021-05-27T03:37:30Z",
+        "uri": "https://web.archive.org/web/20210527033730/https://odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2021-05-27T03:37:48Z",
+        "uri": "https://web.archive.org/web/20210527033748/https://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2021-05-27T03:38:05Z",
+        "uri": "https://web.archive.org/web/20210527033805/http://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2021-08-12T10:39:20Z",
+        "uri": "https://web.archive.org/web/20210812103920/https://odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2021-11-15T15:55:27Z",
+        "uri": "https://arquivo.pt/wayback/20211115155527mp_/https://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2021-11-15T15:55:27Z",
+        "uri": "https://web.archive.org/web/20211115155527/https://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2021-11-15T15:55:32Z",
+        "uri": "https://arquivo.pt/wayback/20211115155532mp_/http://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2021-11-15T15:55:32Z",
+        "uri": "https://web.archive.org/web/20211115155532/http://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2022-03-19T20:39:56Z",
+        "uri": "https://web.archive.org/web/20220319203956/https://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2022-05-24T22:40:01Z",
+        "uri": "https://web.archive.org/web/20220524224001/https://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2022-05-27T11:20:10Z",
+        "uri": "https://arquivo.pt/wayback/20220527112010mp_/https://odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2022-06-30T10:29:08Z",
+        "uri": "https://web.archive.org/web/20220630102908/https://odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2022-08-11T05:12:57Z",
+        "uri": "https://web.archive.org/web/20220811051257/https://odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2022-08-11T05:13:03Z",
+        "uri": "https://web.archive.org/web/20220811051303/https://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2022-08-11T05:13:09Z",
+        "uri": "https://web.archive.org/web/20220811051309/http://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2022-10-07T13:33:02Z",
+        "uri": "https://web.archive.org/web/20221007133302/https://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2022-11-07T21:33:27Z",
+        "uri": "https://web.archive.org/web/20221107213327/https://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2022-11-09T16:23:54Z",
+        "uri": "https://web.archive.org/web/20221109162354/http://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2022-11-16T04:35:31Z",
+        "uri": "https://arquivo.pt/wayback/20221116043531mp_/https://odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2022-12-10T22:13:57Z",
+        "uri": "https://web.archive.org/web/20221210221357/https://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2022-12-23T12:12:48Z",
+        "uri": "https://web.archive.org/web/20221223121248/http://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2023-01-10T16:43:56Z",
+        "uri": "https://web.archive.org/web/20230110164356/https://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2023-02-10T09:54:41Z",
+        "uri": "https://web.archive.org/web/20230210095441/https://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2023-03-07T17:25:28Z",
+        "uri": "https://web.archive.org/web/20230307172528/https://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2023-03-17T11:24:57Z",
+        "uri": "https://web.archive.org/web/20230317112457/http://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2023-08-26T14:10:58Z",
+        "uri": "https://web.archive.org/web/20230826141058/https://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2024-03-04T22:27:38Z",
+        "uri": "https://web.archive.org/web/20240304222738/https://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2024-04-04T07:26:27Z",
+        "uri": "https://web.archive.org/web/20240404072627/https://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2024-06-03T21:16:01Z",
+        "uri": "https://web.archive.org/web/20240603211601/http://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2024-07-21T08:23:29Z",
+        "uri": "https://web.archive.org/web/20240721082329/https://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2024-09-17T11:10:53Z",
+        "uri": "https://web.archive.org/web/20240917111053/https://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2024-10-07T10:50:08Z",
+        "uri": "https://web.archive.org/web/20241007105008/https://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2024-10-10T18:04:35Z",
+        "uri": "https://web.archive.org/web/20241010180435/https://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2024-11-04T15:15:16Z",
+        "uri": "https://web.archive.org/web/20241104151516/https://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2024-11-26T21:44:41Z",
+        "uri": "https://web.archive.org/web/20241126214441/https://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2024-12-10T21:58:43Z",
+        "uri": "https://web.archive.org/web/20241210215843/https://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2024-12-19T12:14:59Z",
+        "uri": "https://web.archive.org/web/20241219121459/https://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2024-12-22T15:15:01Z",
+        "uri": "https://web.archive.org/web/20241222151501/https://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2024-12-24T17:56:02Z",
+        "uri": "https://web.archive.org/web/20241224175602/https://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2025-01-13T11:10:56Z",
+        "uri": "https://web.archive.org/web/20250113111056/https://www.odu.edu/procurement/vendors"
+      },
+      {
+        "datetime": "2025-02-14T09:59:27Z",
+        "uri": "https://web.archive.org/web/20250214095927/https://www.odu.edu/procurement/vendors"
+      }
+    ],
+    "first": {
+      "datetime": "2012-12-09T21:28:12Z",
+      "uri": "https://web.archive.org/web/20121209212812/http://www.odu.edu/procurement/vendors"
+    },
+    "last": {
+      "datetime": "2025-02-14T09:59:27Z",
+      "uri": "https://web.archive.org/web/20250214095927/https://www.odu.edu/procurement/vendors"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/procurement/vendors",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/procurement/vendors",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/procurement/vendors"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/procurement/vendors"
+}

@@ -1,0 +1,134 @@
+{
+  "original_uri": "https://online.odu.edu/info-transfer-students",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/info-transfer-students",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-08-07T22:14:14Z",
+        "uri": "https://web.archive.org/web/20200807221414/https://online.odu.edu/info-transfer-students"
+      },
+      {
+        "datetime": "2020-10-25T14:23:24Z",
+        "uri": "https://web.archive.org/web/20201025142324/https://online.odu.edu/info-transfer-students"
+      },
+      {
+        "datetime": "2020-11-25T11:25:00Z",
+        "uri": "https://web.archive.org/web/20201125112500/https://online.odu.edu/info-transfer-students"
+      },
+      {
+        "datetime": "2021-03-03T12:33:34Z",
+        "uri": "https://web.archive.org/web/20210303123334/https://online.odu.edu/info-transfer-students"
+      },
+      {
+        "datetime": "2021-04-13T20:13:13Z",
+        "uri": "https://web.archive.org/web/20210413201313/https://online.odu.edu/info-transfer-students"
+      },
+      {
+        "datetime": "2021-05-07T20:11:09Z",
+        "uri": "https://web.archive.org/web/20210507201109/https://online.odu.edu/info-transfer-students"
+      },
+      {
+        "datetime": "2021-07-31T00:12:13Z",
+        "uri": "https://web.archive.org/web/20210731001213/https://online.odu.edu/info-transfer-students"
+      },
+      {
+        "datetime": "2021-09-23T08:59:29Z",
+        "uri": "https://web.archive.org/web/20210923085929/https://online.odu.edu/info-transfer-students"
+      },
+      {
+        "datetime": "2021-09-24T16:11:07Z",
+        "uri": "https://web.archive.org/web/20210924161107/https://online.odu.edu/info-transfer-students"
+      },
+      {
+        "datetime": "2021-10-11T12:29:43Z",
+        "uri": "https://web.archive.org/web/20211011122943/https://online.odu.edu/info-transfer-students"
+      },
+      {
+        "datetime": "2021-10-27T09:11:30Z",
+        "uri": "https://arquivo.pt/wayback/20211027091130mp_/https://online.odu.edu/info-transfer-students"
+      },
+      {
+        "datetime": "2021-10-27T09:11:30Z",
+        "uri": "https://web.archive.org/web/20211027091130/https://online.odu.edu/info-transfer-students"
+      },
+      {
+        "datetime": "2021-12-09T02:18:07Z",
+        "uri": "https://web.archive.org/web/20211209021807/https://online.odu.edu/info-transfer-students"
+      },
+      {
+        "datetime": "2021-12-09T09:24:04Z",
+        "uri": "https://web.archive.org/web/20211209092404/https://online.odu.edu/info-transfer-students"
+      },
+      {
+        "datetime": "2022-05-27T07:13:43Z",
+        "uri": "https://web.archive.org/web/20220527071343/https://online.odu.edu/info-transfer-students"
+      },
+      {
+        "datetime": "2022-08-07T16:56:29Z",
+        "uri": "https://web.archive.org/web/20220807165629/https://online.odu.edu/info-transfer-students"
+      },
+      {
+        "datetime": "2022-12-02T13:57:56Z",
+        "uri": "https://web.archive.org/web/20221202135756/https://online.odu.edu/info-transfer-students"
+      },
+      {
+        "datetime": "2023-03-25T11:49:46Z",
+        "uri": "https://web.archive.org/web/20230325114946/https://online.odu.edu/info-transfer-students"
+      },
+      {
+        "datetime": "2023-07-15T00:31:07Z",
+        "uri": "https://web.archive.org/web/20230715003107/https://online.odu.edu/info-transfer-students"
+      },
+      {
+        "datetime": "2023-09-24T21:29:36Z",
+        "uri": "https://web.archive.org/web/20230924212936/https://online.odu.edu/info-transfer-students"
+      },
+      {
+        "datetime": "2024-02-25T09:42:22Z",
+        "uri": "https://web.archive.org/web/20240225094222/https://online.odu.edu/info-transfer-students"
+      },
+      {
+        "datetime": "2024-03-17T22:55:52Z",
+        "uri": "https://web.archive.org/web/20240317225552/https://online.odu.edu/info-transfer-students"
+      },
+      {
+        "datetime": "2024-05-25T21:35:46Z",
+        "uri": "https://web.archive.org/web/20240525213546/https://online.odu.edu/info-transfer-students"
+      },
+      {
+        "datetime": "2024-06-04T21:09:47Z",
+        "uri": "https://web.archive.org/web/20240604210947/http://online.odu.edu/info-transfer-students"
+      },
+      {
+        "datetime": "2024-07-21T23:37:41Z",
+        "uri": "https://web.archive.org/web/20240721233741/https://online.odu.edu/info-transfer-students"
+      },
+      {
+        "datetime": "2024-09-20T18:20:44Z",
+        "uri": "https://web.archive.org/web/20240920182044/https://online.odu.edu/info-transfer-students"
+      },
+      {
+        "datetime": "2024-11-05T13:23:31Z",
+        "uri": "https://web.archive.org/web/20241105132331/https://online.odu.edu/info-transfer-students"
+      },
+      {
+        "datetime": "2025-01-19T13:02:25Z",
+        "uri": "https://web.archive.org/web/20250119130225/https://online.odu.edu/info-transfer-students"
+      }
+    ],
+    "first": {
+      "datetime": "2020-08-07T22:14:14Z",
+      "uri": "https://web.archive.org/web/20200807221414/https://online.odu.edu/info-transfer-students"
+    },
+    "last": {
+      "datetime": "2025-01-19T13:02:25Z",
+      "uri": "https://web.archive.org/web/20250119130225/https://online.odu.edu/info-transfer-students"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/info-transfer-students",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/info-transfer-students",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/info-transfer-students"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/info-transfer-students"
+}

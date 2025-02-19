@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/honors-college/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/honors-college/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T00:38:23Z",
+        "uri": "https://web.archive.org/web/20230927003823/https://catalog.odu.edu/undergraduate/honors-college/"
+      },
+      {
+        "datetime": "2024-01-11T18:14:16Z",
+        "uri": "https://web.archive.org/web/20240111181416/https://catalog.odu.edu/undergraduate/honors-college/"
+      },
+      {
+        "datetime": "2024-04-17T21:28:28Z",
+        "uri": "https://web.archive.org/web/20240417212828/https://catalog.odu.edu/undergraduate/honors-college/"
+      },
+      {
+        "datetime": "2024-07-08T00:24:31Z",
+        "uri": "https://web.archive.org/web/20240708002431/https://catalog.odu.edu/undergraduate/honors-college/"
+      },
+      {
+        "datetime": "2024-07-17T09:42:20Z",
+        "uri": "https://web.archive.org/web/20240717094220/https://catalog.odu.edu/undergraduate/honors-college/"
+      },
+      {
+        "datetime": "2024-11-11T23:05:19Z",
+        "uri": "https://web.archive.org/web/20241111230519/https://catalog.odu.edu/undergraduate/honors-college/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T00:38:23Z",
+      "uri": "https://web.archive.org/web/20230927003823/https://catalog.odu.edu/undergraduate/honors-college/"
+    },
+    "last": {
+      "datetime": "2024-11-11T23:05:19Z",
+      "uri": "https://web.archive.org/web/20241111230519/https://catalog.odu.edu/undergraduate/honors-college/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/honors-college/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/honors-college/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/honors-college/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/honors-college/"
+}

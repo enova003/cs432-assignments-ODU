@@ -1,0 +1,182 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/cyse/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/cyse/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-06-06T19:40:21Z",
+        "uri": "https://web.archive.org/web/20170606194021/http://catalog.odu.edu:80/courses/cyse/"
+      },
+      {
+        "datetime": "2017-07-08T23:48:16Z",
+        "uri": "https://web.archive.org/web/20170708234816/http://catalog.odu.edu/courses/cyse/"
+      },
+      {
+        "datetime": "2017-08-08T13:33:39Z",
+        "uri": "https://web.archive.org/web/20170808133339/http://catalog.odu.edu:80/courses/cyse/"
+      },
+      {
+        "datetime": "2017-10-08T18:54:52Z",
+        "uri": "https://web.archive.org/web/20171008185452/http://catalog.odu.edu:80/courses/cyse/"
+      },
+      {
+        "datetime": "2017-10-18T13:12:14Z",
+        "uri": "https://web.archive.org/web/20171018131214/http://catalog.odu.edu:80/courses/cyse/"
+      },
+      {
+        "datetime": "2017-10-18T13:12:14Z",
+        "uri": "https://web.archive.org/web/20171018131214/http://catalog.odu.edu:80/courses/cyse"
+      },
+      {
+        "datetime": "2017-11-18T19:22:22Z",
+        "uri": "https://web.archive.org/web/20171118192222/http://catalog.odu.edu:80/courses/cyse/"
+      },
+      {
+        "datetime": "2017-11-18T19:22:22Z",
+        "uri": "https://web.archive.org/web/20171118192222/http://catalog.odu.edu:80/courses/cyse"
+      },
+      {
+        "datetime": "2017-12-09T00:21:00Z",
+        "uri": "https://web.archive.org/web/20171209002100/http://catalog.odu.edu:80/courses/cyse/"
+      },
+      {
+        "datetime": "2017-12-19T12:35:42Z",
+        "uri": "https://web.archive.org/web/20171219123542/http://catalog.odu.edu:80/courses/cyse/"
+      },
+      {
+        "datetime": "2017-12-19T12:35:42Z",
+        "uri": "https://web.archive.org/web/20171219123542/http://catalog.odu.edu:80/courses/cyse"
+      },
+      {
+        "datetime": "2018-01-08T06:25:20Z",
+        "uri": "https://web.archive.org/web/20180108062520/http://catalog.odu.edu:80/courses/cyse/"
+      },
+      {
+        "datetime": "2018-01-08T06:25:20Z",
+        "uri": "https://web.archive.org/web/20180108062520/http://catalog.odu.edu:80/courses/cyse"
+      },
+      {
+        "datetime": "2018-02-07T16:05:00Z",
+        "uri": "https://web.archive.org/web/20180207160500/http://catalog.odu.edu:80/courses/cyse/"
+      },
+      {
+        "datetime": "2018-02-08T03:53:58Z",
+        "uri": "https://web.archive.org/web/20180208035358/http://catalog.odu.edu:80/courses/cyse/"
+      },
+      {
+        "datetime": "2018-02-08T03:53:58Z",
+        "uri": "https://web.archive.org/web/20180208035358/http://catalog.odu.edu:80/courses/cyse"
+      },
+      {
+        "datetime": "2018-04-09T03:19:17Z",
+        "uri": "https://web.archive.org/web/20180409031917/http://catalog.odu.edu:80/courses/cyse/"
+      },
+      {
+        "datetime": "2018-06-09T02:06:20Z",
+        "uri": "https://web.archive.org/web/20180609020620/http://catalog.odu.edu:80/courses/cyse/"
+      },
+      {
+        "datetime": "2018-08-10T07:51:04Z",
+        "uri": "https://web.archive.org/web/20180810075104/http://catalog.odu.edu:80/courses/cyse/"
+      },
+      {
+        "datetime": "2018-10-10T04:09:10Z",
+        "uri": "https://web.archive.org/web/20181010040910/http://catalog.odu.edu:80/courses/cyse/"
+      },
+      {
+        "datetime": "2018-10-11T04:24:56Z",
+        "uri": "https://web.archive.org/web/20181011042456/http://catalog.odu.edu:80/courses/cyse/"
+      },
+      {
+        "datetime": "2018-12-11T10:33:40Z",
+        "uri": "https://web.archive.org/web/20181211103340/http://catalog.odu.edu:80/courses/cyse/"
+      },
+      {
+        "datetime": "2019-02-11T09:39:05Z",
+        "uri": "https://web.archive.org/web/20190211093905/http://catalog.odu.edu:80/courses/cyse/"
+      },
+      {
+        "datetime": "2019-04-13T00:19:59Z",
+        "uri": "https://web.archive.org/web/20190413001959/http://catalog.odu.edu:80/courses/cyse/"
+      },
+      {
+        "datetime": "2019-08-13T05:21:00Z",
+        "uri": "https://web.archive.org/web/20190813052100/http://catalog.odu.edu:80/courses/cyse/"
+      },
+      {
+        "datetime": "2019-10-09T05:25:04Z",
+        "uri": "https://web.archive.org/web/20191009052504/http://catalog.odu.edu:80/courses/cyse/"
+      },
+      {
+        "datetime": "2019-12-08T12:32:21Z",
+        "uri": "https://web.archive.org/web/20191208123221/http://catalog.odu.edu:80/courses/cyse/"
+      },
+      {
+        "datetime": "2020-02-06T16:36:29Z",
+        "uri": "https://web.archive.org/web/20200206163629/http://catalog.odu.edu:80/courses/cyse/"
+      },
+      {
+        "datetime": "2020-03-02T06:03:45Z",
+        "uri": "https://web.archive.org/web/20200302060345/http://catalog.odu.edu:80/courses/cyse/"
+      },
+      {
+        "datetime": "2020-05-01T08:40:01Z",
+        "uri": "https://web.archive.org/web/20200501084001/http://catalog.odu.edu:80/courses/cyse/"
+      },
+      {
+        "datetime": "2020-06-30T12:15:03Z",
+        "uri": "https://web.archive.org/web/20200630121503/http://catalog.odu.edu:80/courses/cyse/"
+      },
+      {
+        "datetime": "2021-01-24T09:43:22Z",
+        "uri": "https://web.archive.org/web/20210124094322/https://catalog.odu.edu/courses/cyse/"
+      },
+      {
+        "datetime": "2021-04-12T20:26:04Z",
+        "uri": "https://web.archive.org/web/20210412202604/http://catalog.odu.edu/courses/cyse/"
+      },
+      {
+        "datetime": "2021-09-15T05:19:46Z",
+        "uri": "https://arquivo.pt/wayback/20210915051946mp_/https://catalog.odu.edu/courses/cyse/"
+      },
+      {
+        "datetime": "2021-11-03T21:57:36Z",
+        "uri": "https://web.archive.org/web/20211103215736/https://catalog.odu.edu/courses/cyse/"
+      },
+      {
+        "datetime": "2021-11-22T14:27:55Z",
+        "uri": "https://web.archive.org/web/20211122142755/https://catalog.odu.edu/courses/cyse/"
+      },
+      {
+        "datetime": "2024-02-29T16:09:30Z",
+        "uri": "https://web.archive.org/web/20240229160930/https://catalog.odu.edu/courses/cyse/"
+      },
+      {
+        "datetime": "2024-05-28T13:58:32Z",
+        "uri": "https://web.archive.org/web/20240528135832/https://catalog.odu.edu/courses/cyse/"
+      },
+      {
+        "datetime": "2024-08-13T21:35:12Z",
+        "uri": "https://web.archive.org/web/20240813213512/https://catalog.odu.edu/courses/cyse/"
+      },
+      {
+        "datetime": "2024-11-11T23:44:31Z",
+        "uri": "https://web.archive.org/web/20241111234431/https://catalog.odu.edu/courses/cyse/"
+      }
+    ],
+    "first": {
+      "datetime": "2017-06-06T19:40:21Z",
+      "uri": "https://web.archive.org/web/20170606194021/http://catalog.odu.edu:80/courses/cyse/"
+    },
+    "last": {
+      "datetime": "2024-11-11T23:44:31Z",
+      "uri": "https://web.archive.org/web/20241111234431/https://catalog.odu.edu/courses/cyse/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/cyse/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/cyse/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/cyse/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/cyse/"
+}
