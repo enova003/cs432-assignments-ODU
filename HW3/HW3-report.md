@@ -85,23 +85,23 @@ The TimeMap files for each of the URIs can be found at this file path: `spr25-en
 
 |Mementos | URI-Rs |
 |---------:|--------:|
-|   0-10     |  230   |
-|   10-25     |  54   |
-|   25-50     |   61   |
-|   50-75     |   52   |
-|   75-100     |   38   |
-|   100-150     |  55  |
-|   150-200     |   22   |
-|  200-250     |    11   |
-|    250-300      |   10    |
-|    300-400      |   14    |
-|     400-500     |    3   |
-|    500 - 600  |    0   |
-|    600-700      |   1    |
-|    700-800      |   0    |
-|     800-900     |     0  |
-|    900-1000      |   0    |
-|    > 1000      |   3    | 
+|1-10 | 241 |
+|11-25 | 57 |
+| 26-50 | 63 |
+| 51-75 | 53 |
+| 76-100 | 43 |
+| 101-150 | 56 |
+| 151-200 | 24 |
+| 201-250 | 11 |
+| 251-300 | 12 |
+| 301-400 | 14 |
+| 401-500 | 3 |
+| 501-600 | 0 |
+| 601-700 | 1 |
+| 701-800 | 0 |
+| 801-900 | 0 |
+| 901-1000 | 0 |
+| Over 1000 | 11 |
 
 The file that had the most mementos was `ff825663428d986bc4ad8b7e1831756a-tm.json`.  This file has has 11574 mementos.  This surprised me a lot.  File `ff825663428d986bc4ad8b7e1831756a-tm.json` had 9020 mementos, and file `ff825663428d986bc4ad8b7e1831756a-tm.json` had 2224 mementos. This information surprised me a lot because I did not think a file could have that many mementos. 
 
@@ -115,23 +115,6 @@ from collections import defaultdict
 timemaps_directory = 'timemaps'
 
 memento_groups = defaultdict(int)
-
-zeroToTen = 0
-tenToTwentyFive = 0
-twentyFiveToFifty = 0
-fiftyToSeventyFive = 0
-seventyFiveToHundred = 0
-hundredToOneFifty = 0
-oneFiftyToTwoHundred = 0
-twoHundredToTwoFifty = 0
-twoFiftyToThreeHundred = 0
-threeHundredToFourHundred = 0
-fourHundredToFiveHundred = 0
-fiveHundredToSixHundred = 0
-sixHundredToSevenHundred = 0
-sevenHundredToEightHundred = 0
-eightHundredToNineHundred = 0
-nineHundredToTenHundred = 0
 
 for filename in os.listdir(timemaps_directory):
     if filename.endswith('.json'):
@@ -154,60 +137,79 @@ for filename in os.listdir(timemaps_directory):
         except Exception as e:
             print(f"Error processing {filename}: {e}")
 
-sorted_memento_groups = sorted(memento_groups.items())
+zeroToTen = 0
+tenToTwentyFive = 0
+twentyFiveToFifty = 0
+fiftyToSeventyFive = 0
+seventyFiveToHundred = 0
+hundredToOneFifty = 0
+oneFiftyToTwoHundred = 0
+twoHundredToTwoFifty = 0
+twoFiftyToThreeHundred = 0
+threeHundredToFourHundred = 0
+fourHundredToFiveHundred = 0
+fiveHundredToSixHundred = 0
+sixHundredToSevenHundred = 0
+sevenHundredToEightHundred = 0
+eightHundredToNineHundred = 0
+nineHundredToTenHundred = 0
+overOneThousand = 0
 
-for memento_count, file_count in sorted_memento_groups:
-    if memento_count > 0 and memento_count < 10:
+for memento_count, file_count in memento_groups.items():
+    if 0 < memento_count <= 10:
         zeroToTen += file_count
-    if memento_count > 10 and memento_count < 25:
+    elif 10 < memento_count <= 25:
         tenToTwentyFive += file_count
-    if memento_count > 25 and memento_count < 50:
+    elif 25 < memento_count <= 50:
         twentyFiveToFifty += file_count
-    if memento_count > 50 and memento_count < 75:
+    elif 50 < memento_count <= 75:
         fiftyToSeventyFive += file_count
-    if memento_count > 75 and memento_count < 100:
+    elif 75 < memento_count <= 100:
         seventyFiveToHundred += file_count
-    if memento_count > 100 and memento_count < 150:
+    elif 100 < memento_count <= 150:
         hundredToOneFifty += file_count
-    if memento_count > 150 and memento_count < 200:
+    elif 150 < memento_count <= 200:
         oneFiftyToTwoHundred += file_count
-    if memento_count > 200 and memento_count < 250:
+    elif 200 < memento_count <= 250:
         twoHundredToTwoFifty += file_count
-    if memento_count > 250 and memento_count < 300:
+    elif 250 < memento_count <= 300:
         twoFiftyToThreeHundred += file_count
-    if memento_count > 300 and memento_count < 400:
+    elif 300 < memento_count <= 400:
         threeHundredToFourHundred += file_count
-    if memento_count > 400 and memento_count < 500:
+    elif 400 < memento_count <= 500:
         fourHundredToFiveHundred += file_count
-    if memento_count > 500 and memento_count < 600:
+    elif 500 < memento_count <= 600:
         fiveHundredToSixHundred += file_count
-    if memento_count > 600 and memento_count < 700:
+    elif 600 < memento_count <= 700:
         sixHundredToSevenHundred += file_count
-    if memento_count > 700 and memento_count < 800:
+    elif 700 < memento_count <= 800:
         sevenHundredToEightHundred += file_count
-    if memento_count > 800 and memento_count < 900:
+    elif 800 < memento_count <= 900:
         eightHundredToNineHundred += file_count
-    if memento_count > 900 and memento_count < 1000:
+    elif 900 < memento_count <= 1000:
         nineHundredToTenHundred += file_count
-    if memento_count > 1000:
-        print(f"File {filename} has {memento_count} mementos.")
+    elif memento_count > 1000:
+        overOneThousand += file_count
+        print(f"{filename} has {memento_count} mementos")
 
-print(f"0-10: {zeroToTen}")
-print(f"10-25: {tenToTwentyFive}")
-print(f"25-50: {twentyFiveToFifty}")
-print(f"50-75: {fiftyToSeventyFive}")
-print(f"75-100: {seventyFiveToHundred}")
-print(f"100-150: {hundredToOneFifty}")
-print(f"150-200: {oneFiftyToTwoHundred}")
-print(f"200-250: {twoHundredToTwoFifty}")
-print(f"250-300: {twoFiftyToThreeHundred}")
-print(f"300-400: {threeHundredToFourHundred}")
-print(f"400-500: {fourHundredToFiveHundred}")
-print(f"500-600: {fiveHundredToSixHundred}")
-print(f"600-700: {sixHundredToSevenHundred}")
-print(f"700-800: {sevenHundredToEightHundred}")
-print(f"800-900: {eightHundredToNineHundred}")
-print(f"900-1000: {nineHundredToTenHundred}")
+print("\nMemento groups:")
+print(f"1-10: {zeroToTen}")
+print(f"11-25: {tenToTwentyFive}")
+print(f"26-50: {twentyFiveToFifty}")
+print(f"51-75: {fiftyToSeventyFive}")
+print(f"76-100: {seventyFiveToHundred}")
+print(f"101-150: {hundredToOneFifty}")
+print(f"151-200: {oneFiftyToTwoHundred}")
+print(f"201-250: {twoHundredToTwoFifty}")
+print(f"251-300: {twoFiftyToThreeHundred}")
+print(f"301-400: {threeHundredToFourHundred}")
+print(f"401-500: {fourHundredToFiveHundred}")
+print(f"501-600: {fiveHundredToSixHundred}")
+print(f"601-700: {sixHundredToSevenHundred}")
+print(f"701-800: {sevenHundredToEightHundred}")
+print(f"801-900: {eightHundredToNineHundred}")
+print(f"901-1000: {nineHundredToTenHundred}")
+print(f"Over 1000: {overOneThousand}")
 ```
 
 # References
