@@ -83,4 +83,131 @@ The TimeMap files for each of the URIs can be found at this file path: `spr25-en
 
 # Q2 Answer
 
+|Mementos | URI-Rs |
+|---------:|--------:|
+|   0-10     |  230   |
+|   10-25     |  54   |
+|   25-50     |   61   |
+|   50-75     |   52   |
+|   75-100     |   38   |
+|   100-150     |  55  |
+|   150-200     |   22   |
+|  200-250     |    11   |
+|    250-300      |   10    |
+|    300-400      |       |
+|     400-500     |    3   |
+|    500 - 600  |    0   |
+|    600-700      |   1    |
+|    700-800      |   0    |
+|     800-900     |     0  |
+|    900-1000      |   0    |
+|    > 1000      |   3    | 
+
+The file that had the most mementos was `ff825663428d986bc4ad8b7e1831756a-tm.json`.  This file has has 11574 mementos.  This surprised me a lot.  
+
+I created this Python script to help count the mementos: 
+
+```
+import os
+import json
+from collections import defaultdict
+
+timemaps_directory = 'timemaps'
+
+memento_groups = defaultdict(int)
+
+zeroToTen = 0
+tenToTwentyFive = 0
+twentyFiveToFifty = 0
+fiftyToSeventyFive = 0
+seventyFiveToHundred = 0
+hundredToOneFifty = 0
+oneFiftyToTwoHundred = 0
+twoHundredToTwoFifty = 0
+twoFiftyToThreeHundred = 0
+threeHundredToFourHundred = 0
+fourHundredToFiveHundred = 0
+fiveHundredToSixHundred = 0
+sixHundredToSevenHundred = 0
+sevenHundredToEightHundred = 0
+eightHundredToNineHundred = 0
+nineHundredToTenHundred = 0
+
+for filename in os.listdir(timemaps_directory):
+    if filename.endswith('.json'):
+        file_path = os.path.join(timemaps_directory, filename)
+        
+        try:
+            with open(file_path, 'r') as f:
+                content = f.read().strip()  
+                if content:  
+                    data = json.loads(content) 
+                    if 'mementos' in data and 'list' in data['mementos']:
+                        memento_count = len(data['mementos']['list'])
+                    else:
+                        memento_count = 0
+                    memento_groups[memento_count] += 1
+                else:
+                    print(f"Warning: {filename} is empty.")
+        except json.JSONDecodeError:
+            print(f"Warning: {filename} is not a valid JSON file.")
+        except Exception as e:
+            print(f"Error processing {filename}: {e}")
+
+sorted_memento_groups = sorted(memento_groups.items())
+
+for memento_count, file_count in sorted_memento_groups:
+    if memento_count > 0 and memento_count < 10:
+        zeroToTen += file_count
+    if memento_count > 10 and memento_count < 25:
+        tenToTwentyFive += file_count
+    if memento_count > 25 and memento_count < 50:
+        twentyFiveToFifty += file_count
+    if memento_count > 50 and memento_count < 75:
+        fiftyToSeventyFive += file_count
+    if memento_count > 75 and memento_count < 100:
+        seventyFiveToHundred += file_count
+    if memento_count > 100 and memento_count < 150:
+        hundredToOneFifty += file_count
+    if memento_count > 150 and memento_count < 200:
+        oneFiftyToTwoHundred += file_count
+    if memento_count > 200 and memento_count < 250:
+        twoHundredToTwoFifty += file_count
+    if memento_count > 250 and memento_count < 300:
+        twoFiftyToThreeHundred += file_count
+    if memento_count > 300 and memento_count < 400:
+        threeHundredToFourHundred += file_count
+    if memento_count > 400 and memento_count < 500:
+        fourHundredToFiveHundred += file_count
+    if memento_count > 500 and memento_count < 600:
+        fiveHundredToSixHundred += file_count
+    if memento_count > 600 and memento_count < 700:
+        sixHundredToSevenHundred += file_count
+    if memento_count > 700 and memento_count < 800:
+        sevenHundredToEightHundred += file_count
+    if memento_count > 800 and memento_count < 900:
+        eightHundredToNineHundred += file_count
+    if memento_count > 900 and memento_count < 1000:
+        nineHundredToTenHundred += file_count
+    if memento_count > 1000:
+        print(f"File {filename} has {memento_count} mementos.")
+
+print(f"0-10: {zeroToTen}")
+print(f"10-25: {tenToTwentyFive}")
+print(f"25-50: {twentyFiveToFifty}")
+print(f"50-75: {fiftyToSeventyFive}")
+print(f"75-100: {seventyFiveToHundred}")
+print(f"100-150: {hundredToOneFifty}")
+print(f"150-200: {oneFiftyToTwoHundred}")
+print(f"200-250: {twoHundredToTwoFifty}")
+print(f"250-300: {twoFiftyToThreeHundred}")
+print(f"300-400: {threeHundredToFourHundred}")
+print(f"400-500: {fourHundredToFiveHundred}")
+print(f"500-600: {fiveHundredToSixHundred}")
+print(f"600-700: {sixHundredToSevenHundred}")
+print(f"700-800: {sevenHundredToEightHundred}")
+print(f"800-900: {eightHundredToNineHundred}")
+print(f"900-1000: {nineHundredToTenHundred}")
+```
+
 # References
