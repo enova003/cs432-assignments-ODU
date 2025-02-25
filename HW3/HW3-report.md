@@ -103,7 +103,7 @@ The TimeMap files for each of the URIs can be found at this file path: `spr25-en
 | 901-1000 | 0 |
 | Over 1000 | 11 |
 
-The file that had the most mementos was `ff825663428d986bc4ad8b7e1831756a-tm.json`.  This file has has 11574 mementos.  This surprised me a lot.  File `ff825663428d986bc4ad8b7e1831756a-tm.json` had 9020 mementos, and file `ff825663428d986bc4ad8b7e1831756a-tm.json` had 2224 mementos. This information surprised me a lot because I did not think a file could have that many mementos. 
+The files that had the most mementos were `81fb90c387b8a021235f6a4396be1fd7-tm.json`, `7d51e0fc5b5da98f5d37fdba731db1b0-tm.json`, and `a3e286cff87559bfdf9bad1aa1eff92f-tm.json`.  These files had over 40,000 mementos. This information surprised me a lot because I did not think a file could have that many mementos. 
 
 I created this Python script to help count the mementos: 
 
@@ -190,7 +190,6 @@ for memento_count, file_count in memento_groups.items():
         nineHundredToTenHundred += file_count
     elif memento_count > 1000:
         overOneThousand += file_count
-        print(f"{filename} has {memento_count} mementos")
 
 print("\nMemento groups:")
 print(f"1-10: {zeroToTen}")
