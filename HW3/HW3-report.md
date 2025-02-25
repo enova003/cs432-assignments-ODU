@@ -212,4 +212,4 @@ print(f"Over 1000: {overOneThousand}")
 ```
 
 # References
-* Python - How to count items in JSON data <https://stackoverflow.com/questions/27315472/how-to-count-items-in-json-data>
+* Python - How to count items in JSON data, <https://stackoverflow.com/questions/27315472/how-to-count-items-in-json-data>
