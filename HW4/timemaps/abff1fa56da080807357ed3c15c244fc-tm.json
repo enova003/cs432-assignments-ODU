@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://online.odu.edu/partners/academic-partnerships",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/partners/academic-partnerships",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-06-13T23:40:22Z",
+        "uri": "https://web.archive.org/web/20240613234022/https://online.odu.edu/partners/academic-partnerships"
+      },
+      {
+        "datetime": "2024-08-19T19:38:47Z",
+        "uri": "https://web.archive.org/web/20240819193847/https://online.odu.edu/partners/academic-partnerships"
+      },
+      {
+        "datetime": "2024-09-13T05:08:19Z",
+        "uri": "https://web.archive.org/web/20240913050819/https://online.odu.edu/partners/academic-partnerships"
+      },
+      {
+        "datetime": "2024-09-20T17:22:01Z",
+        "uri": "https://web.archive.org/web/20240920172201/https://online.odu.edu/partners/academic-partnerships"
+      },
+      {
+        "datetime": "2024-12-14T22:17:09Z",
+        "uri": "https://web.archive.org/web/20241214221709/https://online.odu.edu/partners/academic-partnerships"
+      },
+      {
+        "datetime": "2025-01-19T13:02:34Z",
+        "uri": "https://web.archive.org/web/20250119130234/https://online.odu.edu/partners/academic-partnerships"
+      }
+    ],
+    "first": {
+      "datetime": "2024-06-13T23:40:22Z",
+      "uri": "https://web.archive.org/web/20240613234022/https://online.odu.edu/partners/academic-partnerships"
+    },
+    "last": {
+      "datetime": "2025-01-19T13:02:34Z",
+      "uri": "https://web.archive.org/web/20250119130234/https://online.odu.edu/partners/academic-partnerships"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/partners/academic-partnerships",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/partners/academic-partnerships",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/partners/academic-partnerships"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/partners/academic-partnerships"
+}

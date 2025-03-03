@@ -1,0 +1,538 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/enma/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/enma/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:25:41Z",
+        "uri": "https://web.archive.org/web/20120902042541/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2013-05-17T07:47:15Z",
+        "uri": "https://web.archive.org/web/20130517074715/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2014-06-20T15:43:39Z",
+        "uri": "https://web.archive.org/web/20140620154339/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2014-08-20T12:38:28Z",
+        "uri": "https://web.archive.org/web/20140820123828/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2014-10-20T03:43:18Z",
+        "uri": "https://web.archive.org/web/20141020034318/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2014-12-19T15:10:54Z",
+        "uri": "https://web.archive.org/web/20141219151054/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2014-12-26T21:01:38Z",
+        "uri": "https://web.archive.org/web/20141226210138/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2014-12-26T21:01:38Z",
+        "uri": "https://web.archive.org/web/20141226210138/http://catalog.odu.edu:80/courses/enma"
+      },
+      {
+        "datetime": "2015-01-27T05:47:42Z",
+        "uri": "https://web.archive.org/web/20150127054742/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2015-01-27T05:47:42Z",
+        "uri": "https://web.archive.org/web/20150127054742/http://catalog.odu.edu:80/courses/enma"
+      },
+      {
+        "datetime": "2015-02-15T15:48:06Z",
+        "uri": "https://web.archive.org/web/20150215154806/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2015-04-05T01:55:01Z",
+        "uri": "https://web.archive.org/web/20150405015501/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2015-04-05T01:55:01Z",
+        "uri": "https://web.archive.org/web/20150405015501/http://catalog.odu.edu:80/courses/enma"
+      },
+      {
+        "datetime": "2015-04-17T00:54:03Z",
+        "uri": "https://web.archive.org/web/20150417005403/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2015-05-11T07:18:33Z",
+        "uri": "https://web.archive.org/web/20150511071833/http://catalog.odu.edu/courses/enma/"
+      },
+      {
+        "datetime": "2015-06-11T07:35:28Z",
+        "uri": "https://web.archive.org/web/20150611073528/http://catalog.odu.edu/courses/enma/"
+      },
+      {
+        "datetime": "2015-06-16T14:38:58Z",
+        "uri": "https://web.archive.org/web/20150616143858/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2015-07-03T07:32:00Z",
+        "uri": "https://web.archive.org/web/20150703073200/http://catalog.odu.edu/courses/enma/"
+      },
+      {
+        "datetime": "2015-07-07T06:44:35Z",
+        "uri": "https://web.archive.org/web/20150707064435/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2015-07-07T06:44:35Z",
+        "uri": "https://web.archive.org/web/20150707064435/http://catalog.odu.edu:80/courses/enma"
+      },
+      {
+        "datetime": "2015-08-16T00:47:33Z",
+        "uri": "https://web.archive.org/web/20150816004733/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2015-08-22T01:59:37Z",
+        "uri": "https://web.archive.org/web/20150822015937/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2015-08-22T01:59:37Z",
+        "uri": "https://web.archive.org/web/20150822015937/http://catalog.odu.edu:80/courses/enma"
+      },
+      {
+        "datetime": "2015-09-06T06:45:17Z",
+        "uri": "https://web.archive.org/web/20150906064517/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2015-09-21T15:25:19Z",
+        "uri": "https://web.archive.org/web/20150921152519/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2015-09-21T15:25:19Z",
+        "uri": "https://web.archive.org/web/20150921152519/http://catalog.odu.edu:80/courses/enma"
+      },
+      {
+        "datetime": "2015-10-22T03:12:55Z",
+        "uri": "https://web.archive.org/web/20151022031255/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2015-10-22T03:12:55Z",
+        "uri": "https://web.archive.org/web/20151022031255/http://catalog.odu.edu:80/courses/enma"
+      },
+      {
+        "datetime": "2015-11-06T02:50:02Z",
+        "uri": "https://web.archive.org/web/20151106025002/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2015-11-21T17:16:47Z",
+        "uri": "https://web.archive.org/web/20151121171647/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2015-11-21T17:16:47Z",
+        "uri": "https://web.archive.org/web/20151121171647/http://catalog.odu.edu:80/courses/enma"
+      },
+      {
+        "datetime": "2016-01-05T22:36:40Z",
+        "uri": "https://web.archive.org/web/20160105223640/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2016-03-02T01:39:17Z",
+        "uri": "https://web.archive.org/web/20160302013917/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2016-03-02T01:39:17Z",
+        "uri": "https://web.archive.org/web/20160302013917/http://catalog.odu.edu:80/courses/enma"
+      },
+      {
+        "datetime": "2016-03-06T13:48:24Z",
+        "uri": "https://web.archive.org/web/20160306134824/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2016-03-13T01:59:04Z",
+        "uri": "https://web.archive.org/web/20160313015904/http://catalog.odu.edu/courses/enma/"
+      },
+      {
+        "datetime": "2016-04-01T20:24:34Z",
+        "uri": "https://web.archive.org/web/20160401202434/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2016-04-01T20:24:34Z",
+        "uri": "https://web.archive.org/web/20160401202434/http://catalog.odu.edu:80/courses/enma"
+      },
+      {
+        "datetime": "2016-05-02T16:37:02Z",
+        "uri": "https://web.archive.org/web/20160502163702/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2016-05-02T16:37:02Z",
+        "uri": "https://web.archive.org/web/20160502163702/http://catalog.odu.edu:80/courses/enma"
+      },
+      {
+        "datetime": "2016-05-06T00:25:08Z",
+        "uri": "https://web.archive.org/web/20160506002508/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2016-05-31T21:35:10Z",
+        "uri": "https://web.archive.org/web/20160531213510/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2016-06-30T19:00:08Z",
+        "uri": "https://web.archive.org/web/20160630190008/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2016-06-30T19:00:08Z",
+        "uri": "https://web.archive.org/web/20160630190008/http://catalog.odu.edu:80/courses/enma"
+      },
+      {
+        "datetime": "2016-07-31T14:02:32Z",
+        "uri": "https://web.archive.org/web/20160731140232/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2016-07-31T20:20:02Z",
+        "uri": "https://web.archive.org/web/20160731202002/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2016-07-31T20:20:02Z",
+        "uri": "https://web.archive.org/web/20160731202002/http://catalog.odu.edu:80/courses/enma"
+      },
+      {
+        "datetime": "2016-08-31T22:14:32Z",
+        "uri": "https://web.archive.org/web/20160831221432/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2016-08-31T22:14:32Z",
+        "uri": "https://web.archive.org/web/20160831221432/http://catalog.odu.edu:80/courses/enma"
+      },
+      {
+        "datetime": "2016-09-30T12:49:12Z",
+        "uri": "https://web.archive.org/web/20160930124912/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2016-10-02T08:50:22Z",
+        "uri": "https://web.archive.org/web/20161002085022/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2016-10-02T08:50:22Z",
+        "uri": "https://web.archive.org/web/20161002085022/http://catalog.odu.edu:80/courses/enma"
+      },
+      {
+        "datetime": "2016-10-10T13:00:00Z",
+        "uri": "https://web.archive.org/web/20161010130000/http://catalog.odu.edu/courses/enma/"
+      },
+      {
+        "datetime": "2016-11-03T01:27:52Z",
+        "uri": "https://web.archive.org/web/20161103012752/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2016-11-03T01:27:52Z",
+        "uri": "https://web.archive.org/web/20161103012752/http://catalog.odu.edu:80/courses/enma"
+      },
+      {
+        "datetime": "2016-12-05T04:55:51Z",
+        "uri": "https://web.archive.org/web/20161205045551/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2017-02-20T21:30:35Z",
+        "uri": "https://web.archive.org/web/20170220213035/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2017-02-20T21:30:35Z",
+        "uri": "https://web.archive.org/web/20170220213035/http://catalog.odu.edu:80/courses/enma"
+      },
+      {
+        "datetime": "2017-04-20T05:03:38Z",
+        "uri": "https://web.archive.org/web/20170420050338/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2017-04-27T04:11:50Z",
+        "uri": "https://web.archive.org/web/20170427041150/http://catalog.odu.edu/courses/enma/"
+      },
+      {
+        "datetime": "2017-05-04T09:21:20Z",
+        "uri": "https://web.archive.org/web/20170504092120/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2017-05-04T09:21:20Z",
+        "uri": "https://web.archive.org/web/20170504092120/http://catalog.odu.edu:80/courses/enma"
+      },
+      {
+        "datetime": "2017-05-24T10:42:58Z",
+        "uri": "https://web.archive.org/web/20170524104258/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2017-06-04T21:51:26Z",
+        "uri": "https://web.archive.org/web/20170604215126/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2017-06-04T21:51:26Z",
+        "uri": "https://web.archive.org/web/20170604215126/http://catalog.odu.edu:80/courses/enma"
+      },
+      {
+        "datetime": "2017-06-05T23:14:02Z",
+        "uri": "https://web.archive.org/web/20170605231402/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2017-06-05T23:14:02Z",
+        "uri": "https://web.archive.org/web/20170605231402/http://catalog.odu.edu:80/courses/enma"
+      },
+      {
+        "datetime": "2017-07-06T07:45:28Z",
+        "uri": "https://web.archive.org/web/20170706074528/http://catalog.odu.edu/courses/enma/"
+      },
+      {
+        "datetime": "2017-07-06T21:31:06Z",
+        "uri": "https://web.archive.org/web/20170706213106/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2017-07-06T21:31:06Z",
+        "uri": "https://web.archive.org/web/20170706213106/http://catalog.odu.edu:80/courses/enma"
+      },
+      {
+        "datetime": "2017-07-09T01:04:10Z",
+        "uri": "https://web.archive.org/web/20170709010410/http://catalog.odu.edu/courses/enma/"
+      },
+      {
+        "datetime": "2017-07-24T10:41:34Z",
+        "uri": "https://web.archive.org/web/20170724104134/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2017-08-08T05:53:15Z",
+        "uri": "https://web.archive.org/web/20170808055315/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2017-08-08T05:53:15Z",
+        "uri": "https://web.archive.org/web/20170808055315/http://catalog.odu.edu:80/courses/enma"
+      },
+      {
+        "datetime": "2018-05-25T17:34:01Z",
+        "uri": "https://web.archive.org/web/20180525173401/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2018-07-26T14:12:40Z",
+        "uri": "https://web.archive.org/web/20180726141240/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2018-08-17T02:20:57Z",
+        "uri": "https://web.archive.org/web/20180817022057/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2018-08-17T02:20:57Z",
+        "uri": "https://web.archive.org/web/20180817022057/http://catalog.odu.edu:80/courses/enma"
+      },
+      {
+        "datetime": "2018-09-17T01:53:01Z",
+        "uri": "https://web.archive.org/web/20180917015301/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2018-09-17T01:53:01Z",
+        "uri": "https://web.archive.org/web/20180917015301/http://catalog.odu.edu:80/courses/enma"
+      },
+      {
+        "datetime": "2018-09-25T17:46:57Z",
+        "uri": "https://web.archive.org/web/20180925174657/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2018-10-17T11:21:52Z",
+        "uri": "https://web.archive.org/web/20181017112152/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2018-10-17T11:21:52Z",
+        "uri": "https://web.archive.org/web/20181017112152/http://catalog.odu.edu:80/courses/enma"
+      },
+      {
+        "datetime": "2018-10-18T14:29:24Z",
+        "uri": "https://web.archive.org/web/20181018142924/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2018-10-18T14:29:24Z",
+        "uri": "https://web.archive.org/web/20181018142924/http://catalog.odu.edu:80/courses/enma"
+      },
+      {
+        "datetime": "2018-11-19T04:29:09Z",
+        "uri": "https://web.archive.org/web/20181119042909/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2018-11-19T04:29:09Z",
+        "uri": "https://web.archive.org/web/20181119042909/http://catalog.odu.edu:80/courses/enma"
+      },
+      {
+        "datetime": "2018-11-26T09:25:11Z",
+        "uri": "https://web.archive.org/web/20181126092511/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2018-12-20T03:02:45Z",
+        "uri": "https://web.archive.org/web/20181220030245/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2018-12-20T03:02:45Z",
+        "uri": "https://web.archive.org/web/20181220030245/http://catalog.odu.edu:80/courses/enma"
+      },
+      {
+        "datetime": "2019-01-20T00:07:20Z",
+        "uri": "https://web.archive.org/web/20190120000720/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2019-01-20T00:07:20Z",
+        "uri": "https://web.archive.org/web/20190120000720/http://catalog.odu.edu:80/courses/enma"
+      },
+      {
+        "datetime": "2019-01-26T09:36:04Z",
+        "uri": "https://web.archive.org/web/20190126093604/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2019-02-20T06:15:00Z",
+        "uri": "https://web.archive.org/web/20190220061500/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2019-02-20T06:15:00Z",
+        "uri": "https://web.archive.org/web/20190220061500/http://catalog.odu.edu:80/courses/enma"
+      },
+      {
+        "datetime": "2019-03-23T22:21:58Z",
+        "uri": "https://web.archive.org/web/20190323222158/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2019-03-23T22:21:58Z",
+        "uri": "https://web.archive.org/web/20190323222158/http://catalog.odu.edu:80/courses/enma"
+      },
+      {
+        "datetime": "2019-04-23T23:44:54Z",
+        "uri": "https://web.archive.org/web/20190423234454/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2019-04-23T23:44:54Z",
+        "uri": "https://web.archive.org/web/20190423234454/http://catalog.odu.edu:80/courses/enma"
+      },
+      {
+        "datetime": "2019-05-25T15:39:58Z",
+        "uri": "https://web.archive.org/web/20190525153958/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2019-05-25T15:39:58Z",
+        "uri": "https://web.archive.org/web/20190525153958/http://catalog.odu.edu:80/courses/enma"
+      },
+      {
+        "datetime": "2019-06-25T09:32:00Z",
+        "uri": "https://web.archive.org/web/20190625093200/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2019-06-25T09:32:00Z",
+        "uri": "https://web.archive.org/web/20190625093200/http://catalog.odu.edu:80/courses/enma"
+      },
+      {
+        "datetime": "2019-07-26T07:19:37Z",
+        "uri": "https://web.archive.org/web/20190726071937/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2019-07-26T07:19:37Z",
+        "uri": "https://web.archive.org/web/20190726071937/http://catalog.odu.edu:80/courses/enma"
+      },
+      {
+        "datetime": "2019-07-28T05:12:36Z",
+        "uri": "https://web.archive.org/web/20190728051236/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2019-08-26T00:25:46Z",
+        "uri": "https://web.archive.org/web/20190826002546/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2019-08-26T00:25:46Z",
+        "uri": "https://web.archive.org/web/20190826002546/http://catalog.odu.edu:80/courses/enma"
+      },
+      {
+        "datetime": "2019-09-26T03:27:33Z",
+        "uri": "https://web.archive.org/web/20190926032733/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2019-09-26T03:27:33Z",
+        "uri": "https://web.archive.org/web/20190926032733/http://catalog.odu.edu:80/courses/enma"
+      },
+      {
+        "datetime": "2019-09-27T12:56:37Z",
+        "uri": "https://web.archive.org/web/20190927125637/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2019-10-09T05:25:44Z",
+        "uri": "https://web.archive.org/web/20191009052544/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2019-10-24T15:33:43Z",
+        "uri": "https://web.archive.org/web/20191024153343/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2019-11-23T23:05:09Z",
+        "uri": "https://web.archive.org/web/20191123230509/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2019-12-24T04:01:20Z",
+        "uri": "https://web.archive.org/web/20191224040120/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2020-01-23T07:59:09Z",
+        "uri": "https://web.archive.org/web/20200123075909/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2020-02-22T11:34:32Z",
+        "uri": "https://web.archive.org/web/20200222113432/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2020-03-02T06:04:31Z",
+        "uri": "https://web.archive.org/web/20200302060431/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2020-05-01T08:42:53Z",
+        "uri": "https://web.archive.org/web/20200501084253/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2020-06-30T12:15:53Z",
+        "uri": "https://web.archive.org/web/20200630121553/http://catalog.odu.edu:80/courses/enma/"
+      },
+      {
+        "datetime": "2021-01-22T23:11:39Z",
+        "uri": "https://web.archive.org/web/20210122231139/https://catalog.odu.edu/courses/enma/"
+      },
+      {
+        "datetime": "2021-04-12T20:23:40Z",
+        "uri": "https://web.archive.org/web/20210412202340/http://catalog.odu.edu/courses/enma/"
+      },
+      {
+        "datetime": "2021-11-23T15:42:32Z",
+        "uri": "https://web.archive.org/web/20211123154232/https://catalog.odu.edu/courses/enma/"
+      },
+      {
+        "datetime": "2022-03-19T22:04:04Z",
+        "uri": "https://web.archive.org/web/20220319220404/https://catalog.odu.edu/courses/enma/"
+      },
+      {
+        "datetime": "2024-02-28T21:42:04Z",
+        "uri": "https://web.archive.org/web/20240228214204/https://catalog.odu.edu/courses/enma/"
+      },
+      {
+        "datetime": "2024-02-29T16:08:46Z",
+        "uri": "https://web.archive.org/web/20240229160846/https://catalog.odu.edu/courses/enma/"
+      },
+      {
+        "datetime": "2024-04-20T00:29:35Z",
+        "uri": "https://web.archive.org/web/20240420002935/http://catalog.odu.edu/courses/enma/"
+      },
+      {
+        "datetime": "2024-05-28T13:00:52Z",
+        "uri": "https://web.archive.org/web/20240528130052/https://catalog.odu.edu/courses/enma/"
+      },
+      {
+        "datetime": "2024-09-12T06:16:23Z",
+        "uri": "https://web.archive.org/web/20240912061623/https://catalog.odu.edu/courses/enma/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:25:41Z",
+      "uri": "https://web.archive.org/web/20120902042541/http://catalog.odu.edu:80/courses/enma/"
+    },
+    "last": {
+      "datetime": "2024-09-12T06:16:23Z",
+      "uri": "https://web.archive.org/web/20240912061623/https://catalog.odu.edu/courses/enma/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/enma/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/enma/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/enma/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/enma/"
+}

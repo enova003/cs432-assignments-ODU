@@ -1,0 +1,874 @@
+{
+  "original_uri": "https://www.odu.edu/education",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/education",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-22T07:31:18Z",
+        "uri": "https://web.archive.org/web/20120922073118/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2012-11-24T05:18:47Z",
+        "uri": "https://web.archive.org/web/20121124051847/http://odu.edu:80/education"
+      },
+      {
+        "datetime": "2012-12-09T20:54:19Z",
+        "uri": "https://web.archive.org/web/20121209205419/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2013-01-17T17:36:31Z",
+        "uri": "https://web.archive.org/web/20130117173631/http://odu.edu/education"
+      },
+      {
+        "datetime": "2013-01-24T01:39:51Z",
+        "uri": "https://web.archive.org/web/20130124013951/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2013-03-25T11:45:17Z",
+        "uri": "https://web.archive.org/web/20130325114517/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2013-04-26T15:09:57Z",
+        "uri": "https://web.archive.org/web/20130426150957/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2013-05-25T16:18:55Z",
+        "uri": "https://web.archive.org/web/20130525161855/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2013-07-25T05:38:25Z",
+        "uri": "https://web.archive.org/web/20130725053825/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2013-07-30T14:28:54Z",
+        "uri": "https://web.archive.org/web/20130730142854/http://odu.edu/education"
+      },
+      {
+        "datetime": "2013-08-07T19:37:05Z",
+        "uri": "https://web.archive.org/web/20130807193705/http://odu.edu/education"
+      },
+      {
+        "datetime": "2013-09-07T02:26:48Z",
+        "uri": "https://web.archive.org/web/20130907022648/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2013-09-20T04:56:25Z",
+        "uri": "https://web.archive.org/web/20130920045625/http://www.odu.edu:80/education/"
+      },
+      {
+        "datetime": "2013-10-09T13:11:38Z",
+        "uri": "https://web.archive.org/web/20131009131138/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2014-01-18T04:02:01Z",
+        "uri": "https://web.archive.org/web/20140118040201/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2014-02-17T15:22:27Z",
+        "uri": "https://web.archive.org/web/20140217152227/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2014-03-28T05:29:57Z",
+        "uri": "https://web.archive.org/web/20140328052957/http://odu.edu/education"
+      },
+      {
+        "datetime": "2014-06-26T14:05:43Z",
+        "uri": "https://web.archive.org/web/20140626140543/http://odu.edu/education"
+      },
+      {
+        "datetime": "2015-06-03T11:32:17Z",
+        "uri": "http://archive.md/20150603113217/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2016-04-06T22:14:21Z",
+        "uri": "https://web.archive.org/web/20160406221421/http://www.odu.edu:80/education/"
+      },
+      {
+        "datetime": "2016-06-03T23:59:17Z",
+        "uri": "https://web.archive.org/web/20160603235917/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2016-07-06T19:53:49Z",
+        "uri": "https://web.archive.org/web/20160706195349/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2016-08-07T10:57:40Z",
+        "uri": "https://web.archive.org/web/20160807105740/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2016-09-08T01:01:41Z",
+        "uri": "https://web.archive.org/web/20160908010141/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2016-10-09T07:05:28Z",
+        "uri": "https://web.archive.org/web/20161009070528/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2016-10-10T07:46:59Z",
+        "uri": "https://web.archive.org/web/20161010074659/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2016-11-10T22:45:20Z",
+        "uri": "https://web.archive.org/web/20161110224520/http://odu.edu:80/education"
+      },
+      {
+        "datetime": "2016-11-23T10:46:49Z",
+        "uri": "https://web.archive.org/web/20161123104649/http://odu.edu:80/education"
+      },
+      {
+        "datetime": "2016-12-03T17:07:52Z",
+        "uri": "https://web.archive.org/web/20161203170752/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2017-01-31T07:24:27Z",
+        "uri": "https://web.archive.org/web/20170131072427/http://odu.edu:80/education"
+      },
+      {
+        "datetime": "2017-02-02T10:07:26Z",
+        "uri": "https://web.archive.org/web/20170202100726/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2017-03-07T09:48:20Z",
+        "uri": "https://web.archive.org/web/20170307094820/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2017-05-05T01:55:15Z",
+        "uri": "https://web.archive.org/web/20170505015515/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2017-05-23T08:46:18Z",
+        "uri": "https://web.archive.org/web/20170523084618/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2017-06-05T10:58:02Z",
+        "uri": "https://web.archive.org/web/20170605105802/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2017-06-14T02:06:59Z",
+        "uri": "https://web.archive.org/web/20170614020659/http://odu.edu/education"
+      },
+      {
+        "datetime": "2017-06-17T10:57:25Z",
+        "uri": "https://web.archive.org/web/20170617105725/http://odu.edu:80/education"
+      },
+      {
+        "datetime": "2017-07-06T09:53:17Z",
+        "uri": "https://web.archive.org/web/20170706095317/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2017-07-23T06:18:38Z",
+        "uri": "https://web.archive.org/web/20170723061838/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2017-08-06T09:46:42Z",
+        "uri": "https://web.archive.org/web/20170806094642/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2017-08-17T04:44:22Z",
+        "uri": "https://web.archive.org/web/20170817044422/http://odu.edu:80/education"
+      },
+      {
+        "datetime": "2017-08-22T23:58:47Z",
+        "uri": "https://web.archive.org/web/20170822235847/http://odu.edu:80/education"
+      },
+      {
+        "datetime": "2017-09-02T14:05:39Z",
+        "uri": "https://web.archive.org/web/20170902140539/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2017-09-21T16:35:23Z",
+        "uri": "https://web.archive.org/web/20170921163523/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2017-09-24T20:00:50Z",
+        "uri": "https://web.archive.org/web/20170924200050/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2017-10-13T08:37:15Z",
+        "uri": "https://web.archive.org/web/20171013083715/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2017-10-17T10:45:42Z",
+        "uri": "https://web.archive.org/web/20171017104542/http://odu.edu:80/education"
+      },
+      {
+        "datetime": "2017-11-13T18:40:03Z",
+        "uri": "https://web.archive.org/web/20171113184003/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2017-12-14T17:55:01Z",
+        "uri": "https://web.archive.org/web/20171214175501/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2017-12-18T05:13:04Z",
+        "uri": "https://web.archive.org/web/20171218051304/http://odu.edu:80/education"
+      },
+      {
+        "datetime": "2018-01-14T20:40:27Z",
+        "uri": "https://web.archive.org/web/20180114204027/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2018-02-15T03:04:55Z",
+        "uri": "https://web.archive.org/web/20180215030455/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2018-03-19T00:15:29Z",
+        "uri": "https://web.archive.org/web/20180319001529/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2018-03-19T20:29:29Z",
+        "uri": "https://web.archive.org/web/20180319202929/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2018-03-29T01:33:10Z",
+        "uri": "https://web.archive.org/web/20180329013310/http://odu.edu:80/education"
+      },
+      {
+        "datetime": "2018-04-15T21:40:33Z",
+        "uri": "https://web.archive.org/web/20180415214033/http://odu.edu:80/education"
+      },
+      {
+        "datetime": "2018-04-19T13:48:59Z",
+        "uri": "https://web.archive.org/web/20180419134859/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2018-05-16T23:35:59Z",
+        "uri": "https://web.archive.org/web/20180516233559/http://odu.edu:80/education"
+      },
+      {
+        "datetime": "2018-05-22T13:29:50Z",
+        "uri": "https://web.archive.org/web/20180522132950/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2018-06-17T08:58:38Z",
+        "uri": "https://web.archive.org/web/20180617085838/http://odu.edu:80/education"
+      },
+      {
+        "datetime": "2018-06-22T14:24:12Z",
+        "uri": "https://web.archive.org/web/20180622142412/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2018-07-18T10:30:31Z",
+        "uri": "https://web.archive.org/web/20180718103031/http://odu.edu:80/education"
+      },
+      {
+        "datetime": "2018-07-23T16:40:32Z",
+        "uri": "https://web.archive.org/web/20180723164032/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2018-08-18T11:51:51Z",
+        "uri": "https://web.archive.org/web/20180818115151/http://odu.edu:80/education"
+      },
+      {
+        "datetime": "2018-08-23T21:10:43Z",
+        "uri": "https://web.archive.org/web/20180823211043/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2018-09-19T00:20:18Z",
+        "uri": "https://web.archive.org/web/20180919002018/http://odu.edu:80/education"
+      },
+      {
+        "datetime": "2018-09-23T23:44:34Z",
+        "uri": "https://web.archive.org/web/20180923234434/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2018-10-20T08:39:26Z",
+        "uri": "https://web.archive.org/web/20181020083926/http://odu.edu:80/education"
+      },
+      {
+        "datetime": "2018-10-25T11:25:56Z",
+        "uri": "https://web.archive.org/web/20181025112556/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2018-11-20T05:07:03Z",
+        "uri": "https://web.archive.org/web/20181120050703/http://odu.edu:80/education"
+      },
+      {
+        "datetime": "2018-11-25T13:57:56Z",
+        "uri": "https://web.archive.org/web/20181125135756/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2018-12-15T22:43:09Z",
+        "uri": "https://web.archive.org/web/20181215224309/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2018-12-21T15:07:06Z",
+        "uri": "https://web.archive.org/web/20181221150706/http://odu.edu:80/education"
+      },
+      {
+        "datetime": "2018-12-23T13:23:49Z",
+        "uri": "https://web.archive.org/web/20181223132349/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2018-12-26T11:16:41Z",
+        "uri": "https://web.archive.org/web/20181226111641/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2019-01-21T12:57:29Z",
+        "uri": "https://web.archive.org/web/20190121125729/http://odu.edu:80/education"
+      },
+      {
+        "datetime": "2019-01-22T14:24:44Z",
+        "uri": "https://web.archive.org/web/20190122142444/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2019-01-26T18:42:15Z",
+        "uri": "https://web.archive.org/web/20190126184215/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2019-01-27T23:11:04Z",
+        "uri": "https://web.archive.org/web/20190127231104/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2019-01-29T21:22:45Z",
+        "uri": "https://web.archive.org/web/20190129212245/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2019-02-07T03:26:09Z",
+        "uri": "https://web.archive.org/web/20190207032609/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2019-02-21T15:20:17Z",
+        "uri": "https://web.archive.org/web/20190221152017/http://odu.edu:80/education"
+      },
+      {
+        "datetime": "2019-02-23T01:42:23Z",
+        "uri": "https://web.archive.org/web/20190223014223/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2019-02-24T05:23:03Z",
+        "uri": "https://web.archive.org/web/20190224052303/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2019-02-28T08:20:48Z",
+        "uri": "https://web.archive.org/web/20190228082048/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2019-03-01T10:45:32Z",
+        "uri": "https://web.archive.org/web/20190301104532/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2019-03-24T16:07:34Z",
+        "uri": "https://web.archive.org/web/20190324160734/http://odu.edu:80/education"
+      },
+      {
+        "datetime": "2019-04-01T22:46:48Z",
+        "uri": "https://web.archive.org/web/20190401224648/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2019-04-24T09:20:43Z",
+        "uri": "https://web.archive.org/web/20190424092043/http://odu.edu:80/education"
+      },
+      {
+        "datetime": "2019-04-26T01:57:31Z",
+        "uri": "https://web.archive.org/web/20190426015731/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2019-05-03T15:53:22Z",
+        "uri": "https://web.archive.org/web/20190503155322/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2019-05-25T08:01:39Z",
+        "uri": "https://web.archive.org/web/20190525080139/http://odu.edu:80/education"
+      },
+      {
+        "datetime": "2019-06-04T03:55:22Z",
+        "uri": "https://web.archive.org/web/20190604035522/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2019-06-25T09:27:54Z",
+        "uri": "https://web.archive.org/web/20190625092754/http://odu.edu:80/education"
+      },
+      {
+        "datetime": "2019-06-25T20:57:08Z",
+        "uri": "https://web.archive.org/web/20190625205708/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2019-06-27T07:10:00Z",
+        "uri": "https://web.archive.org/web/20190627071000/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2019-07-05T17:38:22Z",
+        "uri": "https://web.archive.org/web/20190705173822/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2019-07-26T18:07:46Z",
+        "uri": "https://web.archive.org/web/20190726180746/http://odu.edu:80/education"
+      },
+      {
+        "datetime": "2019-08-05T11:10:24Z",
+        "uri": "https://web.archive.org/web/20190805111024/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2019-08-26T19:07:19Z",
+        "uri": "https://web.archive.org/web/20190826190719/http://odu.edu:80/education"
+      },
+      {
+        "datetime": "2019-08-27T08:02:20Z",
+        "uri": "https://web.archive.org/web/20190827080220/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2019-09-05T00:38:55Z",
+        "uri": "https://web.archive.org/web/20190905003855/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2019-09-27T15:08:21Z",
+        "uri": "https://web.archive.org/web/20190927150821/http://odu.edu:80/education"
+      },
+      {
+        "datetime": "2019-11-03T11:11:31Z",
+        "uri": "https://web.archive.org/web/20191103111131/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2019-11-12T14:38:50Z",
+        "uri": "https://web.archive.org/web/20191112143850/http://odu.edu:80/education"
+      },
+      {
+        "datetime": "2019-11-14T02:12:28Z",
+        "uri": "https://web.archive.org/web/20191114021228/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2020-01-12T14:51:23Z",
+        "uri": "https://web.archive.org/web/20200112145123/http://odu.edu:80/education"
+      },
+      {
+        "datetime": "2020-01-14T06:52:42Z",
+        "uri": "https://web.archive.org/web/20200114065242/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2020-01-15T06:45:41Z",
+        "uri": "https://web.archive.org/web/20200115064541/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2020-05-07T13:04:10Z",
+        "uri": "https://web.archive.org/web/20200507130410/http://odu.edu:80/education"
+      },
+      {
+        "datetime": "2020-05-07T13:04:20Z",
+        "uri": "https://web.archive.org/web/20200507130420/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2020-07-06T15:57:28Z",
+        "uri": "https://web.archive.org/web/20200706155728/http://www.odu.edu:80/education"
+      },
+      {
+        "datetime": "2020-07-06T16:19:42Z",
+        "uri": "https://web.archive.org/web/20200706161942/http://odu.edu:80/education"
+      },
+      {
+        "datetime": "2020-08-03T21:40:24Z",
+        "uri": "https://web.archive.org/web/20200803214024/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2020-08-07T21:40:29Z",
+        "uri": "https://web.archive.org/web/20200807214029/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2021-01-30T18:16:47Z",
+        "uri": "https://web.archive.org/web/20210130181647/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2021-01-30T18:16:48Z",
+        "uri": "https://web.archive.org/web/20210130181648/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2021-04-10T22:26:22Z",
+        "uri": "https://web.archive.org/web/20210410222622/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2021-04-10T22:26:23Z",
+        "uri": "https://web.archive.org/web/20210410222623/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2021-04-13T04:04:44Z",
+        "uri": "https://web.archive.org/web/20210413040444/http://odu.edu/education"
+      },
+      {
+        "datetime": "2021-04-14T10:49:10Z",
+        "uri": "https://web.archive.org/web/20210414104910/https://www.odu.edu/education/"
+      },
+      {
+        "datetime": "2021-04-15T09:06:28Z",
+        "uri": "https://web.archive.org/web/20210415090628/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2021-05-09T15:03:39Z",
+        "uri": "https://web.archive.org/web/20210509150339/http://www.odu.edu/education/"
+      },
+      {
+        "datetime": "2021-05-27T16:01:04Z",
+        "uri": "https://web.archive.org/web/20210527160104/https://odu.edu/education"
+      },
+      {
+        "datetime": "2021-08-12T21:26:48Z",
+        "uri": "https://web.archive.org/web/20210812212648/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2021-10-27T20:01:42Z",
+        "uri": "https://web.archive.org/web/20211027200142/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2021-11-03T13:39:37Z",
+        "uri": "https://arquivo.pt/wayback/20211103133937mp_/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2021-11-03T13:39:37Z",
+        "uri": "https://web.archive.org/web/20211103133937/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2022-01-31T22:55:38Z",
+        "uri": "https://web.archive.org/web/20220131225538/http://www.odu.edu/education/"
+      },
+      {
+        "datetime": "2022-01-31T22:55:39Z",
+        "uri": "https://web.archive.org/web/20220131225539/https://www.odu.edu/education/"
+      },
+      {
+        "datetime": "2022-02-19T03:02:23Z",
+        "uri": "https://web.archive.org/web/20220219030223/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2022-02-19T03:02:24Z",
+        "uri": "https://web.archive.org/web/20220219030224/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2022-03-08T04:58:49Z",
+        "uri": "https://web.archive.org/web/20220308045849/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2022-03-08T04:58:50Z",
+        "uri": "https://web.archive.org/web/20220308045850/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2022-03-08T05:46:00Z",
+        "uri": "https://web.archive.org/web/20220308054600/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2022-03-08T16:00:51Z",
+        "uri": "https://web.archive.org/web/20220308160051/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2022-03-19T21:12:02Z",
+        "uri": "https://web.archive.org/web/20220319211202/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2022-03-19T21:32:09Z",
+        "uri": "https://web.archive.org/web/20220319213209/http://odu.edu/education"
+      },
+      {
+        "datetime": "2022-03-19T21:32:22Z",
+        "uri": "https://web.archive.org/web/20220319213222/https://www.odu.edu/education/"
+      },
+      {
+        "datetime": "2022-03-19T21:50:56Z",
+        "uri": "https://web.archive.org/web/20220319215056/http://www.odu.edu/education/"
+      },
+      {
+        "datetime": "2022-03-19T21:50:57Z",
+        "uri": "https://web.archive.org/web/20220319215057/https://www.odu.edu/education/"
+      },
+      {
+        "datetime": "2022-03-19T22:21:11Z",
+        "uri": "https://web.archive.org/web/20220319222111/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2022-03-19T22:31:41Z",
+        "uri": "https://web.archive.org/web/20220319223141/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2022-03-19T22:31:42Z",
+        "uri": "https://web.archive.org/web/20220319223142/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2022-03-19T22:46:06Z",
+        "uri": "https://web.archive.org/web/20220319224606/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2022-03-19T22:46:07Z",
+        "uri": "https://web.archive.org/web/20220319224607/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2022-04-18T00:09:27Z",
+        "uri": "https://web.archive.org/web/20220418000927/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2022-04-18T00:09:42Z",
+        "uri": "https://web.archive.org/web/20220418000942/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2022-04-18T00:37:50Z",
+        "uri": "https://web.archive.org/web/20220418003750/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2022-04-24T19:45:12Z",
+        "uri": "https://arquivo.pt/wayback/20220424194512mp_/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2022-06-25T23:09:58Z",
+        "uri": "https://web.archive.org/web/20220625230958/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2022-06-25T23:10:03Z",
+        "uri": "https://web.archive.org/web/20220625231003/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2022-08-05T11:19:30Z",
+        "uri": "https://arquivo.pt/wayback/20220805111930mp_/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2022-08-11T21:41:17Z",
+        "uri": "https://web.archive.org/web/20220811214117/https://odu.edu/education"
+      },
+      {
+        "datetime": "2022-08-12T16:09:12Z",
+        "uri": "https://web.archive.org/web/20220812160912/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2022-08-12T16:26:43Z",
+        "uri": "https://web.archive.org/web/20220812162643/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2022-09-01T05:46:32Z",
+        "uri": "https://web.archive.org/web/20220901054632/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2022-09-28T13:57:11Z",
+        "uri": "https://web.archive.org/web/20220928135711/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2022-10-27T23:33:13Z",
+        "uri": "https://web.archive.org/web/20221027233313/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2022-11-07T21:53:21Z",
+        "uri": "https://web.archive.org/web/20221107215321/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2022-11-09T00:33:01Z",
+        "uri": "https://web.archive.org/web/20221109003301/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2022-12-08T05:59:34Z",
+        "uri": "https://web.archive.org/web/20221208055934/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2022-12-10T23:33:37Z",
+        "uri": "https://web.archive.org/web/20221210233337/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2022-12-30T12:01:09Z",
+        "uri": "https://web.archive.org/web/20221230120109/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2023-01-10T19:33:37Z",
+        "uri": "https://web.archive.org/web/20230110193337/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2023-01-12T03:48:43Z",
+        "uri": "https://web.archive.org/web/20230112034843/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2023-01-24T19:28:54Z",
+        "uri": "https://arquivo.pt/wayback/20230124192854mp_/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2023-02-04T11:12:54Z",
+        "uri": "https://web.archive.org/web/20230204111254/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2023-02-10T11:39:55Z",
+        "uri": "https://web.archive.org/web/20230210113955/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2023-03-07T12:27:46Z",
+        "uri": "https://web.archive.org/web/20230307122746/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2023-03-07T12:35:42Z",
+        "uri": "https://web.archive.org/web/20230307123542/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2023-03-07T17:17:39Z",
+        "uri": "https://web.archive.org/web/20230307171739/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2023-03-08T07:54:42Z",
+        "uri": "https://web.archive.org/web/20230308075442/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2023-06-02T03:07:23Z",
+        "uri": "https://web.archive.org/web/20230602030723/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2023-06-06T16:35:06Z",
+        "uri": "https://web.archive.org/web/20230606163506/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2023-06-06T16:35:06Z",
+        "uri": "https://web.archive.org/web/20230606163506/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2023-06-07T11:41:35Z",
+        "uri": "https://web.archive.org/web/20230607114135/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2023-06-07T11:41:36Z",
+        "uri": "https://web.archive.org/web/20230607114136/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2023-07-10T04:09:16Z",
+        "uri": "https://web.archive.org/web/20230710040916/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2023-07-10T04:09:17Z",
+        "uri": "https://web.archive.org/web/20230710040917/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2023-08-26T14:38:18Z",
+        "uri": "https://web.archive.org/web/20230826143818/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2023-08-29T14:42:16Z",
+        "uri": "https://web.archive.org/web/20230829144216/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2023-08-29T14:59:33Z",
+        "uri": "https://web.archive.org/web/20230829145933/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2023-11-09T05:33:21Z",
+        "uri": "https://web.archive.org/web/20231109053321/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2023-11-09T05:33:22Z",
+        "uri": "https://web.archive.org/web/20231109053322/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2023-11-12T01:21:58Z",
+        "uri": "https://web.archive.org/web/20231112012158/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2023-11-12T01:21:59Z",
+        "uri": "https://web.archive.org/web/20231112012159/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2023-11-12T15:36:50Z",
+        "uri": "https://web.archive.org/web/20231112153650/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2023-11-12T15:36:51Z",
+        "uri": "https://web.archive.org/web/20231112153651/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2024-01-19T16:38:13Z",
+        "uri": "https://web.archive.org/web/20240119163813/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2024-02-14T16:08:35Z",
+        "uri": "https://web.archive.org/web/20240214160835/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2024-02-21T20:15:12Z",
+        "uri": "https://web.archive.org/web/20240221201512/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2024-02-28T23:50:21Z",
+        "uri": "https://web.archive.org/web/20240228235021/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2024-03-05T03:57:11Z",
+        "uri": "https://web.archive.org/web/20240305035711/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2024-03-06T15:29:37Z",
+        "uri": "https://web.archive.org/web/20240306152937/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2024-03-25T12:57:25Z",
+        "uri": "https://web.archive.org/web/20240325125725/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2024-03-28T15:13:15Z",
+        "uri": "https://web.archive.org/web/20240328151315/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2024-04-01T13:06:42Z",
+        "uri": "https://web.archive.org/web/20240401130642/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2024-04-04T07:27:08Z",
+        "uri": "https://web.archive.org/web/20240404072708/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2024-04-04T07:27:23Z",
+        "uri": "https://web.archive.org/web/20240404072723/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2024-04-17T03:30:51Z",
+        "uri": "https://web.archive.org/web/20240417033051/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2024-04-27T16:09:50Z",
+        "uri": "https://web.archive.org/web/20240427160950/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2024-06-17T23:27:21Z",
+        "uri": "https://web.archive.org/web/20240617232721/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2024-07-03T22:12:26Z",
+        "uri": "https://web.archive.org/web/20240703221226/https://odu.edu/education"
+      },
+      {
+        "datetime": "2024-07-08T10:19:41Z",
+        "uri": "https://web.archive.org/web/20240708101941/http://www.odu.edu/education"
+      },
+      {
+        "datetime": "2024-07-15T23:30:23Z",
+        "uri": "https://web.archive.org/web/20240715233023/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2024-08-14T01:11:56Z",
+        "uri": "https://web.archive.org/web/20240814011156/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2024-09-17T12:24:46Z",
+        "uri": "https://web.archive.org/web/20240917122446/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2024-10-07T10:20:39Z",
+        "uri": "https://web.archive.org/web/20241007102039/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2024-10-10T17:27:34Z",
+        "uri": "https://web.archive.org/web/20241010172734/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2024-11-26T19:07:48Z",
+        "uri": "https://web.archive.org/web/20241126190748/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2024-12-24T19:22:04Z",
+        "uri": "https://web.archive.org/web/20241224192204/https://www.odu.edu/education"
+      },
+      {
+        "datetime": "2025-02-14T10:00:33Z",
+        "uri": "https://web.archive.org/web/20250214100033/https://www.odu.edu/education"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-22T07:31:18Z",
+      "uri": "https://web.archive.org/web/20120922073118/http://www.odu.edu:80/education"
+    },
+    "last": {
+      "datetime": "2025-02-14T10:00:33Z",
+      "uri": "https://web.archive.org/web/20250214100033/https://www.odu.edu/education"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/education",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/education",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/education"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/education"
+}

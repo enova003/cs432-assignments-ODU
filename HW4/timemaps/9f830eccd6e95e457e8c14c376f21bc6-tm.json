@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/sclm/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/sclm/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-07-18T08:46:18Z",
+        "uri": "https://web.archive.org/web/20240718084618/https://catalog.odu.edu/courses/sclm/"
+      },
+      {
+        "datetime": "2024-10-13T08:20:59Z",
+        "uri": "https://web.archive.org/web/20241013082059/https://catalog.odu.edu/courses/sclm/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-07-18T08:46:18Z",
+      "uri": "https://web.archive.org/web/20240718084618/https://catalog.odu.edu/courses/sclm/"
+    },
+    "last": {
+      "datetime": "2024-10-13T08:20:59Z",
+      "uri": "https://web.archive.org/web/20241013082059/https://catalog.odu.edu/courses/sclm/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/sclm/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/sclm/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/sclm/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/sclm/"
+}

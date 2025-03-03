@@ -1,0 +1,814 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/academiccalendar/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/academiccalendar/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-06-25T03:38:28Z",
+        "uri": "https://web.archive.org/web/20120625033828/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2012-08-24T10:53:18Z",
+        "uri": "https://web.archive.org/web/20120824105318/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2012-10-24T02:58:22Z",
+        "uri": "https://web.archive.org/web/20121024025822/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2013-05-01T06:50:18Z",
+        "uri": "https://web.archive.org/web/20130501065018/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2013-05-03T00:25:28Z",
+        "uri": "https://web.archive.org/web/20130503002528/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2013-05-03T00:25:28Z",
+        "uri": "https://web.archive.org/web/20130503002528/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2013-06-03T01:08:38Z",
+        "uri": "https://web.archive.org/web/20130603010838/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2013-06-03T01:08:38Z",
+        "uri": "https://web.archive.org/web/20130603010838/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2013-06-17T11:36:36Z",
+        "uri": "https://web.archive.org/web/20130617113636/http://catalog.odu.edu/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2013-09-20T16:53:00Z",
+        "uri": "https://web.archive.org/web/20130920165300/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2013-09-20T16:53:00Z",
+        "uri": "https://web.archive.org/web/20130920165300/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2013-10-22T16:02:44Z",
+        "uri": "https://web.archive.org/web/20131022160244/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2013-10-22T16:02:44Z",
+        "uri": "https://web.archive.org/web/20131022160244/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2013-10-31T17:41:15Z",
+        "uri": "https://web.archive.org/web/20131031174115/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2013-12-31T15:44:30Z",
+        "uri": "https://web.archive.org/web/20131231154430/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2014-01-16T06:09:21Z",
+        "uri": "https://web.archive.org/web/20140116060921/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2014-01-16T06:09:21Z",
+        "uri": "https://web.archive.org/web/20140116060921/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2014-02-16T03:55:51Z",
+        "uri": "https://web.archive.org/web/20140216035551/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2014-02-16T03:55:51Z",
+        "uri": "https://web.archive.org/web/20140216035551/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2014-03-03T12:22:06Z",
+        "uri": "https://web.archive.org/web/20140303122206/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2014-03-31T20:29:32Z",
+        "uri": "https://web.archive.org/web/20140331202932/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2014-03-31T20:29:32Z",
+        "uri": "https://web.archive.org/web/20140331202932/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2014-05-03T02:37:06Z",
+        "uri": "https://web.archive.org/web/20140503023706/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2014-07-02T16:33:13Z",
+        "uri": "https://web.archive.org/web/20140702163313/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2014-09-01T16:09:02Z",
+        "uri": "https://web.archive.org/web/20140901160902/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2014-11-01T14:45:52Z",
+        "uri": "https://web.archive.org/web/20141101144552/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2015-01-01T05:06:41Z",
+        "uri": "https://web.archive.org/web/20150101050641/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2015-01-20T14:01:35Z",
+        "uri": "https://web.archive.org/web/20150120140135/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2015-01-20T14:01:35Z",
+        "uri": "https://web.archive.org/web/20150120140135/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2015-02-16T03:58:09Z",
+        "uri": "https://web.archive.org/web/20150216035809/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2015-03-27T01:05:10Z",
+        "uri": "https://web.archive.org/web/20150327010510/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2015-03-27T01:05:10Z",
+        "uri": "https://web.archive.org/web/20150327010510/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2015-04-17T13:04:01Z",
+        "uri": "https://web.archive.org/web/20150417130401/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2015-04-26T13:53:52Z",
+        "uri": "https://web.archive.org/web/20150426135352/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2015-04-26T13:53:52Z",
+        "uri": "https://web.archive.org/web/20150426135352/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2015-05-11T08:38:54Z",
+        "uri": "https://web.archive.org/web/20150511083854/http://catalog.odu.edu/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2015-05-27T09:40:55Z",
+        "uri": "https://web.archive.org/web/20150527094055/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2015-05-27T09:40:55Z",
+        "uri": "https://web.archive.org/web/20150527094055/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2015-06-17T00:59:21Z",
+        "uri": "https://web.archive.org/web/20150617005921/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2015-06-27T03:53:08Z",
+        "uri": "https://web.archive.org/web/20150627035308/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2015-06-27T03:53:08Z",
+        "uri": "https://web.archive.org/web/20150627035308/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2015-07-03T06:50:45Z",
+        "uri": "https://web.archive.org/web/20150703065045/http://catalog.odu.edu/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2015-08-01T16:37:50Z",
+        "uri": "https://web.archive.org/web/20150801163750/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2015-08-01T16:37:50Z",
+        "uri": "https://web.archive.org/web/20150801163750/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2015-09-01T05:29:04Z",
+        "uri": "https://web.archive.org/web/20150901052904/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2015-09-01T05:29:04Z",
+        "uri": "https://web.archive.org/web/20150901052904/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2015-10-01T20:49:34Z",
+        "uri": "https://web.archive.org/web/20151001204934/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2015-10-01T20:49:34Z",
+        "uri": "https://web.archive.org/web/20151001204934/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2015-10-16T03:49:08Z",
+        "uri": "https://web.archive.org/web/20151016034908/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2015-11-01T17:48:42Z",
+        "uri": "https://web.archive.org/web/20151101174842/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2015-11-01T17:48:42Z",
+        "uri": "https://web.archive.org/web/20151101174842/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2015-12-02T07:29:31Z",
+        "uri": "https://web.archive.org/web/20151202072931/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2015-12-02T07:29:31Z",
+        "uri": "https://web.archive.org/web/20151202072931/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2016-01-01T22:41:43Z",
+        "uri": "https://web.archive.org/web/20160101224143/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2016-01-01T22:41:43Z",
+        "uri": "https://web.archive.org/web/20160101224143/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2016-02-01T12:39:25Z",
+        "uri": "https://web.archive.org/web/20160201123925/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2016-02-01T12:39:25Z",
+        "uri": "https://web.archive.org/web/20160201123925/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2016-02-13T20:02:42Z",
+        "uri": "https://web.archive.org/web/20160213200242/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2016-03-02T23:43:30Z",
+        "uri": "https://web.archive.org/web/20160302234330/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2016-03-02T23:43:30Z",
+        "uri": "https://web.archive.org/web/20160302234330/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2016-04-03T07:08:02Z",
+        "uri": "https://web.archive.org/web/20160403070802/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2016-04-03T07:08:02Z",
+        "uri": "https://web.archive.org/web/20160403070802/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2016-04-09T05:06:07Z",
+        "uri": "https://web.archive.org/web/20160409050607/http://catalog.odu.edu/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2016-04-14T10:51:50Z",
+        "uri": "https://web.archive.org/web/20160414105150/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2016-05-04T01:08:35Z",
+        "uri": "https://web.archive.org/web/20160504010835/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2016-05-04T01:08:35Z",
+        "uri": "https://web.archive.org/web/20160504010835/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2016-06-04T09:59:43Z",
+        "uri": "https://web.archive.org/web/20160604095943/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2016-06-04T09:59:43Z",
+        "uri": "https://web.archive.org/web/20160604095943/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2016-06-14T04:26:35Z",
+        "uri": "https://web.archive.org/web/20160614042635/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2016-07-06T19:58:36Z",
+        "uri": "https://web.archive.org/web/20160706195836/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2016-07-06T19:58:36Z",
+        "uri": "https://web.archive.org/web/20160706195836/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2016-08-07T10:30:13Z",
+        "uri": "https://web.archive.org/web/20160807103013/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2016-08-07T10:30:13Z",
+        "uri": "https://web.archive.org/web/20160807103013/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2016-08-15T06:43:24Z",
+        "uri": "https://web.archive.org/web/20160815064324/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2016-09-08T19:11:13Z",
+        "uri": "https://web.archive.org/web/20160908191113/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2016-09-08T19:11:13Z",
+        "uri": "https://web.archive.org/web/20160908191113/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2016-10-10T07:46:07Z",
+        "uri": "https://web.archive.org/web/20161010074607/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2016-10-10T07:46:07Z",
+        "uri": "https://web.archive.org/web/20161010074607/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2016-10-15T07:14:05Z",
+        "uri": "https://web.archive.org/web/20161015071405/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2016-11-10T22:49:49Z",
+        "uri": "https://web.archive.org/web/20161110224949/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2016-11-10T22:49:49Z",
+        "uri": "https://web.archive.org/web/20161110224949/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2016-12-05T18:49:02Z",
+        "uri": "https://web.archive.org/web/20161205184902/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2016-12-05T18:49:02Z",
+        "uri": "https://web.archive.org/web/20161205184902/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2017-01-23T07:22:13Z",
+        "uri": "https://web.archive.org/web/20170123072213/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2017-03-25T19:42:20Z",
+        "uri": "https://web.archive.org/web/20170325194220/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2017-04-27T06:26:45Z",
+        "uri": "https://web.archive.org/web/20170427062645/http://catalog.odu.edu/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2017-05-05T02:53:49Z",
+        "uri": "https://web.archive.org/web/20170505025349/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2017-05-05T02:53:49Z",
+        "uri": "https://web.archive.org/web/20170505025349/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2017-05-26T13:22:19Z",
+        "uri": "https://web.archive.org/web/20170526132219/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2017-06-05T11:47:46Z",
+        "uri": "https://web.archive.org/web/20170605114746/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2017-06-05T11:47:46Z",
+        "uri": "https://web.archive.org/web/20170605114746/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2017-07-06T08:39:24Z",
+        "uri": "https://web.archive.org/web/20170706083924/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2017-07-06T08:39:24Z",
+        "uri": "https://web.archive.org/web/20170706083924/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2017-07-26T02:25:39Z",
+        "uri": "https://web.archive.org/web/20170726022539/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2017-08-06T09:34:58Z",
+        "uri": "https://web.archive.org/web/20170806093458/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2017-08-06T09:34:58Z",
+        "uri": "https://web.archive.org/web/20170806093458/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2017-09-25T04:57:10Z",
+        "uri": "https://web.archive.org/web/20170925045710/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2017-11-24T20:25:56Z",
+        "uri": "https://web.archive.org/web/20171124202556/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2017-12-18T02:44:18Z",
+        "uri": "https://web.archive.org/web/20171218024418/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2017-12-18T02:44:18Z",
+        "uri": "https://web.archive.org/web/20171218024418/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2018-01-18T05:28:11Z",
+        "uri": "https://web.archive.org/web/20180118052811/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2018-01-18T05:28:11Z",
+        "uri": "https://web.archive.org/web/20180118052811/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2018-01-25T19:57:38Z",
+        "uri": "https://web.archive.org/web/20180125195738/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2018-02-18T16:38:13Z",
+        "uri": "https://web.archive.org/web/20180218163813/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2018-02-18T16:38:13Z",
+        "uri": "https://web.archive.org/web/20180218163813/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2018-03-21T03:14:06Z",
+        "uri": "https://web.archive.org/web/20180321031406/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2018-03-21T03:14:06Z",
+        "uri": "https://web.archive.org/web/20180321031406/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2018-03-27T17:39:11Z",
+        "uri": "https://web.archive.org/web/20180327173911/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2018-04-20T23:19:14Z",
+        "uri": "https://web.archive.org/web/20180420231914/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2018-04-20T23:19:14Z",
+        "uri": "https://web.archive.org/web/20180420231914/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2018-05-22T19:46:16Z",
+        "uri": "https://web.archive.org/web/20180522194616/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2018-05-22T19:46:16Z",
+        "uri": "https://web.archive.org/web/20180522194616/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2018-05-27T08:56:10Z",
+        "uri": "https://web.archive.org/web/20180527085610/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2018-06-22T12:21:08Z",
+        "uri": "https://web.archive.org/web/20180622122108/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2018-06-22T12:21:08Z",
+        "uri": "https://web.archive.org/web/20180622122108/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2018-07-23T16:56:46Z",
+        "uri": "https://web.archive.org/web/20180723165646/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2018-07-23T16:56:46Z",
+        "uri": "https://web.archive.org/web/20180723165646/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2018-08-23T20:05:03Z",
+        "uri": "https://web.archive.org/web/20180823200503/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2018-08-23T20:05:03Z",
+        "uri": "https://web.archive.org/web/20180823200503/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2018-09-23T23:35:42Z",
+        "uri": "https://web.archive.org/web/20180923233542/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2018-09-23T23:35:42Z",
+        "uri": "https://web.archive.org/web/20180923233542/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2018-09-25T23:21:59Z",
+        "uri": "https://web.archive.org/web/20180925232159/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2018-10-25T10:31:20Z",
+        "uri": "https://web.archive.org/web/20181025103120/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2018-10-25T10:31:20Z",
+        "uri": "https://web.archive.org/web/20181025103120/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2018-11-25T13:08:05Z",
+        "uri": "https://web.archive.org/web/20181125130805/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2018-11-25T13:08:05Z",
+        "uri": "https://web.archive.org/web/20181125130805/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2018-11-26T16:11:48Z",
+        "uri": "https://web.archive.org/web/20181126161148/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2018-12-26T12:13:26Z",
+        "uri": "https://web.archive.org/web/20181226121326/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2018-12-26T12:13:26Z",
+        "uri": "https://web.archive.org/web/20181226121326/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2019-01-26T08:10:26Z",
+        "uri": "https://web.archive.org/web/20190126081026/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2019-01-26T19:57:50Z",
+        "uri": "https://web.archive.org/web/20190126195750/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2019-01-26T19:57:50Z",
+        "uri": "https://web.archive.org/web/20190126195750/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2019-01-28T00:05:32Z",
+        "uri": "https://web.archive.org/web/20190128000532/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2019-01-28T00:05:32Z",
+        "uri": "https://web.archive.org/web/20190128000532/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2019-02-28T08:00:48Z",
+        "uri": "https://web.archive.org/web/20190228080048/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2019-02-28T08:00:48Z",
+        "uri": "https://web.archive.org/web/20190228080048/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2019-03-01T10:14:43Z",
+        "uri": "https://web.archive.org/web/20190301101443/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2019-03-01T10:14:43Z",
+        "uri": "https://web.archive.org/web/20190301101443/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2019-03-28T08:42:11Z",
+        "uri": "https://web.archive.org/web/20190328084211/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2019-04-01T22:58:28Z",
+        "uri": "https://web.archive.org/web/20190401225828/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2019-04-01T22:58:28Z",
+        "uri": "https://web.archive.org/web/20190401225828/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2019-05-03T15:14:05Z",
+        "uri": "https://web.archive.org/web/20190503151405/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2019-05-03T15:14:05Z",
+        "uri": "https://web.archive.org/web/20190503151405/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2019-05-28T08:10:54Z",
+        "uri": "https://web.archive.org/web/20190528081054/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2019-06-04T05:08:48Z",
+        "uri": "https://web.archive.org/web/20190604050848/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2019-06-04T05:08:48Z",
+        "uri": "https://web.archive.org/web/20190604050848/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2019-06-05T05:18:59Z",
+        "uri": "https://web.archive.org/web/20190605051859/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2019-06-05T05:18:59Z",
+        "uri": "https://web.archive.org/web/20190605051859/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2019-07-06T05:43:06Z",
+        "uri": "https://web.archive.org/web/20190706054306/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2019-07-06T05:43:06Z",
+        "uri": "https://web.archive.org/web/20190706054306/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2019-07-28T01:08:15Z",
+        "uri": "https://web.archive.org/web/20190728010815/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2019-08-06T10:30:33Z",
+        "uri": "https://web.archive.org/web/20190806103033/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2019-08-06T10:30:33Z",
+        "uri": "https://web.archive.org/web/20190806103033/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2019-09-06T07:12:33Z",
+        "uri": "https://web.archive.org/web/20190906071233/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2019-09-06T07:12:33Z",
+        "uri": "https://web.archive.org/web/20190906071233/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2019-09-27T07:23:35Z",
+        "uri": "https://web.archive.org/web/20190927072335/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2019-10-09T06:11:59Z",
+        "uri": "https://web.archive.org/web/20191009061159/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2019-10-16T03:43:56Z",
+        "uri": "https://web.archive.org/web/20191016034356/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2019-10-16T03:43:56Z",
+        "uri": "https://web.archive.org/web/20191016034356/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2019-11-15T14:19:49Z",
+        "uri": "https://web.archive.org/web/20191115141949/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2019-11-15T14:19:49Z",
+        "uri": "https://web.archive.org/web/20191115141949/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2019-12-15T17:00:16Z",
+        "uri": "https://web.archive.org/web/20191215170016/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2019-12-15T17:00:16Z",
+        "uri": "https://web.archive.org/web/20191215170016/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2020-01-15T03:35:20Z",
+        "uri": "https://web.archive.org/web/20200115033520/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2020-01-15T03:35:20Z",
+        "uri": "https://web.archive.org/web/20200115033520/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2020-02-07T15:59:10Z",
+        "uri": "https://web.archive.org/web/20200207155910/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2020-02-14T07:03:14Z",
+        "uri": "https://web.archive.org/web/20200214070314/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2020-02-14T07:03:14Z",
+        "uri": "https://web.archive.org/web/20200214070314/http://catalog.odu.edu:80/undergraduate/academiccalendar"
+      },
+      {
+        "datetime": "2020-04-30T08:53:37Z",
+        "uri": "https://web.archive.org/web/20200430085337/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2020-06-29T14:37:04Z",
+        "uri": "https://web.archive.org/web/20200629143704/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2021-01-22T23:09:20Z",
+        "uri": "https://web.archive.org/web/20210122230920/https://catalog.odu.edu/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2021-04-12T20:29:02Z",
+        "uri": "https://web.archive.org/web/20210412202902/http://catalog.odu.edu/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2021-04-13T16:50:50Z",
+        "uri": "https://web.archive.org/web/20210413165050/https://catalog.odu.edu/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2021-06-13T11:38:00Z",
+        "uri": "https://web.archive.org/web/20210613113800/https://catalog.odu.edu/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2021-06-13T11:38:00Z",
+        "uri": "https://web.archive.org/web/20210613113800/https://catalog.odu.edu/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2021-09-20T11:27:44Z",
+        "uri": "https://web.archive.org/web/20210920112744/https://catalog.odu.edu/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2021-10-23T01:22:40Z",
+        "uri": "https://arquivo.pt/wayback/20211023012240mp_/https://catalog.odu.edu/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2021-10-23T01:22:40Z",
+        "uri": "https://web.archive.org/web/20211023012240/https://catalog.odu.edu/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2021-10-23T01:33:24Z",
+        "uri": "https://arquivo.pt/wayback/20211023013324mp_/http://catalog.odu.edu/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2021-10-23T01:33:24Z",
+        "uri": "https://web.archive.org/web/20211023013324/http://catalog.odu.edu/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2021-11-18T16:11:21Z",
+        "uri": "https://web.archive.org/web/20211118161121/https://catalog.odu.edu/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2021-11-29T11:54:50Z",
+        "uri": "https://web.archive.org/web/20211129115450/https://catalog.odu.edu/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2022-03-19T20:08:54Z",
+        "uri": "https://web.archive.org/web/20220319200854/https://catalog.odu.edu/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2022-03-19T21:42:57Z",
+        "uri": "https://web.archive.org/web/20220319214257/http://catalog.odu.edu/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2022-03-19T21:42:58Z",
+        "uri": "https://web.archive.org/web/20220319214258/https://catalog.odu.edu/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2022-05-07T16:37:13Z",
+        "uri": "https://arquivo.pt/wayback/20220507163713mp_/https://catalog.odu.edu/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2022-08-18T02:08:52Z",
+        "uri": "https://arquivo.pt/wayback/20220818020852mp_/https://catalog.odu.edu/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2022-11-15T20:48:33Z",
+        "uri": "https://arquivo.pt/wayback/20221115204833mp_/https://catalog.odu.edu/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2022-12-09T00:19:14Z",
+        "uri": "https://web.archive.org/web/20221209001914/https://catalog.odu.edu/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2023-08-05T00:57:14Z",
+        "uri": "https://web.archive.org/web/20230805005714/https://catalog.odu.edu/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2023-10-03T11:10:38Z",
+        "uri": "https://web.archive.org/web/20231003111038/https://catalog.odu.edu/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2024-02-28T21:40:53Z",
+        "uri": "https://web.archive.org/web/20240228214053/https://catalog.odu.edu/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2024-02-29T16:08:22Z",
+        "uri": "https://web.archive.org/web/20240229160822/https://catalog.odu.edu/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2024-03-15T17:58:22Z",
+        "uri": "https://web.archive.org/web/20240315175822/https://catalog.odu.edu/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2024-04-17T22:17:13Z",
+        "uri": "https://web.archive.org/web/20240417221713/https://catalog.odu.edu/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2024-07-17T10:41:13Z",
+        "uri": "https://web.archive.org/web/20240717104113/https://catalog.odu.edu/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2024-09-26T19:30:03Z",
+        "uri": "https://web.archive.org/web/20240926193003/https://catalog.odu.edu/undergraduate/academiccalendar/"
+      },
+      {
+        "datetime": "2024-11-11T23:08:59Z",
+        "uri": "https://web.archive.org/web/20241111230859/https://catalog.odu.edu/undergraduate/academiccalendar/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-06-25T03:38:28Z",
+      "uri": "https://web.archive.org/web/20120625033828/http://catalog.odu.edu:80/undergraduate/academiccalendar/"
+    },
+    "last": {
+      "datetime": "2024-11-11T23:08:59Z",
+      "uri": "https://web.archive.org/web/20241111230859/https://catalog.odu.edu/undergraduate/academiccalendar/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/academiccalendar/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/academiccalendar/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/academiccalendar/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/academiccalendar/"
+}

@@ -1,0 +1,130 @@
+{
+  "original_uri": "https://online.odu.edu/cost/graduate-cost",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/cost/graduate-cost",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-04-27T11:37:58Z",
+        "uri": "https://web.archive.org/web/20200427113758/https://online.odu.edu/cost/graduate-cost"
+      },
+      {
+        "datetime": "2020-05-31T00:51:26Z",
+        "uri": "https://web.archive.org/web/20200531005126/https://online.odu.edu/cost/graduate-cost"
+      },
+      {
+        "datetime": "2020-06-17T07:40:11Z",
+        "uri": "https://web.archive.org/web/20200617074011/https://online.odu.edu/cost/graduate-cost"
+      },
+      {
+        "datetime": "2020-09-25T23:09:03Z",
+        "uri": "https://web.archive.org/web/20200925230903/https://online.odu.edu/cost/graduate-cost"
+      },
+      {
+        "datetime": "2020-11-25T11:03:08Z",
+        "uri": "https://web.archive.org/web/20201125110308/https://online.odu.edu/cost/graduate-cost"
+      },
+      {
+        "datetime": "2021-01-17T00:11:15Z",
+        "uri": "https://web.archive.org/web/20210117001115/https://online.odu.edu/cost/graduate-cost"
+      },
+      {
+        "datetime": "2021-04-13T19:27:23Z",
+        "uri": "https://web.archive.org/web/20210413192723/https://online.odu.edu/cost/graduate-cost"
+      },
+      {
+        "datetime": "2021-04-23T05:04:40Z",
+        "uri": "https://web.archive.org/web/20210423050440/https://online.odu.edu/cost/graduate-cost"
+      },
+      {
+        "datetime": "2021-07-30T22:54:15Z",
+        "uri": "https://web.archive.org/web/20210730225415/https://online.odu.edu/cost/graduate-cost"
+      },
+      {
+        "datetime": "2021-10-27T22:16:40Z",
+        "uri": "https://web.archive.org/web/20211027221640/https://online.odu.edu/cost/graduate-cost"
+      },
+      {
+        "datetime": "2021-12-09T09:24:03Z",
+        "uri": "https://web.archive.org/web/20211209092403/https://online.odu.edu/cost/graduate-cost"
+      },
+      {
+        "datetime": "2022-01-18T03:54:24Z",
+        "uri": "https://web.archive.org/web/20220118035424/https://online.odu.edu/cost/graduate-cost"
+      },
+      {
+        "datetime": "2022-03-19T22:11:06Z",
+        "uri": "https://web.archive.org/web/20220319221106/https://online.odu.edu/cost/graduate-cost"
+      },
+      {
+        "datetime": "2022-05-27T05:48:54Z",
+        "uri": "https://web.archive.org/web/20220527054854/https://online.odu.edu/cost/graduate-cost"
+      },
+      {
+        "datetime": "2022-08-07T15:39:27Z",
+        "uri": "https://web.archive.org/web/20220807153927/https://online.odu.edu/cost/graduate-cost"
+      },
+      {
+        "datetime": "2022-08-08T17:24:38Z",
+        "uri": "https://web.archive.org/web/20220808172438/https://online.odu.edu/cost/graduate-cost"
+      },
+      {
+        "datetime": "2022-12-02T12:29:10Z",
+        "uri": "https://web.archive.org/web/20221202122910/https://online.odu.edu/cost/graduate-cost"
+      },
+      {
+        "datetime": "2023-03-25T10:40:22Z",
+        "uri": "https://web.archive.org/web/20230325104022/https://online.odu.edu/cost/graduate-cost"
+      },
+      {
+        "datetime": "2023-09-24T17:07:37Z",
+        "uri": "https://web.archive.org/web/20230924170737/https://online.odu.edu/cost/graduate-cost"
+      },
+      {
+        "datetime": "2023-09-24T20:00:00Z",
+        "uri": "https://web.archive.org/web/20230924200000/https://online.odu.edu/cost/graduate-cost"
+      },
+      {
+        "datetime": "2024-02-22T10:30:32Z",
+        "uri": "https://web.archive.org/web/20240222103032/https://online.odu.edu/cost/graduate-cost"
+      },
+      {
+        "datetime": "2024-03-17T22:56:04Z",
+        "uri": "https://web.archive.org/web/20240317225604/https://online.odu.edu/cost/graduate-cost"
+      },
+      {
+        "datetime": "2024-03-30T16:19:48Z",
+        "uri": "https://web.archive.org/web/20240330161948/https://online.odu.edu/cost/graduate-cost"
+      },
+      {
+        "datetime": "2024-06-13T22:59:54Z",
+        "uri": "https://web.archive.org/web/20240613225954/https://online.odu.edu/cost/graduate-cost"
+      },
+      {
+        "datetime": "2024-09-20T16:46:17Z",
+        "uri": "https://web.archive.org/web/20240920164617/https://online.odu.edu/cost/graduate-cost"
+      },
+      {
+        "datetime": "2024-11-25T11:13:00Z",
+        "uri": "https://web.archive.org/web/20241125111300/http://online.odu.edu/cost/graduate-cost"
+      },
+      {
+        "datetime": "2025-01-19T13:02:53Z",
+        "uri": "https://web.archive.org/web/20250119130253/https://online.odu.edu/cost/graduate-cost"
+      }
+    ],
+    "first": {
+      "datetime": "2020-04-27T11:37:58Z",
+      "uri": "https://web.archive.org/web/20200427113758/https://online.odu.edu/cost/graduate-cost"
+    },
+    "last": {
+      "datetime": "2025-01-19T13:02:53Z",
+      "uri": "https://web.archive.org/web/20250119130253/https://online.odu.edu/cost/graduate-cost"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/cost/graduate-cost",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/cost/graduate-cost",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/cost/graduate-cost"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/cost/graduate-cost"
+}

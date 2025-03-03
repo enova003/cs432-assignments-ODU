@@ -1,0 +1,822 @@
+{
+  "original_uri": "https://www.odu.edu/life/dining",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/life/dining",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-08-31T14:39:58Z",
+        "uri": "https://web.archive.org/web/20120831143958/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2012-09-21T13:06:16Z",
+        "uri": "https://web.archive.org/web/20120921130616/http://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2012-10-10T13:17:17Z",
+        "uri": "https://web.archive.org/web/20121010131717/http://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2012-10-30T21:05:14Z",
+        "uri": "https://web.archive.org/web/20121030210514/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2012-12-11T11:57:38Z",
+        "uri": "https://web.archive.org/web/20121211115738/http://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2012-12-18T14:26:36Z",
+        "uri": "https://web.archive.org/web/20121218142636/http://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2012-12-25T12:23:35Z",
+        "uri": "https://web.archive.org/web/20121225122335/http://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2012-12-30T23:43:38Z",
+        "uri": "https://web.archive.org/web/20121230234338/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2013-01-15T17:22:12Z",
+        "uri": "https://web.archive.org/web/20130115172212/http://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2013-03-01T11:17:44Z",
+        "uri": "https://web.archive.org/web/20130301111744/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2013-04-23T05:12:56Z",
+        "uri": "https://web.archive.org/web/20130423051256/http://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2013-05-01T06:50:55Z",
+        "uri": "https://web.archive.org/web/20130501065055/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2013-05-02T20:12:36Z",
+        "uri": "https://web.archive.org/web/20130502201236/http://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2013-06-01T07:05:19Z",
+        "uri": "https://web.archive.org/web/20130601070519/http://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2013-07-01T16:49:43Z",
+        "uri": "https://web.archive.org/web/20130701164943/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2013-08-06T03:48:53Z",
+        "uri": "https://web.archive.org/web/20130806034853/http://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2013-09-01T20:56:58Z",
+        "uri": "https://web.archive.org/web/20130901205658/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2013-09-29T20:45:02Z",
+        "uri": "https://web.archive.org/web/20130929204502/http://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2013-11-01T11:57:49Z",
+        "uri": "https://web.archive.org/web/20131101115749/http://odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2013-11-27T14:50:50Z",
+        "uri": "https://web.archive.org/web/20131127145050/http://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2014-01-17T10:45:40Z",
+        "uri": "https://web.archive.org/web/20140117104540/http://odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2014-01-28T00:18:00Z",
+        "uri": "https://web.archive.org/web/20140128001800/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2014-02-09T02:30:47Z",
+        "uri": "https://web.archive.org/web/20140209023047/http://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2014-02-13T11:07:35Z",
+        "uri": "https://web.archive.org/web/20140213110735/http://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2014-02-27T20:38:42Z",
+        "uri": "https://web.archive.org/web/20140227203842/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2014-04-16T07:00:51Z",
+        "uri": "https://web.archive.org/web/20140416070051/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2014-05-16T21:00:11Z",
+        "uri": "https://web.archive.org/web/20140516210011/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2014-06-25T05:19:07Z",
+        "uri": "https://web.archive.org/web/20140625051907/http://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2015-02-16T22:58:36Z",
+        "uri": "https://web.archive.org/web/20150216225836/http://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2015-12-11T16:29:45Z",
+        "uri": "https://web.archive.org/web/20151211162945/http://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2016-02-07T01:13:07Z",
+        "uri": "https://web.archive.org/web/20160207011307/http://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2016-05-03T17:14:43Z",
+        "uri": "https://web.archive.org/web/20160503171443/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2016-07-10T23:35:11Z",
+        "uri": "https://web.archive.org/web/20160710233511/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2016-10-27T07:24:16Z",
+        "uri": "https://web.archive.org/web/20161027072416/http://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2016-11-19T02:25:29Z",
+        "uri": "https://web.archive.org/web/20161119022529/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2016-11-21T16:09:25Z",
+        "uri": "https://web.archive.org/web/20161121160925/http://odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2017-01-04T00:20:15Z",
+        "uri": "https://web.archive.org/web/20170104002015/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2017-01-21T14:59:47Z",
+        "uri": "https://web.archive.org/web/20170121145947/http://odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2017-03-05T14:59:49Z",
+        "uri": "https://web.archive.org/web/20170305145949/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2017-03-18T08:38:24Z",
+        "uri": "https://web.archive.org/web/20170318083824/http://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2017-03-23T04:53:40Z",
+        "uri": "https://web.archive.org/web/20170323045340/http://odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2017-04-17T06:00:33Z",
+        "uri": "https://web.archive.org/web/20170417060033/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2017-04-19T07:50:24Z",
+        "uri": "https://web.archive.org/web/20170419075024/http://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2017-05-06T03:18:18Z",
+        "uri": "https://web.archive.org/web/20170506031818/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2017-05-22T23:12:24Z",
+        "uri": "https://web.archive.org/web/20170522231224/http://odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2017-06-06T01:12:45Z",
+        "uri": "https://web.archive.org/web/20170606011245/http://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2017-07-06T20:33:52Z",
+        "uri": "https://web.archive.org/web/20170706203352/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2017-07-22T10:38:40Z",
+        "uri": "https://web.archive.org/web/20170722103840/http://odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2017-08-20T12:18:40Z",
+        "uri": "https://web.archive.org/web/20170820121840/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2017-08-21T19:28:30Z",
+        "uri": "https://web.archive.org/web/20170821192830/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2017-09-05T14:56:52Z",
+        "uri": "https://web.archive.org/web/20170905145652/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2017-09-21T02:10:43Z",
+        "uri": "https://web.archive.org/web/20170921021043/http://odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2017-10-27T00:26:03Z",
+        "uri": "https://web.archive.org/web/20171027002603/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2017-11-20T17:32:21Z",
+        "uri": "https://web.archive.org/web/20171120173221/http://odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2017-12-26T23:04:54Z",
+        "uri": "https://web.archive.org/web/20171226230454/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2018-01-20T15:47:16Z",
+        "uri": "https://web.archive.org/web/20180120154716/http://odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2018-02-25T21:45:25Z",
+        "uri": "https://web.archive.org/web/20180225214525/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2018-03-22T16:47:55Z",
+        "uri": "https://web.archive.org/web/20180322164755/http://odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2018-04-27T12:07:15Z",
+        "uri": "https://web.archive.org/web/20180427120715/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2018-05-03T04:34:00Z",
+        "uri": "https://web.archive.org/web/20180503043400/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2018-05-23T09:40:56Z",
+        "uri": "https://web.archive.org/web/20180523094056/http://odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2018-07-03T07:13:54Z",
+        "uri": "https://web.archive.org/web/20180703071354/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2018-07-22T20:46:15Z",
+        "uri": "https://web.archive.org/web/20180722204615/http://odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2018-09-02T03:13:36Z",
+        "uri": "https://web.archive.org/web/20180902031336/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2018-09-08T06:31:40Z",
+        "uri": "https://web.archive.org/web/20180908063140/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2018-09-12T05:52:13Z",
+        "uri": "https://web.archive.org/web/20180912055213/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2018-11-02T05:56:16Z",
+        "uri": "https://web.archive.org/web/20181102055616/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2018-11-05T19:30:34Z",
+        "uri": "https://web.archive.org/web/20181105193034/http://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2019-01-04T18:06:16Z",
+        "uri": "https://web.archive.org/web/20190104180616/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2019-03-06T12:57:24Z",
+        "uri": "https://web.archive.org/web/20190306125724/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2019-04-08T20:22:20Z",
+        "uri": "https://web.archive.org/web/20190408202220/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2019-04-14T21:34:53Z",
+        "uri": "https://web.archive.org/web/20190414213453/https://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2019-04-17T12:22:50Z",
+        "uri": "https://web.archive.org/web/20190417122250/https://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2019-05-06T18:54:30Z",
+        "uri": "https://web.archive.org/web/20190506185430/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2019-06-04T20:20:58Z",
+        "uri": "https://web.archive.org/web/20190604202058/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2019-07-06T18:30:29Z",
+        "uri": "https://web.archive.org/web/20190706183029/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2019-09-05T16:08:55Z",
+        "uri": "https://web.archive.org/web/20190905160855/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2019-10-16T05:32:49Z",
+        "uri": "https://web.archive.org/web/20191016053249/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2019-11-08T18:51:30Z",
+        "uri": "https://web.archive.org/web/20191108185130/https://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2019-12-14T12:53:59Z",
+        "uri": "https://web.archive.org/web/20191214125359/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2019-12-15T09:11:09Z",
+        "uri": "https://web.archive.org/web/20191215091109/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2019-12-21T17:53:22Z",
+        "uri": "https://web.archive.org/web/20191221175322/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2020-02-13T14:39:25Z",
+        "uri": "https://web.archive.org/web/20200213143925/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2020-02-14T15:15:42Z",
+        "uri": "https://web.archive.org/web/20200214151542/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2020-04-16T19:42:09Z",
+        "uri": "https://wayback.archive-it.org/all/20200416194209/https://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2020-04-16T19:42:09Z",
+        "uri": "https://web.archive.org/web/20200416194209/https://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2020-04-24T12:46:11Z",
+        "uri": "https://web.archive.org/web/20200424124611/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2020-04-27T13:52:19Z",
+        "uri": "https://web.archive.org/web/20200427135219/https://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2020-05-03T16:49:24Z",
+        "uri": "https://web.archive.org/web/20200503164924/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2020-07-02T19:11:19Z",
+        "uri": "https://web.archive.org/web/20200702191119/http://www.odu.edu:80/life/dining"
+      },
+      {
+        "datetime": "2020-07-11T09:54:00Z",
+        "uri": "https://web.archive.org/web/20200711095400/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2020-07-14T23:07:37Z",
+        "uri": "https://web.archive.org/web/20200714230737/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2020-08-17T11:25:06Z",
+        "uri": "https://web.archive.org/web/20200817112506/http://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2020-08-30T22:13:17Z",
+        "uri": "https://web.archive.org/web/20200830221317/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2020-09-30T04:03:20Z",
+        "uri": "https://web.archive.org/web/20200930040320/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2020-10-05T14:47:10Z",
+        "uri": "https://web.archive.org/web/20201005144710/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2020-10-31T18:00:00Z",
+        "uri": "https://web.archive.org/web/20201031180000/https://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2020-11-01T01:34:48Z",
+        "uri": "https://web.archive.org/web/20201101013448/http://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2020-11-01T01:35:19Z",
+        "uri": "https://web.archive.org/web/20201101013519/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2020-11-20T16:02:36Z",
+        "uri": "https://web.archive.org/web/20201120160236/http://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2021-01-28T22:00:38Z",
+        "uri": "https://web.archive.org/web/20210128220038/http://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2021-01-31T17:00:37Z",
+        "uri": "https://web.archive.org/web/20210131170037/http://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2021-02-02T01:38:45Z",
+        "uri": "https://web.archive.org/web/20210202013845/https://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2021-03-24T21:35:16Z",
+        "uri": "https://web.archive.org/web/20210324213516/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2021-04-09T23:29:33Z",
+        "uri": "https://web.archive.org/web/20210409232933/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2021-04-13T17:33:58Z",
+        "uri": "https://web.archive.org/web/20210413173358/https://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2021-04-14T04:45:09Z",
+        "uri": "https://web.archive.org/web/20210414044509/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2021-04-24T02:16:12Z",
+        "uri": "https://web.archive.org/web/20210424021612/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2021-04-25T20:52:44Z",
+        "uri": "https://web.archive.org/web/20210425205244/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2021-04-30T20:12:44Z",
+        "uri": "https://web.archive.org/web/20210430201244/https://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2021-05-20T15:20:02Z",
+        "uri": "https://web.archive.org/web/20210520152002/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2021-05-26T20:06:13Z",
+        "uri": "https://wayback.archive-it.org/all/20210526200613/https://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2021-05-26T20:06:13Z",
+        "uri": "https://web.archive.org/web/20210526200613/https://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2021-06-02T01:58:51Z",
+        "uri": "https://web.archive.org/web/20210602015851/https://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2021-06-05T17:43:56Z",
+        "uri": "https://web.archive.org/web/20210605174356/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2021-06-05T20:35:48Z",
+        "uri": "https://web.archive.org/web/20210605203548/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2021-08-11T19:22:28Z",
+        "uri": "https://web.archive.org/web/20210811192228/https://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2021-08-12T05:58:13Z",
+        "uri": "https://web.archive.org/web/20210812055813/http://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2021-08-12T23:55:49Z",
+        "uri": "https://web.archive.org/web/20210812235549/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2021-09-10T15:38:24Z",
+        "uri": "https://arquivo.pt/wayback/20210910153824mp_/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2021-10-19T19:46:19Z",
+        "uri": "https://web.archive.org/web/20211019194619/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2021-10-21T05:56:29Z",
+        "uri": "https://arquivo.pt/wayback/20211021055629mp_/https://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2021-10-21T05:56:29Z",
+        "uri": "https://web.archive.org/web/20211021055629/https://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2021-11-15T04:21:38Z",
+        "uri": "https://web.archive.org/web/20211115042138/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2021-11-21T12:37:58Z",
+        "uri": "https://web.archive.org/web/20211121123758/https://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2021-12-13T15:34:10Z",
+        "uri": "https://web.archive.org/web/20211213153410/http://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-01-07T22:25:40Z",
+        "uri": "https://web.archive.org/web/20220107222540/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-01-08T16:38:45Z",
+        "uri": "https://web.archive.org/web/20220108163845/https://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-01-10T16:48:29Z",
+        "uri": "https://web.archive.org/web/20220110164829/http://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-01-10T16:48:30Z",
+        "uri": "https://web.archive.org/web/20220110164830/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-01-10T17:05:49Z",
+        "uri": "https://web.archive.org/web/20220110170549/https://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-01-11T20:17:02Z",
+        "uri": "https://web.archive.org/web/20220111201702/https://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-01-12T16:57:44Z",
+        "uri": "https://web.archive.org/web/20220112165744/https://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-01-12T21:58:45Z",
+        "uri": "https://web.archive.org/web/20220112215845/https://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-01-13T00:59:32Z",
+        "uri": "https://web.archive.org/web/20220113005932/https://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-01-13T19:30:17Z",
+        "uri": "https://web.archive.org/web/20220113193017/https://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-01-16T17:07:07Z",
+        "uri": "https://web.archive.org/web/20220116170707/http://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-01-16T17:07:08Z",
+        "uri": "https://web.archive.org/web/20220116170708/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-01-16T23:34:45Z",
+        "uri": "https://web.archive.org/web/20220116233445/https://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-01-17T07:07:24Z",
+        "uri": "https://web.archive.org/web/20220117070724/https://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-01-21T21:46:22Z",
+        "uri": "https://web.archive.org/web/20220121214622/https://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-01-22T10:39:57Z",
+        "uri": "https://arquivo.pt/wayback/20220122103957mp_/https://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-01-24T20:27:08Z",
+        "uri": "https://web.archive.org/web/20220124202708/https://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-01-26T02:01:10Z",
+        "uri": "https://web.archive.org/web/20220126020110/https://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-01-31T22:17:53Z",
+        "uri": "https://web.archive.org/web/20220131221753/https://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-02-01T22:30:02Z",
+        "uri": "https://web.archive.org/web/20220201223002/https://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-02-03T18:59:05Z",
+        "uri": "https://web.archive.org/web/20220203185905/https://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-02-16T08:49:53Z",
+        "uri": "https://web.archive.org/web/20220216084953/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-02-17T22:34:06Z",
+        "uri": "https://web.archive.org/web/20220217223406/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-03-10T00:31:56Z",
+        "uri": "https://web.archive.org/web/20220310003156/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-03-20T00:24:23Z",
+        "uri": "https://web.archive.org/web/20220320002423/http://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-04-17T05:48:03Z",
+        "uri": "https://arquivo.pt/wayback/20220417054803mp_/https://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-04-20T17:01:25Z",
+        "uri": "https://arquivo.pt/wayback/20220420170125mp_/https://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-05-14T05:09:40Z",
+        "uri": "https://web.archive.org/web/20220514050940/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-06-08T14:59:28Z",
+        "uri": "https://web.archive.org/web/20220608145928/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-06-16T10:42:31Z",
+        "uri": "https://web.archive.org/web/20220616104231/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-06-18T23:26:19Z",
+        "uri": "https://web.archive.org/web/20220618232619/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-06-18T23:38:32Z",
+        "uri": "https://web.archive.org/web/20220618233832/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-06-19T11:20:57Z",
+        "uri": "https://web.archive.org/web/20220619112057/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-06-19T11:26:37Z",
+        "uri": "https://web.archive.org/web/20220619112637/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-06-19T23:21:57Z",
+        "uri": "https://web.archive.org/web/20220619232157/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-06-19T23:25:01Z",
+        "uri": "https://web.archive.org/web/20220619232501/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-08-02T18:44:50Z",
+        "uri": "https://web.archive.org/web/20220802184450/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-08-02T23:00:05Z",
+        "uri": "https://web.archive.org/web/20220802230005/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-08-04T06:30:22Z",
+        "uri": "https://web.archive.org/web/20220804063022/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-08-08T10:17:13Z",
+        "uri": "https://web.archive.org/web/20220808101713/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-08-08T19:07:37Z",
+        "uri": "https://web.archive.org/web/20220808190737/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-08-09T03:24:16Z",
+        "uri": "https://web.archive.org/web/20220809032416/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-08-10T20:15:31Z",
+        "uri": "https://wayback.archive-it.org/all/20220810201531/https://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-08-10T20:15:31Z",
+        "uri": "https://web.archive.org/web/20220810201531/https://odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-08-10T22:02:15Z",
+        "uri": "https://web.archive.org/web/20220810220215/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-08-13T19:25:54Z",
+        "uri": "https://web.archive.org/web/20220813192554/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-08-14T17:23:43Z",
+        "uri": "https://web.archive.org/web/20220814172343/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-09-22T10:24:19Z",
+        "uri": "https://web.archive.org/web/20220922102419/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-10-14T04:38:19Z",
+        "uri": "https://web.archive.org/web/20221014043819/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-11-07T10:37:44Z",
+        "uri": "https://wayback.archive-it.org/all/20221107103744/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-11-07T10:37:44Z",
+        "uri": "https://web.archive.org/web/20221107103744/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-11-09T00:57:21Z",
+        "uri": "https://wayback.archive-it.org/all/20221109005721/http://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-11-09T00:57:21Z",
+        "uri": "https://web.archive.org/web/20221109005721/http://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-12-08T17:12:22Z",
+        "uri": "https://wayback.archive-it.org/all/20221208171222/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-12-08T17:12:22Z",
+        "uri": "https://web.archive.org/web/20221208171222/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-12-14T02:58:08Z",
+        "uri": "https://wayback.archive-it.org/all/20221214025808/http://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2022-12-14T02:58:08Z",
+        "uri": "https://web.archive.org/web/20221214025808/http://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2023-01-08T09:57:16Z",
+        "uri": "https://wayback.archive-it.org/all/20230108095716/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2023-01-08T09:57:16Z",
+        "uri": "https://web.archive.org/web/20230108095716/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2023-02-09T03:00:08Z",
+        "uri": "https://wayback.archive-it.org/all/20230209030008/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2023-02-09T03:00:08Z",
+        "uri": "https://web.archive.org/web/20230209030008/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2023-03-07T07:50:02Z",
+        "uri": "https://wayback.archive-it.org/all/20230307075002/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2023-03-07T07:50:02Z",
+        "uri": "https://web.archive.org/web/20230307075002/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2023-03-09T04:17:29Z",
+        "uri": "https://wayback.archive-it.org/all/20230309041729/http://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2023-03-09T04:17:29Z",
+        "uri": "https://web.archive.org/web/20230309041729/http://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2023-08-26T05:00:37Z",
+        "uri": "https://wayback.archive-it.org/all/20230826050037/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2023-08-26T05:00:37Z",
+        "uri": "https://web.archive.org/web/20230826050037/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2023-08-27T02:22:40Z",
+        "uri": "https://wayback.archive-it.org/all/20230827022240/http://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2023-08-27T02:22:40Z",
+        "uri": "https://web.archive.org/web/20230827022240/http://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2024-02-14T16:09:27Z",
+        "uri": "https://web.archive.org/web/20240214160927/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2024-04-04T07:27:15Z",
+        "uri": "https://web.archive.org/web/20240404072715/http://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2024-05-24T13:04:57Z",
+        "uri": "https://wayback.archive-it.org/all/20240524130457/https://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2024-05-30T03:56:45Z",
+        "uri": "https://wayback.archive-it.org/all/20240530035645/http://www.odu.edu/life/dining"
+      },
+      {
+        "datetime": "2024-08-18T07:42:01Z",
+        "uri": "https://web.archive.org/web/20240818074201/http://odu.edu/life/dining"
+      }
+    ],
+    "first": {
+      "datetime": "2012-08-31T14:39:58Z",
+      "uri": "https://web.archive.org/web/20120831143958/http://www.odu.edu:80/life/dining"
+    },
+    "last": {
+      "datetime": "2024-08-18T07:42:01Z",
+      "uri": "https://web.archive.org/web/20240818074201/http://odu.edu/life/dining"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/life/dining",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/life/dining",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/life/dining"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/life/dining"
+}

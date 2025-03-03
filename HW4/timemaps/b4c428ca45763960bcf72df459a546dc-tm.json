@@ -1,0 +1,90 @@
+{
+  "original_uri": "https://www.odu.edu/career-leadership",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/career-leadership",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-08-15T18:47:29Z",
+        "uri": "https://web.archive.org/web/20240815184729/https://www.odu.edu/career-leadership"
+      },
+      {
+        "datetime": "2024-09-11T14:14:50Z",
+        "uri": "https://web.archive.org/web/20240911141450/https://www.odu.edu/career-leadership"
+      },
+      {
+        "datetime": "2024-09-16T06:01:10Z",
+        "uri": "https://web.archive.org/web/20240916060110/https://www.odu.edu/career-leadership"
+      },
+      {
+        "datetime": "2024-09-17T21:50:56Z",
+        "uri": "https://web.archive.org/web/20240917215056/https://www.odu.edu/career-leadership"
+      },
+      {
+        "datetime": "2024-10-05T12:37:54Z",
+        "uri": "https://web.archive.org/web/20241005123754/https://www.odu.edu/career-leadership"
+      },
+      {
+        "datetime": "2024-10-23T06:40:47Z",
+        "uri": "https://web.archive.org/web/20241023064047/http://odu.edu/career-leadership/"
+      },
+      {
+        "datetime": "2024-10-23T06:54:29Z",
+        "uri": "https://web.archive.org/web/20241023065429/https://www.odu.edu/career-leadership/"
+      },
+      {
+        "datetime": "2024-11-11T10:10:22Z",
+        "uri": "https://web.archive.org/web/20241111101022/https://www.odu.edu/career-leadership"
+      },
+      {
+        "datetime": "2024-11-15T22:32:37Z",
+        "uri": "https://web.archive.org/web/20241115223237/https://www.odu.edu/career-leadership"
+      },
+      {
+        "datetime": "2024-12-01T15:38:22Z",
+        "uri": "https://web.archive.org/web/20241201153822/https://www.odu.edu/career-leadership"
+      },
+      {
+        "datetime": "2024-12-03T18:05:17Z",
+        "uri": "https://web.archive.org/web/20241203180517/https://www.odu.edu/career-leadership"
+      },
+      {
+        "datetime": "2024-12-20T10:00:40Z",
+        "uri": "https://web.archive.org/web/20241220100040/https://www.odu.edu/career-leadership"
+      },
+      {
+        "datetime": "2024-12-24T17:56:02Z",
+        "uri": "https://web.archive.org/web/20241224175602/https://www.odu.edu/career-leadership"
+      },
+      {
+        "datetime": "2024-12-26T11:34:17Z",
+        "uri": "https://web.archive.org/web/20241226113417/https://www.odu.edu/career-leadership"
+      },
+      {
+        "datetime": "2025-01-03T22:32:16Z",
+        "uri": "https://web.archive.org/web/20250103223216/https://www.odu.edu/career-leadership"
+      },
+      {
+        "datetime": "2025-02-14T09:59:42Z",
+        "uri": "https://web.archive.org/web/20250214095942/https://www.odu.edu/career-leadership"
+      },
+      {
+        "datetime": "2025-02-14T11:51:18Z",
+        "uri": "https://web.archive.org/web/20250214115118/https://www.odu.edu/career-leadership"
+      }
+    ],
+    "first": {
+      "datetime": "2024-08-15T18:47:29Z",
+      "uri": "https://web.archive.org/web/20240815184729/https://www.odu.edu/career-leadership"
+    },
+    "last": {
+      "datetime": "2025-02-14T11:51:18Z",
+      "uri": "https://web.archive.org/web/20250214115118/https://www.odu.edu/career-leadership"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/career-leadership",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/career-leadership",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/career-leadership"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/career-leadership"
+}

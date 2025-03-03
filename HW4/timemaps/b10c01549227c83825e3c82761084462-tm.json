@@ -1,0 +1,518 @@
+{
+  "original_uri": "https://www.odu.edu/life/culture/arts/diehn",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/life/culture/arts/diehn",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-09-03T21:11:39Z",
+        "uri": "https://web.archive.org/web/20170903211139/http://odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2017-10-28T05:48:52Z",
+        "uri": "https://web.archive.org/web/20171028054852/http://odu.edu:80/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2017-11-08T11:03:22Z",
+        "uri": "https://web.archive.org/web/20171108110322/http://www.odu.edu:80/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2017-12-08T23:18:15Z",
+        "uri": "https://web.archive.org/web/20171208231815/http://www.odu.edu:80/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2018-01-09T01:40:31Z",
+        "uri": "https://web.archive.org/web/20180109014031/http://www.odu.edu:80/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2018-07-26T05:21:00Z",
+        "uri": "https://web.archive.org/web/20180726052100/http://www.odu.edu:80/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2020-08-20T17:41:39Z",
+        "uri": "https://web.archive.org/web/20200820174139/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2020-08-20T17:41:46Z",
+        "uri": "https://web.archive.org/web/20200820174146/http://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2021-05-27T06:34:33Z",
+        "uri": "https://wayback.archive-it.org/all/20210527063433/https://odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2021-05-27T06:34:33Z",
+        "uri": "https://web.archive.org/web/20210527063433/https://odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2021-05-27T06:34:37Z",
+        "uri": "https://wayback.archive-it.org/all/20210527063437/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2021-05-27T06:34:37Z",
+        "uri": "https://web.archive.org/web/20210527063437/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2021-05-27T06:34:43Z",
+        "uri": "https://wayback.archive-it.org/all/20210527063443/http://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2021-05-27T06:34:43Z",
+        "uri": "https://web.archive.org/web/20210527063443/http://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2021-08-13T01:16:44Z",
+        "uri": "https://web.archive.org/web/20210813011644/https://odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2021-11-05T08:52:51Z",
+        "uri": "https://arquivo.pt/wayback/20211105085251mp_/https://odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2021-11-05T08:52:51Z",
+        "uri": "https://web.archive.org/web/20211105085251/https://odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2021-11-08T14:26:47Z",
+        "uri": "https://web.archive.org/web/20211108142647/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2021-11-11T03:29:08Z",
+        "uri": "https://arquivo.pt/wayback/20211111032908mp_/http://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2021-11-11T03:29:08Z",
+        "uri": "https://web.archive.org/web/20211111032908/http://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2021-11-18T06:18:29Z",
+        "uri": "https://web.archive.org/web/20211118061829/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2021-11-27T20:43:10Z",
+        "uri": "https://web.archive.org/web/20211127204310/https://odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2021-11-27T20:44:19Z",
+        "uri": "https://web.archive.org/web/20211127204419/https://odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-01-08T01:53:46Z",
+        "uri": "https://web.archive.org/web/20220108015346/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-01-08T16:38:43Z",
+        "uri": "https://web.archive.org/web/20220108163843/https://odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-01-10T17:08:53Z",
+        "uri": "https://web.archive.org/web/20220110170853/https://odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-01-11T20:16:45Z",
+        "uri": "https://web.archive.org/web/20220111201645/https://odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-01-12T16:58:05Z",
+        "uri": "https://web.archive.org/web/20220112165805/https://odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-01-12T21:56:26Z",
+        "uri": "https://web.archive.org/web/20220112215626/https://odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-01-13T01:01:03Z",
+        "uri": "https://web.archive.org/web/20220113010103/https://odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-01-13T19:32:53Z",
+        "uri": "https://web.archive.org/web/20220113193253/https://odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-01-16T23:35:33Z",
+        "uri": "https://web.archive.org/web/20220116233533/https://odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-01-17T07:07:42Z",
+        "uri": "https://web.archive.org/web/20220117070742/https://odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-01-21T21:46:19Z",
+        "uri": "https://web.archive.org/web/20220121214619/https://odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-01-22T10:51:21Z",
+        "uri": "https://arquivo.pt/wayback/20220122105121mp_/https://odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-01-24T20:27:23Z",
+        "uri": "https://web.archive.org/web/20220124202723/https://odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-01-26T02:02:32Z",
+        "uri": "https://web.archive.org/web/20220126020232/https://odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-01-26T05:39:20Z",
+        "uri": "https://arquivo.pt/wayback/20220126053920mp_/http://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-01-31T22:16:47Z",
+        "uri": "https://web.archive.org/web/20220131221647/https://odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-02-01T22:30:36Z",
+        "uri": "https://web.archive.org/web/20220201223036/https://odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-02-03T18:58:51Z",
+        "uri": "https://web.archive.org/web/20220203185851/https://odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-02-17T22:50:13Z",
+        "uri": "https://web.archive.org/web/20220217225013/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-04-17T06:02:19Z",
+        "uri": "https://arquivo.pt/wayback/20220417060219mp_/https://odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-04-22T17:22:24Z",
+        "uri": "https://arquivo.pt/wayback/20220422172224mp_/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-04-22T17:22:28Z",
+        "uri": "https://arquivo.pt/wayback/20220422172228mp_/http://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-04-24T18:55:44Z",
+        "uri": "https://arquivo.pt/wayback/20220424185544mp_/http://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-05-14T05:09:40Z",
+        "uri": "https://web.archive.org/web/20220514050940/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-05-25T11:02:39Z",
+        "uri": "https://web.archive.org/web/20220525110239/https://odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-05-29T00:08:40Z",
+        "uri": "https://web.archive.org/web/20220529000840/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-06-08T14:59:36Z",
+        "uri": "https://web.archive.org/web/20220608145936/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-06-15T05:40:29Z",
+        "uri": "https://web.archive.org/web/20220615054029/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-06-18T23:28:41Z",
+        "uri": "https://web.archive.org/web/20220618232841/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-06-19T00:46:16Z",
+        "uri": "https://web.archive.org/web/20220619004616/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-06-19T11:34:48Z",
+        "uri": "https://web.archive.org/web/20220619113448/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-06-19T23:20:27Z",
+        "uri": "https://web.archive.org/web/20220619232027/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-06-19T23:31:08Z",
+        "uri": "https://web.archive.org/web/20220619233108/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-06-21T09:11:34Z",
+        "uri": "https://web.archive.org/web/20220621091134/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-07-30T15:08:19Z",
+        "uri": "https://arquivo.pt/wayback/20220730150819mp_/https://odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-08-03T11:40:49Z",
+        "uri": "https://web.archive.org/web/20220803114049/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-08-03T17:04:00Z",
+        "uri": "https://web.archive.org/web/20220803170400/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-08-03T19:30:32Z",
+        "uri": "https://web.archive.org/web/20220803193032/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-08-04T10:19:54Z",
+        "uri": "https://web.archive.org/web/20220804101954/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-08-04T23:29:07Z",
+        "uri": "https://web.archive.org/web/20220804232907/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-08-05T17:23:54Z",
+        "uri": "https://web.archive.org/web/20220805172354/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-08-07T03:03:02Z",
+        "uri": "https://web.archive.org/web/20220807030302/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-08-08T19:47:34Z",
+        "uri": "https://web.archive.org/web/20220808194734/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-08-08T20:34:27Z",
+        "uri": "https://web.archive.org/web/20220808203427/https://odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-08-09T13:35:58Z",
+        "uri": "https://web.archive.org/web/20220809133558/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-08-10T16:48:10Z",
+        "uri": "https://web.archive.org/web/20220810164810/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-08-10T20:26:28Z",
+        "uri": "https://wayback.archive-it.org/all/20220810202628/https://odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-08-10T20:26:28Z",
+        "uri": "https://web.archive.org/web/20220810202628/https://odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-08-10T20:26:44Z",
+        "uri": "https://wayback.archive-it.org/all/20220810202644/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-08-10T20:26:44Z",
+        "uri": "https://web.archive.org/web/20220810202644/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-08-10T20:26:58Z",
+        "uri": "https://wayback.archive-it.org/all/20220810202658/http://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-08-10T20:26:58Z",
+        "uri": "https://web.archive.org/web/20220810202658/http://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-08-11T00:09:27Z",
+        "uri": "https://web.archive.org/web/20220811000927/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-08-14T10:29:45Z",
+        "uri": "https://web.archive.org/web/20220814102945/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-09-22T15:34:46Z",
+        "uri": "https://web.archive.org/web/20220922153446/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-10-04T04:53:17Z",
+        "uri": "https://web.archive.org/web/20221004045317/https://odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-10-11T02:42:29Z",
+        "uri": "https://arquivo.pt/wayback/20221011024229mp_/https://odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-10-14T05:11:24Z",
+        "uri": "https://web.archive.org/web/20221014051124/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-10-19T08:15:16Z",
+        "uri": "https://web.archive.org/web/20221019081516/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-11-07T06:44:37Z",
+        "uri": "https://wayback.archive-it.org/all/20221107064437/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-11-07T06:44:37Z",
+        "uri": "https://web.archive.org/web/20221107064437/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-12-07T14:56:09Z",
+        "uri": "https://wayback.archive-it.org/all/20221207145609/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-12-07T14:56:09Z",
+        "uri": "https://web.archive.org/web/20221207145609/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2022-12-08T05:50:27Z",
+        "uri": "https://web.archive.org/web/20221208055027/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2023-01-07T14:48:05Z",
+        "uri": "https://wayback.archive-it.org/all/20230107144805/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2023-01-07T14:48:05Z",
+        "uri": "https://web.archive.org/web/20230107144805/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2023-01-24T20:52:12Z",
+        "uri": "https://arquivo.pt/wayback/20230124205212mp_/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2023-02-07T13:35:04Z",
+        "uri": "https://wayback.archive-it.org/all/20230207133504/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2023-02-07T13:35:04Z",
+        "uri": "https://web.archive.org/web/20230207133504/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2023-02-20T01:10:47Z",
+        "uri": "https://web.archive.org/web/20230220011047/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2023-03-07T05:14:09Z",
+        "uri": "https://wayback.archive-it.org/all/20230307051409/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2023-03-07T05:14:09Z",
+        "uri": "https://web.archive.org/web/20230307051409/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2023-03-27T15:22:03Z",
+        "uri": "https://web.archive.org/web/20230327152203/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2023-03-27T22:37:02Z",
+        "uri": "https://web.archive.org/web/20230327223702/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2023-04-02T12:56:50Z",
+        "uri": "https://web.archive.org/web/20230402125650/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2023-08-25T19:13:11Z",
+        "uri": "https://wayback.archive-it.org/all/20230825191311/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2023-08-25T19:13:11Z",
+        "uri": "https://web.archive.org/web/20230825191311/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2023-10-04T11:09:05Z",
+        "uri": "https://web.archive.org/web/20231004110905/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2023-11-28T03:54:25Z",
+        "uri": "https://web.archive.org/web/20231128035425/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2024-02-14T16:08:56Z",
+        "uri": "https://web.archive.org/web/20240214160856/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2024-02-21T19:25:58Z",
+        "uri": "https://web.archive.org/web/20240221192558/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2024-02-21T20:25:40Z",
+        "uri": "https://web.archive.org/web/20240221202540/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2024-02-28T23:56:43Z",
+        "uri": "https://web.archive.org/web/20240228235643/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2024-04-04T07:26:59Z",
+        "uri": "https://web.archive.org/web/20240404072659/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2024-04-27T16:09:40Z",
+        "uri": "https://web.archive.org/web/20240427160940/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2024-05-24T00:05:27Z",
+        "uri": "https://wayback.archive-it.org/all/20240524000527/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2024-05-25T09:20:30Z",
+        "uri": "https://web.archive.org/web/20240525092030/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2024-06-18T17:39:17Z",
+        "uri": "https://web.archive.org/web/20240618173917/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2024-07-15T23:30:24Z",
+        "uri": "https://web.archive.org/web/20240715233024/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2024-09-13T06:05:57Z",
+        "uri": "https://web.archive.org/web/20240913060557/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2024-09-17T21:38:05Z",
+        "uri": "https://web.archive.org/web/20240917213805/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2024-10-07T10:26:24Z",
+        "uri": "https://web.archive.org/web/20241007102624/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2024-10-14T03:12:00Z",
+        "uri": "https://web.archive.org/web/20241014031200/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2024-11-04T15:20:55Z",
+        "uri": "https://web.archive.org/web/20241104152055/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2024-11-17T07:15:09Z",
+        "uri": "https://web.archive.org/web/20241117071509/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2024-12-10T22:02:35Z",
+        "uri": "https://web.archive.org/web/20241210220235/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2024-12-19T02:28:01Z",
+        "uri": "https://web.archive.org/web/20241219022801/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2024-12-20T02:10:04Z",
+        "uri": "https://web.archive.org/web/20241220021004/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2024-12-24T17:53:35Z",
+        "uri": "https://web.archive.org/web/20241224175335/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2025-01-13T11:18:44Z",
+        "uri": "https://web.archive.org/web/20250113111844/https://www.odu.edu/life/culture/arts/diehn"
+      },
+      {
+        "datetime": "2025-02-14T10:00:53Z",
+        "uri": "https://web.archive.org/web/20250214100053/https://www.odu.edu/life/culture/arts/diehn"
+      }
+    ],
+    "first": {
+      "datetime": "2017-09-03T21:11:39Z",
+      "uri": "https://web.archive.org/web/20170903211139/http://odu.edu/life/culture/arts/diehn"
+    },
+    "last": {
+      "datetime": "2025-02-14T10:00:53Z",
+      "uri": "https://web.archive.org/web/20250214100053/https://www.odu.edu/life/culture/arts/diehn"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/life/culture/arts/diehn",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/life/culture/arts/diehn",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/life/culture/arts/diehn"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/life/culture/arts/diehn"
+}

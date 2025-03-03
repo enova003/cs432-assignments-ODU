@@ -1,0 +1,1014 @@
+{
+  "original_uri": "https://www.odu.edu/business",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/business",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "1998-02-10T02:55:47Z",
+        "uri": "https://web.archive.org/web/19980210025547/http://www.odu.edu:80/Business/"
+      },
+      {
+        "datetime": "2000-04-13T02:48:27Z",
+        "uri": "https://web.archive.org/web/20000413024827/http://www.odu.edu:80/Business"
+      },
+      {
+        "datetime": "2000-04-17T10:32:09Z",
+        "uri": "https://web.archive.org/web/20000417103209/http://www.odu.edu:80/Business"
+      },
+      {
+        "datetime": "2000-04-21T21:09:56Z",
+        "uri": "https://web.archive.org/web/20000421210956/http://www.odu.edu:80/Business"
+      },
+      {
+        "datetime": "2000-05-03T17:19:19Z",
+        "uri": "https://web.archive.org/web/20000503171919/http://www.odu.edu:80/Business"
+      },
+      {
+        "datetime": "2000-08-17T19:06:59Z",
+        "uri": "https://web.archive.org/web/20000817190659/http://www.odu.edu:80/Business/"
+      },
+      {
+        "datetime": "2000-10-21T16:18:49Z",
+        "uri": "https://web.archive.org/web/20001021161849/http://www.odu.edu:80/Business"
+      },
+      {
+        "datetime": "2000-10-21T16:51:27Z",
+        "uri": "https://web.archive.org/web/20001021165127/http://www.odu.edu:80/Business"
+      },
+      {
+        "datetime": "2001-04-30T05:53:44Z",
+        "uri": "https://web.archive.org/web/20010430055344/http://www.odu.edu:80/Business/"
+      },
+      {
+        "datetime": "2001-09-05T19:41:20Z",
+        "uri": "https://web.archive.org/web/20010905194120/http://www.odu.edu:80/Business/"
+      },
+      {
+        "datetime": "2014-06-26T05:15:57Z",
+        "uri": "https://web.archive.org/web/20140626051557/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2014-06-26T15:01:53Z",
+        "uri": "https://web.archive.org/web/20140626150153/http://odu.edu/business"
+      },
+      {
+        "datetime": "2014-07-13T01:57:10Z",
+        "uri": "https://web.archive.org/web/20140713015710/http://odu.edu:80/business"
+      },
+      {
+        "datetime": "2014-07-20T14:53:18Z",
+        "uri": "https://web.archive.org/web/20140720145318/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2014-08-20T13:26:47Z",
+        "uri": "https://web.archive.org/web/20140820132647/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2015-04-29T15:15:30Z",
+        "uri": "http://archive.md/20150429151530/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2016-01-24T19:14:11Z",
+        "uri": "https://web.archive.org/web/20160124191411/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2016-03-25T19:32:47Z",
+        "uri": "https://web.archive.org/web/20160325193247/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2016-10-21T17:09:11Z",
+        "uri": "https://web.archive.org/web/20161021170911/http://www.odu.edu:80/business/"
+      },
+      {
+        "datetime": "2016-11-25T13:21:54Z",
+        "uri": "https://web.archive.org/web/20161125132154/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2016-12-04T05:33:30Z",
+        "uri": "https://web.archive.org/web/20161204053330/http://odu.edu:80/business"
+      },
+      {
+        "datetime": "2017-03-18T09:46:39Z",
+        "uri": "https://web.archive.org/web/20170318094639/http://odu.edu/business"
+      },
+      {
+        "datetime": "2017-03-26T05:47:22Z",
+        "uri": "https://web.archive.org/web/20170326054722/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2017-04-15T19:34:04Z",
+        "uri": "https://web.archive.org/web/20170415193404/http://odu.edu:80/business"
+      },
+      {
+        "datetime": "2017-05-11T07:32:39Z",
+        "uri": "https://web.archive.org/web/20170511073239/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2017-06-14T05:33:00Z",
+        "uri": "https://web.archive.org/web/20170614053300/http://odu.edu/business"
+      },
+      {
+        "datetime": "2017-06-20T09:29:21Z",
+        "uri": "https://web.archive.org/web/20170620092921/http://odu.edu:80/business"
+      },
+      {
+        "datetime": "2017-06-21T17:04:55Z",
+        "uri": "https://web.archive.org/web/20170621170455/http://odu.edu:80/business"
+      },
+      {
+        "datetime": "2017-06-27T15:40:30Z",
+        "uri": "https://web.archive.org/web/20170627154030/https://www.odu.edu/business/"
+      },
+      {
+        "datetime": "2017-07-05T10:14:44Z",
+        "uri": "https://web.archive.org/web/20170705101444/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2017-07-09T05:18:10Z",
+        "uri": "https://web.archive.org/web/20170709051810/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2017-08-09T16:18:37Z",
+        "uri": "https://web.archive.org/web/20170809161837/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2017-08-21T08:36:07Z",
+        "uri": "https://web.archive.org/web/20170821083607/http://odu.edu:80/business"
+      },
+      {
+        "datetime": "2017-09-02T11:26:26Z",
+        "uri": "https://web.archive.org/web/20170902112626/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2017-09-09T09:07:37Z",
+        "uri": "https://web.archive.org/web/20170909090737/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2017-09-11T03:13:37Z",
+        "uri": "https://web.archive.org/web/20170911031337/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2017-09-25T14:14:39Z",
+        "uri": "https://web.archive.org/web/20170925141439/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2017-10-21T02:48:52Z",
+        "uri": "https://web.archive.org/web/20171021024852/http://odu.edu:80/business"
+      },
+      {
+        "datetime": "2017-11-10T15:56:52Z",
+        "uri": "https://web.archive.org/web/20171110155652/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2017-11-13T18:39:53Z",
+        "uri": "https://web.archive.org/web/20171113183953/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2017-12-14T18:09:36Z",
+        "uri": "https://web.archive.org/web/20171214180936/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2017-12-21T12:03:54Z",
+        "uri": "https://web.archive.org/web/20171221120354/http://odu.edu:80/business"
+      },
+      {
+        "datetime": "2018-01-14T20:52:24Z",
+        "uri": "https://web.archive.org/web/20180114205224/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2018-01-30T16:03:14Z",
+        "uri": "https://web.archive.org/web/20180130160314/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2018-03-12T13:03:33Z",
+        "uri": "https://web.archive.org/web/20180312130333/http://odu.edu:80/business"
+      },
+      {
+        "datetime": "2018-03-19T00:40:44Z",
+        "uri": "https://web.archive.org/web/20180319004044/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2018-03-19T22:36:42Z",
+        "uri": "https://web.archive.org/web/20180319223642/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2018-04-20T03:32:25Z",
+        "uri": "https://web.archive.org/web/20180420033225/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2018-04-21T10:21:13Z",
+        "uri": "https://web.archive.org/web/20180421102113/http://www.odu.edu:80/business/"
+      },
+      {
+        "datetime": "2018-05-07T13:21:12Z",
+        "uri": "https://web.archive.org/web/20180507132112/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2018-05-12T09:08:36Z",
+        "uri": "https://web.archive.org/web/20180512090836/http://odu.edu:80/business"
+      },
+      {
+        "datetime": "2018-05-22T15:16:07Z",
+        "uri": "https://web.archive.org/web/20180522151607/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2018-06-22T04:47:12Z",
+        "uri": "https://web.archive.org/web/20180622044712/http://www.odu.edu:80/business/"
+      },
+      {
+        "datetime": "2018-06-22T14:32:54Z",
+        "uri": "https://web.archive.org/web/20180622143254/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2018-06-23T13:30:09Z",
+        "uri": "https://web.archive.org/web/20180623133009/http://www.odu.edu:80/business/"
+      },
+      {
+        "datetime": "2018-07-12T12:11:47Z",
+        "uri": "https://web.archive.org/web/20180712121147/http://odu.edu:80/business"
+      },
+      {
+        "datetime": "2018-07-23T17:47:38Z",
+        "uri": "https://web.archive.org/web/20180723174738/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2018-07-26T04:42:25Z",
+        "uri": "https://web.archive.org/web/20180726044225/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2018-08-23T20:18:19Z",
+        "uri": "https://web.archive.org/web/20180823201819/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2018-08-24T17:18:08Z",
+        "uri": "https://web.archive.org/web/20180824171808/http://www.odu.edu:80/business/"
+      },
+      {
+        "datetime": "2018-09-02T04:31:40Z",
+        "uri": "https://web.archive.org/web/20180902043140/https://www.odu.edu/business/"
+      },
+      {
+        "datetime": "2018-09-24T00:18:07Z",
+        "uri": "https://web.archive.org/web/20180924001807/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2018-09-26T19:54:48Z",
+        "uri": "https://web.archive.org/web/20180926195448/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2018-10-25T11:49:54Z",
+        "uri": "https://web.archive.org/web/20181025114954/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2018-10-25T17:26:53Z",
+        "uri": "https://web.archive.org/web/20181025172653/http://www.odu.edu:80/business/"
+      },
+      {
+        "datetime": "2018-11-25T12:55:47Z",
+        "uri": "https://web.archive.org/web/20181125125547/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2018-12-02T05:42:59Z",
+        "uri": "https://web.archive.org/web/20181202054259/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2018-12-09T07:23:00Z",
+        "uri": "https://web.archive.org/web/20181209072300/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2018-12-26T00:48:13Z",
+        "uri": "https://web.archive.org/web/20181226004813/http://www.odu.edu:80/business/"
+      },
+      {
+        "datetime": "2018-12-26T10:39:01Z",
+        "uri": "https://web.archive.org/web/20181226103901/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2019-01-26T17:57:08Z",
+        "uri": "https://web.archive.org/web/20190126175708/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2019-02-01T14:03:33Z",
+        "uri": "https://web.archive.org/web/20190201140333/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2019-02-24T19:41:08Z",
+        "uri": "https://web.archive.org/web/20190224194108/http://www.odu.edu:80/business/"
+      },
+      {
+        "datetime": "2019-02-27T00:02:51Z",
+        "uri": "https://web.archive.org/web/20190227000251/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2019-03-30T03:52:29Z",
+        "uri": "https://web.archive.org/web/20190330035229/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2019-04-03T18:54:39Z",
+        "uri": "https://web.archive.org/web/20190403185439/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2019-04-26T18:11:49Z",
+        "uri": "https://web.archive.org/web/20190426181149/http://www.odu.edu:80/business/"
+      },
+      {
+        "datetime": "2019-04-30T05:19:46Z",
+        "uri": "https://web.archive.org/web/20190430051946/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2019-06-01T20:02:49Z",
+        "uri": "https://web.archive.org/web/20190601200249/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2019-06-04T01:40:26Z",
+        "uri": "https://web.archive.org/web/20190604014026/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2019-06-26T15:12:09Z",
+        "uri": "https://web.archive.org/web/20190626151209/http://www.odu.edu:80/business/"
+      },
+      {
+        "datetime": "2019-07-03T14:59:33Z",
+        "uri": "https://web.archive.org/web/20190703145933/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2019-08-03T18:39:48Z",
+        "uri": "https://web.archive.org/web/20190803183948/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2019-08-05T10:06:45Z",
+        "uri": "https://web.archive.org/web/20190805100645/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2019-08-26T17:30:37Z",
+        "uri": "https://web.archive.org/web/20190826173037/http://www.odu.edu:80/business/"
+      },
+      {
+        "datetime": "2019-09-04T00:49:19Z",
+        "uri": "https://web.archive.org/web/20190904004919/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2019-10-21T02:47:03Z",
+        "uri": "https://web.archive.org/web/20191021024703/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2019-11-07T11:13:17Z",
+        "uri": "https://web.archive.org/web/20191107111317/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2019-11-07T13:00:29Z",
+        "uri": "https://web.archive.org/web/20191107130029/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2019-11-15T01:13:34Z",
+        "uri": "https://web.archive.org/web/20191115011334/http://www.odu.edu:80/business/"
+      },
+      {
+        "datetime": "2019-12-20T10:12:55Z",
+        "uri": "https://web.archive.org/web/20191220101255/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2020-01-15T11:36:51Z",
+        "uri": "https://web.archive.org/web/20200115113651/http://www.odu.edu:80/business/"
+      },
+      {
+        "datetime": "2020-02-18T16:34:33Z",
+        "uri": "https://web.archive.org/web/20200218163433/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2020-06-09T22:33:27Z",
+        "uri": "https://web.archive.org/web/20200609223327/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2020-07-17T17:16:08Z",
+        "uri": "https://web.archive.org/web/20200717171608/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2020-07-20T07:42:03Z",
+        "uri": "https://web.archive.org/web/20200720074203/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2020-08-09T01:25:16Z",
+        "uri": "https://web.archive.org/web/20200809012516/http://www.odu.edu:80/business"
+      },
+      {
+        "datetime": "2021-02-05T05:06:04Z",
+        "uri": "https://web.archive.org/web/20210205050604/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2021-03-27T16:52:13Z",
+        "uri": "https://web.archive.org/web/20210327165213/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2021-03-27T16:52:14Z",
+        "uri": "https://web.archive.org/web/20210327165214/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2021-04-15T08:24:37Z",
+        "uri": "https://web.archive.org/web/20210415082437/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2021-04-17T05:43:36Z",
+        "uri": "https://web.archive.org/web/20210417054336/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2021-05-20T15:15:55Z",
+        "uri": "https://web.archive.org/web/20210520151555/https://odu.edu/business"
+      },
+      {
+        "datetime": "2021-05-20T15:19:22Z",
+        "uri": "https://web.archive.org/web/20210520151922/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2021-05-20T15:43:57Z",
+        "uri": "https://web.archive.org/web/20210520154357/https://odu.edu/business"
+      },
+      {
+        "datetime": "2021-05-27T00:52:17Z",
+        "uri": "https://web.archive.org/web/20210527005217/https://odu.edu/business"
+      },
+      {
+        "datetime": "2021-05-27T00:52:24Z",
+        "uri": "https://web.archive.org/web/20210527005224/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2021-05-27T00:52:29Z",
+        "uri": "https://web.archive.org/web/20210527005229/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2021-08-12T06:58:07Z",
+        "uri": "https://web.archive.org/web/20210812065807/https://odu.edu/business"
+      },
+      {
+        "datetime": "2021-09-10T15:32:19Z",
+        "uri": "https://arquivo.pt/wayback/20210910153219mp_/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2021-09-13T17:02:44Z",
+        "uri": "https://arquivo.pt/wayback/20210913170244mp_/http://odu.edu/business"
+      },
+      {
+        "datetime": "2021-10-21T05:07:33Z",
+        "uri": "https://arquivo.pt/wayback/20211021050733mp_/https://odu.edu/business"
+      },
+      {
+        "datetime": "2021-10-21T05:07:33Z",
+        "uri": "https://web.archive.org/web/20211021050733/https://odu.edu/business"
+      },
+      {
+        "datetime": "2021-10-29T13:30:37Z",
+        "uri": "https://web.archive.org/web/20211029133037/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2021-11-03T11:48:48Z",
+        "uri": "https://arquivo.pt/wayback/20211103114848mp_/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2021-11-03T11:48:48Z",
+        "uri": "https://web.archive.org/web/20211103114848/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-01-02T20:33:53Z",
+        "uri": "https://web.archive.org/web/20220102203353/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-01-03T21:05:22Z",
+        "uri": "https://web.archive.org/web/20220103210522/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-01-03T21:06:35Z",
+        "uri": "https://web.archive.org/web/20220103210635/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-01-04T22:21:57Z",
+        "uri": "https://web.archive.org/web/20220104222157/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-01-22T12:13:05Z",
+        "uri": "https://arquivo.pt/wayback/20220122121305mp_/https://odu.edu/business"
+      },
+      {
+        "datetime": "2022-01-26T05:59:04Z",
+        "uri": "https://arquivo.pt/wayback/20220126055904mp_/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-01-26T20:42:34Z",
+        "uri": "https://web.archive.org/web/20220126204234/https://www.odu.edu/business/"
+      },
+      {
+        "datetime": "2022-01-26T20:42:34Z",
+        "uri": "https://web.archive.org/web/20220126204234/http://www.odu.edu/business/"
+      },
+      {
+        "datetime": "2022-01-31T12:37:34Z",
+        "uri": "https://web.archive.org/web/20220131123734/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-01-31T12:37:34Z",
+        "uri": "https://web.archive.org/web/20220131123734/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-02-05T08:09:41Z",
+        "uri": "https://web.archive.org/web/20220205080941/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-02-05T08:09:41Z",
+        "uri": "https://web.archive.org/web/20220205080941/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-02-05T08:09:57Z",
+        "uri": "https://web.archive.org/web/20220205080957/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-02-05T08:09:58Z",
+        "uri": "https://web.archive.org/web/20220205080958/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-03-07T18:22:52Z",
+        "uri": "https://web.archive.org/web/20220307182252/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-03-07T18:22:52Z",
+        "uri": "https://web.archive.org/web/20220307182252/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-03-14T05:27:09Z",
+        "uri": "https://web.archive.org/web/20220314052709/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-03-19T19:39:32Z",
+        "uri": "https://web.archive.org/web/20220319193932/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-03-19T21:02:57Z",
+        "uri": "https://web.archive.org/web/20220319210257/https://odu.edu/business"
+      },
+      {
+        "datetime": "2022-03-19T22:03:00Z",
+        "uri": "https://web.archive.org/web/20220319220300/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-03-19T22:03:00Z",
+        "uri": "https://web.archive.org/web/20220319220300/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-03-20T01:58:14Z",
+        "uri": "https://web.archive.org/web/20220320015814/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-03-20T01:58:14Z",
+        "uri": "https://web.archive.org/web/20220320015814/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-04-17T07:32:12Z",
+        "uri": "https://arquivo.pt/wayback/20220417073212mp_/https://odu.edu/business"
+      },
+      {
+        "datetime": "2022-04-18T00:16:53Z",
+        "uri": "https://web.archive.org/web/20220418001653/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-04-18T00:17:57Z",
+        "uri": "https://web.archive.org/web/20220418001757/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-04-18T02:31:32Z",
+        "uri": "https://web.archive.org/web/20220418023132/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-04-20T16:03:46Z",
+        "uri": "https://arquivo.pt/wayback/20220420160346mp_/https://odu.edu/business"
+      },
+      {
+        "datetime": "2022-04-22T18:52:29Z",
+        "uri": "https://arquivo.pt/wayback/20220422185229mp_/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-04-24T19:12:21Z",
+        "uri": "https://arquivo.pt/wayback/20220424191221mp_/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-05-18T19:27:05Z",
+        "uri": "https://web.archive.org/web/20220518192705/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-05-28T16:27:54Z",
+        "uri": "https://web.archive.org/web/20220528162754/https://odu.edu/business"
+      },
+      {
+        "datetime": "2022-06-26T01:28:52Z",
+        "uri": "https://web.archive.org/web/20220626012852/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-06-26T01:28:53Z",
+        "uri": "https://web.archive.org/web/20220626012853/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-06-30T01:44:26Z",
+        "uri": "https://web.archive.org/web/20220630014426/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-07-11T00:02:01Z",
+        "uri": "https://web.archive.org/web/20220711000201/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-07-11T00:02:01Z",
+        "uri": "https://web.archive.org/web/20220711000201/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-07-11T00:02:03Z",
+        "uri": "https://web.archive.org/web/20220711000203/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-07-11T00:02:03Z",
+        "uri": "https://web.archive.org/web/20220711000203/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-07-11T00:02:04Z",
+        "uri": "https://web.archive.org/web/20220711000204/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-07-30T17:03:02Z",
+        "uri": "https://arquivo.pt/wayback/20220730170302mp_/https://odu.edu/business"
+      },
+      {
+        "datetime": "2022-08-10T17:58:15Z",
+        "uri": "https://web.archive.org/web/20220810175815/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-08-11T02:23:57Z",
+        "uri": "https://web.archive.org/web/20220811022357/https://odu.edu/business"
+      },
+      {
+        "datetime": "2022-08-11T02:24:05Z",
+        "uri": "https://web.archive.org/web/20220811022405/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-08-11T02:24:14Z",
+        "uri": "https://web.archive.org/web/20220811022414/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-08-14T03:18:54Z",
+        "uri": "https://web.archive.org/web/20220814031854/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-08-14T11:35:30Z",
+        "uri": "https://web.archive.org/web/20220814113530/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-08-14T11:36:37Z",
+        "uri": "https://web.archive.org/web/20220814113637/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-09-27T13:57:12Z",
+        "uri": "https://web.archive.org/web/20220927135712/https://odu.edu/business"
+      },
+      {
+        "datetime": "2022-09-27T18:14:20Z",
+        "uri": "https://web.archive.org/web/20220927181420/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-09-28T13:30:19Z",
+        "uri": "https://web.archive.org/web/20220928133019/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-10-05T21:15:00Z",
+        "uri": "https://web.archive.org/web/20221005211500/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-10-11T04:25:20Z",
+        "uri": "https://arquivo.pt/wayback/20221011042520mp_/https://odu.edu/business"
+      },
+      {
+        "datetime": "2022-10-27T05:52:58Z",
+        "uri": "https://web.archive.org/web/20221027055258/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-10-31T11:20:55Z",
+        "uri": "https://web.archive.org/web/20221031112055/https://www.odu.edu/business/"
+      },
+      {
+        "datetime": "2022-11-07T05:26:51Z",
+        "uri": "https://web.archive.org/web/20221107052651/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-11-07T11:42:51Z",
+        "uri": "https://web.archive.org/web/20221107114251/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-11-08T23:36:59Z",
+        "uri": "https://web.archive.org/web/20221108233659/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-12-07T08:03:40Z",
+        "uri": "https://web.archive.org/web/20221207080340/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-12-08T05:58:51Z",
+        "uri": "https://web.archive.org/web/20221208055851/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2022-12-09T03:57:00Z",
+        "uri": "https://web.archive.org/web/20221209035700/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2023-01-07T07:54:37Z",
+        "uri": "https://web.archive.org/web/20230107075437/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2023-01-08T16:59:26Z",
+        "uri": "https://web.archive.org/web/20230108165926/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2023-01-24T19:29:10Z",
+        "uri": "https://arquivo.pt/wayback/20230124192910mp_/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2023-02-04T11:56:34Z",
+        "uri": "https://web.archive.org/web/20230204115634/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2023-02-07T06:37:19Z",
+        "uri": "https://web.archive.org/web/20230207063719/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2023-02-09T11:43:42Z",
+        "uri": "https://web.archive.org/web/20230209114342/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2023-02-20T00:47:30Z",
+        "uri": "https://web.archive.org/web/20230220004730/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2023-03-07T04:31:37Z",
+        "uri": "https://web.archive.org/web/20230307043137/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2023-03-07T10:08:13Z",
+        "uri": "https://web.archive.org/web/20230307100813/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2023-03-07T12:27:45Z",
+        "uri": "https://web.archive.org/web/20230307122745/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2023-03-07T12:27:47Z",
+        "uri": "https://web.archive.org/web/20230307122747/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2023-03-24T23:07:20Z",
+        "uri": "https://web.archive.org/web/20230324230720/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2023-03-27T15:22:03Z",
+        "uri": "https://web.archive.org/web/20230327152203/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2023-03-27T22:30:37Z",
+        "uri": "https://web.archive.org/web/20230327223037/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2023-04-05T13:28:39Z",
+        "uri": "https://web.archive.org/web/20230405132839/https://odu.edu/business"
+      },
+      {
+        "datetime": "2023-04-08T02:37:33Z",
+        "uri": "https://web.archive.org/web/20230408023733/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2023-05-08T06:00:22Z",
+        "uri": "https://web.archive.org/web/20230508060022/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2023-06-06T16:35:05Z",
+        "uri": "https://web.archive.org/web/20230606163505/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2023-06-06T16:35:05Z",
+        "uri": "https://web.archive.org/web/20230606163505/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2023-06-06T16:35:06Z",
+        "uri": "https://web.archive.org/web/20230606163506/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2023-06-06T16:35:07Z",
+        "uri": "https://web.archive.org/web/20230606163507/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2023-06-06T16:50:14Z",
+        "uri": "https://web.archive.org/web/20230606165014/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2023-06-07T13:39:52Z",
+        "uri": "https://web.archive.org/web/20230607133952/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2023-06-15T13:38:38Z",
+        "uri": "https://web.archive.org/web/20230615133838/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2023-07-10T23:20:30Z",
+        "uri": "https://web.archive.org/web/20230710232030/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2023-08-10T10:34:18Z",
+        "uri": "https://web.archive.org/web/20230810103418/http://odu.edu/business/"
+      },
+      {
+        "datetime": "2023-08-10T10:37:30Z",
+        "uri": "https://web.archive.org/web/20230810103730/https://odu.edu/business/"
+      },
+      {
+        "datetime": "2023-08-22T11:01:57Z",
+        "uri": "https://web.archive.org/web/20230822110157/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2023-08-22T11:02:03Z",
+        "uri": "https://web.archive.org/web/20230822110203/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2023-08-25T17:13:43Z",
+        "uri": "https://web.archive.org/web/20230825171343/https://odu.edu/business"
+      },
+      {
+        "datetime": "2023-08-25T17:41:00Z",
+        "uri": "https://web.archive.org/web/20230825174100/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2023-08-26T07:43:21Z",
+        "uri": "https://web.archive.org/web/20230826074321/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2023-08-29T12:58:59Z",
+        "uri": "https://web.archive.org/web/20230829125859/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2023-08-29T14:09:46Z",
+        "uri": "https://web.archive.org/web/20230829140946/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2023-12-07T20:24:05Z",
+        "uri": "https://web.archive.org/web/20231207202405/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2023-12-07T20:24:06Z",
+        "uri": "https://web.archive.org/web/20231207202406/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2024-02-14T16:09:45Z",
+        "uri": "https://web.archive.org/web/20240214160945/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2024-02-21T20:25:41Z",
+        "uri": "https://web.archive.org/web/20240221202541/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2024-02-28T23:38:26Z",
+        "uri": "https://web.archive.org/web/20240228233826/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2024-03-03T08:12:03Z",
+        "uri": "https://web.archive.org/web/20240303081203/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2024-03-04T17:32:02Z",
+        "uri": "https://web.archive.org/web/20240304173202/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2024-03-25T14:00:08Z",
+        "uri": "https://web.archive.org/web/20240325140008/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2024-04-01T13:06:54Z",
+        "uri": "https://web.archive.org/web/20240401130654/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2024-04-04T07:27:01Z",
+        "uri": "https://web.archive.org/web/20240404072701/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2024-04-17T03:32:45Z",
+        "uri": "https://web.archive.org/web/20240417033245/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2024-04-27T16:08:59Z",
+        "uri": "https://web.archive.org/web/20240427160859/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2024-05-13T13:54:16Z",
+        "uri": "https://web.archive.org/web/20240513135416/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2024-06-04T00:20:12Z",
+        "uri": "https://web.archive.org/web/20240604002012/https://odu.edu/Business"
+      },
+      {
+        "datetime": "2024-06-04T03:21:23Z",
+        "uri": "https://web.archive.org/web/20240604032123/https://www.odu.edu/Business"
+      },
+      {
+        "datetime": "2024-06-17T23:03:37Z",
+        "uri": "https://web.archive.org/web/20240617230337/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2024-06-18T17:37:50Z",
+        "uri": "https://web.archive.org/web/20240618173750/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2024-06-24T07:54:39Z",
+        "uri": "https://web.archive.org/web/20240624075439/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2024-06-24T17:41:14Z",
+        "uri": "https://web.archive.org/web/20240624174114/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2024-07-07T12:50:57Z",
+        "uri": "https://web.archive.org/web/20240707125057/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2024-07-11T03:36:59Z",
+        "uri": "https://web.archive.org/web/20240711033659/http://odu.edu/business"
+      },
+      {
+        "datetime": "2024-07-15T23:30:28Z",
+        "uri": "https://web.archive.org/web/20240715233028/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2024-07-17T01:08:38Z",
+        "uri": "https://web.archive.org/web/20240717010838/http://odu.edu/BUSINESS"
+      },
+      {
+        "datetime": "2024-07-17T02:03:13Z",
+        "uri": "https://web.archive.org/web/20240717020313/https://odu.edu/BUSINESS"
+      },
+      {
+        "datetime": "2024-07-21T06:21:47Z",
+        "uri": "https://web.archive.org/web/20240721062147/http://www.odu.edu/business"
+      },
+      {
+        "datetime": "2024-09-16T03:35:13Z",
+        "uri": "https://web.archive.org/web/20240916033513/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2024-09-17T21:01:04Z",
+        "uri": "https://web.archive.org/web/20240917210104/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2024-10-07T10:31:59Z",
+        "uri": "https://web.archive.org/web/20241007103159/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2024-10-14T02:49:42Z",
+        "uri": "https://web.archive.org/web/20241014024942/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2024-11-11T11:26:45Z",
+        "uri": "https://web.archive.org/web/20241111112645/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2024-11-28T00:15:47Z",
+        "uri": "https://web.archive.org/web/20241128001547/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2024-12-09T17:19:40Z",
+        "uri": "https://web.archive.org/web/20241209171940/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2024-12-24T17:54:06Z",
+        "uri": "https://web.archive.org/web/20241224175406/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2024-12-26T05:25:31Z",
+        "uri": "https://web.archive.org/web/20241226052531/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2025-01-15T05:03:25Z",
+        "uri": "https://web.archive.org/web/20250115050325/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2025-01-16T05:58:15Z",
+        "uri": "https://web.archive.org/web/20250116055815/https://www.odu.edu/business"
+      },
+      {
+        "datetime": "2025-02-14T10:00:02Z",
+        "uri": "https://web.archive.org/web/20250214100002/https://www.odu.edu/business"
+      }
+    ],
+    "first": {
+      "datetime": "1998-02-10T02:55:47Z",
+      "uri": "https://web.archive.org/web/19980210025547/http://www.odu.edu:80/Business/"
+    },
+    "last": {
+      "datetime": "2025-02-14T10:00:02Z",
+      "uri": "https://web.archive.org/web/20250214100002/https://www.odu.edu/business"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/business",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/business",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/business"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/business"
+}

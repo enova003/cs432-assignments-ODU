@@ -1,0 +1,54 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/education/teacher-education/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/education/teacher-education/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T01:22:06Z",
+        "uri": "https://web.archive.org/web/20230927012206/https://catalog.odu.edu/undergraduate/education/teacher-education/"
+      },
+      {
+        "datetime": "2023-10-01T02:52:50Z",
+        "uri": "https://web.archive.org/web/20231001025250/https://catalog.odu.edu/undergraduate/education/teacher-education/"
+      },
+      {
+        "datetime": "2024-02-29T00:41:09Z",
+        "uri": "https://web.archive.org/web/20240229004109/https://catalog.odu.edu/undergraduate/education/teacher-education/"
+      },
+      {
+        "datetime": "2024-02-29T16:07:16Z",
+        "uri": "https://web.archive.org/web/20240229160716/https://catalog.odu.edu/undergraduate/education/teacher-education/"
+      },
+      {
+        "datetime": "2024-04-17T21:34:40Z",
+        "uri": "https://web.archive.org/web/20240417213440/https://catalog.odu.edu/undergraduate/education/teacher-education/"
+      },
+      {
+        "datetime": "2024-07-07T12:04:01Z",
+        "uri": "https://web.archive.org/web/20240707120401/https://catalog.odu.edu/undergraduate/education/teacher-education/"
+      },
+      {
+        "datetime": "2024-08-13T21:13:49Z",
+        "uri": "https://web.archive.org/web/20240813211349/https://catalog.odu.edu/undergraduate/education/teacher-education/"
+      },
+      {
+        "datetime": "2024-12-07T04:49:57Z",
+        "uri": "https://web.archive.org/web/20241207044957/https://catalog.odu.edu/undergraduate/education/teacher-education/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T01:22:06Z",
+      "uri": "https://web.archive.org/web/20230927012206/https://catalog.odu.edu/undergraduate/education/teacher-education/"
+    },
+    "last": {
+      "datetime": "2024-12-07T04:49:57Z",
+      "uri": "https://web.archive.org/web/20241207044957/https://catalog.odu.edu/undergraduate/education/teacher-education/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/education/teacher-education/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/education/teacher-education/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/education/teacher-education/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/education/teacher-education/"
+}

@@ -1,0 +1,370 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/generalinformation/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/generalinformation/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-06-25T03:37:23Z",
+        "uri": "https://web.archive.org/web/20120625033723/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2012-08-29T16:00:57Z",
+        "uri": "https://web.archive.org/web/20120829160057/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2012-10-29T23:57:50Z",
+        "uri": "https://web.archive.org/web/20121029235750/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2013-01-06T08:54:49Z",
+        "uri": "https://web.archive.org/web/20130106085449/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2013-03-12T08:26:38Z",
+        "uri": "https://web.archive.org/web/20130312082638/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2013-05-14T00:04:24Z",
+        "uri": "https://web.archive.org/web/20130514000424/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2013-06-17T09:53:11Z",
+        "uri": "https://web.archive.org/web/20130617095311/http://catalog.odu.edu/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2013-07-15T13:14:02Z",
+        "uri": "https://web.archive.org/web/20130715131402/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2013-09-14T09:31:32Z",
+        "uri": "https://web.archive.org/web/20130914093132/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2013-11-14T16:20:24Z",
+        "uri": "https://web.archive.org/web/20131114162024/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2014-01-14T05:46:43Z",
+        "uri": "https://web.archive.org/web/20140114054643/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2014-03-16T03:13:07Z",
+        "uri": "https://web.archive.org/web/20140316031307/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2014-05-16T04:51:56Z",
+        "uri": "https://web.archive.org/web/20140516045156/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2014-07-15T14:00:01Z",
+        "uri": "https://web.archive.org/web/20140715140001/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2014-09-14T05:17:19Z",
+        "uri": "https://web.archive.org/web/20140914051719/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2014-11-14T13:24:26Z",
+        "uri": "https://web.archive.org/web/20141114132426/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2015-01-15T02:04:07Z",
+        "uri": "https://web.archive.org/web/20150115020407/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2015-02-17T02:35:12Z",
+        "uri": "https://web.archive.org/web/20150217023512/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2015-04-10T07:47:25Z",
+        "uri": "https://web.archive.org/web/20150410074725/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2015-04-10T07:47:25Z",
+        "uri": "https://web.archive.org/web/20150410074725/http://catalog.odu.edu:80/graduate/generalinformation"
+      },
+      {
+        "datetime": "2015-04-18T13:27:27Z",
+        "uri": "https://web.archive.org/web/20150418132727/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2015-05-11T00:34:16Z",
+        "uri": "https://web.archive.org/web/20150511003416/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2015-05-11T00:34:16Z",
+        "uri": "https://web.archive.org/web/20150511003416/http://catalog.odu.edu:80/graduate/generalinformation"
+      },
+      {
+        "datetime": "2015-05-11T07:28:15Z",
+        "uri": "https://web.archive.org/web/20150511072815/http://catalog.odu.edu/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2015-06-13T05:52:30Z",
+        "uri": "https://web.archive.org/web/20150613055230/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2015-06-13T05:52:30Z",
+        "uri": "https://web.archive.org/web/20150613055230/http://catalog.odu.edu:80/graduate/generalinformation"
+      },
+      {
+        "datetime": "2015-06-18T02:35:57Z",
+        "uri": "https://web.archive.org/web/20150618023557/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2015-07-17T04:56:54Z",
+        "uri": "https://web.archive.org/web/20150717045654/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2015-07-17T04:56:54Z",
+        "uri": "https://web.archive.org/web/20150717045654/http://catalog.odu.edu:80/graduate/generalinformation"
+      },
+      {
+        "datetime": "2015-08-17T20:42:50Z",
+        "uri": "https://web.archive.org/web/20150817204250/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2015-10-17T15:17:45Z",
+        "uri": "https://web.archive.org/web/20151017151745/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2015-12-17T03:34:23Z",
+        "uri": "https://web.archive.org/web/20151217033423/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2016-02-09T01:57:32Z",
+        "uri": "https://web.archive.org/web/20160209015732/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2016-02-09T01:57:32Z",
+        "uri": "https://web.archive.org/web/20160209015732/http://catalog.odu.edu:80/graduate/generalinformation"
+      },
+      {
+        "datetime": "2016-02-15T22:32:49Z",
+        "uri": "https://web.archive.org/web/20160215223249/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2016-03-12T09:26:38Z",
+        "uri": "https://web.archive.org/web/20160312092638/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2016-03-12T09:26:38Z",
+        "uri": "https://web.archive.org/web/20160312092638/http://catalog.odu.edu:80/graduate/generalinformation"
+      },
+      {
+        "datetime": "2016-04-08T23:13:30Z",
+        "uri": "https://web.archive.org/web/20160408231330/http://catalog.odu.edu/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2016-04-12T18:13:44Z",
+        "uri": "https://web.archive.org/web/20160412181344/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2016-04-12T18:13:44Z",
+        "uri": "https://web.archive.org/web/20160412181344/http://catalog.odu.edu:80/graduate/generalinformation"
+      },
+      {
+        "datetime": "2016-04-16T14:28:26Z",
+        "uri": "https://web.archive.org/web/20160416142826/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2016-05-14T00:47:33Z",
+        "uri": "https://web.archive.org/web/20160514004733/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2016-05-14T00:47:33Z",
+        "uri": "https://web.archive.org/web/20160514004733/http://catalog.odu.edu:80/graduate/generalinformation"
+      },
+      {
+        "datetime": "2016-06-16T11:25:19Z",
+        "uri": "https://web.archive.org/web/20160616112519/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2016-08-16T01:36:46Z",
+        "uri": "https://web.archive.org/web/20160816013646/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2016-10-16T04:47:13Z",
+        "uri": "https://web.archive.org/web/20161016044713/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2016-12-05T05:06:13Z",
+        "uri": "https://web.archive.org/web/20161205050613/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2017-04-08T18:00:54Z",
+        "uri": "https://web.archive.org/web/20170408180054/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2017-04-27T04:32:27Z",
+        "uri": "https://web.archive.org/web/20170427043227/http://catalog.odu.edu/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2017-06-11T03:58:58Z",
+        "uri": "https://web.archive.org/web/20170611035858/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2017-08-10T20:17:53Z",
+        "uri": "https://web.archive.org/web/20170810201753/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2017-09-05T05:30:46Z",
+        "uri": "https://web.archive.org/web/20170905053046/http://catalog.odu.edu/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2017-10-10T14:37:35Z",
+        "uri": "https://web.archive.org/web/20171010143735/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2017-12-10T09:01:59Z",
+        "uri": "https://web.archive.org/web/20171210090159/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2018-02-10T05:35:17Z",
+        "uri": "https://web.archive.org/web/20180210053517/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2018-04-11T18:37:04Z",
+        "uri": "https://web.archive.org/web/20180411183704/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2018-06-12T13:53:32Z",
+        "uri": "https://web.archive.org/web/20180612135332/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2018-08-12T14:01:55Z",
+        "uri": "https://web.archive.org/web/20180812140155/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2018-08-13T16:50:18Z",
+        "uri": "https://web.archive.org/web/20180813165018/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2018-10-13T15:13:29Z",
+        "uri": "https://web.archive.org/web/20181013151329/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2018-10-14T17:55:44Z",
+        "uri": "https://web.archive.org/web/20181014175544/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2018-12-14T18:31:21Z",
+        "uri": "https://web.archive.org/web/20181214183121/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2019-02-13T18:30:17Z",
+        "uri": "https://web.archive.org/web/20190213183017/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2019-04-15T04:47:20Z",
+        "uri": "https://web.archive.org/web/20190415044720/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2019-06-15T13:41:16Z",
+        "uri": "https://web.archive.org/web/20190615134116/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2019-08-15T18:26:14Z",
+        "uri": "https://web.archive.org/web/20190815182614/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2019-10-09T05:21:58Z",
+        "uri": "https://web.archive.org/web/20191009052158/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2019-12-08T12:38:55Z",
+        "uri": "https://web.archive.org/web/20191208123855/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2020-03-02T06:17:35Z",
+        "uri": "https://web.archive.org/web/20200302061735/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2020-05-01T09:06:21Z",
+        "uri": "https://web.archive.org/web/20200501090621/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2020-06-30T15:32:05Z",
+        "uri": "https://web.archive.org/web/20200630153205/http://catalog.odu.edu:80/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2021-01-24T09:44:25Z",
+        "uri": "https://web.archive.org/web/20210124094425/https://catalog.odu.edu/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2021-04-12T20:28:08Z",
+        "uri": "https://web.archive.org/web/20210412202808/http://catalog.odu.edu/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2021-11-03T21:59:59Z",
+        "uri": "https://web.archive.org/web/20211103215959/https://catalog.odu.edu/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2021-11-15T23:56:31Z",
+        "uri": "https://arquivo.pt/wayback/20211115235631mp_/http://catalog.odu.edu/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2021-11-15T23:56:31Z",
+        "uri": "https://web.archive.org/web/20211115235631/http://catalog.odu.edu/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2021-11-15T23:56:36Z",
+        "uri": "https://arquivo.pt/wayback/20211115235636mp_/https://catalog.odu.edu/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2021-11-15T23:56:36Z",
+        "uri": "https://web.archive.org/web/20211115235636/https://catalog.odu.edu/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2021-11-18T10:56:37Z",
+        "uri": "https://web.archive.org/web/20211118105637/https://catalog.odu.edu/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2022-03-19T21:58:29Z",
+        "uri": "https://web.archive.org/web/20220319215829/https://catalog.odu.edu/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2022-03-19T22:05:50Z",
+        "uri": "https://web.archive.org/web/20220319220550/http://catalog.odu.edu/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2022-03-19T22:05:51Z",
+        "uri": "https://web.archive.org/web/20220319220551/https://catalog.odu.edu/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2022-05-07T16:37:47Z",
+        "uri": "https://arquivo.pt/wayback/20220507163747mp_/http://catalog.odu.edu/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2022-05-07T16:37:51Z",
+        "uri": "https://arquivo.pt/wayback/20220507163751mp_/https://catalog.odu.edu/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2023-12-20T22:59:20Z",
+        "uri": "https://web.archive.org/web/20231220225920/https://catalog.odu.edu/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2024-07-17T10:48:43Z",
+        "uri": "https://web.archive.org/web/20240717104843/https://catalog.odu.edu/graduate/generalinformation/"
+      },
+      {
+        "datetime": "2024-11-11T23:46:01Z",
+        "uri": "https://web.archive.org/web/20241111234601/https://catalog.odu.edu/graduate/generalinformation/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-06-25T03:37:23Z",
+      "uri": "https://web.archive.org/web/20120625033723/http://catalog.odu.edu:80/graduate/generalinformation/"
+    },
+    "last": {
+      "datetime": "2024-11-11T23:46:01Z",
+      "uri": "https://web.archive.org/web/20241111234601/https://catalog.odu.edu/graduate/generalinformation/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/generalinformation/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/generalinformation/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/generalinformation/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/generalinformation/"
+}

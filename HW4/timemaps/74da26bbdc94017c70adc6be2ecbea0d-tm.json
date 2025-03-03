@@ -1,0 +1,54 @@
+{
+  "original_uri": "https://online.odu.edu/academics/area/computer-science-math",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/academics/area/computer-science-math",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-07-15T00:31:07Z",
+        "uri": "https://web.archive.org/web/20230715003107/https://online.odu.edu/academics/area/computer-science-math"
+      },
+      {
+        "datetime": "2023-08-03T21:22:38Z",
+        "uri": "https://web.archive.org/web/20230803212238/https://online.odu.edu/academics/area/computer-science-math"
+      },
+      {
+        "datetime": "2023-09-24T16:19:36Z",
+        "uri": "https://web.archive.org/web/20230924161936/https://online.odu.edu/academics/area/computer-science-math"
+      },
+      {
+        "datetime": "2024-02-25T07:44:52Z",
+        "uri": "https://web.archive.org/web/20240225074452/https://online.odu.edu/academics/area/computer-science-math"
+      },
+      {
+        "datetime": "2024-06-13T22:29:33Z",
+        "uri": "https://web.archive.org/web/20240613222933/https://online.odu.edu/academics/area/computer-science-math"
+      },
+      {
+        "datetime": "2024-09-20T16:10:30Z",
+        "uri": "https://web.archive.org/web/20240920161030/https://online.odu.edu/academics/area/computer-science-math"
+      },
+      {
+        "datetime": "2024-12-14T21:47:47Z",
+        "uri": "https://web.archive.org/web/20241214214747/https://online.odu.edu/academics/area/computer-science-math"
+      },
+      {
+        "datetime": "2025-01-19T13:02:19Z",
+        "uri": "https://web.archive.org/web/20250119130219/https://online.odu.edu/academics/area/computer-science-math"
+      }
+    ],
+    "first": {
+      "datetime": "2023-07-15T00:31:07Z",
+      "uri": "https://web.archive.org/web/20230715003107/https://online.odu.edu/academics/area/computer-science-math"
+    },
+    "last": {
+      "datetime": "2025-01-19T13:02:19Z",
+      "uri": "https://web.archive.org/web/20250119130219/https://online.odu.edu/academics/area/computer-science-math"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/academics/area/computer-science-math",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/academics/area/computer-science-math",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/academics/area/computer-science-math"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/academics/area/computer-science-math"
+}

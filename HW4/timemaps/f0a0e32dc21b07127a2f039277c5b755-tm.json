@@ -1,0 +1,334 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/mpho/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/mpho/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:26:32Z",
+        "uri": "https://web.archive.org/web/20120902042632/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2013-05-17T08:19:58Z",
+        "uri": "https://web.archive.org/web/20130517081958/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2014-04-22T11:52:36Z",
+        "uri": "https://web.archive.org/web/20140422115236/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2014-06-22T04:24:14Z",
+        "uri": "https://web.archive.org/web/20140622042414/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2014-08-22T03:29:30Z",
+        "uri": "https://web.archive.org/web/20140822032930/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2014-10-21T20:57:07Z",
+        "uri": "https://web.archive.org/web/20141021205707/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2014-12-21T05:22:06Z",
+        "uri": "https://web.archive.org/web/20141221052206/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2015-02-15T15:58:15Z",
+        "uri": "https://web.archive.org/web/20150215155815/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2015-04-17T03:15:18Z",
+        "uri": "https://web.archive.org/web/20150417031518/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2015-05-11T06:48:51Z",
+        "uri": "https://web.archive.org/web/20150511064851/http://catalog.odu.edu/courses/mpho/"
+      },
+      {
+        "datetime": "2015-06-16T14:53:30Z",
+        "uri": "https://web.archive.org/web/20150616145330/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2015-07-03T05:51:33Z",
+        "uri": "https://web.archive.org/web/20150703055133/http://catalog.odu.edu/courses/mpho/"
+      },
+      {
+        "datetime": "2015-08-16T00:56:08Z",
+        "uri": "https://web.archive.org/web/20150816005608/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2015-10-15T07:21:46Z",
+        "uri": "https://web.archive.org/web/20151015072146/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2015-12-14T15:24:33Z",
+        "uri": "https://web.archive.org/web/20151214152433/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2016-02-13T07:52:13Z",
+        "uri": "https://web.archive.org/web/20160213075213/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2016-04-08T17:11:25Z",
+        "uri": "https://web.archive.org/web/20160408171125/http://catalog.odu.edu/courses/mpho/"
+      },
+      {
+        "datetime": "2016-04-13T17:43:25Z",
+        "uri": "https://web.archive.org/web/20160413174325/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2016-06-13T11:02:55Z",
+        "uri": "https://web.archive.org/web/20160613110255/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2016-08-13T03:32:11Z",
+        "uri": "https://web.archive.org/web/20160813033211/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2016-10-13T00:08:46Z",
+        "uri": "https://web.archive.org/web/20161013000846/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2016-12-05T04:59:17Z",
+        "uri": "https://web.archive.org/web/20161205045917/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2017-04-08T17:58:48Z",
+        "uri": "https://web.archive.org/web/20170408175848/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2017-04-27T03:32:25Z",
+        "uri": "https://web.archive.org/web/20170427033225/http://catalog.odu.edu/courses/mpho/"
+      },
+      {
+        "datetime": "2017-06-08T07:07:46Z",
+        "uri": "https://web.archive.org/web/20170608070746/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2017-07-08T23:55:36Z",
+        "uri": "https://web.archive.org/web/20170708235536/http://catalog.odu.edu/courses/mpho/"
+      },
+      {
+        "datetime": "2017-08-08T13:34:09Z",
+        "uri": "https://web.archive.org/web/20170808133409/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2017-10-08T19:04:08Z",
+        "uri": "https://web.archive.org/web/20171008190408/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2017-12-09T00:22:24Z",
+        "uri": "https://web.archive.org/web/20171209002224/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2018-02-07T18:50:28Z",
+        "uri": "https://web.archive.org/web/20180207185028/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2018-04-09T20:16:32Z",
+        "uri": "https://web.archive.org/web/20180409201632/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2018-06-10T06:26:57Z",
+        "uri": "https://web.archive.org/web/20180610062657/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2018-08-10T07:42:24Z",
+        "uri": "https://web.archive.org/web/20180810074224/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2018-10-10T04:07:25Z",
+        "uri": "https://web.archive.org/web/20181010040725/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2018-10-11T04:24:21Z",
+        "uri": "https://web.archive.org/web/20181011042421/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2018-12-09T06:54:47Z",
+        "uri": "https://web.archive.org/web/20181209065447/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2018-12-09T06:54:47Z",
+        "uri": "https://web.archive.org/web/20181209065447/http://catalog.odu.edu:80/courses/mpho"
+      },
+      {
+        "datetime": "2018-12-11T10:31:11Z",
+        "uri": "https://web.archive.org/web/20181211103111/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2019-01-09T01:52:15Z",
+        "uri": "https://web.archive.org/web/20190109015215/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2019-01-09T01:52:15Z",
+        "uri": "https://web.archive.org/web/20190109015215/http://catalog.odu.edu:80/courses/mpho"
+      },
+      {
+        "datetime": "2019-02-08T19:16:05Z",
+        "uri": "https://web.archive.org/web/20190208191605/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2019-02-08T19:16:05Z",
+        "uri": "https://web.archive.org/web/20190208191605/http://catalog.odu.edu:80/courses/mpho"
+      },
+      {
+        "datetime": "2019-02-11T09:40:40Z",
+        "uri": "https://web.archive.org/web/20190211094040/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2019-03-12T03:46:36Z",
+        "uri": "https://web.archive.org/web/20190312034636/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2019-03-12T03:46:36Z",
+        "uri": "https://web.archive.org/web/20190312034636/http://catalog.odu.edu:80/courses/mpho"
+      },
+      {
+        "datetime": "2019-04-12T15:19:18Z",
+        "uri": "https://web.archive.org/web/20190412151918/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2019-04-12T15:19:18Z",
+        "uri": "https://web.archive.org/web/20190412151918/http://catalog.odu.edu:80/courses/mpho"
+      },
+      {
+        "datetime": "2019-04-14T04:20:33Z",
+        "uri": "https://web.archive.org/web/20190414042033/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2019-05-13T14:37:19Z",
+        "uri": "https://web.archive.org/web/20190513143719/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2019-05-13T14:37:19Z",
+        "uri": "https://web.archive.org/web/20190513143719/http://catalog.odu.edu:80/courses/mpho"
+      },
+      {
+        "datetime": "2019-06-13T12:04:24Z",
+        "uri": "https://web.archive.org/web/20190613120424/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2019-06-13T12:04:24Z",
+        "uri": "https://web.archive.org/web/20190613120424/http://catalog.odu.edu:80/courses/mpho"
+      },
+      {
+        "datetime": "2019-06-15T14:29:24Z",
+        "uri": "https://web.archive.org/web/20190615142924/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2019-07-19T11:35:46Z",
+        "uri": "https://web.archive.org/web/20190719113546/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2019-07-19T11:35:46Z",
+        "uri": "https://web.archive.org/web/20190719113546/http://catalog.odu.edu:80/courses/mpho"
+      },
+      {
+        "datetime": "2019-08-15T18:24:58Z",
+        "uri": "https://web.archive.org/web/20190815182458/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2019-08-20T20:29:04Z",
+        "uri": "https://web.archive.org/web/20190820202904/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2019-08-20T20:29:04Z",
+        "uri": "https://web.archive.org/web/20190820202904/http://catalog.odu.edu:80/courses/mpho"
+      },
+      {
+        "datetime": "2019-09-22T12:48:06Z",
+        "uri": "https://web.archive.org/web/20190922124806/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2019-09-22T12:48:06Z",
+        "uri": "https://web.archive.org/web/20190922124806/http://catalog.odu.edu:80/courses/mpho"
+      },
+      {
+        "datetime": "2019-10-09T05:27:59Z",
+        "uri": "https://web.archive.org/web/20191009052759/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2019-10-19T07:53:06Z",
+        "uri": "https://web.archive.org/web/20191019075306/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2019-11-18T19:33:22Z",
+        "uri": "https://web.archive.org/web/20191118193322/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2019-12-06T08:40:09Z",
+        "uri": "https://web.archive.org/web/20191206084009/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2019-12-06T08:40:09Z",
+        "uri": "https://web.archive.org/web/20191206084009/http://catalog.odu.edu:80/courses/mpho"
+      },
+      {
+        "datetime": "2020-01-05T14:11:44Z",
+        "uri": "https://web.archive.org/web/20200105141144/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2020-01-05T14:12:21Z",
+        "uri": "https://web.archive.org/web/20200105141221/http://catalog.odu.edu:80/courses/mpho"
+      },
+      {
+        "datetime": "2020-02-04T16:45:11Z",
+        "uri": "https://web.archive.org/web/20200204164511/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2020-02-04T16:47:07Z",
+        "uri": "https://web.archive.org/web/20200204164707/http://catalog.odu.edu:80/courses/mpho"
+      },
+      {
+        "datetime": "2020-04-28T16:34:10Z",
+        "uri": "https://web.archive.org/web/20200428163410/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2020-06-27T22:29:33Z",
+        "uri": "https://web.archive.org/web/20200627222933/http://catalog.odu.edu:80/courses/mpho/"
+      },
+      {
+        "datetime": "2021-01-24T09:28:43Z",
+        "uri": "https://web.archive.org/web/20210124092843/https://catalog.odu.edu/courses/mpho/"
+      },
+      {
+        "datetime": "2021-04-12T20:25:00Z",
+        "uri": "https://web.archive.org/web/20210412202500/http://catalog.odu.edu/courses/mpho/"
+      },
+      {
+        "datetime": "2021-11-19T02:47:21Z",
+        "uri": "https://web.archive.org/web/20211119024721/https://catalog.odu.edu/courses/mpho/"
+      },
+      {
+        "datetime": "2022-03-19T20:35:17Z",
+        "uri": "https://web.archive.org/web/20220319203517/https://catalog.odu.edu/courses/mpho/"
+      },
+      {
+        "datetime": "2022-03-20T18:17:06Z",
+        "uri": "https://web.archive.org/web/20220320181706/http://catalog.odu.edu/courses/mpho/"
+      },
+      {
+        "datetime": "2022-03-20T18:17:07Z",
+        "uri": "https://web.archive.org/web/20220320181707/https://catalog.odu.edu/courses/mpho/"
+      },
+      {
+        "datetime": "2023-12-17T01:36:34Z",
+        "uri": "https://web.archive.org/web/20231217013634/https://catalog.odu.edu/courses/mpho/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:26:32Z",
+      "uri": "https://web.archive.org/web/20120902042632/http://catalog.odu.edu:80/courses/mpho/"
+    },
+    "last": {
+      "datetime": "2023-12-17T01:36:34Z",
+      "uri": "https://web.archive.org/web/20231217013634/https://catalog.odu.edu/courses/mpho/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/mpho/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/mpho/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/mpho/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/mpho/"
+}

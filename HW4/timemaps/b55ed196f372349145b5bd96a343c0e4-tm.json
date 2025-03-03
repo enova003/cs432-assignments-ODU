@@ -1,0 +1,634 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/graduatefinancialaid/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/graduatefinancialaid/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-06-25T03:40:25Z",
+        "uri": "https://web.archive.org/web/20120625034025/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2012-08-29T15:55:21Z",
+        "uri": "https://web.archive.org/web/20120829155521/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2012-10-29T23:56:30Z",
+        "uri": "https://web.archive.org/web/20121029235630/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2013-01-06T08:50:51Z",
+        "uri": "https://web.archive.org/web/20130106085051/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2013-03-12T08:09:07Z",
+        "uri": "https://web.archive.org/web/20130312080907/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2013-05-14T00:04:32Z",
+        "uri": "https://web.archive.org/web/20130514000432/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2013-06-17T12:37:22Z",
+        "uri": "https://web.archive.org/web/20130617123722/http://catalog.odu.edu/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2013-07-15T13:14:07Z",
+        "uri": "https://web.archive.org/web/20130715131407/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2013-09-14T09:31:37Z",
+        "uri": "https://web.archive.org/web/20130914093137/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2013-11-14T16:20:34Z",
+        "uri": "https://web.archive.org/web/20131114162034/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2014-01-14T05:46:53Z",
+        "uri": "https://web.archive.org/web/20140114054653/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2014-03-16T03:13:17Z",
+        "uri": "https://web.archive.org/web/20140316031317/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2014-05-16T04:52:06Z",
+        "uri": "https://web.archive.org/web/20140516045206/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2014-07-15T14:00:11Z",
+        "uri": "https://web.archive.org/web/20140715140011/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2014-09-14T05:17:30Z",
+        "uri": "https://web.archive.org/web/20140914051730/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2014-11-14T13:24:36Z",
+        "uri": "https://web.archive.org/web/20141114132436/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2015-01-15T02:04:12Z",
+        "uri": "https://web.archive.org/web/20150115020412/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2015-02-17T02:35:22Z",
+        "uri": "https://web.archive.org/web/20150217023522/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2015-04-03T23:14:46Z",
+        "uri": "https://web.archive.org/web/20150403231446/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2015-04-03T23:14:46Z",
+        "uri": "https://web.archive.org/web/20150403231446/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2015-04-18T10:26:58Z",
+        "uri": "https://web.archive.org/web/20150418102658/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2015-05-04T15:43:23Z",
+        "uri": "https://web.archive.org/web/20150504154323/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2015-05-04T15:43:23Z",
+        "uri": "https://web.archive.org/web/20150504154323/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2015-05-11T07:24:23Z",
+        "uri": "https://web.archive.org/web/20150511072423/http://catalog.odu.edu/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2015-06-17T22:27:53Z",
+        "uri": "https://web.archive.org/web/20150617222753/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2015-07-05T06:32:27Z",
+        "uri": "https://web.archive.org/web/20150705063227/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2015-07-05T06:32:27Z",
+        "uri": "https://web.archive.org/web/20150705063227/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2015-08-17T04:34:32Z",
+        "uri": "https://web.archive.org/web/20150817043432/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2015-10-16T17:49:29Z",
+        "uri": "https://web.archive.org/web/20151016174929/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2015-12-16T08:05:13Z",
+        "uri": "https://web.archive.org/web/20151216080513/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2016-02-14T18:42:55Z",
+        "uri": "https://web.archive.org/web/20160214184255/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2016-04-08T22:56:30Z",
+        "uri": "https://web.archive.org/web/20160408225630/http://catalog.odu.edu/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2016-04-15T19:48:51Z",
+        "uri": "https://web.archive.org/web/20160415194851/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2016-05-03T09:38:47Z",
+        "uri": "https://web.archive.org/web/20160503093847/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2016-05-03T09:38:47Z",
+        "uri": "https://web.archive.org/web/20160503093847/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2016-06-04T09:38:49Z",
+        "uri": "https://web.archive.org/web/20160604093849/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2016-06-04T09:38:49Z",
+        "uri": "https://web.archive.org/web/20160604093849/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2016-06-16T21:18:25Z",
+        "uri": "https://web.archive.org/web/20160616211825/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2016-07-06T19:45:13Z",
+        "uri": "https://web.archive.org/web/20160706194513/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2016-07-06T19:45:13Z",
+        "uri": "https://web.archive.org/web/20160706194513/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2016-08-07T11:05:26Z",
+        "uri": "https://web.archive.org/web/20160807110526/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2016-08-07T11:05:26Z",
+        "uri": "https://web.archive.org/web/20160807110526/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2016-08-17T00:40:10Z",
+        "uri": "https://web.archive.org/web/20160817004010/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2016-09-08T19:11:09Z",
+        "uri": "https://web.archive.org/web/20160908191109/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2016-09-08T19:11:09Z",
+        "uri": "https://web.archive.org/web/20160908191109/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2016-10-10T08:03:52Z",
+        "uri": "https://web.archive.org/web/20161010080352/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2016-10-10T08:03:52Z",
+        "uri": "https://web.archive.org/web/20161010080352/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2016-11-10T23:51:55Z",
+        "uri": "https://web.archive.org/web/20161110235155/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2016-11-10T23:51:55Z",
+        "uri": "https://web.archive.org/web/20161110235155/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2016-12-05T05:06:23Z",
+        "uri": "https://web.archive.org/web/20161205050623/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2016-12-11T00:46:37Z",
+        "uri": "https://web.archive.org/web/20161211004637/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2016-12-11T00:46:37Z",
+        "uri": "https://web.archive.org/web/20161211004637/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2017-02-03T19:32:55Z",
+        "uri": "https://web.archive.org/web/20170203193255/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2017-04-08T08:17:13Z",
+        "uri": "https://web.archive.org/web/20170408081713/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2017-04-27T04:23:23Z",
+        "uri": "https://web.archive.org/web/20170427042323/http://catalog.odu.edu/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2017-05-04T07:19:21Z",
+        "uri": "https://web.archive.org/web/20170504071921/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2017-05-04T07:19:21Z",
+        "uri": "https://web.archive.org/web/20170504071921/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2017-06-03T23:27:42Z",
+        "uri": "https://web.archive.org/web/20170603232742/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2017-06-03T23:27:42Z",
+        "uri": "https://web.archive.org/web/20170603232742/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2017-07-04T22:37:53Z",
+        "uri": "https://web.archive.org/web/20170704223753/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2017-07-04T22:37:53Z",
+        "uri": "https://web.archive.org/web/20170704223753/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2017-08-09T12:14:13Z",
+        "uri": "https://web.archive.org/web/20170809121413/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2017-08-14T01:01:15Z",
+        "uri": "https://web.archive.org/web/20170814010115/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2017-08-14T01:01:15Z",
+        "uri": "https://web.archive.org/web/20170814010115/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2017-09-13T13:27:09Z",
+        "uri": "https://web.archive.org/web/20170913132709/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2017-09-13T13:27:09Z",
+        "uri": "https://web.archive.org/web/20170913132709/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2017-10-09T05:26:47Z",
+        "uri": "https://web.archive.org/web/20171009052647/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2017-10-14T02:19:29Z",
+        "uri": "https://web.archive.org/web/20171014021929/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2017-10-14T02:19:29Z",
+        "uri": "https://web.archive.org/web/20171014021929/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2017-11-13T22:54:56Z",
+        "uri": "https://web.archive.org/web/20171113225456/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2017-11-13T22:54:56Z",
+        "uri": "https://web.archive.org/web/20171113225456/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2017-12-10T09:02:04Z",
+        "uri": "https://web.archive.org/web/20171210090204/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2017-12-14T14:33:18Z",
+        "uri": "https://web.archive.org/web/20171214143318/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2017-12-14T14:33:18Z",
+        "uri": "https://web.archive.org/web/20171214143318/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2018-01-14T20:56:46Z",
+        "uri": "https://web.archive.org/web/20180114205646/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2018-01-14T20:56:46Z",
+        "uri": "https://web.archive.org/web/20180114205646/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2018-02-10T05:33:40Z",
+        "uri": "https://web.archive.org/web/20180210053340/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2018-02-15T03:01:55Z",
+        "uri": "https://web.archive.org/web/20180215030155/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2018-02-15T03:01:55Z",
+        "uri": "https://web.archive.org/web/20180215030155/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2018-03-17T20:57:55Z",
+        "uri": "https://web.archive.org/web/20180317205755/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2018-03-17T20:57:55Z",
+        "uri": "https://web.archive.org/web/20180317205755/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2018-04-11T18:37:09Z",
+        "uri": "https://web.archive.org/web/20180411183709/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2018-04-18T05:30:13Z",
+        "uri": "https://web.archive.org/web/20180418053013/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2018-04-18T05:30:13Z",
+        "uri": "https://web.archive.org/web/20180418053013/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2018-05-20T07:07:52Z",
+        "uri": "https://web.archive.org/web/20180520070752/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2018-05-20T07:07:52Z",
+        "uri": "https://web.archive.org/web/20180520070752/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2018-06-12T13:54:38Z",
+        "uri": "https://web.archive.org/web/20180612135438/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2018-06-21T05:25:10Z",
+        "uri": "https://web.archive.org/web/20180621052510/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2018-06-21T05:25:10Z",
+        "uri": "https://web.archive.org/web/20180621052510/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2018-07-23T05:37:14Z",
+        "uri": "https://web.archive.org/web/20180723053714/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2018-07-23T05:37:14Z",
+        "uri": "https://web.archive.org/web/20180723053714/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2018-08-12T14:02:01Z",
+        "uri": "https://web.archive.org/web/20180812140201/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2018-08-23T20:33:44Z",
+        "uri": "https://web.archive.org/web/20180823203344/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2018-08-23T20:33:44Z",
+        "uri": "https://web.archive.org/web/20180823203344/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2018-09-24T00:17:11Z",
+        "uri": "https://web.archive.org/web/20180924001711/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2018-09-24T00:17:11Z",
+        "uri": "https://web.archive.org/web/20180924001711/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2018-10-25T11:05:59Z",
+        "uri": "https://web.archive.org/web/20181025110559/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2018-10-25T11:05:59Z",
+        "uri": "https://web.archive.org/web/20181025110559/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2018-11-25T11:48:45Z",
+        "uri": "https://web.archive.org/web/20181125114845/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2018-11-25T11:48:45Z",
+        "uri": "https://web.archive.org/web/20181125114845/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2018-12-13T10:29:12Z",
+        "uri": "https://web.archive.org/web/20181213102912/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2018-12-26T13:24:46Z",
+        "uri": "https://web.archive.org/web/20181226132446/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2018-12-26T13:24:46Z",
+        "uri": "https://web.archive.org/web/20181226132446/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2019-01-26T18:35:26Z",
+        "uri": "https://web.archive.org/web/20190126183526/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2019-01-26T18:35:26Z",
+        "uri": "https://web.archive.org/web/20190126183526/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2019-01-27T22:33:58Z",
+        "uri": "https://web.archive.org/web/20190127223358/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2019-01-27T22:33:58Z",
+        "uri": "https://web.archive.org/web/20190127223358/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2019-02-13T12:24:28Z",
+        "uri": "https://web.archive.org/web/20190213122428/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2019-02-28T08:29:55Z",
+        "uri": "https://web.archive.org/web/20190228082955/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2019-02-28T08:29:55Z",
+        "uri": "https://web.archive.org/web/20190228082955/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2019-03-01T10:39:23Z",
+        "uri": "https://web.archive.org/web/20190301103923/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2019-03-01T10:39:23Z",
+        "uri": "https://web.archive.org/web/20190301103923/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2019-04-01T22:20:28Z",
+        "uri": "https://web.archive.org/web/20190401222028/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2019-04-01T22:20:28Z",
+        "uri": "https://web.archive.org/web/20190401222028/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2019-04-15T04:28:01Z",
+        "uri": "https://web.archive.org/web/20190415042801/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2019-05-03T15:16:04Z",
+        "uri": "https://web.archive.org/web/20190503151604/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2019-05-03T15:16:04Z",
+        "uri": "https://web.archive.org/web/20190503151604/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2019-06-04T04:21:44Z",
+        "uri": "https://web.archive.org/web/20190604042144/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2019-06-04T04:21:44Z",
+        "uri": "https://web.archive.org/web/20190604042144/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2019-06-15T14:30:11Z",
+        "uri": "https://web.archive.org/web/20190615143011/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2019-07-05T01:23:19Z",
+        "uri": "https://web.archive.org/web/20190705012319/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2019-07-05T01:23:19Z",
+        "uri": "https://web.archive.org/web/20190705012319/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2019-08-05T12:00:43Z",
+        "uri": "https://web.archive.org/web/20190805120043/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2019-08-05T12:00:43Z",
+        "uri": "https://web.archive.org/web/20190805120043/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2019-08-15T18:19:10Z",
+        "uri": "https://web.archive.org/web/20190815181910/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2019-09-05T00:39:37Z",
+        "uri": "https://web.archive.org/web/20190905003937/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2019-09-05T00:39:37Z",
+        "uri": "https://web.archive.org/web/20190905003937/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2019-10-09T05:31:56Z",
+        "uri": "https://web.archive.org/web/20191009053156/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2019-12-08T12:39:00Z",
+        "uri": "https://web.archive.org/web/20191208123900/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2020-02-06T16:42:17Z",
+        "uri": "https://web.archive.org/web/20200206164217/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2020-03-02T06:10:17Z",
+        "uri": "https://web.archive.org/web/20200302061017/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2020-04-13T07:08:08Z",
+        "uri": "https://web.archive.org/web/20200413070808/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2020-04-13T07:08:08Z",
+        "uri": "https://web.archive.org/web/20200413070808/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2020-05-13T12:12:44Z",
+        "uri": "https://web.archive.org/web/20200513121244/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2020-05-13T12:12:44Z",
+        "uri": "https://web.archive.org/web/20200513121244/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2020-06-12T17:54:36Z",
+        "uri": "https://web.archive.org/web/20200612175436/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2020-06-12T17:54:36Z",
+        "uri": "https://web.archive.org/web/20200612175436/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2020-07-01T00:13:53Z",
+        "uri": "https://web.archive.org/web/20200701001353/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2020-07-12T20:02:40Z",
+        "uri": "https://web.archive.org/web/20200712200240/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2020-07-12T20:02:40Z",
+        "uri": "https://web.archive.org/web/20200712200240/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2020-08-11T23:36:06Z",
+        "uri": "https://web.archive.org/web/20200811233606/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2020-08-11T23:36:06Z",
+        "uri": "https://web.archive.org/web/20200811233606/http://catalog.odu.edu:80/graduate/graduatefinancialaid"
+      },
+      {
+        "datetime": "2021-01-24T10:09:38Z",
+        "uri": "https://web.archive.org/web/20210124100938/https://catalog.odu.edu/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2021-04-12T20:28:09Z",
+        "uri": "https://web.archive.org/web/20210412202809/http://catalog.odu.edu/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2021-11-08T18:25:26Z",
+        "uri": "https://web.archive.org/web/20211108182526/https://catalog.odu.edu/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2021-11-09T16:49:15Z",
+        "uri": "https://web.archive.org/web/20211109164915/https://catalog.odu.edu/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2022-03-19T22:16:25Z",
+        "uri": "https://web.archive.org/web/20220319221625/https://catalog.odu.edu/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2022-03-20T10:36:27Z",
+        "uri": "https://web.archive.org/web/20220320103627/https://catalog.odu.edu/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2022-03-20T10:36:27Z",
+        "uri": "https://web.archive.org/web/20220320103627/http://catalog.odu.edu/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2024-02-29T00:42:34Z",
+        "uri": "https://web.archive.org/web/20240229004234/https://catalog.odu.edu/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2024-02-29T16:09:36Z",
+        "uri": "https://web.archive.org/web/20240229160936/https://catalog.odu.edu/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2024-09-12T04:49:47Z",
+        "uri": "https://web.archive.org/web/20240912044947/https://catalog.odu.edu/graduate/graduatefinancialaid/"
+      },
+      {
+        "datetime": "2024-12-07T05:43:18Z",
+        "uri": "https://web.archive.org/web/20241207054318/https://catalog.odu.edu/graduate/graduatefinancialaid/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-06-25T03:40:25Z",
+      "uri": "https://web.archive.org/web/20120625034025/http://catalog.odu.edu:80/graduate/graduatefinancialaid/"
+    },
+    "last": {
+      "datetime": "2024-12-07T05:43:18Z",
+      "uri": "https://web.archive.org/web/20241207054318/https://catalog.odu.edu/graduate/graduatefinancialaid/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/graduatefinancialaid/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/graduatefinancialaid/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/graduatefinancialaid/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/graduatefinancialaid/"
+}

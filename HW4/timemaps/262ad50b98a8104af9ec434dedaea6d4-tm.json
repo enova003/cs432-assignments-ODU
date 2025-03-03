@@ -1,0 +1,462 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/bnal/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/bnal/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:36:04Z",
+        "uri": "https://web.archive.org/web/20120902043604/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2013-05-17T07:49:56Z",
+        "uri": "https://web.archive.org/web/20130517074956/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2013-11-06T20:01:27Z",
+        "uri": "https://web.archive.org/web/20131106200127/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2013-11-06T20:01:27Z",
+        "uri": "https://web.archive.org/web/20131106200127/http://catalog.odu.edu:80/courses/bnal"
+      },
+      {
+        "datetime": "2013-12-07T16:21:01Z",
+        "uri": "https://web.archive.org/web/20131207162101/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2013-12-07T16:21:01Z",
+        "uri": "https://web.archive.org/web/20131207162101/http://catalog.odu.edu:80/courses/bnal"
+      },
+      {
+        "datetime": "2014-04-22T11:49:31Z",
+        "uri": "https://web.archive.org/web/20140422114931/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2014-06-22T04:22:48Z",
+        "uri": "https://web.archive.org/web/20140622042248/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2014-08-22T03:28:10Z",
+        "uri": "https://web.archive.org/web/20140822032810/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2014-10-21T20:47:20Z",
+        "uri": "https://web.archive.org/web/20141021204720/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2014-12-21T05:19:35Z",
+        "uri": "https://web.archive.org/web/20141221051935/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2015-02-03T09:45:12Z",
+        "uri": "https://web.archive.org/web/20150203094512/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2015-02-03T09:45:12Z",
+        "uri": "https://web.archive.org/web/20150203094512/http://catalog.odu.edu:80/courses/bnal"
+      },
+      {
+        "datetime": "2015-02-15T15:42:45Z",
+        "uri": "https://web.archive.org/web/20150215154245/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2015-03-30T23:20:16Z",
+        "uri": "https://web.archive.org/web/20150330232016/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2015-03-30T23:20:16Z",
+        "uri": "https://web.archive.org/web/20150330232016/http://catalog.odu.edu:80/courses/bnal"
+      },
+      {
+        "datetime": "2015-04-17T00:53:35Z",
+        "uri": "https://web.archive.org/web/20150417005335/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2015-04-30T07:04:51Z",
+        "uri": "https://web.archive.org/web/20150430070451/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2015-04-30T07:04:51Z",
+        "uri": "https://web.archive.org/web/20150430070451/http://catalog.odu.edu:80/courses/bnal"
+      },
+      {
+        "datetime": "2015-05-11T07:03:27Z",
+        "uri": "https://web.archive.org/web/20150511070327/http://catalog.odu.edu/courses/bnal/"
+      },
+      {
+        "datetime": "2015-05-31T02:19:25Z",
+        "uri": "https://web.archive.org/web/20150531021925/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2015-05-31T02:19:25Z",
+        "uri": "https://web.archive.org/web/20150531021925/http://catalog.odu.edu:80/courses/bnal"
+      },
+      {
+        "datetime": "2015-06-16T14:37:02Z",
+        "uri": "https://web.archive.org/web/20150616143702/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2015-07-01T04:01:53Z",
+        "uri": "https://web.archive.org/web/20150701040153/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2015-07-01T04:01:53Z",
+        "uri": "https://web.archive.org/web/20150701040153/http://catalog.odu.edu:80/courses/bnal"
+      },
+      {
+        "datetime": "2015-07-03T04:47:56Z",
+        "uri": "https://web.archive.org/web/20150703044756/http://catalog.odu.edu/courses/bnal/"
+      },
+      {
+        "datetime": "2015-08-03T18:57:00Z",
+        "uri": "https://web.archive.org/web/20150803185700/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2015-08-03T18:57:00Z",
+        "uri": "https://web.archive.org/web/20150803185700/http://catalog.odu.edu:80/courses/bnal"
+      },
+      {
+        "datetime": "2015-08-16T00:45:42Z",
+        "uri": "https://web.archive.org/web/20150816004542/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2015-09-03T06:27:51Z",
+        "uri": "https://web.archive.org/web/20150903062751/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2015-09-03T06:27:51Z",
+        "uri": "https://web.archive.org/web/20150903062751/http://catalog.odu.edu:80/courses/bnal"
+      },
+      {
+        "datetime": "2015-10-15T07:09:58Z",
+        "uri": "https://web.archive.org/web/20151015070958/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2015-12-14T15:27:52Z",
+        "uri": "https://web.archive.org/web/20151214152752/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2016-02-13T07:49:12Z",
+        "uri": "https://web.archive.org/web/20160213074912/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2016-04-08T22:52:09Z",
+        "uri": "https://web.archive.org/web/20160408225209/http://catalog.odu.edu/courses/bnal/"
+      },
+      {
+        "datetime": "2016-06-13T11:01:44Z",
+        "uri": "https://web.archive.org/web/20160613110144/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2016-08-13T03:29:28Z",
+        "uri": "https://web.archive.org/web/20160813032928/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2016-12-05T04:53:36Z",
+        "uri": "https://web.archive.org/web/20161205045336/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2017-01-20T19:45:48Z",
+        "uri": "https://web.archive.org/web/20170120194548/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2017-01-20T19:45:48Z",
+        "uri": "https://web.archive.org/web/20170120194548/http://catalog.odu.edu:80/courses/bnal"
+      },
+      {
+        "datetime": "2017-04-27T03:47:43Z",
+        "uri": "https://web.archive.org/web/20170427034743/http://catalog.odu.edu/courses/bnal/"
+      },
+      {
+        "datetime": "2017-07-09T00:42:06Z",
+        "uri": "https://web.archive.org/web/20170709004206/http://catalog.odu.edu/courses/bnal/"
+      },
+      {
+        "datetime": "2017-10-03T14:36:58Z",
+        "uri": "https://web.archive.org/web/20171003143658/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2017-12-03T18:10:24Z",
+        "uri": "https://web.archive.org/web/20171203181024/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2017-12-09T02:29:26Z",
+        "uri": "https://web.archive.org/web/20171209022926/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2017-12-09T02:29:26Z",
+        "uri": "https://web.archive.org/web/20171209022926/http://catalog.odu.edu:80/courses/bnal"
+      },
+      {
+        "datetime": "2018-01-09T01:38:50Z",
+        "uri": "https://web.archive.org/web/20180109013850/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2018-01-09T01:38:50Z",
+        "uri": "https://web.archive.org/web/20180109013850/http://catalog.odu.edu:80/courses/bnal"
+      },
+      {
+        "datetime": "2018-02-02T12:47:40Z",
+        "uri": "https://web.archive.org/web/20180202124740/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2018-03-30T23:43:45Z",
+        "uri": "https://web.archive.org/web/20180330234345/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2018-03-30T23:43:45Z",
+        "uri": "https://web.archive.org/web/20180330234345/http://catalog.odu.edu:80/courses/bnal"
+      },
+      {
+        "datetime": "2018-04-05T03:24:40Z",
+        "uri": "https://web.archive.org/web/20180405032440/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2018-05-01T00:55:22Z",
+        "uri": "https://web.archive.org/web/20180501005522/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2018-05-01T00:55:22Z",
+        "uri": "https://web.archive.org/web/20180501005522/http://catalog.odu.edu:80/courses/bnal"
+      },
+      {
+        "datetime": "2018-06-01T07:20:29Z",
+        "uri": "https://web.archive.org/web/20180601072029/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2018-06-01T07:20:29Z",
+        "uri": "https://web.archive.org/web/20180601072029/http://catalog.odu.edu:80/courses/bnal"
+      },
+      {
+        "datetime": "2018-07-02T10:34:56Z",
+        "uri": "https://web.archive.org/web/20180702103456/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2018-07-02T10:34:56Z",
+        "uri": "https://web.archive.org/web/20180702103456/http://catalog.odu.edu:80/courses/bnal"
+      },
+      {
+        "datetime": "2018-08-02T08:38:28Z",
+        "uri": "https://web.archive.org/web/20180802083828/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2018-08-02T08:38:28Z",
+        "uri": "https://web.archive.org/web/20180802083828/http://catalog.odu.edu:80/courses/bnal"
+      },
+      {
+        "datetime": "2018-08-06T06:27:14Z",
+        "uri": "https://web.archive.org/web/20180806062714/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2018-09-02T18:54:18Z",
+        "uri": "https://web.archive.org/web/20180902185418/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2018-09-02T18:54:18Z",
+        "uri": "https://web.archive.org/web/20180902185418/http://catalog.odu.edu:80/courses/bnal"
+      },
+      {
+        "datetime": "2018-10-04T00:13:41Z",
+        "uri": "https://web.archive.org/web/20181004001341/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2018-10-04T00:13:41Z",
+        "uri": "https://web.archive.org/web/20181004001341/http://catalog.odu.edu:80/courses/bnal"
+      },
+      {
+        "datetime": "2018-10-06T00:37:13Z",
+        "uri": "https://web.archive.org/web/20181006003713/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2018-11-04T00:13:20Z",
+        "uri": "https://web.archive.org/web/20181104001320/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2018-11-04T00:13:20Z",
+        "uri": "https://web.archive.org/web/20181104001320/http://catalog.odu.edu:80/courses/bnal"
+      },
+      {
+        "datetime": "2018-12-05T19:32:51Z",
+        "uri": "https://web.archive.org/web/20181205193251/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2018-12-05T21:03:38Z",
+        "uri": "https://web.archive.org/web/20181205210338/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2018-12-05T21:03:38Z",
+        "uri": "https://web.archive.org/web/20181205210338/http://catalog.odu.edu:80/courses/bnal"
+      },
+      {
+        "datetime": "2019-01-06T13:03:47Z",
+        "uri": "https://web.archive.org/web/20190106130347/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2019-01-06T13:03:47Z",
+        "uri": "https://web.archive.org/web/20190106130347/http://catalog.odu.edu:80/courses/bnal"
+      },
+      {
+        "datetime": "2019-02-06T12:11:49Z",
+        "uri": "https://web.archive.org/web/20190206121149/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2019-02-06T12:11:49Z",
+        "uri": "https://web.archive.org/web/20190206121149/http://catalog.odu.edu:80/courses/bnal"
+      },
+      {
+        "datetime": "2019-03-09T07:38:58Z",
+        "uri": "https://web.archive.org/web/20190309073858/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2019-03-09T07:38:58Z",
+        "uri": "https://web.archive.org/web/20190309073858/http://catalog.odu.edu:80/courses/bnal"
+      },
+      {
+        "datetime": "2019-04-06T14:40:21Z",
+        "uri": "https://web.archive.org/web/20190406144021/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2019-04-08T19:51:09Z",
+        "uri": "https://web.archive.org/web/20190408195109/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2019-04-08T19:51:09Z",
+        "uri": "https://web.archive.org/web/20190408195109/http://catalog.odu.edu:80/courses/bnal"
+      },
+      {
+        "datetime": "2019-05-09T11:21:53Z",
+        "uri": "https://web.archive.org/web/20190509112153/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2019-05-09T11:21:53Z",
+        "uri": "https://web.archive.org/web/20190509112153/http://catalog.odu.edu:80/courses/bnal"
+      },
+      {
+        "datetime": "2019-06-06T21:53:23Z",
+        "uri": "https://web.archive.org/web/20190606215323/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2019-06-09T07:20:11Z",
+        "uri": "https://web.archive.org/web/20190609072011/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2019-06-09T07:20:11Z",
+        "uri": "https://web.archive.org/web/20190609072011/http://catalog.odu.edu:80/courses/bnal"
+      },
+      {
+        "datetime": "2019-07-21T15:51:55Z",
+        "uri": "https://web.archive.org/web/20190721155155/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2019-07-21T15:51:55Z",
+        "uri": "https://web.archive.org/web/20190721155155/http://catalog.odu.edu:80/courses/bnal"
+      },
+      {
+        "datetime": "2019-08-06T19:30:03Z",
+        "uri": "https://web.archive.org/web/20190806193003/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2019-08-21T20:06:24Z",
+        "uri": "https://web.archive.org/web/20190821200624/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2019-08-21T20:06:24Z",
+        "uri": "https://web.archive.org/web/20190821200624/http://catalog.odu.edu:80/courses/bnal"
+      },
+      {
+        "datetime": "2019-09-22T16:37:57Z",
+        "uri": "https://web.archive.org/web/20190922163757/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2019-09-22T16:37:57Z",
+        "uri": "https://web.archive.org/web/20190922163757/http://catalog.odu.edu:80/courses/bnal"
+      },
+      {
+        "datetime": "2019-10-09T05:24:18Z",
+        "uri": "https://web.archive.org/web/20191009052418/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2019-10-20T16:44:52Z",
+        "uri": "https://web.archive.org/web/20191020164452/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2019-11-20T01:59:44Z",
+        "uri": "https://web.archive.org/web/20191120015944/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2019-12-20T08:22:26Z",
+        "uri": "https://web.archive.org/web/20191220082226/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2020-01-19T15:59:01Z",
+        "uri": "https://web.archive.org/web/20200119155901/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2020-02-18T19:13:47Z",
+        "uri": "https://web.archive.org/web/20200218191347/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2020-03-02T06:03:05Z",
+        "uri": "https://web.archive.org/web/20200302060305/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2020-05-01T08:38:40Z",
+        "uri": "https://web.archive.org/web/20200501083840/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2020-06-30T12:13:42Z",
+        "uri": "https://web.archive.org/web/20200630121342/http://catalog.odu.edu:80/courses/bnal/"
+      },
+      {
+        "datetime": "2021-01-24T09:20:02Z",
+        "uri": "https://web.archive.org/web/20210124092002/https://catalog.odu.edu/courses/bnal/"
+      },
+      {
+        "datetime": "2021-04-12T20:27:47Z",
+        "uri": "https://web.archive.org/web/20210412202747/http://catalog.odu.edu/courses/bnal/"
+      },
+      {
+        "datetime": "2021-09-15T05:21:29Z",
+        "uri": "https://arquivo.pt/wayback/20210915052129mp_/https://catalog.odu.edu/courses/bnal/"
+      },
+      {
+        "datetime": "2021-11-18T16:09:00Z",
+        "uri": "https://web.archive.org/web/20211118160900/https://catalog.odu.edu/courses/bnal/"
+      },
+      {
+        "datetime": "2022-03-19T21:38:36Z",
+        "uri": "https://web.archive.org/web/20220319213836/https://catalog.odu.edu/courses/bnal/"
+      },
+      {
+        "datetime": "2023-12-17T01:36:36Z",
+        "uri": "https://web.archive.org/web/20231217013636/https://catalog.odu.edu/courses/bnal/"
+      },
+      {
+        "datetime": "2024-04-17T21:18:57Z",
+        "uri": "https://web.archive.org/web/20240417211857/https://catalog.odu.edu/courses/bnal/"
+      },
+      {
+        "datetime": "2024-07-17T09:52:17Z",
+        "uri": "https://web.archive.org/web/20240717095217/https://catalog.odu.edu/courses/bnal/"
+      },
+      {
+        "datetime": "2024-11-11T23:18:20Z",
+        "uri": "https://web.archive.org/web/20241111231820/https://catalog.odu.edu/courses/bnal/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:36:04Z",
+      "uri": "https://web.archive.org/web/20120902043604/http://catalog.odu.edu:80/courses/bnal/"
+    },
+    "last": {
+      "datetime": "2024-11-11T23:18:20Z",
+      "uri": "https://web.archive.org/web/20241111231820/https://catalog.odu.edu/courses/bnal/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/bnal/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/bnal/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/bnal/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/bnal/"
+}

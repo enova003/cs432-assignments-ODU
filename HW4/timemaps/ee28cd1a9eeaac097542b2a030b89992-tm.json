@@ -1,0 +1,98 @@
+{
+  "original_uri": "https://www.odu.edu/wgec/lgbt",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/wgec/lgbt",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-05-29T06:41:25Z",
+        "uri": "https://web.archive.org/web/20230529064125/https://www.odu.edu/wgec/lgbt"
+      },
+      {
+        "datetime": "2023-06-04T11:40:31Z",
+        "uri": "https://web.archive.org/web/20230604114031/https://www.odu.edu/wgec/lgbt"
+      },
+      {
+        "datetime": "2023-08-26T12:45:50Z",
+        "uri": "https://web.archive.org/web/20230826124550/https://www.odu.edu/wgec/lgbt"
+      },
+      {
+        "datetime": "2023-12-05T06:14:51Z",
+        "uri": "https://web.archive.org/web/20231205061451/https://www.odu.edu/wgec/lgbt"
+      },
+      {
+        "datetime": "2024-03-05T03:57:29Z",
+        "uri": "https://web.archive.org/web/20240305035729/https://www.odu.edu/wgec/lgbt"
+      },
+      {
+        "datetime": "2024-04-03T10:03:24Z",
+        "uri": "https://web.archive.org/web/20240403100324/https://www.odu.edu/wgec/lgbt"
+      },
+      {
+        "datetime": "2024-04-04T07:27:32Z",
+        "uri": "https://web.archive.org/web/20240404072732/https://www.odu.edu/wgec/lgbt"
+      },
+      {
+        "datetime": "2024-05-28T08:36:52Z",
+        "uri": "https://web.archive.org/web/20240528083652/https://www.odu.edu/wgec/lgbt"
+      },
+      {
+        "datetime": "2024-07-02T04:17:59Z",
+        "uri": "https://web.archive.org/web/20240702041759/https://www.odu.edu/wgec/lgbt"
+      },
+      {
+        "datetime": "2024-07-02T04:17:59Z",
+        "uri": "https://web.archive.org/web/20240702041759/https://www.odu.edu/wgec/lgbt"
+      },
+      {
+        "datetime": "2024-09-11T14:39:12Z",
+        "uri": "https://web.archive.org/web/20240911143912/https://www.odu.edu/wgec/lgbt"
+      },
+      {
+        "datetime": "2024-09-17T20:17:50Z",
+        "uri": "https://web.archive.org/web/20240917201750/https://www.odu.edu/wgec/lgbt"
+      },
+      {
+        "datetime": "2024-10-07T10:59:35Z",
+        "uri": "https://web.archive.org/web/20241007105935/https://www.odu.edu/wgec/lgbt"
+      },
+      {
+        "datetime": "2024-11-03T01:11:42Z",
+        "uri": "https://web.archive.org/web/20241103011142/https://www.odu.edu/wgec/lgbt"
+      },
+      {
+        "datetime": "2024-12-12T05:18:37Z",
+        "uri": "https://web.archive.org/web/20241212051837/https://www.odu.edu/wgec/lgbt"
+      },
+      {
+        "datetime": "2024-12-17T01:20:09Z",
+        "uri": "https://web.archive.org/web/20241217012009/https://www.odu.edu/wgec/lgbt"
+      },
+      {
+        "datetime": "2024-12-25T18:07:58Z",
+        "uri": "https://web.archive.org/web/20241225180758/https://www.odu.edu/wgec/lgbt"
+      },
+      {
+        "datetime": "2025-02-12T05:20:10Z",
+        "uri": "https://web.archive.org/web/20250212052010/https://www.odu.edu/wgec/lgbt"
+      },
+      {
+        "datetime": "2025-02-14T10:00:05Z",
+        "uri": "https://web.archive.org/web/20250214100005/https://www.odu.edu/wgec/lgbt"
+      }
+    ],
+    "first": {
+      "datetime": "2023-05-29T06:41:25Z",
+      "uri": "https://web.archive.org/web/20230529064125/https://www.odu.edu/wgec/lgbt"
+    },
+    "last": {
+      "datetime": "2025-02-14T10:00:05Z",
+      "uri": "https://web.archive.org/web/20250214100005/https://www.odu.edu/wgec/lgbt"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/wgec/lgbt",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/wgec/lgbt",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/wgec/lgbt"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/wgec/lgbt"
+}

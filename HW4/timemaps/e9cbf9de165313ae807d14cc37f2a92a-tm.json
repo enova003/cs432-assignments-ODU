@@ -1,0 +1,766 @@
+{
+  "original_uri": "https://www.odu.edu/life/culture/arts/litfest",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/life/culture/arts/litfest",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-09-12T02:46:18Z",
+        "uri": "https://web.archive.org/web/20170912024618/http://www.odu.edu:80/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2017-10-19T03:16:29Z",
+        "uri": "https://web.archive.org/web/20171019031629/http://odu.edu:80/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2017-12-11T19:18:50Z",
+        "uri": "https://web.archive.org/web/20171211191850/http://www.odu.edu:80/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2018-06-11T15:10:01Z",
+        "uri": "https://web.archive.org/web/20180611151001/http://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2018-07-26T04:25:47Z",
+        "uri": "https://web.archive.org/web/20180726042547/http://www.odu.edu:80/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2018-11-09T15:28:24Z",
+        "uri": "https://web.archive.org/web/20181109152824/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2019-01-21T10:13:56Z",
+        "uri": "https://web.archive.org/web/20190121101356/http://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2019-05-24T03:01:36Z",
+        "uri": "https://web.archive.org/web/20190524030136/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2019-10-07T22:11:36Z",
+        "uri": "https://web.archive.org/web/20191007221136/http://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2019-10-07T22:11:37Z",
+        "uri": "https://web.archive.org/web/20191007221137/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2019-10-17T17:13:46Z",
+        "uri": "https://web.archive.org/web/20191017171346/http://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2019-10-17T17:27:50Z",
+        "uri": "https://web.archive.org/web/20191017172750/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2019-11-01T14:22:49Z",
+        "uri": "https://web.archive.org/web/20191101142249/http://www.odu.edu:80/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2019-11-02T06:52:22Z",
+        "uri": "https://web.archive.org/web/20191102065222/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2020-01-18T21:02:33Z",
+        "uri": "https://web.archive.org/web/20200118210233/http://www.odu.edu:80/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2020-08-05T05:03:18Z",
+        "uri": "https://web.archive.org/web/20200805050318/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2020-08-05T05:48:42Z",
+        "uri": "https://web.archive.org/web/20200805054842/http://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2020-08-18T12:41:08Z",
+        "uri": "https://web.archive.org/web/20200818124108/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2020-10-23T20:53:43Z",
+        "uri": "https://web.archive.org/web/20201023205343/http://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2020-10-23T20:53:45Z",
+        "uri": "https://web.archive.org/web/20201023205345/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2021-01-04T17:18:00Z",
+        "uri": "https://web.archive.org/web/20210104171800/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2021-04-09T23:30:33Z",
+        "uri": "https://web.archive.org/web/20210409233033/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2021-04-13T17:36:06Z",
+        "uri": "https://web.archive.org/web/20210413173606/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2021-04-14T06:10:44Z",
+        "uri": "https://web.archive.org/web/20210414061044/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2021-04-23T16:42:16Z",
+        "uri": "https://web.archive.org/web/20210423164216/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2021-04-24T03:49:09Z",
+        "uri": "https://web.archive.org/web/20210424034909/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2021-04-24T04:53:23Z",
+        "uri": "https://web.archive.org/web/20210424045323/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2021-04-25T21:04:53Z",
+        "uri": "https://web.archive.org/web/20210425210453/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2021-05-20T23:27:54Z",
+        "uri": "https://web.archive.org/web/20210520232754/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2021-05-26T20:13:52Z",
+        "uri": "https://wayback.archive-it.org/all/20210526201352/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2021-05-26T20:13:52Z",
+        "uri": "https://web.archive.org/web/20210526201352/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2021-05-26T20:13:57Z",
+        "uri": "https://wayback.archive-it.org/all/20210526201357/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2021-05-26T20:13:57Z",
+        "uri": "https://web.archive.org/web/20210526201357/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2021-05-26T20:14:02Z",
+        "uri": "https://wayback.archive-it.org/all/20210526201402/http://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2021-05-26T20:14:02Z",
+        "uri": "https://web.archive.org/web/20210526201402/http://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2021-05-27T06:40:20Z",
+        "uri": "https://wayback.archive-it.org/all/20210527064020/http://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2021-05-27T06:40:20Z",
+        "uri": "https://web.archive.org/web/20210527064020/http://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2021-06-02T01:58:08Z",
+        "uri": "https://web.archive.org/web/20210602015808/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2021-08-11T19:22:58Z",
+        "uri": "https://web.archive.org/web/20210811192258/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2021-08-12T19:50:30Z",
+        "uri": "https://web.archive.org/web/20210812195030/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2021-08-13T13:00:02Z",
+        "uri": "https://web.archive.org/web/20210813130002/http://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2021-09-10T15:39:56Z",
+        "uri": "https://arquivo.pt/wayback/20210910153956mp_/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2021-09-23T00:47:58Z",
+        "uri": "https://web.archive.org/web/20210923004758/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2021-09-23T00:47:58Z",
+        "uri": "https://web.archive.org/web/20210923004758/http://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2021-10-01T02:29:55Z",
+        "uri": "https://web.archive.org/web/20211001022955/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2021-10-02T13:25:33Z",
+        "uri": "https://web.archive.org/web/20211002132533/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2021-10-04T22:41:29Z",
+        "uri": "https://web.archive.org/web/20211004224129/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2021-10-07T19:42:44Z",
+        "uri": "https://web.archive.org/web/20211007194244/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2021-10-11T21:25:08Z",
+        "uri": "https://web.archive.org/web/20211011212508/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2021-10-19T19:24:53Z",
+        "uri": "https://web.archive.org/web/20211019192453/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2021-10-21T05:45:26Z",
+        "uri": "https://arquivo.pt/wayback/20211021054526mp_/http://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2021-10-21T05:45:26Z",
+        "uri": "https://web.archive.org/web/20211021054526/http://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2021-11-03T11:22:09Z",
+        "uri": "https://arquivo.pt/wayback/20211103112209mp_/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2021-11-03T11:22:09Z",
+        "uri": "https://web.archive.org/web/20211103112209/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2021-11-19T20:16:04Z",
+        "uri": "https://web.archive.org/web/20211119201604/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2021-12-11T14:31:37Z",
+        "uri": "https://web.archive.org/web/20211211143137/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-01-08T16:37:14Z",
+        "uri": "https://web.archive.org/web/20220108163714/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-01-10T17:03:52Z",
+        "uri": "https://web.archive.org/web/20220110170352/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-01-11T20:14:58Z",
+        "uri": "https://web.archive.org/web/20220111201458/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-01-12T16:57:05Z",
+        "uri": "https://web.archive.org/web/20220112165705/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-01-12T21:57:22Z",
+        "uri": "https://web.archive.org/web/20220112215722/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-01-13T01:00:48Z",
+        "uri": "https://web.archive.org/web/20220113010048/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-01-13T19:30:58Z",
+        "uri": "https://web.archive.org/web/20220113193058/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-01-16T23:35:16Z",
+        "uri": "https://web.archive.org/web/20220116233516/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-01-17T07:08:50Z",
+        "uri": "https://web.archive.org/web/20220117070850/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-01-21T21:46:26Z",
+        "uri": "https://web.archive.org/web/20220121214626/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-01-22T10:51:38Z",
+        "uri": "https://arquivo.pt/wayback/20220122105138mp_/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-01-24T20:26:01Z",
+        "uri": "https://web.archive.org/web/20220124202601/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-01-26T02:02:38Z",
+        "uri": "https://web.archive.org/web/20220126020238/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-01-31T22:16:01Z",
+        "uri": "https://web.archive.org/web/20220131221601/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-02-01T22:31:51Z",
+        "uri": "https://web.archive.org/web/20220201223151/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-02-03T18:58:11Z",
+        "uri": "https://web.archive.org/web/20220203185811/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-02-17T22:34:08Z",
+        "uri": "https://web.archive.org/web/20220217223408/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-03-10T00:32:43Z",
+        "uri": "https://web.archive.org/web/20220310003243/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-03-20T22:05:32Z",
+        "uri": "https://web.archive.org/web/20220320220532/http://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-03-20T22:05:33Z",
+        "uri": "https://web.archive.org/web/20220320220533/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-04-07T09:44:14Z",
+        "uri": "https://web.archive.org/web/20220407094414/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-04-17T06:02:42Z",
+        "uri": "https://arquivo.pt/wayback/20220417060242mp_/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-04-19T12:58:57Z",
+        "uri": "https://web.archive.org/web/20220419125857/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-04-20T16:46:36Z",
+        "uri": "https://arquivo.pt/wayback/20220420164636mp_/http://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-04-22T17:22:32Z",
+        "uri": "https://arquivo.pt/wayback/20220422172232mp_/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-05-14T05:09:43Z",
+        "uri": "https://web.archive.org/web/20220514050943/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-05-25T09:05:55Z",
+        "uri": "https://web.archive.org/web/20220525090555/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-05-27T13:46:31Z",
+        "uri": "https://arquivo.pt/wayback/20220527134631mp_/http://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-06-13T16:30:38Z",
+        "uri": "https://web.archive.org/web/20220613163038/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-06-18T23:28:18Z",
+        "uri": "https://web.archive.org/web/20220618232818/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-06-18T23:42:37Z",
+        "uri": "https://web.archive.org/web/20220618234237/http://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-06-19T00:21:28Z",
+        "uri": "https://web.archive.org/web/20220619002128/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-06-19T11:25:09Z",
+        "uri": "https://web.archive.org/web/20220619112509/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-06-19T11:27:08Z",
+        "uri": "https://web.archive.org/web/20220619112708/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-06-19T20:55:51Z",
+        "uri": "https://web.archive.org/web/20220619205551/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-06-19T23:24:03Z",
+        "uri": "https://web.archive.org/web/20220619232403/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-06-19T23:24:50Z",
+        "uri": "https://web.archive.org/web/20220619232450/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-07-30T15:08:33Z",
+        "uri": "https://arquivo.pt/wayback/20220730150833mp_/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-08-02T17:55:21Z",
+        "uri": "https://web.archive.org/web/20220802175521/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-08-02T22:47:09Z",
+        "uri": "https://web.archive.org/web/20220802224709/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-08-03T10:45:32Z",
+        "uri": "https://web.archive.org/web/20220803104532/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-08-03T12:28:16Z",
+        "uri": "https://web.archive.org/web/20220803122816/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-08-04T05:57:58Z",
+        "uri": "https://web.archive.org/web/20220804055758/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-08-04T09:49:46Z",
+        "uri": "https://web.archive.org/web/20220804094946/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-08-07T20:56:59Z",
+        "uri": "https://web.archive.org/web/20220807205659/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-08-08T13:02:36Z",
+        "uri": "https://web.archive.org/web/20220808130236/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-08-08T20:38:21Z",
+        "uri": "https://web.archive.org/web/20220808203821/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-08-10T10:24:47Z",
+        "uri": "https://web.archive.org/web/20220810102447/http://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-08-10T16:11:52Z",
+        "uri": "https://web.archive.org/web/20220810161152/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-08-10T20:26:54Z",
+        "uri": "https://wayback.archive-it.org/all/20220810202654/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-08-10T20:26:54Z",
+        "uri": "https://web.archive.org/web/20220810202654/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-08-10T20:27:07Z",
+        "uri": "https://wayback.archive-it.org/all/20220810202707/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-08-10T20:27:07Z",
+        "uri": "https://web.archive.org/web/20220810202707/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-08-10T20:27:18Z",
+        "uri": "https://wayback.archive-it.org/all/20220810202718/http://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-08-10T20:27:18Z",
+        "uri": "https://web.archive.org/web/20220810202718/http://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-08-11T07:53:23Z",
+        "uri": "https://web.archive.org/web/20220811075323/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-08-11T08:19:22Z",
+        "uri": "https://wayback.archive-it.org/all/20220811081922/http://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-08-11T08:19:22Z",
+        "uri": "https://web.archive.org/web/20220811081922/http://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-08-11T21:15:37Z",
+        "uri": "https://web.archive.org/web/20220811211537/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-08-17T18:38:15Z",
+        "uri": "https://web.archive.org/web/20220817183815/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-08-22T16:14:39Z",
+        "uri": "https://web.archive.org/web/20220822161439/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-09-22T15:53:15Z",
+        "uri": "https://web.archive.org/web/20220922155315/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-10-11T02:42:48Z",
+        "uri": "https://arquivo.pt/wayback/20221011024248mp_/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-10-13T15:06:01Z",
+        "uri": "https://web.archive.org/web/20221013150601/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-10-21T09:42:03Z",
+        "uri": "https://web.archive.org/web/20221021094203/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-11-07T06:46:48Z",
+        "uri": "https://wayback.archive-it.org/all/20221107064648/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-11-07T06:46:48Z",
+        "uri": "https://web.archive.org/web/20221107064648/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-11-16T05:13:50Z",
+        "uri": "https://arquivo.pt/wayback/20221116051350mp_/http://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-11-29T20:13:22Z",
+        "uri": "https://web.archive.org/web/20221129201322/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-11-30T19:13:10Z",
+        "uri": "https://web.archive.org/web/20221130191310/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-11-30T19:13:10Z",
+        "uri": "https://web.archive.org/web/20221130191310/http://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-12-07T15:08:21Z",
+        "uri": "https://wayback.archive-it.org/all/20221207150821/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-12-07T15:08:21Z",
+        "uri": "https://web.archive.org/web/20221207150821/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2022-12-08T05:59:30Z",
+        "uri": "https://web.archive.org/web/20221208055930/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2023-01-07T14:57:33Z",
+        "uri": "https://wayback.archive-it.org/all/20230107145733/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2023-01-07T14:57:33Z",
+        "uri": "https://web.archive.org/web/20230107145733/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2023-01-24T20:53:13Z",
+        "uri": "https://arquivo.pt/wayback/20230124205313mp_/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2023-02-06T09:47:45Z",
+        "uri": "https://web.archive.org/web/20230206094745/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2023-02-07T13:41:50Z",
+        "uri": "https://wayback.archive-it.org/all/20230207134150/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2023-02-07T13:41:50Z",
+        "uri": "https://web.archive.org/web/20230207134150/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2023-03-07T05:15:29Z",
+        "uri": "https://wayback.archive-it.org/all/20230307051529/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2023-03-07T05:15:29Z",
+        "uri": "https://web.archive.org/web/20230307051529/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2023-03-08T20:22:52Z",
+        "uri": "https://web.archive.org/web/20230308202252/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2023-03-27T16:12:14Z",
+        "uri": "https://web.archive.org/web/20230327161214/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2023-03-27T22:37:02Z",
+        "uri": "https://web.archive.org/web/20230327223702/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2023-05-29T16:28:56Z",
+        "uri": "https://web.archive.org/web/20230529162856/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2023-07-10T23:09:14Z",
+        "uri": "https://web.archive.org/web/20230710230914/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2023-08-25T19:37:49Z",
+        "uri": "https://wayback.archive-it.org/all/20230825193749/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2023-08-25T19:37:49Z",
+        "uri": "https://web.archive.org/web/20230825193749/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2023-08-25T20:04:12Z",
+        "uri": "https://wayback.archive-it.org/all/20230825200412/http://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2023-08-25T20:04:12Z",
+        "uri": "https://web.archive.org/web/20230825200412/http://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2023-08-25T20:04:13Z",
+        "uri": "https://wayback.archive-it.org/all/20230825200413/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2023-08-25T20:04:13Z",
+        "uri": "https://web.archive.org/web/20230825200413/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2023-09-22T12:11:11Z",
+        "uri": "https://web.archive.org/web/20230922121111/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2023-09-22T16:54:59Z",
+        "uri": "https://web.archive.org/web/20230922165459/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2023-10-05T16:59:27Z",
+        "uri": "https://web.archive.org/web/20231005165927/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2023-10-06T12:57:32Z",
+        "uri": "https://web.archive.org/web/20231006125732/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2023-11-08T22:44:14Z",
+        "uri": "https://web.archive.org/web/20231108224414/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2023-11-29T17:46:42Z",
+        "uri": "https://web.archive.org/web/20231129174642/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2023-11-29T22:50:03Z",
+        "uri": "https://web.archive.org/web/20231129225003/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2024-02-21T20:15:12Z",
+        "uri": "https://web.archive.org/web/20240221201512/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2024-02-28T23:50:05Z",
+        "uri": "https://web.archive.org/web/20240228235005/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2024-03-25T12:55:51Z",
+        "uri": "https://web.archive.org/web/20240325125551/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2024-04-04T07:27:02Z",
+        "uri": "https://web.archive.org/web/20240404072702/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2024-04-04T07:27:35Z",
+        "uri": "https://web.archive.org/web/20240404072735/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2024-04-20T14:21:50Z",
+        "uri": "https://web.archive.org/web/20240420142150/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2024-04-27T16:08:44Z",
+        "uri": "https://web.archive.org/web/20240427160844/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2024-04-27T16:12:11Z",
+        "uri": "https://web.archive.org/web/20240427161211/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2024-05-24T00:06:51Z",
+        "uri": "https://wayback.archive-it.org/all/20240524000651/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2024-05-24T04:37:12Z",
+        "uri": "https://wayback.archive-it.org/all/20240524043712/http://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2024-05-24T04:37:22Z",
+        "uri": "https://wayback.archive-it.org/all/20240524043722/https://odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2024-07-08T19:30:02Z",
+        "uri": "https://web.archive.org/web/20240708193002/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2024-07-15T23:30:25Z",
+        "uri": "https://web.archive.org/web/20240715233025/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2024-07-17T20:39:30Z",
+        "uri": "https://web.archive.org/web/20240717203930/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2024-08-10T01:25:03Z",
+        "uri": "https://web.archive.org/web/20240810012503/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2024-09-13T06:05:23Z",
+        "uri": "https://web.archive.org/web/20240913060523/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2024-09-17T19:37:21Z",
+        "uri": "https://web.archive.org/web/20240917193721/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2024-09-20T13:50:54Z",
+        "uri": "https://web.archive.org/web/20240920135054/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2024-09-20T14:06:10Z",
+        "uri": "https://web.archive.org/web/20240920140610/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2024-10-07T10:42:20Z",
+        "uri": "https://web.archive.org/web/20241007104220/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2024-10-08T06:55:00Z",
+        "uri": "https://web.archive.org/web/20241008065500/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2024-10-09T00:40:51Z",
+        "uri": "https://web.archive.org/web/20241009004051/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2024-10-14T03:11:33Z",
+        "uri": "https://web.archive.org/web/20241014031133/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2024-11-16T13:55:45Z",
+        "uri": "https://web.archive.org/web/20241116135545/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2024-12-17T17:02:02Z",
+        "uri": "https://web.archive.org/web/20241217170202/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2024-12-27T17:00:51Z",
+        "uri": "https://web.archive.org/web/20241227170051/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2025-01-13T14:52:22Z",
+        "uri": "https://web.archive.org/web/20250113145222/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2025-01-15T06:38:07Z",
+        "uri": "https://web.archive.org/web/20250115063807/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2025-02-14T09:59:45Z",
+        "uri": "https://web.archive.org/web/20250214095945/https://www.odu.edu/life/culture/arts/litfest"
+      },
+      {
+        "datetime": "2025-02-14T14:07:36Z",
+        "uri": "https://web.archive.org/web/20250214140736/https://www.odu.edu/life/culture/arts/litfest"
+      }
+    ],
+    "first": {
+      "datetime": "2017-09-12T02:46:18Z",
+      "uri": "https://web.archive.org/web/20170912024618/http://www.odu.edu:80/life/culture/arts/litfest"
+    },
+    "last": {
+      "datetime": "2025-02-14T14:07:36Z",
+      "uri": "https://web.archive.org/web/20250214140736/https://www.odu.edu/life/culture/arts/litfest"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/life/culture/arts/litfest",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/life/culture/arts/litfest",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/life/culture/arts/litfest"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/life/culture/arts/litfest"
+}

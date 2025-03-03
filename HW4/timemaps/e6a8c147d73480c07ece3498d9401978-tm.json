@@ -1,0 +1,54 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/business/economics/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/business/economics/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T02:29:49Z",
+        "uri": "https://web.archive.org/web/20230927022949/https://catalog.odu.edu/undergraduate/business/economics/"
+      },
+      {
+        "datetime": "2023-10-01T01:50:09Z",
+        "uri": "https://web.archive.org/web/20231001015009/https://catalog.odu.edu/undergraduate/business/economics/"
+      },
+      {
+        "datetime": "2023-12-09T23:06:28Z",
+        "uri": "https://web.archive.org/web/20231209230628/https://catalog.odu.edu/undergraduate/business/economics/"
+      },
+      {
+        "datetime": "2023-12-10T07:58:30Z",
+        "uri": "https://web.archive.org/web/20231210075830/http://catalog.odu.edu/undergraduate/business/economics/"
+      },
+      {
+        "datetime": "2023-12-17T01:36:37Z",
+        "uri": "https://web.archive.org/web/20231217013637/https://catalog.odu.edu/undergraduate/business/economics/"
+      },
+      {
+        "datetime": "2024-02-29T00:41:59Z",
+        "uri": "https://web.archive.org/web/20240229004159/https://catalog.odu.edu/undergraduate/business/economics/"
+      },
+      {
+        "datetime": "2024-05-28T14:23:26Z",
+        "uri": "https://web.archive.org/web/20240528142326/https://catalog.odu.edu/undergraduate/business/economics/"
+      },
+      {
+        "datetime": "2024-09-12T06:27:01Z",
+        "uri": "https://web.archive.org/web/20240912062701/https://catalog.odu.edu/undergraduate/business/economics/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T02:29:49Z",
+      "uri": "https://web.archive.org/web/20230927022949/https://catalog.odu.edu/undergraduate/business/economics/"
+    },
+    "last": {
+      "datetime": "2024-09-12T06:27:01Z",
+      "uri": "https://web.archive.org/web/20240912062701/https://catalog.odu.edu/undergraduate/business/economics/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/business/economics/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/business/economics/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/business/economics/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/business/economics/"
+}

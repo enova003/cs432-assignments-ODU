@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/data-science/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/data-science/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T02:36:44Z",
+        "uri": "https://web.archive.org/web/20230927023644/https://catalog.odu.edu/graduate/data-science/"
+      },
+      {
+        "datetime": "2024-02-28T21:40:57Z",
+        "uri": "https://web.archive.org/web/20240228214057/https://catalog.odu.edu/graduate/data-science/"
+      },
+      {
+        "datetime": "2024-02-29T16:10:06Z",
+        "uri": "https://web.archive.org/web/20240229161006/https://catalog.odu.edu/graduate/data-science/"
+      },
+      {
+        "datetime": "2024-03-03T11:16:50Z",
+        "uri": "https://web.archive.org/web/20240303111650/http://catalog.odu.edu/graduate/data-science/"
+      },
+      {
+        "datetime": "2024-03-04T05:20:05Z",
+        "uri": "https://web.archive.org/web/20240304052005/https://catalog.odu.edu/graduate/data-science/"
+      },
+      {
+        "datetime": "2024-03-14T03:57:29Z",
+        "uri": "https://web.archive.org/web/20240314035729/https://catalog.odu.edu/graduate/data-science/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T02:36:44Z",
+      "uri": "https://web.archive.org/web/20230927023644/https://catalog.odu.edu/graduate/data-science/"
+    },
+    "last": {
+      "datetime": "2024-03-14T03:57:29Z",
+      "uri": "https://web.archive.org/web/20240314035729/https://catalog.odu.edu/graduate/data-science/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/data-science/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/data-science/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/data-science/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/data-science/"
+}

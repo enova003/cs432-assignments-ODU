@@ -1,0 +1,634 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-06-25T03:41:15Z",
+        "uri": "https://web.archive.org/web/20120625034115/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2012-08-24T10:54:29Z",
+        "uri": "https://web.archive.org/web/20120824105429/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2012-10-24T02:59:48Z",
+        "uri": "https://web.archive.org/web/20121024025948/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2013-01-06T08:53:15Z",
+        "uri": "https://web.archive.org/web/20130106085315/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2013-02-09T07:56:11Z",
+        "uri": "https://web.archive.org/web/20130209075611/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2013-02-09T07:56:11Z",
+        "uri": "https://web.archive.org/web/20130209075611/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2013-03-12T02:22:39Z",
+        "uri": "https://web.archive.org/web/20130312022239/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2013-03-12T02:22:39Z",
+        "uri": "https://web.archive.org/web/20130312022239/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2013-03-13T15:29:41Z",
+        "uri": "https://web.archive.org/web/20130313152941/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2013-06-17T12:19:25Z",
+        "uri": "https://web.archive.org/web/20130617121925/http://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2013-09-11T18:37:36Z",
+        "uri": "https://web.archive.org/web/20130911183736/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2013-11-11T06:39:19Z",
+        "uri": "https://web.archive.org/web/20131111063919/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2013-12-24T05:04:28Z",
+        "uri": "https://web.archive.org/web/20131224050428/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2013-12-24T05:04:28Z",
+        "uri": "https://web.archive.org/web/20131224050428/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2014-01-30T13:48:05Z",
+        "uri": "https://web.archive.org/web/20140130134805/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2014-01-30T13:48:05Z",
+        "uri": "https://web.archive.org/web/20140130134805/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2014-03-13T02:03:16Z",
+        "uri": "https://web.archive.org/web/20140313020316/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2014-05-12T23:45:29Z",
+        "uri": "https://web.archive.org/web/20140512234529/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2014-07-12T13:14:19Z",
+        "uri": "https://web.archive.org/web/20140712131419/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2014-09-11T05:42:33Z",
+        "uri": "https://web.archive.org/web/20140911054233/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2014-11-10T19:16:07Z",
+        "uri": "https://web.archive.org/web/20141110191607/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2015-01-10T05:59:20Z",
+        "uri": "https://web.archive.org/web/20150110055920/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2015-02-03T09:41:48Z",
+        "uri": "https://web.archive.org/web/20150203094148/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2015-02-03T09:41:48Z",
+        "uri": "https://web.archive.org/web/20150203094148/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2015-02-16T03:58:29Z",
+        "uri": "https://web.archive.org/web/20150216035829/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2015-03-08T19:17:13Z",
+        "uri": "https://web.archive.org/web/20150308191713/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2015-03-08T19:17:13Z",
+        "uri": "https://web.archive.org/web/20150308191713/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2015-04-08T03:05:35Z",
+        "uri": "https://web.archive.org/web/20150408030535/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2015-04-08T03:05:35Z",
+        "uri": "https://web.archive.org/web/20150408030535/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2015-04-17T10:57:22Z",
+        "uri": "https://web.archive.org/web/20150417105722/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2015-05-08T15:44:42Z",
+        "uri": "https://web.archive.org/web/20150508154442/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2015-05-08T15:44:42Z",
+        "uri": "https://web.archive.org/web/20150508154442/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2015-05-11T07:04:11Z",
+        "uri": "https://web.archive.org/web/20150511070411/http://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2015-06-09T03:30:08Z",
+        "uri": "https://web.archive.org/web/20150609033008/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2015-06-09T03:30:08Z",
+        "uri": "https://web.archive.org/web/20150609033008/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2015-06-17T01:01:12Z",
+        "uri": "https://web.archive.org/web/20150617010112/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2015-07-03T07:20:14Z",
+        "uri": "https://web.archive.org/web/20150703072014/http://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2015-07-09T13:13:59Z",
+        "uri": "https://web.archive.org/web/20150709131359/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2015-07-09T13:13:59Z",
+        "uri": "https://web.archive.org/web/20150709131359/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2015-08-11T00:15:32Z",
+        "uri": "https://web.archive.org/web/20150811001532/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2015-08-11T00:15:32Z",
+        "uri": "https://web.archive.org/web/20150811001532/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2015-09-10T16:23:49Z",
+        "uri": "https://web.archive.org/web/20150910162349/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2015-09-10T16:23:49Z",
+        "uri": "https://web.archive.org/web/20150910162349/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2015-10-11T08:38:44Z",
+        "uri": "https://web.archive.org/web/20151011083844/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2015-10-11T08:38:44Z",
+        "uri": "https://web.archive.org/web/20151011083844/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2015-10-16T04:22:24Z",
+        "uri": "https://web.archive.org/web/20151016042224/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2015-12-14T18:42:34Z",
+        "uri": "https://web.archive.org/web/20151214184234/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2015-12-14T18:42:34Z",
+        "uri": "https://web.archive.org/web/20151214184234/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2016-01-14T09:45:17Z",
+        "uri": "https://web.archive.org/web/20160114094517/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2016-01-14T09:45:17Z",
+        "uri": "https://web.archive.org/web/20160114094517/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2016-02-14T03:27:39Z",
+        "uri": "https://web.archive.org/web/20160214032739/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2016-02-14T03:27:39Z",
+        "uri": "https://web.archive.org/web/20160214032739/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2016-03-15T18:08:32Z",
+        "uri": "https://web.archive.org/web/20160315180832/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2016-03-15T18:08:32Z",
+        "uri": "https://web.archive.org/web/20160315180832/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2016-04-08T22:55:28Z",
+        "uri": "https://web.archive.org/web/20160408225528/http://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2016-04-15T13:08:44Z",
+        "uri": "https://web.archive.org/web/20160415130844/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2016-04-15T13:08:44Z",
+        "uri": "https://web.archive.org/web/20160415130844/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2016-05-16T06:12:56Z",
+        "uri": "https://web.archive.org/web/20160516061256/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2016-05-16T06:12:56Z",
+        "uri": "https://web.archive.org/web/20160516061256/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2016-06-16T18:01:46Z",
+        "uri": "https://web.archive.org/web/20160616180146/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2016-06-16T18:01:46Z",
+        "uri": "https://web.archive.org/web/20160616180146/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2016-06-18T07:53:54Z",
+        "uri": "https://web.archive.org/web/20160618075354/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2016-07-18T10:39:08Z",
+        "uri": "https://web.archive.org/web/20160718103908/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2016-07-18T10:39:08Z",
+        "uri": "https://web.archive.org/web/20160718103908/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2016-08-18T17:22:33Z",
+        "uri": "https://web.archive.org/web/20160818172233/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2016-08-18T23:01:00Z",
+        "uri": "https://web.archive.org/web/20160818230100/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2016-08-18T23:01:00Z",
+        "uri": "https://web.archive.org/web/20160818230100/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2016-09-19T18:50:25Z",
+        "uri": "https://web.archive.org/web/20160919185025/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2016-09-19T18:50:25Z",
+        "uri": "https://web.archive.org/web/20160919185025/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2016-10-21T00:13:33Z",
+        "uri": "https://web.archive.org/web/20161021001333/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2016-10-21T00:13:33Z",
+        "uri": "https://web.archive.org/web/20161021001333/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2016-12-05T05:11:24Z",
+        "uri": "https://web.archive.org/web/20161205051124/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2016-12-31T05:03:44Z",
+        "uri": "https://web.archive.org/web/20161231050344/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2016-12-31T05:03:44Z",
+        "uri": "https://web.archive.org/web/20161231050344/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2017-04-27T03:47:54Z",
+        "uri": "https://web.archive.org/web/20170427034754/http://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2017-05-04T07:21:51Z",
+        "uri": "https://web.archive.org/web/20170504072151/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2017-05-04T07:21:51Z",
+        "uri": "https://web.archive.org/web/20170504072151/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2017-07-04T21:53:39Z",
+        "uri": "https://web.archive.org/web/20170704215339/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2017-07-04T21:53:39Z",
+        "uri": "https://web.archive.org/web/20170704215339/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2017-07-09T00:43:19Z",
+        "uri": "https://web.archive.org/web/20170709004319/http://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2017-10-13T17:35:50Z",
+        "uri": "https://web.archive.org/web/20171013173550/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2017-10-13T17:35:50Z",
+        "uri": "https://web.archive.org/web/20171013173550/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2017-11-13T16:19:23Z",
+        "uri": "https://web.archive.org/web/20171113161923/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2017-11-13T16:19:23Z",
+        "uri": "https://web.archive.org/web/20171113161923/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2017-12-14T17:33:12Z",
+        "uri": "https://web.archive.org/web/20171214173312/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2017-12-14T17:33:12Z",
+        "uri": "https://web.archive.org/web/20171214173312/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2018-01-14T20:58:26Z",
+        "uri": "https://web.archive.org/web/20180114205826/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2018-01-14T20:58:26Z",
+        "uri": "https://web.archive.org/web/20180114205826/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2018-03-17T21:40:45Z",
+        "uri": "https://web.archive.org/web/20180317214045/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2018-03-17T21:40:45Z",
+        "uri": "https://web.archive.org/web/20180317214045/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2018-04-18T05:19:13Z",
+        "uri": "https://web.archive.org/web/20180418051913/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2018-04-18T05:19:13Z",
+        "uri": "https://web.archive.org/web/20180418051913/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2018-05-20T06:46:14Z",
+        "uri": "https://web.archive.org/web/20180520064614/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2018-05-20T06:46:14Z",
+        "uri": "https://web.archive.org/web/20180520064614/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2018-06-04T12:14:27Z",
+        "uri": "https://web.archive.org/web/20180604121427/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2018-06-21T06:30:25Z",
+        "uri": "https://web.archive.org/web/20180621063025/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2018-06-21T06:30:25Z",
+        "uri": "https://web.archive.org/web/20180621063025/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2018-07-23T06:15:12Z",
+        "uri": "https://web.archive.org/web/20180723061512/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2018-07-23T06:15:12Z",
+        "uri": "https://web.archive.org/web/20180723061512/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2018-08-04T19:29:11Z",
+        "uri": "https://web.archive.org/web/20180804192911/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2018-08-23T20:39:17Z",
+        "uri": "https://web.archive.org/web/20180823203917/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2018-08-23T20:39:17Z",
+        "uri": "https://web.archive.org/web/20180823203917/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2018-09-23T23:14:30Z",
+        "uri": "https://web.archive.org/web/20180923231430/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2018-09-23T23:14:30Z",
+        "uri": "https://web.archive.org/web/20180923231430/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2018-10-04T14:06:25Z",
+        "uri": "https://web.archive.org/web/20181004140625/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2018-10-25T11:28:49Z",
+        "uri": "https://web.archive.org/web/20181025112849/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2018-10-25T11:28:49Z",
+        "uri": "https://web.archive.org/web/20181025112849/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2018-11-25T12:49:48Z",
+        "uri": "https://web.archive.org/web/20181125124948/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2018-11-25T12:49:48Z",
+        "uri": "https://web.archive.org/web/20181125124948/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2018-12-26T11:14:46Z",
+        "uri": "https://web.archive.org/web/20181226111446/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2018-12-26T11:14:46Z",
+        "uri": "https://web.archive.org/web/20181226111446/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2019-01-26T19:34:13Z",
+        "uri": "https://web.archive.org/web/20190126193413/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2019-01-26T19:34:13Z",
+        "uri": "https://web.archive.org/web/20190126193413/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2019-01-28T00:41:28Z",
+        "uri": "https://web.archive.org/web/20190128004128/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2019-01-28T00:41:28Z",
+        "uri": "https://web.archive.org/web/20190128004128/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2019-02-28T07:55:00Z",
+        "uri": "https://web.archive.org/web/20190228075500/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2019-02-28T07:55:00Z",
+        "uri": "https://web.archive.org/web/20190228075500/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2019-03-31T10:49:07Z",
+        "uri": "https://web.archive.org/web/20190331104907/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2019-03-31T10:49:07Z",
+        "uri": "https://web.archive.org/web/20190331104907/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2019-04-06T23:35:15Z",
+        "uri": "https://web.archive.org/web/20190406233515/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2019-05-01T09:01:41Z",
+        "uri": "https://web.archive.org/web/20190501090141/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2019-05-01T09:01:41Z",
+        "uri": "https://web.archive.org/web/20190501090141/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2019-06-01T19:34:46Z",
+        "uri": "https://web.archive.org/web/20190601193446/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2019-06-01T19:34:46Z",
+        "uri": "https://web.archive.org/web/20190601193446/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2019-06-08T11:42:37Z",
+        "uri": "https://web.archive.org/web/20190608114237/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2019-07-03T14:18:01Z",
+        "uri": "https://web.archive.org/web/20190703141801/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2019-07-03T14:18:01Z",
+        "uri": "https://web.archive.org/web/20190703141801/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2019-08-03T19:13:46Z",
+        "uri": "https://web.archive.org/web/20190803191346/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2019-08-03T19:13:46Z",
+        "uri": "https://web.archive.org/web/20190803191346/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2019-08-07T20:17:28Z",
+        "uri": "https://web.archive.org/web/20190807201728/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2019-09-04T00:26:23Z",
+        "uri": "https://web.archive.org/web/20190904002623/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2019-09-04T00:26:23Z",
+        "uri": "https://web.archive.org/web/20190904002623/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures"
+      },
+      {
+        "datetime": "2019-10-09T06:30:52Z",
+        "uri": "https://web.archive.org/web/20191009063052/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2019-12-08T12:46:26Z",
+        "uri": "https://web.archive.org/web/20191208124626/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2020-02-06T16:49:27Z",
+        "uri": "https://web.archive.org/web/20200206164927/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2020-03-02T07:41:53Z",
+        "uri": "https://web.archive.org/web/20200302074153/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2020-05-01T11:47:07Z",
+        "uri": "https://web.archive.org/web/20200501114707/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2020-06-30T15:39:50Z",
+        "uri": "https://web.archive.org/web/20200630153950/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2021-01-22T23:28:28Z",
+        "uri": "https://web.archive.org/web/20210122232828/https://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2021-04-12T20:23:31Z",
+        "uri": "https://web.archive.org/web/20210412202331/http://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2021-04-19T19:24:54Z",
+        "uri": "https://web.archive.org/web/20210419192454/https://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2021-04-19T19:24:54Z",
+        "uri": "https://web.archive.org/web/20210419192454/http://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2021-11-21T13:29:32Z",
+        "uri": "https://web.archive.org/web/20211121132932/https://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2021-11-22T14:28:01Z",
+        "uri": "https://web.archive.org/web/20211122142801/https://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2022-03-19T21:06:18Z",
+        "uri": "https://web.archive.org/web/20220319210618/https://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2023-07-12T20:13:32Z",
+        "uri": "https://web.archive.org/web/20230712201332/https://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2023-08-01T02:08:39Z",
+        "uri": "https://web.archive.org/web/20230801020839/https://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2023-12-08T06:22:17Z",
+        "uri": "https://web.archive.org/web/20231208062217/https://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2024-02-26T03:47:32Z",
+        "uri": "https://web.archive.org/web/20240226034732/https://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2024-02-29T16:06:39Z",
+        "uri": "https://web.archive.org/web/20240229160639/https://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2024-02-29T16:07:24Z",
+        "uri": "https://web.archive.org/web/20240229160724/https://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2024-02-29T16:15:00Z",
+        "uri": "https://web.archive.org/web/20240229161500/https://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/"
+      },
+      {
+        "datetime": "2024-11-04T03:53:50Z",
+        "uri": "https://web.archive.org/web/20241104035350/https://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-06-25T03:41:15Z",
+      "uri": "https://web.archive.org/web/20120625034115/http://catalog.odu.edu:80/undergraduate/registrationrequirementsandprocedures/"
+    },
+    "last": {
+      "datetime": "2024-11-04T03:53:50Z",
+      "uri": "https://web.archive.org/web/20241104035350/https://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/"
+}

@@ -1,0 +1,78 @@
+{
+  "original_uri": "https://www.odu.edu/advising/find-your-advisor",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/advising/find-your-advisor",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-08-28T05:48:09Z",
+        "uri": "https://web.archive.org/web/20240828054809/https://www.odu.edu/advising/find-your-advisor"
+      },
+      {
+        "datetime": "2024-08-30T18:41:03Z",
+        "uri": "https://web.archive.org/web/20240830184103/https://www.odu.edu/advising/find-your-advisor"
+      },
+      {
+        "datetime": "2024-09-03T14:12:53Z",
+        "uri": "https://web.archive.org/web/20240903141253/https://www.odu.edu/advising/find-your-advisor"
+      },
+      {
+        "datetime": "2024-09-14T02:46:53Z",
+        "uri": "https://web.archive.org/web/20240914024653/https://www.odu.edu/advising/find-your-advisor"
+      },
+      {
+        "datetime": "2024-09-16T05:31:35Z",
+        "uri": "https://web.archive.org/web/20240916053135/https://www.odu.edu/advising/find-your-advisor"
+      },
+      {
+        "datetime": "2024-09-17T20:18:37Z",
+        "uri": "https://web.archive.org/web/20240917201837/https://www.odu.edu/advising/find-your-advisor"
+      },
+      {
+        "datetime": "2024-10-07T10:26:25Z",
+        "uri": "https://web.archive.org/web/20241007102625/https://www.odu.edu/advising/find-your-advisor"
+      },
+      {
+        "datetime": "2024-11-17T02:11:03Z",
+        "uri": "https://web.archive.org/web/20241117021103/https://www.odu.edu/advising/find-your-advisor"
+      },
+      {
+        "datetime": "2024-12-01T17:11:32Z",
+        "uri": "https://web.archive.org/web/20241201171132/https://www.odu.edu/advising/find-your-advisor"
+      },
+      {
+        "datetime": "2024-12-10T17:19:43Z",
+        "uri": "https://web.archive.org/web/20241210171943/https://www.odu.edu/advising/find-your-advisor"
+      },
+      {
+        "datetime": "2024-12-22T19:34:19Z",
+        "uri": "https://web.archive.org/web/20241222193419/https://www.odu.edu/advising/find-your-advisor"
+      },
+      {
+        "datetime": "2024-12-24T17:54:06Z",
+        "uri": "https://web.archive.org/web/20241224175406/https://www.odu.edu/advising/find-your-advisor"
+      },
+      {
+        "datetime": "2024-12-24T19:58:24Z",
+        "uri": "https://web.archive.org/web/20241224195824/https://www.odu.edu/advising/find-your-advisor"
+      },
+      {
+        "datetime": "2025-02-14T09:59:47Z",
+        "uri": "https://web.archive.org/web/20250214095947/https://www.odu.edu/advising/find-your-advisor"
+      }
+    ],
+    "first": {
+      "datetime": "2024-08-28T05:48:09Z",
+      "uri": "https://web.archive.org/web/20240828054809/https://www.odu.edu/advising/find-your-advisor"
+    },
+    "last": {
+      "datetime": "2025-02-14T09:59:47Z",
+      "uri": "https://web.archive.org/web/20250214095947/https://www.odu.edu/advising/find-your-advisor"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/advising/find-your-advisor",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/advising/find-your-advisor",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/advising/find-your-advisor"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/advising/find-your-advisor"
+}

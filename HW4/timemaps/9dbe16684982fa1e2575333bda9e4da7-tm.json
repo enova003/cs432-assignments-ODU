@@ -1,0 +1,366 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/olddominionuniversity/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/olddominionuniversity/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-06-25T03:41:10Z",
+        "uri": "https://web.archive.org/web/20120625034110/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2012-08-24T10:54:19Z",
+        "uri": "https://web.archive.org/web/20120824105419/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2012-10-24T02:58:37Z",
+        "uri": "https://web.archive.org/web/20121024025837/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2013-01-06T08:55:21Z",
+        "uri": "https://web.archive.org/web/20130106085521/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2013-03-12T08:09:44Z",
+        "uri": "https://web.archive.org/web/20130312080944/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2013-06-17T09:51:59Z",
+        "uri": "https://web.archive.org/web/20130617095159/http://catalog.odu.edu/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2013-07-15T13:14:27Z",
+        "uri": "https://web.archive.org/web/20130715131427/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2013-09-14T09:32:19Z",
+        "uri": "https://web.archive.org/web/20130914093219/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2013-11-14T16:21:33Z",
+        "uri": "https://web.archive.org/web/20131114162133/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2014-01-14T05:47:40Z",
+        "uri": "https://web.archive.org/web/20140114054740/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2014-03-16T03:14:02Z",
+        "uri": "https://web.archive.org/web/20140316031402/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2014-05-16T04:52:41Z",
+        "uri": "https://web.archive.org/web/20140516045241/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2014-07-15T13:57:25Z",
+        "uri": "https://web.archive.org/web/20140715135725/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2014-09-14T08:29:29Z",
+        "uri": "https://web.archive.org/web/20140914082929/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2014-11-14T13:25:12Z",
+        "uri": "https://web.archive.org/web/20141114132512/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2015-01-15T02:03:30Z",
+        "uri": "https://web.archive.org/web/20150115020330/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2015-02-16T03:59:37Z",
+        "uri": "https://web.archive.org/web/20150216035937/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2015-04-17T13:04:27Z",
+        "uri": "https://web.archive.org/web/20150417130427/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2015-05-11T08:35:01Z",
+        "uri": "https://web.archive.org/web/20150511083501/http://catalog.odu.edu/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2015-05-22T00:35:50Z",
+        "uri": "https://web.archive.org/web/20150522003550/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2015-05-22T00:35:50Z",
+        "uri": "https://web.archive.org/web/20150522003550/http://catalog.odu.edu:80/undergraduate/olddominionuniversity"
+      },
+      {
+        "datetime": "2015-06-21T17:59:27Z",
+        "uri": "https://web.archive.org/web/20150621175927/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2015-06-24T03:32:58Z",
+        "uri": "https://web.archive.org/web/20150624033258/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2015-06-24T03:32:58Z",
+        "uri": "https://web.archive.org/web/20150624033258/http://catalog.odu.edu:80/undergraduate/olddominionuniversity"
+      },
+      {
+        "datetime": "2015-06-30T20:43:48Z",
+        "uri": "https://web.archive.org/web/20150630204348/http://catalog.odu.edu/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2015-08-21T01:30:06Z",
+        "uri": "https://web.archive.org/web/20150821013006/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2015-10-20T09:01:36Z",
+        "uri": "https://web.archive.org/web/20151020090136/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2015-12-13T15:11:14Z",
+        "uri": "https://web.archive.org/web/20151213151114/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2015-12-13T15:11:14Z",
+        "uri": "https://web.archive.org/web/20151213151114/http://catalog.odu.edu:80/undergraduate/olddominionuniversity"
+      },
+      {
+        "datetime": "2015-12-19T17:01:11Z",
+        "uri": "https://web.archive.org/web/20151219170111/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2016-01-13T14:35:20Z",
+        "uri": "https://web.archive.org/web/20160113143520/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2016-01-13T14:35:20Z",
+        "uri": "https://web.archive.org/web/20160113143520/http://catalog.odu.edu:80/undergraduate/olddominionuniversity"
+      },
+      {
+        "datetime": "2016-02-18T04:58:43Z",
+        "uri": "https://web.archive.org/web/20160218045843/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2016-03-04T13:32:53Z",
+        "uri": "https://web.archive.org/web/20160304133253/http://catalog.odu.edu/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2016-03-12T08:43:11Z",
+        "uri": "https://web.archive.org/web/20160312084311/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2016-03-12T08:43:11Z",
+        "uri": "https://web.archive.org/web/20160312084311/http://catalog.odu.edu:80/undergraduate/olddominionuniversity"
+      },
+      {
+        "datetime": "2016-04-12T18:17:47Z",
+        "uri": "https://web.archive.org/web/20160412181747/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2016-04-12T18:17:47Z",
+        "uri": "https://web.archive.org/web/20160412181747/http://catalog.odu.edu:80/undergraduate/olddominionuniversity"
+      },
+      {
+        "datetime": "2016-04-19T06:25:57Z",
+        "uri": "https://web.archive.org/web/20160419062557/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2016-05-14T00:41:17Z",
+        "uri": "https://web.archive.org/web/20160514004117/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2016-05-14T00:41:17Z",
+        "uri": "https://web.archive.org/web/20160514004117/http://catalog.odu.edu:80/undergraduate/olddominionuniversity"
+      },
+      {
+        "datetime": "2016-06-19T01:52:07Z",
+        "uri": "https://web.archive.org/web/20160619015207/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2016-08-19T03:47:07Z",
+        "uri": "https://web.archive.org/web/20160819034707/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2016-10-20T21:52:34Z",
+        "uri": "https://web.archive.org/web/20161020215234/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2016-12-05T05:11:14Z",
+        "uri": "https://web.archive.org/web/20161205051114/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2017-04-08T18:19:46Z",
+        "uri": "https://web.archive.org/web/20170408181946/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2017-04-27T06:25:09Z",
+        "uri": "https://web.archive.org/web/20170427062509/http://catalog.odu.edu/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2017-06-08T07:11:53Z",
+        "uri": "https://web.archive.org/web/20170608071153/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2017-07-09T02:20:43Z",
+        "uri": "https://web.archive.org/web/20170709022043/http://catalog.odu.edu/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2017-08-08T13:37:59Z",
+        "uri": "https://web.archive.org/web/20170808133759/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2017-10-08T21:07:30Z",
+        "uri": "https://web.archive.org/web/20171008210730/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2017-12-09T00:15:26Z",
+        "uri": "https://web.archive.org/web/20171209001526/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2018-02-07T19:11:38Z",
+        "uri": "https://web.archive.org/web/20180207191138/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2018-04-09T20:23:48Z",
+        "uri": "https://web.archive.org/web/20180409202348/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2018-06-10T06:24:50Z",
+        "uri": "https://web.archive.org/web/20180610062450/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2018-08-10T07:52:25Z",
+        "uri": "https://web.archive.org/web/20180810075225/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2018-10-10T04:07:40Z",
+        "uri": "https://web.archive.org/web/20181010040740/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2018-10-11T04:22:16Z",
+        "uri": "https://web.archive.org/web/20181011042216/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2018-12-11T10:32:54Z",
+        "uri": "https://web.archive.org/web/20181211103254/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2019-02-11T09:43:46Z",
+        "uri": "https://web.archive.org/web/20190211094346/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2019-04-13T00:21:16Z",
+        "uri": "https://web.archive.org/web/20190413002116/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2019-06-12T16:35:06Z",
+        "uri": "https://web.archive.org/web/20190612163506/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2019-08-13T06:09:21Z",
+        "uri": "https://web.archive.org/web/20190813060921/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2019-10-09T06:30:42Z",
+        "uri": "https://web.archive.org/web/20191009063042/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2019-12-08T12:46:21Z",
+        "uri": "https://web.archive.org/web/20191208124621/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2020-02-06T16:49:22Z",
+        "uri": "https://web.archive.org/web/20200206164922/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2020-03-02T07:41:48Z",
+        "uri": "https://web.archive.org/web/20200302074148/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2020-05-01T11:47:02Z",
+        "uri": "https://web.archive.org/web/20200501114702/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2020-06-30T15:39:39Z",
+        "uri": "https://web.archive.org/web/20200630153939/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2021-01-22T23:24:05Z",
+        "uri": "https://web.archive.org/web/20210122232405/https://catalog.odu.edu/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2021-04-12T20:23:30Z",
+        "uri": "https://web.archive.org/web/20210412202330/http://catalog.odu.edu/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2021-11-03T21:57:50Z",
+        "uri": "https://web.archive.org/web/20211103215750/https://catalog.odu.edu/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2021-11-15T23:56:15Z",
+        "uri": "https://arquivo.pt/wayback/20211115235615mp_/http://catalog.odu.edu/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2021-11-15T23:56:15Z",
+        "uri": "https://web.archive.org/web/20211115235615/http://catalog.odu.edu/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2021-11-15T23:56:26Z",
+        "uri": "https://arquivo.pt/wayback/20211115235626mp_/https://catalog.odu.edu/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2021-11-15T23:56:26Z",
+        "uri": "https://web.archive.org/web/20211115235626/https://catalog.odu.edu/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2021-11-22T14:28:03Z",
+        "uri": "https://web.archive.org/web/20211122142803/https://catalog.odu.edu/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2021-11-23T15:47:31Z",
+        "uri": "https://web.archive.org/web/20211123154731/https://catalog.odu.edu/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2022-01-19T23:54:10Z",
+        "uri": "https://web.archive.org/web/20220119235410/http://catalog.odu.edu/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2022-01-19T23:54:11Z",
+        "uri": "https://web.archive.org/web/20220119235411/https://catalog.odu.edu/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2022-03-19T20:34:34Z",
+        "uri": "https://web.archive.org/web/20220319203434/https://catalog.odu.edu/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2022-05-07T16:37:36Z",
+        "uri": "https://arquivo.pt/wayback/20220507163736mp_/http://catalog.odu.edu/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2022-05-07T16:37:41Z",
+        "uri": "https://arquivo.pt/wayback/20220507163741mp_/https://catalog.odu.edu/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2022-12-09T00:19:14Z",
+        "uri": "https://web.archive.org/web/20221209001914/https://catalog.odu.edu/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2023-12-17T01:36:36Z",
+        "uri": "https://web.archive.org/web/20231217013636/https://catalog.odu.edu/undergraduate/olddominionuniversity/"
+      },
+      {
+        "datetime": "2024-12-07T04:35:07Z",
+        "uri": "https://web.archive.org/web/20241207043507/https://catalog.odu.edu/undergraduate/olddominionuniversity/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-06-25T03:41:10Z",
+      "uri": "https://web.archive.org/web/20120625034110/http://catalog.odu.edu:80/undergraduate/olddominionuniversity/"
+    },
+    "last": {
+      "datetime": "2024-12-07T04:35:07Z",
+      "uri": "https://web.archive.org/web/20241207043507/https://catalog.odu.edu/undergraduate/olddominionuniversity/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/olddominionuniversity/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/olddominionuniversity/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/olddominionuniversity/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/olddominionuniversity/"
+}

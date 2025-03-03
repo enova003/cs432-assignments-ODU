@@ -1,0 +1,134 @@
+{
+  "original_uri": "https://online.odu.edu/about-us/main-campus",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/about-us/main-campus",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-04-27T13:58:00Z",
+        "uri": "https://web.archive.org/web/20200427135800/https://online.odu.edu/about-us/main-campus"
+      },
+      {
+        "datetime": "2020-05-31T01:37:46Z",
+        "uri": "https://web.archive.org/web/20200531013746/https://online.odu.edu/about-us/main-campus"
+      },
+      {
+        "datetime": "2020-06-17T08:41:27Z",
+        "uri": "https://web.archive.org/web/20200617084127/https://online.odu.edu/about-us/main-campus"
+      },
+      {
+        "datetime": "2021-04-13T19:25:08Z",
+        "uri": "https://web.archive.org/web/20210413192508/https://online.odu.edu/about-us/main-campus"
+      },
+      {
+        "datetime": "2021-12-09T09:24:05Z",
+        "uri": "https://web.archive.org/web/20211209092405/https://online.odu.edu/about-us/main-campus"
+      },
+      {
+        "datetime": "2022-03-19T21:01:25Z",
+        "uri": "https://web.archive.org/web/20220319210125/https://online.odu.edu/about-us/main-campus"
+      },
+      {
+        "datetime": "2022-08-08T17:25:21Z",
+        "uri": "https://web.archive.org/web/20220808172521/https://online.odu.edu/about-us/main-campus"
+      },
+      {
+        "datetime": "2023-05-13T20:09:15Z",
+        "uri": "https://web.archive.org/web/20230513200915/https://online.odu.edu/about-us/main-campus"
+      },
+      {
+        "datetime": "2023-06-13T16:21:48Z",
+        "uri": "https://web.archive.org/web/20230613162148/https://online.odu.edu/about-us/main-campus"
+      },
+      {
+        "datetime": "2023-07-07T00:01:21Z",
+        "uri": "https://web.archive.org/web/20230707000121/https://online.odu.edu/about-us/main-campus"
+      },
+      {
+        "datetime": "2023-07-15T00:31:10Z",
+        "uri": "https://web.archive.org/web/20230715003110/https://online.odu.edu/about-us/main-campus"
+      },
+      {
+        "datetime": "2023-08-03T21:22:52Z",
+        "uri": "https://web.archive.org/web/20230803212252/https://online.odu.edu/about-us/main-campus"
+      },
+      {
+        "datetime": "2023-12-26T23:13:16Z",
+        "uri": "https://web.archive.org/web/20231226231316/https://online.odu.edu/about-us/main-campus"
+      },
+      {
+        "datetime": "2024-01-10T20:55:27Z",
+        "uri": "https://web.archive.org/web/20240110205527/https://online.odu.edu/about-us/main-campus"
+      },
+      {
+        "datetime": "2024-02-03T22:15:35Z",
+        "uri": "https://web.archive.org/web/20240203221535/https://online.odu.edu/about-us/main-campus"
+      },
+      {
+        "datetime": "2024-02-25T08:03:51Z",
+        "uri": "https://web.archive.org/web/20240225080351/https://online.odu.edu/about-us/main-campus"
+      },
+      {
+        "datetime": "2024-03-25T17:49:50Z",
+        "uri": "https://web.archive.org/web/20240325174950/https://online.odu.edu/about-us/main-campus"
+      },
+      {
+        "datetime": "2024-04-03T04:47:24Z",
+        "uri": "https://web.archive.org/web/20240403044724/https://online.odu.edu/about-us/main-campus"
+      },
+      {
+        "datetime": "2024-05-02T22:29:17Z",
+        "uri": "https://web.archive.org/web/20240502222917/https://online.odu.edu/about-us/main-campus"
+      },
+      {
+        "datetime": "2024-06-02T02:14:44Z",
+        "uri": "https://web.archive.org/web/20240602021444/https://online.odu.edu/about-us/main-campus"
+      },
+      {
+        "datetime": "2024-06-13T22:49:59Z",
+        "uri": "https://web.archive.org/web/20240613224959/https://online.odu.edu/about-us/main-campus"
+      },
+      {
+        "datetime": "2024-07-03T12:04:09Z",
+        "uri": "https://web.archive.org/web/20240703120409/https://online.odu.edu/about-us/main-campus"
+      },
+      {
+        "datetime": "2024-08-01T12:39:03Z",
+        "uri": "https://web.archive.org/web/20240801123903/https://online.odu.edu/about-us/main-campus"
+      },
+      {
+        "datetime": "2024-09-13T01:31:12Z",
+        "uri": "https://web.archive.org/web/20240913013112/https://online.odu.edu/about-us/main-campus"
+      },
+      {
+        "datetime": "2024-10-03T16:20:09Z",
+        "uri": "https://web.archive.org/web/20241003162009/https://online.odu.edu/about-us/main-campus"
+      },
+      {
+        "datetime": "2024-10-04T07:28:01Z",
+        "uri": "https://web.archive.org/web/20241004072801/https://online.odu.edu/about-us/main-campus"
+      },
+      {
+        "datetime": "2025-01-19T13:02:51Z",
+        "uri": "https://web.archive.org/web/20250119130251/https://online.odu.edu/about-us/main-campus"
+      },
+      {
+        "datetime": "2025-01-24T02:47:26Z",
+        "uri": "https://web.archive.org/web/20250124024726/https://online.odu.edu/about-us/main-campus"
+      }
+    ],
+    "first": {
+      "datetime": "2020-04-27T13:58:00Z",
+      "uri": "https://web.archive.org/web/20200427135800/https://online.odu.edu/about-us/main-campus"
+    },
+    "last": {
+      "datetime": "2025-01-24T02:47:26Z",
+      "uri": "https://web.archive.org/web/20250124024726/https://online.odu.edu/about-us/main-campus"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/about-us/main-campus",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/about-us/main-campus",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/about-us/main-campus"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/about-us/main-campus"
+}

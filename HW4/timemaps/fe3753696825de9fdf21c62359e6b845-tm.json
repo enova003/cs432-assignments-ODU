@@ -1,0 +1,354 @@
+{
+  "original_uri": "https://www.odu.edu/recreation-wellness",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/recreation-wellness",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-01-03T00:25:21Z",
+        "uri": "https://web.archive.org/web/20240103002521/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-01-17T00:34:31Z",
+        "uri": "https://web.archive.org/web/20240117003431/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-02-02T12:20:51Z",
+        "uri": "https://web.archive.org/web/20240202122051/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-02-06T12:14:16Z",
+        "uri": "https://web.archive.org/web/20240206121416/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-02-21T20:14:00Z",
+        "uri": "https://web.archive.org/web/20240221201400/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-02-22T11:25:06Z",
+        "uri": "https://web.archive.org/web/20240222112506/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-02-22T13:25:48Z",
+        "uri": "https://web.archive.org/web/20240222132548/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-02-24T10:07:31Z",
+        "uri": "https://web.archive.org/web/20240224100731/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-02-25T08:19:56Z",
+        "uri": "https://web.archive.org/web/20240225081956/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-02-26T07:28:45Z",
+        "uri": "https://web.archive.org/web/20240226072845/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-02-28T12:33:57Z",
+        "uri": "https://web.archive.org/web/20240228123357/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-02-28T21:32:40Z",
+        "uri": "https://web.archive.org/web/20240228213240/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-02-28T23:50:44Z",
+        "uri": "https://web.archive.org/web/20240228235044/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-02-29T03:06:08Z",
+        "uri": "https://web.archive.org/web/20240229030608/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-02-29T14:33:10Z",
+        "uri": "https://web.archive.org/web/20240229143310/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-02-29T17:54:53Z",
+        "uri": "https://web.archive.org/web/20240229175453/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-03-01T11:23:15Z",
+        "uri": "https://web.archive.org/web/20240301112315/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-03-01T21:53:16Z",
+        "uri": "https://web.archive.org/web/20240301215316/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-03-03T06:07:23Z",
+        "uri": "https://web.archive.org/web/20240303060723/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-03-03T09:41:44Z",
+        "uri": "https://web.archive.org/web/20240303094144/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-03-04T17:43:18Z",
+        "uri": "https://web.archive.org/web/20240304174318/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-03-05T05:13:26Z",
+        "uri": "https://web.archive.org/web/20240305051326/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-03-05T07:17:18Z",
+        "uri": "https://web.archive.org/web/20240305071718/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-03-05T13:42:03Z",
+        "uri": "https://web.archive.org/web/20240305134203/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-03-25T13:00:10Z",
+        "uri": "https://web.archive.org/web/20240325130010/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-04-04T07:26:53Z",
+        "uri": "https://web.archive.org/web/20240404072653/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-04-04T07:27:01Z",
+        "uri": "https://web.archive.org/web/20240404072701/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-04-13T07:14:43Z",
+        "uri": "https://web.archive.org/web/20240413071443/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-04-13T15:25:06Z",
+        "uri": "https://web.archive.org/web/20240413152506/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-04-14T04:09:23Z",
+        "uri": "https://web.archive.org/web/20240414040923/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-04-16T01:17:25Z",
+        "uri": "https://web.archive.org/web/20240416011725/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-04-16T23:19:27Z",
+        "uri": "https://web.archive.org/web/20240416231927/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-04-17T03:31:27Z",
+        "uri": "https://web.archive.org/web/20240417033127/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-04-17T17:54:03Z",
+        "uri": "https://web.archive.org/web/20240417175403/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-04-18T08:32:23Z",
+        "uri": "https://web.archive.org/web/20240418083223/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-04-18T10:23:20Z",
+        "uri": "https://web.archive.org/web/20240418102320/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-04-19T18:26:53Z",
+        "uri": "https://web.archive.org/web/20240419182653/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-04-20T06:09:16Z",
+        "uri": "https://web.archive.org/web/20240420060916/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-04-23T03:50:49Z",
+        "uri": "https://web.archive.org/web/20240423035049/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-04-23T08:46:14Z",
+        "uri": "https://web.archive.org/web/20240423084614/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-04-23T16:43:54Z",
+        "uri": "https://web.archive.org/web/20240423164354/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-04-27T16:09:23Z",
+        "uri": "https://web.archive.org/web/20240427160923/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-04-27T16:12:04Z",
+        "uri": "https://web.archive.org/web/20240427161204/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-05-13T13:54:08Z",
+        "uri": "https://web.archive.org/web/20240513135408/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-05-18T07:57:53Z",
+        "uri": "https://web.archive.org/web/20240518075753/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-05-18T14:37:34Z",
+        "uri": "https://web.archive.org/web/20240518143734/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-05-19T04:11:53Z",
+        "uri": "https://web.archive.org/web/20240519041153/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-05-21T22:33:22Z",
+        "uri": "https://web.archive.org/web/20240521223322/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-05-22T14:11:40Z",
+        "uri": "https://web.archive.org/web/20240522141140/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-05-23T19:10:20Z",
+        "uri": "https://web.archive.org/web/20240523191020/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-05-23T22:56:44Z",
+        "uri": "https://wayback.archive-it.org/all/20240523225644/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-05-24T11:12:05Z",
+        "uri": "https://web.archive.org/web/20240524111205/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-05-27T06:13:23Z",
+        "uri": "https://web.archive.org/web/20240527061323/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-05-28T07:20:25Z",
+        "uri": "https://web.archive.org/web/20240528072025/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-06-14T18:01:12Z",
+        "uri": "https://web.archive.org/web/20240614180112/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-06-17T22:09:11Z",
+        "uri": "https://web.archive.org/web/20240617220911/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-06-23T00:31:12Z",
+        "uri": "https://web.archive.org/web/20240623003112/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-06-24T07:53:39Z",
+        "uri": "https://web.archive.org/web/20240624075339/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-07-13T02:47:56Z",
+        "uri": "https://web.archive.org/web/20240713024756/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-07-15T23:30:25Z",
+        "uri": "https://web.archive.org/web/20240715233025/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-07-16T19:08:09Z",
+        "uri": "https://web.archive.org/web/20240716190809/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-07-24T22:03:15Z",
+        "uri": "https://web.archive.org/web/20240724220315/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-07-25T12:44:46Z",
+        "uri": "https://web.archive.org/web/20240725124446/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-07-25T16:15:02Z",
+        "uri": "https://web.archive.org/web/20240725161502/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-08-14T16:46:41Z",
+        "uri": "https://web.archive.org/web/20240814164641/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-08-15T09:37:58Z",
+        "uri": "https://web.archive.org/web/20240815093758/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-08-15T14:57:54Z",
+        "uri": "https://web.archive.org/web/20240815145754/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-09-08T15:36:37Z",
+        "uri": "https://web.archive.org/web/20240908153637/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-09-11T17:35:08Z",
+        "uri": "https://web.archive.org/web/20240911173508/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-09-15T22:45:02Z",
+        "uri": "https://web.archive.org/web/20240915224502/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-09-17T13:36:01Z",
+        "uri": "https://web.archive.org/web/20240917133601/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-09-19T21:30:00Z",
+        "uri": "https://web.archive.org/web/20240919213000/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-09-20T04:06:12Z",
+        "uri": "https://web.archive.org/web/20240920040612/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-09-20T17:42:32Z",
+        "uri": "https://web.archive.org/web/20240920174232/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-10-07T11:32:34Z",
+        "uri": "https://web.archive.org/web/20241007113234/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-11-10T08:22:22Z",
+        "uri": "https://web.archive.org/web/20241110082222/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-11-16T00:23:36Z",
+        "uri": "https://web.archive.org/web/20241116002336/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-12-12T04:26:41Z",
+        "uri": "https://web.archive.org/web/20241212042641/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-12-24T17:53:35Z",
+        "uri": "https://web.archive.org/web/20241224175335/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-12-26T00:04:04Z",
+        "uri": "https://web.archive.org/web/20241226000404/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2025-01-16T05:07:24Z",
+        "uri": "https://web.archive.org/web/20250116050724/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2025-02-06T16:58:34Z",
+        "uri": "https://web.archive.org/web/20250206165834/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2025-02-14T10:00:26Z",
+        "uri": "https://web.archive.org/web/20250214100026/https://www.odu.edu/recreation-wellness"
+      }
+    ],
+    "first": {
+      "datetime": "2024-01-03T00:25:21Z",
+      "uri": "https://web.archive.org/web/20240103002521/https://www.odu.edu/recreation-wellness"
+    },
+    "last": {
+      "datetime": "2025-02-14T10:00:26Z",
+      "uri": "https://web.archive.org/web/20250214100026/https://www.odu.edu/recreation-wellness"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/recreation-wellness",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/recreation-wellness",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/recreation-wellness"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/recreation-wellness"
+}

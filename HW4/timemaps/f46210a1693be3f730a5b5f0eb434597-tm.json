@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://recwellportal.odu.edu/Program/GetProgramDetails?courseId=181be3d1-9c30-4086-97bf-c3b6ed57f7b8",
+  "self": "http://localhost:1208/timemap/json/https://recwellportal.odu.edu/Program/GetProgramDetails?courseId=181be3d1-9c30-4086-97bf-c3b6ed57f7b8",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2025-02-15T22:15:02Z",
+        "uri": "https://web.archive.org/web/20250215221502/https://recwellportal.odu.edu/Program/GetProgramDetails?courseId=181be3d1-9c30-4086-97bf-c3b6ed57f7b8"
+      }
+    ],
+    "first": {
+      "datetime": "2025-02-15T22:15:02Z",
+      "uri": "https://web.archive.org/web/20250215221502/https://recwellportal.odu.edu/Program/GetProgramDetails?courseId=181be3d1-9c30-4086-97bf-c3b6ed57f7b8"
+    },
+    "last": {
+      "datetime": "2025-02-15T22:15:02Z",
+      "uri": "https://web.archive.org/web/20250215221502/https://recwellportal.odu.edu/Program/GetProgramDetails?courseId=181be3d1-9c30-4086-97bf-c3b6ed57f7b8"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://recwellportal.odu.edu/Program/GetProgramDetails?courseId=181be3d1-9c30-4086-97bf-c3b6ed57f7b8",
+    "json_format": "http://localhost:1208/timemap/json/https://recwellportal.odu.edu/Program/GetProgramDetails?courseId=181be3d1-9c30-4086-97bf-c3b6ed57f7b8",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://recwellportal.odu.edu/Program/GetProgramDetails?courseId=181be3d1-9c30-4086-97bf-c3b6ed57f7b8"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://recwellportal.odu.edu/Program/GetProgramDetails?courseId=181be3d1-9c30-4086-97bf-c3b6ed57f7b8"
+}

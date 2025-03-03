@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.odu.edu/technology-services/calendar",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/technology-services/calendar",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-12-20T21:47:23Z",
+        "uri": "https://web.archive.org/web/20241220214723/https://www.odu.edu/technology-services/calendar"
+      },
+      {
+        "datetime": "2025-01-13T14:07:37Z",
+        "uri": "https://web.archive.org/web/20250113140737/https://www.odu.edu/technology-services/calendar"
+      }
+    ],
+    "first": {
+      "datetime": "2024-12-20T21:47:23Z",
+      "uri": "https://web.archive.org/web/20241220214723/https://www.odu.edu/technology-services/calendar"
+    },
+    "last": {
+      "datetime": "2025-01-13T14:07:37Z",
+      "uri": "https://web.archive.org/web/20250113140737/https://www.odu.edu/technology-services/calendar"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/technology-services/calendar",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/technology-services/calendar",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/technology-services/calendar"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/technology-services/calendar"
+}

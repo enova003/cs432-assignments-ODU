@@ -1,0 +1,42 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/linked_programs/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/linked_programs/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-12-04T20:14:36Z",
+        "uri": "https://web.archive.org/web/20231204201436/https://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/linked_programs/"
+      },
+      {
+        "datetime": "2023-12-05T17:46:52Z",
+        "uri": "https://web.archive.org/web/20231205174652/https://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/linked_programs/"
+      },
+      {
+        "datetime": "2023-12-09T23:00:05Z",
+        "uri": "https://web.archive.org/web/20231209230005/http://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/linked_programs/"
+      },
+      {
+        "datetime": "2023-12-09T23:00:14Z",
+        "uri": "https://web.archive.org/web/20231209230014/https://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/linked_programs/"
+      },
+      {
+        "datetime": "2023-12-17T01:36:37Z",
+        "uri": "https://web.archive.org/web/20231217013637/https://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/linked_programs/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-12-04T20:14:36Z",
+      "uri": "https://web.archive.org/web/20231204201436/https://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/linked_programs/"
+    },
+    "last": {
+      "datetime": "2023-12-17T01:36:37Z",
+      "uri": "https://web.archive.org/web/20231217013637/https://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/linked_programs/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/linked_programs/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/linked_programs/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/linked_programs/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/registrationrequirementsandprocedures/linked_programs/"
+}

@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/qust/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/qust/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-07-07T09:44:18Z",
+        "uri": "https://web.archive.org/web/20220707094418/https://catalog.odu.edu/courses/qust/"
+      },
+      {
+        "datetime": "2022-10-31T11:20:01Z",
+        "uri": "https://web.archive.org/web/20221031112001/https://catalog.odu.edu/courses/qust/"
+      },
+      {
+        "datetime": "2022-11-27T01:26:35Z",
+        "uri": "https://web.archive.org/web/20221127012635/https://catalog.odu.edu/courses/qust/"
+      },
+      {
+        "datetime": "2023-12-20T22:59:21Z",
+        "uri": "https://web.archive.org/web/20231220225921/https://catalog.odu.edu/courses/qust/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-07-07T09:44:18Z",
+      "uri": "https://web.archive.org/web/20220707094418/https://catalog.odu.edu/courses/qust/"
+    },
+    "last": {
+      "datetime": "2023-12-20T22:59:21Z",
+      "uri": "https://web.archive.org/web/20231220225921/https://catalog.odu.edu/courses/qust/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/qust/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/qust/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/qust/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/qust/"
+}

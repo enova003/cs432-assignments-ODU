@@ -1,0 +1,682 @@
+{
+  "original_uri": "https://www.odu.edu/univ-impact/entrepreneurship/strome",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/univ-impact/entrepreneurship/strome",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2016-10-16T02:09:30Z",
+        "uri": "https://web.archive.org/web/20161016020930/http://www.odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2016-10-27T07:42:26Z",
+        "uri": "https://web.archive.org/web/20161027074226/http://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2016-11-07T07:01:48Z",
+        "uri": "https://web.archive.org/web/20161107070148/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2016-11-16T14:15:05Z",
+        "uri": "https://web.archive.org/web/20161116141505/http://www.odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2016-11-19T13:30:31Z",
+        "uri": "https://web.archive.org/web/20161119133031/http://www.odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2016-11-20T17:11:59Z",
+        "uri": "https://web.archive.org/web/20161120171159/http://www.odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2016-11-22T03:49:36Z",
+        "uri": "https://web.archive.org/web/20161122034936/http://odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2017-01-21T15:00:47Z",
+        "uri": "https://web.archive.org/web/20170121150047/http://odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2017-03-18T09:15:37Z",
+        "uri": "https://web.archive.org/web/20170318091537/http://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2017-03-23T04:54:31Z",
+        "uri": "https://web.archive.org/web/20170323045431/http://odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2017-03-25T18:51:49Z",
+        "uri": "https://web.archive.org/web/20170325185149/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2017-04-19T01:31:31Z",
+        "uri": "https://web.archive.org/web/20170419013131/http://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2017-05-07T03:46:50Z",
+        "uri": "https://web.archive.org/web/20170507034650/http://www.odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2017-05-22T23:10:43Z",
+        "uri": "https://web.archive.org/web/20170522231043/http://odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2017-06-06T14:38:53Z",
+        "uri": "https://web.archive.org/web/20170606143853/http://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2017-06-07T02:50:18Z",
+        "uri": "https://web.archive.org/web/20170607025018/http://www.odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2017-07-07T23:48:11Z",
+        "uri": "https://web.archive.org/web/20170707234811/http://www.odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2017-07-22T10:40:15Z",
+        "uri": "https://web.archive.org/web/20170722104015/http://odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2017-08-07T12:28:35Z",
+        "uri": "https://web.archive.org/web/20170807122835/http://www.odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2017-09-07T13:56:11Z",
+        "uri": "https://web.archive.org/web/20170907135611/http://www.odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2017-09-09T03:33:29Z",
+        "uri": "https://web.archive.org/web/20170909033329/http://www.odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2017-09-21T02:11:17Z",
+        "uri": "https://web.archive.org/web/20170921021117/http://odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2017-10-29T23:41:45Z",
+        "uri": "https://web.archive.org/web/20171029234145/http://odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2017-11-08T21:02:05Z",
+        "uri": "https://web.archive.org/web/20171108210205/http://www.odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2017-11-29T19:52:18Z",
+        "uri": "https://web.archive.org/web/20171129195218/http://odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2017-11-30T15:53:51Z",
+        "uri": "https://web.archive.org/web/20171130155351/http://www.odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2017-12-30T19:03:53Z",
+        "uri": "https://web.archive.org/web/20171230190353/http://odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2017-12-31T05:44:14Z",
+        "uri": "https://web.archive.org/web/20171231054414/http://www.odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2018-01-31T11:11:27Z",
+        "uri": "https://web.archive.org/web/20180131111127/http://www.odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2018-01-31T15:31:32Z",
+        "uri": "https://web.archive.org/web/20180131153132/http://odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2018-03-03T16:07:42Z",
+        "uri": "https://web.archive.org/web/20180303160742/http://www.odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2018-03-03T18:38:16Z",
+        "uri": "https://web.archive.org/web/20180303183816/http://odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2018-03-05T02:14:23Z",
+        "uri": "https://web.archive.org/web/20180305021423/http://www.odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2018-03-05T13:59:45Z",
+        "uri": "https://web.archive.org/web/20180305135945/http://odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2018-05-05T19:17:37Z",
+        "uri": "https://web.archive.org/web/20180505191737/http://odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2018-05-05T19:17:57Z",
+        "uri": "https://web.archive.org/web/20180505191757/http://www.odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2018-07-05T07:54:06Z",
+        "uri": "https://web.archive.org/web/20180705075406/http://odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2018-07-05T07:54:16Z",
+        "uri": "https://web.archive.org/web/20180705075416/http://www.odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2018-09-05T16:59:22Z",
+        "uri": "https://web.archive.org/web/20180905165922/http://www.odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2018-09-07T23:40:52Z",
+        "uri": "https://web.archive.org/web/20180907234052/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2018-09-12T14:02:49Z",
+        "uri": "https://web.archive.org/web/20180912140249/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2018-11-05T16:24:40Z",
+        "uri": "https://web.archive.org/web/20181105162440/http://www.odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2018-11-05T18:03:09Z",
+        "uri": "https://web.archive.org/web/20181105180309/http://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2019-01-06T03:02:01Z",
+        "uri": "https://web.archive.org/web/20190106030201/http://www.odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2019-03-08T04:26:49Z",
+        "uri": "https://web.archive.org/web/20190308042649/http://www.odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2019-04-17T11:50:26Z",
+        "uri": "https://web.archive.org/web/20190417115026/https://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2019-05-07T20:15:09Z",
+        "uri": "https://web.archive.org/web/20190507201509/http://www.odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2019-07-07T22:28:18Z",
+        "uri": "https://web.archive.org/web/20190707222818/http://www.odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2019-09-06T15:40:32Z",
+        "uri": "https://web.archive.org/web/20190906154032/http://www.odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2019-10-16T05:34:45Z",
+        "uri": "https://web.archive.org/web/20191016053445/http://www.odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2019-12-15T09:13:01Z",
+        "uri": "https://web.archive.org/web/20191215091301/http://www.odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2020-02-13T14:42:06Z",
+        "uri": "https://web.archive.org/web/20200213144206/http://www.odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2020-02-14T15:17:23Z",
+        "uri": "https://web.archive.org/web/20200214151723/http://www.odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2020-05-03T16:51:12Z",
+        "uri": "https://web.archive.org/web/20200503165112/http://www.odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2020-07-02T23:22:37Z",
+        "uri": "https://web.archive.org/web/20200702232237/http://www.odu.edu:80/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2020-07-20T08:02:34Z",
+        "uri": "https://web.archive.org/web/20200720080234/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2020-07-30T09:39:51Z",
+        "uri": "https://web.archive.org/web/20200730093951/http://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2020-11-01T09:17:16Z",
+        "uri": "https://web.archive.org/web/20201101091716/https://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2020-11-01T09:17:16Z",
+        "uri": "https://web.archive.org/web/20201101091716/http://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2021-04-14T10:48:07Z",
+        "uri": "https://web.archive.org/web/20210414104807/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2021-04-19T00:18:46Z",
+        "uri": "https://web.archive.org/web/20210419001846/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2021-05-27T01:03:24Z",
+        "uri": "https://wayback.archive-it.org/all/20210527010324/https://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2021-05-27T01:03:24Z",
+        "uri": "https://web.archive.org/web/20210527010324/https://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2021-05-27T01:03:32Z",
+        "uri": "https://wayback.archive-it.org/all/20210527010332/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2021-05-27T01:03:32Z",
+        "uri": "https://web.archive.org/web/20210527010332/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2021-05-27T01:03:41Z",
+        "uri": "https://wayback.archive-it.org/all/20210527010341/http://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2021-05-27T01:03:41Z",
+        "uri": "https://web.archive.org/web/20210527010341/http://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2021-05-28T13:18:17Z",
+        "uri": "https://wayback.archive-it.org/all/20210528131817/http://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2021-05-28T13:18:17Z",
+        "uri": "https://web.archive.org/web/20210528131817/http://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2021-08-13T00:32:11Z",
+        "uri": "https://web.archive.org/web/20210813003211/http://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2021-08-13T12:02:13Z",
+        "uri": "https://web.archive.org/web/20210813120213/https://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2021-10-21T05:45:22Z",
+        "uri": "https://arquivo.pt/wayback/20211021054522mp_/https://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2021-10-21T05:45:22Z",
+        "uri": "https://web.archive.org/web/20211021054522/https://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2021-11-12T12:25:00Z",
+        "uri": "https://arquivo.pt/wayback/20211112122500mp_/http://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2021-11-12T12:25:00Z",
+        "uri": "https://web.archive.org/web/20211112122500/http://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2021-12-09T09:32:49Z",
+        "uri": "https://web.archive.org/web/20211209093249/https://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2021-12-09T09:45:51Z",
+        "uri": "https://web.archive.org/web/20211209094551/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2022-03-19T19:53:44Z",
+        "uri": "https://web.archive.org/web/20220319195344/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2022-03-19T21:42:54Z",
+        "uri": "https://web.archive.org/web/20220319214254/https://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2022-03-20T01:54:04Z",
+        "uri": "https://web.archive.org/web/20220320015404/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2022-03-20T01:54:04Z",
+        "uri": "https://web.archive.org/web/20220320015404/http://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2022-04-20T16:46:33Z",
+        "uri": "https://arquivo.pt/wayback/20220420164633mp_/https://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2022-05-07T21:53:27Z",
+        "uri": "https://arquivo.pt/wayback/20220507215327mp_/https://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2022-07-02T13:33:56Z",
+        "uri": "https://web.archive.org/web/20220702133356/https://odu.edu/univ-impact/entrepreneurship/strome/"
+      },
+      {
+        "datetime": "2022-07-12T13:36:50Z",
+        "uri": "https://web.archive.org/web/20220712133650/https://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2022-08-11T02:49:18Z",
+        "uri": "https://wayback.archive-it.org/all/20220811024918/https://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2022-08-11T02:49:18Z",
+        "uri": "https://web.archive.org/web/20220811024918/https://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2022-08-11T02:49:25Z",
+        "uri": "https://wayback.archive-it.org/all/20220811024925/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2022-08-11T02:49:25Z",
+        "uri": "https://web.archive.org/web/20220811024925/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2022-08-11T02:49:32Z",
+        "uri": "https://wayback.archive-it.org/all/20220811024932/http://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2022-08-11T02:49:32Z",
+        "uri": "https://web.archive.org/web/20220811024932/http://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2022-08-12T20:32:18Z",
+        "uri": "https://wayback.archive-it.org/all/20220812203218/http://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2022-08-12T20:32:18Z",
+        "uri": "https://web.archive.org/web/20220812203218/http://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2022-08-18T07:48:25Z",
+        "uri": "https://arquivo.pt/wayback/20220818074825mp_/https://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2022-11-07T06:05:53Z",
+        "uri": "https://wayback.archive-it.org/all/20221107060553/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2022-11-07T06:05:53Z",
+        "uri": "https://web.archive.org/web/20221107060553/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2022-11-07T20:12:07Z",
+        "uri": "https://wayback.archive-it.org/all/20221107201207/http://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2022-11-07T20:12:07Z",
+        "uri": "https://web.archive.org/web/20221107201207/http://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2022-11-16T03:59:55Z",
+        "uri": "https://arquivo.pt/wayback/20221116035955mp_/https://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2022-11-25T18:41:31Z",
+        "uri": "https://web.archive.org/web/20221125184131/https://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2022-12-07T12:50:22Z",
+        "uri": "https://wayback.archive-it.org/all/20221207125022/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2022-12-07T12:50:22Z",
+        "uri": "https://web.archive.org/web/20221207125022/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2022-12-08T05:50:33Z",
+        "uri": "https://web.archive.org/web/20221208055033/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2022-12-08T05:58:55Z",
+        "uri": "https://web.archive.org/web/20221208055855/https://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2022-12-10T19:29:08Z",
+        "uri": "https://wayback.archive-it.org/all/20221210192908/http://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2022-12-10T19:29:08Z",
+        "uri": "https://web.archive.org/web/20221210192908/http://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2023-01-07T12:10:27Z",
+        "uri": "https://wayback.archive-it.org/all/20230107121027/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2023-01-07T12:10:27Z",
+        "uri": "https://web.archive.org/web/20230107121027/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2023-01-10T07:27:12Z",
+        "uri": "https://wayback.archive-it.org/all/20230110072712/http://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2023-01-10T07:27:12Z",
+        "uri": "https://web.archive.org/web/20230110072712/http://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2023-01-24T20:33:30Z",
+        "uri": "https://arquivo.pt/wayback/20230124203330mp_/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2023-02-07T11:15:44Z",
+        "uri": "https://wayback.archive-it.org/all/20230207111544/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2023-02-07T11:15:44Z",
+        "uri": "https://web.archive.org/web/20230207111544/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2023-02-10T07:37:06Z",
+        "uri": "https://wayback.archive-it.org/all/20230210073706/http://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2023-02-10T07:37:06Z",
+        "uri": "https://web.archive.org/web/20230210073706/http://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2023-02-20T01:04:41Z",
+        "uri": "https://web.archive.org/web/20230220010441/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2023-03-07T04:59:57Z",
+        "uri": "https://wayback.archive-it.org/all/20230307045957/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2023-03-07T04:59:57Z",
+        "uri": "https://web.archive.org/web/20230307045957/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2023-03-07T16:22:20Z",
+        "uri": "https://wayback.archive-it.org/all/20230307162220/http://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2023-03-07T16:22:20Z",
+        "uri": "https://web.archive.org/web/20230307162220/http://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2023-03-27T22:35:29Z",
+        "uri": "https://web.archive.org/web/20230327223529/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2023-08-25T17:05:56Z",
+        "uri": "https://wayback.archive-it.org/all/20230825170556/https://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2023-08-25T17:05:56Z",
+        "uri": "https://web.archive.org/web/20230825170556/https://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2023-08-25T18:53:12Z",
+        "uri": "https://wayback.archive-it.org/all/20230825185312/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2023-08-25T18:53:12Z",
+        "uri": "https://web.archive.org/web/20230825185312/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2023-08-26T14:48:06Z",
+        "uri": "https://wayback.archive-it.org/all/20230826144806/http://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2023-08-26T14:48:06Z",
+        "uri": "https://web.archive.org/web/20230826144806/http://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2023-08-27T02:23:01Z",
+        "uri": "https://wayback.archive-it.org/all/20230827022301/http://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2023-08-27T02:23:01Z",
+        "uri": "https://web.archive.org/web/20230827022301/http://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2023-11-28T03:54:17Z",
+        "uri": "https://web.archive.org/web/20231128035417/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2023-12-26T20:49:54Z",
+        "uri": "https://web.archive.org/web/20231226204954/https://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2023-12-26T20:49:55Z",
+        "uri": "https://web.archive.org/web/20231226204955/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2024-02-14T16:08:44Z",
+        "uri": "https://web.archive.org/web/20240214160844/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2024-02-21T20:16:15Z",
+        "uri": "https://web.archive.org/web/20240221201615/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2024-02-29T02:07:39Z",
+        "uri": "https://web.archive.org/web/20240229020739/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2024-03-06T15:29:01Z",
+        "uri": "https://web.archive.org/web/20240306152901/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2024-03-25T12:54:33Z",
+        "uri": "https://web.archive.org/web/20240325125433/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2024-03-27T10:38:17Z",
+        "uri": "https://web.archive.org/web/20240327103817/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2024-03-27T10:38:17Z",
+        "uri": "https://web.archive.org/web/20240327103817/https://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2024-04-04T07:27:04Z",
+        "uri": "https://web.archive.org/web/20240404072704/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2024-04-17T03:31:10Z",
+        "uri": "https://web.archive.org/web/20240417033110/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2024-04-27T16:09:01Z",
+        "uri": "https://web.archive.org/web/20240427160901/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2024-04-27T16:12:34Z",
+        "uri": "https://web.archive.org/web/20240427161234/https://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2024-04-27T16:12:36Z",
+        "uri": "https://web.archive.org/web/20240427161236/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2024-05-23T20:19:28Z",
+        "uri": "https://wayback.archive-it.org/all/20240523201928/https://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2024-05-23T23:16:39Z",
+        "uri": "https://wayback.archive-it.org/all/20240523231639/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2024-05-30T03:56:59Z",
+        "uri": "https://wayback.archive-it.org/all/20240530035659/http://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2024-07-04T20:05:38Z",
+        "uri": "https://wayback.archive-it.org/all/20240704200538/https://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2024-07-04T20:05:38Z",
+        "uri": "https://web.archive.org/web/20240704200538/https://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2024-07-04T20:05:38Z",
+        "uri": "https://web.archive.org/web/20240704200538/https://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2024-07-04T20:09:45Z",
+        "uri": "https://wayback.archive-it.org/all/20240704200945/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2024-07-04T20:09:45Z",
+        "uri": "https://web.archive.org/web/20240704200945/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2024-07-04T20:09:45Z",
+        "uri": "https://web.archive.org/web/20240704200945/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2024-07-21T09:09:27Z",
+        "uri": "https://web.archive.org/web/20240721090927/https://odu.edu/univ-impact/entrepreneurship/strome/"
+      },
+      {
+        "datetime": "2024-07-21T10:33:59Z",
+        "uri": "https://web.archive.org/web/20240721103359/https://www.odu.edu/univ-impact/entrepreneurship/strome/"
+      },
+      {
+        "datetime": "2024-07-25T14:23:34Z",
+        "uri": "https://web.archive.org/web/20240725142334/http://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2024-07-26T15:38:15Z",
+        "uri": "https://web.archive.org/web/20240726153815/https://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2024-09-06T01:06:59Z",
+        "uri": "https://web.archive.org/web/20240906010659/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2024-09-06T01:06:59Z",
+        "uri": "https://web.archive.org/web/20240906010659/https://odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2024-09-17T19:40:48Z",
+        "uri": "https://web.archive.org/web/20240917194048/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2024-10-07T10:39:09Z",
+        "uri": "https://web.archive.org/web/20241007103909/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2024-11-26T20:47:17Z",
+        "uri": "https://web.archive.org/web/20241126204717/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2024-12-19T01:56:32Z",
+        "uri": "https://web.archive.org/web/20241219015632/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2024-12-24T17:53:35Z",
+        "uri": "https://web.archive.org/web/20241224175335/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      },
+      {
+        "datetime": "2025-02-14T10:00:45Z",
+        "uri": "https://web.archive.org/web/20250214100045/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+      }
+    ],
+    "first": {
+      "datetime": "2016-10-16T02:09:30Z",
+      "uri": "https://web.archive.org/web/20161016020930/http://www.odu.edu:80/univ-impact/entrepreneurship/strome"
+    },
+    "last": {
+      "datetime": "2025-02-14T10:00:45Z",
+      "uri": "https://web.archive.org/web/20250214100045/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/univ-impact/entrepreneurship/strome",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/univ-impact/entrepreneurship/strome",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/univ-impact/entrepreneurship/strome"
+}

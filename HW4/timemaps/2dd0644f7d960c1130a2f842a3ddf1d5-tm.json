@@ -1,0 +1,74 @@
+{
+  "original_uri": "https://online.odu.edu/cost/scholarships",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/cost/scholarships",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-03-19T23:19:02Z",
+        "uri": "https://web.archive.org/web/20220319231902/https://online.odu.edu/cost/scholarships"
+      },
+      {
+        "datetime": "2022-05-27T21:19:12Z",
+        "uri": "https://web.archive.org/web/20220527211912/https://online.odu.edu/cost/scholarships"
+      },
+      {
+        "datetime": "2022-08-07T15:22:07Z",
+        "uri": "https://web.archive.org/web/20220807152207/https://online.odu.edu/cost/scholarships"
+      },
+      {
+        "datetime": "2022-08-08T17:24:30Z",
+        "uri": "https://web.archive.org/web/20220808172430/https://online.odu.edu/cost/scholarships"
+      },
+      {
+        "datetime": "2022-11-28T04:12:57Z",
+        "uri": "https://web.archive.org/web/20221128041257/https://online.odu.edu/cost/scholarships"
+      },
+      {
+        "datetime": "2023-03-25T10:18:24Z",
+        "uri": "https://web.archive.org/web/20230325101824/https://online.odu.edu/cost/scholarships"
+      },
+      {
+        "datetime": "2023-09-24T17:04:34Z",
+        "uri": "https://web.archive.org/web/20230924170434/https://online.odu.edu/cost/scholarships"
+      },
+      {
+        "datetime": "2023-09-24T19:32:50Z",
+        "uri": "https://web.archive.org/web/20230924193250/https://online.odu.edu/cost/scholarships"
+      },
+      {
+        "datetime": "2024-02-25T07:48:18Z",
+        "uri": "https://web.archive.org/web/20240225074818/https://online.odu.edu/cost/scholarships"
+      },
+      {
+        "datetime": "2024-03-17T22:41:24Z",
+        "uri": "https://web.archive.org/web/20240317224124/https://online.odu.edu/cost/scholarships"
+      },
+      {
+        "datetime": "2024-05-25T19:43:41Z",
+        "uri": "https://web.archive.org/web/20240525194341/https://online.odu.edu/cost/scholarships"
+      },
+      {
+        "datetime": "2024-10-05T11:57:52Z",
+        "uri": "https://web.archive.org/web/20241005115752/https://online.odu.edu/cost/scholarships"
+      },
+      {
+        "datetime": "2025-01-19T13:02:59Z",
+        "uri": "https://web.archive.org/web/20250119130259/https://online.odu.edu/cost/scholarships"
+      }
+    ],
+    "first": {
+      "datetime": "2022-03-19T23:19:02Z",
+      "uri": "https://web.archive.org/web/20220319231902/https://online.odu.edu/cost/scholarships"
+    },
+    "last": {
+      "datetime": "2025-01-19T13:02:59Z",
+      "uri": "https://web.archive.org/web/20250119130259/https://online.odu.edu/cost/scholarships"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/cost/scholarships",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/cost/scholarships",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/cost/scholarships"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/cost/scholarships"
+}

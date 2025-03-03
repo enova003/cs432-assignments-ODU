@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/education/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/education/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T02:42:39Z",
+        "uri": "https://web.archive.org/web/20230927024239/https://catalog.odu.edu/undergraduate/education/"
+      },
+      {
+        "datetime": "2023-12-17T01:36:33Z",
+        "uri": "https://web.archive.org/web/20231217013633/https://catalog.odu.edu/undergraduate/education/"
+      },
+      {
+        "datetime": "2024-02-17T18:28:48Z",
+        "uri": "https://web.archive.org/web/20240217182848/https://catalog.odu.edu/undergraduate/education/"
+      },
+      {
+        "datetime": "2024-03-29T22:40:18Z",
+        "uri": "https://web.archive.org/web/20240329224018/http://catalog.odu.edu/undergraduate/education/"
+      },
+      {
+        "datetime": "2024-04-17T21:53:24Z",
+        "uri": "https://web.archive.org/web/20240417215324/https://catalog.odu.edu/undergraduate/education/"
+      },
+      {
+        "datetime": "2024-06-17T11:00:52Z",
+        "uri": "https://web.archive.org/web/20240617110052/https://catalog.odu.edu/undergraduate/education/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T02:42:39Z",
+      "uri": "https://web.archive.org/web/20230927024239/https://catalog.odu.edu/undergraduate/education/"
+    },
+    "last": {
+      "datetime": "2024-06-17T11:00:52Z",
+      "uri": "https://web.archive.org/web/20240617110052/https://catalog.odu.edu/undergraduate/education/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/education/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/education/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/education/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/education/"
+}

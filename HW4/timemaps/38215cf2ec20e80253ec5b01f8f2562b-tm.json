@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/health-sciences/programs/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/health-sciences/programs/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T02:44:46Z",
+        "uri": "https://web.archive.org/web/20230927024446/https://catalog.odu.edu/graduate/health-sciences/programs/"
+      },
+      {
+        "datetime": "2023-10-03T10:52:41Z",
+        "uri": "https://web.archive.org/web/20231003105241/https://catalog.odu.edu/graduate/health-sciences/programs/"
+      },
+      {
+        "datetime": "2023-12-08T06:22:15Z",
+        "uri": "https://web.archive.org/web/20231208062215/https://catalog.odu.edu/graduate/health-sciences/programs/"
+      },
+      {
+        "datetime": "2024-02-29T00:41:57Z",
+        "uri": "https://web.archive.org/web/20240229004157/https://catalog.odu.edu/graduate/health-sciences/programs/"
+      },
+      {
+        "datetime": "2024-04-17T22:47:37Z",
+        "uri": "https://web.archive.org/web/20240417224737/https://catalog.odu.edu/graduate/health-sciences/programs/"
+      },
+      {
+        "datetime": "2024-07-07T21:17:16Z",
+        "uri": "https://web.archive.org/web/20240707211716/https://catalog.odu.edu/graduate/health-sciences/programs/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T02:44:46Z",
+      "uri": "https://web.archive.org/web/20230927024446/https://catalog.odu.edu/graduate/health-sciences/programs/"
+    },
+    "last": {
+      "datetime": "2024-07-07T21:17:16Z",
+      "uri": "https://web.archive.org/web/20240707211716/https://catalog.odu.edu/graduate/health-sciences/programs/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/health-sciences/programs/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/health-sciences/programs/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/health-sciences/programs/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/health-sciences/programs/"
+}

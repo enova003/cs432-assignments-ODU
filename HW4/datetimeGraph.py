@@ -1,11 +1,3 @@
-# HW4 - Web Archiving Part 2
-### Ethan Novak
-### CS 432, Spring 2025
-### Sunday March 16, 2025 11:59pm
-
-# Q1 Answer
-
-```
 import os
 import json
 import datetime
@@ -67,23 +59,3 @@ else:
         plt.show()
     else:
         print("No valid data to plot.")
-
-```
-
-![Q1 Scatterplot](Q1-scatterplot.png)
-
-Q: What can you say about the relationship between the age of a URI-R and the number of its mementos?
-
-A:
-
-Q: What URI-R had the oldest memento? Did that surprise you?
-
-A: 
-
-Q: How many URI-Rs had an age of < 1 week, meaning that their first memento was captured the same week you collected the data?
-
-A:
-
-# Q2 Answer
-
-# References

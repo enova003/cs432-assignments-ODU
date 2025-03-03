@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/business/public-service/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/business/public-service/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T02:16:16Z",
+        "uri": "https://web.archive.org/web/20230927021616/https://catalog.odu.edu/graduate/business/public-service/"
+      },
+      {
+        "datetime": "2023-10-03T10:51:24Z",
+        "uri": "https://web.archive.org/web/20231003105124/https://catalog.odu.edu/graduate/business/public-service/"
+      },
+      {
+        "datetime": "2023-12-09T23:02:55Z",
+        "uri": "https://web.archive.org/web/20231209230255/https://catalog.odu.edu/graduate/business/public-service/"
+      },
+      {
+        "datetime": "2023-12-09T23:03:34Z",
+        "uri": "https://web.archive.org/web/20231209230334/http://catalog.odu.edu/graduate/business/public-service/"
+      },
+      {
+        "datetime": "2023-12-17T01:36:36Z",
+        "uri": "https://web.archive.org/web/20231217013636/https://catalog.odu.edu/graduate/business/public-service/"
+      },
+      {
+        "datetime": "2024-03-04T05:25:33Z",
+        "uri": "https://web.archive.org/web/20240304052533/https://catalog.odu.edu/graduate/business/public-service/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T02:16:16Z",
+      "uri": "https://web.archive.org/web/20230927021616/https://catalog.odu.edu/graduate/business/public-service/"
+    },
+    "last": {
+      "datetime": "2024-03-04T05:25:33Z",
+      "uri": "https://web.archive.org/web/20240304052533/https://catalog.odu.edu/graduate/business/public-service/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/business/public-service/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/business/public-service/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/business/public-service/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/business/public-service/"
+}

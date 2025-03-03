@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/education/educational-leadership-workforce-development/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/education/educational-leadership-workforce-development/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-10-13T07:59:38Z",
+        "uri": "https://web.archive.org/web/20241013075938/https://catalog.odu.edu/graduate/education/educational-leadership-workforce-development/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-10-13T07:59:38Z",
+      "uri": "https://web.archive.org/web/20241013075938/https://catalog.odu.edu/graduate/education/educational-leadership-workforce-development/"
+    },
+    "last": {
+      "datetime": "2024-10-13T07:59:38Z",
+      "uri": "https://web.archive.org/web/20241013075938/https://catalog.odu.edu/graduate/education/educational-leadership-workforce-development/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/education/educational-leadership-workforce-development/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/education/educational-leadership-workforce-development/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/education/educational-leadership-workforce-development/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/education/educational-leadership-workforce-development/"
+}

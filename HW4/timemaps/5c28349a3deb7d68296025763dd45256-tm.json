@@ -1,0 +1,1222 @@
+{
+  "original_uri": "https://www.odu.edu/facultystaff",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/facultystaff",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-08-31T14:39:45Z",
+        "uri": "https://web.archive.org/web/20120831143945/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2012-09-21T13:06:24Z",
+        "uri": "https://web.archive.org/web/20120921130624/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2012-10-10T13:17:25Z",
+        "uri": "https://web.archive.org/web/20121010131725/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2012-10-30T21:05:04Z",
+        "uri": "https://web.archive.org/web/20121030210504/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2012-12-11T12:15:24Z",
+        "uri": "https://web.archive.org/web/20121211121524/http://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2012-12-18T14:39:56Z",
+        "uri": "https://web.archive.org/web/20121218143956/http://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2012-12-25T12:36:34Z",
+        "uri": "https://web.archive.org/web/20121225123634/http://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2012-12-30T23:39:25Z",
+        "uri": "https://web.archive.org/web/20121230233925/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2013-01-15T17:23:11Z",
+        "uri": "https://web.archive.org/web/20130115172311/http://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2013-03-01T11:17:34Z",
+        "uri": "https://web.archive.org/web/20130301111734/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2013-04-23T05:12:28Z",
+        "uri": "https://web.archive.org/web/20130423051228/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2013-05-01T06:49:21Z",
+        "uri": "https://web.archive.org/web/20130501064921/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2013-05-12T15:06:41Z",
+        "uri": "https://web.archive.org/web/20130512150641/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2013-06-01T22:44:13Z",
+        "uri": "https://web.archive.org/web/20130601224413/http://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2013-07-25T05:20:04Z",
+        "uri": "https://web.archive.org/web/20130725052004/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2013-08-06T12:03:08Z",
+        "uri": "https://web.archive.org/web/20130806120308/http://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2013-09-29T20:34:35Z",
+        "uri": "https://web.archive.org/web/20130929203435/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2013-11-09T05:51:30Z",
+        "uri": "https://web.archive.org/web/20131109055130/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2013-11-27T14:55:32Z",
+        "uri": "https://web.archive.org/web/20131127145532/http://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2013-12-12T00:04:35Z",
+        "uri": "https://web.archive.org/web/20131212000435/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2014-01-11T18:39:31Z",
+        "uri": "https://web.archive.org/web/20140111183931/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2014-02-09T02:44:28Z",
+        "uri": "https://web.archive.org/web/20140209024428/http://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2014-02-13T11:07:49Z",
+        "uri": "https://web.archive.org/web/20140213110749/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2014-02-18T18:40:29Z",
+        "uri": "https://web.archive.org/web/20140218184029/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2014-06-25T06:18:17Z",
+        "uri": "https://web.archive.org/web/20140625061817/http://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2014-07-08T18:26:09Z",
+        "uri": "https://web.archive.org/web/20140708182609/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2015-02-17T00:16:07Z",
+        "uri": "https://web.archive.org/web/20150217001607/http://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2015-07-26T07:15:03Z",
+        "uri": "https://web.archive.org/web/20150726071503/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2015-09-25T00:50:22Z",
+        "uri": "https://web.archive.org/web/20150925005022/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2015-11-27T02:15:03Z",
+        "uri": "https://web.archive.org/web/20151127021503/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2015-12-12T05:27:27Z",
+        "uri": "https://web.archive.org/web/20151212052727/http://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2015-12-28T05:28:47Z",
+        "uri": "https://web.archive.org/web/20151228052847/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2016-01-28T11:29:16Z",
+        "uri": "https://web.archive.org/web/20160128112916/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2016-02-28T07:43:31Z",
+        "uri": "https://web.archive.org/web/20160228074331/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2016-03-30T02:57:18Z",
+        "uri": "https://web.archive.org/web/20160330025718/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2016-04-30T02:44:04Z",
+        "uri": "https://web.archive.org/web/20160430024404/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2016-05-30T00:41:51Z",
+        "uri": "https://web.archive.org/web/20160530004151/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2016-09-05T09:12:23Z",
+        "uri": "https://web.archive.org/web/20160905091223/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2016-09-13T09:27:03Z",
+        "uri": "https://web.archive.org/web/20160913092703/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2016-10-14T23:07:51Z",
+        "uri": "https://web.archive.org/web/20161014230751/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2016-10-27T07:20:20Z",
+        "uri": "https://web.archive.org/web/20161027072020/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2016-11-07T09:37:23Z",
+        "uri": "https://web.archive.org/web/20161107093723/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2016-11-15T05:06:32Z",
+        "uri": "https://web.archive.org/web/20161115050632/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2016-11-19T13:28:46Z",
+        "uri": "https://web.archive.org/web/20161119132846/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2016-11-20T17:11:49Z",
+        "uri": "https://web.archive.org/web/20161120171149/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2016-11-22T03:46:23Z",
+        "uri": "https://web.archive.org/web/20161122034623/http://odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2016-11-25T14:22:12Z",
+        "uri": "https://web.archive.org/web/20161125142212/http://odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2017-04-17T01:17:15Z",
+        "uri": "https://web.archive.org/web/20170417011715/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2017-04-19T02:18:36Z",
+        "uri": "https://web.archive.org/web/20170419021836/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2017-05-04T06:42:51Z",
+        "uri": "https://web.archive.org/web/20170504064251/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2017-05-04T08:14:18Z",
+        "uri": "https://web.archive.org/web/20170504081418/http://odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2017-05-26T17:40:01Z",
+        "uri": "https://web.archive.org/web/20170526174001/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2017-06-04T16:47:18Z",
+        "uri": "https://web.archive.org/web/20170604164718/http://odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2017-06-06T03:36:11Z",
+        "uri": "https://web.archive.org/web/20170606033611/http://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2017-06-22T18:31:54Z",
+        "uri": "https://web.archive.org/web/20170622183154/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2017-07-06T00:03:23Z",
+        "uri": "https://web.archive.org/web/20170706000323/http://odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2017-07-06T01:09:56Z",
+        "uri": "https://web.archive.org/web/20170706010956/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2017-07-29T00:31:30Z",
+        "uri": "https://web.archive.org/web/20170729003130/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2017-08-06T05:14:11Z",
+        "uri": "https://web.archive.org/web/20170806051411/http://odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2017-08-29T12:04:55Z",
+        "uri": "https://web.archive.org/web/20170829120455/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2017-09-09T14:29:55Z",
+        "uri": "https://web.archive.org/web/20170909142955/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2017-09-29T12:10:04Z",
+        "uri": "https://web.archive.org/web/20170929121004/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2017-09-30T06:35:40Z",
+        "uri": "https://web.archive.org/web/20170930063540/http://odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2017-10-22T19:42:06Z",
+        "uri": "https://web.archive.org/web/20171022194206/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2017-10-31T22:10:57Z",
+        "uri": "https://web.archive.org/web/20171031221057/http://odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2017-11-13T22:56:06Z",
+        "uri": "https://web.archive.org/web/20171113225606/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2017-12-02T02:58:36Z",
+        "uri": "https://web.archive.org/web/20171202025836/http://odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2017-12-14T17:55:06Z",
+        "uri": "https://web.archive.org/web/20171214175506/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2017-12-23T21:55:47Z",
+        "uri": "https://web.archive.org/web/20171223215547/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2018-01-02T06:20:17Z",
+        "uri": "https://web.archive.org/web/20180102062017/http://odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2018-01-14T20:56:36Z",
+        "uri": "https://web.archive.org/web/20180114205636/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2018-02-02T01:11:59Z",
+        "uri": "https://web.archive.org/web/20180202011159/http://odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2018-03-03T05:37:18Z",
+        "uri": "https://web.archive.org/web/20180303053718/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2018-03-05T06:14:28Z",
+        "uri": "https://web.archive.org/web/20180305061428/http://odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2018-03-19T00:17:12Z",
+        "uri": "https://web.archive.org/web/20180319001712/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2018-03-19T21:54:48Z",
+        "uri": "https://web.archive.org/web/20180319215448/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2018-04-04T16:58:49Z",
+        "uri": "https://web.archive.org/web/20180404165849/http://odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2018-04-08T20:13:24Z",
+        "uri": "https://web.archive.org/web/20180408201324/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2018-05-01T00:27:06Z",
+        "uri": "https://web.archive.org/web/20180501002706/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2018-05-06T05:32:50Z",
+        "uri": "https://web.archive.org/web/20180506053250/http://odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2018-05-24T23:51:58Z",
+        "uri": "https://web.archive.org/web/20180524235158/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2018-06-01T07:50:07Z",
+        "uri": "https://web.archive.org/web/20180601075007/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2018-06-06T23:04:34Z",
+        "uri": "https://web.archive.org/web/20180606230434/http://odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2018-06-08T01:26:51Z",
+        "uri": "https://web.archive.org/web/20180608012651/http://odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2018-07-02T10:06:03Z",
+        "uri": "https://web.archive.org/web/20180702100603/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2018-07-08T17:52:58Z",
+        "uri": "https://web.archive.org/web/20180708175258/http://odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2018-07-25T04:54:19Z",
+        "uri": "https://web.archive.org/web/20180725045419/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2018-08-02T09:54:25Z",
+        "uri": "https://web.archive.org/web/20180802095425/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2018-08-04T00:28:57Z",
+        "uri": "https://web.archive.org/web/20180804002857/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2018-08-08T15:04:05Z",
+        "uri": "https://web.archive.org/web/20180808150405/http://odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2018-09-02T19:51:08Z",
+        "uri": "https://web.archive.org/web/20180902195108/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2018-09-08T00:36:16Z",
+        "uri": "https://web.archive.org/web/20180908003616/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2018-09-08T09:18:08Z",
+        "uri": "https://web.archive.org/web/20180908091808/http://odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2018-09-12T07:15:08Z",
+        "uri": "https://web.archive.org/web/20180912071508/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2018-10-04T00:35:07Z",
+        "uri": "https://web.archive.org/web/20181004003507/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2018-10-10T07:51:15Z",
+        "uri": "https://web.archive.org/web/20181010075115/http://odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2018-11-03T23:05:15Z",
+        "uri": "https://web.archive.org/web/20181103230515/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2018-11-05T18:19:55Z",
+        "uri": "https://web.archive.org/web/20181105181955/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2018-11-10T07:52:44Z",
+        "uri": "https://web.archive.org/web/20181110075244/http://odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2018-11-11T15:53:03Z",
+        "uri": "https://web.archive.org/web/20181111155303/http://odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2018-12-05T23:30:07Z",
+        "uri": "https://web.archive.org/web/20181205233007/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2018-12-12T22:42:56Z",
+        "uri": "https://web.archive.org/web/20181212224256/http://odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2019-01-06T13:10:50Z",
+        "uri": "https://web.archive.org/web/20190106131050/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2019-01-12T16:34:38Z",
+        "uri": "https://web.archive.org/web/20190112163438/http://odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2019-02-06T11:39:50Z",
+        "uri": "https://web.archive.org/web/20190206113950/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2019-02-13T05:46:43Z",
+        "uri": "https://web.archive.org/web/20190213054643/http://odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2019-03-09T08:12:40Z",
+        "uri": "https://web.archive.org/web/20190309081240/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2019-03-16T02:06:46Z",
+        "uri": "https://web.archive.org/web/20190316020646/http://odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2019-04-08T20:21:12Z",
+        "uri": "https://web.archive.org/web/20190408202112/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2019-04-09T17:18:46Z",
+        "uri": "https://web.archive.org/web/20190409171846/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2019-04-16T21:26:44Z",
+        "uri": "https://web.archive.org/web/20190416212644/http://odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2019-04-17T12:49:27Z",
+        "uri": "https://web.archive.org/web/20190417124927/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2019-05-10T20:16:44Z",
+        "uri": "https://web.archive.org/web/20190510201644/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2019-05-17T13:37:57Z",
+        "uri": "https://web.archive.org/web/20190517133757/http://odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2019-06-04T20:20:59Z",
+        "uri": "https://web.archive.org/web/20190604202059/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2019-06-11T01:14:53Z",
+        "uri": "https://web.archive.org/web/20190611011453/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2019-06-17T10:16:13Z",
+        "uri": "https://web.archive.org/web/20190617101613/http://odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2019-07-21T15:04:02Z",
+        "uri": "https://web.archive.org/web/20190721150402/http://odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2019-07-21T15:15:56Z",
+        "uri": "https://web.archive.org/web/20190721151556/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2019-08-21T17:23:50Z",
+        "uri": "https://web.archive.org/web/20190821172350/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2019-08-21T20:08:54Z",
+        "uri": "https://web.archive.org/web/20190821200854/http://odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2019-09-22T12:50:12Z",
+        "uri": "https://web.archive.org/web/20190922125012/http://odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2019-09-22T12:56:10Z",
+        "uri": "https://web.archive.org/web/20190922125610/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2019-10-16T05:31:40Z",
+        "uri": "https://web.archive.org/web/20191016053140/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2019-12-14T12:54:36Z",
+        "uri": "https://web.archive.org/web/20191214125436/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2019-12-15T09:10:24Z",
+        "uri": "https://web.archive.org/web/20191215091024/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2019-12-21T17:53:14Z",
+        "uri": "https://web.archive.org/web/20191221175314/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2019-12-21T17:53:21Z",
+        "uri": "https://web.archive.org/web/20191221175321/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2020-02-13T14:38:40Z",
+        "uri": "https://web.archive.org/web/20200213143840/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2020-02-14T15:14:51Z",
+        "uri": "https://web.archive.org/web/20200214151451/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2020-04-16T18:48:58Z",
+        "uri": "https://wayback.archive-it.org/all/20200416184858/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2020-04-16T18:48:58Z",
+        "uri": "https://web.archive.org/web/20200416184858/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2020-04-16T18:49:16Z",
+        "uri": "https://wayback.archive-it.org/all/20200416184916/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2020-04-16T18:49:16Z",
+        "uri": "https://web.archive.org/web/20200416184916/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2020-04-16T18:49:47Z",
+        "uri": "https://wayback.archive-it.org/all/20200416184947/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2020-04-16T18:49:47Z",
+        "uri": "https://web.archive.org/web/20200416184947/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2020-04-24T12:52:55Z",
+        "uri": "https://web.archive.org/web/20200424125255/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2020-04-27T13:52:20Z",
+        "uri": "https://web.archive.org/web/20200427135220/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2020-05-03T16:48:34Z",
+        "uri": "https://web.archive.org/web/20200503164834/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2020-06-27T05:25:47Z",
+        "uri": "https://web.archive.org/web/20200627052547/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2020-07-02T19:10:31Z",
+        "uri": "https://web.archive.org/web/20200702191031/http://www.odu.edu:80/facultystaff"
+      },
+      {
+        "datetime": "2020-07-12T10:36:05Z",
+        "uri": "https://web.archive.org/web/20200712103605/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2020-07-12T10:38:07Z",
+        "uri": "https://web.archive.org/web/20200712103807/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2020-08-29T17:14:01Z",
+        "uri": "https://web.archive.org/web/20200829171401/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2020-09-10T23:13:01Z",
+        "uri": "https://wayback.archive-it.org/all/20200910231301/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2020-09-10T23:13:01Z",
+        "uri": "https://web.archive.org/web/20200910231301/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2020-09-10T23:22:40Z",
+        "uri": "https://wayback.archive-it.org/all/20200910232240/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2020-09-10T23:22:40Z",
+        "uri": "https://web.archive.org/web/20200910232240/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2020-09-10T23:22:51Z",
+        "uri": "https://wayback.archive-it.org/all/20200910232251/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2020-09-10T23:22:51Z",
+        "uri": "https://web.archive.org/web/20200910232251/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2020-10-06T10:11:31Z",
+        "uri": "https://web.archive.org/web/20201006101131/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2020-11-02T09:15:38Z",
+        "uri": "https://web.archive.org/web/20201102091538/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2020-12-17T03:24:50Z",
+        "uri": "https://web.archive.org/web/20201217032450/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2021-02-07T06:42:58Z",
+        "uri": "https://web.archive.org/web/20210207064258/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2021-03-21T15:31:08Z",
+        "uri": "https://web.archive.org/web/20210321153108/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2021-04-13T17:34:50Z",
+        "uri": "https://web.archive.org/web/20210413173450/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2021-04-14T06:03:08Z",
+        "uri": "https://web.archive.org/web/20210414060308/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2021-04-14T08:19:59Z",
+        "uri": "https://web.archive.org/web/20210414081959/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2021-04-25T18:21:43Z",
+        "uri": "https://web.archive.org/web/20210425182143/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2021-04-30T20:14:49Z",
+        "uri": "https://web.archive.org/web/20210430201449/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2021-05-20T15:19:27Z",
+        "uri": "https://web.archive.org/web/20210520151927/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2021-05-26T19:47:08Z",
+        "uri": "https://wayback.archive-it.org/all/20210526194708/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2021-05-26T19:47:08Z",
+        "uri": "https://web.archive.org/web/20210526194708/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2021-05-26T19:47:12Z",
+        "uri": "https://wayback.archive-it.org/all/20210526194712/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2021-05-26T19:47:12Z",
+        "uri": "https://web.archive.org/web/20210526194712/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2021-05-26T19:47:19Z",
+        "uri": "https://wayback.archive-it.org/all/20210526194719/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2021-05-26T19:47:19Z",
+        "uri": "https://web.archive.org/web/20210526194719/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2021-06-28T11:08:12Z",
+        "uri": "https://web.archive.org/web/20210628110812/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2021-08-11T19:21:25Z",
+        "uri": "https://web.archive.org/web/20210811192125/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2021-08-12T21:17:04Z",
+        "uri": "https://web.archive.org/web/20210812211704/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2021-08-13T05:13:34Z",
+        "uri": "https://web.archive.org/web/20210813051334/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2021-09-10T15:34:36Z",
+        "uri": "https://arquivo.pt/wayback/20210910153436mp_/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2021-10-19T19:20:50Z",
+        "uri": "https://web.archive.org/web/20211019192050/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2021-11-03T11:14:30Z",
+        "uri": "https://arquivo.pt/wayback/20211103111430mp_/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2021-11-03T11:14:30Z",
+        "uri": "https://web.archive.org/web/20211103111430/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2021-11-03T11:14:34Z",
+        "uri": "https://arquivo.pt/wayback/20211103111434mp_/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2021-11-03T11:14:34Z",
+        "uri": "https://web.archive.org/web/20211103111434/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2021-11-15T04:21:40Z",
+        "uri": "https://web.archive.org/web/20211115042140/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2021-11-29T22:09:54Z",
+        "uri": "https://web.archive.org/web/20211129220954/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-01-08T02:23:57Z",
+        "uri": "https://web.archive.org/web/20220108022357/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-01-08T16:40:24Z",
+        "uri": "https://web.archive.org/web/20220108164024/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-01-10T17:07:47Z",
+        "uri": "https://web.archive.org/web/20220110170747/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-01-11T20:15:19Z",
+        "uri": "https://web.archive.org/web/20220111201519/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-01-12T16:59:11Z",
+        "uri": "https://web.archive.org/web/20220112165911/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-01-12T21:57:05Z",
+        "uri": "https://web.archive.org/web/20220112215705/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-01-13T01:00:30Z",
+        "uri": "https://web.archive.org/web/20220113010030/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-01-13T19:30:48Z",
+        "uri": "https://web.archive.org/web/20220113193048/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-01-16T23:35:35Z",
+        "uri": "https://web.archive.org/web/20220116233535/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-01-17T07:09:08Z",
+        "uri": "https://web.archive.org/web/20220117070908/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-01-21T21:46:33Z",
+        "uri": "https://web.archive.org/web/20220121214633/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-01-22T10:20:52Z",
+        "uri": "https://arquivo.pt/wayback/20220122102052mp_/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-01-22T17:16:30Z",
+        "uri": "https://web.archive.org/web/20220122171630/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-01-24T20:25:19Z",
+        "uri": "https://web.archive.org/web/20220124202519/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-01-26T02:02:57Z",
+        "uri": "https://web.archive.org/web/20220126020257/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-01-26T05:33:19Z",
+        "uri": "https://arquivo.pt/wayback/20220126053319mp_/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-01-31T22:17:41Z",
+        "uri": "https://web.archive.org/web/20220131221741/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-02-01T22:30:25Z",
+        "uri": "https://web.archive.org/web/20220201223025/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-02-03T18:58:53Z",
+        "uri": "https://web.archive.org/web/20220203185853/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-02-17T22:25:50Z",
+        "uri": "https://web.archive.org/web/20220217222550/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-03-10T16:18:21Z",
+        "uri": "https://web.archive.org/web/20220310161821/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-03-19T21:06:36Z",
+        "uri": "https://web.archive.org/web/20220319210636/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-03-19T21:06:37Z",
+        "uri": "https://web.archive.org/web/20220319210637/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-04-07T09:44:14Z",
+        "uri": "https://web.archive.org/web/20220407094414/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-04-17T00:55:21Z",
+        "uri": "https://web.archive.org/web/20220417005521/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-04-17T05:26:52Z",
+        "uri": "https://arquivo.pt/wayback/20220417052652mp_/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-04-22T17:14:31Z",
+        "uri": "https://arquivo.pt/wayback/20220422171431mp_/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-04-22T17:14:35Z",
+        "uri": "https://arquivo.pt/wayback/20220422171435mp_/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-04-24T18:50:39Z",
+        "uri": "https://arquivo.pt/wayback/20220424185039mp_/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-05-14T05:03:14Z",
+        "uri": "https://web.archive.org/web/20220514050314/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-05-25T10:38:05Z",
+        "uri": "https://web.archive.org/web/20220525103805/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-06-14T11:10:54Z",
+        "uri": "https://web.archive.org/web/20220614111054/https://www.odu.edu/facultystaff/"
+      },
+      {
+        "datetime": "2022-06-15T05:42:29Z",
+        "uri": "https://web.archive.org/web/20220615054229/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-06-15T20:05:13Z",
+        "uri": "https://web.archive.org/web/20220615200513/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-06-18T23:27:41Z",
+        "uri": "https://web.archive.org/web/20220618232741/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-06-19T00:43:25Z",
+        "uri": "https://web.archive.org/web/20220619004325/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-06-19T11:21:12Z",
+        "uri": "https://web.archive.org/web/20220619112112/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-06-19T11:21:49Z",
+        "uri": "https://web.archive.org/web/20220619112149/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-06-19T23:26:42Z",
+        "uri": "https://web.archive.org/web/20220619232642/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-06-19T23:28:42Z",
+        "uri": "https://web.archive.org/web/20220619232842/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-07-30T14:36:54Z",
+        "uri": "https://arquivo.pt/wayback/20220730143654mp_/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-08-02T22:58:29Z",
+        "uri": "https://web.archive.org/web/20220802225829/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-08-03T00:03:50Z",
+        "uri": "https://web.archive.org/web/20220803000350/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-08-03T22:35:11Z",
+        "uri": "https://web.archive.org/web/20220803223511/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-08-04T14:22:00Z",
+        "uri": "https://web.archive.org/web/20220804142200/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-08-05T19:32:51Z",
+        "uri": "https://web.archive.org/web/20220805193251/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-08-07T22:49:34Z",
+        "uri": "https://web.archive.org/web/20220807224934/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-08-08T20:11:05Z",
+        "uri": "https://web.archive.org/web/20220808201105/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-08-08T21:31:21Z",
+        "uri": "https://web.archive.org/web/20220808213121/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-08-10T16:03:05Z",
+        "uri": "https://web.archive.org/web/20220810160305/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-08-10T19:17:27Z",
+        "uri": "https://web.archive.org/web/20220810191727/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-08-10T19:54:48Z",
+        "uri": "https://wayback.archive-it.org/all/20220810195448/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-08-10T19:54:48Z",
+        "uri": "https://web.archive.org/web/20220810195448/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-08-10T19:55:09Z",
+        "uri": "https://wayback.archive-it.org/all/20220810195509/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-08-10T19:55:09Z",
+        "uri": "https://web.archive.org/web/20220810195509/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-08-10T19:55:35Z",
+        "uri": "https://wayback.archive-it.org/all/20220810195535/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-08-10T19:55:35Z",
+        "uri": "https://web.archive.org/web/20220810195535/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-08-12T07:53:24Z",
+        "uri": "https://web.archive.org/web/20220812075324/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-09-22T16:39:12Z",
+        "uri": "https://web.archive.org/web/20220922163912/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-10-04T04:29:19Z",
+        "uri": "https://web.archive.org/web/20221004042919/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-10-11T02:11:18Z",
+        "uri": "https://arquivo.pt/wayback/20221011021118mp_/https://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-10-14T05:11:21Z",
+        "uri": "https://web.archive.org/web/20221014051121/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-10-22T03:43:01Z",
+        "uri": "https://web.archive.org/web/20221022034301/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-10-22T21:17:14Z",
+        "uri": "https://web.archive.org/web/20221022211714/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-10-31T11:29:11Z",
+        "uri": "https://web.archive.org/web/20221031112911/http://odu.edu/facultystaff/"
+      },
+      {
+        "datetime": "2022-10-31T11:29:34Z",
+        "uri": "https://web.archive.org/web/20221031112934/https://odu.edu/facultystaff/"
+      },
+      {
+        "datetime": "2022-10-31T11:31:02Z",
+        "uri": "https://web.archive.org/web/20221031113102/https://www.odu.edu/facultystaff/"
+      },
+      {
+        "datetime": "2022-11-07T06:52:10Z",
+        "uri": "https://wayback.archive-it.org/all/20221107065210/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-11-07T06:52:10Z",
+        "uri": "https://web.archive.org/web/20221107065210/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-11-09T00:54:58Z",
+        "uri": "https://wayback.archive-it.org/all/20221109005458/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-11-09T00:54:58Z",
+        "uri": "https://web.archive.org/web/20221109005458/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-12-07T15:39:55Z",
+        "uri": "https://wayback.archive-it.org/all/20221207153955/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-12-07T15:39:55Z",
+        "uri": "https://web.archive.org/web/20221207153955/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-12-08T06:57:52Z",
+        "uri": "https://web.archive.org/web/20221208065752/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-12-14T02:56:27Z",
+        "uri": "https://wayback.archive-it.org/all/20221214025627/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2022-12-14T02:56:27Z",
+        "uri": "https://web.archive.org/web/20221214025627/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2023-01-07T15:33:18Z",
+        "uri": "https://wayback.archive-it.org/all/20230107153318/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2023-01-07T15:33:18Z",
+        "uri": "https://web.archive.org/web/20230107153318/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2023-01-24T20:56:52Z",
+        "uri": "https://arquivo.pt/wayback/20230124205652mp_/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2023-02-07T14:14:09Z",
+        "uri": "https://wayback.archive-it.org/all/20230207141409/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2023-02-07T14:14:09Z",
+        "uri": "https://web.archive.org/web/20230207141409/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2023-02-20T01:11:53Z",
+        "uri": "https://web.archive.org/web/20230220011153/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2023-03-07T05:17:25Z",
+        "uri": "https://wayback.archive-it.org/all/20230307051725/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2023-03-07T05:17:25Z",
+        "uri": "https://web.archive.org/web/20230307051725/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2023-03-09T04:15:27Z",
+        "uri": "https://wayback.archive-it.org/all/20230309041527/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2023-03-09T04:15:27Z",
+        "uri": "https://web.archive.org/web/20230309041527/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2023-03-27T15:22:03Z",
+        "uri": "https://web.archive.org/web/20230327152203/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2023-03-27T22:37:34Z",
+        "uri": "https://web.archive.org/web/20230327223734/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2023-08-25T19:15:36Z",
+        "uri": "https://wayback.archive-it.org/all/20230825191536/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2023-08-25T19:15:36Z",
+        "uri": "https://web.archive.org/web/20230825191536/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2023-08-27T02:21:43Z",
+        "uri": "https://wayback.archive-it.org/all/20230827022143/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2023-08-27T02:21:43Z",
+        "uri": "https://web.archive.org/web/20230827022143/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2023-10-01T22:46:16Z",
+        "uri": "https://web.archive.org/web/20231001224616/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2023-11-28T03:54:22Z",
+        "uri": "https://web.archive.org/web/20231128035422/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2024-02-21T20:26:04Z",
+        "uri": "https://web.archive.org/web/20240221202604/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2024-02-28T23:45:07Z",
+        "uri": "https://web.archive.org/web/20240228234507/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2024-02-28T23:45:08Z",
+        "uri": "https://web.archive.org/web/20240228234508/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2024-03-06T15:30:38Z",
+        "uri": "https://web.archive.org/web/20240306153038/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2024-04-04T07:26:57Z",
+        "uri": "https://web.archive.org/web/20240404072657/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2024-04-04T07:27:14Z",
+        "uri": "https://web.archive.org/web/20240404072714/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2024-04-04T07:27:15Z",
+        "uri": "https://web.archive.org/web/20240404072715/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2024-04-15T16:34:23Z",
+        "uri": "https://web.archive.org/web/20240415163423/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2024-04-17T03:34:01Z",
+        "uri": "https://web.archive.org/web/20240417033401/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2024-04-27T16:08:48Z",
+        "uri": "https://web.archive.org/web/20240427160848/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2024-04-28T12:15:48Z",
+        "uri": "https://web.archive.org/web/20240428121548/http://www.odu.edu/facultystaff/"
+      },
+      {
+        "datetime": "2024-05-13T13:53:59Z",
+        "uri": "https://web.archive.org/web/20240513135359/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2024-05-24T00:09:45Z",
+        "uri": "https://wayback.archive-it.org/all/20240524000945/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2024-05-30T03:55:58Z",
+        "uri": "https://wayback.archive-it.org/all/20240530035558/http://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2024-07-14T18:03:48Z",
+        "uri": "https://web.archive.org/web/20240714180348/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2024-07-15T23:30:25Z",
+        "uri": "https://web.archive.org/web/20240715233025/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2024-08-18T04:07:34Z",
+        "uri": "https://web.archive.org/web/20240818040734/http://odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2024-09-14T14:23:09Z",
+        "uri": "https://web.archive.org/web/20240914142309/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2024-09-17T10:37:47Z",
+        "uri": "https://web.archive.org/web/20240917103747/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2024-10-07T10:26:25Z",
+        "uri": "https://web.archive.org/web/20241007102625/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2024-10-14T03:12:54Z",
+        "uri": "https://web.archive.org/web/20241014031254/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2024-11-26T19:13:07Z",
+        "uri": "https://web.archive.org/web/20241126191307/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2024-12-24T17:53:35Z",
+        "uri": "https://web.archive.org/web/20241224175335/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2024-12-25T19:42:13Z",
+        "uri": "https://web.archive.org/web/20241225194213/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2024-12-26T16:56:41Z",
+        "uri": "https://web.archive.org/web/20241226165641/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2025-01-13T11:24:46Z",
+        "uri": "https://web.archive.org/web/20250113112446/https://www.odu.edu/facultystaff"
+      },
+      {
+        "datetime": "2025-02-14T09:59:46Z",
+        "uri": "https://web.archive.org/web/20250214095946/https://www.odu.edu/facultystaff"
+      }
+    ],
+    "first": {
+      "datetime": "2012-08-31T14:39:45Z",
+      "uri": "https://web.archive.org/web/20120831143945/http://www.odu.edu:80/facultystaff"
+    },
+    "last": {
+      "datetime": "2025-02-14T09:59:46Z",
+      "uri": "https://web.archive.org/web/20250214095946/https://www.odu.edu/facultystaff"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/facultystaff",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/facultystaff",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/facultystaff"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/facultystaff"
+}

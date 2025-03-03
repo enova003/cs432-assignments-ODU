@@ -1,0 +1,158 @@
+{
+  "original_uri": "https://www.odu.edu/programs",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/programs",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "1999-10-12T22:46:08Z",
+        "uri": "https://web.archive.org/web/19991012224608/http://odu.edu:80/programs"
+      },
+      {
+        "datetime": "2013-08-31T16:03:44Z",
+        "uri": "https://web.archive.org/web/20130831160344/http://odu.edu:80/programs"
+      },
+      {
+        "datetime": "2013-10-02T11:44:12Z",
+        "uri": "https://web.archive.org/web/20131002114412/http://odu.edu:80/programs"
+      },
+      {
+        "datetime": "2022-10-31T11:17:57Z",
+        "uri": "https://web.archive.org/web/20221031111757/https://www.odu.edu/programs"
+      },
+      {
+        "datetime": "2022-11-07T05:24:17Z",
+        "uri": "https://wayback.archive-it.org/all/20221107052417/https://www.odu.edu/programs"
+      },
+      {
+        "datetime": "2022-11-07T05:24:17Z",
+        "uri": "https://web.archive.org/web/20221107052417/https://www.odu.edu/programs"
+      },
+      {
+        "datetime": "2022-11-18T19:31:59Z",
+        "uri": "https://web.archive.org/web/20221118193159/https://www.odu.edu/programs"
+      },
+      {
+        "datetime": "2022-12-07T07:47:48Z",
+        "uri": "https://wayback.archive-it.org/all/20221207074748/https://www.odu.edu/programs"
+      },
+      {
+        "datetime": "2022-12-07T07:47:48Z",
+        "uri": "https://web.archive.org/web/20221207074748/https://www.odu.edu/programs"
+      },
+      {
+        "datetime": "2023-01-07T07:09:42Z",
+        "uri": "https://wayback.archive-it.org/all/20230107070942/https://www.odu.edu/programs"
+      },
+      {
+        "datetime": "2023-01-07T07:09:42Z",
+        "uri": "https://web.archive.org/web/20230107070942/https://www.odu.edu/programs"
+      },
+      {
+        "datetime": "2023-01-24T19:48:30Z",
+        "uri": "https://arquivo.pt/wayback/20230124194830mp_/https://www.odu.edu/programs"
+      },
+      {
+        "datetime": "2023-02-07T06:21:37Z",
+        "uri": "https://wayback.archive-it.org/all/20230207062137/https://www.odu.edu/programs"
+      },
+      {
+        "datetime": "2023-02-07T06:21:37Z",
+        "uri": "https://web.archive.org/web/20230207062137/https://www.odu.edu/programs"
+      },
+      {
+        "datetime": "2023-02-20T00:36:04Z",
+        "uri": "https://web.archive.org/web/20230220003604/https://www.odu.edu/programs"
+      },
+      {
+        "datetime": "2023-03-07T04:26:01Z",
+        "uri": "https://wayback.archive-it.org/all/20230307042601/https://www.odu.edu/programs"
+      },
+      {
+        "datetime": "2023-03-07T04:26:01Z",
+        "uri": "https://web.archive.org/web/20230307042601/https://www.odu.edu/programs"
+      },
+      {
+        "datetime": "2023-03-27T21:17:33Z",
+        "uri": "https://web.archive.org/web/20230327211733/https://www.odu.edu/programs"
+      },
+      {
+        "datetime": "2023-03-27T22:29:50Z",
+        "uri": "https://web.archive.org/web/20230327222950/https://www.odu.edu/programs"
+      },
+      {
+        "datetime": "2023-08-25T17:22:12Z",
+        "uri": "https://wayback.archive-it.org/all/20230825172212/https://www.odu.edu/programs"
+      },
+      {
+        "datetime": "2023-08-25T17:22:12Z",
+        "uri": "https://web.archive.org/web/20230825172212/https://www.odu.edu/programs"
+      },
+      {
+        "datetime": "2023-11-28T03:54:20Z",
+        "uri": "https://web.archive.org/web/20231128035420/https://www.odu.edu/programs"
+      },
+      {
+        "datetime": "2024-02-14T16:09:10Z",
+        "uri": "https://web.archive.org/web/20240214160910/https://www.odu.edu/programs"
+      },
+      {
+        "datetime": "2024-02-21T20:27:24Z",
+        "uri": "https://web.archive.org/web/20240221202724/https://www.odu.edu/programs"
+      },
+      {
+        "datetime": "2024-02-28T21:33:28Z",
+        "uri": "https://web.archive.org/web/20240228213328/https://www.odu.edu/programs"
+      },
+      {
+        "datetime": "2024-03-06T15:29:23Z",
+        "uri": "https://web.archive.org/web/20240306152923/https://www.odu.edu/programs"
+      },
+      {
+        "datetime": "2024-04-04T07:27:06Z",
+        "uri": "https://web.archive.org/web/20240404072706/https://www.odu.edu/programs"
+      },
+      {
+        "datetime": "2024-04-17T03:29:58Z",
+        "uri": "https://web.archive.org/web/20240417032958/https://www.odu.edu/programs"
+      },
+      {
+        "datetime": "2024-04-27T16:09:13Z",
+        "uri": "https://web.archive.org/web/20240427160913/https://www.odu.edu/programs"
+      },
+      {
+        "datetime": "2024-05-16T22:10:55Z",
+        "uri": "https://web.archive.org/web/20240516221055/https://odu.edu/programs"
+      },
+      {
+        "datetime": "2024-05-23T20:27:02Z",
+        "uri": "https://wayback.archive-it.org/all/20240523202702/https://www.odu.edu/programs"
+      },
+      {
+        "datetime": "2024-07-15T23:30:24Z",
+        "uri": "https://web.archive.org/web/20240715233024/https://www.odu.edu/programs"
+      },
+      {
+        "datetime": "2024-09-15T12:20:02Z",
+        "uri": "https://web.archive.org/web/20240915122002/https://www.odu.edu/programs"
+      },
+      {
+        "datetime": "2025-02-14T10:00:11Z",
+        "uri": "https://web.archive.org/web/20250214100011/https://www.odu.edu/programs"
+      }
+    ],
+    "first": {
+      "datetime": "1999-10-12T22:46:08Z",
+      "uri": "https://web.archive.org/web/19991012224608/http://odu.edu:80/programs"
+    },
+    "last": {
+      "datetime": "2025-02-14T10:00:11Z",
+      "uri": "https://web.archive.org/web/20250214100011/https://www.odu.edu/programs"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/programs",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/programs",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/programs"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/programs"
+}

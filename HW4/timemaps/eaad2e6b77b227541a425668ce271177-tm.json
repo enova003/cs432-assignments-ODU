@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/business/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/business/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T02:53:39Z",
+        "uri": "https://web.archive.org/web/20230927025339/https://catalog.odu.edu/graduate/business/"
+      },
+      {
+        "datetime": "2023-12-09T23:04:19Z",
+        "uri": "https://web.archive.org/web/20231209230419/http://catalog.odu.edu/graduate/business/"
+      },
+      {
+        "datetime": "2023-12-09T23:04:34Z",
+        "uri": "https://web.archive.org/web/20231209230434/https://catalog.odu.edu/graduate/business/"
+      },
+      {
+        "datetime": "2024-02-29T16:06:45Z",
+        "uri": "https://web.archive.org/web/20240229160645/https://catalog.odu.edu/graduate/business/"
+      },
+      {
+        "datetime": "2024-02-29T16:14:28Z",
+        "uri": "https://web.archive.org/web/20240229161428/https://catalog.odu.edu/graduate/business/"
+      },
+      {
+        "datetime": "2024-03-04T06:06:27Z",
+        "uri": "https://web.archive.org/web/20240304060627/https://catalog.odu.edu/graduate/business/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T02:53:39Z",
+      "uri": "https://web.archive.org/web/20230927025339/https://catalog.odu.edu/graduate/business/"
+    },
+    "last": {
+      "datetime": "2024-03-04T06:06:27Z",
+      "uri": "https://web.archive.org/web/20240304060627/https://catalog.odu.edu/graduate/business/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/business/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/business/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/business/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/business/"
+}

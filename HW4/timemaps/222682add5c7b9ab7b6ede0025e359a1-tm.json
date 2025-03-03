@@ -1,0 +1,618 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/math/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/math/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:35:08Z",
+        "uri": "https://web.archive.org/web/20120902043508/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2013-05-17T08:07:20Z",
+        "uri": "https://web.archive.org/web/20130517080720/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2014-06-20T15:26:39Z",
+        "uri": "https://web.archive.org/web/20140620152639/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2014-10-02T02:29:29Z",
+        "uri": "https://web.archive.org/web/20141002022929/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2014-10-02T02:29:29Z",
+        "uri": "https://web.archive.org/web/20141002022929/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2014-10-20T03:43:29Z",
+        "uri": "https://web.archive.org/web/20141020034329/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2014-11-01T22:26:03Z",
+        "uri": "https://web.archive.org/web/20141101222603/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2014-11-01T22:26:03Z",
+        "uri": "https://web.archive.org/web/20141101222603/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2014-12-02T23:28:08Z",
+        "uri": "https://web.archive.org/web/20141202232808/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2014-12-02T23:28:08Z",
+        "uri": "https://web.archive.org/web/20141202232808/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2014-12-19T15:10:59Z",
+        "uri": "https://web.archive.org/web/20141219151059/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2015-01-02T14:10:00Z",
+        "uri": "https://web.archive.org/web/20150102141000/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2015-01-02T14:10:00Z",
+        "uri": "https://web.archive.org/web/20150102141000/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2015-02-05T09:51:52Z",
+        "uri": "https://web.archive.org/web/20150205095152/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2015-02-05T09:51:52Z",
+        "uri": "https://web.archive.org/web/20150205095152/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2015-03-20T16:48:29Z",
+        "uri": "https://web.archive.org/web/20150320164829/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2015-03-20T16:48:29Z",
+        "uri": "https://web.archive.org/web/20150320164829/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2015-04-08T00:21:49Z",
+        "uri": "https://web.archive.org/web/20150408002149/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2015-04-20T06:58:33Z",
+        "uri": "https://web.archive.org/web/20150420065833/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2015-04-20T06:58:33Z",
+        "uri": "https://web.archive.org/web/20150420065833/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2015-05-11T07:49:47Z",
+        "uri": "https://web.archive.org/web/20150511074947/http://catalog.odu.edu/courses/math/"
+      },
+      {
+        "datetime": "2015-05-21T04:39:12Z",
+        "uri": "https://web.archive.org/web/20150521043912/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2015-05-21T04:39:12Z",
+        "uri": "https://web.archive.org/web/20150521043912/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2015-06-07T13:11:32Z",
+        "uri": "https://web.archive.org/web/20150607131132/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2015-06-23T12:54:27Z",
+        "uri": "https://web.archive.org/web/20150623125427/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2015-06-23T12:54:27Z",
+        "uri": "https://web.archive.org/web/20150623125427/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2015-07-03T05:05:02Z",
+        "uri": "https://web.archive.org/web/20150703050502/http://catalog.odu.edu/courses/math/"
+      },
+      {
+        "datetime": "2015-08-07T16:20:22Z",
+        "uri": "https://web.archive.org/web/20150807162022/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2015-08-22T02:00:54Z",
+        "uri": "https://web.archive.org/web/20150822020054/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2015-08-22T02:00:54Z",
+        "uri": "https://web.archive.org/web/20150822020054/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2015-09-21T15:29:50Z",
+        "uri": "https://web.archive.org/web/20150921152950/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2015-09-21T15:29:50Z",
+        "uri": "https://web.archive.org/web/20150921152950/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2015-10-07T01:12:58Z",
+        "uri": "https://web.archive.org/web/20151007011258/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2015-10-22T03:31:20Z",
+        "uri": "https://web.archive.org/web/20151022033120/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2015-10-22T03:31:20Z",
+        "uri": "https://web.archive.org/web/20151022033120/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2015-12-06T17:43:57Z",
+        "uri": "https://web.archive.org/web/20151206174357/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2016-02-05T07:03:03Z",
+        "uri": "https://web.archive.org/web/20160205070303/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2016-03-26T09:56:34Z",
+        "uri": "https://web.archive.org/web/20160326095634/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2016-03-26T09:56:34Z",
+        "uri": "https://web.archive.org/web/20160326095634/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2016-04-06T11:18:14Z",
+        "uri": "https://web.archive.org/web/20160406111814/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2016-04-09T05:04:41Z",
+        "uri": "https://web.archive.org/web/20160409050441/http://catalog.odu.edu/courses/math/"
+      },
+      {
+        "datetime": "2016-04-26T05:31:34Z",
+        "uri": "https://web.archive.org/web/20160426053134/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2016-04-26T05:31:34Z",
+        "uri": "https://web.archive.org/web/20160426053134/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2016-05-27T02:25:46Z",
+        "uri": "https://web.archive.org/web/20160527022546/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2016-05-27T02:25:46Z",
+        "uri": "https://web.archive.org/web/20160527022546/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2016-06-06T14:15:14Z",
+        "uri": "https://web.archive.org/web/20160606141514/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2016-06-27T03:56:34Z",
+        "uri": "https://web.archive.org/web/20160627035634/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2016-06-27T03:56:34Z",
+        "uri": "https://web.archive.org/web/20160627035634/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2016-07-27T04:49:55Z",
+        "uri": "https://web.archive.org/web/20160727044955/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2016-07-27T04:49:55Z",
+        "uri": "https://web.archive.org/web/20160727044955/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2016-07-28T10:40:18Z",
+        "uri": "https://web.archive.org/web/20160728104018/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2016-07-28T10:40:18Z",
+        "uri": "https://web.archive.org/web/20160728104018/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2016-08-28T19:25:12Z",
+        "uri": "https://web.archive.org/web/20160828192512/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2016-08-28T19:25:12Z",
+        "uri": "https://web.archive.org/web/20160828192512/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2016-09-29T04:45:48Z",
+        "uri": "https://web.archive.org/web/20160929044548/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2016-09-29T04:45:48Z",
+        "uri": "https://web.archive.org/web/20160929044548/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2016-10-30T16:30:50Z",
+        "uri": "https://web.archive.org/web/20161030163050/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2016-10-30T16:30:50Z",
+        "uri": "https://web.archive.org/web/20161030163050/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2016-12-05T04:58:42Z",
+        "uri": "https://web.archive.org/web/20161205045842/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2016-12-21T01:26:33Z",
+        "uri": "https://web.archive.org/web/20161221012633/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2016-12-21T01:26:33Z",
+        "uri": "https://web.archive.org/web/20161221012633/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2017-02-03T19:32:44Z",
+        "uri": "https://web.archive.org/web/20170203193244/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2017-04-27T05:24:50Z",
+        "uri": "https://web.archive.org/web/20170427052450/http://catalog.odu.edu/courses/math/"
+      },
+      {
+        "datetime": "2017-05-07T04:43:24Z",
+        "uri": "https://web.archive.org/web/20170507044324/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2017-05-07T04:43:24Z",
+        "uri": "https://web.archive.org/web/20170507044324/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2017-06-07T01:25:06Z",
+        "uri": "https://web.archive.org/web/20170607012506/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2017-06-07T01:25:06Z",
+        "uri": "https://web.archive.org/web/20170607012506/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2017-06-08T22:51:05Z",
+        "uri": "https://web.archive.org/web/20170608225105/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2017-07-07T22:19:31Z",
+        "uri": "https://web.archive.org/web/20170707221931/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2017-07-07T22:19:31Z",
+        "uri": "https://web.archive.org/web/20170707221931/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2017-07-09T01:45:44Z",
+        "uri": "https://web.archive.org/web/20170709014544/http://catalog.odu.edu/courses/math/"
+      },
+      {
+        "datetime": "2017-08-07T19:54:51Z",
+        "uri": "https://web.archive.org/web/20170807195451/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2017-08-07T19:54:51Z",
+        "uri": "https://web.archive.org/web/20170807195451/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2017-08-09T15:04:33Z",
+        "uri": "https://web.archive.org/web/20170809150433/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2017-09-07T13:42:22Z",
+        "uri": "https://web.archive.org/web/20170907134222/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2017-09-07T13:42:22Z",
+        "uri": "https://web.archive.org/web/20170907134222/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2017-10-18T13:34:00Z",
+        "uri": "https://web.archive.org/web/20171018133400/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2017-10-18T13:34:00Z",
+        "uri": "https://web.archive.org/web/20171018133400/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2017-11-18T19:51:50Z",
+        "uri": "https://web.archive.org/web/20171118195150/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2017-11-18T19:51:50Z",
+        "uri": "https://web.archive.org/web/20171118195150/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2017-12-09T03:00:40Z",
+        "uri": "https://web.archive.org/web/20171209030040/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2017-12-19T12:35:46Z",
+        "uri": "https://web.archive.org/web/20171219123546/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2017-12-19T12:35:46Z",
+        "uri": "https://web.archive.org/web/20171219123546/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2018-02-07T18:50:23Z",
+        "uri": "https://web.archive.org/web/20180207185023/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2018-04-09T20:16:12Z",
+        "uri": "https://web.archive.org/web/20180409201612/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2018-04-12T10:28:44Z",
+        "uri": "https://web.archive.org/web/20180412102844/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2018-04-12T10:28:44Z",
+        "uri": "https://web.archive.org/web/20180412102844/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2018-05-14T19:29:34Z",
+        "uri": "https://web.archive.org/web/20180514192934/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2018-05-14T19:29:34Z",
+        "uri": "https://web.archive.org/web/20180514192934/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2018-06-10T02:26:11Z",
+        "uri": "https://web.archive.org/web/20180610022611/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2018-06-14T22:58:45Z",
+        "uri": "https://web.archive.org/web/20180614225845/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2018-06-14T22:58:45Z",
+        "uri": "https://web.archive.org/web/20180614225845/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2018-07-16T12:08:45Z",
+        "uri": "https://web.archive.org/web/20180716120845/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2018-07-16T12:08:45Z",
+        "uri": "https://web.archive.org/web/20180716120845/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2018-08-10T07:50:13Z",
+        "uri": "https://web.archive.org/web/20180810075013/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2018-08-16T13:43:04Z",
+        "uri": "https://web.archive.org/web/20180816134304/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2018-08-16T13:43:04Z",
+        "uri": "https://web.archive.org/web/20180816134304/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2018-09-16T04:56:41Z",
+        "uri": "https://web.archive.org/web/20180916045641/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2018-09-16T04:56:41Z",
+        "uri": "https://web.archive.org/web/20180916045641/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2018-10-10T04:07:15Z",
+        "uri": "https://web.archive.org/web/20181010040715/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2018-10-11T04:21:31Z",
+        "uri": "https://web.archive.org/web/20181011042131/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2018-10-16T23:55:59Z",
+        "uri": "https://web.archive.org/web/20181016235559/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2018-10-16T23:55:59Z",
+        "uri": "https://web.archive.org/web/20181016235559/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2018-11-16T17:27:46Z",
+        "uri": "https://web.archive.org/web/20181116172746/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2018-11-16T17:27:46Z",
+        "uri": "https://web.archive.org/web/20181116172746/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2018-12-17T11:36:07Z",
+        "uri": "https://web.archive.org/web/20181217113607/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2018-12-17T11:36:07Z",
+        "uri": "https://web.archive.org/web/20181217113607/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2019-01-17T14:12:03Z",
+        "uri": "https://web.archive.org/web/20190117141203/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2019-01-17T14:12:03Z",
+        "uri": "https://web.archive.org/web/20190117141203/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2019-02-17T13:53:09Z",
+        "uri": "https://web.archive.org/web/20190217135309/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2019-02-17T13:53:09Z",
+        "uri": "https://web.archive.org/web/20190217135309/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2019-03-20T16:24:04Z",
+        "uri": "https://web.archive.org/web/20190320162404/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2019-03-20T16:24:04Z",
+        "uri": "https://web.archive.org/web/20190320162404/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2019-04-12T10:44:12Z",
+        "uri": "https://web.archive.org/web/20190412104412/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2019-04-20T17:36:53Z",
+        "uri": "https://web.archive.org/web/20190420173653/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2019-04-20T17:36:53Z",
+        "uri": "https://web.archive.org/web/20190420173653/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2019-05-22T08:25:25Z",
+        "uri": "https://web.archive.org/web/20190522082525/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2019-05-22T08:25:25Z",
+        "uri": "https://web.archive.org/web/20190522082525/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2019-06-22T20:14:56Z",
+        "uri": "https://web.archive.org/web/20190622201456/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2019-06-22T20:14:56Z",
+        "uri": "https://web.archive.org/web/20190622201456/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2019-07-23T17:13:46Z",
+        "uri": "https://web.archive.org/web/20190723171346/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2019-07-23T17:13:46Z",
+        "uri": "https://web.archive.org/web/20190723171346/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2019-08-11T18:45:21Z",
+        "uri": "https://web.archive.org/web/20190811184521/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2019-08-23T15:33:11Z",
+        "uri": "https://web.archive.org/web/20190823153311/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2019-08-23T15:33:11Z",
+        "uri": "https://web.archive.org/web/20190823153311/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2019-09-23T12:57:09Z",
+        "uri": "https://web.archive.org/web/20190923125709/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2019-09-23T12:57:09Z",
+        "uri": "https://web.archive.org/web/20190923125709/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2019-10-09T05:18:33Z",
+        "uri": "https://web.archive.org/web/20191009051833/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2019-10-13T04:01:36Z",
+        "uri": "https://web.archive.org/web/20191013040136/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2019-10-13T04:01:36Z",
+        "uri": "https://web.archive.org/web/20191013040136/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2019-10-21T20:11:53Z",
+        "uri": "https://web.archive.org/web/20191021201153/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2019-11-12T12:36:14Z",
+        "uri": "https://web.archive.org/web/20191112123614/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2019-11-12T12:36:14Z",
+        "uri": "https://web.archive.org/web/20191112123614/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2019-12-12T19:00:13Z",
+        "uri": "https://web.archive.org/web/20191212190013/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2019-12-12T19:01:26Z",
+        "uri": "https://web.archive.org/web/20191212190126/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2020-01-12T03:03:11Z",
+        "uri": "https://web.archive.org/web/20200112030311/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2020-01-12T03:03:11Z",
+        "uri": "https://web.archive.org/web/20200112030311/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2020-02-11T05:59:16Z",
+        "uri": "https://web.archive.org/web/20200211055916/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2020-02-11T05:59:16Z",
+        "uri": "https://web.archive.org/web/20200211055916/http://catalog.odu.edu:80/courses/math"
+      },
+      {
+        "datetime": "2020-03-02T06:06:06Z",
+        "uri": "https://web.archive.org/web/20200302060606/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2020-05-01T08:48:02Z",
+        "uri": "https://web.archive.org/web/20200501084802/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2020-06-30T12:18:55Z",
+        "uri": "https://web.archive.org/web/20200630121855/http://catalog.odu.edu:80/courses/math/"
+      },
+      {
+        "datetime": "2021-01-10T14:48:31Z",
+        "uri": "https://web.archive.org/web/20210110144831/https://catalog.odu.edu/courses/math/"
+      },
+      {
+        "datetime": "2021-01-24T09:36:28Z",
+        "uri": "https://web.archive.org/web/20210124093628/https://catalog.odu.edu/courses/math/"
+      },
+      {
+        "datetime": "2021-04-12T20:27:55Z",
+        "uri": "https://web.archive.org/web/20210412202755/http://catalog.odu.edu/courses/math/"
+      },
+      {
+        "datetime": "2021-11-18T16:10:01Z",
+        "uri": "https://web.archive.org/web/20211118161001/https://catalog.odu.edu/courses/math/"
+      },
+      {
+        "datetime": "2023-12-08T06:22:16Z",
+        "uri": "https://web.archive.org/web/20231208062216/https://catalog.odu.edu/courses/math/"
+      },
+      {
+        "datetime": "2024-01-11T18:11:53Z",
+        "uri": "https://web.archive.org/web/20240111181153/https://catalog.odu.edu/courses/math/"
+      },
+      {
+        "datetime": "2024-04-28T18:31:04Z",
+        "uri": "https://web.archive.org/web/20240428183104/http://catalog.odu.edu/courses/math/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:35:08Z",
+      "uri": "https://web.archive.org/web/20120902043508/http://catalog.odu.edu:80/courses/math/"
+    },
+    "last": {
+      "datetime": "2024-04-28T18:31:04Z",
+      "uri": "https://web.archive.org/web/20240428183104/http://catalog.odu.edu/courses/math/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/math/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/math/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/math/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/math/"
+}

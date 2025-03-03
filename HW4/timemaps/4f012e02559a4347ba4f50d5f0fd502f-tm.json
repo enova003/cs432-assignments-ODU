@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/education/stem-education-professional-studies/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/education/stem-education-professional-studies/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T01:06:50Z",
+        "uri": "https://web.archive.org/web/20230927010650/https://catalog.odu.edu/undergraduate/education/stem-education-professional-studies/"
+      },
+      {
+        "datetime": "2023-10-01T01:23:18Z",
+        "uri": "https://web.archive.org/web/20231001012318/https://catalog.odu.edu/undergraduate/education/stem-education-professional-studies/"
+      },
+      {
+        "datetime": "2024-02-16T22:38:49Z",
+        "uri": "https://web.archive.org/web/20240216223849/https://catalog.odu.edu/undergraduate/education/stem-education-professional-studies/"
+      },
+      {
+        "datetime": "2024-02-29T16:07:08Z",
+        "uri": "https://web.archive.org/web/20240229160708/https://catalog.odu.edu/undergraduate/education/stem-education-professional-studies/"
+      },
+      {
+        "datetime": "2024-03-04T04:11:39Z",
+        "uri": "https://web.archive.org/web/20240304041139/https://catalog.odu.edu/undergraduate/education/stem-education-professional-studies/"
+      },
+      {
+        "datetime": "2024-04-06T07:01:42Z",
+        "uri": "https://web.archive.org/web/20240406070142/http://catalog.odu.edu/undergraduate/education/stem-education-professional-studies/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T01:06:50Z",
+      "uri": "https://web.archive.org/web/20230927010650/https://catalog.odu.edu/undergraduate/education/stem-education-professional-studies/"
+    },
+    "last": {
+      "datetime": "2024-04-06T07:01:42Z",
+      "uri": "https://web.archive.org/web/20240406070142/http://catalog.odu.edu/undergraduate/education/stem-education-professional-studies/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/education/stem-education-professional-studies/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/education/stem-education-professional-studies/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/education/stem-education-professional-studies/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/education/stem-education-professional-studies/"
+}

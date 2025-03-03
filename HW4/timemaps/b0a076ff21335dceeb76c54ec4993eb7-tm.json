@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/education/counseling-human-services/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/education/counseling-human-services/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T00:50:51Z",
+        "uri": "https://web.archive.org/web/20230927005051/https://catalog.odu.edu/graduate/education/counseling-human-services/"
+      },
+      {
+        "datetime": "2023-10-01T02:41:35Z",
+        "uri": "https://web.archive.org/web/20231001024135/https://catalog.odu.edu/graduate/education/counseling-human-services/"
+      },
+      {
+        "datetime": "2023-12-08T06:22:16Z",
+        "uri": "https://web.archive.org/web/20231208062216/https://catalog.odu.edu/graduate/education/counseling-human-services/"
+      },
+      {
+        "datetime": "2024-02-28T19:39:26Z",
+        "uri": "https://web.archive.org/web/20240228193926/https://catalog.odu.edu/graduate/education/counseling-human-services/"
+      },
+      {
+        "datetime": "2024-02-29T09:20:56Z",
+        "uri": "https://web.archive.org/web/20240229092056/http://catalog.odu.edu/graduate/education/counseling-human-services/"
+      },
+      {
+        "datetime": "2024-03-04T03:55:45Z",
+        "uri": "https://web.archive.org/web/20240304035545/https://catalog.odu.edu/graduate/education/counseling-human-services/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T00:50:51Z",
+      "uri": "https://web.archive.org/web/20230927005051/https://catalog.odu.edu/graduate/education/counseling-human-services/"
+    },
+    "last": {
+      "datetime": "2024-03-04T03:55:45Z",
+      "uri": "https://web.archive.org/web/20240304035545/https://catalog.odu.edu/graduate/education/counseling-human-services/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/education/counseling-human-services/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/education/counseling-human-services/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/education/counseling-human-services/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/education/counseling-human-services/"
+}

@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/education/educational-leadership-workforce-development/technology-education-post-baccalaureate-endorsement/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/education/educational-leadership-workforce-development/technology-education-post-baccalaureate-endorsement/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-10-13T08:09:18Z",
+        "uri": "https://web.archive.org/web/20241013080918/https://catalog.odu.edu/graduate/education/educational-leadership-workforce-development/technology-education-post-baccalaureate-endorsement/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-10-13T08:09:18Z",
+      "uri": "https://web.archive.org/web/20241013080918/https://catalog.odu.edu/graduate/education/educational-leadership-workforce-development/technology-education-post-baccalaureate-endorsement/"
+    },
+    "last": {
+      "datetime": "2024-10-13T08:09:18Z",
+      "uri": "https://web.archive.org/web/20241013080918/https://catalog.odu.edu/graduate/education/educational-leadership-workforce-development/technology-education-post-baccalaureate-endorsement/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/education/educational-leadership-workforce-development/technology-education-post-baccalaureate-endorsement/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/education/educational-leadership-workforce-development/technology-education-post-baccalaureate-endorsement/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/education/educational-leadership-workforce-development/technology-education-post-baccalaureate-endorsement/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/education/educational-leadership-workforce-development/technology-education-post-baccalaureate-endorsement/"
+}

@@ -1,0 +1,198 @@
+{
+  "original_uri": "https://www.odu.edu/engineering",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/engineering",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-19T01:28:36Z",
+        "uri": "https://web.archive.org/web/20190219012836/http://www.odu.edu:80/engineering"
+      },
+      {
+        "datetime": "2019-04-20T14:34:21Z",
+        "uri": "https://web.archive.org/web/20190420143421/http://www.odu.edu:80/engineering"
+      },
+      {
+        "datetime": "2019-06-20T13:29:10Z",
+        "uri": "https://web.archive.org/web/20190620132910/http://www.odu.edu:80/engineering"
+      },
+      {
+        "datetime": "2019-08-20T12:53:02Z",
+        "uri": "https://web.archive.org/web/20190820125302/http://www.odu.edu:80/engineering"
+      },
+      {
+        "datetime": "2019-10-21T13:26:07Z",
+        "uri": "https://web.archive.org/web/20191021132607/http://www.odu.edu:80/engineering"
+      },
+      {
+        "datetime": "2019-12-20T21:00:40Z",
+        "uri": "https://web.archive.org/web/20191220210040/http://www.odu.edu:80/engineering"
+      },
+      {
+        "datetime": "2020-02-19T03:23:12Z",
+        "uri": "https://web.archive.org/web/20200219032312/http://www.odu.edu:80/engineering"
+      },
+      {
+        "datetime": "2023-09-25T20:21:18Z",
+        "uri": "https://web.archive.org/web/20230925202118/https://www.odu.edu/engineering"
+      },
+      {
+        "datetime": "2023-10-02T05:16:41Z",
+        "uri": "https://web.archive.org/web/20231002051641/https://www.odu.edu/engineering"
+      },
+      {
+        "datetime": "2023-10-14T06:36:29Z",
+        "uri": "https://web.archive.org/web/20231014063629/https://www.odu.edu/engineering"
+      },
+      {
+        "datetime": "2023-11-28T03:54:20Z",
+        "uri": "https://web.archive.org/web/20231128035420/https://www.odu.edu/engineering"
+      },
+      {
+        "datetime": "2023-12-18T06:35:55Z",
+        "uri": "https://web.archive.org/web/20231218063555/https://www.odu.edu/engineering"
+      },
+      {
+        "datetime": "2024-01-17T00:35:36Z",
+        "uri": "https://web.archive.org/web/20240117003536/https://www.odu.edu/engineering"
+      },
+      {
+        "datetime": "2024-02-21T20:16:36Z",
+        "uri": "https://web.archive.org/web/20240221201636/https://www.odu.edu/engineering"
+      },
+      {
+        "datetime": "2024-02-24T09:09:09Z",
+        "uri": "https://web.archive.org/web/20240224090909/https://www.odu.edu/engineering"
+      },
+      {
+        "datetime": "2024-02-29T02:07:57Z",
+        "uri": "https://web.archive.org/web/20240229020757/https://www.odu.edu/engineering"
+      },
+      {
+        "datetime": "2024-03-04T22:02:51Z",
+        "uri": "https://web.archive.org/web/20240304220251/https://www.odu.edu/engineering"
+      },
+      {
+        "datetime": "2024-03-17T09:55:47Z",
+        "uri": "https://web.archive.org/web/20240317095547/https://www.odu.edu/engineering"
+      },
+      {
+        "datetime": "2024-03-25T13:00:05Z",
+        "uri": "https://web.archive.org/web/20240325130005/https://www.odu.edu/engineering"
+      },
+      {
+        "datetime": "2024-04-01T13:05:53Z",
+        "uri": "https://web.archive.org/web/20240401130553/https://www.odu.edu/engineering"
+      },
+      {
+        "datetime": "2024-04-04T07:26:20Z",
+        "uri": "https://web.archive.org/web/20240404072620/https://www.odu.edu/engineering"
+      },
+      {
+        "datetime": "2024-04-04T07:27:01Z",
+        "uri": "https://web.archive.org/web/20240404072701/https://www.odu.edu/engineering"
+      },
+      {
+        "datetime": "2024-04-13T05:31:02Z",
+        "uri": "https://web.archive.org/web/20240413053102/https://www.odu.edu/engineering"
+      },
+      {
+        "datetime": "2024-04-17T03:30:34Z",
+        "uri": "https://web.archive.org/web/20240417033034/https://www.odu.edu/engineering"
+      },
+      {
+        "datetime": "2024-04-27T16:08:13Z",
+        "uri": "https://web.archive.org/web/20240427160813/https://www.odu.edu/engineering"
+      },
+      {
+        "datetime": "2024-04-27T16:12:18Z",
+        "uri": "https://web.archive.org/web/20240427161218/https://www.odu.edu/engineering"
+      },
+      {
+        "datetime": "2024-05-13T13:54:21Z",
+        "uri": "https://web.archive.org/web/20240513135421/https://www.odu.edu/engineering"
+      },
+      {
+        "datetime": "2024-05-17T23:12:39Z",
+        "uri": "https://web.archive.org/web/20240517231239/http://www.odu.edu/engineering"
+      },
+      {
+        "datetime": "2024-05-23T09:37:21Z",
+        "uri": "https://web.archive.org/web/20240523093721/https://www.odu.edu/engineering"
+      },
+      {
+        "datetime": "2024-05-23T21:52:27Z",
+        "uri": "https://wayback.archive-it.org/all/20240523215227/https://www.odu.edu/engineering"
+      },
+      {
+        "datetime": "2024-06-30T13:33:59Z",
+        "uri": "https://web.archive.org/web/20240630133359/https://www.odu.edu/engineering"
+      },
+      {
+        "datetime": "2024-08-14T01:36:02Z",
+        "uri": "https://web.archive.org/web/20240814013602/https://www.odu.edu/engineering"
+      },
+      {
+        "datetime": "2024-09-17T12:45:59Z",
+        "uri": "https://web.archive.org/web/20240917124559/https://www.odu.edu/engineering"
+      },
+      {
+        "datetime": "2024-10-03T17:25:08Z",
+        "uri": "https://web.archive.org/web/20241003172508/https://www.odu.edu/engineering"
+      },
+      {
+        "datetime": "2024-10-07T11:14:29Z",
+        "uri": "https://web.archive.org/web/20241007111429/https://www.odu.edu/engineering"
+      },
+      {
+        "datetime": "2024-11-03T00:52:38Z",
+        "uri": "https://web.archive.org/web/20241103005238/https://www.odu.edu/engineering"
+      },
+      {
+        "datetime": "2024-11-27T23:53:43Z",
+        "uri": "https://web.archive.org/web/20241127235343/https://www.odu.edu/engineering"
+      },
+      {
+        "datetime": "2024-12-12T04:58:50Z",
+        "uri": "https://web.archive.org/web/20241212045850/https://www.odu.edu/engineering"
+      },
+      {
+        "datetime": "2024-12-17T20:46:00Z",
+        "uri": "https://web.archive.org/web/20241217204600/https://www.odu.edu/engineering"
+      },
+      {
+        "datetime": "2025-01-02T16:18:31Z",
+        "uri": "https://web.archive.org/web/20250102161831/https://www.odu.edu/engineering"
+      },
+      {
+        "datetime": "2025-01-13T11:46:41Z",
+        "uri": "https://web.archive.org/web/20250113114641/https://www.odu.edu/engineering"
+      },
+      {
+        "datetime": "2025-02-14T10:00:05Z",
+        "uri": "https://web.archive.org/web/20250214100005/https://www.odu.edu/engineering"
+      },
+      {
+        "datetime": "2025-02-14T14:07:46Z",
+        "uri": "https://web.archive.org/web/20250214140746/https://www.odu.edu/engineering"
+      },
+      {
+        "datetime": "2025-02-16T17:40:55Z",
+        "uri": "https://web.archive.org/web/20250216174055/https://www.odu.edu/engineering"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-19T01:28:36Z",
+      "uri": "https://web.archive.org/web/20190219012836/http://www.odu.edu:80/engineering"
+    },
+    "last": {
+      "datetime": "2025-02-16T17:40:55Z",
+      "uri": "https://web.archive.org/web/20250216174055/https://www.odu.edu/engineering"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/engineering",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/engineering",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/engineering"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/engineering"
+}

@@ -1,0 +1,394 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/tax/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/tax/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:37:22Z",
+        "uri": "https://web.archive.org/web/20120902043722/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2014-06-20T15:26:59Z",
+        "uri": "https://web.archive.org/web/20140620152659/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2014-08-20T12:28:59Z",
+        "uri": "https://web.archive.org/web/20140820122859/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2014-10-20T03:44:07Z",
+        "uri": "https://web.archive.org/web/20141020034407/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2014-12-19T15:11:36Z",
+        "uri": "https://web.archive.org/web/20141219151136/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2015-02-15T16:01:43Z",
+        "uri": "https://web.archive.org/web/20150215160143/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2015-04-17T03:20:50Z",
+        "uri": "https://web.archive.org/web/20150417032050/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2015-05-11T07:22:13Z",
+        "uri": "https://web.archive.org/web/20150511072213/http://catalog.odu.edu/courses/tax/"
+      },
+      {
+        "datetime": "2015-06-16T14:56:19Z",
+        "uri": "https://web.archive.org/web/20150616145619/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2015-07-03T05:40:41Z",
+        "uri": "https://web.archive.org/web/20150703054041/http://catalog.odu.edu/courses/tax/"
+      },
+      {
+        "datetime": "2015-08-16T01:02:51Z",
+        "uri": "https://web.archive.org/web/20150816010251/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2015-10-15T07:24:22Z",
+        "uri": "https://web.archive.org/web/20151015072422/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2015-12-14T15:30:40Z",
+        "uri": "https://web.archive.org/web/20151214153040/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2016-02-13T07:53:45Z",
+        "uri": "https://web.archive.org/web/20160213075345/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2016-04-08T22:52:37Z",
+        "uri": "https://web.archive.org/web/20160408225237/http://catalog.odu.edu/courses/tax/"
+      },
+      {
+        "datetime": "2016-04-13T18:00:05Z",
+        "uri": "https://web.archive.org/web/20160413180005/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2016-06-13T11:01:07Z",
+        "uri": "https://web.archive.org/web/20160613110107/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2016-08-13T03:33:28Z",
+        "uri": "https://web.archive.org/web/20160813033328/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2016-10-13T00:09:27Z",
+        "uri": "https://web.archive.org/web/20161013000927/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2016-12-05T05:02:12Z",
+        "uri": "https://web.archive.org/web/20161205050212/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2017-04-25T07:15:12Z",
+        "uri": "https://web.archive.org/web/20170425071512/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2017-04-26T02:24:34Z",
+        "uri": "https://web.archive.org/web/20170426022434/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2017-04-27T04:18:11Z",
+        "uri": "https://web.archive.org/web/20170427041811/http://catalog.odu.edu/courses/tax/"
+      },
+      {
+        "datetime": "2017-06-26T02:27:53Z",
+        "uri": "https://web.archive.org/web/20170626022753/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2017-07-09T01:08:59Z",
+        "uri": "https://web.archive.org/web/20170709010859/http://catalog.odu.edu/courses/tax/"
+      },
+      {
+        "datetime": "2017-08-25T14:56:38Z",
+        "uri": "https://web.archive.org/web/20170825145638/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2017-10-25T11:04:49Z",
+        "uri": "https://web.archive.org/web/20171025110449/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2017-12-25T03:07:39Z",
+        "uri": "https://web.archive.org/web/20171225030739/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2018-02-23T20:25:09Z",
+        "uri": "https://web.archive.org/web/20180223202509/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2018-03-07T07:58:10Z",
+        "uri": "https://web.archive.org/web/20180307075810/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2018-03-07T07:58:10Z",
+        "uri": "https://web.archive.org/web/20180307075810/http://catalog.odu.edu:80/courses/tax"
+      },
+      {
+        "datetime": "2018-04-07T10:27:24Z",
+        "uri": "https://web.archive.org/web/20180407102724/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2018-04-07T10:27:24Z",
+        "uri": "https://web.archive.org/web/20180407102724/http://catalog.odu.edu:80/courses/tax"
+      },
+      {
+        "datetime": "2018-04-25T22:58:38Z",
+        "uri": "https://web.archive.org/web/20180425225838/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2018-05-08T11:30:48Z",
+        "uri": "https://web.archive.org/web/20180508113048/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2018-05-08T11:30:48Z",
+        "uri": "https://web.archive.org/web/20180508113048/http://catalog.odu.edu:80/courses/tax"
+      },
+      {
+        "datetime": "2018-06-08T11:16:41Z",
+        "uri": "https://web.archive.org/web/20180608111641/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2018-06-08T11:16:41Z",
+        "uri": "https://web.archive.org/web/20180608111641/http://catalog.odu.edu:80/courses/tax"
+      },
+      {
+        "datetime": "2018-06-26T03:02:00Z",
+        "uri": "https://web.archive.org/web/20180626030200/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2018-07-09T11:44:53Z",
+        "uri": "https://web.archive.org/web/20180709114453/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2018-07-09T11:44:53Z",
+        "uri": "https://web.archive.org/web/20180709114453/http://catalog.odu.edu:80/courses/tax"
+      },
+      {
+        "datetime": "2018-08-10T04:58:45Z",
+        "uri": "https://web.archive.org/web/20180810045845/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2018-08-10T04:58:45Z",
+        "uri": "https://web.archive.org/web/20180810045845/http://catalog.odu.edu:80/courses/tax"
+      },
+      {
+        "datetime": "2018-08-27T02:41:22Z",
+        "uri": "https://web.archive.org/web/20180827024122/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2018-09-10T22:47:12Z",
+        "uri": "https://web.archive.org/web/20180910224712/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2018-09-10T22:47:12Z",
+        "uri": "https://web.archive.org/web/20180910224712/http://catalog.odu.edu:80/courses/tax"
+      },
+      {
+        "datetime": "2018-10-12T17:26:33Z",
+        "uri": "https://web.archive.org/web/20181012172633/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2018-10-12T17:26:33Z",
+        "uri": "https://web.archive.org/web/20181012172633/http://catalog.odu.edu:80/courses/tax"
+      },
+      {
+        "datetime": "2018-10-26T18:01:04Z",
+        "uri": "https://web.archive.org/web/20181026180104/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2018-11-13T01:00:02Z",
+        "uri": "https://web.archive.org/web/20181113010002/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2018-11-13T01:00:02Z",
+        "uri": "https://web.archive.org/web/20181113010002/http://catalog.odu.edu:80/courses/tax"
+      },
+      {
+        "datetime": "2018-12-14T06:04:26Z",
+        "uri": "https://web.archive.org/web/20181214060426/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2018-12-14T06:04:26Z",
+        "uri": "https://web.archive.org/web/20181214060426/http://catalog.odu.edu:80/courses/tax"
+      },
+      {
+        "datetime": "2018-12-26T04:15:07Z",
+        "uri": "https://web.archive.org/web/20181226041507/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2019-01-14T02:12:16Z",
+        "uri": "https://web.archive.org/web/20190114021216/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2019-01-14T02:12:16Z",
+        "uri": "https://web.archive.org/web/20190114021216/http://catalog.odu.edu:80/courses/tax"
+      },
+      {
+        "datetime": "2019-02-14T00:06:56Z",
+        "uri": "https://web.archive.org/web/20190214000656/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2019-02-14T00:06:56Z",
+        "uri": "https://web.archive.org/web/20190214000656/http://catalog.odu.edu:80/courses/tax"
+      },
+      {
+        "datetime": "2019-02-25T08:03:22Z",
+        "uri": "https://web.archive.org/web/20190225080322/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2019-03-17T13:51:36Z",
+        "uri": "https://web.archive.org/web/20190317135136/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2019-03-17T13:51:36Z",
+        "uri": "https://web.archive.org/web/20190317135136/http://catalog.odu.edu:80/courses/tax"
+      },
+      {
+        "datetime": "2019-04-17T08:10:30Z",
+        "uri": "https://web.archive.org/web/20190417081030/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2019-04-17T08:10:30Z",
+        "uri": "https://web.archive.org/web/20190417081030/http://catalog.odu.edu:80/courses/tax"
+      },
+      {
+        "datetime": "2019-04-27T01:50:04Z",
+        "uri": "https://web.archive.org/web/20190427015004/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2019-05-18T08:24:02Z",
+        "uri": "https://web.archive.org/web/20190518082402/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2019-05-18T08:24:02Z",
+        "uri": "https://web.archive.org/web/20190518082402/http://catalog.odu.edu:80/courses/tax"
+      },
+      {
+        "datetime": "2019-06-18T14:41:13Z",
+        "uri": "https://web.archive.org/web/20190618144113/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2019-06-18T14:41:13Z",
+        "uri": "https://web.archive.org/web/20190618144113/http://catalog.odu.edu:80/courses/tax"
+      },
+      {
+        "datetime": "2019-06-27T11:55:46Z",
+        "uri": "https://web.archive.org/web/20190627115546/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2019-07-21T14:15:13Z",
+        "uri": "https://web.archive.org/web/20190721141513/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2019-07-21T14:15:13Z",
+        "uri": "https://web.archive.org/web/20190721141513/http://catalog.odu.edu:80/courses/tax"
+      },
+      {
+        "datetime": "2019-08-21T19:34:49Z",
+        "uri": "https://web.archive.org/web/20190821193449/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2019-08-21T19:34:49Z",
+        "uri": "https://web.archive.org/web/20190821193449/http://catalog.odu.edu:80/courses/tax"
+      },
+      {
+        "datetime": "2019-08-27T04:38:38Z",
+        "uri": "https://web.archive.org/web/20190827043838/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2019-09-22T12:33:24Z",
+        "uri": "https://web.archive.org/web/20190922123324/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2019-09-22T12:33:24Z",
+        "uri": "https://web.archive.org/web/20190922123324/http://catalog.odu.edu:80/courses/tax"
+      },
+      {
+        "datetime": "2019-10-09T05:19:58Z",
+        "uri": "https://web.archive.org/web/20191009051958/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2019-10-20T16:40:44Z",
+        "uri": "https://web.archive.org/web/20191020164044/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2019-11-20T01:21:14Z",
+        "uri": "https://web.archive.org/web/20191120012114/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2019-12-20T08:16:38Z",
+        "uri": "https://web.archive.org/web/20191220081638/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2020-01-19T15:58:36Z",
+        "uri": "https://web.archive.org/web/20200119155836/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2020-02-18T19:05:54Z",
+        "uri": "https://web.archive.org/web/20200218190554/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2020-03-02T06:15:54Z",
+        "uri": "https://web.archive.org/web/20200302061554/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2020-05-01T08:55:45Z",
+        "uri": "https://web.archive.org/web/20200501085545/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2020-06-30T15:14:20Z",
+        "uri": "https://web.archive.org/web/20200630151420/http://catalog.odu.edu:80/courses/tax/"
+      },
+      {
+        "datetime": "2021-01-22T23:22:00Z",
+        "uri": "https://web.archive.org/web/20210122232200/https://catalog.odu.edu/courses/tax/"
+      },
+      {
+        "datetime": "2021-04-12T20:20:16Z",
+        "uri": "https://web.archive.org/web/20210412202016/http://catalog.odu.edu/courses/tax/"
+      },
+      {
+        "datetime": "2021-11-18T01:37:32Z",
+        "uri": "https://web.archive.org/web/20211118013732/https://catalog.odu.edu/courses/tax/"
+      },
+      {
+        "datetime": "2022-03-20T00:05:52Z",
+        "uri": "https://web.archive.org/web/20220320000552/http://catalog.odu.edu/courses/tax/"
+      },
+      {
+        "datetime": "2022-03-20T00:05:53Z",
+        "uri": "https://web.archive.org/web/20220320000553/https://catalog.odu.edu/courses/tax/"
+      },
+      {
+        "datetime": "2022-03-20T14:05:44Z",
+        "uri": "https://web.archive.org/web/20220320140544/https://catalog.odu.edu/courses/tax/"
+      },
+      {
+        "datetime": "2023-12-17T01:36:34Z",
+        "uri": "https://web.archive.org/web/20231217013634/https://catalog.odu.edu/courses/tax/"
+      },
+      {
+        "datetime": "2024-09-12T05:36:23Z",
+        "uri": "https://web.archive.org/web/20240912053623/https://catalog.odu.edu/courses/tax/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:37:22Z",
+      "uri": "https://web.archive.org/web/20120902043722/http://catalog.odu.edu:80/courses/tax/"
+    },
+    "last": {
+      "datetime": "2024-09-12T05:36:23Z",
+      "uri": "https://web.archive.org/web/20240912053623/https://catalog.odu.edu/courses/tax/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/tax/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/tax/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/tax/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/tax/"
+}

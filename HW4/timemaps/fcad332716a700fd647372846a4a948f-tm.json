@@ -1,0 +1,70 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/muse/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/muse/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-06-13T11:15:50Z",
+        "uri": "https://web.archive.org/web/20210613111550/https://catalog.odu.edu/courses/muse/"
+      },
+      {
+        "datetime": "2021-06-13T11:15:50Z",
+        "uri": "https://web.archive.org/web/20210613111550/https://catalog.odu.edu/courses/muse/"
+      },
+      {
+        "datetime": "2021-09-20T11:07:57Z",
+        "uri": "https://web.archive.org/web/20210920110757/https://catalog.odu.edu/courses/muse/"
+      },
+      {
+        "datetime": "2021-11-23T20:13:10Z",
+        "uri": "https://web.archive.org/web/20211123201310/https://catalog.odu.edu/courses/muse/"
+      },
+      {
+        "datetime": "2022-01-17T00:58:32Z",
+        "uri": "https://web.archive.org/web/20220117005832/https://catalog.odu.edu/courses/muse/"
+      },
+      {
+        "datetime": "2022-03-19T22:23:07Z",
+        "uri": "https://web.archive.org/web/20220319222307/https://catalog.odu.edu/courses/muse/"
+      },
+      {
+        "datetime": "2022-07-07T10:31:26Z",
+        "uri": "https://web.archive.org/web/20220707103126/https://catalog.odu.edu/courses/muse/"
+      },
+      {
+        "datetime": "2022-11-27T01:58:24Z",
+        "uri": "https://web.archive.org/web/20221127015824/https://catalog.odu.edu/courses/muse/"
+      },
+      {
+        "datetime": "2024-02-29T16:09:35Z",
+        "uri": "https://web.archive.org/web/20240229160935/https://catalog.odu.edu/courses/muse/"
+      },
+      {
+        "datetime": "2024-05-28T14:52:26Z",
+        "uri": "https://web.archive.org/web/20240528145226/https://catalog.odu.edu/courses/muse/"
+      },
+      {
+        "datetime": "2024-09-12T05:46:09Z",
+        "uri": "https://web.archive.org/web/20240912054609/https://catalog.odu.edu/courses/muse/"
+      },
+      {
+        "datetime": "2024-12-07T05:08:33Z",
+        "uri": "https://web.archive.org/web/20241207050833/https://catalog.odu.edu/courses/muse/"
+      }
+    ],
+    "first": {
+      "datetime": "2021-06-13T11:15:50Z",
+      "uri": "https://web.archive.org/web/20210613111550/https://catalog.odu.edu/courses/muse/"
+    },
+    "last": {
+      "datetime": "2024-12-07T05:08:33Z",
+      "uri": "https://web.archive.org/web/20241207050833/https://catalog.odu.edu/courses/muse/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/muse/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/muse/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/muse/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/muse/"
+}

@@ -1,0 +1,422 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/hum/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/hum/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:34:39Z",
+        "uri": "https://web.archive.org/web/20120902043439/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2013-05-17T08:19:43Z",
+        "uri": "https://web.archive.org/web/20130517081943/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2014-04-21T22:23:20Z",
+        "uri": "https://web.archive.org/web/20140421222320/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2014-06-21T11:39:34Z",
+        "uri": "https://web.archive.org/web/20140621113934/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2014-08-21T00:26:36Z",
+        "uri": "https://web.archive.org/web/20140821002636/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2014-10-20T16:23:02Z",
+        "uri": "https://web.archive.org/web/20141020162302/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2014-12-20T10:28:57Z",
+        "uri": "https://web.archive.org/web/20141220102857/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2015-02-15T15:57:19Z",
+        "uri": "https://web.archive.org/web/20150215155719/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2015-04-17T03:12:02Z",
+        "uri": "https://web.archive.org/web/20150417031202/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2015-05-11T07:04:45Z",
+        "uri": "https://web.archive.org/web/20150511070445/http://catalog.odu.edu/courses/hum/"
+      },
+      {
+        "datetime": "2015-06-16T14:52:00Z",
+        "uri": "https://web.archive.org/web/20150616145200/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2015-07-03T07:07:42Z",
+        "uri": "https://web.archive.org/web/20150703070742/http://catalog.odu.edu/courses/hum/"
+      },
+      {
+        "datetime": "2015-08-16T00:49:23Z",
+        "uri": "https://web.archive.org/web/20150816004923/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2015-10-15T07:12:57Z",
+        "uri": "https://web.archive.org/web/20151015071257/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2015-12-14T15:29:08Z",
+        "uri": "https://web.archive.org/web/20151214152908/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2016-02-13T07:51:02Z",
+        "uri": "https://web.archive.org/web/20160213075102/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2016-04-08T22:55:33Z",
+        "uri": "https://web.archive.org/web/20160408225533/http://catalog.odu.edu/courses/hum/"
+      },
+      {
+        "datetime": "2016-04-13T17:57:59Z",
+        "uri": "https://web.archive.org/web/20160413175759/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2016-06-13T11:02:35Z",
+        "uri": "https://web.archive.org/web/20160613110235/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2016-08-13T03:31:09Z",
+        "uri": "https://web.archive.org/web/20160813033109/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2016-10-14T18:45:43Z",
+        "uri": "https://web.archive.org/web/20161014184543/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2016-12-05T04:57:41Z",
+        "uri": "https://web.archive.org/web/20161205045741/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2017-04-08T18:15:54Z",
+        "uri": "https://web.archive.org/web/20170408181554/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2017-04-27T03:48:55Z",
+        "uri": "https://web.archive.org/web/20170427034855/http://catalog.odu.edu/courses/hum/"
+      },
+      {
+        "datetime": "2017-06-08T07:06:44Z",
+        "uri": "https://web.archive.org/web/20170608070644/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2017-07-09T00:44:09Z",
+        "uri": "https://web.archive.org/web/20170709004409/http://catalog.odu.edu/courses/hum/"
+      },
+      {
+        "datetime": "2017-08-08T13:36:59Z",
+        "uri": "https://web.archive.org/web/20170808133659/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2017-10-08T19:00:57Z",
+        "uri": "https://web.archive.org/web/20171008190057/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2017-12-09T00:21:50Z",
+        "uri": "https://web.archive.org/web/20171209002150/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2018-02-07T19:12:48Z",
+        "uri": "https://web.archive.org/web/20180207191248/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2018-02-09T21:24:31Z",
+        "uri": "https://web.archive.org/web/20180209212431/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2018-02-09T21:24:31Z",
+        "uri": "https://web.archive.org/web/20180209212431/http://catalog.odu.edu:80/courses/hum"
+      },
+      {
+        "datetime": "2018-03-12T20:14:12Z",
+        "uri": "https://web.archive.org/web/20180312201412/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2018-03-12T20:14:12Z",
+        "uri": "https://web.archive.org/web/20180312201412/http://catalog.odu.edu:80/courses/hum"
+      },
+      {
+        "datetime": "2018-04-09T18:35:09Z",
+        "uri": "https://web.archive.org/web/20180409183509/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2018-04-12T10:17:57Z",
+        "uri": "https://web.archive.org/web/20180412101757/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2018-04-12T10:17:57Z",
+        "uri": "https://web.archive.org/web/20180412101757/http://catalog.odu.edu:80/courses/hum"
+      },
+      {
+        "datetime": "2018-05-14T18:54:55Z",
+        "uri": "https://web.archive.org/web/20180514185455/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2018-05-14T18:54:55Z",
+        "uri": "https://web.archive.org/web/20180514185455/http://catalog.odu.edu:80/courses/hum"
+      },
+      {
+        "datetime": "2018-06-10T06:20:55Z",
+        "uri": "https://web.archive.org/web/20180610062055/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2018-06-15T01:05:31Z",
+        "uri": "https://web.archive.org/web/20180615010531/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2018-06-15T01:05:31Z",
+        "uri": "https://web.archive.org/web/20180615010531/http://catalog.odu.edu:80/courses/hum"
+      },
+      {
+        "datetime": "2018-07-16T08:11:23Z",
+        "uri": "https://web.archive.org/web/20180716081123/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2018-07-16T08:11:23Z",
+        "uri": "https://web.archive.org/web/20180716081123/http://catalog.odu.edu:80/courses/hum"
+      },
+      {
+        "datetime": "2018-08-10T07:53:37Z",
+        "uri": "https://web.archive.org/web/20180810075337/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2018-08-16T13:34:59Z",
+        "uri": "https://web.archive.org/web/20180816133459/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2018-08-16T13:34:59Z",
+        "uri": "https://web.archive.org/web/20180816133459/http://catalog.odu.edu:80/courses/hum"
+      },
+      {
+        "datetime": "2018-09-16T06:04:32Z",
+        "uri": "https://web.archive.org/web/20180916060432/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2018-09-16T06:04:32Z",
+        "uri": "https://web.archive.org/web/20180916060432/http://catalog.odu.edu:80/courses/hum"
+      },
+      {
+        "datetime": "2018-10-10T04:03:09Z",
+        "uri": "https://web.archive.org/web/20181010040309/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2018-10-11T04:25:12Z",
+        "uri": "https://web.archive.org/web/20181011042512/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2018-10-16T23:58:59Z",
+        "uri": "https://web.archive.org/web/20181016235859/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2018-10-16T23:58:59Z",
+        "uri": "https://web.archive.org/web/20181016235859/http://catalog.odu.edu:80/courses/hum"
+      },
+      {
+        "datetime": "2018-11-16T17:18:46Z",
+        "uri": "https://web.archive.org/web/20181116171846/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2018-11-16T17:18:46Z",
+        "uri": "https://web.archive.org/web/20181116171846/http://catalog.odu.edu:80/courses/hum"
+      },
+      {
+        "datetime": "2018-12-11T10:34:00Z",
+        "uri": "https://web.archive.org/web/20181211103400/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2018-12-17T11:38:32Z",
+        "uri": "https://web.archive.org/web/20181217113832/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2018-12-17T11:38:32Z",
+        "uri": "https://web.archive.org/web/20181217113832/http://catalog.odu.edu:80/courses/hum"
+      },
+      {
+        "datetime": "2019-01-17T13:50:23Z",
+        "uri": "https://web.archive.org/web/20190117135023/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2019-01-17T13:50:23Z",
+        "uri": "https://web.archive.org/web/20190117135023/http://catalog.odu.edu:80/courses/hum"
+      },
+      {
+        "datetime": "2019-02-11T09:40:00Z",
+        "uri": "https://web.archive.org/web/20190211094000/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2019-02-17T13:26:06Z",
+        "uri": "https://web.archive.org/web/20190217132606/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2019-02-17T13:26:06Z",
+        "uri": "https://web.archive.org/web/20190217132606/http://catalog.odu.edu:80/courses/hum"
+      },
+      {
+        "datetime": "2019-03-20T15:26:48Z",
+        "uri": "https://web.archive.org/web/20190320152648/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2019-03-20T15:26:48Z",
+        "uri": "https://web.archive.org/web/20190320152648/http://catalog.odu.edu:80/courses/hum"
+      },
+      {
+        "datetime": "2019-04-13T00:21:52Z",
+        "uri": "https://web.archive.org/web/20190413002152/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2019-04-20T17:07:11Z",
+        "uri": "https://web.archive.org/web/20190420170711/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2019-04-20T17:07:11Z",
+        "uri": "https://web.archive.org/web/20190420170711/http://catalog.odu.edu:80/courses/hum"
+      },
+      {
+        "datetime": "2019-05-22T08:12:16Z",
+        "uri": "https://web.archive.org/web/20190522081216/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2019-05-22T08:12:16Z",
+        "uri": "https://web.archive.org/web/20190522081216/http://catalog.odu.edu:80/courses/hum"
+      },
+      {
+        "datetime": "2019-06-12T16:36:44Z",
+        "uri": "https://web.archive.org/web/20190612163644/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2019-06-22T20:07:27Z",
+        "uri": "https://web.archive.org/web/20190622200727/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2019-06-22T20:07:27Z",
+        "uri": "https://web.archive.org/web/20190622200727/http://catalog.odu.edu:80/courses/hum"
+      },
+      {
+        "datetime": "2019-07-23T19:42:24Z",
+        "uri": "https://web.archive.org/web/20190723194224/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2019-07-23T19:42:24Z",
+        "uri": "https://web.archive.org/web/20190723194224/http://catalog.odu.edu:80/courses/hum"
+      },
+      {
+        "datetime": "2019-08-13T06:08:28Z",
+        "uri": "https://web.archive.org/web/20190813060828/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2019-08-23T15:29:30Z",
+        "uri": "https://web.archive.org/web/20190823152930/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2019-08-23T15:29:30Z",
+        "uri": "https://web.archive.org/web/20190823152930/http://catalog.odu.edu:80/courses/hum"
+      },
+      {
+        "datetime": "2019-09-23T10:53:52Z",
+        "uri": "https://web.archive.org/web/20190923105352/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2019-09-23T10:53:52Z",
+        "uri": "https://web.archive.org/web/20190923105352/http://catalog.odu.edu:80/courses/hum"
+      },
+      {
+        "datetime": "2019-10-09T05:26:59Z",
+        "uri": "https://web.archive.org/web/20191009052659/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2019-10-21T20:11:48Z",
+        "uri": "https://web.archive.org/web/20191021201148/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2019-11-21T02:05:18Z",
+        "uri": "https://web.archive.org/web/20191121020518/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2019-12-21T07:45:58Z",
+        "uri": "https://web.archive.org/web/20191221074558/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2020-01-20T12:13:25Z",
+        "uri": "https://web.archive.org/web/20200120121325/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2020-02-19T18:06:26Z",
+        "uri": "https://web.archive.org/web/20200219180626/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2020-03-02T06:13:28Z",
+        "uri": "https://web.archive.org/web/20200302061328/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2020-05-01T08:45:45Z",
+        "uri": "https://web.archive.org/web/20200501084545/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2020-06-30T12:17:45Z",
+        "uri": "https://web.archive.org/web/20200630121745/http://catalog.odu.edu:80/courses/hum/"
+      },
+      {
+        "datetime": "2021-01-22T22:13:19Z",
+        "uri": "https://web.archive.org/web/20210122221319/https://catalog.odu.edu/courses/hum/"
+      },
+      {
+        "datetime": "2021-04-12T20:40:18Z",
+        "uri": "https://web.archive.org/web/20210412204018/http://catalog.odu.edu/courses/hum/"
+      },
+      {
+        "datetime": "2021-09-15T05:21:25Z",
+        "uri": "https://arquivo.pt/wayback/20210915052125mp_/https://catalog.odu.edu/courses/hum/"
+      },
+      {
+        "datetime": "2022-03-19T20:06:42Z",
+        "uri": "https://web.archive.org/web/20220319200642/https://catalog.odu.edu/courses/hum/"
+      },
+      {
+        "datetime": "2022-03-19T23:40:08Z",
+        "uri": "https://web.archive.org/web/20220319234008/https://catalog.odu.edu/courses/hum/"
+      },
+      {
+        "datetime": "2022-03-19T23:40:08Z",
+        "uri": "https://web.archive.org/web/20220319234008/http://catalog.odu.edu/courses/hum/"
+      },
+      {
+        "datetime": "2022-03-20T02:46:40Z",
+        "uri": "https://web.archive.org/web/20220320024640/http://catalog.odu.edu/courses/hum/"
+      },
+      {
+        "datetime": "2022-03-20T02:46:41Z",
+        "uri": "https://web.archive.org/web/20220320024641/https://catalog.odu.edu/courses/hum/"
+      },
+      {
+        "datetime": "2024-01-11T18:14:14Z",
+        "uri": "https://web.archive.org/web/20240111181414/https://catalog.odu.edu/courses/hum/"
+      },
+      {
+        "datetime": "2024-08-13T21:04:35Z",
+        "uri": "https://web.archive.org/web/20240813210435/https://catalog.odu.edu/courses/hum/"
+      },
+      {
+        "datetime": "2024-11-11T22:52:06Z",
+        "uri": "https://web.archive.org/web/20241111225206/https://catalog.odu.edu/courses/hum/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:34:39Z",
+      "uri": "https://web.archive.org/web/20120902043439/http://catalog.odu.edu:80/courses/hum/"
+    },
+    "last": {
+      "datetime": "2024-11-11T22:52:06Z",
+      "uri": "https://web.archive.org/web/20241111225206/https://catalog.odu.edu/courses/hum/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/hum/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/hum/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/hum/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/hum/"
+}

@@ -1,0 +1,78 @@
+{
+  "original_uri": "https://www.odu.edu/ails/trio-programs",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/ails/trio-programs",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-08-13T22:19:29Z",
+        "uri": "https://web.archive.org/web/20240813221929/https://www.odu.edu/ails/trio-programs"
+      },
+      {
+        "datetime": "2024-08-30T19:11:08Z",
+        "uri": "https://web.archive.org/web/20240830191108/https://www.odu.edu/ails/trio-programs"
+      },
+      {
+        "datetime": "2024-09-12T15:44:43Z",
+        "uri": "https://web.archive.org/web/20240912154443/https://www.odu.edu/ails/trio-programs"
+      },
+      {
+        "datetime": "2024-09-16T06:37:54Z",
+        "uri": "https://web.archive.org/web/20240916063754/https://www.odu.edu/ails/trio-programs"
+      },
+      {
+        "datetime": "2024-09-17T18:05:19Z",
+        "uri": "https://web.archive.org/web/20240917180519/https://www.odu.edu/ails/trio-programs"
+      },
+      {
+        "datetime": "2024-10-07T10:39:09Z",
+        "uri": "https://web.archive.org/web/20241007103909/https://www.odu.edu/ails/trio-programs"
+      },
+      {
+        "datetime": "2024-10-14T02:40:30Z",
+        "uri": "https://web.archive.org/web/20241014024030/https://www.odu.edu/ails/trio-programs"
+      },
+      {
+        "datetime": "2024-11-03T00:57:17Z",
+        "uri": "https://web.archive.org/web/20241103005717/https://www.odu.edu/ails/trio-programs"
+      },
+      {
+        "datetime": "2024-11-04T14:13:20Z",
+        "uri": "https://web.archive.org/web/20241104141320/https://www.odu.edu/ails/trio-programs"
+      },
+      {
+        "datetime": "2024-11-26T20:36:03Z",
+        "uri": "https://web.archive.org/web/20241126203603/https://www.odu.edu/ails/trio-programs"
+      },
+      {
+        "datetime": "2024-12-19T13:42:53Z",
+        "uri": "https://web.archive.org/web/20241219134253/https://www.odu.edu/ails/trio-programs"
+      },
+      {
+        "datetime": "2024-12-20T03:01:38Z",
+        "uri": "https://web.archive.org/web/20241220030138/https://www.odu.edu/ails/trio-programs"
+      },
+      {
+        "datetime": "2024-12-24T17:54:06Z",
+        "uri": "https://web.archive.org/web/20241224175406/https://www.odu.edu/ails/trio-programs"
+      },
+      {
+        "datetime": "2025-02-14T10:00:01Z",
+        "uri": "https://web.archive.org/web/20250214100001/https://www.odu.edu/ails/trio-programs"
+      }
+    ],
+    "first": {
+      "datetime": "2024-08-13T22:19:29Z",
+      "uri": "https://web.archive.org/web/20240813221929/https://www.odu.edu/ails/trio-programs"
+    },
+    "last": {
+      "datetime": "2025-02-14T10:00:01Z",
+      "uri": "https://web.archive.org/web/20250214100001/https://www.odu.edu/ails/trio-programs"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/ails/trio-programs",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/ails/trio-programs",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/ails/trio-programs"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/ails/trio-programs"
+}

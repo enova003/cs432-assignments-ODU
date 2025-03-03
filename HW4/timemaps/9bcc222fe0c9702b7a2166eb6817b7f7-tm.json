@@ -1,0 +1,102 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/gdes/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/gdes/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-07-15T04:30:55Z",
+        "uri": "https://web.archive.org/web/20190715043055/http://catalog.odu.edu:80/courses/gdes/"
+      },
+      {
+        "datetime": "2019-09-13T18:12:10Z",
+        "uri": "https://web.archive.org/web/20190913181210/http://catalog.odu.edu:80/courses/gdes/"
+      },
+      {
+        "datetime": "2019-10-09T05:26:14Z",
+        "uri": "https://web.archive.org/web/20191009052614/http://catalog.odu.edu:80/courses/gdes/"
+      },
+      {
+        "datetime": "2019-12-08T12:33:31Z",
+        "uri": "https://web.archive.org/web/20191208123331/http://catalog.odu.edu:80/courses/gdes/"
+      },
+      {
+        "datetime": "2020-03-02T06:12:43Z",
+        "uri": "https://web.archive.org/web/20200302061243/http://catalog.odu.edu:80/courses/gdes/"
+      },
+      {
+        "datetime": "2020-05-01T08:44:40Z",
+        "uri": "https://web.archive.org/web/20200501084440/http://catalog.odu.edu:80/courses/gdes/"
+      },
+      {
+        "datetime": "2020-06-30T12:16:39Z",
+        "uri": "https://web.archive.org/web/20200630121639/http://catalog.odu.edu:80/courses/gdes/"
+      },
+      {
+        "datetime": "2021-01-22T22:19:35Z",
+        "uri": "https://web.archive.org/web/20210122221935/https://catalog.odu.edu/courses/gdes/"
+      },
+      {
+        "datetime": "2021-04-12T20:35:01Z",
+        "uri": "https://web.archive.org/web/20210412203501/http://catalog.odu.edu/courses/gdes/"
+      },
+      {
+        "datetime": "2021-09-15T05:19:40Z",
+        "uri": "https://arquivo.pt/wayback/20210915051940mp_/https://catalog.odu.edu/courses/gdes/"
+      },
+      {
+        "datetime": "2021-11-03T21:58:13Z",
+        "uri": "https://web.archive.org/web/20211103215813/https://catalog.odu.edu/courses/gdes/"
+      },
+      {
+        "datetime": "2021-11-08T18:19:16Z",
+        "uri": "https://web.archive.org/web/20211108181916/https://catalog.odu.edu/courses/gdes/"
+      },
+      {
+        "datetime": "2021-11-16T00:06:01Z",
+        "uri": "https://arquivo.pt/wayback/20211116000601mp_/http://catalog.odu.edu/courses/gdes/"
+      },
+      {
+        "datetime": "2021-11-16T00:06:01Z",
+        "uri": "https://web.archive.org/web/20211116000601/http://catalog.odu.edu/courses/gdes/"
+      },
+      {
+        "datetime": "2021-11-16T00:06:04Z",
+        "uri": "https://arquivo.pt/wayback/20211116000604mp_/https://catalog.odu.edu/courses/gdes/"
+      },
+      {
+        "datetime": "2021-11-16T00:06:04Z",
+        "uri": "https://web.archive.org/web/20211116000604/https://catalog.odu.edu/courses/gdes/"
+      },
+      {
+        "datetime": "2022-03-19T20:08:28Z",
+        "uri": "https://web.archive.org/web/20220319200828/https://catalog.odu.edu/courses/gdes/"
+      },
+      {
+        "datetime": "2022-12-09T00:19:14Z",
+        "uri": "https://web.archive.org/web/20221209001914/https://catalog.odu.edu/courses/gdes/"
+      },
+      {
+        "datetime": "2023-12-20T22:59:19Z",
+        "uri": "https://web.archive.org/web/20231220225919/https://catalog.odu.edu/courses/gdes/"
+      },
+      {
+        "datetime": "2024-07-26T19:29:54Z",
+        "uri": "https://web.archive.org/web/20240726192954/http://catalog.odu.edu/courses/gdes/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-07-15T04:30:55Z",
+      "uri": "https://web.archive.org/web/20190715043055/http://catalog.odu.edu:80/courses/gdes/"
+    },
+    "last": {
+      "datetime": "2024-07-26T19:29:54Z",
+      "uri": "https://web.archive.org/web/20240726192954/http://catalog.odu.edu/courses/gdes/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/gdes/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/gdes/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/gdes/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/gdes/"
+}

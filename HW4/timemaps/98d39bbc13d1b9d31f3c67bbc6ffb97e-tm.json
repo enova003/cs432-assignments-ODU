@@ -1,0 +1,54 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/health-sciences/rehabilitation-sciences/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/health-sciences/rehabilitation-sciences/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-21T18:27:36Z",
+        "uri": "https://web.archive.org/web/20230921182736/https://catalog.odu.edu/graduate/health-sciences/rehabilitation-sciences/"
+      },
+      {
+        "datetime": "2023-09-27T02:46:12Z",
+        "uri": "https://web.archive.org/web/20230927024612/https://catalog.odu.edu/graduate/health-sciences/rehabilitation-sciences/"
+      },
+      {
+        "datetime": "2024-02-20T10:43:30Z",
+        "uri": "https://web.archive.org/web/20240220104330/https://catalog.odu.edu/graduate/health-sciences/rehabilitation-sciences/"
+      },
+      {
+        "datetime": "2024-02-25T07:55:39Z",
+        "uri": "https://web.archive.org/web/20240225075539/http://catalog.odu.edu/graduate/health-sciences/rehabilitation-sciences/"
+      },
+      {
+        "datetime": "2024-02-29T00:41:03Z",
+        "uri": "https://web.archive.org/web/20240229004103/https://catalog.odu.edu/graduate/health-sciences/rehabilitation-sciences/"
+      },
+      {
+        "datetime": "2024-02-29T16:09:31Z",
+        "uri": "https://web.archive.org/web/20240229160931/https://catalog.odu.edu/graduate/health-sciences/rehabilitation-sciences/"
+      },
+      {
+        "datetime": "2024-03-04T05:55:58Z",
+        "uri": "https://web.archive.org/web/20240304055558/https://catalog.odu.edu/graduate/health-sciences/rehabilitation-sciences/"
+      },
+      {
+        "datetime": "2024-10-04T15:12:22Z",
+        "uri": "https://web.archive.org/web/20241004151222/https://catalog.odu.edu/graduate/health-sciences/rehabilitation-sciences/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-21T18:27:36Z",
+      "uri": "https://web.archive.org/web/20230921182736/https://catalog.odu.edu/graduate/health-sciences/rehabilitation-sciences/"
+    },
+    "last": {
+      "datetime": "2024-10-04T15:12:22Z",
+      "uri": "https://web.archive.org/web/20241004151222/https://catalog.odu.edu/graduate/health-sciences/rehabilitation-sciences/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/health-sciences/rehabilitation-sciences/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/health-sciences/rehabilitation-sciences/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/health-sciences/rehabilitation-sciences/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/health-sciences/rehabilitation-sciences/"
+}

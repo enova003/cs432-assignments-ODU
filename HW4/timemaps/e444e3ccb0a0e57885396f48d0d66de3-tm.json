@@ -1,0 +1,118 @@
+{
+  "original_uri": "https://online.odu.edu/academics/exams-and-proctors",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/academics/exams-and-proctors",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-09-23T09:02:47Z",
+        "uri": "https://web.archive.org/web/20210923090247/https://online.odu.edu/academics/exams-and-proctors"
+      },
+      {
+        "datetime": "2021-09-24T16:21:51Z",
+        "uri": "https://web.archive.org/web/20210924162151/https://online.odu.edu/academics/exams-and-proctors"
+      },
+      {
+        "datetime": "2021-09-28T14:11:30Z",
+        "uri": "https://web.archive.org/web/20210928141130/https://online.odu.edu/academics/exams-and-proctors"
+      },
+      {
+        "datetime": "2021-11-17T14:50:24Z",
+        "uri": "https://arquivo.pt/wayback/20211117145024mp_/https://online.odu.edu/academics/exams-and-proctors"
+      },
+      {
+        "datetime": "2021-11-17T14:50:24Z",
+        "uri": "https://web.archive.org/web/20211117145024/https://online.odu.edu/academics/exams-and-proctors"
+      },
+      {
+        "datetime": "2021-12-09T01:46:02Z",
+        "uri": "https://web.archive.org/web/20211209014602/https://online.odu.edu/academics/exams-and-proctors"
+      },
+      {
+        "datetime": "2021-12-09T09:23:59Z",
+        "uri": "https://web.archive.org/web/20211209092359/https://online.odu.edu/academics/exams-and-proctors"
+      },
+      {
+        "datetime": "2022-01-20T08:51:58Z",
+        "uri": "https://web.archive.org/web/20220120085158/https://online.odu.edu/academics/exams-and-proctors"
+      },
+      {
+        "datetime": "2022-03-19T21:05:22Z",
+        "uri": "https://web.archive.org/web/20220319210522/https://online.odu.edu/academics/exams-and-proctors"
+      },
+      {
+        "datetime": "2022-03-19T22:23:45Z",
+        "uri": "https://web.archive.org/web/20220319222345/https://online.odu.edu/academics/exams-and-proctors"
+      },
+      {
+        "datetime": "2022-05-27T22:28:13Z",
+        "uri": "https://web.archive.org/web/20220527222813/https://online.odu.edu/academics/exams-and-proctors"
+      },
+      {
+        "datetime": "2022-08-08T17:24:33Z",
+        "uri": "https://web.archive.org/web/20220808172433/https://online.odu.edu/academics/exams-and-proctors"
+      },
+      {
+        "datetime": "2022-08-13T02:47:46Z",
+        "uri": "https://web.archive.org/web/20220813024746/https://online.odu.edu/academics/exams-and-proctors"
+      },
+      {
+        "datetime": "2022-12-02T13:25:17Z",
+        "uri": "https://web.archive.org/web/20221202132517/https://online.odu.edu/academics/exams-and-proctors"
+      },
+      {
+        "datetime": "2023-03-25T11:22:00Z",
+        "uri": "https://web.archive.org/web/20230325112200/https://online.odu.edu/academics/exams-and-proctors"
+      },
+      {
+        "datetime": "2023-09-24T18:18:24Z",
+        "uri": "https://web.archive.org/web/20230924181824/https://online.odu.edu/academics/exams-and-proctors"
+      },
+      {
+        "datetime": "2023-09-27T21:16:09Z",
+        "uri": "https://web.archive.org/web/20230927211609/https://online.odu.edu/academics/exams-and-proctors"
+      },
+      {
+        "datetime": "2023-10-02T22:07:12Z",
+        "uri": "https://web.archive.org/web/20231002220712/https://online.odu.edu/academics/exams-and-proctors"
+      },
+      {
+        "datetime": "2024-02-22T11:29:18Z",
+        "uri": "https://web.archive.org/web/20240222112918/https://online.odu.edu/academics/exams-and-proctors"
+      },
+      {
+        "datetime": "2024-06-13T23:57:33Z",
+        "uri": "https://web.archive.org/web/20240613235733/https://online.odu.edu/academics/exams-and-proctors"
+      },
+      {
+        "datetime": "2024-09-13T05:31:20Z",
+        "uri": "https://web.archive.org/web/20240913053120/https://online.odu.edu/academics/exams-and-proctors"
+      },
+      {
+        "datetime": "2024-11-05T13:30:19Z",
+        "uri": "https://web.archive.org/web/20241105133019/https://online.odu.edu/academics/exams-and-proctors"
+      },
+      {
+        "datetime": "2024-12-07T23:27:46Z",
+        "uri": "https://web.archive.org/web/20241207232746/https://online.odu.edu/academics/exams-and-proctors"
+      },
+      {
+        "datetime": "2025-01-19T13:02:56Z",
+        "uri": "https://web.archive.org/web/20250119130256/https://online.odu.edu/academics/exams-and-proctors"
+      }
+    ],
+    "first": {
+      "datetime": "2021-09-23T09:02:47Z",
+      "uri": "https://web.archive.org/web/20210923090247/https://online.odu.edu/academics/exams-and-proctors"
+    },
+    "last": {
+      "datetime": "2025-01-19T13:02:56Z",
+      "uri": "https://web.archive.org/web/20250119130256/https://online.odu.edu/academics/exams-and-proctors"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/academics/exams-and-proctors",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/academics/exams-and-proctors",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/academics/exams-and-proctors"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/academics/exams-and-proctors"
+}

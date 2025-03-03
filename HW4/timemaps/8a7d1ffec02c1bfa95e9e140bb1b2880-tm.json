@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/education/teacher-education/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/education/teacher-education/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T01:41:28Z",
+        "uri": "https://web.archive.org/web/20230927014128/https://catalog.odu.edu/graduate/education/teacher-education/"
+      },
+      {
+        "datetime": "2023-10-01T02:47:31Z",
+        "uri": "https://web.archive.org/web/20231001024731/https://catalog.odu.edu/graduate/education/teacher-education/"
+      },
+      {
+        "datetime": "2024-02-29T16:09:42Z",
+        "uri": "https://web.archive.org/web/20240229160942/https://catalog.odu.edu/graduate/education/teacher-education/"
+      },
+      {
+        "datetime": "2024-03-04T04:51:03Z",
+        "uri": "https://web.archive.org/web/20240304045103/https://catalog.odu.edu/graduate/education/teacher-education/"
+      },
+      {
+        "datetime": "2024-04-02T00:35:12Z",
+        "uri": "https://web.archive.org/web/20240402003512/https://catalog.odu.edu/graduate/education/teacher-education/"
+      },
+      {
+        "datetime": "2024-04-02T03:56:13Z",
+        "uri": "https://web.archive.org/web/20240402035613/http://catalog.odu.edu/graduate/education/teacher-education/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T01:41:28Z",
+      "uri": "https://web.archive.org/web/20230927014128/https://catalog.odu.edu/graduate/education/teacher-education/"
+    },
+    "last": {
+      "datetime": "2024-04-02T03:56:13Z",
+      "uri": "https://web.archive.org/web/20240402035613/http://catalog.odu.edu/graduate/education/teacher-education/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/education/teacher-education/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/education/teacher-education/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/education/teacher-education/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/education/teacher-education/"
+}

@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/policies/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/policies/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T02:46:52Z",
+        "uri": "https://web.archive.org/web/20230927024652/https://catalog.odu.edu/graduate/policies/"
+      },
+      {
+        "datetime": "2023-12-17T01:36:37Z",
+        "uri": "https://web.archive.org/web/20231217013637/https://catalog.odu.edu/graduate/policies/"
+      },
+      {
+        "datetime": "2024-02-26T19:51:46Z",
+        "uri": "https://web.archive.org/web/20240226195146/http://catalog.odu.edu/graduate/policies/"
+      },
+      {
+        "datetime": "2024-02-29T00:40:48Z",
+        "uri": "https://web.archive.org/web/20240229004048/https://catalog.odu.edu/graduate/policies/"
+      },
+      {
+        "datetime": "2024-03-01T04:26:58Z",
+        "uri": "https://web.archive.org/web/20240301042658/https://catalog.odu.edu/graduate/policies/"
+      },
+      {
+        "datetime": "2024-03-04T05:56:37Z",
+        "uri": "https://web.archive.org/web/20240304055637/https://catalog.odu.edu/graduate/policies/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T02:46:52Z",
+      "uri": "https://web.archive.org/web/20230927024652/https://catalog.odu.edu/graduate/policies/"
+    },
+    "last": {
+      "datetime": "2024-03-04T05:56:37Z",
+      "uri": "https://web.archive.org/web/20240304055637/https://catalog.odu.edu/graduate/policies/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/policies/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/policies/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/policies/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/policies/"
+}

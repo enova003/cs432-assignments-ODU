@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/training-development-minor/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/training-development-minor/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-07-18T08:04:47Z",
+        "uri": "https://web.archive.org/web/20240718080447/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/training-development-minor/"
+      },
+      {
+        "datetime": "2024-10-13T06:55:41Z",
+        "uri": "https://web.archive.org/web/20241013065541/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/training-development-minor/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-07-18T08:04:47Z",
+      "uri": "https://web.archive.org/web/20240718080447/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/training-development-minor/"
+    },
+    "last": {
+      "datetime": "2024-10-13T06:55:41Z",
+      "uri": "https://web.archive.org/web/20241013065541/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/training-development-minor/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/training-development-minor/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/training-development-minor/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/training-development-minor/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/training-development-minor/"
+}

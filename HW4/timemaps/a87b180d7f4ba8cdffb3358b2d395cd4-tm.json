@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/arts-letters/english/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/arts-letters/english/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T02:27:29Z",
+        "uri": "https://web.archive.org/web/20230927022729/https://catalog.odu.edu/graduate/arts-letters/english/"
+      },
+      {
+        "datetime": "2023-09-28T20:55:07Z",
+        "uri": "https://web.archive.org/web/20230928205507/https://catalog.odu.edu/graduate/arts-letters/english/"
+      },
+      {
+        "datetime": "2023-12-08T06:22:17Z",
+        "uri": "https://web.archive.org/web/20231208062217/https://catalog.odu.edu/graduate/arts-letters/english/"
+      },
+      {
+        "datetime": "2023-12-09T23:04:06Z",
+        "uri": "https://web.archive.org/web/20231209230406/https://catalog.odu.edu/graduate/arts-letters/english/"
+      },
+      {
+        "datetime": "2023-12-09T23:04:43Z",
+        "uri": "https://web.archive.org/web/20231209230443/http://catalog.odu.edu/graduate/arts-letters/english/"
+      },
+      {
+        "datetime": "2024-03-04T05:33:14Z",
+        "uri": "https://web.archive.org/web/20240304053314/https://catalog.odu.edu/graduate/arts-letters/english/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T02:27:29Z",
+      "uri": "https://web.archive.org/web/20230927022729/https://catalog.odu.edu/graduate/arts-letters/english/"
+    },
+    "last": {
+      "datetime": "2024-03-04T05:33:14Z",
+      "uri": "https://web.archive.org/web/20240304053314/https://catalog.odu.edu/graduate/arts-letters/english/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/arts-letters/english/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/arts-letters/english/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/arts-letters/english/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/arts-letters/english/"
+}

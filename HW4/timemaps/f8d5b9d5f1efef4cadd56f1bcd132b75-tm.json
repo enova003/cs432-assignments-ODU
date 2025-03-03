@@ -1,0 +1,758 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/studentfinancialaid/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/studentfinancialaid/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-06-25T03:41:25Z",
+        "uri": "https://web.archive.org/web/20120625034125/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2012-08-24T10:54:40Z",
+        "uri": "https://web.archive.org/web/20120824105440/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2012-10-24T03:04:49Z",
+        "uri": "https://web.archive.org/web/20121024030449/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2013-01-06T08:55:26Z",
+        "uri": "https://web.archive.org/web/20130106085526/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2013-05-08T06:59:51Z",
+        "uri": "https://web.archive.org/web/20130508065951/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2013-06-17T11:14:13Z",
+        "uri": "https://web.archive.org/web/20130617111413/http://catalog.odu.edu/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2013-07-09T03:14:29Z",
+        "uri": "https://web.archive.org/web/20130709031429/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2013-11-07T07:31:47Z",
+        "uri": "https://web.archive.org/web/20131107073147/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2013-11-07T22:43:40Z",
+        "uri": "https://web.archive.org/web/20131107224340/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2013-11-07T22:43:40Z",
+        "uri": "https://web.archive.org/web/20131107224340/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2013-12-09T07:31:58Z",
+        "uri": "https://web.archive.org/web/20131209073158/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2013-12-09T07:31:58Z",
+        "uri": "https://web.archive.org/web/20131209073158/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2014-07-08T10:12:05Z",
+        "uri": "https://web.archive.org/web/20140708101205/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2014-07-08T10:12:05Z",
+        "uri": "https://web.archive.org/web/20140708101205/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2014-08-11T18:00:54Z",
+        "uri": "https://web.archive.org/web/20140811180054/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2014-08-11T18:00:54Z",
+        "uri": "https://web.archive.org/web/20140811180054/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2014-09-08T16:43:00Z",
+        "uri": "https://web.archive.org/web/20140908164300/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2014-09-13T16:39:09Z",
+        "uri": "https://web.archive.org/web/20140913163909/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2014-09-13T16:39:09Z",
+        "uri": "https://web.archive.org/web/20140913163909/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2014-12-02T01:53:33Z",
+        "uri": "https://web.archive.org/web/20141202015333/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2014-12-02T01:53:33Z",
+        "uri": "https://web.archive.org/web/20141202015333/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2015-01-01T23:12:14Z",
+        "uri": "https://web.archive.org/web/20150101231214/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2015-01-01T23:12:14Z",
+        "uri": "https://web.archive.org/web/20150101231214/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2015-01-07T19:07:07Z",
+        "uri": "https://web.archive.org/web/20150107190707/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2015-02-03T09:44:05Z",
+        "uri": "https://web.archive.org/web/20150203094405/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2015-02-03T09:44:05Z",
+        "uri": "https://web.archive.org/web/20150203094405/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2015-02-16T03:59:53Z",
+        "uri": "https://web.archive.org/web/20150216035953/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2015-02-26T12:36:36Z",
+        "uri": "https://web.archive.org/web/20150226123636/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2015-02-26T12:36:36Z",
+        "uri": "https://web.archive.org/web/20150226123636/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2015-03-29T05:27:37Z",
+        "uri": "https://web.archive.org/web/20150329052737/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2015-03-29T05:27:37Z",
+        "uri": "https://web.archive.org/web/20150329052737/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2015-04-17T10:57:50Z",
+        "uri": "https://web.archive.org/web/20150417105750/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2015-04-29T00:38:30Z",
+        "uri": "https://web.archive.org/web/20150429003830/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2015-04-29T00:38:30Z",
+        "uri": "https://web.archive.org/web/20150429003830/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2015-05-11T07:29:11Z",
+        "uri": "https://web.archive.org/web/20150511072911/http://catalog.odu.edu/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2015-05-29T17:42:38Z",
+        "uri": "https://web.archive.org/web/20150529174238/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2015-05-29T17:42:38Z",
+        "uri": "https://web.archive.org/web/20150529174238/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2015-06-17T01:00:22Z",
+        "uri": "https://web.archive.org/web/20150617010022/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2015-06-29T12:49:46Z",
+        "uri": "https://web.archive.org/web/20150629124946/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2015-06-29T12:49:46Z",
+        "uri": "https://web.archive.org/web/20150629124946/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2015-07-03T06:36:46Z",
+        "uri": "https://web.archive.org/web/20150703063646/http://catalog.odu.edu/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2015-08-03T17:03:20Z",
+        "uri": "https://web.archive.org/web/20150803170320/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2015-08-03T17:03:20Z",
+        "uri": "https://web.archive.org/web/20150803170320/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2015-08-16T10:20:33Z",
+        "uri": "https://web.archive.org/web/20150816102033/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2015-09-03T06:23:12Z",
+        "uri": "https://web.archive.org/web/20150903062312/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2015-09-03T06:23:12Z",
+        "uri": "https://web.archive.org/web/20150903062312/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2015-10-04T15:03:20Z",
+        "uri": "https://web.archive.org/web/20151004150320/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2015-10-04T15:03:20Z",
+        "uri": "https://web.archive.org/web/20151004150320/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2015-11-04T04:00:41Z",
+        "uri": "https://web.archive.org/web/20151104040041/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2015-11-04T04:00:41Z",
+        "uri": "https://web.archive.org/web/20151104040041/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2015-12-05T09:55:40Z",
+        "uri": "https://web.archive.org/web/20151205095540/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2015-12-05T09:55:40Z",
+        "uri": "https://web.archive.org/web/20151205095540/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2015-12-15T12:19:13Z",
+        "uri": "https://web.archive.org/web/20151215121913/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2016-01-04T23:15:47Z",
+        "uri": "https://web.archive.org/web/20160104231547/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2016-01-04T23:15:47Z",
+        "uri": "https://web.archive.org/web/20160104231547/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2016-02-14T06:43:01Z",
+        "uri": "https://web.archive.org/web/20160214064301/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2016-04-08T23:20:40Z",
+        "uri": "https://web.archive.org/web/20160408232040/http://catalog.odu.edu/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2016-04-15T08:07:54Z",
+        "uri": "https://web.archive.org/web/20160415080754/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2016-04-22T08:21:13Z",
+        "uri": "https://web.archive.org/web/20160422082113/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2016-04-22T08:21:13Z",
+        "uri": "https://web.archive.org/web/20160422082113/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2016-05-23T15:43:55Z",
+        "uri": "https://web.archive.org/web/20160523154355/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2016-05-23T15:43:55Z",
+        "uri": "https://web.archive.org/web/20160523154355/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2016-06-23T21:00:54Z",
+        "uri": "https://web.archive.org/web/20160623210054/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2016-06-23T21:00:54Z",
+        "uri": "https://web.archive.org/web/20160623210054/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2016-07-24T22:14:46Z",
+        "uri": "https://web.archive.org/web/20160724221446/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2016-07-24T22:14:46Z",
+        "uri": "https://web.archive.org/web/20160724221446/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2016-07-26T04:39:48Z",
+        "uri": "https://web.archive.org/web/20160726043948/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2016-07-26T04:39:48Z",
+        "uri": "https://web.archive.org/web/20160726043948/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2016-08-15T00:05:49Z",
+        "uri": "https://web.archive.org/web/20160815000549/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2016-08-26T08:51:40Z",
+        "uri": "https://web.archive.org/web/20160826085140/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2016-08-26T08:51:40Z",
+        "uri": "https://web.archive.org/web/20160826085140/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2016-09-26T05:23:07Z",
+        "uri": "https://web.archive.org/web/20160926052307/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2016-09-26T05:23:07Z",
+        "uri": "https://web.archive.org/web/20160926052307/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2016-10-14T18:45:02Z",
+        "uri": "https://web.archive.org/web/20161014184502/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2016-10-27T10:34:29Z",
+        "uri": "https://web.archive.org/web/20161027103429/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2016-10-27T10:34:29Z",
+        "uri": "https://web.archive.org/web/20161027103429/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2016-12-05T05:12:37Z",
+        "uri": "https://web.archive.org/web/20161205051237/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2016-12-20T07:50:43Z",
+        "uri": "https://web.archive.org/web/20161220075043/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2016-12-20T07:50:43Z",
+        "uri": "https://web.archive.org/web/20161220075043/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2017-04-08T18:02:15Z",
+        "uri": "https://web.archive.org/web/20170408180215/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2017-04-27T04:35:16Z",
+        "uri": "https://web.archive.org/web/20170427043516/http://catalog.odu.edu/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2017-05-04T07:35:35Z",
+        "uri": "https://web.archive.org/web/20170504073535/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2017-05-04T07:35:35Z",
+        "uri": "https://web.archive.org/web/20170504073535/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2017-06-04T03:27:33Z",
+        "uri": "https://web.archive.org/web/20170604032733/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2017-06-04T03:27:33Z",
+        "uri": "https://web.archive.org/web/20170604032733/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2017-06-08T07:12:43Z",
+        "uri": "https://web.archive.org/web/20170608071243/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2017-07-04T22:40:23Z",
+        "uri": "https://web.archive.org/web/20170704224023/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2017-07-04T22:40:23Z",
+        "uri": "https://web.archive.org/web/20170704224023/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2017-07-09T01:19:22Z",
+        "uri": "https://web.archive.org/web/20170709011922/http://catalog.odu.edu/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2017-08-08T13:44:10Z",
+        "uri": "https://web.archive.org/web/20170808134410/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2017-08-14T00:58:27Z",
+        "uri": "https://web.archive.org/web/20170814005827/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2017-08-14T00:58:27Z",
+        "uri": "https://web.archive.org/web/20170814005827/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2017-09-13T15:17:40Z",
+        "uri": "https://web.archive.org/web/20170913151740/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2017-09-13T15:17:40Z",
+        "uri": "https://web.archive.org/web/20170913151740/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2017-10-08T18:56:07Z",
+        "uri": "https://web.archive.org/web/20171008185607/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2017-10-14T02:44:53Z",
+        "uri": "https://web.archive.org/web/20171014024453/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2017-10-14T02:44:53Z",
+        "uri": "https://web.archive.org/web/20171014024453/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2017-10-15T17:59:59Z",
+        "uri": "https://web.archive.org/web/20171015175959/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2017-10-15T17:59:59Z",
+        "uri": "https://web.archive.org/web/20171015175959/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2017-11-15T16:57:35Z",
+        "uri": "https://web.archive.org/web/20171115165735/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2017-11-15T16:57:35Z",
+        "uri": "https://web.archive.org/web/20171115165735/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2017-12-08T14:48:34Z",
+        "uri": "https://web.archive.org/web/20171208144834/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2017-12-16T08:26:31Z",
+        "uri": "https://web.archive.org/web/20171216082631/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2017-12-16T08:26:31Z",
+        "uri": "https://web.archive.org/web/20171216082631/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2018-01-16T11:55:56Z",
+        "uri": "https://web.archive.org/web/20180116115556/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2018-01-16T11:55:56Z",
+        "uri": "https://web.archive.org/web/20180116115556/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2018-02-07T18:49:06Z",
+        "uri": "https://web.archive.org/web/20180207184906/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2018-02-16T23:53:12Z",
+        "uri": "https://web.archive.org/web/20180216235312/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2018-02-16T23:53:12Z",
+        "uri": "https://web.archive.org/web/20180216235312/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2018-03-19T22:26:19Z",
+        "uri": "https://web.archive.org/web/20180319222619/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2018-03-19T22:26:19Z",
+        "uri": "https://web.archive.org/web/20180319222619/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2018-03-20T22:44:06Z",
+        "uri": "https://web.archive.org/web/20180320224406/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2018-03-20T22:44:06Z",
+        "uri": "https://web.archive.org/web/20180320224406/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2018-04-10T18:40:48Z",
+        "uri": "https://web.archive.org/web/20180410184048/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2018-04-20T22:54:48Z",
+        "uri": "https://web.archive.org/web/20180420225448/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2018-04-20T22:54:48Z",
+        "uri": "https://web.archive.org/web/20180420225448/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2018-05-22T15:43:35Z",
+        "uri": "https://web.archive.org/web/20180522154335/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2018-05-22T15:43:35Z",
+        "uri": "https://web.archive.org/web/20180522154335/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2018-06-10T02:41:26Z",
+        "uri": "https://web.archive.org/web/20180610024126/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2018-06-22T12:55:36Z",
+        "uri": "https://web.archive.org/web/20180622125536/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2018-06-22T12:55:36Z",
+        "uri": "https://web.archive.org/web/20180622125536/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2018-07-23T16:52:42Z",
+        "uri": "https://web.archive.org/web/20180723165242/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2018-07-23T16:52:42Z",
+        "uri": "https://web.archive.org/web/20180723165242/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2018-08-23T20:12:07Z",
+        "uri": "https://web.archive.org/web/20180823201207/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2018-08-23T20:12:07Z",
+        "uri": "https://web.archive.org/web/20180823201207/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2018-09-23T23:23:47Z",
+        "uri": "https://web.archive.org/web/20180923232347/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2018-09-23T23:23:47Z",
+        "uri": "https://web.archive.org/web/20180923232347/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2018-10-09T18:04:24Z",
+        "uri": "https://web.archive.org/web/20181009180424/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2018-10-25T10:25:51Z",
+        "uri": "https://web.archive.org/web/20181025102551/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2018-10-25T10:25:51Z",
+        "uri": "https://web.archive.org/web/20181025102551/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2018-11-25T13:43:25Z",
+        "uri": "https://web.archive.org/web/20181125134325/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2018-11-25T13:43:25Z",
+        "uri": "https://web.archive.org/web/20181125134325/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2018-12-10T15:11:26Z",
+        "uri": "https://web.archive.org/web/20181210151126/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2018-12-26T12:13:31Z",
+        "uri": "https://web.archive.org/web/20181226121331/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2018-12-26T12:13:31Z",
+        "uri": "https://web.archive.org/web/20181226121331/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2019-01-26T18:08:52Z",
+        "uri": "https://web.archive.org/web/20190126180852/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2019-01-26T18:08:52Z",
+        "uri": "https://web.archive.org/web/20190126180852/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2019-02-10T00:34:14Z",
+        "uri": "https://web.archive.org/web/20190210003414/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2019-02-27T00:00:38Z",
+        "uri": "https://web.archive.org/web/20190227000038/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2019-02-27T00:00:38Z",
+        "uri": "https://web.archive.org/web/20190227000038/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2019-03-30T03:50:03Z",
+        "uri": "https://web.archive.org/web/20190330035003/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2019-03-30T03:50:03Z",
+        "uri": "https://web.archive.org/web/20190330035003/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2019-04-30T05:19:10Z",
+        "uri": "https://web.archive.org/web/20190430051910/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2019-04-30T05:19:10Z",
+        "uri": "https://web.archive.org/web/20190430051910/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2019-06-01T19:01:46Z",
+        "uri": "https://web.archive.org/web/20190601190146/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2019-06-01T19:01:46Z",
+        "uri": "https://web.archive.org/web/20190601190146/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2019-06-12T15:16:34Z",
+        "uri": "https://web.archive.org/web/20190612151634/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2019-07-03T14:26:33Z",
+        "uri": "https://web.archive.org/web/20190703142633/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2019-07-03T14:26:33Z",
+        "uri": "https://web.archive.org/web/20190703142633/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2019-08-03T18:49:40Z",
+        "uri": "https://web.archive.org/web/20190803184940/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2019-08-03T18:49:40Z",
+        "uri": "https://web.archive.org/web/20190803184940/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2019-08-13T06:19:57Z",
+        "uri": "https://web.archive.org/web/20190813061957/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2019-09-03T17:36:31Z",
+        "uri": "https://web.archive.org/web/20190903173631/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2019-09-03T17:36:31Z",
+        "uri": "https://web.archive.org/web/20190903173631/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2019-11-01T20:45:51Z",
+        "uri": "https://web.archive.org/web/20191101204551/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2019-11-14T16:27:15Z",
+        "uri": "https://web.archive.org/web/20191114162715/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2019-11-14T16:27:15Z",
+        "uri": "https://web.archive.org/web/20191114162715/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2019-12-14T19:12:47Z",
+        "uri": "https://web.archive.org/web/20191214191247/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2019-12-14T19:12:47Z",
+        "uri": "https://web.archive.org/web/20191214191247/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2020-01-14T10:36:20Z",
+        "uri": "https://web.archive.org/web/20200114103620/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2020-01-14T10:37:37Z",
+        "uri": "https://web.archive.org/web/20200114103737/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2020-02-13T14:11:59Z",
+        "uri": "https://web.archive.org/web/20200213141159/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2020-02-13T14:11:59Z",
+        "uri": "https://web.archive.org/web/20200213141159/http://catalog.odu.edu:80/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2020-03-02T07:43:48Z",
+        "uri": "https://web.archive.org/web/20200302074348/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2020-05-01T11:48:04Z",
+        "uri": "https://web.archive.org/web/20200501114804/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2020-06-30T15:41:06Z",
+        "uri": "https://web.archive.org/web/20200630154106/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2021-01-22T23:26:19Z",
+        "uri": "https://web.archive.org/web/20210122232619/https://catalog.odu.edu/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2021-04-12T20:27:45Z",
+        "uri": "https://web.archive.org/web/20210412202745/http://catalog.odu.edu/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2021-11-03T21:57:17Z",
+        "uri": "https://web.archive.org/web/20211103215717/https://catalog.odu.edu/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2021-11-11T13:05:55Z",
+        "uri": "https://arquivo.pt/wayback/20211111130555mp_/http://catalog.odu.edu/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2021-11-11T13:05:55Z",
+        "uri": "https://web.archive.org/web/20211111130555/http://catalog.odu.edu/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2021-11-11T13:05:59Z",
+        "uri": "https://arquivo.pt/wayback/20211111130559mp_/https://catalog.odu.edu/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2021-11-11T13:05:59Z",
+        "uri": "https://web.archive.org/web/20211111130559/https://catalog.odu.edu/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2021-11-23T20:12:48Z",
+        "uri": "https://web.archive.org/web/20211123201248/https://catalog.odu.edu/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2022-03-19T21:17:19Z",
+        "uri": "https://web.archive.org/web/20220319211719/https://catalog.odu.edu/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2022-03-19T22:10:12Z",
+        "uri": "https://web.archive.org/web/20220319221012/https://catalog.odu.edu/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2022-03-19T22:10:12Z",
+        "uri": "https://web.archive.org/web/20220319221012/http://catalog.odu.edu/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2022-07-27T06:42:16Z",
+        "uri": "https://web.archive.org/web/20220727064216/https://catalog.odu.edu/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2022-12-09T00:19:14Z",
+        "uri": "https://web.archive.org/web/20221209001914/https://catalog.odu.edu/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2024-01-11T18:14:15Z",
+        "uri": "https://web.archive.org/web/20240111181415/https://catalog.odu.edu/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2024-04-21T17:55:07Z",
+        "uri": "https://web.archive.org/web/20240421175507/https://catalog.odu.edu/undergraduate/studentfinancialaid/"
+      },
+      {
+        "datetime": "2024-08-19T01:44:45Z",
+        "uri": "https://web.archive.org/web/20240819014445/http://catalog.odu.edu/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2024-08-19T03:20:59Z",
+        "uri": "https://web.archive.org/web/20240819032059/https://catalog.odu.edu/undergraduate/studentfinancialaid"
+      },
+      {
+        "datetime": "2024-09-12T06:09:12Z",
+        "uri": "https://web.archive.org/web/20240912060912/https://catalog.odu.edu/undergraduate/studentfinancialaid/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-06-25T03:41:25Z",
+      "uri": "https://web.archive.org/web/20120625034125/http://catalog.odu.edu:80/undergraduate/studentfinancialaid/"
+    },
+    "last": {
+      "datetime": "2024-09-12T06:09:12Z",
+      "uri": "https://web.archive.org/web/20240912060912/https://catalog.odu.edu/undergraduate/studentfinancialaid/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/studentfinancialaid/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/studentfinancialaid/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/studentfinancialaid/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/studentfinancialaid/"
+}

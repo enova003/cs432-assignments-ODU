@@ -1,0 +1,298 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/nura/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/nura/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:21:40Z",
+        "uri": "https://web.archive.org/web/20120902042140/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2013-05-17T07:47:50Z",
+        "uri": "https://web.archive.org/web/20130517074750/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2014-04-22T11:53:55Z",
+        "uri": "https://web.archive.org/web/20140422115355/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2014-06-22T04:22:03Z",
+        "uri": "https://web.archive.org/web/20140622042203/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2014-08-22T03:33:02Z",
+        "uri": "https://web.archive.org/web/20140822033302/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2014-10-21T20:59:46Z",
+        "uri": "https://web.archive.org/web/20141021205946/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2014-11-07T11:37:21Z",
+        "uri": "https://web.archive.org/web/20141107113721/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2014-11-07T11:37:21Z",
+        "uri": "https://web.archive.org/web/20141107113721/http://catalog.odu.edu:80/courses/nura"
+      },
+      {
+        "datetime": "2014-12-08T10:29:49Z",
+        "uri": "https://web.archive.org/web/20141208102949/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2014-12-08T10:29:49Z",
+        "uri": "https://web.archive.org/web/20141208102949/http://catalog.odu.edu:80/courses/nura"
+      },
+      {
+        "datetime": "2014-12-27T16:50:22Z",
+        "uri": "https://web.archive.org/web/20141227165022/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2015-01-08T13:47:32Z",
+        "uri": "https://web.archive.org/web/20150108134732/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2015-01-08T13:47:32Z",
+        "uri": "https://web.archive.org/web/20150108134732/http://catalog.odu.edu:80/courses/nura"
+      },
+      {
+        "datetime": "2015-02-15T16:00:32Z",
+        "uri": "https://web.archive.org/web/20150215160032/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2015-03-17T18:42:47Z",
+        "uri": "https://web.archive.org/web/20150317184247/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2015-03-17T18:42:47Z",
+        "uri": "https://web.archive.org/web/20150317184247/http://catalog.odu.edu:80/courses/nura"
+      },
+      {
+        "datetime": "2015-04-17T00:54:42Z",
+        "uri": "https://web.archive.org/web/20150417005442/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2015-04-17T08:19:07Z",
+        "uri": "https://web.archive.org/web/20150417081907/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2015-04-17T08:19:07Z",
+        "uri": "https://web.archive.org/web/20150417081907/http://catalog.odu.edu:80/courses/nura"
+      },
+      {
+        "datetime": "2015-05-11T07:05:13Z",
+        "uri": "https://web.archive.org/web/20150511070513/http://catalog.odu.edu/courses/nura/"
+      },
+      {
+        "datetime": "2015-05-18T03:30:57Z",
+        "uri": "https://web.archive.org/web/20150518033057/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2015-05-18T03:30:57Z",
+        "uri": "https://web.archive.org/web/20150518033057/http://catalog.odu.edu:80/courses/nura"
+      },
+      {
+        "datetime": "2015-06-16T14:54:06Z",
+        "uri": "https://web.archive.org/web/20150616145406/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2015-07-03T06:24:22Z",
+        "uri": "https://web.archive.org/web/20150703062422/http://catalog.odu.edu/courses/nura/"
+      },
+      {
+        "datetime": "2015-07-21T01:43:41Z",
+        "uri": "https://web.archive.org/web/20150721014341/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2015-07-21T01:43:41Z",
+        "uri": "https://web.archive.org/web/20150721014341/http://catalog.odu.edu:80/courses/nura"
+      },
+      {
+        "datetime": "2015-08-16T00:58:48Z",
+        "uri": "https://web.archive.org/web/20150816005848/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2015-10-15T07:22:17Z",
+        "uri": "https://web.archive.org/web/20151015072217/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2015-12-14T15:30:09Z",
+        "uri": "https://web.archive.org/web/20151214153009/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2016-02-13T07:52:43Z",
+        "uri": "https://web.archive.org/web/20160213075243/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2016-04-08T22:58:22Z",
+        "uri": "https://web.archive.org/web/20160408225822/http://catalog.odu.edu/courses/nura/"
+      },
+      {
+        "datetime": "2016-04-13T17:43:46Z",
+        "uri": "https://web.archive.org/web/20160413174346/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2016-06-13T11:03:12Z",
+        "uri": "https://web.archive.org/web/20160613110312/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2016-08-13T03:32:31Z",
+        "uri": "https://web.archive.org/web/20160813033231/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2016-10-13T00:08:51Z",
+        "uri": "https://web.archive.org/web/20161013000851/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2016-12-05T04:59:57Z",
+        "uri": "https://web.archive.org/web/20161205045957/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2017-04-08T18:16:24Z",
+        "uri": "https://web.archive.org/web/20170408181624/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2017-04-27T03:48:58Z",
+        "uri": "https://web.archive.org/web/20170427034858/http://catalog.odu.edu/courses/nura/"
+      },
+      {
+        "datetime": "2017-06-08T07:08:11Z",
+        "uri": "https://web.archive.org/web/20170608070811/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2017-07-09T00:44:41Z",
+        "uri": "https://web.archive.org/web/20170709004441/http://catalog.odu.edu/courses/nura/"
+      },
+      {
+        "datetime": "2017-08-08T13:43:04Z",
+        "uri": "https://web.archive.org/web/20170808134304/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2017-10-08T18:53:07Z",
+        "uri": "https://web.archive.org/web/20171008185307/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2017-12-09T00:11:05Z",
+        "uri": "https://web.archive.org/web/20171209001105/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2018-02-07T18:50:43Z",
+        "uri": "https://web.archive.org/web/20180207185043/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2018-04-09T20:16:57Z",
+        "uri": "https://web.archive.org/web/20180409201657/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2018-06-10T06:27:13Z",
+        "uri": "https://web.archive.org/web/20180610062713/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2018-08-10T07:51:30Z",
+        "uri": "https://web.archive.org/web/20180810075130/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2018-10-10T04:03:19Z",
+        "uri": "https://web.archive.org/web/20181010040319/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2018-10-11T04:28:25Z",
+        "uri": "https://web.archive.org/web/20181011042825/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2018-12-11T10:31:21Z",
+        "uri": "https://web.archive.org/web/20181211103121/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2019-02-11T09:41:00Z",
+        "uri": "https://web.archive.org/web/20190211094100/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2019-04-13T00:20:35Z",
+        "uri": "https://web.archive.org/web/20190413002035/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2019-06-12T16:34:19Z",
+        "uri": "https://web.archive.org/web/20190612163419/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2019-08-13T04:53:33Z",
+        "uri": "https://web.archive.org/web/20190813045333/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2019-10-09T05:18:48Z",
+        "uri": "https://web.archive.org/web/20191009051848/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2019-12-08T12:35:38Z",
+        "uri": "https://web.archive.org/web/20191208123538/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2020-02-06T16:39:28Z",
+        "uri": "https://web.archive.org/web/20200206163928/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2020-03-02T06:14:33Z",
+        "uri": "https://web.archive.org/web/20200302061433/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2020-05-01T08:53:17Z",
+        "uri": "https://web.archive.org/web/20200501085317/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2020-06-30T15:11:55Z",
+        "uri": "https://web.archive.org/web/20200630151155/http://catalog.odu.edu:80/courses/nura/"
+      },
+      {
+        "datetime": "2021-01-24T10:09:50Z",
+        "uri": "https://web.archive.org/web/20210124100950/https://catalog.odu.edu/courses/nura/"
+      },
+      {
+        "datetime": "2021-04-12T20:25:00Z",
+        "uri": "https://web.archive.org/web/20210412202500/http://catalog.odu.edu/courses/nura/"
+      },
+      {
+        "datetime": "2021-11-03T21:58:41Z",
+        "uri": "https://web.archive.org/web/20211103215841/https://catalog.odu.edu/courses/nura/"
+      },
+      {
+        "datetime": "2021-11-09T16:48:50Z",
+        "uri": "https://web.archive.org/web/20211109164850/https://catalog.odu.edu/courses/nura/"
+      },
+      {
+        "datetime": "2022-03-19T22:47:22Z",
+        "uri": "https://web.archive.org/web/20220319224722/https://catalog.odu.edu/courses/nura/"
+      },
+      {
+        "datetime": "2022-03-19T23:58:05Z",
+        "uri": "https://web.archive.org/web/20220319235805/http://catalog.odu.edu/courses/nura/"
+      },
+      {
+        "datetime": "2022-03-19T23:58:06Z",
+        "uri": "https://web.archive.org/web/20220319235806/https://catalog.odu.edu/courses/nura/"
+      },
+      {
+        "datetime": "2023-12-08T06:22:15Z",
+        "uri": "https://web.archive.org/web/20231208062215/https://catalog.odu.edu/courses/nura/"
+      },
+      {
+        "datetime": "2024-12-07T05:29:33Z",
+        "uri": "https://web.archive.org/web/20241207052933/https://catalog.odu.edu/courses/nura/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:21:40Z",
+      "uri": "https://web.archive.org/web/20120902042140/http://catalog.odu.edu:80/courses/nura/"
+    },
+    "last": {
+      "datetime": "2024-12-07T05:29:33Z",
+      "uri": "https://web.archive.org/web/20241207052933/https://catalog.odu.edu/courses/nura/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/nura/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/nura/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/nura/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/nura/"
+}

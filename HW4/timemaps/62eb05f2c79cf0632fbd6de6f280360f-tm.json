@@ -1,0 +1,318 @@
+{
+  "original_uri": "https://catalog.odu.edu/previous/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/previous/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2014-06-02T15:58:47Z",
+        "uri": "https://web.archive.org/web/20140602155847/http://catalog.odu.edu:80/previous/"
+      },
+      {
+        "datetime": "2014-08-03T04:53:23Z",
+        "uri": "https://web.archive.org/web/20140803045323/http://catalog.odu.edu:80/previous/"
+      },
+      {
+        "datetime": "2014-10-02T22:04:43Z",
+        "uri": "https://web.archive.org/web/20141002220443/http://catalog.odu.edu:80/previous/"
+      },
+      {
+        "datetime": "2014-12-02T20:32:32Z",
+        "uri": "https://web.archive.org/web/20141202203232/http://catalog.odu.edu:80/previous/"
+      },
+      {
+        "datetime": "2015-02-01T06:36:44Z",
+        "uri": "https://web.archive.org/web/20150201063644/http://catalog.odu.edu:80/previous/"
+      },
+      {
+        "datetime": "2015-02-12T02:16:36Z",
+        "uri": "https://web.archive.org/web/20150212021636/http://catalog.odu.edu:80/previous/"
+      },
+      {
+        "datetime": "2015-02-12T02:16:36Z",
+        "uri": "https://web.archive.org/web/20150212021636/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2015-02-13T02:57:54Z",
+        "uri": "https://web.archive.org/web/20150213025754/http://catalog.odu.edu:80/previous/"
+      },
+      {
+        "datetime": "2015-03-15T00:53:59Z",
+        "uri": "https://web.archive.org/web/20150315005359/http://catalog.odu.edu:80/previous/"
+      },
+      {
+        "datetime": "2015-03-15T00:53:59Z",
+        "uri": "https://web.archive.org/web/20150315005359/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2015-04-14T10:31:23Z",
+        "uri": "https://web.archive.org/web/20150414103123/http://catalog.odu.edu:80/previous/"
+      },
+      {
+        "datetime": "2015-04-14T10:31:23Z",
+        "uri": "https://web.archive.org/web/20150414103123/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2015-04-15T23:26:23Z",
+        "uri": "https://web.archive.org/web/20150415232623/http://catalog.odu.edu:80/previous/"
+      },
+      {
+        "datetime": "2015-05-11T07:30:15Z",
+        "uri": "https://web.archive.org/web/20150511073015/http://catalog.odu.edu/previous/"
+      },
+      {
+        "datetime": "2015-05-15T08:59:09Z",
+        "uri": "https://web.archive.org/web/20150515085909/http://catalog.odu.edu:80/previous/"
+      },
+      {
+        "datetime": "2015-05-15T08:59:09Z",
+        "uri": "https://web.archive.org/web/20150515085909/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2015-06-15T11:17:58Z",
+        "uri": "https://web.archive.org/web/20150615111758/http://catalog.odu.edu:80/previous/"
+      },
+      {
+        "datetime": "2015-07-03T07:45:49Z",
+        "uri": "https://web.archive.org/web/20150703074549/http://catalog.odu.edu/previous/"
+      },
+      {
+        "datetime": "2015-07-21T11:01:54Z",
+        "uri": "https://web.archive.org/web/20150721110154/http://catalog.odu.edu:80/previous/"
+      },
+      {
+        "datetime": "2015-07-21T11:01:54Z",
+        "uri": "https://web.archive.org/web/20150721110154/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2015-08-15T02:50:56Z",
+        "uri": "https://web.archive.org/web/20150815025056/http://catalog.odu.edu:80/previous/"
+      },
+      {
+        "datetime": "2015-08-21T02:38:56Z",
+        "uri": "https://web.archive.org/web/20150821023856/http://catalog.odu.edu:80/previous/"
+      },
+      {
+        "datetime": "2015-08-21T02:38:56Z",
+        "uri": "https://web.archive.org/web/20150821023856/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2015-09-20T21:23:25Z",
+        "uri": "https://web.archive.org/web/20150920212325/http://catalog.odu.edu:80/previous/"
+      },
+      {
+        "datetime": "2015-09-20T21:23:25Z",
+        "uri": "https://web.archive.org/web/20150920212325/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2015-10-14T13:24:19Z",
+        "uri": "https://web.archive.org/web/20151014132419/http://catalog.odu.edu:80/previous/"
+      },
+      {
+        "datetime": "2015-10-21T05:47:36Z",
+        "uri": "https://web.archive.org/web/20151021054736/http://catalog.odu.edu:80/previous/"
+      },
+      {
+        "datetime": "2015-10-21T05:47:36Z",
+        "uri": "https://web.archive.org/web/20151021054736/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2015-12-14T10:21:52Z",
+        "uri": "https://web.archive.org/web/20151214102152/http://catalog.odu.edu:80/previous/"
+      },
+      {
+        "datetime": "2016-04-06T12:39:29Z",
+        "uri": "https://web.archive.org/web/20160406123929/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2016-05-07T16:28:21Z",
+        "uri": "https://web.archive.org/web/20160507162821/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2016-06-07T19:46:07Z",
+        "uri": "https://web.archive.org/web/20160607194607/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2016-07-08T20:26:03Z",
+        "uri": "https://web.archive.org/web/20160708202603/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2016-08-08T21:18:07Z",
+        "uri": "https://web.archive.org/web/20160808211807/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2016-09-11T01:07:47Z",
+        "uri": "https://web.archive.org/web/20160911010747/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2016-10-12T14:19:52Z",
+        "uri": "https://web.archive.org/web/20161012141952/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2016-11-12T21:25:18Z",
+        "uri": "https://web.archive.org/web/20161112212518/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2017-05-02T11:55:46Z",
+        "uri": "https://web.archive.org/web/20170502115546/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2017-06-02T22:21:51Z",
+        "uri": "https://web.archive.org/web/20170602222151/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2017-07-02T23:48:16Z",
+        "uri": "https://web.archive.org/web/20170702234816/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2017-07-09T01:21:17Z",
+        "uri": "https://web.archive.org/web/20170709012117/http://catalog.odu.edu/previous/"
+      },
+      {
+        "datetime": "2017-09-02T11:17:57Z",
+        "uri": "https://web.archive.org/web/20170902111757/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2017-10-03T15:52:06Z",
+        "uri": "https://web.archive.org/web/20171003155206/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2017-10-04T21:38:57Z",
+        "uri": "https://web.archive.org/web/20171004213857/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2017-11-05T00:13:09Z",
+        "uri": "https://web.archive.org/web/20171105001309/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2017-12-06T01:25:34Z",
+        "uri": "https://web.archive.org/web/20171206012534/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2018-01-07T21:02:30Z",
+        "uri": "https://web.archive.org/web/20180107210230/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2018-02-07T22:00:37Z",
+        "uri": "https://web.archive.org/web/20180207220037/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2018-03-11T02:00:48Z",
+        "uri": "https://web.archive.org/web/20180311020048/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2018-04-11T02:42:51Z",
+        "uri": "https://web.archive.org/web/20180411024251/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2018-05-11T23:14:08Z",
+        "uri": "https://web.archive.org/web/20180511231408/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2018-05-12T09:14:26Z",
+        "uri": "https://web.archive.org/web/20180512091426/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2018-06-12T10:12:32Z",
+        "uri": "https://web.archive.org/web/20180612101232/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2018-07-13T08:39:33Z",
+        "uri": "https://web.archive.org/web/20180713083933/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2018-08-13T12:08:18Z",
+        "uri": "https://web.archive.org/web/20180813120818/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2018-09-13T16:52:03Z",
+        "uri": "https://web.archive.org/web/20180913165203/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2018-10-14T17:29:57Z",
+        "uri": "https://web.archive.org/web/20181014172957/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2018-11-14T19:25:52Z",
+        "uri": "https://web.archive.org/web/20181114192552/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2018-12-15T23:49:31Z",
+        "uri": "https://web.archive.org/web/20181215234931/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2019-01-16T12:25:29Z",
+        "uri": "https://web.archive.org/web/20190116122529/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2019-02-16T10:57:05Z",
+        "uri": "https://web.archive.org/web/20190216105705/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2019-03-19T12:08:37Z",
+        "uri": "https://web.archive.org/web/20190319120837/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2019-04-19T22:12:21Z",
+        "uri": "https://web.archive.org/web/20190419221221/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2019-05-22T08:59:31Z",
+        "uri": "https://web.archive.org/web/20190522085931/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2019-06-22T20:42:17Z",
+        "uri": "https://web.archive.org/web/20190622204217/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2019-07-24T12:27:46Z",
+        "uri": "https://web.archive.org/web/20190724122746/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2019-08-24T23:31:51Z",
+        "uri": "https://web.archive.org/web/20190824233151/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2019-09-24T21:51:26Z",
+        "uri": "https://web.archive.org/web/20190924215126/http://catalog.odu.edu:80/previous"
+      },
+      {
+        "datetime": "2021-04-12T20:25:11Z",
+        "uri": "https://web.archive.org/web/20210412202511/http://catalog.odu.edu/previous/"
+      },
+      {
+        "datetime": "2021-11-22T14:28:58Z",
+        "uri": "https://web.archive.org/web/20211122142858/https://catalog.odu.edu/previous/"
+      },
+      {
+        "datetime": "2022-03-19T21:06:12Z",
+        "uri": "https://web.archive.org/web/20220319210612/https://catalog.odu.edu/previous/"
+      },
+      {
+        "datetime": "2022-03-19T22:49:43Z",
+        "uri": "https://web.archive.org/web/20220319224943/http://catalog.odu.edu/previous/"
+      },
+      {
+        "datetime": "2022-03-19T22:49:50Z",
+        "uri": "https://web.archive.org/web/20220319224950/https://catalog.odu.edu/previous/"
+      },
+      {
+        "datetime": "2023-12-17T01:36:34Z",
+        "uri": "https://web.archive.org/web/20231217013634/https://catalog.odu.edu/previous/"
+      }
+    ],
+    "first": {
+      "datetime": "2014-06-02T15:58:47Z",
+      "uri": "https://web.archive.org/web/20140602155847/http://catalog.odu.edu:80/previous/"
+    },
+    "last": {
+      "datetime": "2023-12-17T01:36:34Z",
+      "uri": "https://web.archive.org/web/20231217013634/https://catalog.odu.edu/previous/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/previous/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/previous/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/previous/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/previous/"
+}

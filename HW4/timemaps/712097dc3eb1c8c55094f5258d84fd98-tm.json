@@ -1,0 +1,62 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/arts-letters/world-languages-cultures/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/arts-letters/world-languages-cultures/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T02:48:16Z",
+        "uri": "https://web.archive.org/web/20230927024816/https://catalog.odu.edu/undergraduate/arts-letters/world-languages-cultures/"
+      },
+      {
+        "datetime": "2023-10-01T01:25:47Z",
+        "uri": "https://web.archive.org/web/20231001012547/https://catalog.odu.edu/undergraduate/arts-letters/world-languages-cultures/"
+      },
+      {
+        "datetime": "2023-12-09T23:04:45Z",
+        "uri": "https://web.archive.org/web/20231209230445/https://catalog.odu.edu/undergraduate/arts-letters/world-languages-cultures/"
+      },
+      {
+        "datetime": "2023-12-11T01:24:52Z",
+        "uri": "https://web.archive.org/web/20231211012452/http://catalog.odu.edu/undergraduate/arts-letters/world-languages-cultures/"
+      },
+      {
+        "datetime": "2023-12-17T01:36:34Z",
+        "uri": "https://web.archive.org/web/20231217013634/https://catalog.odu.edu/undergraduate/arts-letters/world-languages-cultures/"
+      },
+      {
+        "datetime": "2024-02-29T00:42:03Z",
+        "uri": "https://web.archive.org/web/20240229004203/https://catalog.odu.edu/undergraduate/arts-letters/world-languages-cultures/"
+      },
+      {
+        "datetime": "2024-04-17T22:50:48Z",
+        "uri": "https://web.archive.org/web/20240417225048/https://catalog.odu.edu/undergraduate/arts-letters/world-languages-cultures/"
+      },
+      {
+        "datetime": "2024-07-17T11:16:28Z",
+        "uri": "https://web.archive.org/web/20240717111628/https://catalog.odu.edu/undergraduate/arts-letters/world-languages-cultures/"
+      },
+      {
+        "datetime": "2024-09-27T07:43:13Z",
+        "uri": "https://web.archive.org/web/20240927074313/https://catalog.odu.edu/undergraduate/arts-letters/world-languages-cultures/"
+      },
+      {
+        "datetime": "2024-12-07T06:10:15Z",
+        "uri": "https://web.archive.org/web/20241207061015/https://catalog.odu.edu/undergraduate/arts-letters/world-languages-cultures/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T02:48:16Z",
+      "uri": "https://web.archive.org/web/20230927024816/https://catalog.odu.edu/undergraduate/arts-letters/world-languages-cultures/"
+    },
+    "last": {
+      "datetime": "2024-12-07T06:10:15Z",
+      "uri": "https://web.archive.org/web/20241207061015/https://catalog.odu.edu/undergraduate/arts-letters/world-languages-cultures/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/arts-letters/world-languages-cultures/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/arts-letters/world-languages-cultures/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/arts-letters/world-languages-cultures/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/arts-letters/world-languages-cultures/"
+}

@@ -1,0 +1,114 @@
+{
+  "original_uri": "https://online.odu.edu/online-experience/top-questions-answered",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/online-experience/top-questions-answered",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-04-27T12:17:43Z",
+        "uri": "https://web.archive.org/web/20200427121743/https://online.odu.edu/online-experience/top-questions-answered"
+      },
+      {
+        "datetime": "2020-05-29T23:35:20Z",
+        "uri": "https://web.archive.org/web/20200529233520/https://online.odu.edu/online-experience/top-questions-answered"
+      },
+      {
+        "datetime": "2020-09-26T00:05:19Z",
+        "uri": "https://web.archive.org/web/20200926000519/https://online.odu.edu/online-experience/top-questions-answered"
+      },
+      {
+        "datetime": "2020-11-25T11:53:31Z",
+        "uri": "https://web.archive.org/web/20201125115331/https://online.odu.edu/online-experience/top-questions-answered"
+      },
+      {
+        "datetime": "2021-03-03T12:47:31Z",
+        "uri": "https://web.archive.org/web/20210303124731/https://online.odu.edu/online-experience/top-questions-answered"
+      },
+      {
+        "datetime": "2021-04-13T19:27:22Z",
+        "uri": "https://web.archive.org/web/20210413192722/https://online.odu.edu/online-experience/top-questions-answered"
+      },
+      {
+        "datetime": "2021-05-07T20:20:58Z",
+        "uri": "https://web.archive.org/web/20210507202058/https://online.odu.edu/online-experience/top-questions-answered"
+      },
+      {
+        "datetime": "2021-07-31T00:26:20Z",
+        "uri": "https://web.archive.org/web/20210731002620/https://online.odu.edu/online-experience/top-questions-answered"
+      },
+      {
+        "datetime": "2021-10-27T23:53:22Z",
+        "uri": "https://web.archive.org/web/20211027235322/https://online.odu.edu/online-experience/top-questions-answered"
+      },
+      {
+        "datetime": "2021-12-09T09:35:39Z",
+        "uri": "https://web.archive.org/web/20211209093539/https://online.odu.edu/online-experience/top-questions-answered"
+      },
+      {
+        "datetime": "2022-01-18T05:23:37Z",
+        "uri": "https://web.archive.org/web/20220118052337/https://online.odu.edu/online-experience/top-questions-answered"
+      },
+      {
+        "datetime": "2022-03-20T06:08:49Z",
+        "uri": "https://web.archive.org/web/20220320060849/https://online.odu.edu/online-experience/top-questions-answered"
+      },
+      {
+        "datetime": "2022-05-27T07:28:20Z",
+        "uri": "https://web.archive.org/web/20220527072820/https://online.odu.edu/online-experience/top-questions-answered"
+      },
+      {
+        "datetime": "2022-08-08T17:24:30Z",
+        "uri": "https://web.archive.org/web/20220808172430/https://online.odu.edu/online-experience/top-questions-answered"
+      },
+      {
+        "datetime": "2022-10-05T00:17:14Z",
+        "uri": "https://web.archive.org/web/20221005001714/https://online.odu.edu/online-experience/top-questions-answered"
+      },
+      {
+        "datetime": "2023-02-09T00:39:48Z",
+        "uri": "https://web.archive.org/web/20230209003948/https://online.odu.edu/online-experience/top-questions-answered"
+      },
+      {
+        "datetime": "2023-06-02T13:03:05Z",
+        "uri": "https://web.archive.org/web/20230602130305/https://online.odu.edu/online-experience/top-questions-answered"
+      },
+      {
+        "datetime": "2023-09-24T16:59:54Z",
+        "uri": "https://web.archive.org/web/20230924165954/https://online.odu.edu/online-experience/top-questions-answered"
+      },
+      {
+        "datetime": "2024-03-17T22:33:53Z",
+        "uri": "https://web.archive.org/web/20240317223353/https://online.odu.edu/online-experience/top-questions-answered"
+      },
+      {
+        "datetime": "2024-04-23T05:56:27Z",
+        "uri": "https://web.archive.org/web/20240423055627/https://online.odu.edu/online-experience/top-questions-answered"
+      },
+      {
+        "datetime": "2024-07-21T23:46:28Z",
+        "uri": "https://web.archive.org/web/20240721234628/https://online.odu.edu/online-experience/top-questions-answered"
+      },
+      {
+        "datetime": "2024-10-03T17:59:27Z",
+        "uri": "https://web.archive.org/web/20241003175927/https://online.odu.edu/online-experience/top-questions-answered"
+      },
+      {
+        "datetime": "2025-01-19T13:02:43Z",
+        "uri": "https://web.archive.org/web/20250119130243/https://online.odu.edu/online-experience/top-questions-answered"
+      }
+    ],
+    "first": {
+      "datetime": "2020-04-27T12:17:43Z",
+      "uri": "https://web.archive.org/web/20200427121743/https://online.odu.edu/online-experience/top-questions-answered"
+    },
+    "last": {
+      "datetime": "2025-01-19T13:02:43Z",
+      "uri": "https://web.archive.org/web/20250119130243/https://online.odu.edu/online-experience/top-questions-answered"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/online-experience/top-questions-answered",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/online-experience/top-questions-answered",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/online-experience/top-questions-answered"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/online-experience/top-questions-answered"
+}

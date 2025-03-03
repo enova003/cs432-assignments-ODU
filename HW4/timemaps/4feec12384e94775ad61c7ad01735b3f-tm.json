@@ -1,0 +1,802 @@
+{
+  "original_uri": "https://www.odu.edu/nursing",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/nursing",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-10-20T10:16:35Z",
+        "uri": "https://web.archive.org/web/20121020101635/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2012-12-09T20:51:17Z",
+        "uri": "https://web.archive.org/web/20121209205117/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2013-01-17T18:03:55Z",
+        "uri": "https://web.archive.org/web/20130117180355/http://odu.edu/nursing"
+      },
+      {
+        "datetime": "2013-04-26T12:31:38Z",
+        "uri": "https://web.archive.org/web/20130426123138/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2013-08-07T11:58:38Z",
+        "uri": "https://web.archive.org/web/20130807115838/http://odu.edu/nursing"
+      },
+      {
+        "datetime": "2013-09-08T18:40:46Z",
+        "uri": "https://web.archive.org/web/20130908184046/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2013-10-10T04:10:20Z",
+        "uri": "https://web.archive.org/web/20131010041020/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2013-11-11T14:26:45Z",
+        "uri": "https://web.archive.org/web/20131111142645/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2013-12-12T13:37:38Z",
+        "uri": "https://web.archive.org/web/20131212133738/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2014-03-28T05:36:44Z",
+        "uri": "https://web.archive.org/web/20140328053644/http://odu.edu/nursing"
+      },
+      {
+        "datetime": "2014-06-26T14:39:58Z",
+        "uri": "https://web.archive.org/web/20140626143958/http://odu.edu/nursing"
+      },
+      {
+        "datetime": "2016-05-02T16:37:13Z",
+        "uri": "https://web.archive.org/web/20160502163713/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2016-05-10T19:12:20Z",
+        "uri": "https://web.archive.org/web/20160510191220/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2016-05-19T02:27:17Z",
+        "uri": "https://web.archive.org/web/20160519022717/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2016-05-31T16:00:50Z",
+        "uri": "https://web.archive.org/web/20160531160050/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2016-06-04T09:26:20Z",
+        "uri": "https://web.archive.org/web/20160604092620/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2016-06-19T11:29:30Z",
+        "uri": "https://web.archive.org/web/20160619112930/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2016-07-01T15:31:13Z",
+        "uri": "https://web.archive.org/web/20160701153113/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2016-07-06T20:00:08Z",
+        "uri": "https://web.archive.org/web/20160706200008/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2016-07-20T13:40:34Z",
+        "uri": "https://web.archive.org/web/20160720134034/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2016-08-02T21:15:12Z",
+        "uri": "https://web.archive.org/web/20160802211512/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2016-08-27T18:35:55Z",
+        "uri": "https://web.archive.org/web/20160827183555/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2016-08-28T19:34:18Z",
+        "uri": "https://web.archive.org/web/20160828193418/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2016-09-25T05:32:14Z",
+        "uri": "https://web.archive.org/web/20160925053214/http://odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2016-10-26T17:07:30Z",
+        "uri": "https://web.archive.org/web/20161026170730/http://odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2016-12-24T08:19:49Z",
+        "uri": "https://web.archive.org/web/20161224081949/http://odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2017-05-11T16:26:39Z",
+        "uri": "https://web.archive.org/web/20170511162639/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2017-06-14T04:05:50Z",
+        "uri": "https://web.archive.org/web/20170614040550/http://odu.edu/nursing"
+      },
+      {
+        "datetime": "2017-07-10T10:09:53Z",
+        "uri": "https://web.archive.org/web/20170710100953/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2017-07-13T10:10:24Z",
+        "uri": "https://web.archive.org/web/20170713101024/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2017-07-23T14:37:21Z",
+        "uri": "https://web.archive.org/web/20170723143721/http://odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2017-08-10T06:58:48Z",
+        "uri": "https://web.archive.org/web/20170810065848/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2017-09-10T18:50:39Z",
+        "uri": "https://web.archive.org/web/20170910185039/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2017-09-22T16:21:12Z",
+        "uri": "https://web.archive.org/web/20170922162112/http://odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2017-09-29T12:06:55Z",
+        "uri": "https://web.archive.org/web/20170929120655/http://odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2017-10-30T00:24:53Z",
+        "uri": "https://web.archive.org/web/20171030002453/http://odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2017-11-13T01:17:43Z",
+        "uri": "https://web.archive.org/web/20171113011743/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2017-11-24T13:33:32Z",
+        "uri": "https://web.archive.org/web/20171124133332/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2017-11-29T19:46:28Z",
+        "uri": "https://web.archive.org/web/20171129194628/http://odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2017-12-30T19:16:14Z",
+        "uri": "https://web.archive.org/web/20171230191614/http://odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2018-01-13T02:26:20Z",
+        "uri": "https://web.archive.org/web/20180113022620/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2018-01-15T02:52:07Z",
+        "uri": "https://web.archive.org/web/20180115025207/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2018-01-28T10:46:29Z",
+        "uri": "https://web.archive.org/web/20180128104629/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2018-01-31T11:17:06Z",
+        "uri": "https://web.archive.org/web/20180131111706/http://odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2018-02-28T02:19:49Z",
+        "uri": "https://web.archive.org/web/20180228021949/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2018-03-03T15:00:22Z",
+        "uri": "https://web.archive.org/web/20180303150022/http://odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2018-03-05T10:55:22Z",
+        "uri": "https://web.archive.org/web/20180305105522/http://odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2018-03-31T00:39:45Z",
+        "uri": "https://web.archive.org/web/20180331003945/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2018-05-01T00:31:36Z",
+        "uri": "https://web.archive.org/web/20180501003136/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2018-05-06T17:00:39Z",
+        "uri": "https://web.archive.org/web/20180506170039/http://odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2018-06-01T08:36:38Z",
+        "uri": "https://web.archive.org/web/20180601083638/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2018-06-11T01:04:25Z",
+        "uri": "https://web.archive.org/web/20180611010425/http://odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2018-07-02T10:56:32Z",
+        "uri": "https://web.archive.org/web/20180702105632/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2018-07-12T08:35:03Z",
+        "uri": "https://web.archive.org/web/20180712083503/http://odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2018-08-02T09:31:09Z",
+        "uri": "https://web.archive.org/web/20180802093109/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2018-08-12T01:45:12Z",
+        "uri": "https://web.archive.org/web/20180812014512/http://odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2018-09-02T18:48:59Z",
+        "uri": "https://web.archive.org/web/20180902184859/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2018-09-13T03:52:02Z",
+        "uri": "https://web.archive.org/web/20180913035202/http://odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2018-10-03T14:32:14Z",
+        "uri": "https://web.archive.org/web/20181003143214/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2018-10-14T00:30:39Z",
+        "uri": "https://web.archive.org/web/20181014003039/http://odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2018-11-03T21:53:55Z",
+        "uri": "https://web.archive.org/web/20181103215355/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2018-11-14T11:28:16Z",
+        "uri": "https://web.archive.org/web/20181114112816/http://odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2018-12-05T20:48:33Z",
+        "uri": "https://web.archive.org/web/20181205204833/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2018-12-15T11:56:39Z",
+        "uri": "https://web.archive.org/web/20181215115639/http://odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2019-01-06T12:34:16Z",
+        "uri": "https://web.archive.org/web/20190106123416/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2019-01-15T11:07:11Z",
+        "uri": "https://web.archive.org/web/20190115110711/http://odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2019-02-02T18:44:21Z",
+        "uri": "https://web.archive.org/web/20190202184421/http://odu.edu/nursing"
+      },
+      {
+        "datetime": "2019-02-06T12:15:57Z",
+        "uri": "https://web.archive.org/web/20190206121557/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2019-02-16T05:17:47Z",
+        "uri": "https://web.archive.org/web/20190216051747/http://odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2019-03-02T05:28:35Z",
+        "uri": "https://web.archive.org/web/20190302052835/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2019-03-09T07:40:19Z",
+        "uri": "https://web.archive.org/web/20190309074019/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2019-03-19T12:17:07Z",
+        "uri": "https://web.archive.org/web/20190319121707/http://odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2019-04-04T15:03:07Z",
+        "uri": "https://web.archive.org/web/20190404150307/http://odu.edu/nursing"
+      },
+      {
+        "datetime": "2019-04-04T15:03:14Z",
+        "uri": "https://web.archive.org/web/20190404150314/https://odu.edu/nursing"
+      },
+      {
+        "datetime": "2019-04-04T15:03:22Z",
+        "uri": "https://web.archive.org/web/20190404150322/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2019-04-08T19:55:55Z",
+        "uri": "https://web.archive.org/web/20190408195555/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2019-04-19T21:49:08Z",
+        "uri": "https://web.archive.org/web/20190419214908/http://odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2019-05-09T11:16:29Z",
+        "uri": "https://web.archive.org/web/20190509111629/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2019-05-20T09:51:30Z",
+        "uri": "https://web.archive.org/web/20190520095130/http://odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2019-05-31T13:57:16Z",
+        "uri": "https://web.archive.org/web/20190531135716/https://odu.edu/nursing"
+      },
+      {
+        "datetime": "2019-06-09T07:22:54Z",
+        "uri": "https://web.archive.org/web/20190609072254/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2019-06-20T03:54:40Z",
+        "uri": "https://web.archive.org/web/20190620035440/http://odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2019-07-21T15:06:53Z",
+        "uri": "https://web.archive.org/web/20190721150653/http://odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2019-07-21T15:20:45Z",
+        "uri": "https://web.archive.org/web/20190721152045/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2019-08-21T19:18:19Z",
+        "uri": "https://web.archive.org/web/20190821191819/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2019-08-21T21:03:25Z",
+        "uri": "https://web.archive.org/web/20190821210325/http://odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2019-09-22T16:40:31Z",
+        "uri": "https://web.archive.org/web/20190922164031/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2019-09-23T03:32:56Z",
+        "uri": "https://web.archive.org/web/20190923033256/http://odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2019-11-08T13:20:24Z",
+        "uri": "https://web.archive.org/web/20191108132024/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2019-11-11T22:07:28Z",
+        "uri": "https://web.archive.org/web/20191111220728/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2020-01-11T03:04:02Z",
+        "uri": "https://web.archive.org/web/20200111030402/http://www.odu.edu:80/nursing"
+      },
+      {
+        "datetime": "2020-06-20T00:42:43Z",
+        "uri": "https://web.archive.org/web/20200620004243/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2020-06-20T00:42:44Z",
+        "uri": "https://web.archive.org/web/20200620004244/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2020-07-22T17:20:36Z",
+        "uri": "https://web.archive.org/web/20200722172036/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2020-08-07T21:40:16Z",
+        "uri": "https://web.archive.org/web/20200807214016/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2021-04-14T04:45:15Z",
+        "uri": "https://web.archive.org/web/20210414044515/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2021-04-15T08:44:12Z",
+        "uri": "https://web.archive.org/web/20210415084412/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2021-04-17T18:24:58Z",
+        "uri": "https://web.archive.org/web/20210417182458/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2021-05-20T15:44:06Z",
+        "uri": "https://web.archive.org/web/20210520154406/https://odu.edu/nursing"
+      },
+      {
+        "datetime": "2021-05-20T15:55:41Z",
+        "uri": "https://web.archive.org/web/20210520155541/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2021-05-27T00:44:41Z",
+        "uri": "https://web.archive.org/web/20210527004441/https://odu.edu/nursing"
+      },
+      {
+        "datetime": "2021-05-27T00:44:48Z",
+        "uri": "https://web.archive.org/web/20210527004448/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2021-05-27T00:44:56Z",
+        "uri": "https://web.archive.org/web/20210527004456/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2021-08-12T22:34:42Z",
+        "uri": "https://web.archive.org/web/20210812223442/https://odu.edu/nursing"
+      },
+      {
+        "datetime": "2021-09-10T16:03:39Z",
+        "uri": "https://arquivo.pt/wayback/20210910160339mp_/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2021-10-21T04:53:00Z",
+        "uri": "https://arquivo.pt/wayback/20211021045300mp_/https://odu.edu/nursing"
+      },
+      {
+        "datetime": "2021-10-21T04:53:00Z",
+        "uri": "https://web.archive.org/web/20211021045300/https://odu.edu/nursing"
+      },
+      {
+        "datetime": "2021-11-03T12:45:05Z",
+        "uri": "https://arquivo.pt/wayback/20211103124505mp_/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2021-11-03T12:45:05Z",
+        "uri": "https://web.archive.org/web/20211103124505/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-03-02T12:41:19Z",
+        "uri": "https://web.archive.org/web/20220302124119/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-03-02T12:41:20Z",
+        "uri": "https://web.archive.org/web/20220302124120/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-03-19T20:55:31Z",
+        "uri": "https://web.archive.org/web/20220319205531/http://www.odu.edu/nursing/"
+      },
+      {
+        "datetime": "2022-03-19T20:55:32Z",
+        "uri": "https://web.archive.org/web/20220319205532/https://www.odu.edu/nursing/"
+      },
+      {
+        "datetime": "2022-03-19T21:15:56Z",
+        "uri": "https://web.archive.org/web/20220319211556/https://odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-03-19T21:28:45Z",
+        "uri": "https://web.archive.org/web/20220319212845/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-03-19T21:28:45Z",
+        "uri": "https://web.archive.org/web/20220319212845/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-03-19T21:45:09Z",
+        "uri": "https://web.archive.org/web/20220319214509/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-03-19T21:45:11Z",
+        "uri": "https://web.archive.org/web/20220319214511/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-03-19T21:48:35Z",
+        "uri": "https://web.archive.org/web/20220319214835/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-03-19T21:48:35Z",
+        "uri": "https://web.archive.org/web/20220319214835/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-03-19T21:59:19Z",
+        "uri": "https://web.archive.org/web/20220319215919/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-03-19T22:03:49Z",
+        "uri": "https://web.archive.org/web/20220319220349/https://www.odu.edu/nursing/"
+      },
+      {
+        "datetime": "2022-03-19T22:27:16Z",
+        "uri": "https://web.archive.org/web/20220319222716/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-03-19T22:27:16Z",
+        "uri": "https://web.archive.org/web/20220319222716/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-03-19T23:15:50Z",
+        "uri": "https://web.archive.org/web/20220319231550/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-03-19T23:15:50Z",
+        "uri": "https://web.archive.org/web/20220319231550/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-03-20T00:29:12Z",
+        "uri": "https://web.archive.org/web/20220320002912/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-03-20T00:29:12Z",
+        "uri": "https://web.archive.org/web/20220320002912/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-03-20T07:44:47Z",
+        "uri": "https://web.archive.org/web/20220320074447/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-03-20T07:44:48Z",
+        "uri": "https://web.archive.org/web/20220320074448/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-04-20T15:46:59Z",
+        "uri": "https://arquivo.pt/wayback/20220420154659mp_/https://odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-04-22T18:58:08Z",
+        "uri": "https://arquivo.pt/wayback/20220422185808mp_/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-05-07T21:42:34Z",
+        "uri": "https://arquivo.pt/wayback/20220507214234mp_/https://odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-05-16T04:38:31Z",
+        "uri": "https://arquivo.pt/wayback/20220516043831mp_/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-05-28T16:46:02Z",
+        "uri": "https://web.archive.org/web/20220528164602/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-07-08T05:20:24Z",
+        "uri": "https://web.archive.org/web/20220708052024/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-07-08T13:11:45Z",
+        "uri": "https://web.archive.org/web/20220708131145/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-07-09T04:14:09Z",
+        "uri": "https://web.archive.org/web/20220709041409/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-07-12T13:37:03Z",
+        "uri": "https://web.archive.org/web/20220712133703/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-08-02T19:09:29Z",
+        "uri": "https://web.archive.org/web/20220802190929/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-08-11T02:08:48Z",
+        "uri": "https://web.archive.org/web/20220811020848/https://odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-08-11T02:08:53Z",
+        "uri": "https://web.archive.org/web/20220811020853/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-08-11T02:09:00Z",
+        "uri": "https://web.archive.org/web/20220811020900/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-08-18T07:36:34Z",
+        "uri": "https://arquivo.pt/wayback/20220818073634mp_/https://odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-10-01T20:42:22Z",
+        "uri": "https://web.archive.org/web/20221001204222/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-10-06T05:32:48Z",
+        "uri": "https://web.archive.org/web/20221006053248/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-10-06T05:34:08Z",
+        "uri": "https://web.archive.org/web/20221006053408/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-11-07T12:41:32Z",
+        "uri": "https://web.archive.org/web/20221107124132/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-11-09T07:59:59Z",
+        "uri": "https://web.archive.org/web/20221109075959/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-11-16T03:57:20Z",
+        "uri": "https://arquivo.pt/wayback/20221116035720mp_/https://odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-12-08T06:57:25Z",
+        "uri": "https://web.archive.org/web/20221208065725/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-12-08T06:57:25Z",
+        "uri": "https://web.archive.org/web/20221208065725/https://odu.edu/nursing"
+      },
+      {
+        "datetime": "2022-12-09T12:49:17Z",
+        "uri": "https://web.archive.org/web/20221209124917/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2023-01-08T21:28:42Z",
+        "uri": "https://web.archive.org/web/20230108212842/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2023-02-09T14:09:47Z",
+        "uri": "https://web.archive.org/web/20230209140947/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2023-03-07T10:44:59Z",
+        "uri": "https://web.archive.org/web/20230307104459/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2023-03-10T04:26:38Z",
+        "uri": "https://web.archive.org/web/20230310042638/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2023-07-10T16:48:24Z",
+        "uri": "https://web.archive.org/web/20230710164824/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2023-08-25T17:13:17Z",
+        "uri": "https://web.archive.org/web/20230825171317/https://odu.edu/nursing"
+      },
+      {
+        "datetime": "2023-08-25T19:24:55Z",
+        "uri": "https://web.archive.org/web/20230825192455/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2023-10-02T05:41:33Z",
+        "uri": "https://web.archive.org/web/20231002054133/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2023-11-20T23:01:43Z",
+        "uri": "https://web.archive.org/web/20231120230143/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2023-12-01T10:07:19Z",
+        "uri": "https://web.archive.org/web/20231201100719/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2024-03-27T16:04:18Z",
+        "uri": "https://web.archive.org/web/20240327160418/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2024-04-04T07:27:34Z",
+        "uri": "https://web.archive.org/web/20240404072734/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2024-04-20T13:12:38Z",
+        "uri": "https://web.archive.org/web/20240420131238/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2024-05-29T04:00:21Z",
+        "uri": "https://web.archive.org/web/20240529040021/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2024-06-03T22:38:27Z",
+        "uri": "https://web.archive.org/web/20240603223827/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2024-06-05T11:44:22Z",
+        "uri": "https://web.archive.org/web/20240605114422/http://odu.edu/nursing"
+      },
+      {
+        "datetime": "2024-06-19T13:31:33Z",
+        "uri": "https://web.archive.org/web/20240619133133/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2024-06-19T19:43:21Z",
+        "uri": "https://web.archive.org/web/20240619194321/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2024-06-21T07:21:49Z",
+        "uri": "https://web.archive.org/web/20240621072149/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2024-06-21T21:15:56Z",
+        "uri": "https://web.archive.org/web/20240621211556/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2024-06-23T09:11:46Z",
+        "uri": "https://web.archive.org/web/20240623091146/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2024-06-25T00:27:47Z",
+        "uri": "https://web.archive.org/web/20240625002747/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2024-06-30T19:14:13Z",
+        "uri": "https://web.archive.org/web/20240630191413/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2024-07-06T22:37:42Z",
+        "uri": "https://web.archive.org/web/20240706223742/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2024-07-23T08:19:43Z",
+        "uri": "https://web.archive.org/web/20240723081943/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2024-07-27T12:32:02Z",
+        "uri": "https://web.archive.org/web/20240727123202/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2024-07-28T20:52:10Z",
+        "uri": "https://web.archive.org/web/20240728205210/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2024-07-29T03:59:46Z",
+        "uri": "https://web.archive.org/web/20240729035946/http://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2024-08-14T22:53:14Z",
+        "uri": "https://web.archive.org/web/20240814225314/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2024-09-08T06:11:19Z",
+        "uri": "https://web.archive.org/web/20240908061119/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2024-09-17T15:58:57Z",
+        "uri": "https://web.archive.org/web/20240917155857/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2024-10-07T12:38:52Z",
+        "uri": "https://web.archive.org/web/20241007123852/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2024-10-10T16:47:50Z",
+        "uri": "https://web.archive.org/web/20241010164750/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2024-11-03T03:12:00Z",
+        "uri": "https://web.archive.org/web/20241103031200/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2024-11-22T22:09:49Z",
+        "uri": "https://web.archive.org/web/20241122220949/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2024-12-10T11:20:03Z",
+        "uri": "https://web.archive.org/web/20241210112003/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2024-12-22T15:01:59Z",
+        "uri": "https://web.archive.org/web/20241222150159/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2024-12-24T17:53:35Z",
+        "uri": "https://web.archive.org/web/20241224175335/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2025-01-15T05:29:57Z",
+        "uri": "https://web.archive.org/web/20250115052957/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2025-01-16T14:58:48Z",
+        "uri": "https://web.archive.org/web/20250116145848/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2025-02-05T20:11:57Z",
+        "uri": "https://web.archive.org/web/20250205201157/https://www.odu.edu/nursing"
+      },
+      {
+        "datetime": "2025-02-14T10:00:53Z",
+        "uri": "https://web.archive.org/web/20250214100053/https://www.odu.edu/nursing"
+      }
+    ],
+    "first": {
+      "datetime": "2012-10-20T10:16:35Z",
+      "uri": "https://web.archive.org/web/20121020101635/http://www.odu.edu:80/nursing"
+    },
+    "last": {
+      "datetime": "2025-02-14T10:00:53Z",
+      "uri": "https://web.archive.org/web/20250214100053/https://www.odu.edu/nursing"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/nursing",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/nursing",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/nursing"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/nursing"
+}

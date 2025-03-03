@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/graduatestudentresources/campusservices/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/graduatestudentresources/campusservices/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-21T19:27:17Z",
+        "uri": "https://web.archive.org/web/20230921192717/https://catalog.odu.edu/graduate/graduatestudentresources/campusservices/"
+      },
+      {
+        "datetime": "2023-09-27T01:00:38Z",
+        "uri": "https://web.archive.org/web/20230927010038/https://catalog.odu.edu/graduate/graduatestudentresources/campusservices/"
+      },
+      {
+        "datetime": "2024-02-29T16:06:46Z",
+        "uri": "https://web.archive.org/web/20240229160646/https://catalog.odu.edu/graduate/graduatestudentresources/campusservices/"
+      },
+      {
+        "datetime": "2024-03-26T04:54:33Z",
+        "uri": "https://web.archive.org/web/20240326045433/https://catalog.odu.edu/graduate/graduatestudentresources/campusservices/"
+      },
+      {
+        "datetime": "2024-03-26T04:54:59Z",
+        "uri": "https://web.archive.org/web/20240326045459/http://catalog.odu.edu/graduate/graduatestudentresources/campusservices/"
+      },
+      {
+        "datetime": "2024-04-17T21:20:24Z",
+        "uri": "https://web.archive.org/web/20240417212024/https://catalog.odu.edu/graduate/graduatestudentresources/campusservices/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-21T19:27:17Z",
+      "uri": "https://web.archive.org/web/20230921192717/https://catalog.odu.edu/graduate/graduatestudentresources/campusservices/"
+    },
+    "last": {
+      "datetime": "2024-04-17T21:20:24Z",
+      "uri": "https://web.archive.org/web/20240417212024/https://catalog.odu.edu/graduate/graduatestudentresources/campusservices/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/graduatestudentresources/campusservices/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/graduatestudentresources/campusservices/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/graduatestudentresources/campusservices/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/graduatestudentresources/campusservices/"
+}

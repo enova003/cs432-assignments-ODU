@@ -1,0 +1,306 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/musa/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/musa/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:37:11Z",
+        "uri": "https://web.archive.org/web/20120902043711/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2013-05-17T07:47:45Z",
+        "uri": "https://web.archive.org/web/20130517074745/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2014-04-22T11:53:40Z",
+        "uri": "https://web.archive.org/web/20140422115340/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2014-06-22T04:24:19Z",
+        "uri": "https://web.archive.org/web/20140622042419/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2014-08-22T03:32:57Z",
+        "uri": "https://web.archive.org/web/20140822033257/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2014-10-21T20:57:19Z",
+        "uri": "https://web.archive.org/web/20141021205719/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2014-12-21T05:22:20Z",
+        "uri": "https://web.archive.org/web/20141221052220/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2015-02-15T16:05:08Z",
+        "uri": "https://web.archive.org/web/20150215160508/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2015-04-17T03:15:28Z",
+        "uri": "https://web.archive.org/web/20150417031528/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2015-05-11T06:53:16Z",
+        "uri": "https://web.archive.org/web/20150511065316/http://catalog.odu.edu/courses/musa/"
+      },
+      {
+        "datetime": "2015-06-16T14:53:46Z",
+        "uri": "https://web.archive.org/web/20150616145346/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2015-07-03T04:58:59Z",
+        "uri": "https://web.archive.org/web/20150703045859/http://catalog.odu.edu/courses/musa/"
+      },
+      {
+        "datetime": "2015-08-16T00:56:23Z",
+        "uri": "https://web.archive.org/web/20150816005623/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2015-10-15T07:21:56Z",
+        "uri": "https://web.archive.org/web/20151015072156/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2015-12-14T15:24:38Z",
+        "uri": "https://web.archive.org/web/20151214152438/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2016-02-13T07:52:23Z",
+        "uri": "https://web.archive.org/web/20160213075223/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2016-04-08T17:44:03Z",
+        "uri": "https://web.archive.org/web/20160408174403/http://catalog.odu.edu/courses/musa/"
+      },
+      {
+        "datetime": "2016-04-13T17:43:31Z",
+        "uri": "https://web.archive.org/web/20160413174331/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2016-06-08T07:22:32Z",
+        "uri": "https://web.archive.org/web/20160608072232/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2016-06-08T07:22:32Z",
+        "uri": "https://web.archive.org/web/20160608072232/http://catalog.odu.edu:80/courses/musa"
+      },
+      {
+        "datetime": "2016-06-13T08:18:41Z",
+        "uri": "https://web.archive.org/web/20160613081841/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2016-07-09T12:36:08Z",
+        "uri": "https://web.archive.org/web/20160709123608/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2016-07-09T12:36:08Z",
+        "uri": "https://web.archive.org/web/20160709123608/http://catalog.odu.edu:80/courses/musa"
+      },
+      {
+        "datetime": "2016-08-09T13:01:25Z",
+        "uri": "https://web.archive.org/web/20160809130125/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2016-08-09T13:01:25Z",
+        "uri": "https://web.archive.org/web/20160809130125/http://catalog.odu.edu:80/courses/musa"
+      },
+      {
+        "datetime": "2016-08-13T01:03:05Z",
+        "uri": "https://web.archive.org/web/20160813010305/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2016-09-11T01:49:28Z",
+        "uri": "https://web.archive.org/web/20160911014928/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2016-09-11T01:49:28Z",
+        "uri": "https://web.archive.org/web/20160911014928/http://catalog.odu.edu:80/courses/musa"
+      },
+      {
+        "datetime": "2016-10-12T14:16:04Z",
+        "uri": "https://web.archive.org/web/20161012141604/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2016-10-12T14:16:04Z",
+        "uri": "https://web.archive.org/web/20161012141604/http://catalog.odu.edu:80/courses/musa"
+      },
+      {
+        "datetime": "2016-10-14T17:40:05Z",
+        "uri": "https://web.archive.org/web/20161014174005/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2016-11-12T21:55:43Z",
+        "uri": "https://web.archive.org/web/20161112215543/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2016-11-12T21:55:43Z",
+        "uri": "https://web.archive.org/web/20161112215543/http://catalog.odu.edu:80/courses/musa"
+      },
+      {
+        "datetime": "2016-11-14T10:42:24Z",
+        "uri": "https://web.archive.org/web/20161114104224/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2016-11-14T10:42:24Z",
+        "uri": "https://web.archive.org/web/20161114104224/http://catalog.odu.edu:80/courses/musa"
+      },
+      {
+        "datetime": "2016-12-05T04:59:37Z",
+        "uri": "https://web.archive.org/web/20161205045937/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2017-04-08T17:58:53Z",
+        "uri": "https://web.archive.org/web/20170408175853/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2017-04-27T03:35:33Z",
+        "uri": "https://web.archive.org/web/20170427033533/http://catalog.odu.edu/courses/musa/"
+      },
+      {
+        "datetime": "2017-06-08T07:07:56Z",
+        "uri": "https://web.archive.org/web/20170608070756/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2017-07-09T00:03:21Z",
+        "uri": "https://web.archive.org/web/20170709000321/http://catalog.odu.edu/courses/musa/"
+      },
+      {
+        "datetime": "2017-08-07T12:28:41Z",
+        "uri": "https://web.archive.org/web/20170807122841/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2017-08-07T12:28:41Z",
+        "uri": "https://web.archive.org/web/20170807122841/http://catalog.odu.edu:80/courses/musa"
+      },
+      {
+        "datetime": "2017-08-09T12:14:04Z",
+        "uri": "https://web.archive.org/web/20170809121404/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2017-09-07T13:38:26Z",
+        "uri": "https://web.archive.org/web/20170907133826/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2017-09-07T13:38:26Z",
+        "uri": "https://web.archive.org/web/20170907133826/http://catalog.odu.edu:80/courses/musa"
+      },
+      {
+        "datetime": "2017-10-09T08:51:12Z",
+        "uri": "https://web.archive.org/web/20171009085112/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2017-12-09T03:00:02Z",
+        "uri": "https://web.archive.org/web/20171209030002/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2018-02-07T19:13:23Z",
+        "uri": "https://web.archive.org/web/20180207191323/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2018-04-09T20:16:42Z",
+        "uri": "https://web.archive.org/web/20180409201642/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2018-06-10T06:27:07Z",
+        "uri": "https://web.archive.org/web/20180610062707/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2018-08-10T07:42:29Z",
+        "uri": "https://web.archive.org/web/20180810074229/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2018-10-10T04:04:05Z",
+        "uri": "https://web.archive.org/web/20181010040405/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2018-10-11T04:24:26Z",
+        "uri": "https://web.archive.org/web/20181011042426/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2018-12-11T10:34:15Z",
+        "uri": "https://web.archive.org/web/20181211103415/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2019-02-11T09:40:45Z",
+        "uri": "https://web.archive.org/web/20190211094045/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2019-04-13T00:23:03Z",
+        "uri": "https://web.archive.org/web/20190413002303/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2019-06-12T16:35:21Z",
+        "uri": "https://web.archive.org/web/20190612163521/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2019-08-13T04:53:14Z",
+        "uri": "https://web.archive.org/web/20190813045314/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2019-10-09T05:28:19Z",
+        "uri": "https://web.archive.org/web/20191009052819/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2019-12-08T12:35:23Z",
+        "uri": "https://web.archive.org/web/20191208123523/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2020-02-06T16:39:13Z",
+        "uri": "https://web.archive.org/web/20200206163913/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2020-03-02T06:14:18Z",
+        "uri": "https://web.archive.org/web/20200302061418/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2020-05-01T08:52:57Z",
+        "uri": "https://web.archive.org/web/20200501085257/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2020-06-30T15:11:35Z",
+        "uri": "https://web.archive.org/web/20200630151135/http://catalog.odu.edu:80/courses/musa/"
+      },
+      {
+        "datetime": "2021-01-22T23:12:06Z",
+        "uri": "https://web.archive.org/web/20210122231206/https://catalog.odu.edu/courses/musa/"
+      },
+      {
+        "datetime": "2021-04-12T20:20:12Z",
+        "uri": "https://web.archive.org/web/20210412202012/http://catalog.odu.edu/courses/musa/"
+      },
+      {
+        "datetime": "2021-11-23T20:13:04Z",
+        "uri": "https://web.archive.org/web/20211123201304/https://catalog.odu.edu/courses/musa/"
+      },
+      {
+        "datetime": "2022-03-19T22:31:58Z",
+        "uri": "https://web.archive.org/web/20220319223158/https://catalog.odu.edu/courses/musa/"
+      },
+      {
+        "datetime": "2024-02-29T16:10:01Z",
+        "uri": "https://web.archive.org/web/20240229161001/https://catalog.odu.edu/courses/musa/"
+      },
+      {
+        "datetime": "2024-09-27T13:22:30Z",
+        "uri": "https://web.archive.org/web/20240927132230/https://catalog.odu.edu/courses/musa/"
+      },
+      {
+        "datetime": "2024-10-13T06:56:12Z",
+        "uri": "https://web.archive.org/web/20241013065612/https://catalog.odu.edu/courses/musa/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:37:11Z",
+      "uri": "https://web.archive.org/web/20120902043711/http://catalog.odu.edu:80/courses/musa/"
+    },
+    "last": {
+      "datetime": "2024-10-13T06:56:12Z",
+      "uri": "https://web.archive.org/web/20241013065612/https://catalog.odu.edu/courses/musa/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/musa/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/musa/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/musa/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/musa/"
+}

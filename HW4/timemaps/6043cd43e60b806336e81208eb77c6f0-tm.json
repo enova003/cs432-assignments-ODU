@@ -1,0 +1,58 @@
+{
+  "original_uri": "https://online.odu.edu/academics/academic-resources-overview",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/academics/academic-resources-overview",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-24T17:13:35Z",
+        "uri": "https://web.archive.org/web/20230924171335/https://online.odu.edu/academics/academic-resources-overview"
+      },
+      {
+        "datetime": "2023-12-02T15:07:05Z",
+        "uri": "https://web.archive.org/web/20231202150705/https://online.odu.edu/academics/academic-resources-overview"
+      },
+      {
+        "datetime": "2024-03-28T18:15:01Z",
+        "uri": "https://web.archive.org/web/20240328181501/https://online.odu.edu/academics/academic-resources-overview"
+      },
+      {
+        "datetime": "2024-05-25T21:47:42Z",
+        "uri": "https://web.archive.org/web/20240525214742/https://online.odu.edu/academics/academic-resources-overview"
+      },
+      {
+        "datetime": "2024-07-09T09:25:56Z",
+        "uri": "https://web.archive.org/web/20240709092556/https://online.odu.edu/academics/academic-resources-overview"
+      },
+      {
+        "datetime": "2024-08-04T17:28:37Z",
+        "uri": "https://web.archive.org/web/20240804172837/https://online.odu.edu/academics/academic-resources-overview"
+      },
+      {
+        "datetime": "2024-10-03T16:43:38Z",
+        "uri": "https://web.archive.org/web/20241003164338/https://online.odu.edu/academics/academic-resources-overview"
+      },
+      {
+        "datetime": "2024-11-05T13:00:44Z",
+        "uri": "https://web.archive.org/web/20241105130044/https://online.odu.edu/academics/academic-resources-overview"
+      },
+      {
+        "datetime": "2025-01-19T13:02:41Z",
+        "uri": "https://web.archive.org/web/20250119130241/https://online.odu.edu/academics/academic-resources-overview"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-24T17:13:35Z",
+      "uri": "https://web.archive.org/web/20230924171335/https://online.odu.edu/academics/academic-resources-overview"
+    },
+    "last": {
+      "datetime": "2025-01-19T13:02:41Z",
+      "uri": "https://web.archive.org/web/20250119130241/https://online.odu.edu/academics/academic-resources-overview"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/academics/academic-resources-overview",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/academics/academic-resources-overview",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/academics/academic-resources-overview"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/academics/academic-resources-overview"
+}

@@ -1,0 +1,58 @@
+{
+  "original_uri": "https://www.odu.edu/research/development",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/research/development",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-09-21T17:19:27Z",
+        "uri": "https://web.archive.org/web/20240921171927/https://www.odu.edu/research/development"
+      },
+      {
+        "datetime": "2024-10-06T10:21:19Z",
+        "uri": "https://web.archive.org/web/20241006102119/https://www.odu.edu/research/development"
+      },
+      {
+        "datetime": "2024-10-07T10:23:22Z",
+        "uri": "https://web.archive.org/web/20241007102322/https://www.odu.edu/research/development"
+      },
+      {
+        "datetime": "2024-10-08T06:45:36Z",
+        "uri": "https://web.archive.org/web/20241008064536/https://www.odu.edu/research/development"
+      },
+      {
+        "datetime": "2024-11-19T18:23:37Z",
+        "uri": "https://web.archive.org/web/20241119182337/https://www.odu.edu/research/development"
+      },
+      {
+        "datetime": "2024-12-22T12:37:05Z",
+        "uri": "https://web.archive.org/web/20241222123705/https://www.odu.edu/research/development"
+      },
+      {
+        "datetime": "2024-12-24T17:54:06Z",
+        "uri": "https://web.archive.org/web/20241224175406/https://www.odu.edu/research/development"
+      },
+      {
+        "datetime": "2025-01-13T10:12:19Z",
+        "uri": "https://web.archive.org/web/20250113101219/https://www.odu.edu/research/development"
+      },
+      {
+        "datetime": "2025-02-14T10:00:27Z",
+        "uri": "https://web.archive.org/web/20250214100027/https://www.odu.edu/research/development"
+      }
+    ],
+    "first": {
+      "datetime": "2024-09-21T17:19:27Z",
+      "uri": "https://web.archive.org/web/20240921171927/https://www.odu.edu/research/development"
+    },
+    "last": {
+      "datetime": "2025-02-14T10:00:27Z",
+      "uri": "https://web.archive.org/web/20250214100027/https://www.odu.edu/research/development"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/research/development",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/research/development",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/research/development"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/research/development"
+}

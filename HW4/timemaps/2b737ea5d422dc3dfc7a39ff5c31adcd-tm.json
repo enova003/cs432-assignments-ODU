@@ -1,0 +1,50 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/sciences/mathematics-statistics/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/sciences/mathematics-statistics/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-21T19:47:03Z",
+        "uri": "https://web.archive.org/web/20230921194703/https://catalog.odu.edu/graduate/sciences/mathematics-statistics/"
+      },
+      {
+        "datetime": "2023-09-27T03:09:33Z",
+        "uri": "https://web.archive.org/web/20230927030933/https://catalog.odu.edu/graduate/sciences/mathematics-statistics/"
+      },
+      {
+        "datetime": "2024-02-29T16:10:51Z",
+        "uri": "https://web.archive.org/web/20240229161051/https://catalog.odu.edu/graduate/sciences/mathematics-statistics/"
+      },
+      {
+        "datetime": "2024-03-04T06:17:09Z",
+        "uri": "https://web.archive.org/web/20240304061709/https://catalog.odu.edu/graduate/sciences/mathematics-statistics/"
+      },
+      {
+        "datetime": "2024-03-29T12:51:54Z",
+        "uri": "https://web.archive.org/web/20240329125154/http://catalog.odu.edu/graduate/sciences/mathematics-statistics/"
+      },
+      {
+        "datetime": "2024-03-29T12:51:56Z",
+        "uri": "https://web.archive.org/web/20240329125156/https://catalog.odu.edu/graduate/sciences/mathematics-statistics/"
+      },
+      {
+        "datetime": "2024-09-27T04:33:29Z",
+        "uri": "https://web.archive.org/web/20240927043329/https://catalog.odu.edu/graduate/sciences/mathematics-statistics/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-21T19:47:03Z",
+      "uri": "https://web.archive.org/web/20230921194703/https://catalog.odu.edu/graduate/sciences/mathematics-statistics/"
+    },
+    "last": {
+      "datetime": "2024-09-27T04:33:29Z",
+      "uri": "https://web.archive.org/web/20240927043329/https://catalog.odu.edu/graduate/sciences/mathematics-statistics/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/sciences/mathematics-statistics/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/sciences/mathematics-statistics/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/sciences/mathematics-statistics/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/sciences/mathematics-statistics/"
+}

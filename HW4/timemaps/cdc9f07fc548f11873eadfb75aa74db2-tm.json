@@ -1,0 +1,50 @@
+{
+  "original_uri": "https://www.odu.edu/student-engagement-traditions/student-orgs/funding",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/student-engagement-traditions/student-orgs/funding",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-07-02T01:24:41Z",
+        "uri": "https://web.archive.org/web/20230702012441/https://www.odu.edu/student-engagement-traditions/student-orgs/funding"
+      },
+      {
+        "datetime": "2023-08-26T11:01:08Z",
+        "uri": "https://web.archive.org/web/20230826110108/https://www.odu.edu/student-engagement-traditions/student-orgs/funding"
+      },
+      {
+        "datetime": "2023-09-22T11:48:03Z",
+        "uri": "https://web.archive.org/web/20230922114803/https://www.odu.edu/student-engagement-traditions/student-orgs/funding"
+      },
+      {
+        "datetime": "2023-10-01T15:05:04Z",
+        "uri": "https://web.archive.org/web/20231001150504/https://www.odu.edu/student-engagement-traditions/student-orgs/funding"
+      },
+      {
+        "datetime": "2024-04-21T01:59:30Z",
+        "uri": "https://web.archive.org/web/20240421015930/https://www.odu.edu/student-engagement-traditions/student-orgs/funding"
+      },
+      {
+        "datetime": "2024-08-14T00:43:58Z",
+        "uri": "https://web.archive.org/web/20240814004358/https://www.odu.edu/student-engagement-traditions/student-orgs/funding"
+      },
+      {
+        "datetime": "2024-11-08T11:27:15Z",
+        "uri": "https://web.archive.org/web/20241108112715/https://www.odu.edu/student-engagement-traditions/student-orgs/funding"
+      }
+    ],
+    "first": {
+      "datetime": "2023-07-02T01:24:41Z",
+      "uri": "https://web.archive.org/web/20230702012441/https://www.odu.edu/student-engagement-traditions/student-orgs/funding"
+    },
+    "last": {
+      "datetime": "2024-11-08T11:27:15Z",
+      "uri": "https://web.archive.org/web/20241108112715/https://www.odu.edu/student-engagement-traditions/student-orgs/funding"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/student-engagement-traditions/student-orgs/funding",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/student-engagement-traditions/student-orgs/funding",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/student-engagement-traditions/student-orgs/funding"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/student-engagement-traditions/student-orgs/funding"
+}

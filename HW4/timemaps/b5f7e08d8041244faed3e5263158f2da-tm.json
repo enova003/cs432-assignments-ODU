@@ -1,0 +1,82 @@
+{
+  "original_uri": "https://www.odu.edu/administrative-banner-systems/leo-online",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/administrative-banner-systems/leo-online",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-04-16T02:17:36Z",
+        "uri": "https://web.archive.org/web/20240416021736/https://www.odu.edu/administrative-banner-systems/leo-online"
+      },
+      {
+        "datetime": "2024-05-18T04:44:28Z",
+        "uri": "https://web.archive.org/web/20240518044428/https://www.odu.edu/administrative-banner-systems/leo-online"
+      },
+      {
+        "datetime": "2024-05-24T01:35:16Z",
+        "uri": "https://wayback.archive-it.org/all/20240524013516/https://www.odu.edu/administrative-banner-systems/leo-online"
+      },
+      {
+        "datetime": "2024-06-04T22:07:47Z",
+        "uri": "https://web.archive.org/web/20240604220747/https://www.odu.edu/administrative-banner-systems/leo-online"
+      },
+      {
+        "datetime": "2024-08-06T05:37:05Z",
+        "uri": "https://web.archive.org/web/20240806053705/https://www.odu.edu/administrative-banner-systems/leo-online"
+      },
+      {
+        "datetime": "2024-10-06T03:19:56Z",
+        "uri": "https://web.archive.org/web/20241006031956/https://www.odu.edu/administrative-banner-systems/leo-online"
+      },
+      {
+        "datetime": "2024-11-10T01:30:03Z",
+        "uri": "https://web.archive.org/web/20241110013003/https://www.odu.edu/administrative-banner-systems/leo-online"
+      },
+      {
+        "datetime": "2024-11-13T12:32:52Z",
+        "uri": "https://web.archive.org/web/20241113123252/https://www.odu.edu/administrative-banner-systems/leo-online"
+      },
+      {
+        "datetime": "2024-11-16T22:55:25Z",
+        "uri": "https://web.archive.org/web/20241116225525/https://www.odu.edu/administrative-banner-systems/leo-online"
+      },
+      {
+        "datetime": "2024-12-09T17:40:56Z",
+        "uri": "https://web.archive.org/web/20241209174056/https://www.odu.edu/administrative-banner-systems/leo-online"
+      },
+      {
+        "datetime": "2024-12-17T20:27:54Z",
+        "uri": "https://web.archive.org/web/20241217202754/https://www.odu.edu/administrative-banner-systems/leo-online"
+      },
+      {
+        "datetime": "2024-12-22T17:51:56Z",
+        "uri": "https://web.archive.org/web/20241222175156/https://www.odu.edu/administrative-banner-systems/leo-online"
+      },
+      {
+        "datetime": "2024-12-27T14:58:19Z",
+        "uri": "https://web.archive.org/web/20241227145819/https://www.odu.edu/administrative-banner-systems/leo-online"
+      },
+      {
+        "datetime": "2025-02-07T11:32:00Z",
+        "uri": "https://web.archive.org/web/20250207113200/https://www.odu.edu/administrative-banner-systems/leo-online"
+      },
+      {
+        "datetime": "2025-02-14T10:00:26Z",
+        "uri": "https://web.archive.org/web/20250214100026/https://www.odu.edu/administrative-banner-systems/leo-online"
+      }
+    ],
+    "first": {
+      "datetime": "2024-04-16T02:17:36Z",
+      "uri": "https://web.archive.org/web/20240416021736/https://www.odu.edu/administrative-banner-systems/leo-online"
+    },
+    "last": {
+      "datetime": "2025-02-14T10:00:26Z",
+      "uri": "https://web.archive.org/web/20250214100026/https://www.odu.edu/administrative-banner-systems/leo-online"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/administrative-banner-systems/leo-online",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/administrative-banner-systems/leo-online",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/administrative-banner-systems/leo-online"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/administrative-banner-systems/leo-online"
+}

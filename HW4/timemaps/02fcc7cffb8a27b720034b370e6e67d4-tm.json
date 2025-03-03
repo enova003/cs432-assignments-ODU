@@ -1,0 +1,366 @@
+{
+  "original_uri": "https://www.odu.edu/military-connection",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/military-connection",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-05-07T20:44:27Z",
+        "uri": "https://arquivo.pt/wayback/20220507204427mp_/https://odu.edu/military-connection"
+      },
+      {
+        "datetime": "2022-05-16T04:32:31Z",
+        "uri": "https://arquivo.pt/wayback/20220516043231mp_/http://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2022-05-21T11:27:19Z",
+        "uri": "https://web.archive.org/web/20220521112719/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2022-05-27T18:06:01Z",
+        "uri": "https://web.archive.org/web/20220527180601/https://odu.edu/military-connection"
+      },
+      {
+        "datetime": "2022-05-28T03:39:11Z",
+        "uri": "https://web.archive.org/web/20220528033911/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2022-06-15T05:51:41Z",
+        "uri": "https://web.archive.org/web/20220615055141/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2022-06-25T08:36:42Z",
+        "uri": "https://web.archive.org/web/20220625083642/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2022-08-10T22:12:16Z",
+        "uri": "https://wayback.archive-it.org/all/20220810221216/https://odu.edu/military-connection"
+      },
+      {
+        "datetime": "2022-08-10T22:12:16Z",
+        "uri": "https://web.archive.org/web/20220810221216/https://odu.edu/military-connection"
+      },
+      {
+        "datetime": "2022-08-10T22:12:42Z",
+        "uri": "https://wayback.archive-it.org/all/20220810221242/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2022-08-10T22:12:42Z",
+        "uri": "https://web.archive.org/web/20220810221242/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2022-08-10T22:12:56Z",
+        "uri": "https://wayback.archive-it.org/all/20220810221256/http://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2022-08-10T22:12:56Z",
+        "uri": "https://web.archive.org/web/20220810221256/http://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2022-08-18T06:36:16Z",
+        "uri": "https://arquivo.pt/wayback/20220818063616mp_/https://odu.edu/military-connection"
+      },
+      {
+        "datetime": "2022-08-31T21:45:42Z",
+        "uri": "https://web.archive.org/web/20220831214542/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2022-09-05T11:22:11Z",
+        "uri": "https://web.archive.org/web/20220905112211/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2022-09-27T13:28:08Z",
+        "uri": "https://web.archive.org/web/20220927132808/https://odu.edu/military-connection"
+      },
+      {
+        "datetime": "2022-10-02T08:45:25Z",
+        "uri": "https://web.archive.org/web/20221002084525/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2022-11-07T06:02:31Z",
+        "uri": "https://wayback.archive-it.org/all/20221107060231/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2022-11-07T06:02:31Z",
+        "uri": "https://web.archive.org/web/20221107060231/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2022-11-07T18:28:40Z",
+        "uri": "https://wayback.archive-it.org/all/20221107182840/http://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2022-11-07T18:28:40Z",
+        "uri": "https://web.archive.org/web/20221107182840/http://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2022-11-16T03:45:47Z",
+        "uri": "https://arquivo.pt/wayback/20221116034547mp_/https://odu.edu/military-connection"
+      },
+      {
+        "datetime": "2022-11-18T18:19:09Z",
+        "uri": "https://web.archive.org/web/20221118181909/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2022-12-07T11:46:13Z",
+        "uri": "https://wayback.archive-it.org/all/20221207114613/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2022-12-07T11:46:13Z",
+        "uri": "https://web.archive.org/web/20221207114613/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2022-12-08T06:00:01Z",
+        "uri": "https://web.archive.org/web/20221208060001/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2022-12-10T16:47:34Z",
+        "uri": "https://wayback.archive-it.org/all/20221210164734/http://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2022-12-10T16:47:34Z",
+        "uri": "https://web.archive.org/web/20221210164734/http://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2023-01-07T11:08:50Z",
+        "uri": "https://wayback.archive-it.org/all/20230107110850/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2023-01-07T11:08:50Z",
+        "uri": "https://web.archive.org/web/20230107110850/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2023-01-09T21:05:22Z",
+        "uri": "https://wayback.archive-it.org/all/20230109210522/http://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2023-01-09T21:05:22Z",
+        "uri": "https://web.archive.org/web/20230109210522/http://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2023-01-24T20:24:48Z",
+        "uri": "https://arquivo.pt/wayback/20230124202448mp_/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2023-02-07T09:47:29Z",
+        "uri": "https://wayback.archive-it.org/all/20230207094729/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2023-02-07T09:47:29Z",
+        "uri": "https://web.archive.org/web/20230207094729/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2023-02-10T03:24:55Z",
+        "uri": "https://wayback.archive-it.org/all/20230210032455/http://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2023-02-10T03:24:55Z",
+        "uri": "https://web.archive.org/web/20230210032455/http://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2023-02-20T01:00:30Z",
+        "uri": "https://web.archive.org/web/20230220010030/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2023-03-07T04:55:28Z",
+        "uri": "https://wayback.archive-it.org/all/20230307045528/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2023-03-07T04:55:28Z",
+        "uri": "https://web.archive.org/web/20230307045528/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2023-03-07T15:04:05Z",
+        "uri": "https://wayback.archive-it.org/all/20230307150405/http://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2023-03-07T15:04:05Z",
+        "uri": "https://web.archive.org/web/20230307150405/http://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2023-03-27T16:12:14Z",
+        "uri": "https://web.archive.org/web/20230327161214/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2023-03-27T22:34:29Z",
+        "uri": "https://web.archive.org/web/20230327223429/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2023-07-15T00:31:33Z",
+        "uri": "https://web.archive.org/web/20230715003133/http://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2023-08-25T18:48:53Z",
+        "uri": "https://wayback.archive-it.org/all/20230825184853/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2023-08-25T18:48:53Z",
+        "uri": "https://web.archive.org/web/20230825184853/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2023-08-26T14:25:03Z",
+        "uri": "https://wayback.archive-it.org/all/20230826142503/http://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2023-08-26T14:25:03Z",
+        "uri": "https://web.archive.org/web/20230826142503/http://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2023-11-28T03:54:18Z",
+        "uri": "https://web.archive.org/web/20231128035418/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2024-02-21T20:25:53Z",
+        "uri": "https://web.archive.org/web/20240221202553/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2024-02-28T21:33:29Z",
+        "uri": "https://web.archive.org/web/20240228213329/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2024-02-28T23:38:57Z",
+        "uri": "https://web.archive.org/web/20240228233857/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2024-03-03T08:48:27Z",
+        "uri": "https://web.archive.org/web/20240303084827/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2024-03-06T15:30:05Z",
+        "uri": "https://web.archive.org/web/20240306153005/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2024-03-25T12:55:22Z",
+        "uri": "https://web.archive.org/web/20240325125522/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2024-04-04T07:27:05Z",
+        "uri": "https://web.archive.org/web/20240404072705/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2024-04-17T03:32:11Z",
+        "uri": "https://web.archive.org/web/20240417033211/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2024-04-27T16:09:19Z",
+        "uri": "https://web.archive.org/web/20240427160919/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2024-05-13T13:54:38Z",
+        "uri": "https://web.archive.org/web/20240513135438/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2024-05-23T23:07:35Z",
+        "uri": "https://wayback.archive-it.org/all/20240523230735/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2024-05-25T13:12:11Z",
+        "uri": "https://web.archive.org/web/20240525131211/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2024-05-28T01:20:44Z",
+        "uri": "https://web.archive.org/web/20240528012044/http://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2024-06-18T17:37:43Z",
+        "uri": "https://web.archive.org/web/20240618173743/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2024-07-15T23:30:25Z",
+        "uri": "https://web.archive.org/web/20240715233025/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2024-07-21T06:15:12Z",
+        "uri": "https://web.archive.org/web/20240721061512/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2024-07-28T12:51:39Z",
+        "uri": "https://web.archive.org/web/20240728125139/https://odu.edu/military-connection"
+      },
+      {
+        "datetime": "2024-09-10T00:59:24Z",
+        "uri": "https://web.archive.org/web/20240910005924/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2024-09-16T01:27:27Z",
+        "uri": "https://web.archive.org/web/20240916012727/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2024-09-17T20:58:32Z",
+        "uri": "https://web.archive.org/web/20240917205832/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2024-10-07T10:38:15Z",
+        "uri": "https://web.archive.org/web/20241007103815/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2024-10-14T01:03:42Z",
+        "uri": "https://web.archive.org/web/20241014010342/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2024-10-23T06:40:44Z",
+        "uri": "https://web.archive.org/web/20241023064044/http://odu.edu/military-connection/"
+      },
+      {
+        "datetime": "2024-10-30T05:31:06Z",
+        "uri": "https://web.archive.org/web/20241030053106/https://odu.edu/military-connection/"
+      },
+      {
+        "datetime": "2024-10-30T06:22:28Z",
+        "uri": "https://web.archive.org/web/20241030062228/https://www.odu.edu/military-connection/"
+      },
+      {
+        "datetime": "2024-11-08T19:04:33Z",
+        "uri": "https://web.archive.org/web/20241108190433/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2024-11-10T09:26:35Z",
+        "uri": "https://web.archive.org/web/20241110092635/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2024-11-18T18:38:10Z",
+        "uri": "https://web.archive.org/web/20241118183810/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2024-12-10T16:46:39Z",
+        "uri": "https://web.archive.org/web/20241210164639/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2024-12-22T17:05:54Z",
+        "uri": "https://web.archive.org/web/20241222170554/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2024-12-22T18:36:54Z",
+        "uri": "https://web.archive.org/web/20241222183654/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2024-12-24T17:53:35Z",
+        "uri": "https://web.archive.org/web/20241224175335/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2025-01-15T04:51:29Z",
+        "uri": "https://web.archive.org/web/20250115045129/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2025-02-09T18:14:51Z",
+        "uri": "https://web.archive.org/web/20250209181451/https://www.odu.edu/military-connection"
+      },
+      {
+        "datetime": "2025-02-14T09:59:58Z",
+        "uri": "https://web.archive.org/web/20250214095958/https://www.odu.edu/military-connection"
+      }
+    ],
+    "first": {
+      "datetime": "2022-05-07T20:44:27Z",
+      "uri": "https://arquivo.pt/wayback/20220507204427mp_/https://odu.edu/military-connection"
+    },
+    "last": {
+      "datetime": "2025-02-14T09:59:58Z",
+      "uri": "https://web.archive.org/web/20250214095958/https://www.odu.edu/military-connection"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/military-connection",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/military-connection",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/military-connection"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/military-connection"
+}

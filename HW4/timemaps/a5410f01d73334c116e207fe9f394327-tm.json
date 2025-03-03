@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://online.odu.edu/cost/scholarships/military-scholarship-opportunity",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/cost/scholarships/military-scholarship-opportunity",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-04-23T04:12:20Z",
+        "uri": "https://web.archive.org/web/20240423041220/https://online.odu.edu/cost/scholarships/military-scholarship-opportunity"
+      },
+      {
+        "datetime": "2024-07-09T23:25:41Z",
+        "uri": "https://web.archive.org/web/20240709232541/https://online.odu.edu/cost/scholarships/military-scholarship-opportunity"
+      },
+      {
+        "datetime": "2024-07-21T21:59:49Z",
+        "uri": "https://web.archive.org/web/20240721215949/https://online.odu.edu/cost/scholarships/military-scholarship-opportunity"
+      },
+      {
+        "datetime": "2024-09-20T16:31:00Z",
+        "uri": "https://web.archive.org/web/20240920163100/https://online.odu.edu/cost/scholarships/military-scholarship-opportunity"
+      },
+      {
+        "datetime": "2024-10-05T12:18:44Z",
+        "uri": "https://web.archive.org/web/20241005121844/https://online.odu.edu/cost/scholarships/military-scholarship-opportunity"
+      },
+      {
+        "datetime": "2025-01-19T13:02:19Z",
+        "uri": "https://web.archive.org/web/20250119130219/https://online.odu.edu/cost/scholarships/military-scholarship-opportunity"
+      }
+    ],
+    "first": {
+      "datetime": "2024-04-23T04:12:20Z",
+      "uri": "https://web.archive.org/web/20240423041220/https://online.odu.edu/cost/scholarships/military-scholarship-opportunity"
+    },
+    "last": {
+      "datetime": "2025-01-19T13:02:19Z",
+      "uri": "https://web.archive.org/web/20250119130219/https://online.odu.edu/cost/scholarships/military-scholarship-opportunity"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/cost/scholarships/military-scholarship-opportunity",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/cost/scholarships/military-scholarship-opportunity",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/cost/scholarships/military-scholarship-opportunity"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/cost/scholarships/military-scholarship-opportunity"
+}

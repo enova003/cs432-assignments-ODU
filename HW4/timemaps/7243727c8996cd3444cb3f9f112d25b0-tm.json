@@ -1,0 +1,578 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/msim/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/msim/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:26:43Z",
+        "uri": "https://web.archive.org/web/20120902042643/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2013-05-17T08:00:12Z",
+        "uri": "https://web.archive.org/web/20130517080012/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2014-04-21T22:24:19Z",
+        "uri": "https://web.archive.org/web/20140421222419/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2014-06-21T11:40:22Z",
+        "uri": "https://web.archive.org/web/20140621114022/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2014-08-21T00:27:17Z",
+        "uri": "https://web.archive.org/web/20140821002717/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2014-10-20T16:23:54Z",
+        "uri": "https://web.archive.org/web/20141020162354/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2014-10-21T20:57:14Z",
+        "uri": "https://web.archive.org/web/20141021205714/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2014-12-21T05:22:15Z",
+        "uri": "https://web.archive.org/web/20141221052215/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2014-12-26T22:06:36Z",
+        "uri": "https://web.archive.org/web/20141226220636/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2014-12-26T22:06:36Z",
+        "uri": "https://web.archive.org/web/20141226220636/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2015-01-27T04:20:14Z",
+        "uri": "https://web.archive.org/web/20150127042014/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2015-01-27T04:20:14Z",
+        "uri": "https://web.archive.org/web/20150127042014/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2015-02-15T16:05:03Z",
+        "uri": "https://web.archive.org/web/20150215160503/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2015-03-30T23:20:27Z",
+        "uri": "https://web.archive.org/web/20150330232027/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2015-03-30T23:20:27Z",
+        "uri": "https://web.archive.org/web/20150330232027/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2015-04-17T00:54:36Z",
+        "uri": "https://web.archive.org/web/20150417005436/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2015-04-30T07:06:11Z",
+        "uri": "https://web.archive.org/web/20150430070611/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2015-04-30T07:06:11Z",
+        "uri": "https://web.archive.org/web/20150430070611/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2015-05-11T07:36:27Z",
+        "uri": "https://web.archive.org/web/20150511073627/http://catalog.odu.edu/courses/msim/"
+      },
+      {
+        "datetime": "2015-05-31T02:29:08Z",
+        "uri": "https://web.archive.org/web/20150531022908/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2015-05-31T02:29:08Z",
+        "uri": "https://web.archive.org/web/20150531022908/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2015-06-16T14:53:41Z",
+        "uri": "https://web.archive.org/web/20150616145341/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2015-07-01T04:31:56Z",
+        "uri": "https://web.archive.org/web/20150701043156/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2015-07-01T04:31:56Z",
+        "uri": "https://web.archive.org/web/20150701043156/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2015-07-03T06:19:17Z",
+        "uri": "https://web.archive.org/web/20150703061917/http://catalog.odu.edu/courses/msim/"
+      },
+      {
+        "datetime": "2015-08-16T00:56:18Z",
+        "uri": "https://web.archive.org/web/20150816005618/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2015-08-17T01:11:16Z",
+        "uri": "https://web.archive.org/web/20150817011116/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2015-08-17T01:11:16Z",
+        "uri": "https://web.archive.org/web/20150817011116/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2015-09-16T09:56:14Z",
+        "uri": "https://web.archive.org/web/20150916095614/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2015-09-16T09:56:14Z",
+        "uri": "https://web.archive.org/web/20150916095614/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2015-10-15T06:56:37Z",
+        "uri": "https://web.archive.org/web/20151015065637/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2015-10-22T03:13:00Z",
+        "uri": "https://web.archive.org/web/20151022031300/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2015-10-22T03:13:00Z",
+        "uri": "https://web.archive.org/web/20151022031300/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2015-11-21T17:18:31Z",
+        "uri": "https://web.archive.org/web/20151121171831/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2015-11-21T17:18:31Z",
+        "uri": "https://web.archive.org/web/20151121171831/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2015-12-14T13:59:18Z",
+        "uri": "https://web.archive.org/web/20151214135918/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2015-12-22T08:54:11Z",
+        "uri": "https://web.archive.org/web/20151222085411/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2015-12-22T08:54:11Z",
+        "uri": "https://web.archive.org/web/20151222085411/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2016-01-09T14:32:04Z",
+        "uri": "https://web.archive.org/web/20160109143204/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2016-01-23T15:43:45Z",
+        "uri": "https://web.archive.org/web/20160123154345/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2016-01-23T15:43:45Z",
+        "uri": "https://web.archive.org/web/20160123154345/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2016-02-23T10:28:02Z",
+        "uri": "https://web.archive.org/web/20160223102802/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2016-02-23T10:28:02Z",
+        "uri": "https://web.archive.org/web/20160223102802/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2016-03-10T14:52:00Z",
+        "uri": "https://web.archive.org/web/20160310145200/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2016-03-24T23:06:36Z",
+        "uri": "https://web.archive.org/web/20160324230636/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2016-03-24T23:06:36Z",
+        "uri": "https://web.archive.org/web/20160324230636/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2016-04-09T00:07:52Z",
+        "uri": "https://web.archive.org/web/20160409000752/http://catalog.odu.edu/courses/msim/"
+      },
+      {
+        "datetime": "2016-04-24T19:55:10Z",
+        "uri": "https://web.archive.org/web/20160424195510/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2016-04-24T19:55:10Z",
+        "uri": "https://web.archive.org/web/20160424195510/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2016-05-10T05:42:10Z",
+        "uri": "https://web.archive.org/web/20160510054210/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2016-05-26T01:34:11Z",
+        "uri": "https://web.archive.org/web/20160526013411/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2016-05-26T01:34:11Z",
+        "uri": "https://web.archive.org/web/20160526013411/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2016-06-27T03:56:39Z",
+        "uri": "https://web.archive.org/web/20160627035639/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2016-06-27T03:56:39Z",
+        "uri": "https://web.archive.org/web/20160627035639/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2016-07-10T02:32:44Z",
+        "uri": "https://web.archive.org/web/20160710023244/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2016-07-28T10:08:33Z",
+        "uri": "https://web.archive.org/web/20160728100833/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2016-07-28T10:08:33Z",
+        "uri": "https://web.archive.org/web/20160728100833/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2016-11-09T01:24:03Z",
+        "uri": "https://web.archive.org/web/20161109012403/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2016-11-27T02:08:18Z",
+        "uri": "https://web.archive.org/web/20161127020818/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2016-11-27T02:08:18Z",
+        "uri": "https://web.archive.org/web/20161127020818/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2016-12-05T04:59:27Z",
+        "uri": "https://web.archive.org/web/20161205045927/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2017-04-27T04:57:40Z",
+        "uri": "https://web.archive.org/web/20170427045740/http://catalog.odu.edu/courses/msim/"
+      },
+      {
+        "datetime": "2017-05-05T01:29:54Z",
+        "uri": "https://web.archive.org/web/20170505012954/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2017-05-05T01:29:54Z",
+        "uri": "https://web.archive.org/web/20170505012954/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2017-05-21T17:48:16Z",
+        "uri": "https://web.archive.org/web/20170521174816/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2017-06-05T06:07:54Z",
+        "uri": "https://web.archive.org/web/20170605060754/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2017-06-05T06:07:54Z",
+        "uri": "https://web.archive.org/web/20170605060754/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2017-07-06T08:15:30Z",
+        "uri": "https://web.archive.org/web/20170706081530/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2017-07-06T08:15:30Z",
+        "uri": "https://web.archive.org/web/20170706081530/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2017-07-09T01:29:32Z",
+        "uri": "https://web.archive.org/web/20170709012932/http://catalog.odu.edu/courses/msim/"
+      },
+      {
+        "datetime": "2017-07-22T03:43:28Z",
+        "uri": "https://web.archive.org/web/20170722034328/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2017-08-06T11:03:23Z",
+        "uri": "https://web.archive.org/web/20170806110323/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2017-08-06T11:03:23Z",
+        "uri": "https://web.archive.org/web/20170806110323/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2017-09-21T09:21:12Z",
+        "uri": "https://web.archive.org/web/20170921092112/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2017-11-20T18:43:26Z",
+        "uri": "https://web.archive.org/web/20171120184326/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2018-01-21T18:55:32Z",
+        "uri": "https://web.archive.org/web/20180121185532/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2018-03-23T22:08:08Z",
+        "uri": "https://web.archive.org/web/20180323220808/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2018-05-14T01:22:08Z",
+        "uri": "https://web.archive.org/web/20180514012208/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2018-05-14T01:22:08Z",
+        "uri": "https://web.archive.org/web/20180514012208/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2018-05-23T18:14:27Z",
+        "uri": "https://web.archive.org/web/20180523181427/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2018-06-13T17:00:44Z",
+        "uri": "https://web.archive.org/web/20180613170044/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2018-06-13T17:00:44Z",
+        "uri": "https://web.archive.org/web/20180613170044/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2018-07-14T12:14:38Z",
+        "uri": "https://web.archive.org/web/20180714121438/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2018-07-14T12:14:38Z",
+        "uri": "https://web.archive.org/web/20180714121438/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2018-08-15T07:55:26Z",
+        "uri": "https://web.archive.org/web/20180815075526/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2018-08-15T07:55:26Z",
+        "uri": "https://web.archive.org/web/20180815075526/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2018-08-17T00:05:42Z",
+        "uri": "https://web.archive.org/web/20180817000542/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2018-08-17T00:05:42Z",
+        "uri": "https://web.archive.org/web/20180817000542/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2018-09-17T00:57:59Z",
+        "uri": "https://web.archive.org/web/20180917005759/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2018-09-17T00:57:59Z",
+        "uri": "https://web.archive.org/web/20180917005759/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2018-09-25T17:47:07Z",
+        "uri": "https://web.archive.org/web/20180925174707/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2018-10-17T11:34:53Z",
+        "uri": "https://web.archive.org/web/20181017113453/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2018-10-17T11:34:53Z",
+        "uri": "https://web.archive.org/web/20181017113453/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2018-10-18T14:36:49Z",
+        "uri": "https://web.archive.org/web/20181018143649/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2018-10-18T14:36:49Z",
+        "uri": "https://web.archive.org/web/20181018143649/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2018-11-19T02:19:57Z",
+        "uri": "https://web.archive.org/web/20181119021957/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2018-11-19T02:19:57Z",
+        "uri": "https://web.archive.org/web/20181119021957/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2018-11-26T07:01:00Z",
+        "uri": "https://web.archive.org/web/20181126070100/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2018-12-20T03:51:47Z",
+        "uri": "https://web.archive.org/web/20181220035147/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2018-12-20T03:51:47Z",
+        "uri": "https://web.archive.org/web/20181220035147/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2019-01-20T03:11:52Z",
+        "uri": "https://web.archive.org/web/20190120031152/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2019-01-20T03:11:52Z",
+        "uri": "https://web.archive.org/web/20190120031152/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2019-01-26T09:36:09Z",
+        "uri": "https://web.archive.org/web/20190126093609/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2019-02-20T05:56:42Z",
+        "uri": "https://web.archive.org/web/20190220055642/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2019-02-20T05:56:42Z",
+        "uri": "https://web.archive.org/web/20190220055642/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2019-03-23T22:18:47Z",
+        "uri": "https://web.archive.org/web/20190323221847/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2019-03-23T22:18:47Z",
+        "uri": "https://web.archive.org/web/20190323221847/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2019-03-28T08:49:35Z",
+        "uri": "https://web.archive.org/web/20190328084935/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2019-04-23T23:44:23Z",
+        "uri": "https://web.archive.org/web/20190423234423/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2019-04-23T23:44:23Z",
+        "uri": "https://web.archive.org/web/20190423234423/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2019-05-25T15:38:30Z",
+        "uri": "https://web.archive.org/web/20190525153830/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2019-05-25T15:38:30Z",
+        "uri": "https://web.archive.org/web/20190525153830/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2019-06-25T09:51:46Z",
+        "uri": "https://web.archive.org/web/20190625095146/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2019-06-25T09:51:46Z",
+        "uri": "https://web.archive.org/web/20190625095146/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2019-07-26T17:35:24Z",
+        "uri": "https://web.archive.org/web/20190726173524/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2019-07-26T17:35:24Z",
+        "uri": "https://web.archive.org/web/20190726173524/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2019-07-28T20:23:32Z",
+        "uri": "https://web.archive.org/web/20190728202332/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2019-08-26T20:12:04Z",
+        "uri": "https://web.archive.org/web/20190826201204/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2019-08-26T20:12:04Z",
+        "uri": "https://web.archive.org/web/20190826201204/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2019-09-27T12:56:57Z",
+        "uri": "https://web.archive.org/web/20190927125657/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2019-09-27T15:33:49Z",
+        "uri": "https://web.archive.org/web/20190927153349/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2019-09-27T15:33:49Z",
+        "uri": "https://web.archive.org/web/20190927153349/http://catalog.odu.edu:80/courses/msim"
+      },
+      {
+        "datetime": "2019-10-09T05:28:09Z",
+        "uri": "https://web.archive.org/web/20191009052809/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2019-10-24T15:31:30Z",
+        "uri": "https://web.archive.org/web/20191024153130/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2019-11-23T23:01:31Z",
+        "uri": "https://web.archive.org/web/20191123230131/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2019-12-24T04:07:41Z",
+        "uri": "https://web.archive.org/web/20191224040741/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2020-01-23T07:55:00Z",
+        "uri": "https://web.archive.org/web/20200123075500/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2020-02-22T11:34:38Z",
+        "uri": "https://web.archive.org/web/20200222113438/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2020-03-02T06:06:36Z",
+        "uri": "https://web.archive.org/web/20200302060636/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2020-05-01T08:52:44Z",
+        "uri": "https://web.archive.org/web/20200501085244/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2020-06-30T15:11:25Z",
+        "uri": "https://web.archive.org/web/20200630151125/http://catalog.odu.edu:80/courses/msim/"
+      },
+      {
+        "datetime": "2021-01-24T09:55:03Z",
+        "uri": "https://web.archive.org/web/20210124095503/https://catalog.odu.edu/courses/msim/"
+      },
+      {
+        "datetime": "2021-04-12T20:23:41Z",
+        "uri": "https://web.archive.org/web/20210412202341/http://catalog.odu.edu/courses/msim/"
+      },
+      {
+        "datetime": "2021-11-08T18:19:31Z",
+        "uri": "https://web.archive.org/web/20211108181931/https://catalog.odu.edu/courses/msim/"
+      },
+      {
+        "datetime": "2022-03-19T20:08:37Z",
+        "uri": "https://web.archive.org/web/20220319200837/https://catalog.odu.edu/courses/msim/"
+      },
+      {
+        "datetime": "2024-02-29T16:07:41Z",
+        "uri": "https://web.archive.org/web/20240229160741/https://catalog.odu.edu/courses/msim/"
+      },
+      {
+        "datetime": "2024-04-21T04:10:31Z",
+        "uri": "https://web.archive.org/web/20240421041031/http://catalog.odu.edu/courses/msim/"
+      },
+      {
+        "datetime": "2024-07-18T08:41:19Z",
+        "uri": "https://web.archive.org/web/20240718084119/https://catalog.odu.edu/courses/msim/"
+      },
+      {
+        "datetime": "2024-11-11T23:58:30Z",
+        "uri": "https://web.archive.org/web/20241111235830/https://catalog.odu.edu/courses/msim/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:26:43Z",
+      "uri": "https://web.archive.org/web/20120902042643/http://catalog.odu.edu:80/courses/msim/"
+    },
+    "last": {
+      "datetime": "2024-11-11T23:58:30Z",
+      "uri": "https://web.archive.org/web/20241111235830/https://catalog.odu.edu/courses/msim/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/msim/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/msim/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/msim/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/msim/"
+}

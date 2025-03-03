@@ -1,0 +1,222 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/ital/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/ital/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:26:07Z",
+        "uri": "https://web.archive.org/web/20120902042607/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2013-05-17T08:04:03Z",
+        "uri": "https://web.archive.org/web/20130517080403/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2014-04-22T11:52:04Z",
+        "uri": "https://web.archive.org/web/20140422115204/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2014-06-22T04:21:37Z",
+        "uri": "https://web.archive.org/web/20140622042137/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2014-08-22T03:32:46Z",
+        "uri": "https://web.archive.org/web/20140822033246/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2014-10-21T20:56:37Z",
+        "uri": "https://web.archive.org/web/20141021205637/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2014-12-21T05:21:36Z",
+        "uri": "https://web.archive.org/web/20141221052136/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2015-02-15T16:04:22Z",
+        "uri": "https://web.archive.org/web/20150215160422/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2015-04-17T03:12:14Z",
+        "uri": "https://web.archive.org/web/20150417031214/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2015-05-11T07:31:43Z",
+        "uri": "https://web.archive.org/web/20150511073143/http://catalog.odu.edu/courses/ital/"
+      },
+      {
+        "datetime": "2015-06-16T14:52:25Z",
+        "uri": "https://web.archive.org/web/20150616145225/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2015-07-03T05:55:38Z",
+        "uri": "https://web.archive.org/web/20150703055538/http://catalog.odu.edu/courses/ital/"
+      },
+      {
+        "datetime": "2015-08-16T00:49:53Z",
+        "uri": "https://web.archive.org/web/20150816004953/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2015-10-15T07:13:22Z",
+        "uri": "https://web.archive.org/web/20151015071322/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2015-12-14T15:29:23Z",
+        "uri": "https://web.archive.org/web/20151214152923/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2016-02-13T07:51:23Z",
+        "uri": "https://web.archive.org/web/20160213075123/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2016-04-13T17:58:14Z",
+        "uri": "https://web.archive.org/web/20160413175814/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2016-06-13T11:02:40Z",
+        "uri": "https://web.archive.org/web/20160613110240/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2016-08-13T03:31:24Z",
+        "uri": "https://web.archive.org/web/20160813033124/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2016-10-13T00:06:45Z",
+        "uri": "https://web.archive.org/web/20161013000645/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2016-12-05T04:58:06Z",
+        "uri": "https://web.archive.org/web/20161205045806/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2017-04-08T17:58:18Z",
+        "uri": "https://web.archive.org/web/20170408175818/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2017-04-27T04:44:31Z",
+        "uri": "https://web.archive.org/web/20170427044431/http://catalog.odu.edu/courses/ital/"
+      },
+      {
+        "datetime": "2017-06-08T07:07:10Z",
+        "uri": "https://web.archive.org/web/20170608070710/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2017-08-08T13:39:59Z",
+        "uri": "https://web.archive.org/web/20170808133959/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2017-10-08T18:52:46Z",
+        "uri": "https://web.archive.org/web/20171008185246/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2017-12-09T00:10:37Z",
+        "uri": "https://web.archive.org/web/20171209001037/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2018-02-07T19:13:08Z",
+        "uri": "https://web.archive.org/web/20180207191308/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2018-04-09T20:15:51Z",
+        "uri": "https://web.archive.org/web/20180409201551/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2018-06-10T06:26:32Z",
+        "uri": "https://web.archive.org/web/20180610062632/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2018-08-10T07:50:08Z",
+        "uri": "https://web.archive.org/web/20180810075008/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2018-10-10T04:06:29Z",
+        "uri": "https://web.archive.org/web/20181010040629/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2018-10-11T04:24:11Z",
+        "uri": "https://web.archive.org/web/20181011042411/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2018-12-11T10:30:51Z",
+        "uri": "https://web.archive.org/web/20181211103051/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2019-02-11T09:40:20Z",
+        "uri": "https://web.archive.org/web/20190211094020/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2019-04-13T00:22:58Z",
+        "uri": "https://web.archive.org/web/20190413002258/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2019-06-12T16:32:48Z",
+        "uri": "https://web.archive.org/web/20190612163248/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2019-08-13T04:53:02Z",
+        "uri": "https://web.archive.org/web/20190813045302/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2019-10-09T05:18:13Z",
+        "uri": "https://web.archive.org/web/20191009051813/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2019-12-08T12:34:28Z",
+        "uri": "https://web.archive.org/web/20191208123428/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2020-02-06T16:38:23Z",
+        "uri": "https://web.archive.org/web/20200206163823/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2020-03-02T06:05:36Z",
+        "uri": "https://web.archive.org/web/20200302060536/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2020-05-01T08:46:22Z",
+        "uri": "https://web.archive.org/web/20200501084622/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2020-06-30T12:18:20Z",
+        "uri": "https://web.archive.org/web/20200630121820/http://catalog.odu.edu:80/courses/ital/"
+      },
+      {
+        "datetime": "2021-01-22T22:23:52Z",
+        "uri": "https://web.archive.org/web/20210122222352/https://catalog.odu.edu/courses/ital/"
+      },
+      {
+        "datetime": "2021-04-12T20:26:07Z",
+        "uri": "https://web.archive.org/web/20210412202607/http://catalog.odu.edu/courses/ital/"
+      },
+      {
+        "datetime": "2021-11-21T13:22:48Z",
+        "uri": "https://web.archive.org/web/20211121132248/https://catalog.odu.edu/courses/ital/"
+      },
+      {
+        "datetime": "2022-03-19T21:20:02Z",
+        "uri": "https://web.archive.org/web/20220319212002/https://catalog.odu.edu/courses/ital/"
+      },
+      {
+        "datetime": "2023-12-08T06:22:14Z",
+        "uri": "https://web.archive.org/web/20231208062214/https://catalog.odu.edu/courses/ital/"
+      },
+      {
+        "datetime": "2024-12-07T06:05:45Z",
+        "uri": "https://web.archive.org/web/20241207060545/https://catalog.odu.edu/courses/ital/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:26:07Z",
+      "uri": "https://web.archive.org/web/20120902042607/http://catalog.odu.edu:80/courses/ital/"
+    },
+    "last": {
+      "datetime": "2024-12-07T06:05:45Z",
+      "uri": "https://web.archive.org/web/20241207060545/https://catalog.odu.edu/courses/ital/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/ital/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/ital/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/ital/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/ital/"
+}

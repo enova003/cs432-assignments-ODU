@@ -1,0 +1,50 @@
+{
+  "original_uri": "https://online.odu.edu/events",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/events",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-03-17T22:32:08Z",
+        "uri": "https://web.archive.org/web/20240317223208/https://online.odu.edu/events"
+      },
+      {
+        "datetime": "2024-03-31T05:13:11Z",
+        "uri": "https://web.archive.org/web/20240331051311/https://online.odu.edu/events"
+      },
+      {
+        "datetime": "2024-04-23T05:03:07Z",
+        "uri": "https://web.archive.org/web/20240423050307/https://online.odu.edu/events"
+      },
+      {
+        "datetime": "2024-07-09T02:20:28Z",
+        "uri": "https://web.archive.org/web/20240709022028/https://online.odu.edu/events"
+      },
+      {
+        "datetime": "2024-07-21T22:47:36Z",
+        "uri": "https://web.archive.org/web/20240721224736/https://online.odu.edu/events"
+      },
+      {
+        "datetime": "2024-10-03T17:09:26Z",
+        "uri": "https://web.archive.org/web/20241003170926/https://online.odu.edu/events"
+      },
+      {
+        "datetime": "2025-01-19T13:02:47Z",
+        "uri": "https://web.archive.org/web/20250119130247/https://online.odu.edu/events"
+      }
+    ],
+    "first": {
+      "datetime": "2024-03-17T22:32:08Z",
+      "uri": "https://web.archive.org/web/20240317223208/https://online.odu.edu/events"
+    },
+    "last": {
+      "datetime": "2025-01-19T13:02:47Z",
+      "uri": "https://web.archive.org/web/20250119130247/https://online.odu.edu/events"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/events",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/events",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/events"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/events"
+}

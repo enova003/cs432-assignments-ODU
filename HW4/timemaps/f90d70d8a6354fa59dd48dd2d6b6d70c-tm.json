@@ -1,0 +1,262 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/rus/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/rus/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:24:29Z",
+        "uri": "https://web.archive.org/web/20120902042429/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2013-05-17T08:04:39Z",
+        "uri": "https://web.archive.org/web/20130517080439/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2014-04-22T11:54:44Z",
+        "uri": "https://web.archive.org/web/20140422115444/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2014-06-22T04:22:18Z",
+        "uri": "https://web.archive.org/web/20140622042218/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2014-08-22T03:30:00Z",
+        "uri": "https://web.archive.org/web/20140822033000/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2014-10-21T21:00:22Z",
+        "uri": "https://web.archive.org/web/20141021210022/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2014-12-21T05:23:08Z",
+        "uri": "https://web.archive.org/web/20141221052308/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2015-02-15T16:01:23Z",
+        "uri": "https://web.archive.org/web/20150215160123/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2015-04-17T03:20:13Z",
+        "uri": "https://web.archive.org/web/20150417032013/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2015-05-11T06:58:13Z",
+        "uri": "https://web.archive.org/web/20150511065813/http://catalog.odu.edu/courses/rus/"
+      },
+      {
+        "datetime": "2015-06-16T14:55:39Z",
+        "uri": "https://web.archive.org/web/20150616145539/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2015-07-03T08:06:22Z",
+        "uri": "https://web.archive.org/web/20150703080622/http://catalog.odu.edu/courses/rus/"
+      },
+      {
+        "datetime": "2015-08-16T01:02:08Z",
+        "uri": "https://web.archive.org/web/20150816010208/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2015-10-15T07:23:40Z",
+        "uri": "https://web.archive.org/web/20151015072340/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2015-12-14T15:30:30Z",
+        "uri": "https://web.archive.org/web/20151214153030/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2016-01-17T12:33:06Z",
+        "uri": "https://web.archive.org/web/20160117123306/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2016-01-17T12:33:06Z",
+        "uri": "https://web.archive.org/web/20160117123306/http://catalog.odu.edu:80/courses/rus"
+      },
+      {
+        "datetime": "2016-02-13T07:53:34Z",
+        "uri": "https://web.archive.org/web/20160213075334/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2016-02-16T23:37:27Z",
+        "uri": "https://web.archive.org/web/20160216233727/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2016-02-16T23:37:27Z",
+        "uri": "https://web.archive.org/web/20160216233727/http://catalog.odu.edu:80/courses/rus"
+      },
+      {
+        "datetime": "2016-03-18T22:53:25Z",
+        "uri": "https://web.archive.org/web/20160318225325/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2016-03-18T22:53:25Z",
+        "uri": "https://web.archive.org/web/20160318225325/http://catalog.odu.edu:80/courses/rus"
+      },
+      {
+        "datetime": "2016-04-08T22:57:37Z",
+        "uri": "https://web.archive.org/web/20160408225737/http://catalog.odu.edu/courses/rus/"
+      },
+      {
+        "datetime": "2016-04-13T17:59:50Z",
+        "uri": "https://web.archive.org/web/20160413175950/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2016-04-24T19:58:05Z",
+        "uri": "https://web.archive.org/web/20160424195805/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2016-04-24T19:58:05Z",
+        "uri": "https://web.archive.org/web/20160424195805/http://catalog.odu.edu:80/courses/rus"
+      },
+      {
+        "datetime": "2016-06-13T11:03:32Z",
+        "uri": "https://web.archive.org/web/20160613110332/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2016-08-13T03:33:07Z",
+        "uri": "https://web.archive.org/web/20160813033307/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2016-10-13T00:09:12Z",
+        "uri": "https://web.archive.org/web/20161013000912/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2016-12-05T05:01:32Z",
+        "uri": "https://web.archive.org/web/20161205050132/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2017-04-08T18:16:50Z",
+        "uri": "https://web.archive.org/web/20170408181650/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2017-04-27T03:37:34Z",
+        "uri": "https://web.archive.org/web/20170427033734/http://catalog.odu.edu/courses/rus/"
+      },
+      {
+        "datetime": "2017-06-08T07:08:52Z",
+        "uri": "https://web.archive.org/web/20170608070852/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2017-07-09T00:35:07Z",
+        "uri": "https://web.archive.org/web/20170709003507/http://catalog.odu.edu/courses/rus/"
+      },
+      {
+        "datetime": "2017-08-08T13:34:29Z",
+        "uri": "https://web.archive.org/web/20170808133429/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2017-10-08T18:55:47Z",
+        "uri": "https://web.archive.org/web/20171008185547/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2017-12-09T00:23:05Z",
+        "uri": "https://web.archive.org/web/20171209002305/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2018-02-07T19:13:40Z",
+        "uri": "https://web.archive.org/web/20180207191340/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2018-04-09T20:21:51Z",
+        "uri": "https://web.archive.org/web/20180409202151/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2018-06-10T06:22:05Z",
+        "uri": "https://web.archive.org/web/20180610062205/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2018-08-10T07:42:44Z",
+        "uri": "https://web.archive.org/web/20180810074244/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2018-10-10T04:04:24Z",
+        "uri": "https://web.archive.org/web/20181010040424/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2018-10-11T04:27:34Z",
+        "uri": "https://web.archive.org/web/20181011042734/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2018-12-11T10:34:36Z",
+        "uri": "https://web.archive.org/web/20181211103436/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2019-02-11T09:41:46Z",
+        "uri": "https://web.archive.org/web/20190211094146/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2019-04-13T00:21:01Z",
+        "uri": "https://web.archive.org/web/20190413002101/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2019-06-12T16:37:14Z",
+        "uri": "https://web.archive.org/web/20190612163714/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2019-08-13T04:53:43Z",
+        "uri": "https://web.archive.org/web/20190813045343/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2019-10-09T05:19:28Z",
+        "uri": "https://web.archive.org/web/20191009051928/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2019-12-08T12:36:29Z",
+        "uri": "https://web.archive.org/web/20191208123629/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2020-02-06T16:40:18Z",
+        "uri": "https://web.archive.org/web/20200206164018/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2020-03-02T06:07:21Z",
+        "uri": "https://web.archive.org/web/20200302060721/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2020-05-01T08:55:00Z",
+        "uri": "https://web.archive.org/web/20200501085500/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2020-06-30T15:13:35Z",
+        "uri": "https://web.archive.org/web/20200630151335/http://catalog.odu.edu:80/courses/rus/"
+      },
+      {
+        "datetime": "2021-01-24T09:40:51Z",
+        "uri": "https://web.archive.org/web/20210124094051/https://catalog.odu.edu/courses/rus/"
+      },
+      {
+        "datetime": "2021-04-12T20:21:45Z",
+        "uri": "https://web.archive.org/web/20210412202145/http://catalog.odu.edu/courses/rus/"
+      },
+      {
+        "datetime": "2021-11-08T18:16:02Z",
+        "uri": "https://web.archive.org/web/20211108181602/https://catalog.odu.edu/courses/rus/"
+      },
+      {
+        "datetime": "2022-03-19T20:41:56Z",
+        "uri": "https://web.archive.org/web/20220319204156/https://catalog.odu.edu/courses/rus/"
+      },
+      {
+        "datetime": "2024-02-29T16:08:36Z",
+        "uri": "https://web.archive.org/web/20240229160836/https://catalog.odu.edu/courses/rus/"
+      },
+      {
+        "datetime": "2024-12-07T06:15:19Z",
+        "uri": "https://web.archive.org/web/20241207061519/https://catalog.odu.edu/courses/rus/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:24:29Z",
+      "uri": "https://web.archive.org/web/20120902042429/http://catalog.odu.edu:80/courses/rus/"
+    },
+    "last": {
+      "datetime": "2024-12-07T06:15:19Z",
+      "uri": "https://web.archive.org/web/20241207061519/https://catalog.odu.edu/courses/rus/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/rus/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/rus/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/rus/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/rus/"
+}

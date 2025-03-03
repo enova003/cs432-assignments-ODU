@@ -1,0 +1,34 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/physical-education-coaching-msed/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/physical-education-coaching-msed/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-08-01T00:22:58Z",
+        "uri": "https://web.archive.org/web/20240801002258/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/physical-education-coaching-msed/"
+      },
+      {
+        "datetime": "2024-08-01T00:56:11Z",
+        "uri": "https://web.archive.org/web/20240801005611/http://catalog.odu.edu/graduate/education/human-movement-studies-special-education/physical-education-coaching-msed/"
+      },
+      {
+        "datetime": "2024-09-27T04:33:20Z",
+        "uri": "https://web.archive.org/web/20240927043320/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/physical-education-coaching-msed/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-08-01T00:22:58Z",
+      "uri": "https://web.archive.org/web/20240801002258/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/physical-education-coaching-msed/"
+    },
+    "last": {
+      "datetime": "2024-09-27T04:33:20Z",
+      "uri": "https://web.archive.org/web/20240927043320/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/physical-education-coaching-msed/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/physical-education-coaching-msed/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/physical-education-coaching-msed/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/physical-education-coaching-msed/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/physical-education-coaching-msed/"
+}

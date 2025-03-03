@@ -1,0 +1,42 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/cybersecurity/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/cybersecurity/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T01:34:02Z",
+        "uri": "https://web.archive.org/web/20230927013402/https://catalog.odu.edu/graduate/cybersecurity/"
+      },
+      {
+        "datetime": "2024-02-29T00:41:41Z",
+        "uri": "https://web.archive.org/web/20240229004141/https://catalog.odu.edu/graduate/cybersecurity/"
+      },
+      {
+        "datetime": "2024-02-29T16:10:00Z",
+        "uri": "https://web.archive.org/web/20240229161000/https://catalog.odu.edu/graduate/cybersecurity/"
+      },
+      {
+        "datetime": "2024-03-04T04:44:24Z",
+        "uri": "https://web.archive.org/web/20240304044424/https://catalog.odu.edu/graduate/cybersecurity/"
+      },
+      {
+        "datetime": "2024-04-05T00:34:39Z",
+        "uri": "https://web.archive.org/web/20240405003439/http://catalog.odu.edu/graduate/cybersecurity/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T01:34:02Z",
+      "uri": "https://web.archive.org/web/20230927013402/https://catalog.odu.edu/graduate/cybersecurity/"
+    },
+    "last": {
+      "datetime": "2024-04-05T00:34:39Z",
+      "uri": "https://web.archive.org/web/20240405003439/http://catalog.odu.edu/graduate/cybersecurity/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/cybersecurity/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/cybersecurity/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/cybersecurity/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/cybersecurity/"
+}

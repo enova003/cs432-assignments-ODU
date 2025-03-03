@@ -1,0 +1,138 @@
+{
+  "original_uri": "https://online.odu.edu/online-experience/taking-classes-online",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/online-experience/taking-classes-online",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-04-27T13:18:08Z",
+        "uri": "https://web.archive.org/web/20200427131808/https://online.odu.edu/online-experience/taking-classes-online"
+      },
+      {
+        "datetime": "2020-05-31T04:47:40Z",
+        "uri": "https://web.archive.org/web/20200531044740/https://online.odu.edu/online-experience/taking-classes-online"
+      },
+      {
+        "datetime": "2020-06-18T12:29:01Z",
+        "uri": "https://web.archive.org/web/20200618122901/https://online.odu.edu/online-experience/taking-classes-online"
+      },
+      {
+        "datetime": "2020-08-07T20:55:38Z",
+        "uri": "https://web.archive.org/web/20200807205538/https://online.odu.edu/online-experience/taking-classes-online"
+      },
+      {
+        "datetime": "2020-08-09T21:08:12Z",
+        "uri": "https://web.archive.org/web/20200809210812/https://online.odu.edu/online-experience/taking-classes-online"
+      },
+      {
+        "datetime": "2020-10-25T13:17:47Z",
+        "uri": "https://web.archive.org/web/20201025131747/https://online.odu.edu/online-experience/taking-classes-online"
+      },
+      {
+        "datetime": "2020-11-25T11:40:37Z",
+        "uri": "https://web.archive.org/web/20201125114037/https://online.odu.edu/online-experience/taking-classes-online"
+      },
+      {
+        "datetime": "2021-03-03T11:44:48Z",
+        "uri": "https://web.archive.org/web/20210303114448/https://online.odu.edu/online-experience/taking-classes-online"
+      },
+      {
+        "datetime": "2021-04-13T19:28:21Z",
+        "uri": "https://web.archive.org/web/20210413192821/https://online.odu.edu/online-experience/taking-classes-online"
+      },
+      {
+        "datetime": "2021-05-07T19:15:26Z",
+        "uri": "https://web.archive.org/web/20210507191526/https://online.odu.edu/online-experience/taking-classes-online"
+      },
+      {
+        "datetime": "2021-07-30T22:55:08Z",
+        "uri": "https://web.archive.org/web/20210730225508/https://online.odu.edu/online-experience/taking-classes-online"
+      },
+      {
+        "datetime": "2021-10-27T22:18:30Z",
+        "uri": "https://web.archive.org/web/20211027221830/https://online.odu.edu/online-experience/taking-classes-online"
+      },
+      {
+        "datetime": "2021-12-09T09:25:26Z",
+        "uri": "https://web.archive.org/web/20211209092526/https://online.odu.edu/online-experience/taking-classes-online"
+      },
+      {
+        "datetime": "2022-05-27T21:40:32Z",
+        "uri": "https://web.archive.org/web/20220527214032/https://online.odu.edu/online-experience/taking-classes-online"
+      },
+      {
+        "datetime": "2022-08-07T15:41:02Z",
+        "uri": "https://web.archive.org/web/20220807154102/https://online.odu.edu/online-experience/taking-classes-online"
+      },
+      {
+        "datetime": "2022-08-08T17:24:37Z",
+        "uri": "https://web.archive.org/web/20220808172437/https://online.odu.edu/online-experience/taking-classes-online"
+      },
+      {
+        "datetime": "2022-12-02T12:31:22Z",
+        "uri": "https://web.archive.org/web/20221202123122/https://online.odu.edu/online-experience/taking-classes-online"
+      },
+      {
+        "datetime": "2023-03-20T23:11:04Z",
+        "uri": "https://web.archive.org/web/20230320231104/https://online.odu.edu/online-experience/taking-classes-online"
+      },
+      {
+        "datetime": "2023-03-25T10:41:35Z",
+        "uri": "https://web.archive.org/web/20230325104135/https://online.odu.edu/online-experience/taking-classes-online"
+      },
+      {
+        "datetime": "2023-09-24T17:08:22Z",
+        "uri": "https://web.archive.org/web/20230924170822/https://online.odu.edu/online-experience/taking-classes-online"
+      },
+      {
+        "datetime": "2023-10-02T21:09:42Z",
+        "uri": "https://web.archive.org/web/20231002210942/https://online.odu.edu/online-experience/taking-classes-online"
+      },
+      {
+        "datetime": "2024-02-25T08:14:01Z",
+        "uri": "https://web.archive.org/web/20240225081401/https://online.odu.edu/online-experience/taking-classes-online"
+      },
+      {
+        "datetime": "2024-03-17T22:55:35Z",
+        "uri": "https://web.archive.org/web/20240317225535/https://online.odu.edu/online-experience/taking-classes-online"
+      },
+      {
+        "datetime": "2024-03-30T02:50:00Z",
+        "uri": "https://web.archive.org/web/20240330025000/https://online.odu.edu/online-experience/taking-classes-online"
+      },
+      {
+        "datetime": "2024-06-13T23:01:26Z",
+        "uri": "https://web.archive.org/web/20240613230126/https://online.odu.edu/online-experience/taking-classes-online"
+      },
+      {
+        "datetime": "2024-08-04T17:19:48Z",
+        "uri": "https://web.archive.org/web/20240804171948/https://online.odu.edu/online-experience/taking-classes-online"
+      },
+      {
+        "datetime": "2024-11-05T13:57:24Z",
+        "uri": "https://web.archive.org/web/20241105135724/https://online.odu.edu/online-experience/taking-classes-online"
+      },
+      {
+        "datetime": "2024-11-25T12:34:46Z",
+        "uri": "https://web.archive.org/web/20241125123446/http://online.odu.edu/online-experience/taking-classes-online"
+      },
+      {
+        "datetime": "2025-01-19T13:02:52Z",
+        "uri": "https://web.archive.org/web/20250119130252/https://online.odu.edu/online-experience/taking-classes-online"
+      }
+    ],
+    "first": {
+      "datetime": "2020-04-27T13:18:08Z",
+      "uri": "https://web.archive.org/web/20200427131808/https://online.odu.edu/online-experience/taking-classes-online"
+    },
+    "last": {
+      "datetime": "2025-01-19T13:02:52Z",
+      "uri": "https://web.archive.org/web/20250119130252/https://online.odu.edu/online-experience/taking-classes-online"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/online-experience/taking-classes-online",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/online-experience/taking-classes-online",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/online-experience/taking-classes-online"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/online-experience/taking-classes-online"
+}
