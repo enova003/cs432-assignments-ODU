@@ -117,6 +117,12 @@ Q: Do the archived webpages look like the original webpages?
 
 A: Yes, for the most part, the webpages look like the original. The layout, images, and text look like the original webpages, however, the functionality of the webpage is not identical to the original page. When I attempt to interact with certain parts of the webpage, such as by clicking on links, the content cannot be found or doesn't load as expected. 
 
+The photo below is of the WARC file that I downloaded and loaded into ReplayWeb.page. The image showcases the list of pages and the browser address bar. 
+
 ![Q2 Archived Webpages](q2-pages.png)
+
+Q. How many URLs were archived in the WARC file? How does this compare to the number of Pages?
+
+A. There are 360 URLs archived in the WARC file, and there are 10 pages. This means that there are 36 times more URLs than pages (360 URLs / 10 pages = 36). Each page contains multiple URLs, including scripts and images.
 
 # References
