@@ -115,7 +115,7 @@ A: No, I did not have any issues archiving the webpages. Everything went smoothl
 
 Q: Do the archived webpages look like the original webpages?
 
-A: Yes, for the most part, the webpages look like the original. The layout, images, and text look like the original webpages, however, the functionality of the webpage is not identical to the original page. When I attempt to interact with the webpage, such as by clicking on links, the content cannot be found or doesn't load as expected. 
+A: Yes, for the most part, the webpages look like the original. The layout, images, and text look like the original webpages, however, the functionality of the webpage is not identical to the original page. When I attempt to interact with certain parts of the webpage, such as by clicking on links, the content cannot be found or doesn't load as expected. 
 
 
 
