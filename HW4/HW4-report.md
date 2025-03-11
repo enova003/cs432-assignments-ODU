@@ -131,7 +131,7 @@ The photo below showcases a bar chart featuring the number of URLs in the WARC f
 
 Q: Which file type had the most URLs? Were you surprised by this?
 
-A. The file type that had the most URLs was CSS. There are 120 CSS URLs. No this did not surprise me. CSS is a very important component of web development, and considering that all webpages were very well designed, I expected there to be quite a bit of CSS URLs. 
+A. The file type that had the most URLs was CSS. There are 120 CSS URLs. No this did not surprise me. CSS is a very important component of web development, and considering that all webpages I picked to use were very well designed, I expected there to be quite a bit of CSS URLs. 
 
 # References
 * Bar Graph Maker, <https://virtualscienceteachers.org/bar-graph-maker/>
