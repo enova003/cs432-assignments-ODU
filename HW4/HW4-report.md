@@ -123,6 +123,6 @@ The photo below is of the WARC file that I downloaded and loaded into ReplayWeb.
 
 Q. How many URLs were archived in the WARC file? How does this compare to the number of Pages?
 
-A. There are 360 URLs archived in the WARC file, and there are 10 pages. This means that there are 36 times more URLs than pages (360 URLs / 10 pages = 36). Each page contains multiple URLs, including scripts and images.
+A. There are 344 URLs archived in the WARC file, and there are 10 pages. This means that there are 34.4% more URLs than pages (344 URLs / 10 pages = 34.4). Each page contains multiple URLs, including HTML URLs, image URLs, script URLs, CSS URLs, and font URLs.
 
 # References
