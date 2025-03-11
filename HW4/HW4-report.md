@@ -89,4 +89,34 @@ A: Based on the scatterplot, there are numerous data points that are very close 
 
 # Q2 Answer
 
+My archived collection for this question can be found here: https://conifer.rhizome.org/enova003/hw4-ethan
+
+The ten URLs that I archived are as follows:
+```
+https://catalog.odu.edu/courses/engt/
+https://catalog.odu.edu/courses/chem/
+https://catalog.odu.edu/courses/arab/
+https://catalog.odu.edu/courses/las/
+https://catalog.odu.edu/courses/bioe/
+https://catalog.odu.edu/courses/hist/
+https://catalog.odu.edu/courses/els/
+https://catalog.odu.edu/courses/chin/
+https://catalog.odu.edu/courses/idt/
+https://catalog.odu.edu/courses/comm/
+```
+
+Q: Why did you choose this particular topic?
+
+A: I chose to archive webpages that were part of ODU's course catalog. Additionally, I chose this particular topic because all URLs begin with `https://catalog.odu.edu/courses/`. 
+
+Q: Did you have any issues in archiving the webpages?
+
+A: No, I did not have any issues archiving the webpages. Everything went smoothly, and my collection can be found at https://catalog.odu.edu/courses/engt/
+
+Q: Do the archived webpages look like the original webpages?
+
+A: Yes, for the most part, the webpages look like the original. The layout, images, and text look like the original webpages, however, the functionality of the webpage is not identical to the original page. When I attempt to interact with the webpage, such as by clicking on links, the content cannot be found or doesn't load as expected. 
+
+
+
 # References
