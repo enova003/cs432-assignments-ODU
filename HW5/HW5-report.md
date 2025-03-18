@@ -193,6 +193,42 @@ The algorithm was run until the graph was split into two components. Here are th
 
 # Q3 Answer
 
+Q: Did all of the same colored nodes end up in the same group? If not, what is different?
+
+A: In both the Girvan Newman graph and the Karate Club graph, I colored the nodes in black and green. When comparing the two graphs, all the nodes remain the same colors. In other words, in the Karate Club graph, nodes 26, 14, 20, 15, 29, 9, 22, 32, 30, 33, 23, 18, 27 31, 25, 28, and 24 are green, and nodes 0, 1, 2, 8, 19, 11, 6, 5, 4, 16, 10, 21, 3, 7, 13, 17, and 12 are black; also in the Girvan Newman graph, nodes 26, 14, 20, 15, 29, 9, 22, 32, 30, 33, 23, 18, 27 31, 25, 28, and 24 are green, and nodes 0, 1, 2, 8, 19, 11, 6, 5, 4, 16, 10, 21, 3, 7, 13, 17, and 12 are black. However, after the split, not all the same colored nodes ended up in the same group. In the Girvan Newman split graph, node 8 (black) is connectd to the green community (specifically connecting to nodes 30, 32, 33, and 28). Node 2 (black) also serves as a bridge between the communities. The main difference is that in the Girvan Newman algorithm's result, node 8 appears to be more integrated with the black-node community. 
+
+# Q4 Answer (Extra Credit)
+
+## If the clubs split into 3 groups, this is most likely how the graph would look: 
+
+Group 1 would be centered around node 0. This group would consist of nodes 0, 1, 3, 4, 5, 6, 7, 10, 11, 12, 13, 16, 17, 19, 21, which would comprise the network of black nodes. 
+
+Group 2 would be centered around nodes 32 and 33. This group would consist of nodes 9, 14, 15, 18, 20, 22, 23, 25, 26, 27, 29, 30, 31, 32, 33, which would comprise the network of green nodes.
+
+Group 3 would be bridge nodes, such as nodes 2, 8, and 28, which would connect the two main communities.
+
+## If the clubs split into 4 groups, this is most likely how the graph would look: 
+
+Group 1 would be cenetered around node 0, and it would consist of black nodes 0, 1, 3, 4, 5, 6, 7, 10, 11, 17, 19, 21.
+
+Group 2 would be a secondary black cluster consisting of nodes 12, 13, and 16. 
+
+Group 3 would be the core green cluster, consisting of nodes 9, 14, 15, 18, 20, 22, 23, 25, 26, 27, 29, 32, 33.
+
+Group 4 would be bridge nodes and the secondary green cluster. This group would consist of nodes 2, 8, 24, 28, 30, 31.
+
+## If the clubs split into 5 groups, this is most likely how the graph would look:
+
+Group 1 would be centered around node 0, and it would consist of nodes 0, 1, 3, 4, 5, 6, 7, 10, 11.
+
+Group 2 would be the secondary black node cluster, consisting of nodes 12, 13, 16, 17, 19, 21.
+
+Group 3 would be the main green cluster, consisting of nodes 9, 14, 15, 18, 20, 22, 32, 33. This cluster would be centered around nodes 32 and 33. 
+
+Group 4 would be the secondary green cluster, consisting of nodes 23, 25, 26, 27, 29.
+
+Finally, group 5 would be the bridge nodes cluster, consisting of the nodes that connect the communities. This group would be comprised of nodes 2, 8, 24, 28, 30, 31.
+
 # References
 
 * Zachary's Karate Club, <https://en.wikipedia.org/wiki/Zachary%27s_karate_club>
