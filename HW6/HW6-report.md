@@ -348,4 +348,24 @@ A: The script first imports `os`, `sys` for file handling and `sqrt` from `math`
 
 # Q4 Answer
 
+Q: What are the top 5 most correlated films to your favorite film? Bottom 5 least correlated?
+
+A:
+
+Q: What are the top 5 most correlated films to your least favorite film? Bottom 5 least correlated?
+
+A: 
+
+Q: Based on your knowledge of the resulting films, do you agree with the results? In other words, do you personally like/dislike the resulting films?
+
+A: 
+
+Q: Explain the general operation of any functions you use from recommendations.py.
+
+A: The script first imports `os`, `sys` for file handling and `sqrt` from `math` for calculating the square root. The `sim_pearson` function takes three arguments (`prefs`, `p1`, and `p2`), and it finds common items between p1 and p2, it calculates sums of ratings and squared sums and product sums, and it computes the Pearson score based on these sums. The `topMatches` functions finds the top `n` most similar users to a given `person`, and it uses the provided `similarity` function argument to measure similarity. Finally, this function sorts the scores in descending order and returns the top `n` users. The `getRecommendations` function calculates the similarity with the target user, aggregates ratings for movies not already rated by the target user, and returns a sorted list of movie recommendations based on the predicted ratings. The `load_users` function loads user demographic data from a file located at the argument `path`. The `load_movies` function loads movie demographic data from a file located at the argument `path`. The `load_ratings` function does the same, except for rating data. The `calculate_demographic_similarity` function computes a demographic score between two users based on their age, gender, and occupation. The `find_most_similar_users` functions finds the `k` most similar users to the current user based on the demographic data. Finally, the `get_top_and_bottom_movies` function finds the top `n` and bottom `n` movies based on user ratings and sorts the ratings and selects the highest and lowest. 
+
 # References
+
+* Build a Recommendation Engine with Collaborative Filtering, <https://realpython.com/build-recommendation-engine-collaborative-filtering/>
+* How to Build a Movie Recommendation System Based on Collaborative Filtering, <https://www.freecodecamp.org/news/how-to-build-a-movie-recommendation-system-based-on-collaborative-filtering/>
+* doguilmak - Book Recommendation with Collaborative Filtering, <https://github.com/doguilmak/Book-Recommendation-with-Collaborative-Filtering>
