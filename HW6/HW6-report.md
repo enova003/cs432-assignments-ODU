@@ -348,7 +348,7 @@ A: The script first imports `os`, `sys` for file handling and `sqrt` from `math`
 
 # Q4 Answer
 
-To answer this question, I chose Toy Story (1995) as my favorite film and Broken English (1996) as my least favorite film. Additionally, I modified the script to correspond with this information. For example, the updated `main` function is as follows: 
+To answer this question, I chose Toy Story (1995) as my favorite film and Broken English (1996) as my least favorite film. Additionally, I modified the script to correspond with this information. For example, I added the following code to the `main` function: 
 
 ```
     target_movie1 = "Toy Story (1995)"
