@@ -425,7 +425,7 @@ Bottom 5 Least Correlated Movies to 'Broken English (1996)':
 
 Q: What are the top 5 most correlated films to your favorite film? Bottom 5 least correlated?
 
-A: The top five most correlated films to my favorite film (Toy Story (1995)) are The Substance of Fire (1996), Ladybird Ladybird (1994), Infinity (1996), Phantoms (1998), and Old Lady Who Walked in the Sea, The (Vieille qui marchait dans la mer, La) (1991). Furthermore, the bottom five least correlated films are The Winter Guest (1997), The Underneath (1995), Stalker (1979), The Slingshot (1993), and Schizopolis (1996).
+A: The top five most correlated films to my favorite film (Toy Story (1995)) are The Substance of Fire (1996), Ladybird Ladybird (1994), Infinity (1996), Phantoms (1998), and The Old Lady Who Walked in the Sea (Vieille qui marchait dans la mer, La) (1991). Furthermore, the bottom five least correlated films are The Winter Guest (1997), The Underneath (1995), Stalker (1979), The Slingshot (1993), and Schizopolis (1996).
 
 Q: What are the top 5 most correlated films to your least favorite film? Bottom 5 least correlated?
 
@@ -434,6 +434,13 @@ A: The top five most correlated films to my least favorite film (Broken English 
 Q: Based on your knowledge of the resulting films, do you agree with the results? In other words, do you personally like/dislike the resulting films?
 
 A: Yes, I do agree with the results. Concerning Toy Story, after watching the trailers, I believe that I would like the movies that correlate with it. Additionally, I also dislike the movies that correlate with Toy Story the least, such as Stalker, The Slingshot, and The Underneath.  Moreover, concerning the movies that correlate most with Broken English, except for The Wizard of Oz, I do not like any of the movies that correlate with Broken English. I do like the Wizard of Oz, however. Additionally, I like all the movies that correlate least with Broken English, such as The Terminator, The African Queen, While You Were Sleeping, True Lies, and Top Gun.  Therefore, yes, altogether, I would say that I do agree with the results. 
+
+Here are the trailers that I watched:
+
+[Schizopolis Trailer](https://www.youtube.com/watch?v=f2E7ArARdaE)
+[The Old Lady Who Walked in the Sea (Vieille qui marchait dans la mer, La) Trailer](https://www.youtube.com/watch?v=w3r65BYdGh8)
+[Wishmaster Trailer](https://www.youtube.com/watch?v=aJgl3uoxXc0)
+[The Winter Guest Trailer](https://www.youtube.com/watch?v=fnrKwmH_nic)
 
 Q: Explain the general operation of any functions you use from recommendations.py.
 
