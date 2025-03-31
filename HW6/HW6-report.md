@@ -436,12 +436,12 @@ Q: Based on your knowledge of the resulting films, do you agree with the results
 A: Yes, I do agree with the results. Concerning Toy Story, after watching the trailers, I believe that I would like the movies that correlate with it. Additionally, I also dislike the movies that correlate with Toy Story the least, such as Stalker, The Slingshot, and The Underneath.  Moreover, concerning the movies that correlate most with Broken English, except for The Wizard of Oz, I do not like any of the movies that correlate with Broken English. I do like the Wizard of Oz, however. Additionally, I like all the movies that correlate least with Broken English, such as The Terminator, The African Queen, While You Were Sleeping, True Lies, and Top Gun.  Therefore, yes, altogether, I would say that I do agree with the results. 
 
 Here are the trailers that I watched:
-```
-[Schizopolis Trailer](https://www.youtube.com/watch?v=f2E7ArARdaE)
-[The Old Lady Who Walked in the Sea (Vieille qui marchait dans la mer, La) Trailer](https://www.youtube.com/watch?v=w3r65BYdGh8)
-[Wishmaster Trailer](https://www.youtube.com/watch?v=aJgl3uoxXc0)
-[The Winter Guest Trailer](https://www.youtube.com/watch?v=fnrKwmH_nic)
-```
+
+[Schizopolis Trailer](https://www.youtube.com/watch?v=f2E7ArARdaE)\
+[The Old Lady Who Walked in the Sea (Vieille qui marchait dans la mer, La) Trailer](https://www.youtube.com/watch?v=w3r65BYdGh8)\
+[Wishmaster Trailer](https://www.youtube.com/watch?v=aJgl3uoxXc0)\
+[The Winter Guest Trailer](https://www.youtube.com/watch?v=fnrKwmH_nic)\
+
 Q: Explain the general operation of any functions you use from recommendations.py.
 
 A: The script first imports `os`, `sys` for file handling and `sqrt` from `math` for calculating the square root. The `sim_pearson` function takes three arguments (`prefs`, `p1`, and `p2`), and it finds common items between p1 and p2, it calculates sums of ratings and squared sums and product sums, and it computes the Pearson score based on these sums. The `topMatches` functions finds the top `n` most similar users to a given `person`, and it uses the provided `similarity` function argument to measure similarity. Finally, this function sorts the scores in descending order and returns the top `n` users. The `getRecommendations` function calculates the similarity with the target user, aggregates ratings for movies not already rated by the target user, and returns a sorted list of movie recommendations based on the predicted ratings. The `load_users` function loads user demographic data from a file located at the argument `path`. The `load_movies` function loads movie demographic data from a file located at the argument `path`. The `load_ratings` function does the same, except for rating data. The `calculate_demographic_similarity` function computes a demographic score between two users based on their age, gender, and occupation. The `find_most_similar_users` functions finds the `k` most similar users to the current user based on the demographic data. Finally, the `get_top_and_bottom_movies` function finds the top `n` and bottom `n` movies based on user ratings and sorts the ratings and selects the highest and lowest. 
