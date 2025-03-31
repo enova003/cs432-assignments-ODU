@@ -348,13 +348,19 @@ A: The script first imports `os`, `sys` for file handling and `sqrt` from `math`
 
 # Q4 Answer
 
+To answer this question, I chose Toy Story (1995) as my favorite film and Broken English (1996) as my least favorite film. Additionally, I modified the script to correspond with this information. For example, the updated `main` function is as follows: 
+
+```
+
+```
+
 Q: What are the top 5 most correlated films to your favorite film? Bottom 5 least correlated?
 
-A:
+A: The top five most correlated films to my favorite film (Toy Story (1995)) are 
 
 Q: What are the top 5 most correlated films to your least favorite film? Bottom 5 least correlated?
 
-A: 
+A: The bottom five most correlated films to my least favorite film (Broken English (1996)) are 
 
 Q: Based on your knowledge of the resulting films, do you agree with the results? In other words, do you personally like/dislike the resulting films?
 
