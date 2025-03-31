@@ -3,11 +3,10 @@
 ### CS 432, Spring 2025
 ### Sunday April 6, 2025 11:59pm
 
-I edited the provided script to answer the questions. The script can be found in a file named `hw6.py` in this repository, and I also pasted it below. The script is a movie recommendation system using collaborative filtering and demographic similarity. The script first imports `os`, `sys` for file handling and `sqrt` from `math` for calculating the square root. The `sim_pearson` function takes three arguments (`prefs`, `p1`, and `p2`), and it finds common items between p1 and p2, it calculates sums of ratings and squared sums and product sums, and it computes the Pearson score based on these sums. The `topMatches` functions finds the top `n` most similar users to a given `person`, and it uses the provided `similarity` function argument to measure similarity. Finally, this function sorts the scores in descending order and returns the top `n` users. The `getRecommendations` function calculates the similarity with the target user, aggregates ratings for movies not already rated by the target user, and returns a sorted list of movie recommendations based on the predicted ratings. The `load_users` function loads user demographic data from a file located at the argument `path`. The `load_movies` function loads movie demographic data from a file located at the argument `path`. The `load_ratings` function does the same, except for rating data. 
-
-The `calculate_demographic_similarity` function computes a demographic score between two users based on their age, gender, and occupation. The `find_most_similar_users` functions finds the `k` most similar users to the current user based on the demographic data. Finally, the `get_top_and_bottom_movies` function finds the top `n` and bottom `n` movies based on user ratings and sorts the ratings and selects the highest and lowest. The script outputs the required information to answer questions one, two, and three. For question 1, the script displays the demographics and movie ratings of the most similar users based on demographics. For question 2, the script shows the top 5 most and least correlated users based on the Pearson correlation. And, for question 3, the script lists the top and bottom 5 recommended movies for the current user. 
-
 # Script
+
+I edited the provided script to answer the questions. The script can be found in a file named `hw6.py` in this repository, and I also pasted it below. The script is a movie recommendation system using collaborative filtering and demographic similarity.  The script has been modified to output the required information to answer questions one, two, and three. For question 1, the script displays the demographics and movie ratings of the most similar users based on demographics. For question 2, the script shows the top 5 most and least correlated users based on the Pearson correlation. And, for question 3, the script lists the top and bottom 5 recommended movies for the current user. 
+
 ```
 import os
 import sys
@@ -228,6 +227,14 @@ if __name__ == '__main__':
 
 The script finds three users most similar to me demodemographically, then it displays their demographics, and finally, it shows the top and bottom three movies for each user. 
 
+For user 37, his top three favorite films are Batman (1989), Pulp Fiction (1994), and Top Gun (1986); his bottom three least favorite films are Dragonheart (1996), Indepdence Day (1996), and Jurassic Park (1993). 
+
+For user 66, his top three favorite films are Return of the Jedi, Courage Under Fire, and Ransom; his bottom three least favorite films are Excess Baggage, Muppet Treasure Island, and The English Patient. 
+
+For user 67, his top three favorite movies are Shawshank Redemption, Beavis and Butt-head Do America, and Mission: Impossible; his bottom three least favorite movies are Father of the Bride Part II, Multiplicity, and Very Brady Sequel.
+
+Out of these three specific users, I guess that I relate most to user 37. I did enjoy the Batman movie and Top Gun, however, I have never seen Pulp Fiction. Additionally, I am not big a fan of Jurassic Park, Independence Day, or Dragonheart.
+
 ```
 User 37 Demographics:
   Age: 23
@@ -276,6 +283,9 @@ User 67 Demographics:
 ```
 
 # Q2 Answer
+
+After running the script, the output for question two is as follows: 
+
 ```
 Top 5 Most Correlated Users:
   User 93: Correlation 1.000
@@ -291,6 +301,19 @@ Bottom 5 Least Correlated Users:
   User 672: Correlation 1.000
   User 641: Correlation 1.000
 ```
+
+Q: Which 5 users are most correlated to the substitute you (i.e., which 5 users rate movies most similarly to the substitute you?)
+
+A: The five users that are most correlated to the substitue me are user 93, user 937, user 859, user 791, and user 754. 
+
+Q: Which 5 users are least correlated (i.e., negative correlation)?
+
+A: The five users that are least correlated to me are user 491, user 80, user 736, user 672, and user 641. 
+
+Q: Explain the general operation of any functions you use from recommendations.py.
+
+A: The script first imports `os`, `sys` for file handling and `sqrt` from `math` for calculating the square root. The `sim_pearson` function takes three arguments (`prefs`, `p1`, and `p2`), and it finds common items between p1 and p2, it calculates sums of ratings and squared sums and product sums, and it computes the Pearson score based on these sums. The `topMatches` functions finds the top `n` most similar users to a given `person`, and it uses the provided `similarity` function argument to measure similarity. Finally, this function sorts the scores in descending order and returns the top `n` users. The `getRecommendations` function calculates the similarity with the target user, aggregates ratings for movies not already rated by the target user, and returns a sorted list of movie recommendations based on the predicted ratings. The `load_users` function loads user demographic data from a file located at the argument `path`. The `load_movies` function loads movie demographic data from a file located at the argument `path`. The `load_ratings` function does the same, except for rating data. The `calculate_demographic_similarity` function computes a demographic score between two users based on their age, gender, and occupation. The `find_most_similar_users` functions finds the `k` most similar users to the current user based on the demographic data. Finally, the `get_top_and_bottom_movies` function finds the top `n` and bottom `n` movies based on user ratings and sorts the ratings and selects the highest and lowest. 
+
 # Q3 Answer
 ```
 Top 5 Recommended Movies:
