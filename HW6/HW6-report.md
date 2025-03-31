@@ -315,6 +315,9 @@ Q: Explain the general operation of any functions you use from recommendations.p
 A: The script first imports `os`, `sys` for file handling and `sqrt` from `math` for calculating the square root. The `sim_pearson` function takes three arguments (`prefs`, `p1`, and `p2`), and it finds common items between p1 and p2, it calculates sums of ratings and squared sums and product sums, and it computes the Pearson score based on these sums. The `topMatches` functions finds the top `n` most similar users to a given `person`, and it uses the provided `similarity` function argument to measure similarity. Finally, this function sorts the scores in descending order and returns the top `n` users. The `getRecommendations` function calculates the similarity with the target user, aggregates ratings for movies not already rated by the target user, and returns a sorted list of movie recommendations based on the predicted ratings. The `load_users` function loads user demographic data from a file located at the argument `path`. The `load_movies` function loads movie demographic data from a file located at the argument `path`. The `load_ratings` function does the same, except for rating data. The `calculate_demographic_similarity` function computes a demographic score between two users based on their age, gender, and occupation. The `find_most_similar_users` functions finds the `k` most similar users to the current user based on the demographic data. Finally, the `get_top_and_bottom_movies` function finds the top `n` and bottom `n` movies based on user ratings and sorts the ratings and selects the highest and lowest. 
 
 # Q3 Answer
+
+After running the script, the output for question three is as follows: 
+
 ```
 Top 5 Recommended Movies:
   They Made Me a Criminal (1939): Predicted Rating 5.00
@@ -330,6 +333,19 @@ Bottom 5 Recommended Movies:
   American Strays (1996): Predicted Rating 1.00
   3 Ninjas: High Noon At Mega Mountain (1998): Predicted Rating 1.00
 ```
+
+Q: What are the top 5 recommendations for films that the substitute you should see?
+
+A: The top five reommendations for films that the substitute me should see are They Made Me a Criminal, Someone Else's America, Santa with Muscles, Prefontaine, and Marlene Dietrich: Shadow and Light.
+
+Q: What are the bottom 5 recommendations (i.e., films the substitute you is almost certain to hate)?
+
+A: The bottom five recommendations are Amityville Curse, Amityville 3-D, Amityville 1992: It's About Time, American Strays, and 3 Ninjas: High Noon At Mega Mountain.
+
+Q: Explain the general operation of any functions you use from recommendations.py.
+
+A: The script first imports `os`, `sys` for file handling and `sqrt` from `math` for calculating the square root. The `sim_pearson` function takes three arguments (`prefs`, `p1`, and `p2`), and it finds common items between p1 and p2, it calculates sums of ratings and squared sums and product sums, and it computes the Pearson score based on these sums. The `topMatches` functions finds the top `n` most similar users to a given `person`, and it uses the provided `similarity` function argument to measure similarity. Finally, this function sorts the scores in descending order and returns the top `n` users. The `getRecommendations` function calculates the similarity with the target user, aggregates ratings for movies not already rated by the target user, and returns a sorted list of movie recommendations based on the predicted ratings. The `load_users` function loads user demographic data from a file located at the argument `path`. The `load_movies` function loads movie demographic data from a file located at the argument `path`. The `load_ratings` function does the same, except for rating data. The `calculate_demographic_similarity` function computes a demographic score between two users based on their age, gender, and occupation. The `find_most_similar_users` functions finds the `k` most similar users to the current user based on the demographic data. Finally, the `get_top_and_bottom_movies` function finds the top `n` and bottom `n` movies based on user ratings and sorts the ratings and selects the highest and lowest. 
+
 # Q4 Answer
 
 # References
