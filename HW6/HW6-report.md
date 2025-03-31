@@ -336,7 +336,7 @@ Bottom 5 Recommended Movies:
 
 Q: What are the top 5 recommendations for films that the substitute you should see?
 
-A: The top five reommendations for films that the substitute me should see are They Made Me a Criminal, Someone Else's America, Santa with Muscles, Prefontaine, and Marlene Dietrich: Shadow and Light.
+A: The top five recommendations for films that the substitute me should see are They Made Me a Criminal, Someone Else's America, Santa with Muscles, Prefontaine, and Marlene Dietrich: Shadow and Light.
 
 Q: What are the bottom 5 recommendations (i.e., films the substitute you is almost certain to hate)?
 
