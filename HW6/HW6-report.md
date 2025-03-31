@@ -440,7 +440,7 @@ Here are the trailers that I watched:
 [Schizopolis Trailer](https://www.youtube.com/watch?v=f2E7ArARdaE)\
 [The Old Lady Who Walked in the Sea (Vieille qui marchait dans la mer, La) Trailer](https://www.youtube.com/watch?v=w3r65BYdGh8)\
 [Wishmaster Trailer](https://www.youtube.com/watch?v=aJgl3uoxXc0)\
-[The Winter Guest Trailer](https://www.youtube.com/watch?v=fnrKwmH_nic)\
+[The Winter Guest Trailer](https://www.youtube.com/watch?v=fnrKwmH_nic)
 
 Q: Explain the general operation of any functions you use from recommendations.py.
 
