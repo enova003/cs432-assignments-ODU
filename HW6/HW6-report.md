@@ -351,20 +351,89 @@ A: The script first imports `os`, `sys` for file handling and `sqrt` from `math`
 To answer this question, I chose Toy Story (1995) as my favorite film and Broken English (1996) as my least favorite film. Additionally, I modified the script to correspond with this information. For example, the updated `main` function is as follows: 
 
 ```
+    target_movie1 = "Toy Story (1995)"
+    if target_movie1 in movie_prefs:
+        top_corr, bottom_corr = get_movie_correlations(movie_prefs, target_movie1, n=5)
+        
+        print(f"\nTop 5 Most Correlated Movies to '{target_movie1}':")
+        for correlation, movie in top_corr:
+            print(f"  {movie}: Correlation {correlation:.3f}")
+        
+        print(f"\nBottom 5 Least Correlated Movies to '{target_movie1}':")
+        for correlation, movie in bottom_corr:
+            print(f"  {movie}: Correlation {correlation:.3f}")
+    else:
+        print(f"Movie '{target_movie1}' not found in the dataset")
+    
+    target_movie2 = "Broken English (1996)"
+    if target_movie2 in movie_prefs:
+        top_corr, bottom_corr = get_movie_correlations(movie_prefs, target_movie2, n=5)
+        
+        print(f"\nTop 5 Most Correlated Movies to '{target_movie2}':")
+        for correlation, movie in top_corr:
+            print(f"  {movie}: Correlation {correlation:.3f}")
+        
+        print(f"\nBottom 5 Least Correlated Movies to '{target_movie2}':")
+        for correlation, movie in bottom_corr:
+            print(f"  {movie}: Correlation {correlation:.3f}")
+    else:
+        print(f"Movie '{target_movie2}' not found in the dataset")
+```
 
+Furthermore, I also created a new function, `get_movie_correlations`, that calculates both the top and bottom correlated movies for a given movie. Below is the function:
+
+```
+def get_movie_correlations(movie_prefs, movie_name, n=5):
+    top_correlations = topMatches(movie_prefs, movie_name, n=n)
+    bottom_correlations = topMatches(movie_prefs, movie_name, n=n, 
+                                   similarity=lambda prefs, m1, m2: -sim_pearson(prefs, m1, m2))
+    
+    return top_correlations, bottom_correlations
+```
+
+After running the script, here is the output: 
+
+```
+Top 5 Most Correlated Movies to 'Toy Story (1995)':
+  Substance of Fire, The (1996): Correlation 1.000
+  Ladybird Ladybird (1994): Correlation 1.000
+  Infinity (1996): Correlation 1.000
+  Phantoms (1998): Correlation 1.000
+  Old Lady Who Walked in the Sea, The (Vieille qui marchait dans la mer, La) (1991): Correlation 1.000  
+
+Bottom 5 Least Correlated Movies to 'Toy Story (1995)':
+  Winter Guest, The (1997): Correlation 1.000
+  Underneath, The (1995): Correlation 1.000
+  Stalker (1979): Correlation 1.000
+  Slingshot, The (1993): Correlation 1.000
+  Schizopolis (1996): Correlation 1.000
+
+Top 5 Most Correlated Movies to 'Broken English (1996)':
+  Usual Suspects, The (1995): Correlation 1.000
+  Young Poisoner's Handbook, The (1995): Correlation 1.000
+  Wizard of Oz, The (1939): Correlation 1.000
+  Wishmaster (1997): Correlation 1.000
+  Wings of Desire (1987): Correlation 1.000
+
+Bottom 5 Least Correlated Movies to 'Broken English (1996)':
+  Terminator, The (1984): Correlation 1.000
+  African Queen, The (1951): Correlation 1.000
+  While You Were Sleeping (1995): Correlation 1.000
+  True Lies (1994): Correlation 1.000
+  Top Gun (1986): Correlation 1.000
 ```
 
 Q: What are the top 5 most correlated films to your favorite film? Bottom 5 least correlated?
 
-A: The top five most correlated films to my favorite film (Toy Story (1995)) are 
+A: The top five most correlated films to my favorite film (Toy Story (1995)) are The Substance of Fire (1996), Ladybird Ladybird (1994), Infinity (1996), Phantoms (1998), and Old Lady Who Walked in the Sea, The (Vieille qui marchait dans la mer, La) (1991). Furthermore, the bottom five least correlated films are The Winter Guest (1997), The Underneath (1995), Stalker (1979), The Slingshot (1993), and Schizopolis (1996).
 
 Q: What are the top 5 most correlated films to your least favorite film? Bottom 5 least correlated?
 
-A: The bottom five most correlated films to my least favorite film (Broken English (1996)) are 
+A: The top five most correlated films to my least favorite film (Broken English (1996)) are The Usual Suspects, The (1995), The Young Poisoner's Handbook (1995), The Wizard of Oz (1939), Wishmaster (1997), and Wings of Desire (1987). Furthermore, the bottom five least correlated films are The Terminator (1984), African Queen (1951), While You Were Sleeping (1995), True Lies (1994), and Top Gun (1986): Correlation 1.000. 
 
 Q: Based on your knowledge of the resulting films, do you agree with the results? In other words, do you personally like/dislike the resulting films?
 
-A: 
+A: Yes, I do agree with the results. Concerning Toy Story, after watching the trailers, I believe that I would like the movies that correlate with it. Additionally, I also dislike the movies that correlate with Toy Story the least, such as Stalker, The Slingshot, and The Underneath.  Moreover, concerning the movies that correlate most with Broken English, except for The Wizard of Oz, I do not like any of the movies that correlate with Broken English. I do like the Wizard of Oz, however. Additionally, I like all the movies that correlate least with Broken English, such as The Terminator, The African Queen, While You Were Sleeping, True Lies, and Top Gun.  Therefore, yes, altogether, I would say that I do agree with the results. 
 
 Q: Explain the general operation of any functions you use from recommendations.py.
 
