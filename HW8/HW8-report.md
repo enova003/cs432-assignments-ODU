@@ -10,17 +10,17 @@
 # For part 1:
 
 ### Random word one:
-![random_word_one](randomWordOne.PNG)
+![random_word_one](randomWordOne.png)
 
 ### Random word two:
-![random_word_two](randomWordTwo.PNG)
+![random_word_two](randomWordTwo.png)
 
 ## The semantic similarity between the pairs can be seen below:
-![sementicSimilarity](sementicSimilarity.PNG)
+![sementicSimilarity](sementicSimilarity.png)
 
 # For part 2:
 ## My randomly generated word was "mushroom". Additionally, my results can be seen below:
-![mushroom](q1p2.PNG)
+![mushroom](q1p2.png)
 
 The top words are:
 1. truffle
