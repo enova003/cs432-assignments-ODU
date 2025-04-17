@@ -18,6 +18,9 @@
 ## The semantic similarity between the pairs can be seen below:
 ![sementicSimilarity](sementicSimilarity.png)
 
+After this, I changed the word "girl" to the word "subject", to get a higher sementic similarity. Please see below:
+![q1](q1p1.png)
+
 # For part 2:
 ## My randomly generated word was "mushroom". Additionally, my results can be seen below:
 ![mushroom](q1p2.png)
@@ -37,7 +40,8 @@ The top words are:
 Furthermore, when I click on the highest related word (truffle), it does in fact show that the top related word is the original word (truffle's highest related word is "mushroom"). 
 
 # For part 3:
-
+I randomly generated the word "grasshopper". Then I clicked the link that said "Semantic associates for Grasshopper". Please see the diagram below:
+![diagram](q1p3.png)
 
 # Q2 Answer
 The 5 interesting ChatGPT prompts that I chose for the answer to this question are:
