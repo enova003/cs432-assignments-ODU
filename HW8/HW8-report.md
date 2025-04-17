@@ -5,6 +5,39 @@
 
 # Q1 Answer
 
+## The two random pairs of words that I generated are "freedom girl" and "product topic". Here are the images:
+
+# For part 1:
+
+### Random word one:
+![random_word_one](randomWordOne.PNG)
+
+### Random word two:
+![random_word_two](randomWordTwo.PNG)
+
+## The semantic similarity between the pairs can be seen below:
+![sementicSimilarity](sementicSimilarity.PNG)
+
+# For part 2:
+## My randomly generated word was "mushroom". Additionally, my results can be seen below:
+![mushroom](q1p2.PNG)
+
+The top words are:
+1. truffle
+2. edible
+3. fungus
+4. carrot
+5. cabbage
+6. cucumber
+7. mushroom
+8. potato
+9. fruit
+10. seaweed
+
+Furthermore, when I click on the highest related word (truffle), it does in fact show that the top related word is the original word (truffle's highest related word is "mushroom"). 
+
+# For part 3:
+
 
 # Q2 Answer
 The 5 interesting ChatGPT prompts that I chose for the answer to this question are:
