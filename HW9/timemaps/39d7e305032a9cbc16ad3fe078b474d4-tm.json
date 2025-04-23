@@ -1,0 +1,410 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/busn/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/busn/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:13:59Z",
+        "uri": "https://web.archive.org/web/20120902041359/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2013-05-17T08:06:40Z",
+        "uri": "https://web.archive.org/web/20130517080640/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2014-04-22T11:49:36Z",
+        "uri": "https://web.archive.org/web/20140422114936/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2014-06-22T04:20:33Z",
+        "uri": "https://web.archive.org/web/20140622042033/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2014-08-22T03:28:14Z",
+        "uri": "https://web.archive.org/web/20140822032814/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2014-10-21T20:47:25Z",
+        "uri": "https://web.archive.org/web/20141021204725/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2014-12-21T05:19:40Z",
+        "uri": "https://web.archive.org/web/20141221051940/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2015-02-15T15:42:50Z",
+        "uri": "https://web.archive.org/web/20150215154250/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2015-03-30T23:20:21Z",
+        "uri": "https://web.archive.org/web/20150330232021/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2015-03-30T23:20:21Z",
+        "uri": "https://web.archive.org/web/20150330232021/http://catalog.odu.edu:80/courses/busn"
+      },
+      {
+        "datetime": "2015-04-17T00:53:40Z",
+        "uri": "https://web.archive.org/web/20150417005340/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2015-04-30T07:04:56Z",
+        "uri": "https://web.archive.org/web/20150430070456/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2015-04-30T07:04:56Z",
+        "uri": "https://web.archive.org/web/20150430070456/http://catalog.odu.edu:80/courses/busn"
+      },
+      {
+        "datetime": "2015-05-11T06:49:03Z",
+        "uri": "https://web.archive.org/web/20150511064903/http://catalog.odu.edu/courses/busn/"
+      },
+      {
+        "datetime": "2015-05-31T02:44:54Z",
+        "uri": "https://web.archive.org/web/20150531024454/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2015-05-31T02:44:54Z",
+        "uri": "https://web.archive.org/web/20150531024454/http://catalog.odu.edu:80/courses/busn"
+      },
+      {
+        "datetime": "2015-06-16T14:37:07Z",
+        "uri": "https://web.archive.org/web/20150616143707/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2015-07-01T04:22:19Z",
+        "uri": "https://web.archive.org/web/20150701042219/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2015-07-01T04:22:19Z",
+        "uri": "https://web.archive.org/web/20150701042219/http://catalog.odu.edu:80/courses/busn"
+      },
+      {
+        "datetime": "2015-07-03T05:08:57Z",
+        "uri": "https://web.archive.org/web/20150703050857/http://catalog.odu.edu/courses/busn/"
+      },
+      {
+        "datetime": "2015-08-16T00:45:47Z",
+        "uri": "https://web.archive.org/web/20150816004547/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2015-10-15T07:10:03Z",
+        "uri": "https://web.archive.org/web/20151015071003/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2015-12-14T15:27:57Z",
+        "uri": "https://web.archive.org/web/20151214152757/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2016-02-13T07:49:17Z",
+        "uri": "https://web.archive.org/web/20160213074917/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2016-04-08T17:12:51Z",
+        "uri": "https://web.archive.org/web/20160408171251/http://catalog.odu.edu/courses/busn/"
+      },
+      {
+        "datetime": "2016-04-13T17:45:35Z",
+        "uri": "https://web.archive.org/web/20160413174535/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2016-04-30T15:10:03Z",
+        "uri": "https://web.archive.org/web/20160430151003/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2016-04-30T15:10:03Z",
+        "uri": "https://web.archive.org/web/20160430151003/http://catalog.odu.edu:80/courses/busn"
+      },
+      {
+        "datetime": "2016-05-31T16:18:48Z",
+        "uri": "https://web.archive.org/web/20160531161848/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2016-05-31T16:18:48Z",
+        "uri": "https://web.archive.org/web/20160531161848/http://catalog.odu.edu:80/courses/busn"
+      },
+      {
+        "datetime": "2016-06-13T08:18:05Z",
+        "uri": "https://web.archive.org/web/20160613081805/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2016-07-01T15:42:32Z",
+        "uri": "https://web.archive.org/web/20160701154232/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2016-07-01T15:42:32Z",
+        "uri": "https://web.archive.org/web/20160701154232/http://catalog.odu.edu:80/courses/busn"
+      },
+      {
+        "datetime": "2016-08-01T12:38:41Z",
+        "uri": "https://web.archive.org/web/20160801123841/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2016-08-01T12:38:41Z",
+        "uri": "https://web.archive.org/web/20160801123841/http://catalog.odu.edu:80/courses/busn"
+      },
+      {
+        "datetime": "2016-08-13T01:02:28Z",
+        "uri": "https://web.archive.org/web/20160813010228/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2016-09-01T14:03:56Z",
+        "uri": "https://web.archive.org/web/20160901140356/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2016-09-01T14:03:56Z",
+        "uri": "https://web.archive.org/web/20160901140356/http://catalog.odu.edu:80/courses/busn"
+      },
+      {
+        "datetime": "2016-10-02T08:48:09Z",
+        "uri": "https://web.archive.org/web/20161002084809/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2016-10-02T08:48:09Z",
+        "uri": "https://web.archive.org/web/20161002084809/http://catalog.odu.edu:80/courses/busn"
+      },
+      {
+        "datetime": "2016-10-13T00:05:28Z",
+        "uri": "https://web.archive.org/web/20161013000528/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2016-11-03T01:54:37Z",
+        "uri": "https://web.archive.org/web/20161103015437/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2016-11-03T01:54:37Z",
+        "uri": "https://web.archive.org/web/20161103015437/http://catalog.odu.edu:80/courses/busn"
+      },
+      {
+        "datetime": "2016-12-05T04:53:41Z",
+        "uri": "https://web.archive.org/web/20161205045341/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2017-04-08T18:14:34Z",
+        "uri": "https://web.archive.org/web/20170408181434/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2017-04-25T09:03:24Z",
+        "uri": "https://web.archive.org/web/20170425090324/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2017-04-25T09:03:24Z",
+        "uri": "https://web.archive.org/web/20170425090324/http://catalog.odu.edu:80/courses/busn"
+      },
+      {
+        "datetime": "2017-04-26T03:37:49Z",
+        "uri": "https://web.archive.org/web/20170426033749/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2017-04-26T03:37:49Z",
+        "uri": "https://web.archive.org/web/20170426033749/http://catalog.odu.edu:80/courses/busn"
+      },
+      {
+        "datetime": "2017-04-27T03:32:45Z",
+        "uri": "https://web.archive.org/web/20170427033245/http://catalog.odu.edu/courses/busn/"
+      },
+      {
+        "datetime": "2017-05-26T17:54:14Z",
+        "uri": "https://web.archive.org/web/20170526175414/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2017-05-26T17:54:14Z",
+        "uri": "https://web.archive.org/web/20170526175414/http://catalog.odu.edu:80/courses/busn"
+      },
+      {
+        "datetime": "2017-06-08T07:04:59Z",
+        "uri": "https://web.archive.org/web/20170608070459/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2017-06-26T09:42:31Z",
+        "uri": "https://web.archive.org/web/20170626094231/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2017-06-26T09:42:31Z",
+        "uri": "https://web.archive.org/web/20170626094231/http://catalog.odu.edu:80/courses/busn"
+      },
+      {
+        "datetime": "2017-07-08T23:55:59Z",
+        "uri": "https://web.archive.org/web/20170708235559/http://catalog.odu.edu/courses/busn/"
+      },
+      {
+        "datetime": "2017-07-27T10:22:23Z",
+        "uri": "https://web.archive.org/web/20170727102223/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2017-07-27T10:22:23Z",
+        "uri": "https://web.archive.org/web/20170727102223/http://catalog.odu.edu:80/courses/busn"
+      },
+      {
+        "datetime": "2017-08-08T13:42:19Z",
+        "uri": "https://web.archive.org/web/20170808134219/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2017-08-26T23:44:20Z",
+        "uri": "https://web.archive.org/web/20170826234420/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2017-08-26T23:44:20Z",
+        "uri": "https://web.archive.org/web/20170826234420/http://catalog.odu.edu:80/courses/busn"
+      },
+      {
+        "datetime": "2017-09-27T00:54:54Z",
+        "uri": "https://web.archive.org/web/20170927005454/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2017-09-27T00:54:54Z",
+        "uri": "https://web.archive.org/web/20170927005454/http://catalog.odu.edu:80/courses/busn"
+      },
+      {
+        "datetime": "2017-09-28T02:08:03Z",
+        "uri": "https://web.archive.org/web/20170928020803/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2017-09-28T02:08:03Z",
+        "uri": "https://web.archive.org/web/20170928020803/http://catalog.odu.edu:80/courses/busn"
+      },
+      {
+        "datetime": "2017-10-08T18:52:01Z",
+        "uri": "https://web.archive.org/web/20171008185201/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2017-10-28T17:08:46Z",
+        "uri": "https://web.archive.org/web/20171028170846/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2017-10-28T17:08:46Z",
+        "uri": "https://web.archive.org/web/20171028170846/http://catalog.odu.edu:80/courses/busn"
+      },
+      {
+        "datetime": "2017-10-29T19:13:56Z",
+        "uri": "https://web.archive.org/web/20171029191356/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2017-10-29T19:13:56Z",
+        "uri": "https://web.archive.org/web/20171029191356/http://catalog.odu.edu:80/courses/busn"
+      },
+      {
+        "datetime": "2017-11-29T06:56:17Z",
+        "uri": "https://web.archive.org/web/20171129065617/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2017-11-29T06:56:17Z",
+        "uri": "https://web.archive.org/web/20171129065617/http://catalog.odu.edu:80/courses/busn"
+      },
+      {
+        "datetime": "2017-12-09T00:20:45Z",
+        "uri": "https://web.archive.org/web/20171209002045/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2017-12-30T07:53:57Z",
+        "uri": "https://web.archive.org/web/20171230075357/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2017-12-30T07:53:57Z",
+        "uri": "https://web.archive.org/web/20171230075357/http://catalog.odu.edu:80/courses/busn"
+      },
+      {
+        "datetime": "2018-01-31T12:47:34Z",
+        "uri": "https://web.archive.org/web/20180131124734/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2018-01-31T12:47:34Z",
+        "uri": "https://web.archive.org/web/20180131124734/http://catalog.odu.edu:80/courses/busn"
+      },
+      {
+        "datetime": "2018-02-07T18:46:40Z",
+        "uri": "https://web.archive.org/web/20180207184640/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2018-03-03T15:07:59Z",
+        "uri": "https://web.archive.org/web/20180303150759/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2018-03-03T15:07:59Z",
+        "uri": "https://web.archive.org/web/20180303150759/http://catalog.odu.edu:80/courses/busn"
+      },
+      {
+        "datetime": "2018-04-09T20:13:45Z",
+        "uri": "https://web.archive.org/web/20180409201345/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2018-06-10T06:25:46Z",
+        "uri": "https://web.archive.org/web/20180610062546/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2018-08-10T07:41:48Z",
+        "uri": "https://web.archive.org/web/20180810074148/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2018-10-11T04:24:46Z",
+        "uri": "https://web.archive.org/web/20181011042446/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2019-02-10T00:35:24Z",
+        "uri": "https://web.archive.org/web/20190210003524/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2019-04-12T10:43:47Z",
+        "uri": "https://web.archive.org/web/20190412104347/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2019-08-11T18:45:06Z",
+        "uri": "https://web.archive.org/web/20190811184506/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2019-10-09T05:16:17Z",
+        "uri": "https://web.archive.org/web/20191009051617/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2020-03-02T06:11:43Z",
+        "uri": "https://web.archive.org/web/20200302061143/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2020-05-01T08:38:45Z",
+        "uri": "https://web.archive.org/web/20200501083845/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2020-06-30T12:13:47Z",
+        "uri": "https://web.archive.org/web/20200630121347/http://catalog.odu.edu:80/courses/busn/"
+      },
+      {
+        "datetime": "2021-01-22T22:04:39Z",
+        "uri": "https://web.archive.org/web/20210122220439/https://catalog.odu.edu/courses/busn/"
+      },
+      {
+        "datetime": "2021-04-12T20:42:14Z",
+        "uri": "https://web.archive.org/web/20210412204214/http://catalog.odu.edu/courses/busn/"
+      },
+      {
+        "datetime": "2021-11-18T11:01:18Z",
+        "uri": "https://web.archive.org/web/20211118110118/https://catalog.odu.edu/courses/busn/"
+      },
+      {
+        "datetime": "2022-03-20T06:37:13Z",
+        "uri": "https://web.archive.org/web/20220320063713/https://catalog.odu.edu/courses/busn/"
+      },
+      {
+        "datetime": "2024-02-29T16:10:36Z",
+        "uri": "https://web.archive.org/web/20240229161036/https://catalog.odu.edu/courses/busn/"
+      },
+      {
+        "datetime": "2024-10-13T07:58:09Z",
+        "uri": "https://web.archive.org/web/20241013075809/https://catalog.odu.edu/courses/busn/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:13:59Z",
+      "uri": "https://web.archive.org/web/20120902041359/http://catalog.odu.edu:80/courses/busn/"
+    },
+    "last": {
+      "datetime": "2024-10-13T07:58:09Z",
+      "uri": "https://web.archive.org/web/20241013075809/https://catalog.odu.edu/courses/busn/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/busn/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/busn/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/busn/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/busn/"
+}

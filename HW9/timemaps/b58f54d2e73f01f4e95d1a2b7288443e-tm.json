@@ -1,0 +1,70 @@
+{
+  "original_uri": "https://online.odu.edu/news/student-stories",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/news/student-stories",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-07-05T23:04:27Z",
+        "uri": "https://web.archive.org/web/20240705230427/https://online.odu.edu/news/student-stories"
+      },
+      {
+        "datetime": "2024-07-09T02:21:00Z",
+        "uri": "https://web.archive.org/web/20240709022100/https://online.odu.edu/news/student-stories"
+      },
+      {
+        "datetime": "2024-07-21T22:02:55Z",
+        "uri": "https://web.archive.org/web/20240721220255/https://online.odu.edu/news/student-stories"
+      },
+      {
+        "datetime": "2024-08-01T13:11:29Z",
+        "uri": "https://web.archive.org/web/20240801131129/https://online.odu.edu/news/student-stories"
+      },
+      {
+        "datetime": "2024-09-20T16:37:27Z",
+        "uri": "https://web.archive.org/web/20240920163727/https://online.odu.edu/news/student-stories"
+      },
+      {
+        "datetime": "2024-10-04T07:25:45Z",
+        "uri": "https://web.archive.org/web/20241004072545/https://online.odu.edu/news/student-stories"
+      },
+      {
+        "datetime": "2024-11-05T12:35:37Z",
+        "uri": "https://web.archive.org/web/20241105123537/https://online.odu.edu/news/student-stories"
+      },
+      {
+        "datetime": "2024-11-07T14:43:49Z",
+        "uri": "https://web.archive.org/web/20241107144349/https://online.odu.edu/news/student-stories"
+      },
+      {
+        "datetime": "2024-11-18T00:28:20Z",
+        "uri": "https://web.archive.org/web/20241118002820/https://online.odu.edu/news/student-stories"
+      },
+      {
+        "datetime": "2024-12-14T22:48:54Z",
+        "uri": "https://web.archive.org/web/20241214224854/https://online.odu.edu/news/student-stories"
+      },
+      {
+        "datetime": "2025-01-19T13:02:26Z",
+        "uri": "https://web.archive.org/web/20250119130226/https://online.odu.edu/news/student-stories"
+      },
+      {
+        "datetime": "2025-01-24T02:44:20Z",
+        "uri": "https://web.archive.org/web/20250124024420/https://online.odu.edu/news/student-stories"
+      }
+    ],
+    "first": {
+      "datetime": "2024-07-05T23:04:27Z",
+      "uri": "https://web.archive.org/web/20240705230427/https://online.odu.edu/news/student-stories"
+    },
+    "last": {
+      "datetime": "2025-01-24T02:44:20Z",
+      "uri": "https://web.archive.org/web/20250124024420/https://online.odu.edu/news/student-stories"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/news/student-stories",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/news/student-stories",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/news/student-stories"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/news/student-stories"
+}

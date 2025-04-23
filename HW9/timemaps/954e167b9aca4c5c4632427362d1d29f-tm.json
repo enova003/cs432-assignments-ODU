@@ -1,0 +1,78 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/cpd/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/cpd/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-05-29T08:27:38Z",
+        "uri": "https://web.archive.org/web/20200529082738/http://catalog.odu.edu:80/courses/cpd/"
+      },
+      {
+        "datetime": "2020-07-28T13:16:05Z",
+        "uri": "https://web.archive.org/web/20200728131605/http://catalog.odu.edu:80/courses/cpd/"
+      },
+      {
+        "datetime": "2020-09-24T05:52:08Z",
+        "uri": "https://web.archive.org/web/20200924055208/http://catalog.odu.edu/courses/cpd/"
+      },
+      {
+        "datetime": "2020-12-05T00:06:03Z",
+        "uri": "https://web.archive.org/web/20201205000603/https://catalog.odu.edu/courses/cpd/"
+      },
+      {
+        "datetime": "2021-01-24T10:12:33Z",
+        "uri": "https://web.archive.org/web/20210124101233/https://catalog.odu.edu/courses/cpd/"
+      },
+      {
+        "datetime": "2021-11-03T21:58:39Z",
+        "uri": "https://web.archive.org/web/20211103215839/https://catalog.odu.edu/courses/cpd/"
+      },
+      {
+        "datetime": "2021-11-21T13:23:48Z",
+        "uri": "https://web.archive.org/web/20211121132348/https://catalog.odu.edu/courses/cpd/"
+      },
+      {
+        "datetime": "2022-03-19T21:39:42Z",
+        "uri": "https://web.archive.org/web/20220319213942/https://catalog.odu.edu/courses/cpd/"
+      },
+      {
+        "datetime": "2022-12-09T00:19:14Z",
+        "uri": "https://web.archive.org/web/20221209001914/https://catalog.odu.edu/courses/cpd/"
+      },
+      {
+        "datetime": "2024-02-26T05:30:20Z",
+        "uri": "https://web.archive.org/web/20240226053020/https://catalog.odu.edu/courses/cpd/"
+      },
+      {
+        "datetime": "2024-02-29T00:41:00Z",
+        "uri": "https://web.archive.org/web/20240229004100/https://catalog.odu.edu/courses/cpd/"
+      },
+      {
+        "datetime": "2024-02-29T16:06:40Z",
+        "uri": "https://web.archive.org/web/20240229160640/https://catalog.odu.edu/courses/cpd/"
+      },
+      {
+        "datetime": "2024-07-17T11:19:24Z",
+        "uri": "https://web.archive.org/web/20240717111924/https://catalog.odu.edu/courses/cpd/"
+      },
+      {
+        "datetime": "2024-11-12T00:39:51Z",
+        "uri": "https://web.archive.org/web/20241112003951/https://catalog.odu.edu/courses/cpd/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-05-29T08:27:38Z",
+      "uri": "https://web.archive.org/web/20200529082738/http://catalog.odu.edu:80/courses/cpd/"
+    },
+    "last": {
+      "datetime": "2024-11-12T00:39:51Z",
+      "uri": "https://web.archive.org/web/20241112003951/https://catalog.odu.edu/courses/cpd/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/cpd/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/cpd/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/cpd/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/cpd/"
+}

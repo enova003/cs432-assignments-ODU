@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.odu.edu/article/black-history-month-events-highlight-connection-community",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/article/black-history-month-events-highlight-connection-community",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2025-01-30T20:49:19Z",
+        "uri": "https://web.archive.org/web/20250130204919/https://www.odu.edu/article/black-history-month-events-highlight-connection-community"
+      },
+      {
+        "datetime": "2025-02-14T10:00:50Z",
+        "uri": "https://web.archive.org/web/20250214100050/https://www.odu.edu/article/black-history-month-events-highlight-connection-community"
+      }
+    ],
+    "first": {
+      "datetime": "2025-01-30T20:49:19Z",
+      "uri": "https://web.archive.org/web/20250130204919/https://www.odu.edu/article/black-history-month-events-highlight-connection-community"
+    },
+    "last": {
+      "datetime": "2025-02-14T10:00:50Z",
+      "uri": "https://web.archive.org/web/20250214100050/https://www.odu.edu/article/black-history-month-events-highlight-connection-community"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/article/black-history-month-events-highlight-connection-community",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/article/black-history-month-events-highlight-connection-community",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/article/black-history-month-events-highlight-connection-community"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/article/black-history-month-events-highlight-connection-community"
+}

@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/sciences/mathematics-statistics/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/sciences/mathematics-statistics/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T02:23:48Z",
+        "uri": "https://web.archive.org/web/20230927022348/https://catalog.odu.edu/undergraduate/sciences/mathematics-statistics/"
+      },
+      {
+        "datetime": "2023-09-28T20:30:28Z",
+        "uri": "https://web.archive.org/web/20230928203028/https://catalog.odu.edu/undergraduate/sciences/mathematics-statistics/"
+      },
+      {
+        "datetime": "2023-12-09T23:03:06Z",
+        "uri": "https://web.archive.org/web/20231209230306/http://catalog.odu.edu/undergraduate/sciences/mathematics-statistics/"
+      },
+      {
+        "datetime": "2023-12-09T23:04:02Z",
+        "uri": "https://web.archive.org/web/20231209230402/https://catalog.odu.edu/undergraduate/sciences/mathematics-statistics/"
+      },
+      {
+        "datetime": "2024-02-29T16:10:14Z",
+        "uri": "https://web.archive.org/web/20240229161014/https://catalog.odu.edu/undergraduate/sciences/mathematics-statistics/"
+      },
+      {
+        "datetime": "2024-03-04T05:30:47Z",
+        "uri": "https://web.archive.org/web/20240304053047/https://catalog.odu.edu/undergraduate/sciences/mathematics-statistics/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T02:23:48Z",
+      "uri": "https://web.archive.org/web/20230927022348/https://catalog.odu.edu/undergraduate/sciences/mathematics-statistics/"
+    },
+    "last": {
+      "datetime": "2024-03-04T05:30:47Z",
+      "uri": "https://web.archive.org/web/20240304053047/https://catalog.odu.edu/undergraduate/sciences/mathematics-statistics/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/sciences/mathematics-statistics/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/sciences/mathematics-statistics/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/sciences/mathematics-statistics/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/sciences/mathematics-statistics/"
+}

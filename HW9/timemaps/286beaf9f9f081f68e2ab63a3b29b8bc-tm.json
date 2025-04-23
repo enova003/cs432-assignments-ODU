@@ -1,0 +1,58 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/engineering-technology/electrical-computer-engineering/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/engineering-technology/electrical-computer-engineering/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T01:05:56Z",
+        "uri": "https://web.archive.org/web/20230927010556/https://catalog.odu.edu/undergraduate/engineering-technology/electrical-computer-engineering/"
+      },
+      {
+        "datetime": "2023-10-01T02:07:46Z",
+        "uri": "https://web.archive.org/web/20231001020746/https://catalog.odu.edu/undergraduate/engineering-technology/electrical-computer-engineering/"
+      },
+      {
+        "datetime": "2023-12-20T22:59:17Z",
+        "uri": "https://web.archive.org/web/20231220225917/https://catalog.odu.edu/undergraduate/engineering-technology/electrical-computer-engineering/"
+      },
+      {
+        "datetime": "2024-02-29T00:41:11Z",
+        "uri": "https://web.archive.org/web/20240229004111/https://catalog.odu.edu/undergraduate/engineering-technology/electrical-computer-engineering/"
+      },
+      {
+        "datetime": "2024-04-05T21:04:14Z",
+        "uri": "https://web.archive.org/web/20240405210414/http://catalog.odu.edu/undergraduate/engineering-technology/electrical-computer-engineering/"
+      },
+      {
+        "datetime": "2024-04-17T21:22:42Z",
+        "uri": "https://web.archive.org/web/20240417212242/https://catalog.odu.edu/undergraduate/engineering-technology/electrical-computer-engineering/"
+      },
+      {
+        "datetime": "2024-08-13T21:05:45Z",
+        "uri": "https://web.archive.org/web/20240813210545/https://catalog.odu.edu/undergraduate/engineering-technology/electrical-computer-engineering/"
+      },
+      {
+        "datetime": "2024-09-26T15:53:23Z",
+        "uri": "https://web.archive.org/web/20240926155323/https://catalog.odu.edu/undergraduate/engineering-technology/electrical-computer-engineering/"
+      },
+      {
+        "datetime": "2024-11-11T22:58:09Z",
+        "uri": "https://web.archive.org/web/20241111225809/https://catalog.odu.edu/undergraduate/engineering-technology/electrical-computer-engineering/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T01:05:56Z",
+      "uri": "https://web.archive.org/web/20230927010556/https://catalog.odu.edu/undergraduate/engineering-technology/electrical-computer-engineering/"
+    },
+    "last": {
+      "datetime": "2024-11-11T22:58:09Z",
+      "uri": "https://web.archive.org/web/20241111225809/https://catalog.odu.edu/undergraduate/engineering-technology/electrical-computer-engineering/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/engineering-technology/electrical-computer-engineering/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/engineering-technology/electrical-computer-engineering/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/engineering-technology/electrical-computer-engineering/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/engineering-technology/electrical-computer-engineering/"
+}

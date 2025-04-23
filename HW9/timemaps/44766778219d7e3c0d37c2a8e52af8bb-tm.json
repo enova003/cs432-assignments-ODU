@@ -1,0 +1,58 @@
+{
+  "original_uri": "https://online.odu.edu/academics/area/military-related",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/academics/area/military-related",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-07-15T00:31:07Z",
+        "uri": "https://web.archive.org/web/20230715003107/https://online.odu.edu/academics/area/military-related"
+      },
+      {
+        "datetime": "2023-08-03T21:22:08Z",
+        "uri": "https://web.archive.org/web/20230803212208/https://online.odu.edu/academics/area/military-related"
+      },
+      {
+        "datetime": "2023-09-24T18:03:23Z",
+        "uri": "https://web.archive.org/web/20230924180323/https://online.odu.edu/academics/area/military-related"
+      },
+      {
+        "datetime": "2024-03-17T22:33:05Z",
+        "uri": "https://web.archive.org/web/20240317223305/https://online.odu.edu/academics/area/military-related"
+      },
+      {
+        "datetime": "2024-03-30T10:19:42Z",
+        "uri": "https://web.archive.org/web/20240330101942/https://online.odu.edu/academics/area/military-related"
+      },
+      {
+        "datetime": "2024-04-23T05:32:13Z",
+        "uri": "https://web.archive.org/web/20240423053213/https://online.odu.edu/academics/area/military-related"
+      },
+      {
+        "datetime": "2024-06-14T00:16:24Z",
+        "uri": "https://web.archive.org/web/20240614001624/https://online.odu.edu/academics/area/military-related"
+      },
+      {
+        "datetime": "2024-09-20T18:08:36Z",
+        "uri": "https://web.archive.org/web/20240920180836/https://online.odu.edu/academics/area/military-related"
+      },
+      {
+        "datetime": "2025-01-19T13:02:56Z",
+        "uri": "https://web.archive.org/web/20250119130256/https://online.odu.edu/academics/area/military-related"
+      }
+    ],
+    "first": {
+      "datetime": "2023-07-15T00:31:07Z",
+      "uri": "https://web.archive.org/web/20230715003107/https://online.odu.edu/academics/area/military-related"
+    },
+    "last": {
+      "datetime": "2025-01-19T13:02:56Z",
+      "uri": "https://web.archive.org/web/20250119130256/https://online.odu.edu/academics/area/military-related"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/academics/area/military-related",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/academics/area/military-related",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/academics/area/military-related"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/academics/area/military-related"
+}

@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/mfet/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/mfet/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-07-18T06:59:40Z",
+        "uri": "https://web.archive.org/web/20240718065940/https://catalog.odu.edu/courses/mfet/"
+      },
+      {
+        "datetime": "2024-11-11T22:37:37Z",
+        "uri": "https://web.archive.org/web/20241111223737/https://catalog.odu.edu/courses/mfet/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-07-18T06:59:40Z",
+      "uri": "https://web.archive.org/web/20240718065940/https://catalog.odu.edu/courses/mfet/"
+    },
+    "last": {
+      "datetime": "2024-11-11T22:37:37Z",
+      "uri": "https://web.archive.org/web/20241111223737/https://catalog.odu.edu/courses/mfet/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/mfet/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/mfet/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/mfet/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/mfet/"
+}

@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/nursing/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/nursing/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T00:59:41Z",
+        "uri": "https://web.archive.org/web/20230927005941/https://catalog.odu.edu/graduate/nursing/"
+      },
+      {
+        "datetime": "2023-12-17T01:36:36Z",
+        "uri": "https://web.archive.org/web/20231217013636/https://catalog.odu.edu/graduate/nursing/"
+      },
+      {
+        "datetime": "2024-02-28T07:51:21Z",
+        "uri": "https://web.archive.org/web/20240228075121/http://catalog.odu.edu/graduate/nursing/"
+      },
+      {
+        "datetime": "2024-02-28T21:42:18Z",
+        "uri": "https://web.archive.org/web/20240228214218/https://catalog.odu.edu/graduate/nursing/"
+      },
+      {
+        "datetime": "2024-02-29T00:28:09Z",
+        "uri": "https://web.archive.org/web/20240229002809/https://catalog.odu.edu/graduate/nursing/"
+      },
+      {
+        "datetime": "2024-03-04T05:17:39Z",
+        "uri": "https://web.archive.org/web/20240304051739/https://catalog.odu.edu/graduate/nursing/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T00:59:41Z",
+      "uri": "https://web.archive.org/web/20230927005941/https://catalog.odu.edu/graduate/nursing/"
+    },
+    "last": {
+      "datetime": "2024-03-04T05:17:39Z",
+      "uri": "https://web.archive.org/web/20240304051739/https://catalog.odu.edu/graduate/nursing/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/nursing/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/nursing/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/nursing/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/nursing/"
+}

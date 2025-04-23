@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/arts-letters/history/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/arts-letters/history/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T01:12:27Z",
+        "uri": "https://web.archive.org/web/20230927011227/https://catalog.odu.edu/graduate/arts-letters/history/"
+      },
+      {
+        "datetime": "2023-10-03T10:34:00Z",
+        "uri": "https://web.archive.org/web/20231003103400/https://catalog.odu.edu/graduate/arts-letters/history/"
+      },
+      {
+        "datetime": "2023-12-09T23:03:58Z",
+        "uri": "https://web.archive.org/web/20231209230358/https://catalog.odu.edu/graduate/arts-letters/history/"
+      },
+      {
+        "datetime": "2023-12-09T23:04:06Z",
+        "uri": "https://web.archive.org/web/20231209230406/http://catalog.odu.edu/graduate/arts-letters/history/"
+      },
+      {
+        "datetime": "2024-02-29T16:08:21Z",
+        "uri": "https://web.archive.org/web/20240229160821/https://catalog.odu.edu/graduate/arts-letters/history/"
+      },
+      {
+        "datetime": "2024-04-17T21:30:39Z",
+        "uri": "https://web.archive.org/web/20240417213039/https://catalog.odu.edu/graduate/arts-letters/history/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T01:12:27Z",
+      "uri": "https://web.archive.org/web/20230927011227/https://catalog.odu.edu/graduate/arts-letters/history/"
+    },
+    "last": {
+      "datetime": "2024-04-17T21:30:39Z",
+      "uri": "https://web.archive.org/web/20240417213039/https://catalog.odu.edu/graduate/arts-letters/history/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/arts-letters/history/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/arts-letters/history/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/arts-letters/history/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/arts-letters/history/"
+}

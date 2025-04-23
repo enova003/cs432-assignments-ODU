@@ -1,0 +1,542 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/hlsc/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/hlsc/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:34:28Z",
+        "uri": "https://web.archive.org/web/20120902043428/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2013-05-17T08:07:00Z",
+        "uri": "https://web.archive.org/web/20130517080700/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2014-04-22T11:51:16Z",
+        "uri": "https://web.archive.org/web/20140422115116/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2014-06-22T04:21:09Z",
+        "uri": "https://web.archive.org/web/20140622042109/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2014-08-22T03:32:17Z",
+        "uri": "https://web.archive.org/web/20140822033217/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2014-10-21T20:48:38Z",
+        "uri": "https://web.archive.org/web/20141021204838/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2014-12-21T05:20:59Z",
+        "uri": "https://web.archive.org/web/20141221052059/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2015-02-15T15:56:53Z",
+        "uri": "https://web.archive.org/web/20150215155653/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2015-04-17T03:08:26Z",
+        "uri": "https://web.archive.org/web/20150417030826/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2015-05-11T07:31:59Z",
+        "uri": "https://web.archive.org/web/20150511073159/http://catalog.odu.edu/courses/hlsc/"
+      },
+      {
+        "datetime": "2015-06-16T14:51:29Z",
+        "uri": "https://web.archive.org/web/20150616145129/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2015-07-03T07:55:09Z",
+        "uri": "https://web.archive.org/web/20150703075509/http://catalog.odu.edu/courses/hlsc/"
+      },
+      {
+        "datetime": "2015-08-16T00:48:50Z",
+        "uri": "https://web.archive.org/web/20150816004850/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2015-10-15T07:12:25Z",
+        "uri": "https://web.archive.org/web/20151015071225/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2015-12-14T15:28:52Z",
+        "uri": "https://web.archive.org/web/20151214152852/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2016-01-01T12:37:28Z",
+        "uri": "https://web.archive.org/web/20160101123728/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2016-01-01T12:37:28Z",
+        "uri": "https://web.archive.org/web/20160101123728/http://catalog.odu.edu:80/courses/hlsc"
+      },
+      {
+        "datetime": "2016-02-01T03:32:35Z",
+        "uri": "https://web.archive.org/web/20160201033235/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2016-02-01T03:32:35Z",
+        "uri": "https://web.archive.org/web/20160201033235/http://catalog.odu.edu:80/courses/hlsc"
+      },
+      {
+        "datetime": "2016-02-13T06:10:33Z",
+        "uri": "https://web.archive.org/web/20160213061033/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2016-03-02T23:50:13Z",
+        "uri": "https://web.archive.org/web/20160302235013/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2016-03-02T23:50:13Z",
+        "uri": "https://web.archive.org/web/20160302235013/http://catalog.odu.edu:80/courses/hlsc"
+      },
+      {
+        "datetime": "2016-04-03T07:07:52Z",
+        "uri": "https://web.archive.org/web/20160403070752/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2016-04-03T07:07:52Z",
+        "uri": "https://web.archive.org/web/20160403070752/http://catalog.odu.edu:80/courses/hlsc"
+      },
+      {
+        "datetime": "2016-04-13T17:57:39Z",
+        "uri": "https://web.archive.org/web/20160413175739/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2016-06-10T18:21:07Z",
+        "uri": "https://web.archive.org/web/20160610182107/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2016-06-10T18:21:07Z",
+        "uri": "https://web.archive.org/web/20160610182107/http://catalog.odu.edu:80/courses/hlsc"
+      },
+      {
+        "datetime": "2016-06-13T08:18:26Z",
+        "uri": "https://web.archive.org/web/20160613081826/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2016-07-11T17:41:33Z",
+        "uri": "https://web.archive.org/web/20160711174133/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2016-07-11T17:41:33Z",
+        "uri": "https://web.archive.org/web/20160711174133/http://catalog.odu.edu:80/courses/hlsc"
+      },
+      {
+        "datetime": "2016-08-12T01:08:14Z",
+        "uri": "https://web.archive.org/web/20160812010814/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2016-08-12T01:08:14Z",
+        "uri": "https://web.archive.org/web/20160812010814/http://catalog.odu.edu:80/courses/hlsc"
+      },
+      {
+        "datetime": "2016-08-13T19:43:53Z",
+        "uri": "https://web.archive.org/web/20160813194353/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2016-08-14T20:20:46Z",
+        "uri": "https://web.archive.org/web/20160814202046/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2016-10-14T17:37:18Z",
+        "uri": "https://web.archive.org/web/20161014173718/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2016-12-05T04:57:11Z",
+        "uri": "https://web.archive.org/web/20161205045711/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2017-03-24T18:30:07Z",
+        "uri": "https://web.archive.org/web/20170324183007/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2017-03-24T18:30:07Z",
+        "uri": "https://web.archive.org/web/20170324183007/http://catalog.odu.edu:80/courses/hlsc"
+      },
+      {
+        "datetime": "2017-04-08T18:15:44Z",
+        "uri": "https://web.archive.org/web/20170408181544/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2017-04-27T04:47:42Z",
+        "uri": "https://web.archive.org/web/20170427044742/http://catalog.odu.edu/courses/hlsc/"
+      },
+      {
+        "datetime": "2017-05-07T04:16:14Z",
+        "uri": "https://web.archive.org/web/20170507041614/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2017-05-07T04:16:14Z",
+        "uri": "https://web.archive.org/web/20170507041614/http://catalog.odu.edu:80/courses/hlsc"
+      },
+      {
+        "datetime": "2017-06-06T23:40:25Z",
+        "uri": "https://web.archive.org/web/20170606234025/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2017-06-06T23:40:25Z",
+        "uri": "https://web.archive.org/web/20170606234025/http://catalog.odu.edu:80/courses/hlsc"
+      },
+      {
+        "datetime": "2017-06-08T22:51:00Z",
+        "uri": "https://web.archive.org/web/20170608225100/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2017-07-08T00:36:45Z",
+        "uri": "https://web.archive.org/web/20170708003645/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2017-07-08T00:36:45Z",
+        "uri": "https://web.archive.org/web/20170708003645/http://catalog.odu.edu:80/courses/hlsc"
+      },
+      {
+        "datetime": "2017-07-09T01:23:35Z",
+        "uri": "https://web.archive.org/web/20170709012335/http://catalog.odu.edu/courses/hlsc/"
+      },
+      {
+        "datetime": "2017-08-08T06:31:24Z",
+        "uri": "https://web.archive.org/web/20170808063124/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2017-08-08T06:31:24Z",
+        "uri": "https://web.archive.org/web/20170808063124/http://catalog.odu.edu:80/courses/hlsc"
+      },
+      {
+        "datetime": "2017-08-09T15:04:29Z",
+        "uri": "https://web.archive.org/web/20170809150429/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2017-10-09T08:51:02Z",
+        "uri": "https://web.archive.org/web/20171009085102/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2017-11-22T00:08:28Z",
+        "uri": "https://web.archive.org/web/20171122000828/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2017-11-22T00:08:28Z",
+        "uri": "https://web.archive.org/web/20171122000828/http://catalog.odu.edu:80/courses/hlsc"
+      },
+      {
+        "datetime": "2017-12-10T03:00:40Z",
+        "uri": "https://web.archive.org/web/20171210030040/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2017-12-23T01:10:51Z",
+        "uri": "https://web.archive.org/web/20171223011051/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2017-12-23T01:10:51Z",
+        "uri": "https://web.archive.org/web/20171223011051/http://catalog.odu.edu:80/courses/hlsc"
+      },
+      {
+        "datetime": "2018-01-23T06:32:25Z",
+        "uri": "https://web.archive.org/web/20180123063225/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2018-01-23T06:32:25Z",
+        "uri": "https://web.archive.org/web/20180123063225/http://catalog.odu.edu:80/courses/hlsc"
+      },
+      {
+        "datetime": "2018-02-09T23:54:14Z",
+        "uri": "https://web.archive.org/web/20180209235414/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2018-02-23T01:46:52Z",
+        "uri": "https://web.archive.org/web/20180223014652/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2018-02-23T01:46:52Z",
+        "uri": "https://web.archive.org/web/20180223014652/http://catalog.odu.edu:80/courses/hlsc"
+      },
+      {
+        "datetime": "2018-02-24T15:50:12Z",
+        "uri": "https://web.archive.org/web/20180224155012/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2018-02-24T15:50:12Z",
+        "uri": "https://web.archive.org/web/20180224155012/http://catalog.odu.edu:80/courses/hlsc"
+      },
+      {
+        "datetime": "2018-03-27T13:21:57Z",
+        "uri": "https://web.archive.org/web/20180327132157/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2018-03-27T13:21:57Z",
+        "uri": "https://web.archive.org/web/20180327132157/http://catalog.odu.edu:80/courses/hlsc"
+      },
+      {
+        "datetime": "2018-04-11T18:35:48Z",
+        "uri": "https://web.archive.org/web/20180411183548/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2018-04-27T16:18:25Z",
+        "uri": "https://web.archive.org/web/20180427161825/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2018-04-27T16:18:25Z",
+        "uri": "https://web.archive.org/web/20180427161825/http://catalog.odu.edu:80/courses/hlsc"
+      },
+      {
+        "datetime": "2018-05-30T04:52:51Z",
+        "uri": "https://web.archive.org/web/20180530045251/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2018-05-30T04:52:51Z",
+        "uri": "https://web.archive.org/web/20180530045251/http://catalog.odu.edu:80/courses/hlsc"
+      },
+      {
+        "datetime": "2018-06-12T13:55:43Z",
+        "uri": "https://web.archive.org/web/20180612135543/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2018-07-01T18:30:58Z",
+        "uri": "https://web.archive.org/web/20180701183058/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2018-07-01T18:30:58Z",
+        "uri": "https://web.archive.org/web/20180701183058/http://catalog.odu.edu:80/courses/hlsc"
+      },
+      {
+        "datetime": "2018-08-02T09:43:07Z",
+        "uri": "https://web.archive.org/web/20180802094307/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2018-08-02T09:43:07Z",
+        "uri": "https://web.archive.org/web/20180802094307/http://catalog.odu.edu:80/courses/hlsc"
+      },
+      {
+        "datetime": "2018-08-12T14:01:34Z",
+        "uri": "https://web.archive.org/web/20180812140134/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2018-08-13T16:50:38Z",
+        "uri": "https://web.archive.org/web/20180813165038/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2018-09-02T21:16:28Z",
+        "uri": "https://web.archive.org/web/20180902211628/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2018-09-02T21:16:28Z",
+        "uri": "https://web.archive.org/web/20180902211628/http://catalog.odu.edu:80/courses/hlsc"
+      },
+      {
+        "datetime": "2018-09-03T22:03:25Z",
+        "uri": "https://web.archive.org/web/20180903220325/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2018-09-03T22:03:25Z",
+        "uri": "https://web.archive.org/web/20180903220325/http://catalog.odu.edu:80/courses/hlsc"
+      },
+      {
+        "datetime": "2018-10-04T12:03:12Z",
+        "uri": "https://web.archive.org/web/20181004120312/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2018-10-04T12:03:12Z",
+        "uri": "https://web.archive.org/web/20181004120312/http://catalog.odu.edu:80/courses/hlsc"
+      },
+      {
+        "datetime": "2018-10-13T15:08:28Z",
+        "uri": "https://web.archive.org/web/20181013150828/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2018-10-14T17:55:34Z",
+        "uri": "https://web.archive.org/web/20181014175534/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2018-11-04T11:58:41Z",
+        "uri": "https://web.archive.org/web/20181104115841/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2018-11-04T11:58:41Z",
+        "uri": "https://web.archive.org/web/20181104115841/http://catalog.odu.edu:80/courses/hlsc"
+      },
+      {
+        "datetime": "2018-12-05T21:16:27Z",
+        "uri": "https://web.archive.org/web/20181205211627/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2018-12-05T21:16:27Z",
+        "uri": "https://web.archive.org/web/20181205211627/http://catalog.odu.edu:80/courses/hlsc"
+      },
+      {
+        "datetime": "2019-01-06T12:34:22Z",
+        "uri": "https://web.archive.org/web/20190106123422/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2019-01-06T12:34:22Z",
+        "uri": "https://web.archive.org/web/20190106123422/http://catalog.odu.edu:80/courses/hlsc"
+      },
+      {
+        "datetime": "2019-02-06T12:40:47Z",
+        "uri": "https://web.archive.org/web/20190206124047/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2019-02-06T12:40:47Z",
+        "uri": "https://web.archive.org/web/20190206124047/http://catalog.odu.edu:80/courses/hlsc"
+      },
+      {
+        "datetime": "2019-02-13T09:25:54Z",
+        "uri": "https://web.archive.org/web/20190213092554/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2019-03-09T08:11:35Z",
+        "uri": "https://web.archive.org/web/20190309081135/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2019-03-09T08:11:35Z",
+        "uri": "https://web.archive.org/web/20190309081135/http://catalog.odu.edu:80/courses/hlsc"
+      },
+      {
+        "datetime": "2019-04-09T16:56:03Z",
+        "uri": "https://web.archive.org/web/20190409165603/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2019-04-09T16:56:03Z",
+        "uri": "https://web.archive.org/web/20190409165603/http://catalog.odu.edu:80/courses/hlsc"
+      },
+      {
+        "datetime": "2019-04-15T04:46:29Z",
+        "uri": "https://web.archive.org/web/20190415044629/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2019-05-10T20:15:35Z",
+        "uri": "https://web.archive.org/web/20190510201535/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2019-05-10T20:15:35Z",
+        "uri": "https://web.archive.org/web/20190510201535/http://catalog.odu.edu:80/courses/hlsc"
+      },
+      {
+        "datetime": "2019-06-11T01:14:12Z",
+        "uri": "https://web.archive.org/web/20190611011412/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2019-06-11T01:14:12Z",
+        "uri": "https://web.archive.org/web/20190611011412/http://catalog.odu.edu:80/courses/hlsc"
+      },
+      {
+        "datetime": "2019-06-15T13:41:06Z",
+        "uri": "https://web.archive.org/web/20190615134106/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2019-07-21T15:58:28Z",
+        "uri": "https://web.archive.org/web/20190721155828/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2019-07-21T15:58:28Z",
+        "uri": "https://web.archive.org/web/20190721155828/http://catalog.odu.edu:80/courses/hlsc"
+      },
+      {
+        "datetime": "2019-08-15T18:24:12Z",
+        "uri": "https://web.archive.org/web/20190815182412/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2019-08-21T21:11:46Z",
+        "uri": "https://web.archive.org/web/20190821211146/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2019-08-21T21:11:46Z",
+        "uri": "https://web.archive.org/web/20190821211146/http://catalog.odu.edu:80/courses/hlsc"
+      },
+      {
+        "datetime": "2019-09-22T12:44:20Z",
+        "uri": "https://web.archive.org/web/20190922124420/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2019-09-22T12:44:20Z",
+        "uri": "https://web.archive.org/web/20190922124420/http://catalog.odu.edu:80/courses/hlsc"
+      },
+      {
+        "datetime": "2019-10-09T05:26:49Z",
+        "uri": "https://web.archive.org/web/20191009052649/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2019-10-20T17:34:02Z",
+        "uri": "https://web.archive.org/web/20191020173402/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2019-11-20T02:17:44Z",
+        "uri": "https://web.archive.org/web/20191120021744/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2019-12-20T08:25:20Z",
+        "uri": "https://web.archive.org/web/20191220082520/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2020-01-19T16:03:34Z",
+        "uri": "https://web.archive.org/web/20200119160334/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2020-02-18T19:07:15Z",
+        "uri": "https://web.archive.org/web/20200218190715/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2020-03-02T06:13:08Z",
+        "uri": "https://web.archive.org/web/20200302061308/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2020-05-01T08:45:14Z",
+        "uri": "https://web.archive.org/web/20200501084514/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2020-06-30T12:17:14Z",
+        "uri": "https://web.archive.org/web/20200630121714/http://catalog.odu.edu:80/courses/hlsc/"
+      },
+      {
+        "datetime": "2021-01-22T23:27:53Z",
+        "uri": "https://web.archive.org/web/20210122232753/https://catalog.odu.edu/courses/hlsc/"
+      },
+      {
+        "datetime": "2021-04-12T20:21:42Z",
+        "uri": "https://web.archive.org/web/20210412202142/http://catalog.odu.edu/courses/hlsc/"
+      },
+      {
+        "datetime": "2021-09-15T05:18:36Z",
+        "uri": "https://arquivo.pt/wayback/20210915051836mp_/https://catalog.odu.edu/courses/hlsc/"
+      },
+      {
+        "datetime": "2021-11-21T13:22:41Z",
+        "uri": "https://web.archive.org/web/20211121132241/https://catalog.odu.edu/courses/hlsc/"
+      },
+      {
+        "datetime": "2022-03-19T20:13:28Z",
+        "uri": "https://web.archive.org/web/20220319201328/https://catalog.odu.edu/courses/hlsc/"
+      },
+      {
+        "datetime": "2022-03-19T23:14:45Z",
+        "uri": "https://web.archive.org/web/20220319231445/http://catalog.odu.edu/courses/hlsc/"
+      },
+      {
+        "datetime": "2022-03-19T23:14:46Z",
+        "uri": "https://web.archive.org/web/20220319231446/https://catalog.odu.edu/courses/hlsc/"
+      },
+      {
+        "datetime": "2023-12-20T22:59:19Z",
+        "uri": "https://web.archive.org/web/20231220225919/https://catalog.odu.edu/courses/hlsc/"
+      },
+      {
+        "datetime": "2024-12-07T04:22:09Z",
+        "uri": "https://web.archive.org/web/20241207042209/https://catalog.odu.edu/courses/hlsc/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:34:28Z",
+      "uri": "https://web.archive.org/web/20120902043428/http://catalog.odu.edu:80/courses/hlsc/"
+    },
+    "last": {
+      "datetime": "2024-12-07T04:22:09Z",
+      "uri": "https://web.archive.org/web/20241207042209/https://catalog.odu.edu/courses/hlsc/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/hlsc/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/hlsc/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/hlsc/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/hlsc/"
+}

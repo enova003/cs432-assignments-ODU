@@ -1,0 +1,82 @@
+{
+  "original_uri": "https://www.odu.edu/bcet",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/bcet",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-12-18T23:46:19Z",
+        "uri": "https://web.archive.org/web/20221218234619/https://www.odu.edu/bcet"
+      },
+      {
+        "datetime": "2023-01-07T21:55:32Z",
+        "uri": "https://wayback.archive-it.org/all/20230107215532/https://www.odu.edu/bcet"
+      },
+      {
+        "datetime": "2023-01-07T21:55:32Z",
+        "uri": "https://web.archive.org/web/20230107215532/https://www.odu.edu/bcet"
+      },
+      {
+        "datetime": "2023-01-24T21:34:51Z",
+        "uri": "https://arquivo.pt/wayback/20230124213451mp_/https://www.odu.edu/bcet"
+      },
+      {
+        "datetime": "2023-02-08T12:11:33Z",
+        "uri": "https://wayback.archive-it.org/all/20230208121133/https://www.odu.edu/bcet"
+      },
+      {
+        "datetime": "2023-02-08T12:11:33Z",
+        "uri": "https://web.archive.org/web/20230208121133/https://www.odu.edu/bcet"
+      },
+      {
+        "datetime": "2023-02-20T00:47:29Z",
+        "uri": "https://web.archive.org/web/20230220004729/https://www.odu.edu/bcet"
+      },
+      {
+        "datetime": "2023-03-07T06:13:06Z",
+        "uri": "https://wayback.archive-it.org/all/20230307061306/https://www.odu.edu/bcet"
+      },
+      {
+        "datetime": "2023-03-07T06:13:06Z",
+        "uri": "https://web.archive.org/web/20230307061306/https://www.odu.edu/bcet"
+      },
+      {
+        "datetime": "2023-08-25T17:41:07Z",
+        "uri": "https://wayback.archive-it.org/all/20230825174107/https://www.odu.edu/bcet"
+      },
+      {
+        "datetime": "2023-08-25T17:41:07Z",
+        "uri": "https://web.archive.org/web/20230825174107/https://www.odu.edu/bcet"
+      },
+      {
+        "datetime": "2024-04-27T16:08:11Z",
+        "uri": "https://web.archive.org/web/20240427160811/https://www.odu.edu/bcet"
+      },
+      {
+        "datetime": "2024-05-24T02:40:35Z",
+        "uri": "https://wayback.archive-it.org/all/20240524024035/https://www.odu.edu/bcet"
+      },
+      {
+        "datetime": "2024-12-26T12:55:23Z",
+        "uri": "https://web.archive.org/web/20241226125523/https://www.odu.edu/bcet"
+      },
+      {
+        "datetime": "2025-02-14T10:00:04Z",
+        "uri": "https://web.archive.org/web/20250214100004/https://www.odu.edu/bcet"
+      }
+    ],
+    "first": {
+      "datetime": "2022-12-18T23:46:19Z",
+      "uri": "https://web.archive.org/web/20221218234619/https://www.odu.edu/bcet"
+    },
+    "last": {
+      "datetime": "2025-02-14T10:00:04Z",
+      "uri": "https://web.archive.org/web/20250214100004/https://www.odu.edu/bcet"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/bcet",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/bcet",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/bcet"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/bcet"
+}

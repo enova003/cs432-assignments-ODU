@@ -1,0 +1,54 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/graduatestudentresources/researchresources/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/graduatestudentresources/researchresources/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T02:12:10Z",
+        "uri": "https://web.archive.org/web/20230927021210/https://catalog.odu.edu/graduate/graduatestudentresources/researchresources/"
+      },
+      {
+        "datetime": "2023-10-03T09:52:04Z",
+        "uri": "https://web.archive.org/web/20231003095204/https://catalog.odu.edu/graduate/graduatestudentresources/researchresources/"
+      },
+      {
+        "datetime": "2023-12-17T01:36:37Z",
+        "uri": "https://web.archive.org/web/20231217013637/https://catalog.odu.edu/graduate/graduatestudentresources/researchresources/"
+      },
+      {
+        "datetime": "2024-02-28T21:38:50Z",
+        "uri": "https://web.archive.org/web/20240228213850/https://catalog.odu.edu/graduate/graduatestudentresources/researchresources/"
+      },
+      {
+        "datetime": "2024-02-29T00:38:44Z",
+        "uri": "https://web.archive.org/web/20240229003844/https://catalog.odu.edu/graduate/graduatestudentresources/researchresources/"
+      },
+      {
+        "datetime": "2024-03-26T04:53:56Z",
+        "uri": "https://web.archive.org/web/20240326045356/http://catalog.odu.edu/graduate/graduatestudentresources/researchresources/"
+      },
+      {
+        "datetime": "2024-03-26T04:54:48Z",
+        "uri": "https://web.archive.org/web/20240326045448/https://catalog.odu.edu/graduate/graduatestudentresources/researchresources/"
+      },
+      {
+        "datetime": "2024-04-17T22:18:31Z",
+        "uri": "https://web.archive.org/web/20240417221831/https://catalog.odu.edu/graduate/graduatestudentresources/researchresources/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T02:12:10Z",
+      "uri": "https://web.archive.org/web/20230927021210/https://catalog.odu.edu/graduate/graduatestudentresources/researchresources/"
+    },
+    "last": {
+      "datetime": "2024-04-17T22:18:31Z",
+      "uri": "https://web.archive.org/web/20240417221831/https://catalog.odu.edu/graduate/graduatestudentresources/researchresources/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/graduatestudentresources/researchresources/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/graduatestudentresources/researchresources/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/graduatestudentresources/researchresources/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/graduatestudentresources/researchresources/"
+}

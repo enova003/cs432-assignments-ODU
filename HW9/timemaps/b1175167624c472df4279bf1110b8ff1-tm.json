@@ -1,0 +1,42 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/education/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/education/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T01:13:16Z",
+        "uri": "https://web.archive.org/web/20230927011316/https://catalog.odu.edu/graduate/education/"
+      },
+      {
+        "datetime": "2024-02-29T16:10:53Z",
+        "uri": "https://web.archive.org/web/20240229161053/https://catalog.odu.edu/graduate/education/"
+      },
+      {
+        "datetime": "2024-03-04T04:22:11Z",
+        "uri": "https://web.archive.org/web/20240304042211/https://catalog.odu.edu/graduate/education/"
+      },
+      {
+        "datetime": "2024-03-30T04:01:27Z",
+        "uri": "https://web.archive.org/web/20240330040127/https://catalog.odu.edu/graduate/education/"
+      },
+      {
+        "datetime": "2024-04-05T12:44:57Z",
+        "uri": "https://web.archive.org/web/20240405124457/http://catalog.odu.edu/graduate/education/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T01:13:16Z",
+      "uri": "https://web.archive.org/web/20230927011316/https://catalog.odu.edu/graduate/education/"
+    },
+    "last": {
+      "datetime": "2024-04-05T12:44:57Z",
+      "uri": "https://web.archive.org/web/20240405124457/http://catalog.odu.edu/graduate/education/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/education/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/education/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/education/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/education/"
+}

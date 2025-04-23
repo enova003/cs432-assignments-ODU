@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/sciences/physics/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/sciences/physics/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-21T19:28:52Z",
+        "uri": "https://web.archive.org/web/20230921192852/https://catalog.odu.edu/graduate/sciences/physics/"
+      },
+      {
+        "datetime": "2023-09-27T01:56:13Z",
+        "uri": "https://web.archive.org/web/20230927015613/https://catalog.odu.edu/graduate/sciences/physics/"
+      },
+      {
+        "datetime": "2024-02-29T16:09:42Z",
+        "uri": "https://web.archive.org/web/20240229160942/https://catalog.odu.edu/graduate/sciences/physics/"
+      },
+      {
+        "datetime": "2024-03-29T12:55:40Z",
+        "uri": "https://web.archive.org/web/20240329125540/https://catalog.odu.edu/graduate/sciences/physics/"
+      },
+      {
+        "datetime": "2024-04-01T13:03:06Z",
+        "uri": "https://web.archive.org/web/20240401130306/http://catalog.odu.edu/graduate/sciences/physics/"
+      },
+      {
+        "datetime": "2024-04-17T22:04:04Z",
+        "uri": "https://web.archive.org/web/20240417220404/https://catalog.odu.edu/graduate/sciences/physics/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-21T19:28:52Z",
+      "uri": "https://web.archive.org/web/20230921192852/https://catalog.odu.edu/graduate/sciences/physics/"
+    },
+    "last": {
+      "datetime": "2024-04-17T22:04:04Z",
+      "uri": "https://web.archive.org/web/20240417220404/https://catalog.odu.edu/graduate/sciences/physics/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/sciences/physics/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/sciences/physics/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/sciences/physics/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/sciences/physics/"
+}

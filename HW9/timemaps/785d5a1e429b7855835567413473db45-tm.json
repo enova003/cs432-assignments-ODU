@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/impact-technology-minor/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/impact-technology-minor/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-07-18T07:14:52Z",
+        "uri": "https://web.archive.org/web/20240718071452/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/impact-technology-minor/"
+      },
+      {
+        "datetime": "2024-11-12T00:41:47Z",
+        "uri": "https://web.archive.org/web/20241112004147/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/impact-technology-minor/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-07-18T07:14:52Z",
+      "uri": "https://web.archive.org/web/20240718071452/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/impact-technology-minor/"
+    },
+    "last": {
+      "datetime": "2024-11-12T00:41:47Z",
+      "uri": "https://web.archive.org/web/20241112004147/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/impact-technology-minor/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/impact-technology-minor/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/impact-technology-minor/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/impact-technology-minor/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/impact-technology-minor/"
+}

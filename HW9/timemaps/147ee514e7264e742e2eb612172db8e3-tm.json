@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/sciences/physics/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/sciences/physics/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T02:12:43Z",
+        "uri": "https://web.archive.org/web/20230927021243/https://catalog.odu.edu/undergraduate/sciences/physics/"
+      },
+      {
+        "datetime": "2023-10-01T02:25:07Z",
+        "uri": "https://web.archive.org/web/20231001022507/https://catalog.odu.edu/undergraduate/sciences/physics/"
+      },
+      {
+        "datetime": "2023-12-09T23:06:12Z",
+        "uri": "https://web.archive.org/web/20231209230612/https://catalog.odu.edu/undergraduate/sciences/physics/"
+      },
+      {
+        "datetime": "2023-12-09T23:06:44Z",
+        "uri": "https://web.archive.org/web/20231209230644/http://catalog.odu.edu/undergraduate/sciences/physics/"
+      },
+      {
+        "datetime": "2024-02-29T16:09:21Z",
+        "uri": "https://web.archive.org/web/20240229160921/https://catalog.odu.edu/undergraduate/sciences/physics/"
+      },
+      {
+        "datetime": "2024-03-04T05:22:05Z",
+        "uri": "https://web.archive.org/web/20240304052205/https://catalog.odu.edu/undergraduate/sciences/physics/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T02:12:43Z",
+      "uri": "https://web.archive.org/web/20230927021243/https://catalog.odu.edu/undergraduate/sciences/physics/"
+    },
+    "last": {
+      "datetime": "2024-03-04T05:22:05Z",
+      "uri": "https://web.archive.org/web/20240304052205/https://catalog.odu.edu/undergraduate/sciences/physics/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/sciences/physics/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/sciences/physics/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/sciences/physics/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/sciences/physics/"
+}

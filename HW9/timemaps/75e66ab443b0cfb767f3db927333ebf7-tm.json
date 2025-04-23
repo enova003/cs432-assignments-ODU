@@ -1,0 +1,42 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/occt/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/occt/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-07-07T10:19:14Z",
+        "uri": "https://web.archive.org/web/20220707101914/https://catalog.odu.edu/courses/occt/"
+      },
+      {
+        "datetime": "2022-10-31T12:00:37Z",
+        "uri": "https://web.archive.org/web/20221031120037/https://catalog.odu.edu/courses/occt/"
+      },
+      {
+        "datetime": "2022-11-27T02:11:26Z",
+        "uri": "https://web.archive.org/web/20221127021126/https://catalog.odu.edu/courses/occt/"
+      },
+      {
+        "datetime": "2024-02-28T21:42:00Z",
+        "uri": "https://web.archive.org/web/20240228214200/https://catalog.odu.edu/courses/occt/"
+      },
+      {
+        "datetime": "2024-02-29T16:08:43Z",
+        "uri": "https://web.archive.org/web/20240229160843/https://catalog.odu.edu/courses/occt/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-07-07T10:19:14Z",
+      "uri": "https://web.archive.org/web/20220707101914/https://catalog.odu.edu/courses/occt/"
+    },
+    "last": {
+      "datetime": "2024-02-29T16:08:43Z",
+      "uri": "https://web.archive.org/web/20240229160843/https://catalog.odu.edu/courses/occt/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/occt/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/occt/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/occt/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/occt/"
+}

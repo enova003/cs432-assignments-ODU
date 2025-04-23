@@ -1,0 +1,426 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/mscm/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/mscm/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:26:37Z",
+        "uri": "https://web.archive.org/web/20120902042637/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2013-05-17T07:47:40Z",
+        "uri": "https://web.archive.org/web/20130517074740/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2014-06-20T15:26:49Z",
+        "uri": "https://web.archive.org/web/20140620152649/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2014-08-20T12:38:36Z",
+        "uri": "https://web.archive.org/web/20140820123836/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2014-10-20T03:43:38Z",
+        "uri": "https://web.archive.org/web/20141020034338/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2014-12-19T15:11:09Z",
+        "uri": "https://web.archive.org/web/20141219151109/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2015-02-15T16:04:57Z",
+        "uri": "https://web.archive.org/web/20150215160457/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2015-04-17T03:15:23Z",
+        "uri": "https://web.archive.org/web/20150417031523/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2015-05-11T06:58:45Z",
+        "uri": "https://web.archive.org/web/20150511065845/http://catalog.odu.edu/courses/mscm/"
+      },
+      {
+        "datetime": "2015-06-16T14:53:35Z",
+        "uri": "https://web.archive.org/web/20150616145335/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2015-07-03T05:58:37Z",
+        "uri": "https://web.archive.org/web/20150703055837/http://catalog.odu.edu/courses/mscm/"
+      },
+      {
+        "datetime": "2015-08-16T00:56:13Z",
+        "uri": "https://web.archive.org/web/20150816005613/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2015-10-15T07:21:51Z",
+        "uri": "https://web.archive.org/web/20151015072151/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2015-12-14T15:29:58Z",
+        "uri": "https://web.archive.org/web/20151214152958/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2016-02-13T07:52:18Z",
+        "uri": "https://web.archive.org/web/20160213075218/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2016-04-08T22:58:11Z",
+        "uri": "https://web.archive.org/web/20160408225811/http://catalog.odu.edu/courses/mscm/"
+      },
+      {
+        "datetime": "2016-04-13T17:58:57Z",
+        "uri": "https://web.archive.org/web/20160413175857/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2016-06-15T01:27:56Z",
+        "uri": "https://web.archive.org/web/20160615012756/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2016-08-15T00:03:26Z",
+        "uri": "https://web.archive.org/web/20160815000326/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2016-08-30T15:44:31Z",
+        "uri": "https://web.archive.org/web/20160830154431/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2016-08-30T15:44:31Z",
+        "uri": "https://web.archive.org/web/20160830154431/http://catalog.odu.edu:80/courses/mscm"
+      },
+      {
+        "datetime": "2016-09-30T19:40:20Z",
+        "uri": "https://web.archive.org/web/20160930194020/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2016-09-30T19:40:20Z",
+        "uri": "https://web.archive.org/web/20160930194020/http://catalog.odu.edu:80/courses/mscm"
+      },
+      {
+        "datetime": "2016-10-14T18:44:40Z",
+        "uri": "https://web.archive.org/web/20161014184440/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2016-11-01T04:44:43Z",
+        "uri": "https://web.archive.org/web/20161101044443/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2016-11-01T04:44:43Z",
+        "uri": "https://web.archive.org/web/20161101044443/http://catalog.odu.edu:80/courses/mscm"
+      },
+      {
+        "datetime": "2016-12-05T04:59:22Z",
+        "uri": "https://web.archive.org/web/20161205045922/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2017-04-27T03:37:44Z",
+        "uri": "https://web.archive.org/web/20170427033744/http://catalog.odu.edu/courses/mscm/"
+      },
+      {
+        "datetime": "2017-06-04T07:05:57Z",
+        "uri": "https://web.archive.org/web/20170604070557/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2017-07-09T00:35:58Z",
+        "uri": "https://web.archive.org/web/20170709003558/http://catalog.odu.edu/courses/mscm/"
+      },
+      {
+        "datetime": "2017-08-03T20:20:35Z",
+        "uri": "https://web.archive.org/web/20170803202035/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2017-10-03T16:39:15Z",
+        "uri": "https://web.archive.org/web/20171003163915/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2017-12-03T18:11:10Z",
+        "uri": "https://web.archive.org/web/20171203181110/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2018-01-20T23:45:52Z",
+        "uri": "https://web.archive.org/web/20180120234552/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2018-01-20T23:45:52Z",
+        "uri": "https://web.archive.org/web/20180120234552/http://catalog.odu.edu:80/courses/mscm"
+      },
+      {
+        "datetime": "2018-02-02T12:47:52Z",
+        "uri": "https://web.archive.org/web/20180202124752/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2018-02-20T19:56:19Z",
+        "uri": "https://web.archive.org/web/20180220195619/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2018-02-20T19:56:19Z",
+        "uri": "https://web.archive.org/web/20180220195619/http://catalog.odu.edu:80/courses/mscm"
+      },
+      {
+        "datetime": "2018-03-25T13:45:59Z",
+        "uri": "https://web.archive.org/web/20180325134559/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2018-03-25T13:45:59Z",
+        "uri": "https://web.archive.org/web/20180325134559/http://catalog.odu.edu:80/courses/mscm"
+      },
+      {
+        "datetime": "2018-03-30T23:36:08Z",
+        "uri": "https://web.archive.org/web/20180330233608/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2018-03-30T23:36:08Z",
+        "uri": "https://web.archive.org/web/20180330233608/http://catalog.odu.edu:80/courses/mscm"
+      },
+      {
+        "datetime": "2018-04-04T01:36:18Z",
+        "uri": "https://web.archive.org/web/20180404013618/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2018-05-01T00:58:29Z",
+        "uri": "https://web.archive.org/web/20180501005829/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2018-05-01T00:58:29Z",
+        "uri": "https://web.archive.org/web/20180501005829/http://catalog.odu.edu:80/courses/mscm"
+      },
+      {
+        "datetime": "2018-06-01T06:45:39Z",
+        "uri": "https://web.archive.org/web/20180601064539/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2018-06-01T06:45:39Z",
+        "uri": "https://web.archive.org/web/20180601064539/http://catalog.odu.edu:80/courses/mscm"
+      },
+      {
+        "datetime": "2018-06-04T09:47:01Z",
+        "uri": "https://web.archive.org/web/20180604094701/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2018-07-02T10:11:38Z",
+        "uri": "https://web.archive.org/web/20180702101138/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2018-07-02T10:11:38Z",
+        "uri": "https://web.archive.org/web/20180702101138/http://catalog.odu.edu:80/courses/mscm"
+      },
+      {
+        "datetime": "2018-08-02T08:37:00Z",
+        "uri": "https://web.archive.org/web/20180802083700/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2018-08-02T08:37:00Z",
+        "uri": "https://web.archive.org/web/20180802083700/http://catalog.odu.edu:80/courses/mscm"
+      },
+      {
+        "datetime": "2018-08-04T08:44:06Z",
+        "uri": "https://web.archive.org/web/20180804084406/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2018-09-02T18:34:12Z",
+        "uri": "https://web.archive.org/web/20180902183412/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2018-09-02T18:34:12Z",
+        "uri": "https://web.archive.org/web/20180902183412/http://catalog.odu.edu:80/courses/mscm"
+      },
+      {
+        "datetime": "2018-10-03T14:29:07Z",
+        "uri": "https://web.archive.org/web/20181003142907/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2018-10-03T14:29:07Z",
+        "uri": "https://web.archive.org/web/20181003142907/http://catalog.odu.edu:80/courses/mscm"
+      },
+      {
+        "datetime": "2018-10-06T00:37:20Z",
+        "uri": "https://web.archive.org/web/20181006003720/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2018-11-04T00:22:43Z",
+        "uri": "https://web.archive.org/web/20181104002243/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2018-11-04T00:22:43Z",
+        "uri": "https://web.archive.org/web/20181104002243/http://catalog.odu.edu:80/courses/mscm"
+      },
+      {
+        "datetime": "2018-12-05T19:33:01Z",
+        "uri": "https://web.archive.org/web/20181205193301/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2018-12-05T20:57:20Z",
+        "uri": "https://web.archive.org/web/20181205205720/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2018-12-05T20:57:20Z",
+        "uri": "https://web.archive.org/web/20181205205720/http://catalog.odu.edu:80/courses/mscm"
+      },
+      {
+        "datetime": "2019-01-06T13:17:56Z",
+        "uri": "https://web.archive.org/web/20190106131756/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2019-01-06T13:17:56Z",
+        "uri": "https://web.archive.org/web/20190106131756/http://catalog.odu.edu:80/courses/mscm"
+      },
+      {
+        "datetime": "2019-02-06T12:47:05Z",
+        "uri": "https://web.archive.org/web/20190206124705/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2019-02-06T12:47:05Z",
+        "uri": "https://web.archive.org/web/20190206124705/http://catalog.odu.edu:80/courses/mscm"
+      },
+      {
+        "datetime": "2019-03-09T07:26:36Z",
+        "uri": "https://web.archive.org/web/20190309072636/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2019-03-09T07:26:36Z",
+        "uri": "https://web.archive.org/web/20190309072636/http://catalog.odu.edu:80/courses/mscm"
+      },
+      {
+        "datetime": "2019-04-06T14:41:37Z",
+        "uri": "https://web.archive.org/web/20190406144137/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2019-04-08T19:36:52Z",
+        "uri": "https://web.archive.org/web/20190408193652/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2019-04-08T19:36:52Z",
+        "uri": "https://web.archive.org/web/20190408193652/http://catalog.odu.edu:80/courses/mscm"
+      },
+      {
+        "datetime": "2019-05-09T11:24:18Z",
+        "uri": "https://web.archive.org/web/20190509112418/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2019-05-09T11:24:18Z",
+        "uri": "https://web.archive.org/web/20190509112418/http://catalog.odu.edu:80/courses/mscm"
+      },
+      {
+        "datetime": "2019-06-06T21:55:23Z",
+        "uri": "https://web.archive.org/web/20190606215523/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2019-06-09T07:14:34Z",
+        "uri": "https://web.archive.org/web/20190609071434/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2019-06-09T07:14:34Z",
+        "uri": "https://web.archive.org/web/20190609071434/http://catalog.odu.edu:80/courses/mscm"
+      },
+      {
+        "datetime": "2019-07-21T15:02:55Z",
+        "uri": "https://web.archive.org/web/20190721150255/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2019-07-21T15:02:55Z",
+        "uri": "https://web.archive.org/web/20190721150255/http://catalog.odu.edu:80/courses/mscm"
+      },
+      {
+        "datetime": "2019-08-06T19:30:18Z",
+        "uri": "https://web.archive.org/web/20190806193018/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2019-08-21T20:09:56Z",
+        "uri": "https://web.archive.org/web/20190821200956/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2019-08-21T20:09:56Z",
+        "uri": "https://web.archive.org/web/20190821200956/http://catalog.odu.edu:80/courses/mscm"
+      },
+      {
+        "datetime": "2019-09-22T13:47:24Z",
+        "uri": "https://web.archive.org/web/20190922134724/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2019-09-22T13:47:24Z",
+        "uri": "https://web.archive.org/web/20190922134724/http://catalog.odu.edu:80/courses/mscm"
+      },
+      {
+        "datetime": "2019-10-09T05:28:04Z",
+        "uri": "https://web.archive.org/web/20191009052804/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2019-10-20T16:54:09Z",
+        "uri": "https://web.archive.org/web/20191020165409/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2019-11-20T02:10:14Z",
+        "uri": "https://web.archive.org/web/20191120021014/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2019-12-20T08:30:05Z",
+        "uri": "https://web.archive.org/web/20191220083005/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2020-01-19T16:04:35Z",
+        "uri": "https://web.archive.org/web/20200119160435/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2020-02-18T19:05:49Z",
+        "uri": "https://web.archive.org/web/20200218190549/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2020-03-02T06:06:31Z",
+        "uri": "https://web.archive.org/web/20200302060631/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2020-05-01T08:52:38Z",
+        "uri": "https://web.archive.org/web/20200501085238/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2020-06-30T15:11:20Z",
+        "uri": "https://web.archive.org/web/20200630151120/http://catalog.odu.edu:80/courses/mscm/"
+      },
+      {
+        "datetime": "2021-01-22T22:20:26Z",
+        "uri": "https://web.archive.org/web/20210122222026/https://catalog.odu.edu/courses/mscm/"
+      },
+      {
+        "datetime": "2021-04-12T20:27:57Z",
+        "uri": "https://web.archive.org/web/20210412202757/http://catalog.odu.edu/courses/mscm/"
+      },
+      {
+        "datetime": "2021-11-23T20:12:51Z",
+        "uri": "https://web.archive.org/web/20211123201251/https://catalog.odu.edu/courses/mscm/"
+      },
+      {
+        "datetime": "2022-03-19T23:38:46Z",
+        "uri": "https://web.archive.org/web/20220319233846/https://catalog.odu.edu/courses/mscm/"
+      },
+      {
+        "datetime": "2022-12-09T00:19:14Z",
+        "uri": "https://web.archive.org/web/20221209001914/https://catalog.odu.edu/courses/mscm/"
+      },
+      {
+        "datetime": "2024-02-29T16:10:00Z",
+        "uri": "https://web.archive.org/web/20240229161000/https://catalog.odu.edu/courses/mscm/"
+      },
+      {
+        "datetime": "2024-08-13T21:19:13Z",
+        "uri": "https://web.archive.org/web/20240813211913/https://catalog.odu.edu/courses/mscm/"
+      },
+      {
+        "datetime": "2024-12-07T04:37:08Z",
+        "uri": "https://web.archive.org/web/20241207043708/https://catalog.odu.edu/courses/mscm/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:26:37Z",
+      "uri": "https://web.archive.org/web/20120902042637/http://catalog.odu.edu:80/courses/mscm/"
+    },
+    "last": {
+      "datetime": "2024-12-07T04:37:08Z",
+      "uri": "https://web.archive.org/web/20241207043708/https://catalog.odu.edu/courses/mscm/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/mscm/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/mscm/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/mscm/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/mscm/"
+}

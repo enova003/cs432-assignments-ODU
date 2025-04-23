@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.odu.edu/technology-services/student-data",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/technology-services/student-data",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-12-20T21:33:11Z",
+        "uri": "https://web.archive.org/web/20241220213311/https://www.odu.edu/technology-services/student-data"
+      }
+    ],
+    "first": {
+      "datetime": "2024-12-20T21:33:11Z",
+      "uri": "https://web.archive.org/web/20241220213311/https://www.odu.edu/technology-services/student-data"
+    },
+    "last": {
+      "datetime": "2024-12-20T21:33:11Z",
+      "uri": "https://web.archive.org/web/20241220213311/https://www.odu.edu/technology-services/student-data"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/technology-services/student-data",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/technology-services/student-data",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/technology-services/student-data"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/technology-services/student-data"
+}

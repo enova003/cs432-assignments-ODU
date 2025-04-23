@@ -1,0 +1,342 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/coun/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/coun/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:28:35Z",
+        "uri": "https://web.archive.org/web/20120902042835/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2013-04-14T00:22:38Z",
+        "uri": "https://web.archive.org/web/20130414002238/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2013-04-14T00:22:38Z",
+        "uri": "https://web.archive.org/web/20130414002238/http://catalog.odu.edu:80/courses/coun"
+      },
+      {
+        "datetime": "2013-04-15T12:38:06Z",
+        "uri": "https://web.archive.org/web/20130415123806/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2013-05-16T02:48:04Z",
+        "uri": "https://web.archive.org/web/20130516024804/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2013-05-16T02:48:04Z",
+        "uri": "https://web.archive.org/web/20130516024804/http://catalog.odu.edu:80/courses/coun"
+      },
+      {
+        "datetime": "2013-06-21T23:38:43Z",
+        "uri": "https://web.archive.org/web/20130621233843/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2014-04-22T11:49:51Z",
+        "uri": "https://web.archive.org/web/20140422114951/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2014-06-22T04:22:58Z",
+        "uri": "https://web.archive.org/web/20140622042258/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2014-08-22T03:31:25Z",
+        "uri": "https://web.archive.org/web/20140822033125/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2014-10-21T20:47:35Z",
+        "uri": "https://web.archive.org/web/20141021204735/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2014-12-21T05:19:55Z",
+        "uri": "https://web.archive.org/web/20141221051955/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2015-02-15T15:43:20Z",
+        "uri": "https://web.archive.org/web/20150215154320/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2015-04-17T03:04:08Z",
+        "uri": "https://web.archive.org/web/20150417030408/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2015-05-11T07:22:01Z",
+        "uri": "https://web.archive.org/web/20150511072201/http://catalog.odu.edu/courses/coun/"
+      },
+      {
+        "datetime": "2015-06-16T14:37:37Z",
+        "uri": "https://web.archive.org/web/20150616143737/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2015-07-03T07:14:32Z",
+        "uri": "https://web.archive.org/web/20150703071432/http://catalog.odu.edu/courses/coun/"
+      },
+      {
+        "datetime": "2015-08-16T00:46:20Z",
+        "uri": "https://web.archive.org/web/20150816004620/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2015-10-15T07:10:23Z",
+        "uri": "https://web.archive.org/web/20151015071023/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2015-12-14T14:57:33Z",
+        "uri": "https://web.archive.org/web/20151214145733/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2016-02-13T07:49:32Z",
+        "uri": "https://web.archive.org/web/20160213074932/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2016-04-08T22:56:20Z",
+        "uri": "https://web.archive.org/web/20160408225620/http://catalog.odu.edu/courses/coun/"
+      },
+      {
+        "datetime": "2016-04-10T15:18:05Z",
+        "uri": "https://web.archive.org/web/20160410151805/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2016-04-10T15:18:05Z",
+        "uri": "https://web.archive.org/web/20160410151805/http://catalog.odu.edu:80/courses/coun"
+      },
+      {
+        "datetime": "2016-04-13T17:55:58Z",
+        "uri": "https://web.archive.org/web/20160413175558/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2016-05-11T18:50:26Z",
+        "uri": "https://web.archive.org/web/20160511185026/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2016-05-11T18:50:26Z",
+        "uri": "https://web.archive.org/web/20160511185026/http://catalog.odu.edu:80/courses/coun"
+      },
+      {
+        "datetime": "2016-05-12T22:00:43Z",
+        "uri": "https://web.archive.org/web/20160512220043/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2016-05-12T22:00:43Z",
+        "uri": "https://web.archive.org/web/20160512220043/http://catalog.odu.edu:80/courses/coun"
+      },
+      {
+        "datetime": "2016-06-13T03:53:51Z",
+        "uri": "https://web.archive.org/web/20160613035351/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2016-06-13T03:53:51Z",
+        "uri": "https://web.archive.org/web/20160613035351/http://catalog.odu.edu:80/courses/coun"
+      },
+      {
+        "datetime": "2016-06-15T01:51:51Z",
+        "uri": "https://web.archive.org/web/20160615015151/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2016-08-15T00:02:56Z",
+        "uri": "https://web.archive.org/web/20160815000256/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2016-10-14T18:45:33Z",
+        "uri": "https://web.archive.org/web/20161014184533/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2016-12-05T04:54:26Z",
+        "uri": "https://web.archive.org/web/20161205045426/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2017-04-08T18:14:49Z",
+        "uri": "https://web.archive.org/web/20170408181449/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2017-04-27T04:18:01Z",
+        "uri": "https://web.archive.org/web/20170427041801/http://catalog.odu.edu/courses/coun/"
+      },
+      {
+        "datetime": "2017-06-08T07:05:19Z",
+        "uri": "https://web.archive.org/web/20170608070519/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2017-07-09T01:08:38Z",
+        "uri": "https://web.archive.org/web/20170709010838/http://catalog.odu.edu/courses/coun/"
+      },
+      {
+        "datetime": "2017-08-08T13:33:34Z",
+        "uri": "https://web.archive.org/web/20170808133334/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2017-10-08T19:03:32Z",
+        "uri": "https://web.archive.org/web/20171008190332/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2017-10-21T12:51:36Z",
+        "uri": "https://web.archive.org/web/20171021125136/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2017-10-21T12:51:36Z",
+        "uri": "https://web.archive.org/web/20171021125136/http://catalog.odu.edu:80/courses/coun"
+      },
+      {
+        "datetime": "2017-11-21T14:32:17Z",
+        "uri": "https://web.archive.org/web/20171121143217/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2017-11-21T14:32:17Z",
+        "uri": "https://web.archive.org/web/20171121143217/http://catalog.odu.edu:80/courses/coun"
+      },
+      {
+        "datetime": "2017-12-08T14:48:06Z",
+        "uri": "https://web.archive.org/web/20171208144806/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2017-12-22T09:05:04Z",
+        "uri": "https://web.archive.org/web/20171222090504/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2017-12-22T09:05:04Z",
+        "uri": "https://web.archive.org/web/20171222090504/http://catalog.odu.edu:80/courses/coun"
+      },
+      {
+        "datetime": "2018-01-22T11:12:16Z",
+        "uri": "https://web.archive.org/web/20180122111216/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2018-01-22T11:12:16Z",
+        "uri": "https://web.archive.org/web/20180122111216/http://catalog.odu.edu:80/courses/coun"
+      },
+      {
+        "datetime": "2018-02-07T18:44:32Z",
+        "uri": "https://web.archive.org/web/20180207184432/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2018-02-22T16:20:11Z",
+        "uri": "https://web.archive.org/web/20180222162011/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2018-02-22T16:20:11Z",
+        "uri": "https://web.archive.org/web/20180222162011/http://catalog.odu.edu:80/courses/coun"
+      },
+      {
+        "datetime": "2018-03-25T13:14:31Z",
+        "uri": "https://web.archive.org/web/20180325131431/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2018-03-25T13:14:31Z",
+        "uri": "https://web.archive.org/web/20180325131431/http://catalog.odu.edu:80/courses/coun"
+      },
+      {
+        "datetime": "2018-04-10T18:40:43Z",
+        "uri": "https://web.archive.org/web/20180410184043/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2018-06-10T06:20:00Z",
+        "uri": "https://web.archive.org/web/20180610062000/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2018-08-10T07:50:58Z",
+        "uri": "https://web.archive.org/web/20180810075058/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2018-10-11T04:24:51Z",
+        "uri": "https://web.archive.org/web/20181011042451/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2019-02-10T00:35:29Z",
+        "uri": "https://web.archive.org/web/20190210003529/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2019-04-12T10:43:52Z",
+        "uri": "https://web.archive.org/web/20190412104352/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2019-06-12T01:26:56Z",
+        "uri": "https://web.archive.org/web/20190612012656/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2019-08-11T18:45:11Z",
+        "uri": "https://web.archive.org/web/20190811184511/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2019-10-09T05:16:37Z",
+        "uri": "https://web.archive.org/web/20191009051637/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2019-12-08T12:31:46Z",
+        "uri": "https://web.archive.org/web/20191208123146/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2020-03-02T06:03:25Z",
+        "uri": "https://web.archive.org/web/20200302060325/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2020-05-01T08:39:31Z",
+        "uri": "https://web.archive.org/web/20200501083931/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2020-06-30T12:14:33Z",
+        "uri": "https://web.archive.org/web/20200630121433/http://catalog.odu.edu:80/courses/coun/"
+      },
+      {
+        "datetime": "2021-01-24T10:15:11Z",
+        "uri": "https://web.archive.org/web/20210124101511/https://catalog.odu.edu/courses/coun/"
+      },
+      {
+        "datetime": "2021-04-12T20:29:32Z",
+        "uri": "https://web.archive.org/web/20210412202932/http://catalog.odu.edu/courses/coun/"
+      },
+      {
+        "datetime": "2021-09-15T05:18:19Z",
+        "uri": "https://arquivo.pt/wayback/20210915051819mp_/https://catalog.odu.edu/courses/coun/"
+      },
+      {
+        "datetime": "2021-11-21T13:22:54Z",
+        "uri": "https://web.archive.org/web/20211121132254/https://catalog.odu.edu/courses/coun/"
+      },
+      {
+        "datetime": "2022-03-19T23:02:43Z",
+        "uri": "https://web.archive.org/web/20220319230243/https://catalog.odu.edu/courses/coun/"
+      },
+      {
+        "datetime": "2022-08-21T23:43:01Z",
+        "uri": "https://web.archive.org/web/20220821234301/https://catalog.odu.edu/courses/coun/"
+      },
+      {
+        "datetime": "2022-11-14T23:07:02Z",
+        "uri": "https://web.archive.org/web/20221114230702/https://catalog.odu.edu/courses/coun/"
+      },
+      {
+        "datetime": "2023-01-12T03:48:26Z",
+        "uri": "https://web.archive.org/web/20230112034826/http://catalog.odu.edu/courses/coun/"
+      },
+      {
+        "datetime": "2023-12-17T01:36:37Z",
+        "uri": "https://web.archive.org/web/20231217013637/https://catalog.odu.edu/courses/coun/"
+      },
+      {
+        "datetime": "2024-09-12T06:34:58Z",
+        "uri": "https://web.archive.org/web/20240912063458/https://catalog.odu.edu/courses/coun/"
+      },
+      {
+        "datetime": "2024-09-23T10:02:12Z",
+        "uri": "https://web.archive.org/web/20240923100212/https://catalog.odu.edu/courses/coun/"
+      },
+      {
+        "datetime": "2024-12-07T06:21:40Z",
+        "uri": "https://web.archive.org/web/20241207062140/https://catalog.odu.edu/courses/coun/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:28:35Z",
+      "uri": "https://web.archive.org/web/20120902042835/http://catalog.odu.edu:80/courses/coun/"
+    },
+    "last": {
+      "datetime": "2024-12-07T06:21:40Z",
+      "uri": "https://web.archive.org/web/20241207062140/https://catalog.odu.edu/courses/coun/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/coun/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/coun/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/coun/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/coun/"
+}

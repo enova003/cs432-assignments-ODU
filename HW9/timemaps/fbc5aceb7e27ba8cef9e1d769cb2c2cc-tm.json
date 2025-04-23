@@ -1,0 +1,162 @@
+{
+  "original_uri": "https://online.odu.edu/cost",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/cost",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2015-09-24T07:53:09Z",
+        "uri": "https://web.archive.org/web/20150924075309/https://online.odu.edu/cost"
+      },
+      {
+        "datetime": "2016-02-01T22:20:02Z",
+        "uri": "https://web.archive.org/web/20160201222002/https://online.odu.edu/cost"
+      },
+      {
+        "datetime": "2016-04-17T16:15:14Z",
+        "uri": "https://web.archive.org/web/20160417161514/https://online.odu.edu/cost"
+      },
+      {
+        "datetime": "2016-05-10T19:15:39Z",
+        "uri": "https://web.archive.org/web/20160510191539/http://online.odu.edu:80/cost"
+      },
+      {
+        "datetime": "2016-07-14T22:30:05Z",
+        "uri": "https://web.archive.org/web/20160714223005/http://online.odu.edu:80/cost"
+      },
+      {
+        "datetime": "2016-10-18T17:43:01Z",
+        "uri": "https://web.archive.org/web/20161018174301/https://online.odu.edu/cost"
+      },
+      {
+        "datetime": "2017-01-19T06:21:46Z",
+        "uri": "https://web.archive.org/web/20170119062146/https://online.odu.edu/cost"
+      },
+      {
+        "datetime": "2020-04-27T12:33:17Z",
+        "uri": "https://web.archive.org/web/20200427123317/https://online.odu.edu/cost"
+      },
+      {
+        "datetime": "2020-05-30T00:52:17Z",
+        "uri": "https://web.archive.org/web/20200530005217/https://online.odu.edu/cost"
+      },
+      {
+        "datetime": "2020-08-07T21:48:48Z",
+        "uri": "https://web.archive.org/web/20200807214848/https://online.odu.edu/cost"
+      },
+      {
+        "datetime": "2020-09-22T15:00:50Z",
+        "uri": "https://web.archive.org/web/20200922150050/https://online.odu.edu/cost"
+      },
+      {
+        "datetime": "2020-11-25T11:31:30Z",
+        "uri": "https://web.archive.org/web/20201125113130/https://online.odu.edu/cost"
+      },
+      {
+        "datetime": "2021-03-03T12:11:18Z",
+        "uri": "https://web.archive.org/web/20210303121118/https://online.odu.edu/cost"
+      },
+      {
+        "datetime": "2021-04-13T19:30:59Z",
+        "uri": "https://web.archive.org/web/20210413193059/https://online.odu.edu/cost"
+      },
+      {
+        "datetime": "2021-05-07T19:54:50Z",
+        "uri": "https://web.archive.org/web/20210507195450/https://online.odu.edu/cost"
+      },
+      {
+        "datetime": "2021-07-30T23:44:40Z",
+        "uri": "https://web.archive.org/web/20210730234440/https://online.odu.edu/cost"
+      },
+      {
+        "datetime": "2021-10-27T23:11:35Z",
+        "uri": "https://web.archive.org/web/20211027231135/https://online.odu.edu/cost"
+      },
+      {
+        "datetime": "2021-11-15T13:12:08Z",
+        "uri": "https://arquivo.pt/wayback/20211115131208mp_/https://online.odu.edu/cost"
+      },
+      {
+        "datetime": "2021-11-15T13:12:08Z",
+        "uri": "https://web.archive.org/web/20211115131208/https://online.odu.edu/cost"
+      },
+      {
+        "datetime": "2021-12-09T09:24:21Z",
+        "uri": "https://web.archive.org/web/20211209092421/https://online.odu.edu/cost"
+      },
+      {
+        "datetime": "2022-01-18T04:46:17Z",
+        "uri": "https://web.archive.org/web/20220118044617/https://online.odu.edu/cost"
+      },
+      {
+        "datetime": "2022-05-27T06:49:16Z",
+        "uri": "https://web.archive.org/web/20220527064916/https://online.odu.edu/cost"
+      },
+      {
+        "datetime": "2022-07-19T23:34:26Z",
+        "uri": "https://web.archive.org/web/20220719233426/https://online.odu.edu/cost"
+      },
+      {
+        "datetime": "2022-08-07T16:26:59Z",
+        "uri": "https://web.archive.org/web/20220807162659/https://online.odu.edu/cost"
+      },
+      {
+        "datetime": "2022-08-08T17:24:33Z",
+        "uri": "https://web.archive.org/web/20220808172433/https://online.odu.edu/cost"
+      },
+      {
+        "datetime": "2022-09-24T08:36:26Z",
+        "uri": "https://web.archive.org/web/20220924083626/https://online.odu.edu/cost"
+      },
+      {
+        "datetime": "2022-12-02T13:32:04Z",
+        "uri": "https://web.archive.org/web/20221202133204/https://online.odu.edu/cost"
+      },
+      {
+        "datetime": "2023-03-25T11:25:58Z",
+        "uri": "https://web.archive.org/web/20230325112558/https://online.odu.edu/cost"
+      },
+      {
+        "datetime": "2023-08-29T23:59:36Z",
+        "uri": "https://web.archive.org/web/20230829235936/https://online.odu.edu/cost"
+      },
+      {
+        "datetime": "2023-10-02T22:34:22Z",
+        "uri": "https://web.archive.org/web/20231002223422/https://online.odu.edu/cost"
+      },
+      {
+        "datetime": "2024-02-25T09:11:35Z",
+        "uri": "https://web.archive.org/web/20240225091135/https://online.odu.edu/cost"
+      },
+      {
+        "datetime": "2024-03-17T22:55:02Z",
+        "uri": "https://web.archive.org/web/20240317225502/https://online.odu.edu/cost"
+      },
+      {
+        "datetime": "2024-06-14T00:03:11Z",
+        "uri": "https://web.archive.org/web/20240614000311/https://online.odu.edu/cost"
+      },
+      {
+        "datetime": "2024-10-05T13:09:57Z",
+        "uri": "https://web.archive.org/web/20241005130957/https://online.odu.edu/cost"
+      },
+      {
+        "datetime": "2025-01-19T13:02:25Z",
+        "uri": "https://web.archive.org/web/20250119130225/https://online.odu.edu/cost"
+      }
+    ],
+    "first": {
+      "datetime": "2015-09-24T07:53:09Z",
+      "uri": "https://web.archive.org/web/20150924075309/https://online.odu.edu/cost"
+    },
+    "last": {
+      "datetime": "2025-01-19T13:02:25Z",
+      "uri": "https://web.archive.org/web/20250119130225/https://online.odu.edu/cost"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/cost",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/cost",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/cost"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/cost"
+}

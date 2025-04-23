@@ -1,0 +1,110 @@
+{
+  "original_uri": "https://odu.campusgroups.com/login_only",
+  "self": "http://localhost:1208/timemap/json/https://odu.campusgroups.com/login_only",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-08-11T21:10:18Z",
+        "uri": "https://web.archive.org/web/20200811211018/https://odu.campusgroups.com/login_only"
+      },
+      {
+        "datetime": "2020-10-21T09:42:20Z",
+        "uri": "https://web.archive.org/web/20201021094220/https://odu.campusgroups.com/login_only"
+      },
+      {
+        "datetime": "2020-11-01T20:55:34Z",
+        "uri": "https://web.archive.org/web/20201101205534/https://odu.campusgroups.com/login_only"
+      },
+      {
+        "datetime": "2020-12-01T23:53:56Z",
+        "uri": "https://web.archive.org/web/20201201235356/https://odu.campusgroups.com/login_only"
+      },
+      {
+        "datetime": "2021-01-16T11:04:03Z",
+        "uri": "https://web.archive.org/web/20210116110403/https://odu.campusgroups.com/login_only"
+      },
+      {
+        "datetime": "2021-04-16T16:31:02Z",
+        "uri": "https://web.archive.org/web/20210416163102/https://odu.campusgroups.com/login_only"
+      },
+      {
+        "datetime": "2021-11-04T02:32:38Z",
+        "uri": "https://arquivo.pt/wayback/20211104023238mp_/https://odu.campusgroups.com/login_only"
+      },
+      {
+        "datetime": "2021-11-04T02:32:38Z",
+        "uri": "https://web.archive.org/web/20211104023238/https://odu.campusgroups.com/login_only"
+      },
+      {
+        "datetime": "2022-04-01T12:51:06Z",
+        "uri": "https://web.archive.org/web/20220401125106/https://odu.campusgroups.com/login_only"
+      },
+      {
+        "datetime": "2022-05-07T17:19:11Z",
+        "uri": "https://arquivo.pt/wayback/20220507171911mp_/https://odu.campusgroups.com/login_only"
+      },
+      {
+        "datetime": "2022-06-26T19:40:14Z",
+        "uri": "https://web.archive.org/web/20220626194014/https://odu.campusgroups.com/login_only"
+      },
+      {
+        "datetime": "2022-08-18T01:42:15Z",
+        "uri": "https://arquivo.pt/wayback/20220818014215mp_/https://odu.campusgroups.com/login_only"
+      },
+      {
+        "datetime": "2022-09-26T15:07:15Z",
+        "uri": "https://web.archive.org/web/20220926150715/https://odu.campusgroups.com/login_only"
+      },
+      {
+        "datetime": "2023-02-03T19:17:10Z",
+        "uri": "https://web.archive.org/web/20230203191710/https://odu.campusgroups.com/login_only"
+      },
+      {
+        "datetime": "2023-06-06T15:32:38Z",
+        "uri": "https://web.archive.org/web/20230606153238/https://odu.campusgroups.com/login_only"
+      },
+      {
+        "datetime": "2023-09-27T14:18:11Z",
+        "uri": "https://web.archive.org/web/20230927141811/https://odu.campusgroups.com/login_only"
+      },
+      {
+        "datetime": "2024-02-25T01:12:21Z",
+        "uri": "https://web.archive.org/web/20240225011221/https://odu.campusgroups.com/login_only"
+      },
+      {
+        "datetime": "2024-03-15T20:06:37Z",
+        "uri": "https://web.archive.org/web/20240315200637/https://odu.campusgroups.com/login_only"
+      },
+      {
+        "datetime": "2024-03-17T09:52:29Z",
+        "uri": "https://web.archive.org/web/20240317095229/https://odu.campusgroups.com/login_only"
+      },
+      {
+        "datetime": "2024-04-11T19:10:59Z",
+        "uri": "https://web.archive.org/web/20240411191059/http://odu.campusgroups.com/login_only"
+      },
+      {
+        "datetime": "2024-07-14T07:03:25Z",
+        "uri": "https://web.archive.org/web/20240714070325/https://odu.campusgroups.com/login_only"
+      },
+      {
+        "datetime": "2024-09-18T10:42:29Z",
+        "uri": "https://web.archive.org/web/20240918104229/https://odu.campusgroups.com/login_only"
+      }
+    ],
+    "first": {
+      "datetime": "2020-08-11T21:10:18Z",
+      "uri": "https://web.archive.org/web/20200811211018/https://odu.campusgroups.com/login_only"
+    },
+    "last": {
+      "datetime": "2024-09-18T10:42:29Z",
+      "uri": "https://web.archive.org/web/20240918104229/https://odu.campusgroups.com/login_only"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://odu.campusgroups.com/login_only",
+    "json_format": "http://localhost:1208/timemap/json/https://odu.campusgroups.com/login_only",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://odu.campusgroups.com/login_only"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://odu.campusgroups.com/login_only"
+}

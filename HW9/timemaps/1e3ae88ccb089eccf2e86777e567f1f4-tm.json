@@ -1,0 +1,54 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/engineering-technology/engineering-technology/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/engineering-technology/engineering-technology/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-21T19:55:44Z",
+        "uri": "https://web.archive.org/web/20230921195544/https://catalog.odu.edu/undergraduate/engineering-technology/engineering-technology/"
+      },
+      {
+        "datetime": "2023-09-27T01:01:35Z",
+        "uri": "https://web.archive.org/web/20230927010135/https://catalog.odu.edu/undergraduate/engineering-technology/engineering-technology/"
+      },
+      {
+        "datetime": "2023-12-17T01:36:35Z",
+        "uri": "https://web.archive.org/web/20231217013635/https://catalog.odu.edu/undergraduate/engineering-technology/engineering-technology/"
+      },
+      {
+        "datetime": "2024-02-28T21:40:57Z",
+        "uri": "https://web.archive.org/web/20240228214057/https://catalog.odu.edu/undergraduate/engineering-technology/engineering-technology/"
+      },
+      {
+        "datetime": "2024-04-17T21:21:09Z",
+        "uri": "https://web.archive.org/web/20240417212109/https://catalog.odu.edu/undergraduate/engineering-technology/engineering-technology/"
+      },
+      {
+        "datetime": "2024-07-07T13:01:46Z",
+        "uri": "https://web.archive.org/web/20240707130146/https://catalog.odu.edu/undergraduate/engineering-technology/engineering-technology/"
+      },
+      {
+        "datetime": "2024-08-13T21:04:00Z",
+        "uri": "https://web.archive.org/web/20240813210400/https://catalog.odu.edu/undergraduate/engineering-technology/engineering-technology/"
+      },
+      {
+        "datetime": "2024-11-11T22:54:25Z",
+        "uri": "https://web.archive.org/web/20241111225425/https://catalog.odu.edu/undergraduate/engineering-technology/engineering-technology/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-21T19:55:44Z",
+      "uri": "https://web.archive.org/web/20230921195544/https://catalog.odu.edu/undergraduate/engineering-technology/engineering-technology/"
+    },
+    "last": {
+      "datetime": "2024-11-11T22:54:25Z",
+      "uri": "https://web.archive.org/web/20241111225425/https://catalog.odu.edu/undergraduate/engineering-technology/engineering-technology/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/engineering-technology/engineering-technology/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/engineering-technology/engineering-technology/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/engineering-technology/engineering-technology/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/engineering-technology/engineering-technology/"
+}

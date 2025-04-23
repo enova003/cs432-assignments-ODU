@@ -1,0 +1,58 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/sciences/chemistry-biochemistry/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/sciences/chemistry-biochemistry/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T03:09:19Z",
+        "uri": "https://web.archive.org/web/20230927030919/https://catalog.odu.edu/undergraduate/sciences/chemistry-biochemistry/"
+      },
+      {
+        "datetime": "2023-09-28T21:29:57Z",
+        "uri": "https://web.archive.org/web/20230928212957/https://catalog.odu.edu/undergraduate/sciences/chemistry-biochemistry/"
+      },
+      {
+        "datetime": "2023-12-09T23:03:23Z",
+        "uri": "https://web.archive.org/web/20231209230323/http://catalog.odu.edu/undergraduate/sciences/chemistry-biochemistry/"
+      },
+      {
+        "datetime": "2023-12-09T23:03:40Z",
+        "uri": "https://web.archive.org/web/20231209230340/https://catalog.odu.edu/undergraduate/sciences/chemistry-biochemistry/"
+      },
+      {
+        "datetime": "2024-01-11T18:14:15Z",
+        "uri": "https://web.archive.org/web/20240111181415/https://catalog.odu.edu/undergraduate/sciences/chemistry-biochemistry/"
+      },
+      {
+        "datetime": "2024-02-29T00:40:51Z",
+        "uri": "https://web.archive.org/web/20240229004051/https://catalog.odu.edu/undergraduate/sciences/chemistry-biochemistry/"
+      },
+      {
+        "datetime": "2024-04-17T23:05:29Z",
+        "uri": "https://web.archive.org/web/20240417230529/https://catalog.odu.edu/undergraduate/sciences/chemistry-biochemistry/"
+      },
+      {
+        "datetime": "2024-07-17T11:32:37Z",
+        "uri": "https://web.archive.org/web/20240717113237/https://catalog.odu.edu/undergraduate/sciences/chemistry-biochemistry/"
+      },
+      {
+        "datetime": "2024-10-13T08:27:44Z",
+        "uri": "https://web.archive.org/web/20241013082744/https://catalog.odu.edu/undergraduate/sciences/chemistry-biochemistry/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T03:09:19Z",
+      "uri": "https://web.archive.org/web/20230927030919/https://catalog.odu.edu/undergraduate/sciences/chemistry-biochemistry/"
+    },
+    "last": {
+      "datetime": "2024-10-13T08:27:44Z",
+      "uri": "https://web.archive.org/web/20241013082744/https://catalog.odu.edu/undergraduate/sciences/chemistry-biochemistry/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/sciences/chemistry-biochemistry/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/sciences/chemistry-biochemistry/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/sciences/chemistry-biochemistry/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/sciences/chemistry-biochemistry/"
+}

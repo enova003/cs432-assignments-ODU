@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.odu.edu/visit-campus",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/visit-campus",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2025-01-23T23:10:59Z",
+        "uri": "https://web.archive.org/web/20250123231059/https://www.odu.edu/visit-campus"
+      },
+      {
+        "datetime": "2025-02-14T10:00:31Z",
+        "uri": "https://web.archive.org/web/20250214100031/https://www.odu.edu/visit-campus"
+      }
+    ],
+    "first": {
+      "datetime": "2025-01-23T23:10:59Z",
+      "uri": "https://web.archive.org/web/20250123231059/https://www.odu.edu/visit-campus"
+    },
+    "last": {
+      "datetime": "2025-02-14T10:00:31Z",
+      "uri": "https://web.archive.org/web/20250214100031/https://www.odu.edu/visit-campus"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/visit-campus",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/visit-campus",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/visit-campus"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/visit-campus"
+}

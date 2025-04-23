@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://www.odu.edu/technology-services/helpdesk",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/technology-services/helpdesk",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-12-20T19:38:45Z",
+        "uri": "https://web.archive.org/web/20241220193845/https://www.odu.edu/technology-services/helpdesk"
+      },
+      {
+        "datetime": "2025-01-13T14:54:25Z",
+        "uri": "https://web.archive.org/web/20250113145425/https://www.odu.edu/technology-services/helpdesk"
+      },
+      {
+        "datetime": "2025-01-15T20:08:11Z",
+        "uri": "https://web.archive.org/web/20250115200811/https://www.odu.edu/technology-services/helpdesk"
+      },
+      {
+        "datetime": "2025-01-27T09:22:15Z",
+        "uri": "https://web.archive.org/web/20250127092215/https://www.odu.edu/technology-services/helpdesk"
+      }
+    ],
+    "first": {
+      "datetime": "2024-12-20T19:38:45Z",
+      "uri": "https://web.archive.org/web/20241220193845/https://www.odu.edu/technology-services/helpdesk"
+    },
+    "last": {
+      "datetime": "2025-01-27T09:22:15Z",
+      "uri": "https://web.archive.org/web/20250127092215/https://www.odu.edu/technology-services/helpdesk"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/technology-services/helpdesk",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/technology-services/helpdesk",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/technology-services/helpdesk"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/technology-services/helpdesk"
+}

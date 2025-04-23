@@ -1,0 +1,262 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/mapd/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/mapd/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:26:17Z",
+        "uri": "https://web.archive.org/web/20120902042617/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2013-05-17T07:59:59Z",
+        "uri": "https://web.archive.org/web/20130517075959/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2014-04-22T11:52:09Z",
+        "uri": "https://web.archive.org/web/20140422115209/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2014-06-22T04:24:03Z",
+        "uri": "https://web.archive.org/web/20140622042403/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2014-08-22T03:29:10Z",
+        "uri": "https://web.archive.org/web/20140822032910/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2014-10-21T20:56:42Z",
+        "uri": "https://web.archive.org/web/20141021205642/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2014-12-21T05:21:41Z",
+        "uri": "https://web.archive.org/web/20141221052141/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2015-02-15T15:57:50Z",
+        "uri": "https://web.archive.org/web/20150215155750/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2015-04-17T03:12:36Z",
+        "uri": "https://web.archive.org/web/20150417031236/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2015-05-11T06:59:37Z",
+        "uri": "https://web.archive.org/web/20150511065937/http://catalog.odu.edu/courses/mapd/"
+      },
+      {
+        "datetime": "2015-06-16T14:52:55Z",
+        "uri": "https://web.archive.org/web/20150616145255/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2015-07-03T05:32:56Z",
+        "uri": "https://web.archive.org/web/20150703053256/http://catalog.odu.edu/courses/mapd/"
+      },
+      {
+        "datetime": "2015-08-16T00:55:33Z",
+        "uri": "https://web.archive.org/web/20150816005533/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2015-10-15T07:13:54Z",
+        "uri": "https://web.archive.org/web/20151015071354/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2015-12-14T15:29:38Z",
+        "uri": "https://web.archive.org/web/20151214152938/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2016-01-28T22:11:44Z",
+        "uri": "https://web.archive.org/web/20160128221144/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2016-01-28T22:11:44Z",
+        "uri": "https://web.archive.org/web/20160128221144/http://catalog.odu.edu:80/courses/mapd"
+      },
+      {
+        "datetime": "2016-02-13T06:09:22Z",
+        "uri": "https://web.archive.org/web/20160213060922/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2016-02-28T15:30:56Z",
+        "uri": "https://web.archive.org/web/20160228153056/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2016-02-28T15:30:56Z",
+        "uri": "https://web.archive.org/web/20160228153056/http://catalog.odu.edu:80/courses/mapd"
+      },
+      {
+        "datetime": "2016-04-08T22:55:05Z",
+        "uri": "https://web.archive.org/web/20160408225505/http://catalog.odu.edu/courses/mapd/"
+      },
+      {
+        "datetime": "2016-04-13T17:58:36Z",
+        "uri": "https://web.archive.org/web/20160413175836/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2016-06-13T11:00:04Z",
+        "uri": "https://web.archive.org/web/20160613110004/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2016-08-13T03:31:51Z",
+        "uri": "https://web.archive.org/web/20160813033151/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2016-10-13T00:08:36Z",
+        "uri": "https://web.archive.org/web/20161013000836/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2016-12-05T04:58:37Z",
+        "uri": "https://web.archive.org/web/20161205045837/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2017-04-08T18:16:04Z",
+        "uri": "https://web.archive.org/web/20170408181604/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2017-04-27T03:38:04Z",
+        "uri": "https://web.archive.org/web/20170427033804/http://catalog.odu.edu/courses/mapd/"
+      },
+      {
+        "datetime": "2017-06-08T07:07:25Z",
+        "uri": "https://web.archive.org/web/20170608070725/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2017-07-09T00:37:18Z",
+        "uri": "https://web.archive.org/web/20170709003718/http://catalog.odu.edu/courses/mapd/"
+      },
+      {
+        "datetime": "2017-08-08T13:40:04Z",
+        "uri": "https://web.archive.org/web/20170808134004/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2017-10-08T18:55:12Z",
+        "uri": "https://web.archive.org/web/20171008185512/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2017-12-09T00:22:18Z",
+        "uri": "https://web.archive.org/web/20171209002218/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2018-02-07T18:47:16Z",
+        "uri": "https://web.archive.org/web/20180207184716/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2018-04-09T20:16:06Z",
+        "uri": "https://web.archive.org/web/20180409201606/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2018-06-10T06:26:37Z",
+        "uri": "https://web.archive.org/web/20180610062637/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2018-10-10T04:08:25Z",
+        "uri": "https://web.archive.org/web/20181010040825/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2018-10-11T04:24:16Z",
+        "uri": "https://web.archive.org/web/20181011042416/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2018-12-11T10:31:01Z",
+        "uri": "https://web.archive.org/web/20181211103101/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2018-12-12T15:39:44Z",
+        "uri": "https://web.archive.org/web/20181212153944/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2018-12-13T23:17:23Z",
+        "uri": "https://web.archive.org/web/20181213231723/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2019-02-12T19:41:41Z",
+        "uri": "https://web.archive.org/web/20190212194141/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2019-04-14T22:34:57Z",
+        "uri": "https://web.archive.org/web/20190414223457/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2019-06-15T14:29:19Z",
+        "uri": "https://web.archive.org/web/20190615142919/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2019-08-15T18:24:53Z",
+        "uri": "https://web.archive.org/web/20190815182453/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2019-10-09T05:18:28Z",
+        "uri": "https://web.archive.org/web/20191009051828/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2019-12-08T12:34:48Z",
+        "uri": "https://web.archive.org/web/20191208123448/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2020-02-06T16:38:43Z",
+        "uri": "https://web.archive.org/web/20200206163843/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2020-03-02T06:06:01Z",
+        "uri": "https://web.archive.org/web/20200302060601/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2020-05-01T08:47:57Z",
+        "uri": "https://web.archive.org/web/20200501084757/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2020-06-30T12:18:50Z",
+        "uri": "https://web.archive.org/web/20200630121850/http://catalog.odu.edu:80/courses/mapd/"
+      },
+      {
+        "datetime": "2021-01-24T08:00:35Z",
+        "uri": "https://web.archive.org/web/20210124080035/https://catalog.odu.edu/courses/mapd/"
+      },
+      {
+        "datetime": "2021-04-12T20:35:18Z",
+        "uri": "https://web.archive.org/web/20210412203518/http://catalog.odu.edu/courses/mapd/"
+      },
+      {
+        "datetime": "2021-11-22T14:28:05Z",
+        "uri": "https://web.archive.org/web/20211122142805/https://catalog.odu.edu/courses/mapd/"
+      },
+      {
+        "datetime": "2022-03-19T20:36:59Z",
+        "uri": "https://web.archive.org/web/20220319203659/https://catalog.odu.edu/courses/mapd/"
+      },
+      {
+        "datetime": "2022-03-20T08:19:38Z",
+        "uri": "https://web.archive.org/web/20220320081938/https://catalog.odu.edu/courses/mapd/"
+      },
+      {
+        "datetime": "2022-03-20T08:19:38Z",
+        "uri": "https://web.archive.org/web/20220320081938/http://catalog.odu.edu/courses/mapd/"
+      },
+      {
+        "datetime": "2023-12-08T06:22:14Z",
+        "uri": "https://web.archive.org/web/20231208062214/https://catalog.odu.edu/courses/mapd/"
+      },
+      {
+        "datetime": "2024-02-29T00:41:39Z",
+        "uri": "https://web.archive.org/web/20240229004139/https://catalog.odu.edu/courses/mapd/"
+      },
+      {
+        "datetime": "2024-11-12T00:52:21Z",
+        "uri": "https://web.archive.org/web/20241112005221/https://catalog.odu.edu/courses/mapd/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:26:17Z",
+      "uri": "https://web.archive.org/web/20120902042617/http://catalog.odu.edu:80/courses/mapd/"
+    },
+    "last": {
+      "datetime": "2024-11-12T00:52:21Z",
+      "uri": "https://web.archive.org/web/20241112005221/https://catalog.odu.edu/courses/mapd/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/mapd/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/mapd/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/mapd/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/mapd/"
+}

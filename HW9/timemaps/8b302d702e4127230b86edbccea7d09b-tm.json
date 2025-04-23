@@ -1,0 +1,474 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/hmsv/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/hmsv/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:18:14Z",
+        "uri": "https://web.archive.org/web/20120902041814/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2013-05-17T08:07:05Z",
+        "uri": "https://web.archive.org/web/20130517080705/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2014-04-22T11:51:31Z",
+        "uri": "https://web.archive.org/web/20140422115131/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2014-06-22T04:23:48Z",
+        "uri": "https://web.archive.org/web/20140622042348/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2014-08-22T03:32:26Z",
+        "uri": "https://web.archive.org/web/20140822033226/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2014-10-21T20:48:54Z",
+        "uri": "https://web.archive.org/web/20141021204854/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2014-12-21T05:21:09Z",
+        "uri": "https://web.archive.org/web/20141221052109/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2015-02-15T15:57:03Z",
+        "uri": "https://web.archive.org/web/20150215155703/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2015-04-17T03:08:39Z",
+        "uri": "https://web.archive.org/web/20150417030839/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2015-05-11T07:23:12Z",
+        "uri": "https://web.archive.org/web/20150511072312/http://catalog.odu.edu/courses/hmsv/"
+      },
+      {
+        "datetime": "2015-05-16T22:41:04Z",
+        "uri": "https://web.archive.org/web/20150516224104/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2015-05-16T22:41:04Z",
+        "uri": "https://web.archive.org/web/20150516224104/http://catalog.odu.edu:80/courses/hmsv"
+      },
+      {
+        "datetime": "2015-06-17T16:19:52Z",
+        "uri": "https://web.archive.org/web/20150617161952/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2015-06-23T09:33:20Z",
+        "uri": "https://web.archive.org/web/20150623093320/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2015-06-23T09:33:20Z",
+        "uri": "https://web.archive.org/web/20150623093320/http://catalog.odu.edu:80/courses/hmsv"
+      },
+      {
+        "datetime": "2015-07-03T08:00:37Z",
+        "uri": "https://web.archive.org/web/20150703080037/http://catalog.odu.edu/courses/hmsv/"
+      },
+      {
+        "datetime": "2015-07-27T06:01:33Z",
+        "uri": "https://web.archive.org/web/20150727060133/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2015-07-27T06:01:33Z",
+        "uri": "https://web.archive.org/web/20150727060133/http://catalog.odu.edu:80/courses/hmsv"
+      },
+      {
+        "datetime": "2015-08-17T04:13:50Z",
+        "uri": "https://web.archive.org/web/20150817041350/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2015-08-26T20:19:12Z",
+        "uri": "https://web.archive.org/web/20150826201912/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2015-08-26T20:19:12Z",
+        "uri": "https://web.archive.org/web/20150826201912/http://catalog.odu.edu:80/courses/hmsv"
+      },
+      {
+        "datetime": "2015-10-16T17:10:01Z",
+        "uri": "https://web.archive.org/web/20151016171001/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2015-12-16T07:21:41Z",
+        "uri": "https://web.archive.org/web/20151216072141/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2016-02-14T18:42:35Z",
+        "uri": "https://web.archive.org/web/20160214184235/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2016-04-08T22:56:23Z",
+        "uri": "https://web.archive.org/web/20160408225623/http://catalog.odu.edu/courses/hmsv/"
+      },
+      {
+        "datetime": "2016-04-15T19:51:43Z",
+        "uri": "https://web.archive.org/web/20160415195143/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2016-06-04T09:22:54Z",
+        "uri": "https://web.archive.org/web/20160604092254/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2016-06-04T09:22:54Z",
+        "uri": "https://web.archive.org/web/20160604092254/http://catalog.odu.edu:80/courses/hmsv"
+      },
+      {
+        "datetime": "2016-06-15T12:52:30Z",
+        "uri": "https://web.archive.org/web/20160615125230/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2016-07-06T20:04:40Z",
+        "uri": "https://web.archive.org/web/20160706200440/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2016-07-06T20:04:40Z",
+        "uri": "https://web.archive.org/web/20160706200440/http://catalog.odu.edu:80/courses/hmsv"
+      },
+      {
+        "datetime": "2016-08-07T10:30:08Z",
+        "uri": "https://web.archive.org/web/20160807103008/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2016-08-07T10:30:08Z",
+        "uri": "https://web.archive.org/web/20160807103008/http://catalog.odu.edu:80/courses/hmsv"
+      },
+      {
+        "datetime": "2016-08-15T10:36:48Z",
+        "uri": "https://web.archive.org/web/20160815103648/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2016-09-08T19:21:33Z",
+        "uri": "https://web.archive.org/web/20160908192133/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2016-09-08T19:21:33Z",
+        "uri": "https://web.archive.org/web/20160908192133/http://catalog.odu.edu:80/courses/hmsv"
+      },
+      {
+        "datetime": "2016-10-10T07:48:32Z",
+        "uri": "https://web.archive.org/web/20161010074832/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2016-10-10T07:48:32Z",
+        "uri": "https://web.archive.org/web/20161010074832/http://catalog.odu.edu:80/courses/hmsv"
+      },
+      {
+        "datetime": "2016-10-15T10:46:26Z",
+        "uri": "https://web.archive.org/web/20161015104626/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2016-12-05T04:57:26Z",
+        "uri": "https://web.archive.org/web/20161205045726/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2017-02-02T16:13:32Z",
+        "uri": "https://web.archive.org/web/20170202161332/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2017-02-02T16:13:32Z",
+        "uri": "https://web.archive.org/web/20170202161332/http://catalog.odu.edu:80/courses/hmsv"
+      },
+      {
+        "datetime": "2017-04-08T18:15:49Z",
+        "uri": "https://web.archive.org/web/20170408181549/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2017-04-27T04:19:52Z",
+        "uri": "https://web.archive.org/web/20170427041952/http://catalog.odu.edu/courses/hmsv/"
+      },
+      {
+        "datetime": "2017-05-05T00:33:32Z",
+        "uri": "https://web.archive.org/web/20170505003332/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2017-05-05T00:33:32Z",
+        "uri": "https://web.archive.org/web/20170505003332/http://catalog.odu.edu:80/courses/hmsv"
+      },
+      {
+        "datetime": "2017-06-05T06:07:49Z",
+        "uri": "https://web.archive.org/web/20170605060749/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2017-06-05T06:07:49Z",
+        "uri": "https://web.archive.org/web/20170605060749/http://catalog.odu.edu:80/courses/hmsv"
+      },
+      {
+        "datetime": "2017-07-06T08:17:41Z",
+        "uri": "https://web.archive.org/web/20170706081741/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2017-07-06T08:17:41Z",
+        "uri": "https://web.archive.org/web/20170706081741/http://catalog.odu.edu:80/courses/hmsv"
+      },
+      {
+        "datetime": "2017-07-09T01:10:10Z",
+        "uri": "https://web.archive.org/web/20170709011010/http://catalog.odu.edu/courses/hmsv/"
+      },
+      {
+        "datetime": "2017-08-06T11:24:00Z",
+        "uri": "https://web.archive.org/web/20170806112400/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2017-08-06T11:24:00Z",
+        "uri": "https://web.archive.org/web/20170806112400/http://catalog.odu.edu:80/courses/hmsv"
+      },
+      {
+        "datetime": "2017-08-08T13:39:49Z",
+        "uri": "https://web.archive.org/web/20170808133949/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2017-09-16T06:01:28Z",
+        "uri": "https://web.archive.org/web/20170916060128/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2017-09-16T06:01:28Z",
+        "uri": "https://web.archive.org/web/20170916060128/http://catalog.odu.edu:80/courses/hmsv"
+      },
+      {
+        "datetime": "2017-10-17T11:59:56Z",
+        "uri": "https://web.archive.org/web/20171017115956/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2017-10-17T11:59:56Z",
+        "uri": "https://web.archive.org/web/20171017115956/http://catalog.odu.edu:80/courses/hmsv"
+      },
+      {
+        "datetime": "2017-11-17T17:23:25Z",
+        "uri": "https://web.archive.org/web/20171117172325/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2017-11-17T17:23:25Z",
+        "uri": "https://web.archive.org/web/20171117172325/http://catalog.odu.edu:80/courses/hmsv"
+      },
+      {
+        "datetime": "2017-12-08T19:29:20Z",
+        "uri": "https://web.archive.org/web/20171208192920/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2017-12-19T13:31:28Z",
+        "uri": "https://web.archive.org/web/20171219133128/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2017-12-19T13:31:28Z",
+        "uri": "https://web.archive.org/web/20171219133128/http://catalog.odu.edu:80/courses/hmsv"
+      },
+      {
+        "datetime": "2018-02-07T19:12:43Z",
+        "uri": "https://web.archive.org/web/20180207191243/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2018-04-09T20:15:21Z",
+        "uri": "https://web.archive.org/web/20180409201521/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2018-06-10T06:26:12Z",
+        "uri": "https://web.archive.org/web/20180610062612/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2018-08-10T07:49:57Z",
+        "uri": "https://web.archive.org/web/20180810074957/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2018-09-20T15:59:47Z",
+        "uri": "https://web.archive.org/web/20180920155947/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2018-09-20T15:59:47Z",
+        "uri": "https://web.archive.org/web/20180920155947/http://catalog.odu.edu:80/courses/hmsv"
+      },
+      {
+        "datetime": "2018-10-11T04:19:19Z",
+        "uri": "https://web.archive.org/web/20181011041919/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2018-10-21T14:32:38Z",
+        "uri": "https://web.archive.org/web/20181021143238/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2018-10-21T14:32:38Z",
+        "uri": "https://web.archive.org/web/20181021143238/http://catalog.odu.edu:80/courses/hmsv"
+      },
+      {
+        "datetime": "2018-11-21T09:05:34Z",
+        "uri": "https://web.archive.org/web/20181121090534/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2018-11-21T09:05:34Z",
+        "uri": "https://web.archive.org/web/20181121090534/http://catalog.odu.edu:80/courses/hmsv"
+      },
+      {
+        "datetime": "2018-12-11T10:30:25Z",
+        "uri": "https://web.archive.org/web/20181211103025/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2018-12-22T00:46:09Z",
+        "uri": "https://web.archive.org/web/20181222004609/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2018-12-22T00:46:09Z",
+        "uri": "https://web.archive.org/web/20181222004609/http://catalog.odu.edu:80/courses/hmsv"
+      },
+      {
+        "datetime": "2019-01-21T22:46:49Z",
+        "uri": "https://web.archive.org/web/20190121224649/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2019-01-21T22:46:49Z",
+        "uri": "https://web.archive.org/web/20190121224649/http://catalog.odu.edu:80/courses/hmsv"
+      },
+      {
+        "datetime": "2019-02-21T16:05:42Z",
+        "uri": "https://web.archive.org/web/20190221160542/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2019-02-21T16:05:42Z",
+        "uri": "https://web.archive.org/web/20190221160542/http://catalog.odu.edu:80/courses/hmsv"
+      },
+      {
+        "datetime": "2019-03-24T16:08:49Z",
+        "uri": "https://web.archive.org/web/20190324160849/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2019-03-24T16:08:49Z",
+        "uri": "https://web.archive.org/web/20190324160849/http://catalog.odu.edu:80/courses/hmsv"
+      },
+      {
+        "datetime": "2019-04-13T00:22:53Z",
+        "uri": "https://web.archive.org/web/20190413002253/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2019-04-24T09:23:21Z",
+        "uri": "https://web.archive.org/web/20190424092321/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2019-04-24T09:23:21Z",
+        "uri": "https://web.archive.org/web/20190424092321/http://catalog.odu.edu:80/courses/hmsv"
+      },
+      {
+        "datetime": "2019-05-25T08:17:05Z",
+        "uri": "https://web.archive.org/web/20190525081705/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2019-05-25T08:17:05Z",
+        "uri": "https://web.archive.org/web/20190525081705/http://catalog.odu.edu:80/courses/hmsv"
+      },
+      {
+        "datetime": "2019-06-12T16:36:39Z",
+        "uri": "https://web.archive.org/web/20190612163639/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2019-06-25T09:34:06Z",
+        "uri": "https://web.archive.org/web/20190625093406/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2019-06-25T09:34:06Z",
+        "uri": "https://web.archive.org/web/20190625093406/http://catalog.odu.edu:80/courses/hmsv"
+      },
+      {
+        "datetime": "2019-07-26T17:34:04Z",
+        "uri": "https://web.archive.org/web/20190726173404/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2019-07-26T17:34:04Z",
+        "uri": "https://web.archive.org/web/20190726173404/http://catalog.odu.edu:80/courses/hmsv"
+      },
+      {
+        "datetime": "2019-08-13T04:52:47Z",
+        "uri": "https://web.archive.org/web/20190813045247/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2019-08-26T19:18:09Z",
+        "uri": "https://web.archive.org/web/20190826191809/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2019-08-26T19:18:09Z",
+        "uri": "https://web.archive.org/web/20190826191809/http://catalog.odu.edu:80/courses/hmsv"
+      },
+      {
+        "datetime": "2019-09-27T14:52:19Z",
+        "uri": "https://web.archive.org/web/20190927145219/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2019-09-27T14:52:19Z",
+        "uri": "https://web.archive.org/web/20190927145219/http://catalog.odu.edu:80/courses/hmsv"
+      },
+      {
+        "datetime": "2019-10-09T05:26:54Z",
+        "uri": "https://web.archive.org/web/20191009052654/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2019-10-24T15:35:09Z",
+        "uri": "https://web.archive.org/web/20191024153509/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2019-11-23T22:57:23Z",
+        "uri": "https://web.archive.org/web/20191123225723/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2019-12-24T04:00:34Z",
+        "uri": "https://web.archive.org/web/20191224040034/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2020-01-23T07:54:54Z",
+        "uri": "https://web.archive.org/web/20200123075454/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2020-02-22T11:44:21Z",
+        "uri": "https://web.archive.org/web/20200222114421/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2020-03-02T06:05:16Z",
+        "uri": "https://web.archive.org/web/20200302060516/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2020-05-01T08:45:29Z",
+        "uri": "https://web.archive.org/web/20200501084529/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2020-06-30T12:17:30Z",
+        "uri": "https://web.archive.org/web/20200630121730/http://catalog.odu.edu:80/courses/hmsv/"
+      },
+      {
+        "datetime": "2021-01-22T23:25:03Z",
+        "uri": "https://web.archive.org/web/20210122232503/https://catalog.odu.edu/courses/hmsv/"
+      },
+      {
+        "datetime": "2021-04-12T20:21:43Z",
+        "uri": "https://web.archive.org/web/20210412202143/http://catalog.odu.edu/courses/hmsv/"
+      },
+      {
+        "datetime": "2021-11-07T17:02:08Z",
+        "uri": "https://web.archive.org/web/20211107170208/https://catalog.odu.edu/courses/hmsv/"
+      },
+      {
+        "datetime": "2022-03-20T00:23:06Z",
+        "uri": "https://web.archive.org/web/20220320002306/https://catalog.odu.edu/courses/hmsv/"
+      },
+      {
+        "datetime": "2023-12-20T22:59:18Z",
+        "uri": "https://web.archive.org/web/20231220225918/https://catalog.odu.edu/courses/hmsv/"
+      },
+      {
+        "datetime": "2024-09-26T15:58:36Z",
+        "uri": "https://web.archive.org/web/20240926155836/https://catalog.odu.edu/courses/hmsv/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:18:14Z",
+      "uri": "https://web.archive.org/web/20120902041814/http://catalog.odu.edu:80/courses/hmsv/"
+    },
+    "last": {
+      "datetime": "2024-09-26T15:58:36Z",
+      "uri": "https://web.archive.org/web/20240926155836/https://catalog.odu.edu/courses/hmsv/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/hmsv/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/hmsv/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/hmsv/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/hmsv/"
+}

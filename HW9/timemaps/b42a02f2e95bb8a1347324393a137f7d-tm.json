@@ -1,0 +1,34 @@
+{
+  "original_uri": "https://online.odu.edu/news/path-success-navy-veteran-earns-citizenship-degree-through-oduglobal",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/news/path-success-navy-veteran-earns-citizenship-degree-through-oduglobal",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-11-05T12:31:29Z",
+        "uri": "https://web.archive.org/web/20241105123129/https://online.odu.edu/news/path-success-navy-veteran-earns-citizenship-degree-through-oduglobal"
+      },
+      {
+        "datetime": "2024-12-25T07:28:32Z",
+        "uri": "https://web.archive.org/web/20241225072832/https://online.odu.edu/news/path-success-navy-veteran-earns-citizenship-degree-through-oduglobal"
+      },
+      {
+        "datetime": "2025-02-14T09:59:20Z",
+        "uri": "https://web.archive.org/web/20250214095920/https://online.odu.edu/news/path-success-navy-veteran-earns-citizenship-degree-through-oduglobal"
+      }
+    ],
+    "first": {
+      "datetime": "2024-11-05T12:31:29Z",
+      "uri": "https://web.archive.org/web/20241105123129/https://online.odu.edu/news/path-success-navy-veteran-earns-citizenship-degree-through-oduglobal"
+    },
+    "last": {
+      "datetime": "2025-02-14T09:59:20Z",
+      "uri": "https://web.archive.org/web/20250214095920/https://online.odu.edu/news/path-success-navy-veteran-earns-citizenship-degree-through-oduglobal"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/news/path-success-navy-veteran-earns-citizenship-degree-through-oduglobal",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/news/path-success-navy-veteran-earns-citizenship-degree-through-oduglobal",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/news/path-success-navy-veteran-earns-citizenship-degree-through-oduglobal"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/news/path-success-navy-veteran-earns-citizenship-degree-through-oduglobal"
+}

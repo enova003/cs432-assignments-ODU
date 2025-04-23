@@ -1,0 +1,94 @@
+{
+  "original_uri": "https://www.youtube.com/user/ODUDL/",
+  "self": "http://localhost:1208/timemap/json/https://www.youtube.com/user/ODUDL/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2016-10-22T07:19:43Z",
+        "uri": "https://web.archive.org/web/20161022071943/https://www.youtube.com/user/ODUDL/"
+      },
+      {
+        "datetime": "2016-10-28T15:02:25Z",
+        "uri": "https://web.archive.org/web/20161028150225/http://www.youtube.com/user/ODUDL"
+      },
+      {
+        "datetime": "2016-10-28T15:08:57Z",
+        "uri": "https://web.archive.org/web/20161028150857/https://www.youtube.com/user/ODUDL"
+      },
+      {
+        "datetime": "2019-01-29T22:25:44Z",
+        "uri": "https://web.archive.org/web/20190129222544/http://www.youtube.com/user/ODUDL"
+      },
+      {
+        "datetime": "2019-01-29T22:25:45Z",
+        "uri": "https://web.archive.org/web/20190129222545/https://www.youtube.com/user/ODUDL"
+      },
+      {
+        "datetime": "2020-05-31T07:53:33Z",
+        "uri": "https://web.archive.org/web/20200531075333/https://www.youtube.com/user/ODUDL/"
+      },
+      {
+        "datetime": "2020-06-18T06:13:09Z",
+        "uri": "https://web.archive.org/web/20200618061309/http://www.youtube.com/user/ODUDL"
+      },
+      {
+        "datetime": "2020-07-17T16:11:53Z",
+        "uri": "https://web.archive.org/web/20200717161153/https://www.youtube.com/user/ODUDL/"
+      },
+      {
+        "datetime": "2021-04-13T23:29:59Z",
+        "uri": "https://web.archive.org/web/20210413232959/https://www.youtube.com/user/ODUDL/"
+      },
+      {
+        "datetime": "2021-12-21T22:24:42Z",
+        "uri": "https://web.archive.org/web/20211221222442/http://www.youtube.com/user/ODUDL"
+      },
+      {
+        "datetime": "2021-12-22T03:15:28Z",
+        "uri": "https://web.archive.org/web/20211222031528/https://www.youtube.com/user/ODUDL"
+      },
+      {
+        "datetime": "2022-04-17T10:36:25Z",
+        "uri": "https://web.archive.org/web/20220417103625/https://www.youtube.com/user/ODUDL/"
+      },
+      {
+        "datetime": "2022-07-29T20:19:48Z",
+        "uri": "https://web.archive.org/web/20220729201948/https://www.youtube.com/user/ODUDL"
+      },
+      {
+        "datetime": "2022-12-19T06:41:42Z",
+        "uri": "https://web.archive.org/web/20221219064142/http://www.youtube.com/user/ODUDL"
+      },
+      {
+        "datetime": "2023-05-26T23:37:04Z",
+        "uri": "https://web.archive.org/web/20230526233704/https://www.youtube.com/user/ODUDL/"
+      },
+      {
+        "datetime": "2023-07-15T00:31:10Z",
+        "uri": "https://web.archive.org/web/20230715003110/https://www.youtube.com/user/ODUDL/"
+      },
+      {
+        "datetime": "2024-09-10T21:58:16Z",
+        "uri": "https://web.archive.org/web/20240910215816/https://www.youtube.com/user/ODUDL/"
+      },
+      {
+        "datetime": "2025-01-19T13:02:41Z",
+        "uri": "https://web.archive.org/web/20250119130241/https://www.youtube.com/user/ODUDL/"
+      }
+    ],
+    "first": {
+      "datetime": "2016-10-22T07:19:43Z",
+      "uri": "https://web.archive.org/web/20161022071943/https://www.youtube.com/user/ODUDL/"
+    },
+    "last": {
+      "datetime": "2025-01-19T13:02:41Z",
+      "uri": "https://web.archive.org/web/20250119130241/https://www.youtube.com/user/ODUDL/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.youtube.com/user/ODUDL/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.youtube.com/user/ODUDL/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.youtube.com/user/ODUDL/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.youtube.com/user/ODUDL/"
+}

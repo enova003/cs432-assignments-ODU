@@ -1,0 +1,546 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/met/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/met/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:37:01Z",
+        "uri": "https://web.archive.org/web/20120902043701/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2013-05-17T07:47:30Z",
+        "uri": "https://web.archive.org/web/20130517074730/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2014-04-22T11:52:25Z",
+        "uri": "https://web.archive.org/web/20140422115225/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2014-06-22T04:24:08Z",
+        "uri": "https://web.archive.org/web/20140622042408/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2014-08-22T03:29:20Z",
+        "uri": "https://web.archive.org/web/20140822032920/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2014-10-21T20:56:57Z",
+        "uri": "https://web.archive.org/web/20141021205657/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2014-12-21T05:21:56Z",
+        "uri": "https://web.archive.org/web/20141221052156/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2015-02-15T16:04:53Z",
+        "uri": "https://web.archive.org/web/20150215160453/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2015-04-17T03:15:02Z",
+        "uri": "https://web.archive.org/web/20150417031502/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2015-05-11T07:10:49Z",
+        "uri": "https://web.archive.org/web/20150511071049/http://catalog.odu.edu/courses/met/"
+      },
+      {
+        "datetime": "2015-05-21T00:29:31Z",
+        "uri": "https://web.archive.org/web/20150521002931/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2015-05-21T00:29:31Z",
+        "uri": "https://web.archive.org/web/20150521002931/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2015-06-17T16:19:59Z",
+        "uri": "https://web.archive.org/web/20150617161959/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2015-06-23T10:24:50Z",
+        "uri": "https://web.archive.org/web/20150623102450/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2015-06-23T10:24:50Z",
+        "uri": "https://web.archive.org/web/20150623102450/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2015-07-03T08:11:41Z",
+        "uri": "https://web.archive.org/web/20150703081141/http://catalog.odu.edu/courses/met/"
+      },
+      {
+        "datetime": "2015-08-17T04:13:55Z",
+        "uri": "https://web.archive.org/web/20150817041355/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2015-10-16T17:49:09Z",
+        "uri": "https://web.archive.org/web/20151016174909/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2015-12-16T07:21:46Z",
+        "uri": "https://web.archive.org/web/20151216072146/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2016-02-14T18:42:40Z",
+        "uri": "https://web.archive.org/web/20160214184240/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2016-04-08T22:52:13Z",
+        "uri": "https://web.archive.org/web/20160408225213/http://catalog.odu.edu/courses/met/"
+      },
+      {
+        "datetime": "2016-04-15T19:51:48Z",
+        "uri": "https://web.archive.org/web/20160415195148/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2016-05-26T01:26:08Z",
+        "uri": "https://web.archive.org/web/20160526012608/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2016-05-26T01:26:08Z",
+        "uri": "https://web.archive.org/web/20160526012608/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2016-06-15T12:52:35Z",
+        "uri": "https://web.archive.org/web/20160615125235/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2016-06-27T04:15:44Z",
+        "uri": "https://web.archive.org/web/20160627041544/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2016-06-27T04:15:44Z",
+        "uri": "https://web.archive.org/web/20160627041544/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2016-07-28T10:10:21Z",
+        "uri": "https://web.archive.org/web/20160728101021/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2016-07-28T10:10:21Z",
+        "uri": "https://web.archive.org/web/20160728101021/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2016-08-15T10:36:53Z",
+        "uri": "https://web.archive.org/web/20160815103653/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2016-08-28T19:35:02Z",
+        "uri": "https://web.archive.org/web/20160828193502/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2016-08-28T19:35:02Z",
+        "uri": "https://web.archive.org/web/20160828193502/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2016-09-29T04:42:01Z",
+        "uri": "https://web.archive.org/web/20160929044201/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2016-09-29T04:42:01Z",
+        "uri": "https://web.archive.org/web/20160929044201/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2016-10-16T04:46:08Z",
+        "uri": "https://web.archive.org/web/20161016044608/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2016-10-30T16:13:52Z",
+        "uri": "https://web.archive.org/web/20161030161352/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2016-10-30T16:13:52Z",
+        "uri": "https://web.archive.org/web/20161030161352/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2016-12-05T04:59:02Z",
+        "uri": "https://web.archive.org/web/20161205045902/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2017-04-08T17:58:43Z",
+        "uri": "https://web.archive.org/web/20170408175843/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2017-04-27T03:58:44Z",
+        "uri": "https://web.archive.org/web/20170427035844/http://catalog.odu.edu/courses/met/"
+      },
+      {
+        "datetime": "2017-06-08T07:07:35Z",
+        "uri": "https://web.archive.org/web/20170608070735/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2017-07-22T03:42:53Z",
+        "uri": "https://web.archive.org/web/20170722034253/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2017-07-22T03:42:53Z",
+        "uri": "https://web.archive.org/web/20170722034253/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2017-08-08T13:40:14Z",
+        "uri": "https://web.archive.org/web/20170808134014/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2017-08-22T03:28:43Z",
+        "uri": "https://web.archive.org/web/20170822032843/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2017-08-22T03:28:43Z",
+        "uri": "https://web.archive.org/web/20170822032843/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2017-09-30T06:15:54Z",
+        "uri": "https://web.archive.org/web/20170930061554/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2017-09-30T06:15:54Z",
+        "uri": "https://web.archive.org/web/20170930061554/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2017-10-31T22:38:07Z",
+        "uri": "https://web.archive.org/web/20171031223807/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2017-10-31T22:38:07Z",
+        "uri": "https://web.archive.org/web/20171031223807/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2017-12-02T03:04:16Z",
+        "uri": "https://web.archive.org/web/20171202030416/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2017-12-02T03:04:16Z",
+        "uri": "https://web.archive.org/web/20171202030416/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2018-01-02T07:14:09Z",
+        "uri": "https://web.archive.org/web/20180102071409/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2018-01-02T07:14:09Z",
+        "uri": "https://web.archive.org/web/20180102071409/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2018-02-02T02:31:25Z",
+        "uri": "https://web.archive.org/web/20180202023125/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2018-02-02T02:31:25Z",
+        "uri": "https://web.archive.org/web/20180202023125/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2018-03-05T06:34:06Z",
+        "uri": "https://web.archive.org/web/20180305063406/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2018-03-05T06:34:06Z",
+        "uri": "https://web.archive.org/web/20180305063406/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2018-04-04T16:58:39Z",
+        "uri": "https://web.archive.org/web/20180404165839/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2018-04-04T16:58:39Z",
+        "uri": "https://web.archive.org/web/20180404165839/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2018-05-06T05:16:53Z",
+        "uri": "https://web.archive.org/web/20180506051653/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2018-05-06T05:16:53Z",
+        "uri": "https://web.archive.org/web/20180506051653/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2018-06-06T20:25:42Z",
+        "uri": "https://web.archive.org/web/20180606202542/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2018-06-06T20:25:42Z",
+        "uri": "https://web.archive.org/web/20180606202542/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2018-06-08T00:44:18Z",
+        "uri": "https://web.archive.org/web/20180608004418/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2018-06-08T00:44:18Z",
+        "uri": "https://web.archive.org/web/20180608004418/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2018-06-10T06:21:25Z",
+        "uri": "https://web.archive.org/web/20180610062125/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2018-07-08T17:41:57Z",
+        "uri": "https://web.archive.org/web/20180708174157/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2018-07-08T17:41:57Z",
+        "uri": "https://web.archive.org/web/20180708174157/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2018-08-08T13:45:49Z",
+        "uri": "https://web.archive.org/web/20180808134549/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2018-08-08T13:45:49Z",
+        "uri": "https://web.archive.org/web/20180808134549/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2018-08-10T14:03:37Z",
+        "uri": "https://web.archive.org/web/20180810140337/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2018-09-08T09:11:08Z",
+        "uri": "https://web.archive.org/web/20180908091108/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2018-09-08T09:11:08Z",
+        "uri": "https://web.archive.org/web/20180908091108/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2018-10-10T07:52:54Z",
+        "uri": "https://web.archive.org/web/20181010075254/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2018-10-10T07:52:54Z",
+        "uri": "https://web.archive.org/web/20181010075254/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2018-11-10T07:59:28Z",
+        "uri": "https://web.archive.org/web/20181110075928/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2018-11-10T07:59:28Z",
+        "uri": "https://web.archive.org/web/20181110075928/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2018-11-11T15:55:47Z",
+        "uri": "https://web.archive.org/web/20181111155547/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2018-11-11T15:55:47Z",
+        "uri": "https://web.archive.org/web/20181111155547/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2018-12-10T15:11:06Z",
+        "uri": "https://web.archive.org/web/20181210151106/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2018-12-12T22:42:46Z",
+        "uri": "https://web.archive.org/web/20181212224246/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2018-12-12T22:42:46Z",
+        "uri": "https://web.archive.org/web/20181212224246/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2019-01-12T16:05:07Z",
+        "uri": "https://web.archive.org/web/20190112160507/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2019-01-12T16:05:07Z",
+        "uri": "https://web.archive.org/web/20190112160507/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2019-02-10T00:33:58Z",
+        "uri": "https://web.archive.org/web/20190210003358/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2019-02-13T05:21:18Z",
+        "uri": "https://web.archive.org/web/20190213052118/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2019-02-13T05:21:18Z",
+        "uri": "https://web.archive.org/web/20190213052118/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2019-03-16T02:05:24Z",
+        "uri": "https://web.archive.org/web/20190316020524/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2019-03-16T02:05:24Z",
+        "uri": "https://web.archive.org/web/20190316020524/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2019-04-12T10:44:17Z",
+        "uri": "https://web.archive.org/web/20190412104417/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2019-04-16T21:51:05Z",
+        "uri": "https://web.archive.org/web/20190416215105/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2019-04-16T21:51:05Z",
+        "uri": "https://web.archive.org/web/20190416215105/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2019-05-17T13:46:38Z",
+        "uri": "https://web.archive.org/web/20190517134638/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2019-05-17T13:46:38Z",
+        "uri": "https://web.archive.org/web/20190517134638/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2019-06-17T09:10:35Z",
+        "uri": "https://web.archive.org/web/20190617091035/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2019-06-17T09:10:35Z",
+        "uri": "https://web.archive.org/web/20190617091035/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2019-07-20T03:37:16Z",
+        "uri": "https://web.archive.org/web/20190720033716/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2019-07-20T03:37:16Z",
+        "uri": "https://web.archive.org/web/20190720033716/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2019-08-11T18:46:50Z",
+        "uri": "https://web.archive.org/web/20190811184650/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2019-08-20T20:21:40Z",
+        "uri": "https://web.archive.org/web/20190820202140/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2019-08-20T20:21:40Z",
+        "uri": "https://web.archive.org/web/20190820202140/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2019-09-22T16:55:46Z",
+        "uri": "https://web.archive.org/web/20190922165546/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2019-09-22T16:55:46Z",
+        "uri": "https://web.archive.org/web/20190922165546/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2019-10-09T05:27:34Z",
+        "uri": "https://web.archive.org/web/20191009052734/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2019-10-19T08:25:13Z",
+        "uri": "https://web.archive.org/web/20191019082513/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2019-11-18T19:31:06Z",
+        "uri": "https://web.archive.org/web/20191118193106/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2019-12-19T02:39:06Z",
+        "uri": "https://web.archive.org/web/20191219023906/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2020-01-18T10:20:09Z",
+        "uri": "https://web.archive.org/web/20200118102009/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2020-02-17T16:07:24Z",
+        "uri": "https://web.archive.org/web/20200217160724/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2020-03-02T06:14:03Z",
+        "uri": "https://web.archive.org/web/20200302061403/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2020-03-29T06:44:32Z",
+        "uri": "https://web.archive.org/web/20200329064432/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2020-03-29T06:44:32Z",
+        "uri": "https://web.archive.org/web/20200329064432/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2020-04-28T20:35:20Z",
+        "uri": "https://web.archive.org/web/20200428203520/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2020-04-28T20:35:20Z",
+        "uri": "https://web.archive.org/web/20200428203520/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2020-05-28T23:43:59Z",
+        "uri": "https://web.archive.org/web/20200528234359/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2020-05-28T23:43:59Z",
+        "uri": "https://web.archive.org/web/20200528234359/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2020-06-28T02:27:45Z",
+        "uri": "https://web.archive.org/web/20200628022745/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2020-06-28T02:27:45Z",
+        "uri": "https://web.archive.org/web/20200628022745/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2020-07-01T00:23:25Z",
+        "uri": "https://web.archive.org/web/20200701002325/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2020-07-28T07:21:15Z",
+        "uri": "https://web.archive.org/web/20200728072115/http://catalog.odu.edu:80/courses/met/"
+      },
+      {
+        "datetime": "2020-07-28T07:21:15Z",
+        "uri": "https://web.archive.org/web/20200728072115/http://catalog.odu.edu:80/courses/met"
+      },
+      {
+        "datetime": "2021-01-24T09:57:19Z",
+        "uri": "https://web.archive.org/web/20210124095719/https://catalog.odu.edu/courses/met/"
+      },
+      {
+        "datetime": "2021-04-12T20:26:09Z",
+        "uri": "https://web.archive.org/web/20210412202609/http://catalog.odu.edu/courses/met/"
+      },
+      {
+        "datetime": "2021-09-15T05:21:37Z",
+        "uri": "https://arquivo.pt/wayback/20210915052137mp_/https://catalog.odu.edu/courses/met/"
+      },
+      {
+        "datetime": "2021-11-09T16:49:07Z",
+        "uri": "https://web.archive.org/web/20211109164907/https://catalog.odu.edu/courses/met/"
+      },
+      {
+        "datetime": "2022-03-19T21:24:14Z",
+        "uri": "https://web.archive.org/web/20220319212414/https://catalog.odu.edu/courses/met/"
+      },
+      {
+        "datetime": "2024-01-11T18:14:13Z",
+        "uri": "https://web.archive.org/web/20240111181413/https://catalog.odu.edu/courses/met/"
+      },
+      {
+        "datetime": "2024-02-28T21:41:04Z",
+        "uri": "https://web.archive.org/web/20240228214104/https://catalog.odu.edu/courses/met/"
+      },
+      {
+        "datetime": "2024-07-17T10:49:37Z",
+        "uri": "https://web.archive.org/web/20240717104937/https://catalog.odu.edu/courses/met/"
+      },
+      {
+        "datetime": "2024-12-07T05:27:29Z",
+        "uri": "https://web.archive.org/web/20241207052729/https://catalog.odu.edu/courses/met/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:37:01Z",
+      "uri": "https://web.archive.org/web/20120902043701/http://catalog.odu.edu:80/courses/met/"
+    },
+    "last": {
+      "datetime": "2024-12-07T05:27:29Z",
+      "uri": "https://web.archive.org/web/20241207052729/https://catalog.odu.edu/courses/met/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/met/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/met/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/met/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/met/"
+}

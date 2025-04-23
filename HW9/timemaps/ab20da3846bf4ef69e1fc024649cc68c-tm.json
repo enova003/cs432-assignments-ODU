@@ -1,0 +1,222 @@
+{
+  "original_uri": "https://www.odu.edu/parkingservices/parking",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/parkingservices/parking",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-01-20T11:49:09Z",
+        "uri": "https://web.archive.org/web/20220120114909/http://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2022-01-20T11:49:10Z",
+        "uri": "https://web.archive.org/web/20220120114910/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2022-05-27T07:19:20Z",
+        "uri": "https://web.archive.org/web/20220527071920/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2022-05-27T13:07:53Z",
+        "uri": "https://arquivo.pt/wayback/20220527130753mp_/https://odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2022-05-28T04:03:23Z",
+        "uri": "https://web.archive.org/web/20220528040323/https://odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2022-08-11T04:38:12Z",
+        "uri": "https://web.archive.org/web/20220811043812/https://odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2022-08-11T04:38:19Z",
+        "uri": "https://web.archive.org/web/20220811043819/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2022-08-11T04:38:28Z",
+        "uri": "https://web.archive.org/web/20220811043828/http://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2022-10-06T14:56:32Z",
+        "uri": "https://web.archive.org/web/20221006145632/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2022-11-07T05:58:12Z",
+        "uri": "https://web.archive.org/web/20221107055812/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2022-11-07T16:17:12Z",
+        "uri": "https://web.archive.org/web/20221107161712/http://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2022-11-16T04:28:38Z",
+        "uri": "https://arquivo.pt/wayback/20221116042838mp_/https://odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2022-11-18T18:41:27Z",
+        "uri": "https://web.archive.org/web/20221118184127/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2022-12-07T10:53:03Z",
+        "uri": "https://web.archive.org/web/20221207105303/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2022-12-08T06:57:16Z",
+        "uri": "https://web.archive.org/web/20221208065716/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2022-12-10T09:41:16Z",
+        "uri": "https://web.archive.org/web/20221210094116/http://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2023-01-07T09:52:06Z",
+        "uri": "https://web.archive.org/web/20230107095206/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2023-01-09T07:49:07Z",
+        "uri": "https://web.archive.org/web/20230109074907/http://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2023-01-24T20:11:09Z",
+        "uri": "https://arquivo.pt/wayback/20230124201109mp_/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2023-02-07T08:13:53Z",
+        "uri": "https://web.archive.org/web/20230207081353/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2023-02-09T21:27:34Z",
+        "uri": "https://web.archive.org/web/20230209212734/http://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2023-02-20T00:54:40Z",
+        "uri": "https://web.archive.org/web/20230220005440/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2023-03-07T04:47:05Z",
+        "uri": "https://web.archive.org/web/20230307044705/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2023-03-07T13:24:42Z",
+        "uri": "https://web.archive.org/web/20230307132442/http://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2023-03-27T22:32:54Z",
+        "uri": "https://web.archive.org/web/20230327223254/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2023-08-25T18:16:31Z",
+        "uri": "https://web.archive.org/web/20230825181631/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2023-08-26T10:53:15Z",
+        "uri": "https://web.archive.org/web/20230826105315/http://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2024-01-17T00:35:37Z",
+        "uri": "https://web.archive.org/web/20240117003537/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2024-02-14T16:08:50Z",
+        "uri": "https://web.archive.org/web/20240214160850/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2024-02-21T20:16:42Z",
+        "uri": "https://web.archive.org/web/20240221201642/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2024-02-28T23:51:12Z",
+        "uri": "https://web.archive.org/web/20240228235112/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2024-03-06T15:30:08Z",
+        "uri": "https://web.archive.org/web/20240306153008/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2024-03-25T12:55:25Z",
+        "uri": "https://web.archive.org/web/20240325125525/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2024-04-01T13:06:29Z",
+        "uri": "https://web.archive.org/web/20240401130629/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2024-04-04T07:26:59Z",
+        "uri": "https://web.archive.org/web/20240404072659/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2024-04-17T03:31:12Z",
+        "uri": "https://web.archive.org/web/20240417033112/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2024-04-27T16:07:54Z",
+        "uri": "https://web.archive.org/web/20240427160754/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2024-05-13T13:54:43Z",
+        "uri": "https://web.archive.org/web/20240513135443/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2024-06-30T13:33:52Z",
+        "uri": "https://web.archive.org/web/20240630133352/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2024-07-30T00:59:17Z",
+        "uri": "https://web.archive.org/web/20240730005917/http://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2024-08-02T22:32:35Z",
+        "uri": "https://web.archive.org/web/20240802223235/https://odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2024-09-10T01:00:44Z",
+        "uri": "https://web.archive.org/web/20240910010044/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2024-09-17T18:32:55Z",
+        "uri": "https://web.archive.org/web/20240917183255/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2024-10-07T11:15:00Z",
+        "uri": "https://web.archive.org/web/20241007111500/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2024-11-25T06:11:22Z",
+        "uri": "https://web.archive.org/web/20241125061122/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2024-12-16T14:54:28Z",
+        "uri": "https://web.archive.org/web/20241216145428/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2024-12-25T12:23:06Z",
+        "uri": "https://web.archive.org/web/20241225122306/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2024-12-27T12:20:55Z",
+        "uri": "https://web.archive.org/web/20241227122055/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2025-02-07T16:20:48Z",
+        "uri": "https://web.archive.org/web/20250207162048/https://www.odu.edu/parkingservices/parking"
+      },
+      {
+        "datetime": "2025-02-14T10:00:24Z",
+        "uri": "https://web.archive.org/web/20250214100024/https://www.odu.edu/parkingservices/parking"
+      }
+    ],
+    "first": {
+      "datetime": "2022-01-20T11:49:09Z",
+      "uri": "https://web.archive.org/web/20220120114909/http://www.odu.edu/parkingservices/parking"
+    },
+    "last": {
+      "datetime": "2025-02-14T10:00:24Z",
+      "uri": "https://web.archive.org/web/20250214100024/https://www.odu.edu/parkingservices/parking"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/parkingservices/parking",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/parkingservices/parking",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/parkingservices/parking"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/parkingservices/parking"
+}

@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/arts-letters/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/arts-letters/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T01:37:40Z",
+        "uri": "https://web.archive.org/web/20230927013740/https://catalog.odu.edu/undergraduate/arts-letters/"
+      },
+      {
+        "datetime": "2023-12-04T19:58:03Z",
+        "uri": "https://web.archive.org/web/20231204195803/https://catalog.odu.edu/undergraduate/arts-letters/"
+      },
+      {
+        "datetime": "2023-12-09T23:02:52Z",
+        "uri": "https://web.archive.org/web/20231209230252/https://catalog.odu.edu/undergraduate/arts-letters/"
+      },
+      {
+        "datetime": "2023-12-09T23:03:15Z",
+        "uri": "https://web.archive.org/web/20231209230315/http://catalog.odu.edu/undergraduate/arts-letters/"
+      },
+      {
+        "datetime": "2023-12-17T01:36:34Z",
+        "uri": "https://web.archive.org/web/20231217013634/https://catalog.odu.edu/undergraduate/arts-letters/"
+      },
+      {
+        "datetime": "2024-02-29T16:12:42Z",
+        "uri": "https://web.archive.org/web/20240229161242/https://catalog.odu.edu/undergraduate/arts-letters/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T01:37:40Z",
+      "uri": "https://web.archive.org/web/20230927013740/https://catalog.odu.edu/undergraduate/arts-letters/"
+    },
+    "last": {
+      "datetime": "2024-02-29T16:12:42Z",
+      "uri": "https://web.archive.org/web/20240229161242/https://catalog.odu.edu/undergraduate/arts-letters/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/arts-letters/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/arts-letters/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/arts-letters/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/arts-letters/"
+}

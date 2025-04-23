@@ -1,0 +1,66 @@
+{
+  "original_uri": "https://www.odu.edu/interdisciplinary-schools",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/interdisciplinary-schools",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-03-05T03:57:00Z",
+        "uri": "https://web.archive.org/web/20240305035700/https://www.odu.edu/interdisciplinary-schools"
+      },
+      {
+        "datetime": "2024-04-04T07:26:30Z",
+        "uri": "https://web.archive.org/web/20240404072630/https://www.odu.edu/interdisciplinary-schools"
+      },
+      {
+        "datetime": "2024-04-23T08:04:37Z",
+        "uri": "https://web.archive.org/web/20240423080437/https://www.odu.edu/interdisciplinary-schools"
+      },
+      {
+        "datetime": "2024-07-10T08:19:10Z",
+        "uri": "https://web.archive.org/web/20240710081910/https://www.odu.edu/interdisciplinary-schools"
+      },
+      {
+        "datetime": "2024-09-17T12:51:48Z",
+        "uri": "https://web.archive.org/web/20240917125148/https://www.odu.edu/interdisciplinary-schools"
+      },
+      {
+        "datetime": "2024-10-05T12:33:40Z",
+        "uri": "https://web.archive.org/web/20241005123340/https://www.odu.edu/interdisciplinary-schools"
+      },
+      {
+        "datetime": "2024-10-07T10:47:45Z",
+        "uri": "https://web.archive.org/web/20241007104745/https://www.odu.edu/interdisciplinary-schools"
+      },
+      {
+        "datetime": "2024-11-17T00:47:44Z",
+        "uri": "https://web.archive.org/web/20241117004744/https://www.odu.edu/interdisciplinary-schools"
+      },
+      {
+        "datetime": "2024-12-09T16:43:55Z",
+        "uri": "https://web.archive.org/web/20241209164355/https://www.odu.edu/interdisciplinary-schools"
+      },
+      {
+        "datetime": "2024-12-24T17:54:06Z",
+        "uri": "https://web.archive.org/web/20241224175406/https://www.odu.edu/interdisciplinary-schools"
+      },
+      {
+        "datetime": "2025-02-14T10:00:29Z",
+        "uri": "https://web.archive.org/web/20250214100029/https://www.odu.edu/interdisciplinary-schools"
+      }
+    ],
+    "first": {
+      "datetime": "2024-03-05T03:57:00Z",
+      "uri": "https://web.archive.org/web/20240305035700/https://www.odu.edu/interdisciplinary-schools"
+    },
+    "last": {
+      "datetime": "2025-02-14T10:00:29Z",
+      "uri": "https://web.archive.org/web/20250214100029/https://www.odu.edu/interdisciplinary-schools"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/interdisciplinary-schools",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/interdisciplinary-schools",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/interdisciplinary-schools"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/interdisciplinary-schools"
+}

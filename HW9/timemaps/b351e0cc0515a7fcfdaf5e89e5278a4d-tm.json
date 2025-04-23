@@ -1,0 +1,74 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/rmi/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/rmi/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-06-13T11:38:40Z",
+        "uri": "https://web.archive.org/web/20210613113840/https://catalog.odu.edu/courses/rmi/"
+      },
+      {
+        "datetime": "2021-06-13T11:38:40Z",
+        "uri": "https://web.archive.org/web/20210613113840/https://catalog.odu.edu/courses/rmi/"
+      },
+      {
+        "datetime": "2021-09-20T11:21:04Z",
+        "uri": "https://web.archive.org/web/20210920112104/https://catalog.odu.edu/courses/rmi/"
+      },
+      {
+        "datetime": "2021-11-03T21:57:48Z",
+        "uri": "https://web.archive.org/web/20211103215748/https://catalog.odu.edu/courses/rmi/"
+      },
+      {
+        "datetime": "2021-11-22T14:27:53Z",
+        "uri": "https://web.archive.org/web/20211122142753/https://catalog.odu.edu/courses/rmi/"
+      },
+      {
+        "datetime": "2022-01-17T01:11:12Z",
+        "uri": "https://web.archive.org/web/20220117011112/https://catalog.odu.edu/courses/rmi/"
+      },
+      {
+        "datetime": "2022-03-19T20:25:21Z",
+        "uri": "https://web.archive.org/web/20220319202521/https://catalog.odu.edu/courses/rmi/"
+      },
+      {
+        "datetime": "2022-07-07T10:43:54Z",
+        "uri": "https://web.archive.org/web/20220707104354/https://catalog.odu.edu/courses/rmi/"
+      },
+      {
+        "datetime": "2022-11-27T02:14:09Z",
+        "uri": "https://web.archive.org/web/20221127021409/https://catalog.odu.edu/courses/rmi/"
+      },
+      {
+        "datetime": "2022-12-09T00:19:14Z",
+        "uri": "https://web.archive.org/web/20221209001914/https://catalog.odu.edu/courses/rmi/"
+      },
+      {
+        "datetime": "2024-02-29T16:10:57Z",
+        "uri": "https://web.archive.org/web/20240229161057/https://catalog.odu.edu/courses/rmi/"
+      },
+      {
+        "datetime": "2024-07-17T10:44:24Z",
+        "uri": "https://web.archive.org/web/20240717104424/https://catalog.odu.edu/courses/rmi/"
+      },
+      {
+        "datetime": "2024-11-11T23:52:31Z",
+        "uri": "https://web.archive.org/web/20241111235231/https://catalog.odu.edu/courses/rmi/"
+      }
+    ],
+    "first": {
+      "datetime": "2021-06-13T11:38:40Z",
+      "uri": "https://web.archive.org/web/20210613113840/https://catalog.odu.edu/courses/rmi/"
+    },
+    "last": {
+      "datetime": "2024-11-11T23:52:31Z",
+      "uri": "https://web.archive.org/web/20241111235231/https://catalog.odu.edu/courses/rmi/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/rmi/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/rmi/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/rmi/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/rmi/"
+}

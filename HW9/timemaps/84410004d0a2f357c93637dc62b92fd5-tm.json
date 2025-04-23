@@ -1,0 +1,66 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/rest/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/rest/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-06-13T12:18:32Z",
+        "uri": "https://web.archive.org/web/20210613121832/https://catalog.odu.edu/courses/rest/"
+      },
+      {
+        "datetime": "2021-06-13T12:18:32Z",
+        "uri": "https://web.archive.org/web/20210613121832/https://catalog.odu.edu/courses/rest/"
+      },
+      {
+        "datetime": "2021-09-20T12:04:38Z",
+        "uri": "https://web.archive.org/web/20210920120438/https://catalog.odu.edu/courses/rest/"
+      },
+      {
+        "datetime": "2021-11-22T14:27:57Z",
+        "uri": "https://web.archive.org/web/20211122142757/https://catalog.odu.edu/courses/rest/"
+      },
+      {
+        "datetime": "2022-01-17T01:55:42Z",
+        "uri": "https://web.archive.org/web/20220117015542/https://catalog.odu.edu/courses/rest/"
+      },
+      {
+        "datetime": "2022-03-19T20:07:20Z",
+        "uri": "https://web.archive.org/web/20220319200720/https://catalog.odu.edu/courses/rest/"
+      },
+      {
+        "datetime": "2022-07-07T11:26:32Z",
+        "uri": "https://web.archive.org/web/20220707112632/https://catalog.odu.edu/courses/rest/"
+      },
+      {
+        "datetime": "2022-11-27T03:04:43Z",
+        "uri": "https://web.archive.org/web/20221127030443/https://catalog.odu.edu/courses/rest/"
+      },
+      {
+        "datetime": "2024-02-29T16:11:47Z",
+        "uri": "https://web.archive.org/web/20240229161147/https://catalog.odu.edu/courses/rest/"
+      },
+      {
+        "datetime": "2024-06-22T00:25:55Z",
+        "uri": "https://web.archive.org/web/20240622002555/https://catalog.odu.edu/courses/rest/"
+      },
+      {
+        "datetime": "2024-11-12T00:42:25Z",
+        "uri": "https://web.archive.org/web/20241112004225/https://catalog.odu.edu/courses/rest/"
+      }
+    ],
+    "first": {
+      "datetime": "2021-06-13T12:18:32Z",
+      "uri": "https://web.archive.org/web/20210613121832/https://catalog.odu.edu/courses/rest/"
+    },
+    "last": {
+      "datetime": "2024-11-12T00:42:25Z",
+      "uri": "https://web.archive.org/web/20241112004225/https://catalog.odu.edu/courses/rest/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/rest/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/rest/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/rest/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/rest/"
+}

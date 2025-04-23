@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/graduate-school/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/graduate-school/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T02:48:58Z",
+        "uri": "https://web.archive.org/web/20230927024858/https://catalog.odu.edu/undergraduate/graduate-school/"
+      },
+      {
+        "datetime": "2024-02-29T16:10:28Z",
+        "uri": "https://web.archive.org/web/20240229161028/https://catalog.odu.edu/undergraduate/graduate-school/"
+      },
+      {
+        "datetime": "2024-03-04T06:00:28Z",
+        "uri": "https://web.archive.org/web/20240304060028/https://catalog.odu.edu/undergraduate/graduate-school/"
+      },
+      {
+        "datetime": "2024-07-17T11:17:02Z",
+        "uri": "https://web.archive.org/web/20240717111702/https://catalog.odu.edu/undergraduate/graduate-school/"
+      },
+      {
+        "datetime": "2024-08-18T09:14:32Z",
+        "uri": "https://web.archive.org/web/20240818091432/https://catalog.odu.edu/undergraduate/graduate-school/"
+      },
+      {
+        "datetime": "2024-10-13T08:15:33Z",
+        "uri": "https://web.archive.org/web/20241013081533/https://catalog.odu.edu/undergraduate/graduate-school/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T02:48:58Z",
+      "uri": "https://web.archive.org/web/20230927024858/https://catalog.odu.edu/undergraduate/graduate-school/"
+    },
+    "last": {
+      "datetime": "2024-10-13T08:15:33Z",
+      "uri": "https://web.archive.org/web/20241013081533/https://catalog.odu.edu/undergraduate/graduate-school/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/graduate-school/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/graduate-school/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/graduate-school/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/graduate-school/"
+}

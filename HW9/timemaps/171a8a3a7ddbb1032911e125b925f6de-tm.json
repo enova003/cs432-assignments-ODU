@@ -1,0 +1,54 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/arts-letters/humanities/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/arts-letters/humanities/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T00:51:47Z",
+        "uri": "https://web.archive.org/web/20230927005147/https://catalog.odu.edu/undergraduate/arts-letters/humanities/"
+      },
+      {
+        "datetime": "2023-10-01T02:15:23Z",
+        "uri": "https://web.archive.org/web/20231001021523/https://catalog.odu.edu/undergraduate/arts-letters/humanities/"
+      },
+      {
+        "datetime": "2023-12-08T06:22:16Z",
+        "uri": "https://web.archive.org/web/20231208062216/https://catalog.odu.edu/undergraduate/arts-letters/humanities/"
+      },
+      {
+        "datetime": "2023-12-09T23:03:16Z",
+        "uri": "https://web.archive.org/web/20231209230316/https://catalog.odu.edu/undergraduate/arts-letters/humanities/"
+      },
+      {
+        "datetime": "2023-12-09T23:03:22Z",
+        "uri": "https://web.archive.org/web/20231209230322/http://catalog.odu.edu/undergraduate/arts-letters/humanities/"
+      },
+      {
+        "datetime": "2024-04-17T21:16:45Z",
+        "uri": "https://web.archive.org/web/20240417211645/https://catalog.odu.edu/undergraduate/arts-letters/humanities/"
+      },
+      {
+        "datetime": "2024-07-17T09:27:52Z",
+        "uri": "https://web.archive.org/web/20240717092752/https://catalog.odu.edu/undergraduate/arts-letters/humanities/"
+      },
+      {
+        "datetime": "2024-11-11T22:44:53Z",
+        "uri": "https://web.archive.org/web/20241111224453/https://catalog.odu.edu/undergraduate/arts-letters/humanities/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T00:51:47Z",
+      "uri": "https://web.archive.org/web/20230927005147/https://catalog.odu.edu/undergraduate/arts-letters/humanities/"
+    },
+    "last": {
+      "datetime": "2024-11-11T22:44:53Z",
+      "uri": "https://web.archive.org/web/20241111224453/https://catalog.odu.edu/undergraduate/arts-letters/humanities/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/arts-letters/humanities/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/arts-letters/humanities/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/arts-letters/humanities/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/arts-letters/humanities/"
+}

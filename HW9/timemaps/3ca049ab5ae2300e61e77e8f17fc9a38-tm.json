@@ -1,0 +1,50 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/rt/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/rt/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T01:17:27Z",
+        "uri": "https://web.archive.org/web/20230927011727/https://catalog.odu.edu/courses/rt/"
+      },
+      {
+        "datetime": "2024-02-29T16:11:44Z",
+        "uri": "https://web.archive.org/web/20240229161144/https://catalog.odu.edu/courses/rt/"
+      },
+      {
+        "datetime": "2024-04-17T22:59:43Z",
+        "uri": "https://web.archive.org/web/20240417225943/https://catalog.odu.edu/courses/rt/"
+      },
+      {
+        "datetime": "2024-07-07T22:12:11Z",
+        "uri": "https://web.archive.org/web/20240707221211/https://catalog.odu.edu/courses/rt/"
+      },
+      {
+        "datetime": "2024-08-13T22:46:34Z",
+        "uri": "https://web.archive.org/web/20240813224634/https://catalog.odu.edu/courses/rt/"
+      },
+      {
+        "datetime": "2024-09-26T15:06:44Z",
+        "uri": "https://web.archive.org/web/20240926150644/https://catalog.odu.edu/courses/rt/"
+      },
+      {
+        "datetime": "2024-11-12T00:49:58Z",
+        "uri": "https://web.archive.org/web/20241112004958/https://catalog.odu.edu/courses/rt/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T01:17:27Z",
+      "uri": "https://web.archive.org/web/20230927011727/https://catalog.odu.edu/courses/rt/"
+    },
+    "last": {
+      "datetime": "2024-11-12T00:49:58Z",
+      "uri": "https://web.archive.org/web/20241112004958/https://catalog.odu.edu/courses/rt/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/rt/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/rt/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/rt/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/rt/"
+}

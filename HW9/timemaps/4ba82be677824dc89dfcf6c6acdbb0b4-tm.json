@@ -1,0 +1,558 @@
+{
+  "original_uri": "https://www.odu.edu/armyrotc",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/armyrotc",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2006-09-06T20:49:34Z",
+        "uri": "https://web.archive.org/web/20060906204934/http://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2007-05-18T03:04:35Z",
+        "uri": "https://web.archive.org/web/20070518030435/http://www.odu.edu:80/armyrotc"
+      },
+      {
+        "datetime": "2008-01-17T05:51:58Z",
+        "uri": "https://web.archive.org/web/20080117055158/http://www.odu.edu:80/armyrotc"
+      },
+      {
+        "datetime": "2008-03-17T19:19:28Z",
+        "uri": "https://web.archive.org/web/20080317191928/http://www.odu.edu:80/armyrotc"
+      },
+      {
+        "datetime": "2008-05-17T16:53:21Z",
+        "uri": "https://web.archive.org/web/20080517165321/http://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2008-09-21T07:51:39Z",
+        "uri": "https://web.archive.org/web/20080921075139/http://www.odu.edu:80/armyrotc"
+      },
+      {
+        "datetime": "2010-02-08T16:14:08Z",
+        "uri": "https://web.archive.org/web/20100208161408/http://www.odu.edu:80/armyrotc"
+      },
+      {
+        "datetime": "2010-04-10T03:17:20Z",
+        "uri": "https://web.archive.org/web/20100410031720/http://www.odu.edu:80/armyrotc"
+      },
+      {
+        "datetime": "2010-05-28T15:51:04Z",
+        "uri": "https://web.archive.org/web/20100528155104/http://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2010-08-26T03:45:04Z",
+        "uri": "https://web.archive.org/web/20100826034504/http://www.odu.edu:80/armyrotc"
+      },
+      {
+        "datetime": "2010-10-25T21:54:05Z",
+        "uri": "https://web.archive.org/web/20101025215405/http://www.odu.edu:80/armyrotc"
+      },
+      {
+        "datetime": "2011-03-07T21:52:33Z",
+        "uri": "https://web.archive.org/web/20110307215233/http://www.odu.edu:80/armyrotc"
+      },
+      {
+        "datetime": "2011-06-20T05:26:12Z",
+        "uri": "https://web.archive.org/web/20110620052612/http://www.odu.edu:80/armyrotc"
+      },
+      {
+        "datetime": "2011-08-19T21:46:53Z",
+        "uri": "https://web.archive.org/web/20110819214653/http://www.odu.edu:80/armyrotc"
+      },
+      {
+        "datetime": "2011-10-31T10:47:30Z",
+        "uri": "https://web.archive.org/web/20111031104730/http://www.odu.edu:80/armyrotc"
+      },
+      {
+        "datetime": "2012-10-23T23:44:36Z",
+        "uri": "https://web.archive.org/web/20121023234436/http://www.odu.edu:80/armyrotc"
+      },
+      {
+        "datetime": "2012-12-09T22:38:39Z",
+        "uri": "https://web.archive.org/web/20121209223839/http://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2013-01-17T17:53:20Z",
+        "uri": "https://web.archive.org/web/20130117175320/http://odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2013-04-26T10:19:09Z",
+        "uri": "https://web.archive.org/web/20130426101909/http://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2013-08-14T13:16:50Z",
+        "uri": "https://web.archive.org/web/20130814131650/http://odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2014-03-28T05:40:40Z",
+        "uri": "https://web.archive.org/web/20140328054040/http://odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2014-06-26T13:50:29Z",
+        "uri": "https://web.archive.org/web/20140626135029/http://odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2015-11-14T03:46:19Z",
+        "uri": "https://web.archive.org/web/20151114034619/http://www.odu.edu:80/armyrotc"
+      },
+      {
+        "datetime": "2015-12-14T22:15:24Z",
+        "uri": "https://web.archive.org/web/20151214221524/http://www.odu.edu:80/armyrotc"
+      },
+      {
+        "datetime": "2016-01-14T09:31:06Z",
+        "uri": "https://web.archive.org/web/20160114093106/http://www.odu.edu:80/armyrotc"
+      },
+      {
+        "datetime": "2016-02-14T03:12:47Z",
+        "uri": "https://web.archive.org/web/20160214031247/http://www.odu.edu:80/armyrotc"
+      },
+      {
+        "datetime": "2016-03-15T18:00:00Z",
+        "uri": "https://web.archive.org/web/20160315180000/http://www.odu.edu:80/armyrotc"
+      },
+      {
+        "datetime": "2016-11-21T23:25:24Z",
+        "uri": "https://web.archive.org/web/20161121232524/http://www.odu.edu:80/armyrotc"
+      },
+      {
+        "datetime": "2017-03-17T21:08:51Z",
+        "uri": "https://web.archive.org/web/20170317210851/http://www.odu.edu:80/armyrotc"
+      },
+      {
+        "datetime": "2017-05-06T17:54:00Z",
+        "uri": "https://web.archive.org/web/20170506175400/http://www.odu.edu:80/armyrotc"
+      },
+      {
+        "datetime": "2017-05-08T00:30:04Z",
+        "uri": "https://web.archive.org/web/20170508003004/http://www.odu.edu:80/armyrotc"
+      },
+      {
+        "datetime": "2017-06-08T10:18:21Z",
+        "uri": "https://web.archive.org/web/20170608101821/http://www.odu.edu:80/armyrotc"
+      },
+      {
+        "datetime": "2017-06-14T00:59:46Z",
+        "uri": "https://web.archive.org/web/20170614005946/http://odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2017-07-09T14:16:16Z",
+        "uri": "https://web.archive.org/web/20170709141616/http://www.odu.edu:80/armyrotc"
+      },
+      {
+        "datetime": "2017-07-13T08:05:35Z",
+        "uri": "https://web.archive.org/web/20170713080535/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2017-07-26T15:44:14Z",
+        "uri": "https://web.archive.org/web/20170726154414/http://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2017-09-07T22:52:37Z",
+        "uri": "https://web.archive.org/web/20170907225237/http://www.odu.edu:80/armyrotc"
+      },
+      {
+        "datetime": "2017-10-15T08:01:55Z",
+        "uri": "https://web.archive.org/web/20171015080155/http://odu.edu:80/armyrotc"
+      },
+      {
+        "datetime": "2017-11-08T13:34:03Z",
+        "uri": "https://web.archive.org/web/20171108133403/http://www.odu.edu:80/armyrotc"
+      },
+      {
+        "datetime": "2017-12-17T04:34:21Z",
+        "uri": "https://web.archive.org/web/20171217043421/http://odu.edu:80/armyrotc"
+      },
+      {
+        "datetime": "2018-01-08T06:51:10Z",
+        "uri": "https://web.archive.org/web/20180108065110/http://www.odu.edu:80/armyrotc"
+      },
+      {
+        "datetime": "2018-03-10T05:17:51Z",
+        "uri": "https://web.archive.org/web/20180310051751/http://www.odu.edu:80/armyrotc"
+      },
+      {
+        "datetime": "2018-05-07T14:10:57Z",
+        "uri": "https://web.archive.org/web/20180507141057/http://odu.edu:80/armyrotc"
+      },
+      {
+        "datetime": "2018-05-11T04:46:57Z",
+        "uri": "https://web.archive.org/web/20180511044657/http://www.odu.edu:80/armyrotc"
+      },
+      {
+        "datetime": "2018-07-10T18:21:32Z",
+        "uri": "https://web.archive.org/web/20180710182132/http://www.odu.edu:80/armyrotc"
+      },
+      {
+        "datetime": "2018-07-26T05:07:56Z",
+        "uri": "https://web.archive.org/web/20180726050756/http://odu.edu:80/armyrotc"
+      },
+      {
+        "datetime": "2020-07-12T11:11:46Z",
+        "uri": "https://web.archive.org/web/20200712111146/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2020-07-12T11:11:59Z",
+        "uri": "https://web.archive.org/web/20200712111159/http://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2021-04-19T00:42:14Z",
+        "uri": "https://web.archive.org/web/20210419004214/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2021-05-06T16:19:16Z",
+        "uri": "https://web.archive.org/web/20210506161916/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2021-05-20T15:42:45Z",
+        "uri": "https://web.archive.org/web/20210520154245/https://odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2021-05-20T16:07:16Z",
+        "uri": "https://web.archive.org/web/20210520160716/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2021-05-26T20:47:54Z",
+        "uri": "https://wayback.archive-it.org/all/20210526204754/https://odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2021-05-26T20:47:54Z",
+        "uri": "https://web.archive.org/web/20210526204754/https://odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2021-05-26T20:48:06Z",
+        "uri": "https://wayback.archive-it.org/all/20210526204806/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2021-05-26T20:48:06Z",
+        "uri": "https://web.archive.org/web/20210526204806/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2021-05-26T20:48:12Z",
+        "uri": "https://wayback.archive-it.org/all/20210526204812/http://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2021-05-26T20:48:12Z",
+        "uri": "https://web.archive.org/web/20210526204812/http://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2021-08-12T07:04:10Z",
+        "uri": "https://web.archive.org/web/20210812070410/https://odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2021-10-21T05:32:52Z",
+        "uri": "https://arquivo.pt/wayback/20211021053252mp_/https://odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2021-10-21T05:32:52Z",
+        "uri": "https://web.archive.org/web/20211021053252/https://odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2021-11-03T11:34:40Z",
+        "uri": "https://arquivo.pt/wayback/20211103113440mp_/http://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2021-11-03T11:34:40Z",
+        "uri": "https://web.archive.org/web/20211103113440/http://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2022-01-22T11:44:27Z",
+        "uri": "https://arquivo.pt/wayback/20220122114427mp_/https://odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2022-01-26T05:49:55Z",
+        "uri": "https://arquivo.pt/wayback/20220126054955mp_/http://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2022-03-19T21:29:47Z",
+        "uri": "https://web.archive.org/web/20220319212947/https://odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2022-04-17T06:58:15Z",
+        "uri": "https://arquivo.pt/wayback/20220417065815mp_/https://odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2022-04-20T16:30:53Z",
+        "uri": "https://arquivo.pt/wayback/20220420163053mp_/https://odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2022-04-22T18:46:25Z",
+        "uri": "https://arquivo.pt/wayback/20220422184625mp_/http://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2022-04-24T19:03:46Z",
+        "uri": "https://arquivo.pt/wayback/20220424190346mp_/http://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2022-05-27T06:14:12Z",
+        "uri": "https://web.archive.org/web/20220527061412/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2022-05-27T18:31:13Z",
+        "uri": "https://web.archive.org/web/20220527183113/https://odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2022-07-30T16:32:48Z",
+        "uri": "https://arquivo.pt/wayback/20220730163248mp_/https://odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2022-08-10T21:44:14Z",
+        "uri": "https://wayback.archive-it.org/all/20220810214414/https://odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2022-08-10T21:44:14Z",
+        "uri": "https://web.archive.org/web/20220810214414/https://odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2022-08-10T21:44:21Z",
+        "uri": "https://wayback.archive-it.org/all/20220810214421/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2022-08-10T21:44:21Z",
+        "uri": "https://web.archive.org/web/20220810214421/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2022-08-10T21:44:29Z",
+        "uri": "https://wayback.archive-it.org/all/20220810214429/http://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2022-08-10T21:44:29Z",
+        "uri": "https://web.archive.org/web/20220810214429/http://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2022-09-27T14:02:16Z",
+        "uri": "https://web.archive.org/web/20220927140216/https://odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2022-10-06T13:49:22Z",
+        "uri": "https://web.archive.org/web/20221006134922/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2022-10-11T03:55:47Z",
+        "uri": "https://arquivo.pt/wayback/20221011035547mp_/https://odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2022-11-07T06:07:57Z",
+        "uri": "https://wayback.archive-it.org/all/20221107060757/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2022-11-07T06:07:57Z",
+        "uri": "https://web.archive.org/web/20221107060757/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2022-11-07T21:34:54Z",
+        "uri": "https://wayback.archive-it.org/all/20221107213454/http://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2022-11-07T21:34:54Z",
+        "uri": "https://web.archive.org/web/20221107213454/http://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2022-11-18T19:37:09Z",
+        "uri": "https://web.archive.org/web/20221118193709/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2022-12-07T13:24:44Z",
+        "uri": "https://wayback.archive-it.org/all/20221207132444/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2022-12-07T13:24:44Z",
+        "uri": "https://web.archive.org/web/20221207132444/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2022-12-10T22:28:50Z",
+        "uri": "https://wayback.archive-it.org/all/20221210222850/http://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2022-12-10T22:28:50Z",
+        "uri": "https://web.archive.org/web/20221210222850/http://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2023-01-07T12:52:59Z",
+        "uri": "https://wayback.archive-it.org/all/20230107125259/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2023-01-07T12:52:59Z",
+        "uri": "https://web.archive.org/web/20230107125259/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2023-01-10T17:03:18Z",
+        "uri": "https://wayback.archive-it.org/all/20230110170318/http://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2023-01-10T17:03:18Z",
+        "uri": "https://web.archive.org/web/20230110170318/http://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2023-01-24T20:41:07Z",
+        "uri": "https://arquivo.pt/wayback/20230124204107mp_/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2023-02-07T12:11:52Z",
+        "uri": "https://wayback.archive-it.org/all/20230207121152/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2023-02-07T12:11:52Z",
+        "uri": "https://web.archive.org/web/20230207121152/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2023-02-10T10:32:46Z",
+        "uri": "https://wayback.archive-it.org/all/20230210103246/http://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2023-02-10T10:32:46Z",
+        "uri": "https://web.archive.org/web/20230210103246/http://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2023-02-20T01:07:58Z",
+        "uri": "https://web.archive.org/web/20230220010758/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2023-03-07T05:03:49Z",
+        "uri": "https://wayback.archive-it.org/all/20230307050349/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2023-03-07T05:03:49Z",
+        "uri": "https://web.archive.org/web/20230307050349/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2023-03-07T17:31:02Z",
+        "uri": "https://wayback.archive-it.org/all/20230307173102/http://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2023-03-07T17:31:02Z",
+        "uri": "https://web.archive.org/web/20230307173102/http://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2023-03-27T16:12:14Z",
+        "uri": "https://web.archive.org/web/20230327161214/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2023-03-27T22:35:47Z",
+        "uri": "https://web.archive.org/web/20230327223547/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2023-08-25T17:14:31Z",
+        "uri": "https://wayback.archive-it.org/all/20230825171431/https://odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2023-08-25T17:14:31Z",
+        "uri": "https://web.archive.org/web/20230825171431/https://odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2023-08-25T19:00:11Z",
+        "uri": "https://wayback.archive-it.org/all/20230825190011/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2023-08-25T19:00:11Z",
+        "uri": "https://web.archive.org/web/20230825190011/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2024-02-14T16:09:33Z",
+        "uri": "https://web.archive.org/web/20240214160933/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2024-02-21T20:15:57Z",
+        "uri": "https://web.archive.org/web/20240221201557/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2024-02-28T23:51:01Z",
+        "uri": "https://web.archive.org/web/20240228235101/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2024-03-03T09:59:25Z",
+        "uri": "https://web.archive.org/web/20240303095925/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2024-03-06T15:29:45Z",
+        "uri": "https://web.archive.org/web/20240306152945/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2024-03-25T12:55:42Z",
+        "uri": "https://web.archive.org/web/20240325125542/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2024-04-01T13:07:08Z",
+        "uri": "https://web.archive.org/web/20240401130708/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2024-04-04T07:26:59Z",
+        "uri": "https://web.archive.org/web/20240404072659/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2024-04-17T03:31:06Z",
+        "uri": "https://web.archive.org/web/20240417033106/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2024-04-27T16:09:14Z",
+        "uri": "https://web.archive.org/web/20240427160914/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2024-05-23T23:21:11Z",
+        "uri": "https://wayback.archive-it.org/all/20240523232111/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2024-06-14T05:58:41Z",
+        "uri": "https://web.archive.org/web/20240614055841/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2024-06-30T13:34:49Z",
+        "uri": "https://web.archive.org/web/20240630133449/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2024-09-10T08:44:12Z",
+        "uri": "https://web.archive.org/web/20240910084412/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2024-09-12T05:48:27Z",
+        "uri": "https://web.archive.org/web/20240912054827/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2024-09-17T12:33:26Z",
+        "uri": "https://web.archive.org/web/20240917123326/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2024-10-07T10:49:42Z",
+        "uri": "https://web.archive.org/web/20241007104942/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2024-11-11T10:38:07Z",
+        "uri": "https://web.archive.org/web/20241111103807/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2024-11-27T04:28:46Z",
+        "uri": "https://web.archive.org/web/20241127042846/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2024-12-17T20:45:11Z",
+        "uri": "https://web.archive.org/web/20241217204511/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2024-12-27T12:01:03Z",
+        "uri": "https://web.archive.org/web/20241227120103/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2025-02-06T16:21:06Z",
+        "uri": "https://web.archive.org/web/20250206162106/https://www.odu.edu/armyrotc"
+      },
+      {
+        "datetime": "2025-02-14T09:59:22Z",
+        "uri": "https://web.archive.org/web/20250214095922/https://www.odu.edu/armyrotc"
+      }
+    ],
+    "first": {
+      "datetime": "2006-09-06T20:49:34Z",
+      "uri": "https://web.archive.org/web/20060906204934/http://www.odu.edu/armyrotc"
+    },
+    "last": {
+      "datetime": "2025-02-14T09:59:22Z",
+      "uri": "https://web.archive.org/web/20250214095922/https://www.odu.edu/armyrotc"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/armyrotc",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/armyrotc",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/armyrotc"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/armyrotc"
+}

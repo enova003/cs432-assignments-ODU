@@ -1,0 +1,374 @@
+{
+  "original_uri": "https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A",
+  "self": "http://localhost:1208/timemap/json/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2016-05-24T17:53:51Z",
+        "uri": "https://web.archive.org/web/20160524175351/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2016-11-12T07:10:33Z",
+        "uri": "https://web.archive.org/web/20161112071033/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2017-07-10T09:00:39Z",
+        "uri": "https://web.archive.org/web/20170710090039/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2018-09-15T13:17:14Z",
+        "uri": "https://wayback.archive-it.org/all/20180915131714/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2018-09-15T13:17:14Z",
+        "uri": "https://web.archive.org/web/20180915131714/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2019-04-08T20:22:22Z",
+        "uri": "https://web.archive.org/web/20190408202222/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2019-04-14T21:35:40Z",
+        "uri": "https://web.archive.org/web/20190414213540/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2019-12-14T12:54:02Z",
+        "uri": "https://web.archive.org/web/20191214125402/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2019-12-21T17:53:24Z",
+        "uri": "https://web.archive.org/web/20191221175324/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2019-12-21T17:54:05Z",
+        "uri": "https://web.archive.org/web/20191221175405/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2020-02-15T01:42:33Z",
+        "uri": "https://web.archive.org/web/20200215014233/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2020-04-16T20:06:44Z",
+        "uri": "https://wayback.archive-it.org/all/20200416200644/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2020-04-16T20:06:44Z",
+        "uri": "https://web.archive.org/web/20200416200644/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2020-07-05T11:07:39Z",
+        "uri": "https://web.archive.org/web/20200705110739/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2020-09-16T11:01:00Z",
+        "uri": "https://web.archive.org/web/20200916110100/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2020-10-22T23:15:09Z",
+        "uri": "https://web.archive.org/web/20201022231509/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2021-02-01T12:51:29Z",
+        "uri": "https://web.archive.org/web/20210201125129/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2021-03-16T15:24:35Z",
+        "uri": "https://web.archive.org/web/20210316152435/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2021-04-17T19:09:53Z",
+        "uri": "https://web.archive.org/web/20210417190953/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2021-04-30T20:13:20Z",
+        "uri": "https://web.archive.org/web/20210430201320/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2021-05-01T21:49:25Z",
+        "uri": "https://web.archive.org/web/20210501214925/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2021-05-16T09:40:34Z",
+        "uri": "https://web.archive.org/web/20210516094034/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2021-05-20T23:30:04Z",
+        "uri": "https://web.archive.org/web/20210520233004/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2021-05-26T20:24:08Z",
+        "uri": "https://wayback.archive-it.org/all/20210526202408/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2021-05-26T20:24:08Z",
+        "uri": "https://web.archive.org/web/20210526202408/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2021-06-02T01:58:36Z",
+        "uri": "https://web.archive.org/web/20210602015836/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2021-08-12T10:26:15Z",
+        "uri": "https://web.archive.org/web/20210812102615/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2022-01-08T16:36:59Z",
+        "uri": "https://web.archive.org/web/20220108163659/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2022-01-09T00:59:42Z",
+        "uri": "https://web.archive.org/web/20220109005942/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2022-01-10T17:06:14Z",
+        "uri": "https://web.archive.org/web/20220110170614/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2022-01-11T20:13:56Z",
+        "uri": "https://web.archive.org/web/20220111201356/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2022-01-12T16:58:27Z",
+        "uri": "https://web.archive.org/web/20220112165827/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2022-01-12T21:57:51Z",
+        "uri": "https://web.archive.org/web/20220112215751/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2022-01-13T01:02:14Z",
+        "uri": "https://web.archive.org/web/20220113010214/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2022-01-13T19:30:54Z",
+        "uri": "https://web.archive.org/web/20220113193054/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2022-01-16T23:34:55Z",
+        "uri": "https://web.archive.org/web/20220116233455/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2022-01-17T07:07:29Z",
+        "uri": "https://web.archive.org/web/20220117070729/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2022-01-21T21:46:29Z",
+        "uri": "https://web.archive.org/web/20220121214629/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2022-01-24T20:27:36Z",
+        "uri": "https://web.archive.org/web/20220124202736/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2022-01-26T02:01:52Z",
+        "uri": "https://web.archive.org/web/20220126020152/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2022-01-31T22:16:42Z",
+        "uri": "https://web.archive.org/web/20220131221642/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2022-02-01T22:31:37Z",
+        "uri": "https://web.archive.org/web/20220201223137/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2022-02-03T18:59:11Z",
+        "uri": "https://web.archive.org/web/20220203185911/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2022-03-09T09:10:14Z",
+        "uri": "https://web.archive.org/web/20220309091014/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2022-03-16T13:07:02Z",
+        "uri": "https://web.archive.org/web/20220316130702/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2022-03-20T12:46:26Z",
+        "uri": "https://web.archive.org/web/20220320124626/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2022-04-17T00:53:45Z",
+        "uri": "https://web.archive.org/web/20220417005345/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2022-05-21T03:52:02Z",
+        "uri": "https://web.archive.org/web/20220521035202/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2022-05-25T10:46:56Z",
+        "uri": "https://web.archive.org/web/20220525104656/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2022-08-10T20:47:40Z",
+        "uri": "https://wayback.archive-it.org/all/20220810204740/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2022-08-10T20:47:40Z",
+        "uri": "https://web.archive.org/web/20220810204740/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2022-09-23T23:17:54Z",
+        "uri": "https://web.archive.org/web/20220923231754/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2022-10-19T03:35:44Z",
+        "uri": "https://web.archive.org/web/20221019033544/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2022-11-03T06:25:08Z",
+        "uri": "https://web.archive.org/web/20221103062508/https://youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2022-11-03T06:28:24Z",
+        "uri": "https://web.archive.org/web/20221103062824/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2022-11-18T18:41:34Z",
+        "uri": "https://web.archive.org/web/20221118184134/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2022-11-22T11:12:53Z",
+        "uri": "https://web.archive.org/web/20221122111253/https://youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2022-11-22T11:18:30Z",
+        "uri": "https://web.archive.org/web/20221122111830/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2023-01-14T04:35:48Z",
+        "uri": "https://web.archive.org/web/20230114043548/https://youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2023-01-14T04:41:06Z",
+        "uri": "https://web.archive.org/web/20230114044106/https://youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2023-01-15T04:52:02Z",
+        "uri": "https://web.archive.org/web/20230115045202/https://youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2023-01-17T07:11:35Z",
+        "uri": "https://web.archive.org/web/20230117071135/https://youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2023-01-21T00:54:51Z",
+        "uri": "https://web.archive.org/web/20230121005451/https://youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2023-01-23T10:59:59Z",
+        "uri": "https://web.archive.org/web/20230123105959/https://youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2023-01-25T23:11:29Z",
+        "uri": "https://web.archive.org/web/20230125231129/https://youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2023-01-26T00:26:52Z",
+        "uri": "https://web.archive.org/web/20230126002652/https://youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2023-01-28T16:24:16Z",
+        "uri": "https://web.archive.org/web/20230128162416/https://youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2023-01-28T16:29:45Z",
+        "uri": "https://web.archive.org/web/20230128162945/https://youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2023-01-30T08:27:38Z",
+        "uri": "https://web.archive.org/web/20230130082738/https://youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2023-02-01T15:39:33Z",
+        "uri": "https://web.archive.org/web/20230201153933/https://youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2023-02-20T00:41:42Z",
+        "uri": "https://web.archive.org/web/20230220004142/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2023-03-19T19:40:14Z",
+        "uri": "https://wayback.archive-it.org/all/20230319194014/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2023-03-19T19:40:14Z",
+        "uri": "https://web.archive.org/web/20230319194014/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2023-03-27T16:12:29Z",
+        "uri": "https://web.archive.org/web/20230327161229/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2023-03-27T22:31:51Z",
+        "uri": "https://web.archive.org/web/20230327223151/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2023-06-01T19:23:29Z",
+        "uri": "https://web.archive.org/web/20230601192329/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2023-08-28T23:43:33Z",
+        "uri": "https://wayback.archive-it.org/all/20230828234333/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2023-08-28T23:43:33Z",
+        "uri": "https://web.archive.org/web/20230828234333/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2024-01-17T00:36:04Z",
+        "uri": "https://web.archive.org/web/20240117003604/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2024-01-24T05:15:35Z",
+        "uri": "https://web.archive.org/web/20240124051535/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2024-03-05T18:23:03Z",
+        "uri": "https://web.archive.org/web/20240305182303/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2024-04-27T16:09:43Z",
+        "uri": "https://web.archive.org/web/20240427160943/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2024-05-29T17:41:49Z",
+        "uri": "https://web.archive.org/web/20240529174149/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2024-09-26T19:27:44Z",
+        "uri": "https://web.archive.org/web/20240926192744/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2024-10-07T12:38:51Z",
+        "uri": "https://web.archive.org/web/20241007123851/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2024-12-26T10:23:16Z",
+        "uri": "https://web.archive.org/web/20241226102316/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2024-12-26T14:00:49Z",
+        "uri": "https://web.archive.org/web/20241226140049/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      },
+      {
+        "datetime": "2025-02-14T10:00:10Z",
+        "uri": "https://web.archive.org/web/20250214100010/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+      }
+    ],
+    "first": {
+      "datetime": "2016-05-24T17:53:51Z",
+      "uri": "https://web.archive.org/web/20160524175351/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+    },
+    "last": {
+      "datetime": "2025-02-14T10:00:10Z",
+      "uri": "https://web.archive.org/web/20250214100010/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A",
+    "json_format": "http://localhost:1208/timemap/json/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A"
+}

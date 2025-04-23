@@ -1,0 +1,42 @@
+{
+  "original_uri": "https://online.odu.edu/admissions/military-admissions",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/admissions/military-admissions",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-04-23T05:30:03Z",
+        "uri": "https://web.archive.org/web/20240423053003/https://online.odu.edu/admissions/military-admissions"
+      },
+      {
+        "datetime": "2024-07-09T05:27:46Z",
+        "uri": "https://web.archive.org/web/20240709052746/https://online.odu.edu/admissions/military-admissions"
+      },
+      {
+        "datetime": "2024-09-20T18:28:46Z",
+        "uri": "https://web.archive.org/web/20240920182846/https://online.odu.edu/admissions/military-admissions"
+      },
+      {
+        "datetime": "2024-11-05T14:10:42Z",
+        "uri": "https://web.archive.org/web/20241105141042/https://online.odu.edu/admissions/military-admissions"
+      },
+      {
+        "datetime": "2025-01-19T13:02:43Z",
+        "uri": "https://web.archive.org/web/20250119130243/https://online.odu.edu/admissions/military-admissions"
+      }
+    ],
+    "first": {
+      "datetime": "2024-04-23T05:30:03Z",
+      "uri": "https://web.archive.org/web/20240423053003/https://online.odu.edu/admissions/military-admissions"
+    },
+    "last": {
+      "datetime": "2025-01-19T13:02:43Z",
+      "uri": "https://web.archive.org/web/20250119130243/https://online.odu.edu/admissions/military-admissions"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/admissions/military-admissions",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/admissions/military-admissions",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/admissions/military-admissions"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/admissions/military-admissions"
+}

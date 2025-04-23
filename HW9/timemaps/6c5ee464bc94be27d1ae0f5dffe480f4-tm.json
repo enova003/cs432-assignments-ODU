@@ -1,0 +1,474 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/musc/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/musc/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:26:48Z",
+        "uri": "https://web.archive.org/web/20120902042648/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2013-05-17T08:07:25Z",
+        "uri": "https://web.archive.org/web/20130517080725/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2014-04-22T11:53:44Z",
+        "uri": "https://web.archive.org/web/20140422115344/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2014-06-22T04:21:58Z",
+        "uri": "https://web.archive.org/web/20140622042158/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2014-06-28T06:53:41Z",
+        "uri": "https://web.archive.org/web/20140628065341/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2014-06-28T06:53:41Z",
+        "uri": "https://web.archive.org/web/20140628065341/http://catalog.odu.edu:80/courses/musc"
+      },
+      {
+        "datetime": "2014-07-29T03:26:44Z",
+        "uri": "https://web.archive.org/web/20140729032644/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2014-07-29T03:26:44Z",
+        "uri": "https://web.archive.org/web/20140729032644/http://catalog.odu.edu:80/courses/musc"
+      },
+      {
+        "datetime": "2014-08-22T05:39:43Z",
+        "uri": "https://web.archive.org/web/20140822053943/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2014-08-29T03:34:46Z",
+        "uri": "https://web.archive.org/web/20140829033446/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2014-08-29T03:34:46Z",
+        "uri": "https://web.archive.org/web/20140829033446/http://catalog.odu.edu:80/courses/musc"
+      },
+      {
+        "datetime": "2014-09-28T18:40:20Z",
+        "uri": "https://web.archive.org/web/20140928184020/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2014-09-28T18:40:20Z",
+        "uri": "https://web.archive.org/web/20140928184020/http://catalog.odu.edu:80/courses/musc"
+      },
+      {
+        "datetime": "2014-10-21T20:59:30Z",
+        "uri": "https://web.archive.org/web/20141021205930/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2014-11-25T02:28:21Z",
+        "uri": "https://web.archive.org/web/20141125022821/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2014-11-25T02:28:21Z",
+        "uri": "https://web.archive.org/web/20141125022821/http://catalog.odu.edu:80/courses/musc"
+      },
+      {
+        "datetime": "2014-12-21T05:22:25Z",
+        "uri": "https://web.archive.org/web/20141221052225/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2014-12-26T17:25:59Z",
+        "uri": "https://web.archive.org/web/20141226172559/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2014-12-26T17:25:59Z",
+        "uri": "https://web.archive.org/web/20141226172559/http://catalog.odu.edu:80/courses/musc"
+      },
+      {
+        "datetime": "2015-02-15T16:05:13Z",
+        "uri": "https://web.archive.org/web/20150215160513/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2015-04-17T03:15:34Z",
+        "uri": "https://web.archive.org/web/20150417031534/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2015-05-11T07:45:23Z",
+        "uri": "https://web.archive.org/web/20150511074523/http://catalog.odu.edu/courses/musc/"
+      },
+      {
+        "datetime": "2015-06-16T14:53:51Z",
+        "uri": "https://web.archive.org/web/20150616145351/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2015-07-03T07:10:43Z",
+        "uri": "https://web.archive.org/web/20150703071043/http://catalog.odu.edu/courses/musc/"
+      },
+      {
+        "datetime": "2015-08-16T00:56:28Z",
+        "uri": "https://web.archive.org/web/20150816005628/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2015-10-15T07:22:01Z",
+        "uri": "https://web.archive.org/web/20151015072201/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2015-11-23T11:50:43Z",
+        "uri": "https://web.archive.org/web/20151123115043/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2015-11-23T11:50:43Z",
+        "uri": "https://web.archive.org/web/20151123115043/http://catalog.odu.edu:80/courses/musc"
+      },
+      {
+        "datetime": "2015-12-14T15:24:43Z",
+        "uri": "https://web.archive.org/web/20151214152443/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2015-12-24T13:34:31Z",
+        "uri": "https://web.archive.org/web/20151224133431/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2015-12-24T13:34:31Z",
+        "uri": "https://web.archive.org/web/20151224133431/http://catalog.odu.edu:80/courses/musc"
+      },
+      {
+        "datetime": "2016-01-24T05:30:59Z",
+        "uri": "https://web.archive.org/web/20160124053059/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2016-01-24T05:30:59Z",
+        "uri": "https://web.archive.org/web/20160124053059/http://catalog.odu.edu:80/courses/musc"
+      },
+      {
+        "datetime": "2016-02-13T07:52:29Z",
+        "uri": "https://web.archive.org/web/20160213075229/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2016-02-23T22:39:36Z",
+        "uri": "https://web.archive.org/web/20160223223936/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2016-02-23T22:39:36Z",
+        "uri": "https://web.archive.org/web/20160223223936/http://catalog.odu.edu:80/courses/musc"
+      },
+      {
+        "datetime": "2016-03-25T16:48:08Z",
+        "uri": "https://web.archive.org/web/20160325164808/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2016-03-25T16:48:08Z",
+        "uri": "https://web.archive.org/web/20160325164808/http://catalog.odu.edu:80/courses/musc"
+      },
+      {
+        "datetime": "2016-04-09T05:04:28Z",
+        "uri": "https://web.archive.org/web/20160409050428/http://catalog.odu.edu/courses/musc/"
+      },
+      {
+        "datetime": "2016-04-13T17:59:07Z",
+        "uri": "https://web.archive.org/web/20160413175907/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2016-04-25T19:09:03Z",
+        "uri": "https://web.archive.org/web/20160425190903/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2016-04-25T19:09:03Z",
+        "uri": "https://web.archive.org/web/20160425190903/http://catalog.odu.edu:80/courses/musc"
+      },
+      {
+        "datetime": "2016-05-26T13:04:59Z",
+        "uri": "https://web.archive.org/web/20160526130459/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2016-05-26T13:04:59Z",
+        "uri": "https://web.archive.org/web/20160526130459/http://catalog.odu.edu:80/courses/musc"
+      },
+      {
+        "datetime": "2016-06-13T11:00:24Z",
+        "uri": "https://web.archive.org/web/20160613110024/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2016-06-27T04:28:06Z",
+        "uri": "https://web.archive.org/web/20160627042806/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2016-06-27T04:28:06Z",
+        "uri": "https://web.archive.org/web/20160627042806/http://catalog.odu.edu:80/courses/musc"
+      },
+      {
+        "datetime": "2016-07-28T10:32:05Z",
+        "uri": "https://web.archive.org/web/20160728103205/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2016-07-28T10:32:05Z",
+        "uri": "https://web.archive.org/web/20160728103205/http://catalog.odu.edu:80/courses/musc"
+      },
+      {
+        "datetime": "2016-07-29T13:42:12Z",
+        "uri": "https://web.archive.org/web/20160729134212/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2016-07-29T13:42:12Z",
+        "uri": "https://web.archive.org/web/20160729134212/http://catalog.odu.edu:80/courses/musc"
+      },
+      {
+        "datetime": "2016-08-13T03:32:16Z",
+        "uri": "https://web.archive.org/web/20160813033216/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2016-08-29T08:16:21Z",
+        "uri": "https://web.archive.org/web/20160829081621/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2016-08-29T08:16:21Z",
+        "uri": "https://web.archive.org/web/20160829081621/http://catalog.odu.edu:80/courses/musc"
+      },
+      {
+        "datetime": "2016-09-29T04:02:02Z",
+        "uri": "https://web.archive.org/web/20160929040202/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2016-09-29T04:02:02Z",
+        "uri": "https://web.archive.org/web/20160929040202/http://catalog.odu.edu:80/courses/musc"
+      },
+      {
+        "datetime": "2016-10-30T16:42:50Z",
+        "uri": "https://web.archive.org/web/20161030164250/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2016-10-30T16:42:50Z",
+        "uri": "https://web.archive.org/web/20161030164250/http://catalog.odu.edu:80/courses/musc"
+      },
+      {
+        "datetime": "2016-12-05T04:59:42Z",
+        "uri": "https://web.archive.org/web/20161205045942/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2017-04-27T05:21:41Z",
+        "uri": "https://web.archive.org/web/20170427052141/http://catalog.odu.edu/courses/musc/"
+      },
+      {
+        "datetime": "2017-07-09T01:41:03Z",
+        "uri": "https://web.archive.org/web/20170709014103/http://catalog.odu.edu/courses/musc/"
+      },
+      {
+        "datetime": "2017-08-03T05:10:41Z",
+        "uri": "https://web.archive.org/web/20170803051041/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2017-08-07T16:23:13Z",
+        "uri": "https://web.archive.org/web/20170807162313/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2017-08-07T16:23:13Z",
+        "uri": "https://web.archive.org/web/20170807162313/http://catalog.odu.edu:80/courses/musc"
+      },
+      {
+        "datetime": "2017-09-07T14:14:42Z",
+        "uri": "https://web.archive.org/web/20170907141442/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2017-09-07T14:14:42Z",
+        "uri": "https://web.archive.org/web/20170907141442/http://catalog.odu.edu:80/courses/musc"
+      },
+      {
+        "datetime": "2017-10-03T14:37:03Z",
+        "uri": "https://web.archive.org/web/20171003143703/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2017-12-03T18:11:15Z",
+        "uri": "https://web.archive.org/web/20171203181115/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2018-01-01T02:55:17Z",
+        "uri": "https://web.archive.org/web/20180101025517/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2018-01-01T02:55:17Z",
+        "uri": "https://web.archive.org/web/20180101025517/http://catalog.odu.edu:80/courses/musc"
+      },
+      {
+        "datetime": "2018-01-31T14:25:11Z",
+        "uri": "https://web.archive.org/web/20180131142511/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2018-01-31T14:25:11Z",
+        "uri": "https://web.archive.org/web/20180131142511/http://catalog.odu.edu:80/courses/musc"
+      },
+      {
+        "datetime": "2018-02-02T12:47:58Z",
+        "uri": "https://web.archive.org/web/20180202124758/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2018-03-03T18:55:48Z",
+        "uri": "https://web.archive.org/web/20180303185548/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2018-03-03T18:55:48Z",
+        "uri": "https://web.archive.org/web/20180303185548/http://catalog.odu.edu:80/courses/musc"
+      },
+      {
+        "datetime": "2018-04-04T06:01:36Z",
+        "uri": "https://web.archive.org/web/20180404060136/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2018-06-04T12:14:16Z",
+        "uri": "https://web.archive.org/web/20180604121416/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2018-08-04T19:19:49Z",
+        "uri": "https://web.archive.org/web/20180804191949/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2018-10-04T14:00:24Z",
+        "uri": "https://web.archive.org/web/20181004140024/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2018-10-06T00:36:19Z",
+        "uri": "https://web.archive.org/web/20181006003619/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2018-12-05T19:33:06Z",
+        "uri": "https://web.archive.org/web/20181205193306/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2019-02-04T11:42:02Z",
+        "uri": "https://web.archive.org/web/20190204114202/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2019-04-06T14:41:42Z",
+        "uri": "https://web.archive.org/web/20190406144142/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2019-04-20T22:22:52Z",
+        "uri": "https://web.archive.org/web/20190420222252/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2019-04-20T22:22:52Z",
+        "uri": "https://web.archive.org/web/20190420222252/http://catalog.odu.edu:80/courses/musc"
+      },
+      {
+        "datetime": "2019-05-22T22:15:03Z",
+        "uri": "https://web.archive.org/web/20190522221503/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2019-05-22T22:15:03Z",
+        "uri": "https://web.archive.org/web/20190522221503/http://catalog.odu.edu:80/courses/musc"
+      },
+      {
+        "datetime": "2019-06-15T09:41:50Z",
+        "uri": "https://web.archive.org/web/20190615094150/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2019-06-22T23:30:41Z",
+        "uri": "https://web.archive.org/web/20190622233041/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2019-06-22T23:30:41Z",
+        "uri": "https://web.archive.org/web/20190622233041/http://catalog.odu.edu:80/courses/musc"
+      },
+      {
+        "datetime": "2019-07-23T17:13:27Z",
+        "uri": "https://web.archive.org/web/20190723171327/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2019-07-23T17:13:27Z",
+        "uri": "https://web.archive.org/web/20190723171327/http://catalog.odu.edu:80/courses/musc"
+      },
+      {
+        "datetime": "2019-08-15T18:25:03Z",
+        "uri": "https://web.archive.org/web/20190815182503/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2019-08-23T16:03:20Z",
+        "uri": "https://web.archive.org/web/20190823160320/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2019-08-23T16:03:20Z",
+        "uri": "https://web.archive.org/web/20190823160320/http://catalog.odu.edu:80/courses/musc"
+      },
+      {
+        "datetime": "2019-09-23T10:43:31Z",
+        "uri": "https://web.archive.org/web/20190923104331/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2019-09-23T10:43:31Z",
+        "uri": "https://web.archive.org/web/20190923104331/http://catalog.odu.edu:80/courses/musc"
+      },
+      {
+        "datetime": "2019-10-09T05:28:24Z",
+        "uri": "https://web.archive.org/web/20191009052824/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2019-10-21T20:21:04Z",
+        "uri": "https://web.archive.org/web/20191021202104/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2019-11-21T02:02:55Z",
+        "uri": "https://web.archive.org/web/20191121020255/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2019-12-21T07:47:58Z",
+        "uri": "https://web.archive.org/web/20191221074758/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2020-01-20T12:10:55Z",
+        "uri": "https://web.archive.org/web/20200120121055/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2020-02-19T18:02:43Z",
+        "uri": "https://web.archive.org/web/20200219180243/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2020-03-02T06:14:23Z",
+        "uri": "https://web.archive.org/web/20200302061423/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2020-05-01T08:53:02Z",
+        "uri": "https://web.archive.org/web/20200501085302/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2020-06-30T15:11:40Z",
+        "uri": "https://web.archive.org/web/20200630151140/http://catalog.odu.edu:80/courses/musc/"
+      },
+      {
+        "datetime": "2021-01-24T09:48:24Z",
+        "uri": "https://web.archive.org/web/20210124094824/https://catalog.odu.edu/courses/musc/"
+      },
+      {
+        "datetime": "2021-04-12T20:21:44Z",
+        "uri": "https://web.archive.org/web/20210412202144/http://catalog.odu.edu/courses/musc/"
+      },
+      {
+        "datetime": "2021-09-15T05:21:02Z",
+        "uri": "https://arquivo.pt/wayback/20210915052102mp_/https://catalog.odu.edu/courses/musc/"
+      },
+      {
+        "datetime": "2021-11-18T16:09:48Z",
+        "uri": "https://web.archive.org/web/20211118160948/https://catalog.odu.edu/courses/musc/"
+      },
+      {
+        "datetime": "2022-03-19T20:17:29Z",
+        "uri": "https://web.archive.org/web/20220319201729/https://catalog.odu.edu/courses/musc/"
+      },
+      {
+        "datetime": "2024-02-29T16:09:45Z",
+        "uri": "https://web.archive.org/web/20240229160945/https://catalog.odu.edu/courses/musc/"
+      },
+      {
+        "datetime": "2024-11-11T22:49:43Z",
+        "uri": "https://web.archive.org/web/20241111224943/https://catalog.odu.edu/courses/musc/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:26:48Z",
+      "uri": "https://web.archive.org/web/20120902042648/http://catalog.odu.edu:80/courses/musc/"
+    },
+    "last": {
+      "datetime": "2024-11-11T22:49:43Z",
+      "uri": "https://web.archive.org/web/20241111224943/https://catalog.odu.edu/courses/musc/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/musc/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/musc/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/musc/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/musc/"
+}

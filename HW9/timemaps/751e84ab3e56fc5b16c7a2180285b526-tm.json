@@ -1,0 +1,82 @@
+{
+  "original_uri": "https://catalog.odu.edu/azindex/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/azindex/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2016-06-09T23:45:43Z",
+        "uri": "https://web.archive.org/web/20160609234543/http://catalog.odu.edu:80/azindex/"
+      },
+      {
+        "datetime": "2016-08-10T05:35:46Z",
+        "uri": "https://web.archive.org/web/20160810053546/http://catalog.odu.edu:80/azindex/"
+      },
+      {
+        "datetime": "2016-10-10T02:27:45Z",
+        "uri": "https://web.archive.org/web/20161010022745/http://catalog.odu.edu:80/azindex/"
+      },
+      {
+        "datetime": "2016-12-05T09:11:43Z",
+        "uri": "https://web.archive.org/web/20161205091143/http://catalog.odu.edu:80/azindex/"
+      },
+      {
+        "datetime": "2017-04-08T18:14:09Z",
+        "uri": "https://web.archive.org/web/20170408181409/http://catalog.odu.edu:80/azindex/"
+      },
+      {
+        "datetime": "2017-04-27T03:53:39Z",
+        "uri": "https://web.archive.org/web/20170427035339/http://catalog.odu.edu/azindex/"
+      },
+      {
+        "datetime": "2017-06-08T07:04:19Z",
+        "uri": "https://web.archive.org/web/20170608070419/http://catalog.odu.edu:80/azindex/"
+      },
+      {
+        "datetime": "2017-08-08T13:38:54Z",
+        "uri": "https://web.archive.org/web/20170808133854/http://catalog.odu.edu:80/azindex/"
+      },
+      {
+        "datetime": "2017-10-08T21:07:03Z",
+        "uri": "https://web.archive.org/web/20171008210703/http://catalog.odu.edu:80/azindex/"
+      },
+      {
+        "datetime": "2021-04-12T20:42:13Z",
+        "uri": "https://web.archive.org/web/20210412204213/http://catalog.odu.edu/azindex/"
+      },
+      {
+        "datetime": "2021-11-21T13:22:51Z",
+        "uri": "https://web.archive.org/web/20211121132251/https://catalog.odu.edu/azindex/"
+      },
+      {
+        "datetime": "2022-03-19T20:20:31Z",
+        "uri": "https://web.archive.org/web/20220319202031/https://catalog.odu.edu/azindex/"
+      },
+      {
+        "datetime": "2023-12-17T01:36:37Z",
+        "uri": "https://web.archive.org/web/20231217013637/https://catalog.odu.edu/azindex/"
+      },
+      {
+        "datetime": "2024-02-28T21:40:54Z",
+        "uri": "https://web.archive.org/web/20240228214054/https://catalog.odu.edu/azindex/"
+      },
+      {
+        "datetime": "2024-02-29T00:41:51Z",
+        "uri": "https://web.archive.org/web/20240229004151/https://catalog.odu.edu/azindex/"
+      }
+    ],
+    "first": {
+      "datetime": "2016-06-09T23:45:43Z",
+      "uri": "https://web.archive.org/web/20160609234543/http://catalog.odu.edu:80/azindex/"
+    },
+    "last": {
+      "datetime": "2024-02-29T00:41:51Z",
+      "uri": "https://web.archive.org/web/20240229004151/https://catalog.odu.edu/azindex/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/azindex/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/azindex/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/azindex/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/azindex/"
+}

@@ -1,0 +1,50 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/arts-letters/sociology-criminal-justice/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/arts-letters/sociology-criminal-justice/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T01:39:13Z",
+        "uri": "https://web.archive.org/web/20230927013913/https://catalog.odu.edu/graduate/arts-letters/sociology-criminal-justice/"
+      },
+      {
+        "datetime": "2023-10-03T12:08:02Z",
+        "uri": "https://web.archive.org/web/20231003120802/https://catalog.odu.edu/graduate/arts-letters/sociology-criminal-justice/"
+      },
+      {
+        "datetime": "2023-12-09T23:04:01Z",
+        "uri": "https://web.archive.org/web/20231209230401/https://catalog.odu.edu/graduate/arts-letters/sociology-criminal-justice/"
+      },
+      {
+        "datetime": "2023-12-10T22:41:28Z",
+        "uri": "https://web.archive.org/web/20231210224128/http://catalog.odu.edu/graduate/arts-letters/sociology-criminal-justice/"
+      },
+      {
+        "datetime": "2024-01-11T18:14:14Z",
+        "uri": "https://web.archive.org/web/20240111181414/https://catalog.odu.edu/graduate/arts-letters/sociology-criminal-justice/"
+      },
+      {
+        "datetime": "2024-02-29T00:41:57Z",
+        "uri": "https://web.archive.org/web/20240229004157/https://catalog.odu.edu/graduate/arts-letters/sociology-criminal-justice/"
+      },
+      {
+        "datetime": "2024-03-04T04:49:41Z",
+        "uri": "https://web.archive.org/web/20240304044941/https://catalog.odu.edu/graduate/arts-letters/sociology-criminal-justice/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T01:39:13Z",
+      "uri": "https://web.archive.org/web/20230927013913/https://catalog.odu.edu/graduate/arts-letters/sociology-criminal-justice/"
+    },
+    "last": {
+      "datetime": "2024-03-04T04:49:41Z",
+      "uri": "https://web.archive.org/web/20240304044941/https://catalog.odu.edu/graduate/arts-letters/sociology-criminal-justice/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/arts-letters/sociology-criminal-justice/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/arts-letters/sociology-criminal-justice/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/arts-letters/sociology-criminal-justice/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/arts-letters/sociology-criminal-justice/"
+}

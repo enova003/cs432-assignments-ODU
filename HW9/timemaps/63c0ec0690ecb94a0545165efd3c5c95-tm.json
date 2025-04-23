@@ -1,0 +1,62 @@
+{
+  "original_uri": "https://online.odu.edu/online-experience/coursework-and-exams",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/online-experience/coursework-and-exams",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-24T16:55:53Z",
+        "uri": "https://web.archive.org/web/20230924165553/https://online.odu.edu/online-experience/coursework-and-exams"
+      },
+      {
+        "datetime": "2023-10-02T20:53:19Z",
+        "uri": "https://web.archive.org/web/20231002205319/https://online.odu.edu/online-experience/coursework-and-exams"
+      },
+      {
+        "datetime": "2023-12-02T15:32:13Z",
+        "uri": "https://web.archive.org/web/20231202153213/https://online.odu.edu/online-experience/coursework-and-exams"
+      },
+      {
+        "datetime": "2024-04-23T04:31:04Z",
+        "uri": "https://web.archive.org/web/20240423043104/https://online.odu.edu/online-experience/coursework-and-exams"
+      },
+      {
+        "datetime": "2024-07-10T00:23:08Z",
+        "uri": "https://web.archive.org/web/20240710002308/https://online.odu.edu/online-experience/coursework-and-exams"
+      },
+      {
+        "datetime": "2024-07-21T22:14:50Z",
+        "uri": "https://web.archive.org/web/20240721221450/https://online.odu.edu/online-experience/coursework-and-exams"
+      },
+      {
+        "datetime": "2024-09-20T16:51:33Z",
+        "uri": "https://web.archive.org/web/20240920165133/https://online.odu.edu/online-experience/coursework-and-exams"
+      },
+      {
+        "datetime": "2024-11-05T12:50:28Z",
+        "uri": "https://web.archive.org/web/20241105125028/https://online.odu.edu/online-experience/coursework-and-exams"
+      },
+      {
+        "datetime": "2024-12-14T23:08:29Z",
+        "uri": "https://web.archive.org/web/20241214230829/https://online.odu.edu/online-experience/coursework-and-exams"
+      },
+      {
+        "datetime": "2025-01-19T13:02:32Z",
+        "uri": "https://web.archive.org/web/20250119130232/https://online.odu.edu/online-experience/coursework-and-exams"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-24T16:55:53Z",
+      "uri": "https://web.archive.org/web/20230924165553/https://online.odu.edu/online-experience/coursework-and-exams"
+    },
+    "last": {
+      "datetime": "2025-01-19T13:02:32Z",
+      "uri": "https://web.archive.org/web/20250119130232/https://online.odu.edu/online-experience/coursework-and-exams"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/online-experience/coursework-and-exams",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/online-experience/coursework-and-exams",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/online-experience/coursework-and-exams"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/online-experience/coursework-and-exams"
+}

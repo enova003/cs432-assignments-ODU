@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/engineering-technology/mechanical-aerospace-engineering/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/engineering-technology/mechanical-aerospace-engineering/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T00:47:36Z",
+        "uri": "https://web.archive.org/web/20230927004736/https://catalog.odu.edu/undergraduate/engineering-technology/mechanical-aerospace-engineering/"
+      },
+      {
+        "datetime": "2023-09-28T21:17:15Z",
+        "uri": "https://web.archive.org/web/20230928211715/https://catalog.odu.edu/undergraduate/engineering-technology/mechanical-aerospace-engineering/"
+      },
+      {
+        "datetime": "2023-12-20T22:59:21Z",
+        "uri": "https://web.archive.org/web/20231220225921/https://catalog.odu.edu/undergraduate/engineering-technology/mechanical-aerospace-engineering/"
+      },
+      {
+        "datetime": "2024-03-04T03:49:52Z",
+        "uri": "https://web.archive.org/web/20240304034952/https://catalog.odu.edu/undergraduate/engineering-technology/mechanical-aerospace-engineering/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T00:47:36Z",
+      "uri": "https://web.archive.org/web/20230927004736/https://catalog.odu.edu/undergraduate/engineering-technology/mechanical-aerospace-engineering/"
+    },
+    "last": {
+      "datetime": "2024-03-04T03:49:52Z",
+      "uri": "https://web.archive.org/web/20240304034952/https://catalog.odu.edu/undergraduate/engineering-technology/mechanical-aerospace-engineering/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/engineering-technology/mechanical-aerospace-engineering/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/engineering-technology/mechanical-aerospace-engineering/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/engineering-technology/mechanical-aerospace-engineering/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/engineering-technology/mechanical-aerospace-engineering/"
+}

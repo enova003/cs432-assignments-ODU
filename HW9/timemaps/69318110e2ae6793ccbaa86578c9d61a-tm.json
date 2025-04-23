@@ -1,0 +1,50 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/business/accounting/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/business/accounting/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T00:43:24Z",
+        "uri": "https://web.archive.org/web/20230927004324/https://catalog.odu.edu/undergraduate/business/accounting/"
+      },
+      {
+        "datetime": "2023-10-03T11:13:49Z",
+        "uri": "https://web.archive.org/web/20231003111349/https://catalog.odu.edu/undergraduate/business/accounting/"
+      },
+      {
+        "datetime": "2023-12-09T23:03:21Z",
+        "uri": "https://web.archive.org/web/20231209230321/https://catalog.odu.edu/undergraduate/business/accounting/"
+      },
+      {
+        "datetime": "2023-12-09T23:03:41Z",
+        "uri": "https://web.archive.org/web/20231209230341/http://catalog.odu.edu/undergraduate/business/accounting/"
+      },
+      {
+        "datetime": "2024-02-29T16:10:01Z",
+        "uri": "https://web.archive.org/web/20240229161001/https://catalog.odu.edu/undergraduate/business/accounting/"
+      },
+      {
+        "datetime": "2024-04-17T21:01:53Z",
+        "uri": "https://web.archive.org/web/20240417210153/https://catalog.odu.edu/undergraduate/business/accounting/"
+      },
+      {
+        "datetime": "2024-08-13T20:47:27Z",
+        "uri": "https://web.archive.org/web/20240813204727/https://catalog.odu.edu/undergraduate/business/accounting/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T00:43:24Z",
+      "uri": "https://web.archive.org/web/20230927004324/https://catalog.odu.edu/undergraduate/business/accounting/"
+    },
+    "last": {
+      "datetime": "2024-08-13T20:47:27Z",
+      "uri": "https://web.archive.org/web/20240813204727/https://catalog.odu.edu/undergraduate/business/accounting/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/business/accounting/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/business/accounting/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/business/accounting/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/business/accounting/"
+}

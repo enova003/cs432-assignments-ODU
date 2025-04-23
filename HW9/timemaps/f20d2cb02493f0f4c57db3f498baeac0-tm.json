@@ -1,0 +1,190 @@
+{
+  "original_uri": "https://online.odu.edu/online-experience",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/online-experience",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2015-09-24T07:16:27Z",
+        "uri": "https://web.archive.org/web/20150924071627/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2016-02-01T15:51:34Z",
+        "uri": "https://web.archive.org/web/20160201155134/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2016-04-17T09:45:04Z",
+        "uri": "https://web.archive.org/web/20160417094504/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2016-08-17T02:09:50Z",
+        "uri": "https://web.archive.org/web/20160817020950/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2016-10-18T17:40:42Z",
+        "uri": "https://web.archive.org/web/20161018174042/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2017-01-18T23:40:30Z",
+        "uri": "https://web.archive.org/web/20170118234030/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2017-03-09T13:26:02Z",
+        "uri": "https://web.archive.org/web/20170309132602/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2017-07-06T14:55:55Z",
+        "uri": "https://web.archive.org/web/20170706145555/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2020-04-27T11:41:37Z",
+        "uri": "https://web.archive.org/web/20200427114137/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2020-05-30T00:52:15Z",
+        "uri": "https://web.archive.org/web/20200530005215/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2020-09-25T23:28:26Z",
+        "uri": "https://web.archive.org/web/20200925232826/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2020-11-25T11:12:57Z",
+        "uri": "https://web.archive.org/web/20201125111257/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2021-03-03T11:54:20Z",
+        "uri": "https://web.archive.org/web/20210303115420/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2021-04-13T19:25:13Z",
+        "uri": "https://web.archive.org/web/20210413192513/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2021-04-18T19:29:55Z",
+        "uri": "https://web.archive.org/web/20210418192955/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2021-05-07T19:27:27Z",
+        "uri": "https://web.archive.org/web/20210507192727/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2021-07-30T23:08:59Z",
+        "uri": "https://web.archive.org/web/20210730230859/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2021-09-24T15:04:30Z",
+        "uri": "https://web.archive.org/web/20210924150430/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2021-10-27T08:17:54Z",
+        "uri": "https://arquivo.pt/wayback/20211027081754mp_/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2021-10-27T08:17:54Z",
+        "uri": "https://web.archive.org/web/20211027081754/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2021-12-09T09:23:47Z",
+        "uri": "https://web.archive.org/web/20211209092347/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2021-12-09T09:24:18Z",
+        "uri": "https://web.archive.org/web/20211209092418/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2022-01-20T00:05:55Z",
+        "uri": "https://web.archive.org/web/20220120000555/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2022-01-20T01:53:29Z",
+        "uri": "https://web.archive.org/web/20220120015329/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2022-01-23T05:51:16Z",
+        "uri": "https://web.archive.org/web/20220123055116/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2022-03-19T21:05:31Z",
+        "uri": "https://web.archive.org/web/20220319210531/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2022-05-27T06:05:27Z",
+        "uri": "https://web.archive.org/web/20220527060527/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2022-08-08T17:24:37Z",
+        "uri": "https://web.archive.org/web/20220808172437/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2022-09-24T10:17:30Z",
+        "uri": "https://web.archive.org/web/20220924101730/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2022-10-04T22:53:55Z",
+        "uri": "https://web.archive.org/web/20221004225355/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2023-02-08T23:20:51Z",
+        "uri": "https://web.archive.org/web/20230208232051/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2023-03-20T21:34:26Z",
+        "uri": "https://web.archive.org/web/20230320213426/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2023-07-15T00:31:07Z",
+        "uri": "https://web.archive.org/web/20230715003107/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2023-10-02T21:23:21Z",
+        "uri": "https://web.archive.org/web/20231002212321/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2024-02-25T08:32:24Z",
+        "uri": "https://web.archive.org/web/20240225083224/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2024-05-25T20:22:52Z",
+        "uri": "https://web.archive.org/web/20240525202252/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2024-07-19T13:18:04Z",
+        "uri": "https://web.archive.org/web/20240719131804/http://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2024-08-04T17:28:10Z",
+        "uri": "https://web.archive.org/web/20240804172810/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2024-09-20T17:08:30Z",
+        "uri": "https://web.archive.org/web/20240920170830/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2024-12-14T22:17:42Z",
+        "uri": "https://web.archive.org/web/20241214221742/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2024-12-19T08:38:21Z",
+        "uri": "https://web.archive.org/web/20241219083821/https://online.odu.edu/online-experience"
+      },
+      {
+        "datetime": "2025-01-19T13:02:38Z",
+        "uri": "https://web.archive.org/web/20250119130238/https://online.odu.edu/online-experience"
+      }
+    ],
+    "first": {
+      "datetime": "2015-09-24T07:16:27Z",
+      "uri": "https://web.archive.org/web/20150924071627/https://online.odu.edu/online-experience"
+    },
+    "last": {
+      "datetime": "2025-01-19T13:02:38Z",
+      "uri": "https://web.archive.org/web/20250119130238/https://online.odu.edu/online-experience"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/online-experience",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/online-experience",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/online-experience"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/online-experience"
+}

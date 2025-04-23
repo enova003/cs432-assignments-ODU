@@ -1,0 +1,130 @@
+{
+  "original_uri": "https://online.odu.edu/cost/undergraduate-cost",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/cost/undergraduate-cost",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-04-27T12:35:28Z",
+        "uri": "https://web.archive.org/web/20200427123528/https://online.odu.edu/cost/undergraduate-cost"
+      },
+      {
+        "datetime": "2020-05-31T04:47:42Z",
+        "uri": "https://web.archive.org/web/20200531044742/https://online.odu.edu/cost/undergraduate-cost"
+      },
+      {
+        "datetime": "2020-06-18T17:20:33Z",
+        "uri": "https://web.archive.org/web/20200618172033/https://online.odu.edu/cost/undergraduate-cost"
+      },
+      {
+        "datetime": "2020-09-25T22:55:50Z",
+        "uri": "https://web.archive.org/web/20200925225550/https://online.odu.edu/cost/undergraduate-cost"
+      },
+      {
+        "datetime": "2020-11-25T10:56:12Z",
+        "uri": "https://web.archive.org/web/20201125105612/https://online.odu.edu/cost/undergraduate-cost"
+      },
+      {
+        "datetime": "2021-01-17T00:00:58Z",
+        "uri": "https://web.archive.org/web/20210117000058/https://online.odu.edu/cost/undergraduate-cost"
+      },
+      {
+        "datetime": "2021-04-13T19:28:27Z",
+        "uri": "https://web.archive.org/web/20210413192827/https://online.odu.edu/cost/undergraduate-cost"
+      },
+      {
+        "datetime": "2021-04-23T04:53:42Z",
+        "uri": "https://web.archive.org/web/20210423045342/https://online.odu.edu/cost/undergraduate-cost"
+      },
+      {
+        "datetime": "2021-06-15T18:34:21Z",
+        "uri": "https://web.archive.org/web/20210615183421/https://online.odu.edu/cost/undergraduate-cost"
+      },
+      {
+        "datetime": "2021-06-15T18:34:21Z",
+        "uri": "https://web.archive.org/web/20210615183421/https://online.odu.edu/cost/undergraduate-cost"
+      },
+      {
+        "datetime": "2021-09-24T14:37:19Z",
+        "uri": "https://web.archive.org/web/20210924143719/https://online.odu.edu/cost/undergraduate-cost"
+      },
+      {
+        "datetime": "2021-12-09T00:38:38Z",
+        "uri": "https://web.archive.org/web/20211209003838/https://online.odu.edu/cost/undergraduate-cost"
+      },
+      {
+        "datetime": "2021-12-09T09:34:48Z",
+        "uri": "https://web.archive.org/web/20211209093448/https://online.odu.edu/cost/undergraduate-cost"
+      },
+      {
+        "datetime": "2022-05-27T21:33:22Z",
+        "uri": "https://web.archive.org/web/20220527213322/https://online.odu.edu/cost/undergraduate-cost"
+      },
+      {
+        "datetime": "2022-07-22T05:48:57Z",
+        "uri": "https://web.archive.org/web/20220722054857/https://online.odu.edu/cost/undergraduate-cost"
+      },
+      {
+        "datetime": "2022-08-07T15:32:30Z",
+        "uri": "https://web.archive.org/web/20220807153230/https://online.odu.edu/cost/undergraduate-cost"
+      },
+      {
+        "datetime": "2022-08-08T17:24:33Z",
+        "uri": "https://web.archive.org/web/20220808172433/https://online.odu.edu/cost/undergraduate-cost"
+      },
+      {
+        "datetime": "2022-12-02T12:20:41Z",
+        "uri": "https://web.archive.org/web/20221202122041/https://online.odu.edu/cost/undergraduate-cost"
+      },
+      {
+        "datetime": "2023-03-25T10:33:35Z",
+        "uri": "https://web.archive.org/web/20230325103335/https://online.odu.edu/cost/undergraduate-cost"
+      },
+      {
+        "datetime": "2023-09-24T17:09:52Z",
+        "uri": "https://web.archive.org/web/20230924170952/https://online.odu.edu/cost/undergraduate-cost"
+      },
+      {
+        "datetime": "2023-09-24T19:51:03Z",
+        "uri": "https://web.archive.org/web/20230924195103/https://online.odu.edu/cost/undergraduate-cost"
+      },
+      {
+        "datetime": "2024-03-17T22:54:18Z",
+        "uri": "https://web.archive.org/web/20240317225418/https://online.odu.edu/cost/undergraduate-cost"
+      },
+      {
+        "datetime": "2024-03-29T02:11:20Z",
+        "uri": "https://web.archive.org/web/20240329021120/https://online.odu.edu/cost/undergraduate-cost"
+      },
+      {
+        "datetime": "2024-04-23T04:18:26Z",
+        "uri": "https://web.archive.org/web/20240423041826/https://online.odu.edu/cost/undergraduate-cost"
+      },
+      {
+        "datetime": "2024-07-21T22:02:20Z",
+        "uri": "https://web.archive.org/web/20240721220220/https://online.odu.edu/cost/undergraduate-cost"
+      },
+      {
+        "datetime": "2024-11-05T12:34:59Z",
+        "uri": "https://web.archive.org/web/20241105123459/https://online.odu.edu/cost/undergraduate-cost"
+      },
+      {
+        "datetime": "2025-01-19T13:02:25Z",
+        "uri": "https://web.archive.org/web/20250119130225/https://online.odu.edu/cost/undergraduate-cost"
+      }
+    ],
+    "first": {
+      "datetime": "2020-04-27T12:35:28Z",
+      "uri": "https://web.archive.org/web/20200427123528/https://online.odu.edu/cost/undergraduate-cost"
+    },
+    "last": {
+      "datetime": "2025-01-19T13:02:25Z",
+      "uri": "https://web.archive.org/web/20250119130225/https://online.odu.edu/cost/undergraduate-cost"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/cost/undergraduate-cost",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/cost/undergraduate-cost",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/cost/undergraduate-cost"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/cost/undergraduate-cost"
+}

@@ -1,0 +1,98 @@
+{
+  "original_uri": "https://online.odu.edu/online-experience/online-career-services-odu",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/online-experience/online-career-services-odu",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-24T16:38:33Z",
+        "uri": "https://web.archive.org/web/20230924163833/https://online.odu.edu/online-experience/online-career-services-odu"
+      },
+      {
+        "datetime": "2023-10-02T20:51:50Z",
+        "uri": "https://web.archive.org/web/20231002205150/https://online.odu.edu/online-experience/online-career-services-odu"
+      },
+      {
+        "datetime": "2024-02-25T07:52:52Z",
+        "uri": "https://web.archive.org/web/20240225075252/https://online.odu.edu/online-experience/online-career-services-odu"
+      },
+      {
+        "datetime": "2024-03-17T22:40:28Z",
+        "uri": "https://web.archive.org/web/20240317224028/https://online.odu.edu/online-experience/online-career-services-odu"
+      },
+      {
+        "datetime": "2024-03-28T21:17:37Z",
+        "uri": "https://web.archive.org/web/20240328211737/https://online.odu.edu/online-experience/online-career-services-odu"
+      },
+      {
+        "datetime": "2024-04-11T11:31:00Z",
+        "uri": "https://web.archive.org/web/20240411113100/https://online.odu.edu/online-experience/online-career-services-odu"
+      },
+      {
+        "datetime": "2024-05-02T22:29:37Z",
+        "uri": "https://web.archive.org/web/20240502222937/https://online.odu.edu/online-experience/online-career-services-odu"
+      },
+      {
+        "datetime": "2024-05-25T19:47:25Z",
+        "uri": "https://web.archive.org/web/20240525194725/https://online.odu.edu/online-experience/online-career-services-odu"
+      },
+      {
+        "datetime": "2024-06-02T02:14:05Z",
+        "uri": "https://web.archive.org/web/20240602021405/https://online.odu.edu/online-experience/online-career-services-odu"
+      },
+      {
+        "datetime": "2024-07-03T17:10:47Z",
+        "uri": "https://web.archive.org/web/20240703171047/https://online.odu.edu/online-experience/online-career-services-odu"
+      },
+      {
+        "datetime": "2024-07-09T02:28:20Z",
+        "uri": "https://web.archive.org/web/20240709022820/https://online.odu.edu/online-experience/online-career-services-odu"
+      },
+      {
+        "datetime": "2024-07-21T21:53:40Z",
+        "uri": "https://web.archive.org/web/20240721215340/https://online.odu.edu/online-experience/online-career-services-odu"
+      },
+      {
+        "datetime": "2024-08-01T11:53:09Z",
+        "uri": "https://web.archive.org/web/20240801115309/https://online.odu.edu/online-experience/online-career-services-odu"
+      },
+      {
+        "datetime": "2024-09-20T16:22:13Z",
+        "uri": "https://web.archive.org/web/20240920162213/https://online.odu.edu/online-experience/online-career-services-odu"
+      },
+      {
+        "datetime": "2024-10-04T07:24:30Z",
+        "uri": "https://web.archive.org/web/20241004072430/https://online.odu.edu/online-experience/online-career-services-odu"
+      },
+      {
+        "datetime": "2024-11-07T14:44:06Z",
+        "uri": "https://web.archive.org/web/20241107144406/https://online.odu.edu/online-experience/online-career-services-odu"
+      },
+      {
+        "datetime": "2024-12-14T21:54:12Z",
+        "uri": "https://web.archive.org/web/20241214215412/https://online.odu.edu/online-experience/online-career-services-odu"
+      },
+      {
+        "datetime": "2025-01-19T13:02:31Z",
+        "uri": "https://web.archive.org/web/20250119130231/https://online.odu.edu/online-experience/online-career-services-odu"
+      },
+      {
+        "datetime": "2025-01-24T02:34:23Z",
+        "uri": "https://web.archive.org/web/20250124023423/https://online.odu.edu/online-experience/online-career-services-odu"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-24T16:38:33Z",
+      "uri": "https://web.archive.org/web/20230924163833/https://online.odu.edu/online-experience/online-career-services-odu"
+    },
+    "last": {
+      "datetime": "2025-01-24T02:34:23Z",
+      "uri": "https://web.archive.org/web/20250124023423/https://online.odu.edu/online-experience/online-career-services-odu"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/online-experience/online-career-services-odu",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/online-experience/online-career-services-odu",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/online-experience/online-career-services-odu"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/online-experience/online-career-services-odu"
+}

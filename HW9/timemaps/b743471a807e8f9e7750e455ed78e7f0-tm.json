@@ -1,0 +1,566 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/oeas/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/oeas/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:21:44Z",
+        "uri": "https://web.archive.org/web/20120902042144/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2013-05-17T08:20:03Z",
+        "uri": "https://web.archive.org/web/20130517082003/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2014-04-22T11:54:00Z",
+        "uri": "https://web.archive.org/web/20140422115400/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2014-06-22T04:24:46Z",
+        "uri": "https://web.archive.org/web/20140622042446/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2014-08-22T03:33:07Z",
+        "uri": "https://web.archive.org/web/20140822033307/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2014-10-09T20:59:48Z",
+        "uri": "https://web.archive.org/web/20141009205948/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2014-10-09T20:59:48Z",
+        "uri": "https://web.archive.org/web/20141009205948/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2014-10-21T20:59:51Z",
+        "uri": "https://web.archive.org/web/20141021205951/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2014-11-10T01:01:42Z",
+        "uri": "https://web.archive.org/web/20141110010142/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2014-11-10T01:01:42Z",
+        "uri": "https://web.archive.org/web/20141110010142/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2014-12-21T05:22:40Z",
+        "uri": "https://web.archive.org/web/20141221052240/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2015-02-15T16:05:23Z",
+        "uri": "https://web.archive.org/web/20150215160523/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2015-04-17T03:15:56Z",
+        "uri": "https://web.archive.org/web/20150417031556/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2015-05-09T20:04:59Z",
+        "uri": "https://web.archive.org/web/20150509200459/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2015-05-09T20:04:59Z",
+        "uri": "https://web.archive.org/web/20150509200459/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2015-05-11T06:49:07Z",
+        "uri": "https://web.archive.org/web/20150511064907/http://catalog.odu.edu/courses/oeas/"
+      },
+      {
+        "datetime": "2015-06-09T06:22:15Z",
+        "uri": "https://web.archive.org/web/20150609062215/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2015-06-09T06:22:15Z",
+        "uri": "https://web.archive.org/web/20150609062215/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2015-07-03T06:00:35Z",
+        "uri": "https://web.archive.org/web/20150703060035/http://catalog.odu.edu/courses/oeas/"
+      },
+      {
+        "datetime": "2015-07-10T04:34:47Z",
+        "uri": "https://web.archive.org/web/20150710043447/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2015-07-10T04:34:47Z",
+        "uri": "https://web.archive.org/web/20150710043447/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2015-08-11T00:13:45Z",
+        "uri": "https://web.archive.org/web/20150811001345/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2015-08-11T00:13:45Z",
+        "uri": "https://web.archive.org/web/20150811001345/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2015-08-17T23:02:45Z",
+        "uri": "https://web.archive.org/web/20150817230245/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2015-10-17T15:14:07Z",
+        "uri": "https://web.archive.org/web/20151017151407/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2015-10-18T16:24:06Z",
+        "uri": "https://web.archive.org/web/20151018162406/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2015-12-17T07:19:03Z",
+        "uri": "https://web.archive.org/web/20151217071903/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2015-12-17T07:19:03Z",
+        "uri": "https://web.archive.org/web/20151217071903/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2015-12-18T09:27:31Z",
+        "uri": "https://web.archive.org/web/20151218092731/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2016-01-18T18:40:53Z",
+        "uri": "https://web.archive.org/web/20160118184053/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2016-01-18T18:40:53Z",
+        "uri": "https://web.archive.org/web/20160118184053/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2016-02-17T06:23:50Z",
+        "uri": "https://web.archive.org/web/20160217062350/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2016-02-18T19:18:33Z",
+        "uri": "https://web.archive.org/web/20160218191833/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2016-02-18T19:18:33Z",
+        "uri": "https://web.archive.org/web/20160218191833/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2016-03-20T21:46:48Z",
+        "uri": "https://web.archive.org/web/20160320214648/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2016-03-20T21:46:48Z",
+        "uri": "https://web.archive.org/web/20160320214648/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2016-04-08T17:13:45Z",
+        "uri": "https://web.archive.org/web/20160408171345/http://catalog.odu.edu/courses/oeas/"
+      },
+      {
+        "datetime": "2016-04-20T18:05:00Z",
+        "uri": "https://web.archive.org/web/20160420180500/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2016-04-20T18:05:00Z",
+        "uri": "https://web.archive.org/web/20160420180500/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2016-05-21T11:56:41Z",
+        "uri": "https://web.archive.org/web/20160521115641/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2016-05-21T11:56:41Z",
+        "uri": "https://web.archive.org/web/20160521115641/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2016-06-17T14:34:13Z",
+        "uri": "https://web.archive.org/web/20160617143413/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2016-06-21T14:40:33Z",
+        "uri": "https://web.archive.org/web/20160621144033/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2016-06-21T14:40:33Z",
+        "uri": "https://web.archive.org/web/20160621144033/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2016-07-22T21:03:13Z",
+        "uri": "https://web.archive.org/web/20160722210313/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2016-07-22T21:03:13Z",
+        "uri": "https://web.archive.org/web/20160722210313/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2016-08-17T19:02:28Z",
+        "uri": "https://web.archive.org/web/20160817190228/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2016-08-23T01:37:29Z",
+        "uri": "https://web.archive.org/web/20160823013729/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2016-08-23T01:37:29Z",
+        "uri": "https://web.archive.org/web/20160823013729/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2016-10-17T22:59:28Z",
+        "uri": "https://web.archive.org/web/20161017225928/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2016-12-05T05:00:07Z",
+        "uri": "https://web.archive.org/web/20161205050007/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2017-04-27T03:32:49Z",
+        "uri": "https://web.archive.org/web/20170427033249/http://catalog.odu.edu/courses/oeas/"
+      },
+      {
+        "datetime": "2017-05-31T09:14:59Z",
+        "uri": "https://web.archive.org/web/20170531091459/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2017-07-08T23:56:12Z",
+        "uri": "https://web.archive.org/web/20170708235612/http://catalog.odu.edu/courses/oeas/"
+      },
+      {
+        "datetime": "2017-07-31T00:10:37Z",
+        "uri": "https://web.archive.org/web/20170731001037/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2017-09-01T13:04:43Z",
+        "uri": "https://web.archive.org/web/20170901130443/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2017-09-01T13:04:43Z",
+        "uri": "https://web.archive.org/web/20170901130443/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2017-09-29T10:15:46Z",
+        "uri": "https://web.archive.org/web/20170929101546/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2017-10-02T20:52:34Z",
+        "uri": "https://web.archive.org/web/20171002205234/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2017-10-02T20:52:34Z",
+        "uri": "https://web.archive.org/web/20171002205234/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2017-11-03T06:31:37Z",
+        "uri": "https://web.archive.org/web/20171103063137/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2017-11-03T06:31:37Z",
+        "uri": "https://web.archive.org/web/20171103063137/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2017-11-29T03:42:21Z",
+        "uri": "https://web.archive.org/web/20171129034221/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2017-12-04T07:02:38Z",
+        "uri": "https://web.archive.org/web/20171204070238/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2017-12-04T07:02:38Z",
+        "uri": "https://web.archive.org/web/20171204070238/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2018-01-05T00:17:57Z",
+        "uri": "https://web.archive.org/web/20180105001757/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2018-01-05T00:17:57Z",
+        "uri": "https://web.archive.org/web/20180105001757/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2018-01-29T05:40:50Z",
+        "uri": "https://web.archive.org/web/20180129054050/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2018-02-05T16:40:48Z",
+        "uri": "https://web.archive.org/web/20180205164048/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2018-02-05T16:40:48Z",
+        "uri": "https://web.archive.org/web/20180205164048/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2018-03-08T07:22:34Z",
+        "uri": "https://web.archive.org/web/20180308072234/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2018-03-08T07:22:34Z",
+        "uri": "https://web.archive.org/web/20180308072234/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2018-03-31T10:53:32Z",
+        "uri": "https://web.archive.org/web/20180331105332/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2018-04-01T12:36:50Z",
+        "uri": "https://web.archive.org/web/20180401123650/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2018-04-08T04:31:52Z",
+        "uri": "https://web.archive.org/web/20180408043152/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2018-04-08T04:31:52Z",
+        "uri": "https://web.archive.org/web/20180408043152/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2018-05-09T23:16:53Z",
+        "uri": "https://web.archive.org/web/20180509231653/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2018-05-09T23:16:53Z",
+        "uri": "https://web.archive.org/web/20180509231653/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2018-06-01T03:27:15Z",
+        "uri": "https://web.archive.org/web/20180601032715/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2018-06-10T18:47:42Z",
+        "uri": "https://web.archive.org/web/20180610184742/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2018-06-10T18:47:42Z",
+        "uri": "https://web.archive.org/web/20180610184742/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2018-07-11T11:10:50Z",
+        "uri": "https://web.archive.org/web/20180711111050/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2018-07-11T11:10:50Z",
+        "uri": "https://web.archive.org/web/20180711111050/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2018-08-01T23:20:25Z",
+        "uri": "https://web.archive.org/web/20180801232025/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2018-08-12T02:11:48Z",
+        "uri": "https://web.archive.org/web/20180812021148/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2018-08-12T02:11:48Z",
+        "uri": "https://web.archive.org/web/20180812021148/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2018-09-13T03:51:58Z",
+        "uri": "https://web.archive.org/web/20180913035158/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2018-09-13T03:51:58Z",
+        "uri": "https://web.archive.org/web/20180913035158/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2018-10-02T20:20:38Z",
+        "uri": "https://web.archive.org/web/20181002202038/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2018-10-13T22:58:07Z",
+        "uri": "https://web.archive.org/web/20181013225807/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2018-10-13T22:58:07Z",
+        "uri": "https://web.archive.org/web/20181013225807/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2018-11-14T11:25:11Z",
+        "uri": "https://web.archive.org/web/20181114112511/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2018-11-14T11:25:11Z",
+        "uri": "https://web.archive.org/web/20181114112511/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2018-12-02T15:38:12Z",
+        "uri": "https://web.archive.org/web/20181202153812/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2018-12-15T12:48:19Z",
+        "uri": "https://web.archive.org/web/20181215124819/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2018-12-15T12:48:19Z",
+        "uri": "https://web.archive.org/web/20181215124819/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2019-01-15T11:10:19Z",
+        "uri": "https://web.archive.org/web/20190115111019/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2019-01-15T11:10:19Z",
+        "uri": "https://web.archive.org/web/20190115111019/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2019-02-16T04:15:57Z",
+        "uri": "https://web.archive.org/web/20190216041557/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2019-02-16T04:15:57Z",
+        "uri": "https://web.archive.org/web/20190216041557/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2019-03-19T12:48:51Z",
+        "uri": "https://web.archive.org/web/20190319124851/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2019-03-19T12:48:51Z",
+        "uri": "https://web.archive.org/web/20190319124851/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2019-04-03T17:47:33Z",
+        "uri": "https://web.archive.org/web/20190403174733/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2019-04-19T22:41:27Z",
+        "uri": "https://web.archive.org/web/20190419224127/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2019-04-19T22:41:27Z",
+        "uri": "https://web.archive.org/web/20190419224127/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2019-05-22T08:29:47Z",
+        "uri": "https://web.archive.org/web/20190522082947/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2019-05-22T08:29:47Z",
+        "uri": "https://web.archive.org/web/20190522082947/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2019-06-04T01:40:32Z",
+        "uri": "https://web.archive.org/web/20190604014032/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2019-06-22T20:03:08Z",
+        "uri": "https://web.archive.org/web/20190622200308/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2019-06-22T20:03:08Z",
+        "uri": "https://web.archive.org/web/20190622200308/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2019-07-23T19:30:28Z",
+        "uri": "https://web.archive.org/web/20190723193028/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2019-07-23T19:30:28Z",
+        "uri": "https://web.archive.org/web/20190723193028/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2019-08-04T06:33:35Z",
+        "uri": "https://web.archive.org/web/20190804063335/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2019-08-23T15:19:06Z",
+        "uri": "https://web.archive.org/web/20190823151906/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2019-08-23T15:19:06Z",
+        "uri": "https://web.archive.org/web/20190823151906/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2019-09-23T11:50:09Z",
+        "uri": "https://web.archive.org/web/20190923115009/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2019-09-23T11:50:09Z",
+        "uri": "https://web.archive.org/web/20190923115009/http://catalog.odu.edu:80/courses/oeas"
+      },
+      {
+        "datetime": "2019-10-09T05:18:58Z",
+        "uri": "https://web.archive.org/web/20191009051858/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2019-10-21T20:18:45Z",
+        "uri": "https://web.archive.org/web/20191021201845/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2019-11-21T02:04:08Z",
+        "uri": "https://web.archive.org/web/20191121020408/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2019-12-21T07:46:28Z",
+        "uri": "https://web.archive.org/web/20191221074628/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2020-01-20T12:03:55Z",
+        "uri": "https://web.archive.org/web/20200120120355/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2020-02-19T18:03:28Z",
+        "uri": "https://web.archive.org/web/20200219180328/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2020-03-02T06:06:46Z",
+        "uri": "https://web.archive.org/web/20200302060646/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2020-05-01T08:53:27Z",
+        "uri": "https://web.archive.org/web/20200501085327/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2020-06-30T15:12:05Z",
+        "uri": "https://web.archive.org/web/20200630151205/http://catalog.odu.edu:80/courses/oeas/"
+      },
+      {
+        "datetime": "2021-01-22T23:23:18Z",
+        "uri": "https://web.archive.org/web/20210122232318/https://catalog.odu.edu/courses/oeas/"
+      },
+      {
+        "datetime": "2021-04-12T20:38:25Z",
+        "uri": "https://web.archive.org/web/20210412203825/http://catalog.odu.edu/courses/oeas/"
+      },
+      {
+        "datetime": "2021-11-03T21:59:03Z",
+        "uri": "https://web.archive.org/web/20211103215903/https://catalog.odu.edu/courses/oeas/"
+      },
+      {
+        "datetime": "2021-11-23T15:44:01Z",
+        "uri": "https://web.archive.org/web/20211123154401/https://catalog.odu.edu/courses/oeas/"
+      },
+      {
+        "datetime": "2022-03-19T20:18:16Z",
+        "uri": "https://web.archive.org/web/20220319201816/https://catalog.odu.edu/courses/oeas/"
+      },
+      {
+        "datetime": "2024-02-29T00:41:27Z",
+        "uri": "https://web.archive.org/web/20240229004127/https://catalog.odu.edu/courses/oeas/"
+      },
+      {
+        "datetime": "2024-02-29T16:10:24Z",
+        "uri": "https://web.archive.org/web/20240229161024/https://catalog.odu.edu/courses/oeas/"
+      },
+      {
+        "datetime": "2024-07-28T17:12:42Z",
+        "uri": "https://web.archive.org/web/20240728171242/http://catalog.odu.edu/courses/oeas/"
+      },
+      {
+        "datetime": "2024-08-13T21:31:28Z",
+        "uri": "https://web.archive.org/web/20240813213128/https://catalog.odu.edu/courses/oeas/"
+      },
+      {
+        "datetime": "2024-12-07T05:58:38Z",
+        "uri": "https://web.archive.org/web/20241207055838/https://catalog.odu.edu/courses/oeas/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:21:44Z",
+      "uri": "https://web.archive.org/web/20120902042144/http://catalog.odu.edu:80/courses/oeas/"
+    },
+    "last": {
+      "datetime": "2024-12-07T05:58:38Z",
+      "uri": "https://web.archive.org/web/20241207055838/https://catalog.odu.edu/courses/oeas/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/oeas/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/oeas/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/oeas/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/oeas/"
+}

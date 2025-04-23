@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/mph/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/mph/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-07-07T10:25:38Z",
+        "uri": "https://web.archive.org/web/20220707102538/https://catalog.odu.edu/courses/mph/"
+      },
+      {
+        "datetime": "2022-10-31T11:20:18Z",
+        "uri": "https://web.archive.org/web/20221031112018/https://catalog.odu.edu/courses/mph/"
+      },
+      {
+        "datetime": "2022-11-27T01:50:24Z",
+        "uri": "https://web.archive.org/web/20221127015024/https://catalog.odu.edu/courses/mph/"
+      },
+      {
+        "datetime": "2024-02-29T16:09:59Z",
+        "uri": "https://web.archive.org/web/20240229160959/https://catalog.odu.edu/courses/mph/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-07-07T10:25:38Z",
+      "uri": "https://web.archive.org/web/20220707102538/https://catalog.odu.edu/courses/mph/"
+    },
+    "last": {
+      "datetime": "2024-02-29T16:09:59Z",
+      "uri": "https://web.archive.org/web/20240229160959/https://catalog.odu.edu/courses/mph/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/mph/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/mph/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/mph/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/mph/"
+}

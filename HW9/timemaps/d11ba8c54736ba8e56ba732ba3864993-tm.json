@@ -1,0 +1,70 @@
+{
+  "original_uri": "https://www.odu.edu/admission/request-info",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/admission/request-info",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-12-03T08:12:20Z",
+        "uri": "https://web.archive.org/web/20231203081220/https://www.odu.edu/admission/request-info"
+      },
+      {
+        "datetime": "2024-02-14T16:09:06Z",
+        "uri": "https://web.archive.org/web/20240214160906/https://www.odu.edu/admission/request-info"
+      },
+      {
+        "datetime": "2024-02-14T16:12:59Z",
+        "uri": "https://web.archive.org/web/20240214161259/https://www.odu.edu/admission/request-info"
+      },
+      {
+        "datetime": "2024-04-04T07:26:50Z",
+        "uri": "https://web.archive.org/web/20240404072650/https://www.odu.edu/admission/request-info"
+      },
+      {
+        "datetime": "2024-04-04T07:27:28Z",
+        "uri": "https://web.archive.org/web/20240404072728/https://www.odu.edu/admission/request-info"
+      },
+      {
+        "datetime": "2024-04-14T16:48:12Z",
+        "uri": "https://web.archive.org/web/20240414164812/https://www.odu.edu/admission/request-info"
+      },
+      {
+        "datetime": "2024-04-17T23:24:15Z",
+        "uri": "https://web.archive.org/web/20240417232415/https://www.odu.edu/admission/request-info"
+      },
+      {
+        "datetime": "2024-05-24T01:53:54Z",
+        "uri": "https://wayback.archive-it.org/all/20240524015354/https://www.odu.edu/admission/request-info"
+      },
+      {
+        "datetime": "2024-07-24T22:21:51Z",
+        "uri": "https://web.archive.org/web/20240724222151/https://www.odu.edu/admission/request-info"
+      },
+      {
+        "datetime": "2024-12-11T13:36:18Z",
+        "uri": "https://web.archive.org/web/20241211133618/https://www.odu.edu/admission/request-info"
+      },
+      {
+        "datetime": "2024-12-26T14:47:52Z",
+        "uri": "https://web.archive.org/web/20241226144752/https://www.odu.edu/admission/request-info"
+      },
+      {
+        "datetime": "2025-02-14T10:00:01Z",
+        "uri": "https://web.archive.org/web/20250214100001/https://www.odu.edu/admission/request-info"
+      }
+    ],
+    "first": {
+      "datetime": "2023-12-03T08:12:20Z",
+      "uri": "https://web.archive.org/web/20231203081220/https://www.odu.edu/admission/request-info"
+    },
+    "last": {
+      "datetime": "2025-02-14T10:00:01Z",
+      "uri": "https://web.archive.org/web/20250214100001/https://www.odu.edu/admission/request-info"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/admission/request-info",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/admission/request-info",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/admission/request-info"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/admission/request-info"
+}

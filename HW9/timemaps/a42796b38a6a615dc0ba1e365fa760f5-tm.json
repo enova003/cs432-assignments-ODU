@@ -1,0 +1,82 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/game/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/game/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-07-15T04:37:16Z",
+        "uri": "https://web.archive.org/web/20190715043716/http://catalog.odu.edu:80/courses/game/"
+      },
+      {
+        "datetime": "2019-09-13T18:15:53Z",
+        "uri": "https://web.archive.org/web/20190913181553/http://catalog.odu.edu:80/courses/game/"
+      },
+      {
+        "datetime": "2019-10-09T05:17:28Z",
+        "uri": "https://web.archive.org/web/20191009051728/http://catalog.odu.edu:80/courses/game/"
+      },
+      {
+        "datetime": "2019-12-08T12:33:26Z",
+        "uri": "https://web.archive.org/web/20191208123326/http://catalog.odu.edu:80/courses/game/"
+      },
+      {
+        "datetime": "2020-02-06T16:37:29Z",
+        "uri": "https://web.archive.org/web/20200206163729/http://catalog.odu.edu:80/courses/game/"
+      },
+      {
+        "datetime": "2020-03-02T06:12:38Z",
+        "uri": "https://web.archive.org/web/20200302061238/http://catalog.odu.edu:80/courses/game/"
+      },
+      {
+        "datetime": "2020-05-01T08:44:33Z",
+        "uri": "https://web.archive.org/web/20200501084433/http://catalog.odu.edu:80/courses/game/"
+      },
+      {
+        "datetime": "2020-06-30T12:16:34Z",
+        "uri": "https://web.archive.org/web/20200630121634/http://catalog.odu.edu:80/courses/game/"
+      },
+      {
+        "datetime": "2021-01-24T09:17:59Z",
+        "uri": "https://web.archive.org/web/20210124091759/https://catalog.odu.edu/courses/game/"
+      },
+      {
+        "datetime": "2021-04-12T20:35:00Z",
+        "uri": "https://web.archive.org/web/20210412203500/http://catalog.odu.edu/courses/game/"
+      },
+      {
+        "datetime": "2021-11-07T17:01:42Z",
+        "uri": "https://web.archive.org/web/20211107170142/https://catalog.odu.edu/courses/game/"
+      },
+      {
+        "datetime": "2022-03-19T22:02:31Z",
+        "uri": "https://web.archive.org/web/20220319220231/https://catalog.odu.edu/courses/game/"
+      },
+      {
+        "datetime": "2023-12-20T22:59:17Z",
+        "uri": "https://web.archive.org/web/20231220225917/https://catalog.odu.edu/courses/game/"
+      },
+      {
+        "datetime": "2024-02-29T00:40:32Z",
+        "uri": "https://web.archive.org/web/20240229004032/https://catalog.odu.edu/courses/game/"
+      },
+      {
+        "datetime": "2024-08-13T21:33:34Z",
+        "uri": "https://web.archive.org/web/20240813213334/https://catalog.odu.edu/courses/game/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-07-15T04:37:16Z",
+      "uri": "https://web.archive.org/web/20190715043716/http://catalog.odu.edu:80/courses/game/"
+    },
+    "last": {
+      "datetime": "2024-08-13T21:33:34Z",
+      "uri": "https://web.archive.org/web/20240813213334/https://catalog.odu.edu/courses/game/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/game/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/game/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/game/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/game/"
+}

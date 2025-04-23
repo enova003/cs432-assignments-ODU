@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://www.odu.edu/student-engagement-traditions/student-orgs/officers",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/student-engagement-traditions/student-orgs/officers",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-07-02T01:25:21Z",
+        "uri": "https://web.archive.org/web/20230702012521/https://www.odu.edu/student-engagement-traditions/student-orgs/officers"
+      },
+      {
+        "datetime": "2023-08-26T11:00:41Z",
+        "uri": "https://web.archive.org/web/20230826110041/https://www.odu.edu/student-engagement-traditions/student-orgs/officers"
+      },
+      {
+        "datetime": "2023-09-22T11:14:58Z",
+        "uri": "https://web.archive.org/web/20230922111458/https://www.odu.edu/student-engagement-traditions/student-orgs/officers"
+      },
+      {
+        "datetime": "2024-04-20T13:05:51Z",
+        "uri": "https://web.archive.org/web/20240420130551/https://www.odu.edu/student-engagement-traditions/student-orgs/officers"
+      },
+      {
+        "datetime": "2024-08-15T08:41:07Z",
+        "uri": "https://web.archive.org/web/20240815084107/https://www.odu.edu/student-engagement-traditions/student-orgs/officers"
+      },
+      {
+        "datetime": "2024-12-10T20:32:33Z",
+        "uri": "https://web.archive.org/web/20241210203233/https://www.odu.edu/student-engagement-traditions/student-orgs/officers"
+      }
+    ],
+    "first": {
+      "datetime": "2023-07-02T01:25:21Z",
+      "uri": "https://web.archive.org/web/20230702012521/https://www.odu.edu/student-engagement-traditions/student-orgs/officers"
+    },
+    "last": {
+      "datetime": "2024-12-10T20:32:33Z",
+      "uri": "https://web.archive.org/web/20241210203233/https://www.odu.edu/student-engagement-traditions/student-orgs/officers"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/student-engagement-traditions/student-orgs/officers",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/student-engagement-traditions/student-orgs/officers",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/student-engagement-traditions/student-orgs/officers"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/student-engagement-traditions/student-orgs/officers"
+}

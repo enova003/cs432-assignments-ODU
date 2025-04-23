@@ -1,0 +1,58 @@
+{
+  "original_uri": "https://online.odu.edu/admissions/undergraduate-admissions",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/admissions/undergraduate-admissions",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-12-02T15:36:23Z",
+        "uri": "https://web.archive.org/web/20231202153623/https://online.odu.edu/admissions/undergraduate-admissions"
+      },
+      {
+        "datetime": "2024-03-17T22:41:03Z",
+        "uri": "https://web.archive.org/web/20240317224103/https://online.odu.edu/admissions/undergraduate-admissions"
+      },
+      {
+        "datetime": "2024-03-28T07:48:23Z",
+        "uri": "https://web.archive.org/web/20240328074823/https://online.odu.edu/admissions/undergraduate-admissions"
+      },
+      {
+        "datetime": "2024-04-23T05:18:43Z",
+        "uri": "https://web.archive.org/web/20240423051843/https://online.odu.edu/admissions/undergraduate-admissions"
+      },
+      {
+        "datetime": "2024-06-04T20:17:17Z",
+        "uri": "https://web.archive.org/web/20240604201717/https://online.odu.edu/admissions/undergraduate-admissions"
+      },
+      {
+        "datetime": "2024-06-13T22:59:12Z",
+        "uri": "https://web.archive.org/web/20240613225912/https://online.odu.edu/admissions/undergraduate-admissions"
+      },
+      {
+        "datetime": "2024-09-13T05:42:10Z",
+        "uri": "https://web.archive.org/web/20240913054210/https://online.odu.edu/admissions/undergraduate-admissions"
+      },
+      {
+        "datetime": "2024-11-05T13:37:38Z",
+        "uri": "https://web.archive.org/web/20241105133738/https://online.odu.edu/admissions/undergraduate-admissions"
+      },
+      {
+        "datetime": "2025-01-19T13:02:42Z",
+        "uri": "https://web.archive.org/web/20250119130242/https://online.odu.edu/admissions/undergraduate-admissions"
+      }
+    ],
+    "first": {
+      "datetime": "2023-12-02T15:36:23Z",
+      "uri": "https://web.archive.org/web/20231202153623/https://online.odu.edu/admissions/undergraduate-admissions"
+    },
+    "last": {
+      "datetime": "2025-01-19T13:02:42Z",
+      "uri": "https://web.archive.org/web/20250119130242/https://online.odu.edu/admissions/undergraduate-admissions"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/admissions/undergraduate-admissions",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/admissions/undergraduate-admissions",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/admissions/undergraduate-admissions"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/admissions/undergraduate-admissions"
+}

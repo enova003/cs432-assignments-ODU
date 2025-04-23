@@ -1,0 +1,58 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/cl/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/cl/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-05-29T08:28:34Z",
+        "uri": "https://web.archive.org/web/20200529082834/http://catalog.odu.edu:80/courses/cl/"
+      },
+      {
+        "datetime": "2020-07-28T13:16:00Z",
+        "uri": "https://web.archive.org/web/20200728131600/http://catalog.odu.edu:80/courses/cl/"
+      },
+      {
+        "datetime": "2020-09-24T04:27:11Z",
+        "uri": "https://web.archive.org/web/20200924042711/http://catalog.odu.edu/courses/cl/"
+      },
+      {
+        "datetime": "2020-12-04T23:16:30Z",
+        "uri": "https://web.archive.org/web/20201204231630/https://catalog.odu.edu/courses/cl/"
+      },
+      {
+        "datetime": "2021-01-24T10:06:37Z",
+        "uri": "https://web.archive.org/web/20210124100637/https://catalog.odu.edu/courses/cl/"
+      },
+      {
+        "datetime": "2022-03-19T20:26:02Z",
+        "uri": "https://web.archive.org/web/20220319202602/https://catalog.odu.edu/courses/cl/"
+      },
+      {
+        "datetime": "2024-01-11T18:14:14Z",
+        "uri": "https://web.archive.org/web/20240111181414/https://catalog.odu.edu/courses/cl/"
+      },
+      {
+        "datetime": "2024-02-28T21:41:31Z",
+        "uri": "https://web.archive.org/web/20240228214131/https://catalog.odu.edu/courses/cl/"
+      },
+      {
+        "datetime": "2024-03-04T04:38:58Z",
+        "uri": "https://web.archive.org/web/20240304043858/https://catalog.odu.edu/courses/cl/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-05-29T08:28:34Z",
+      "uri": "https://web.archive.org/web/20200529082834/http://catalog.odu.edu:80/courses/cl/"
+    },
+    "last": {
+      "datetime": "2024-03-04T04:38:58Z",
+      "uri": "https://web.archive.org/web/20240304043858/https://catalog.odu.edu/courses/cl/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/cl/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/cl/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/cl/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/cl/"
+}

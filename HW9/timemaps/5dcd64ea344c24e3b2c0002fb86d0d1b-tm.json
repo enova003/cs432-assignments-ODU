@@ -1,0 +1,622 @@
+{
+  "original_uri": "https://www.odu.edu/nrotc",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/nrotc",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2001-02-18T22:25:49Z",
+        "uri": "https://web.archive.org/web/20010218222549/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2001-04-14T01:47:43Z",
+        "uri": "https://web.archive.org/web/20010414014743/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2001-07-22T01:22:49Z",
+        "uri": "https://web.archive.org/web/20010722012249/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2002-06-20T00:31:20Z",
+        "uri": "https://web.archive.org/web/20020620003120/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2003-01-12T03:14:56Z",
+        "uri": "https://web.archive.org/web/20030112031456/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2003-02-02T20:15:32Z",
+        "uri": "https://web.archive.org/web/20030202201532/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2003-04-27T13:54:10Z",
+        "uri": "https://web.archive.org/web/20030427135410/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2003-07-07T08:37:21Z",
+        "uri": "https://web.archive.org/web/20030707083721/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2003-09-03T04:47:28Z",
+        "uri": "https://web.archive.org/web/20030903044728/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2003-10-04T20:18:51Z",
+        "uri": "https://web.archive.org/web/20031004201851/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2004-01-02T03:42:04Z",
+        "uri": "https://web.archive.org/web/20040102034204/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2004-02-23T17:29:05Z",
+        "uri": "https://web.archive.org/web/20040223172905/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2004-06-14T22:49:04Z",
+        "uri": "https://web.archive.org/web/20040614224904/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2004-08-04T12:57:17Z",
+        "uri": "https://web.archive.org/web/20040804125717/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2004-12-12T20:46:14Z",
+        "uri": "https://web.archive.org/web/20041212204614/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2005-02-23T09:32:06Z",
+        "uri": "https://web.archive.org/web/20050223093206/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2005-05-03T12:29:03Z",
+        "uri": "https://web.archive.org/web/20050503122903/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2012-05-30T04:00:38Z",
+        "uri": "https://web.archive.org/web/20120530040038/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2012-12-09T20:27:09Z",
+        "uri": "https://web.archive.org/web/20121209202709/http://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2013-01-17T17:50:03Z",
+        "uri": "https://web.archive.org/web/20130117175003/http://odu.edu/nrotc"
+      },
+      {
+        "datetime": "2013-04-26T14:54:14Z",
+        "uri": "https://web.archive.org/web/20130426145414/http://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2013-07-16T19:54:13Z",
+        "uri": "https://web.archive.org/web/20130716195413/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2013-08-08T11:06:12Z",
+        "uri": "https://web.archive.org/web/20130808110612/http://odu.edu/nrotc"
+      },
+      {
+        "datetime": "2013-09-16T12:32:43Z",
+        "uri": "https://web.archive.org/web/20130916123243/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2013-11-16T23:14:44Z",
+        "uri": "https://web.archive.org/web/20131116231444/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2014-01-16T08:11:25Z",
+        "uri": "https://web.archive.org/web/20140116081125/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2014-03-23T23:06:08Z",
+        "uri": "https://web.archive.org/web/20140323230608/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2014-03-28T05:50:38Z",
+        "uri": "https://web.archive.org/web/20140328055038/http://odu.edu/nrotc"
+      },
+      {
+        "datetime": "2014-04-23T19:07:56Z",
+        "uri": "https://web.archive.org/web/20140423190756/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2014-06-26T15:43:08Z",
+        "uri": "https://web.archive.org/web/20140626154308/http://odu.edu/nrotc"
+      },
+      {
+        "datetime": "2015-07-31T21:45:13Z",
+        "uri": "https://web.archive.org/web/20150731214513/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2015-08-31T09:37:58Z",
+        "uri": "https://web.archive.org/web/20150831093758/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2015-10-01T07:25:25Z",
+        "uri": "https://web.archive.org/web/20151001072525/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2015-10-31T22:09:45Z",
+        "uri": "https://web.archive.org/web/20151031220945/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2015-12-01T09:01:32Z",
+        "uri": "https://web.archive.org/web/20151201090132/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2016-01-01T16:09:03Z",
+        "uri": "https://web.archive.org/web/20160101160903/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2016-02-01T13:01:33Z",
+        "uri": "https://web.archive.org/web/20160201130133/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2016-03-02T23:59:18Z",
+        "uri": "https://web.archive.org/web/20160302235918/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2016-04-03T07:04:17Z",
+        "uri": "https://web.archive.org/web/20160403070417/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2016-05-04T00:44:47Z",
+        "uri": "https://web.archive.org/web/20160504004447/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2016-06-04T09:50:14Z",
+        "uri": "https://web.archive.org/web/20160604095014/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2017-03-20T00:03:14Z",
+        "uri": "https://web.archive.org/web/20170320000314/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2017-05-07T03:35:16Z",
+        "uri": "https://web.archive.org/web/20170507033516/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2017-06-14T09:57:14Z",
+        "uri": "https://web.archive.org/web/20170614095714/http://odu.edu/nrotc"
+      },
+      {
+        "datetime": "2017-07-06T23:14:03Z",
+        "uri": "https://web.archive.org/web/20170706231403/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2017-07-13T14:15:48Z",
+        "uri": "https://web.archive.org/web/20170713141548/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2017-07-29T00:04:34Z",
+        "uri": "https://web.archive.org/web/20170729000434/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2017-08-04T07:09:57Z",
+        "uri": "https://web.archive.org/web/20170804070957/http://odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2017-08-29T08:46:27Z",
+        "uri": "https://web.archive.org/web/20170829084627/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2017-09-02T13:27:36Z",
+        "uri": "https://web.archive.org/web/20170902132736/http://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2017-09-28T21:00:40Z",
+        "uri": "https://web.archive.org/web/20170928210040/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2017-10-29T20:11:00Z",
+        "uri": "https://web.archive.org/web/20171029201100/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2017-11-29T08:24:18Z",
+        "uri": "https://web.archive.org/web/20171129082418/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2017-12-30T07:54:02Z",
+        "uri": "https://web.archive.org/web/20171230075402/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2018-01-31T10:55:08Z",
+        "uri": "https://web.archive.org/web/20180131105508/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2018-03-03T16:52:05Z",
+        "uri": "https://web.archive.org/web/20180303165205/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2018-03-05T03:53:30Z",
+        "uri": "https://web.archive.org/web/20180305035330/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2018-03-29T07:50:39Z",
+        "uri": "https://web.archive.org/web/20180329075039/http://odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2018-05-08T04:43:45Z",
+        "uri": "https://web.archive.org/web/20180508044345/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2018-05-30T23:22:49Z",
+        "uri": "https://web.archive.org/web/20180530232249/http://odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2018-07-08T03:56:23Z",
+        "uri": "https://web.archive.org/web/20180708035623/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2018-07-31T17:47:12Z",
+        "uri": "https://web.archive.org/web/20180731174712/http://odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2018-08-01T23:04:57Z",
+        "uri": "https://web.archive.org/web/20180801230457/http://odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2018-09-07T03:09:40Z",
+        "uri": "https://web.archive.org/web/20180907030940/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2018-11-07T23:22:23Z",
+        "uri": "https://web.archive.org/web/20181107232223/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2018-11-09T03:34:24Z",
+        "uri": "https://web.archive.org/web/20181109033424/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2019-01-09T07:24:27Z",
+        "uri": "https://web.archive.org/web/20190109072427/http://www.odu.edu:80/nrotc"
+      },
+      {
+        "datetime": "2019-10-02T21:42:59Z",
+        "uri": "https://web.archive.org/web/20191002214259/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2020-07-24T19:11:44Z",
+        "uri": "https://web.archive.org/web/20200724191144/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2020-07-26T16:38:46Z",
+        "uri": "https://web.archive.org/web/20200726163846/http://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2020-10-17T03:20:33Z",
+        "uri": "https://web.archive.org/web/20201017032033/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2020-10-17T12:04:09Z",
+        "uri": "https://web.archive.org/web/20201017120409/http://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2021-02-27T02:37:14Z",
+        "uri": "https://web.archive.org/web/20210227023714/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2021-02-27T02:37:14Z",
+        "uri": "https://web.archive.org/web/20210227023714/http://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2021-03-14T16:58:26Z",
+        "uri": "https://web.archive.org/web/20210314165826/https://www.odu.edu/nrotc/"
+      },
+      {
+        "datetime": "2021-03-14T16:58:26Z",
+        "uri": "https://web.archive.org/web/20210314165826/http://www.odu.edu/nrotc/"
+      },
+      {
+        "datetime": "2021-04-14T11:38:14Z",
+        "uri": "https://web.archive.org/web/20210414113814/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2021-04-15T08:24:59Z",
+        "uri": "https://web.archive.org/web/20210415082459/http://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2021-04-19T02:40:41Z",
+        "uri": "https://web.archive.org/web/20210419024041/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2021-04-19T23:24:43Z",
+        "uri": "https://web.archive.org/web/20210419232443/http://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2021-05-20T15:42:55Z",
+        "uri": "https://web.archive.org/web/20210520154255/https://odu.edu/nrotc"
+      },
+      {
+        "datetime": "2021-05-20T15:43:01Z",
+        "uri": "https://web.archive.org/web/20210520154301/https://odu.edu/nrotc"
+      },
+      {
+        "datetime": "2021-05-20T16:06:59Z",
+        "uri": "https://web.archive.org/web/20210520160659/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2021-05-26T21:19:43Z",
+        "uri": "https://web.archive.org/web/20210526211943/https://odu.edu/nrotc"
+      },
+      {
+        "datetime": "2021-05-26T21:19:49Z",
+        "uri": "https://web.archive.org/web/20210526211949/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2021-05-26T21:19:54Z",
+        "uri": "https://web.archive.org/web/20210526211954/http://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2021-07-06T17:46:34Z",
+        "uri": "https://web.archive.org/web/20210706174634/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2021-08-12T06:38:15Z",
+        "uri": "https://web.archive.org/web/20210812063815/https://odu.edu/nrotc"
+      },
+      {
+        "datetime": "2021-10-21T05:33:25Z",
+        "uri": "https://arquivo.pt/wayback/20211021053325mp_/https://odu.edu/nrotc"
+      },
+      {
+        "datetime": "2021-10-21T05:33:25Z",
+        "uri": "https://web.archive.org/web/20211021053325/https://odu.edu/nrotc"
+      },
+      {
+        "datetime": "2021-11-03T12:46:37Z",
+        "uri": "https://arquivo.pt/wayback/20211103124637mp_/http://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2021-11-03T12:46:37Z",
+        "uri": "https://web.archive.org/web/20211103124637/http://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2022-03-19T21:02:36Z",
+        "uri": "https://web.archive.org/web/20220319210236/https://odu.edu/nrotc"
+      },
+      {
+        "datetime": "2022-03-19T22:18:39Z",
+        "uri": "https://web.archive.org/web/20220319221839/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2022-03-19T22:18:39Z",
+        "uri": "https://web.archive.org/web/20220319221839/http://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2022-03-19T22:45:10Z",
+        "uri": "https://web.archive.org/web/20220319224510/https://www.odu.edu/nrotc/"
+      },
+      {
+        "datetime": "2022-04-20T16:31:27Z",
+        "uri": "https://arquivo.pt/wayback/20220420163127mp_/https://odu.edu/nrotc"
+      },
+      {
+        "datetime": "2022-04-22T19:01:28Z",
+        "uri": "https://arquivo.pt/wayback/20220422190128mp_/http://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2022-05-07T20:53:51Z",
+        "uri": "https://arquivo.pt/wayback/20220507205351mp_/https://odu.edu/nrotc"
+      },
+      {
+        "datetime": "2022-05-16T04:33:18Z",
+        "uri": "https://arquivo.pt/wayback/20220516043318mp_/http://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2022-05-23T20:38:26Z",
+        "uri": "https://web.archive.org/web/20220523203826/https://odu.edu/nrotc"
+      },
+      {
+        "datetime": "2022-08-10T22:12:56Z",
+        "uri": "https://web.archive.org/web/20220810221256/https://odu.edu/nrotc"
+      },
+      {
+        "datetime": "2022-08-10T22:13:22Z",
+        "uri": "https://web.archive.org/web/20220810221322/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2022-08-10T22:13:38Z",
+        "uri": "https://web.archive.org/web/20220810221338/http://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2022-08-18T06:45:54Z",
+        "uri": "https://arquivo.pt/wayback/20220818064554mp_/https://odu.edu/nrotc"
+      },
+      {
+        "datetime": "2022-09-27T20:40:14Z",
+        "uri": "https://web.archive.org/web/20220927204014/https://odu.edu/nrotc"
+      },
+      {
+        "datetime": "2022-11-07T06:08:17Z",
+        "uri": "https://web.archive.org/web/20221107060817/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2022-11-07T21:44:54Z",
+        "uri": "https://web.archive.org/web/20221107214454/http://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2022-11-16T03:48:15Z",
+        "uri": "https://arquivo.pt/wayback/20221116034815mp_/https://odu.edu/nrotc"
+      },
+      {
+        "datetime": "2022-11-18T18:19:09Z",
+        "uri": "https://web.archive.org/web/20221118181909/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2022-12-07T13:24:59Z",
+        "uri": "https://web.archive.org/web/20221207132459/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2022-12-08T05:51:41Z",
+        "uri": "https://web.archive.org/web/20221208055141/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2022-12-10T22:35:35Z",
+        "uri": "https://web.archive.org/web/20221210223535/http://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2023-01-07T12:53:08Z",
+        "uri": "https://web.archive.org/web/20230107125308/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2023-01-10T17:39:35Z",
+        "uri": "https://web.archive.org/web/20230110173935/http://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2023-01-24T20:41:16Z",
+        "uri": "https://arquivo.pt/wayback/20230124204116mp_/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2023-02-07T12:11:54Z",
+        "uri": "https://web.archive.org/web/20230207121154/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2023-02-10T10:43:38Z",
+        "uri": "https://web.archive.org/web/20230210104338/http://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2023-02-20T01:07:57Z",
+        "uri": "https://web.archive.org/web/20230220010757/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2023-03-07T05:03:52Z",
+        "uri": "https://web.archive.org/web/20230307050352/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2023-03-07T17:35:09Z",
+        "uri": "https://web.archive.org/web/20230307173509/http://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2023-03-27T22:36:08Z",
+        "uri": "https://web.archive.org/web/20230327223608/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2023-08-25T17:14:34Z",
+        "uri": "https://web.archive.org/web/20230825171434/https://odu.edu/nrotc"
+      },
+      {
+        "datetime": "2023-08-25T19:01:12Z",
+        "uri": "https://web.archive.org/web/20230825190112/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2023-08-28T18:36:17Z",
+        "uri": "https://web.archive.org/web/20230828183617/http://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2023-08-31T14:41:15Z",
+        "uri": "https://web.archive.org/web/20230831144115/https://www.odu.edu/nrotc/"
+      },
+      {
+        "datetime": "2023-11-28T03:54:21Z",
+        "uri": "https://web.archive.org/web/20231128035421/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2024-02-21T20:36:06Z",
+        "uri": "https://web.archive.org/web/20240221203606/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2024-02-28T21:32:15Z",
+        "uri": "https://web.archive.org/web/20240228213215/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2024-02-28T23:50:07Z",
+        "uri": "https://web.archive.org/web/20240228235007/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2024-03-05T03:57:15Z",
+        "uri": "https://web.archive.org/web/20240305035715/http://www.odu.edu/nrotc/"
+      },
+      {
+        "datetime": "2024-04-04T07:26:55Z",
+        "uri": "https://web.archive.org/web/20240404072655/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2024-04-17T03:31:59Z",
+        "uri": "https://web.archive.org/web/20240417033159/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2024-04-27T16:08:24Z",
+        "uri": "https://web.archive.org/web/20240427160824/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2024-05-13T13:54:33Z",
+        "uri": "https://web.archive.org/web/20240513135433/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2024-06-26T15:37:53Z",
+        "uri": "https://web.archive.org/web/20240626153753/http://odu.edu/nrotc"
+      },
+      {
+        "datetime": "2024-07-13T02:46:55Z",
+        "uri": "https://web.archive.org/web/20240713024655/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2024-07-15T23:30:25Z",
+        "uri": "https://web.archive.org/web/20240715233025/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2024-09-10T04:04:08Z",
+        "uri": "https://web.archive.org/web/20240910040408/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2024-09-17T21:41:38Z",
+        "uri": "https://web.archive.org/web/20240917214138/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2024-09-20T18:28:39Z",
+        "uri": "https://web.archive.org/web/20240920182839/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2024-10-07T10:50:12Z",
+        "uri": "https://web.archive.org/web/20241007105012/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2024-10-13T21:00:50Z",
+        "uri": "https://web.archive.org/web/20241013210050/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2024-11-19T23:51:18Z",
+        "uri": "https://web.archive.org/web/20241119235118/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2024-12-09T17:38:30Z",
+        "uri": "https://web.archive.org/web/20241209173830/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2024-12-18T23:50:57Z",
+        "uri": "https://web.archive.org/web/20241218235057/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2024-12-22T20:08:54Z",
+        "uri": "https://web.archive.org/web/20241222200854/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2024-12-24T17:53:35Z",
+        "uri": "https://web.archive.org/web/20241224175335/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2025-02-05T20:13:45Z",
+        "uri": "https://web.archive.org/web/20250205201345/https://www.odu.edu/nrotc"
+      },
+      {
+        "datetime": "2025-02-14T09:59:48Z",
+        "uri": "https://web.archive.org/web/20250214095948/https://www.odu.edu/nrotc"
+      }
+    ],
+    "first": {
+      "datetime": "2001-02-18T22:25:49Z",
+      "uri": "https://web.archive.org/web/20010218222549/http://www.odu.edu:80/nrotc"
+    },
+    "last": {
+      "datetime": "2025-02-14T09:59:48Z",
+      "uri": "https://web.archive.org/web/20250214095948/https://www.odu.edu/nrotc"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/nrotc",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/nrotc",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/nrotc"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/nrotc"
+}

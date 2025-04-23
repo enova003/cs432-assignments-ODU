@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://www.odu.edu/technology-services",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/technology-services",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-12-20T19:59:09Z",
+        "uri": "https://web.archive.org/web/20241220195909/https://www.odu.edu/technology-services"
+      },
+      {
+        "datetime": "2024-12-24T17:56:02Z",
+        "uri": "https://web.archive.org/web/20241224175602/https://www.odu.edu/technology-services"
+      },
+      {
+        "datetime": "2025-01-15T19:34:17Z",
+        "uri": "https://web.archive.org/web/20250115193417/https://www.odu.edu/technology-services"
+      },
+      {
+        "datetime": "2025-02-14T09:59:59Z",
+        "uri": "https://web.archive.org/web/20250214095959/https://www.odu.edu/technology-services"
+      }
+    ],
+    "first": {
+      "datetime": "2024-12-20T19:59:09Z",
+      "uri": "https://web.archive.org/web/20241220195909/https://www.odu.edu/technology-services"
+    },
+    "last": {
+      "datetime": "2025-02-14T09:59:59Z",
+      "uri": "https://web.archive.org/web/20250214095959/https://www.odu.edu/technology-services"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/technology-services",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/technology-services",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/technology-services"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/technology-services"
+}

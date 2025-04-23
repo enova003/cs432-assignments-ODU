@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/arts-letters/music/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/arts-letters/music/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T02:00:51Z",
+        "uri": "https://web.archive.org/web/20230927020051/https://catalog.odu.edu/graduate/arts-letters/music/"
+      },
+      {
+        "datetime": "2023-10-01T03:28:57Z",
+        "uri": "https://web.archive.org/web/20231001032857/https://catalog.odu.edu/graduate/arts-letters/music/"
+      },
+      {
+        "datetime": "2023-12-08T06:22:15Z",
+        "uri": "https://web.archive.org/web/20231208062215/https://catalog.odu.edu/graduate/arts-letters/music/"
+      },
+      {
+        "datetime": "2023-12-09T23:04:04Z",
+        "uri": "https://web.archive.org/web/20231209230404/https://catalog.odu.edu/graduate/arts-letters/music/"
+      },
+      {
+        "datetime": "2023-12-09T23:04:16Z",
+        "uri": "https://web.archive.org/web/20231209230416/http://catalog.odu.edu/graduate/arts-letters/music/"
+      },
+      {
+        "datetime": "2024-03-04T05:11:25Z",
+        "uri": "https://web.archive.org/web/20240304051125/https://catalog.odu.edu/graduate/arts-letters/music/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T02:00:51Z",
+      "uri": "https://web.archive.org/web/20230927020051/https://catalog.odu.edu/graduate/arts-letters/music/"
+    },
+    "last": {
+      "datetime": "2024-03-04T05:11:25Z",
+      "uri": "https://web.archive.org/web/20240304051125/https://catalog.odu.edu/graduate/arts-letters/music/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/arts-letters/music/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/arts-letters/music/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/arts-letters/music/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/arts-letters/music/"
+}

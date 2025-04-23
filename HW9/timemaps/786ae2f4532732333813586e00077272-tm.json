@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.odu.edu/technology-services/email",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/technology-services/email",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-12-20T20:07:50Z",
+        "uri": "https://web.archive.org/web/20241220200750/https://www.odu.edu/technology-services/email"
+      }
+    ],
+    "first": {
+      "datetime": "2024-12-20T20:07:50Z",
+      "uri": "https://web.archive.org/web/20241220200750/https://www.odu.edu/technology-services/email"
+    },
+    "last": {
+      "datetime": "2024-12-20T20:07:50Z",
+      "uri": "https://web.archive.org/web/20241220200750/https://www.odu.edu/technology-services/email"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/technology-services/email",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/technology-services/email",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/technology-services/email"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/technology-services/email"
+}

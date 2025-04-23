@@ -1,0 +1,142 @@
+{
+  "original_uri": "https://online.odu.edu/staff",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/staff",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2015-09-28T05:40:12Z",
+        "uri": "https://web.archive.org/web/20150928054012/https://online.odu.edu/staff"
+      },
+      {
+        "datetime": "2016-02-03T06:03:15Z",
+        "uri": "https://web.archive.org/web/20160203060315/https://online.odu.edu/staff"
+      },
+      {
+        "datetime": "2016-11-12T23:21:13Z",
+        "uri": "https://web.archive.org/web/20161112232113/https://online.odu.edu/staff"
+      },
+      {
+        "datetime": "2017-09-03T10:59:30Z",
+        "uri": "https://web.archive.org/web/20170903105930/https://online.odu.edu/staff"
+      },
+      {
+        "datetime": "2020-04-27T13:23:13Z",
+        "uri": "https://web.archive.org/web/20200427132313/https://online.odu.edu/staff"
+      },
+      {
+        "datetime": "2020-05-30T00:06:50Z",
+        "uri": "https://web.archive.org/web/20200530000650/https://online.odu.edu/staff"
+      },
+      {
+        "datetime": "2020-09-26T00:03:59Z",
+        "uri": "https://web.archive.org/web/20200926000359/https://online.odu.edu/staff"
+      },
+      {
+        "datetime": "2020-11-25T11:46:19Z",
+        "uri": "https://web.archive.org/web/20201125114619/https://online.odu.edu/staff"
+      },
+      {
+        "datetime": "2021-03-03T12:39:16Z",
+        "uri": "https://web.archive.org/web/20210303123916/https://online.odu.edu/staff"
+      },
+      {
+        "datetime": "2021-04-13T19:30:00Z",
+        "uri": "https://web.archive.org/web/20210413193000/https://online.odu.edu/staff"
+      },
+      {
+        "datetime": "2021-05-07T20:14:32Z",
+        "uri": "https://web.archive.org/web/20210507201432/https://online.odu.edu/staff"
+      },
+      {
+        "datetime": "2021-07-31T00:17:37Z",
+        "uri": "https://web.archive.org/web/20210731001737/https://online.odu.edu/staff"
+      },
+      {
+        "datetime": "2021-09-24T16:17:14Z",
+        "uri": "https://web.archive.org/web/20210924161714/https://online.odu.edu/staff"
+      },
+      {
+        "datetime": "2021-12-09T02:23:54Z",
+        "uri": "https://web.archive.org/web/20211209022354/https://online.odu.edu/staff"
+      },
+      {
+        "datetime": "2021-12-09T09:24:10Z",
+        "uri": "https://web.archive.org/web/20211209092410/https://online.odu.edu/staff"
+      },
+      {
+        "datetime": "2022-03-19T21:14:41Z",
+        "uri": "https://web.archive.org/web/20220319211441/https://online.odu.edu/staff"
+      },
+      {
+        "datetime": "2022-05-27T23:06:11Z",
+        "uri": "https://web.archive.org/web/20220527230611/https://online.odu.edu/staff"
+      },
+      {
+        "datetime": "2022-08-07T17:01:11Z",
+        "uri": "https://web.archive.org/web/20220807170111/https://online.odu.edu/staff"
+      },
+      {
+        "datetime": "2022-08-08T17:24:32Z",
+        "uri": "https://web.archive.org/web/20220808172432/https://online.odu.edu/staff"
+      },
+      {
+        "datetime": "2022-11-28T05:53:20Z",
+        "uri": "https://web.archive.org/web/20221128055320/https://online.odu.edu/staff"
+      },
+      {
+        "datetime": "2023-03-25T11:53:42Z",
+        "uri": "https://web.archive.org/web/20230325115342/https://online.odu.edu/staff"
+      },
+      {
+        "datetime": "2023-07-15T00:31:10Z",
+        "uri": "https://web.archive.org/web/20230715003110/https://online.odu.edu/staff"
+      },
+      {
+        "datetime": "2023-09-24T21:35:33Z",
+        "uri": "https://web.archive.org/web/20230924213533/https://online.odu.edu/staff"
+      },
+      {
+        "datetime": "2024-03-03T08:26:08Z",
+        "uri": "https://web.archive.org/web/20240303082608/https://online.odu.edu/staff"
+      },
+      {
+        "datetime": "2024-03-17T22:36:37Z",
+        "uri": "https://web.archive.org/web/20240317223637/https://online.odu.edu/staff"
+      },
+      {
+        "datetime": "2024-05-23T19:06:35Z",
+        "uri": "https://web.archive.org/web/20240523190635/https://online.odu.edu/staff"
+      },
+      {
+        "datetime": "2024-05-26T10:48:56Z",
+        "uri": "https://wayback.archive-it.org/all/20240526104856/https://online.odu.edu/staff"
+      },
+      {
+        "datetime": "2024-08-04T18:45:47Z",
+        "uri": "https://web.archive.org/web/20240804184547/https://online.odu.edu/staff"
+      },
+      {
+        "datetime": "2024-12-14T23:33:33Z",
+        "uri": "https://web.archive.org/web/20241214233333/https://online.odu.edu/staff"
+      },
+      {
+        "datetime": "2025-01-19T13:02:40Z",
+        "uri": "https://web.archive.org/web/20250119130240/https://online.odu.edu/staff"
+      }
+    ],
+    "first": {
+      "datetime": "2015-09-28T05:40:12Z",
+      "uri": "https://web.archive.org/web/20150928054012/https://online.odu.edu/staff"
+    },
+    "last": {
+      "datetime": "2025-01-19T13:02:40Z",
+      "uri": "https://web.archive.org/web/20250119130240/https://online.odu.edu/staff"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/staff",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/staff",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/staff"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/staff"
+}

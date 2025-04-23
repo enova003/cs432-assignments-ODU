@@ -1,0 +1,102 @@
+{
+  "original_uri": "https://online.odu.edu/continuing-education",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/continuing-education",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2015-09-28T05:29:25Z",
+        "uri": "https://web.archive.org/web/20150928052925/https://online.odu.edu/continuing-education"
+      },
+      {
+        "datetime": "2016-04-17T11:00:20Z",
+        "uri": "https://web.archive.org/web/20160417110020/https://online.odu.edu/continuing-education"
+      },
+      {
+        "datetime": "2017-01-19T06:01:22Z",
+        "uri": "https://web.archive.org/web/20170119060122/https://online.odu.edu/continuing-education"
+      },
+      {
+        "datetime": "2017-07-22T14:20:39Z",
+        "uri": "https://web.archive.org/web/20170722142039/https://online.odu.edu/continuing-education"
+      },
+      {
+        "datetime": "2024-09-17T16:49:32Z",
+        "uri": "https://web.archive.org/web/20240917164932/https://online.odu.edu/continuing-education"
+      },
+      {
+        "datetime": "2024-09-18T04:02:13Z",
+        "uri": "https://web.archive.org/web/20240918040213/https://online.odu.edu/continuing-education"
+      },
+      {
+        "datetime": "2024-10-05T12:30:20Z",
+        "uri": "https://web.archive.org/web/20241005123020/https://online.odu.edu/continuing-education"
+      },
+      {
+        "datetime": "2024-10-06T10:38:46Z",
+        "uri": "https://web.archive.org/web/20241006103846/https://online.odu.edu/continuing-education"
+      },
+      {
+        "datetime": "2024-10-07T13:20:30Z",
+        "uri": "https://web.archive.org/web/20241007132030/https://online.odu.edu/continuing-education"
+      },
+      {
+        "datetime": "2024-11-11T04:41:14Z",
+        "uri": "https://web.archive.org/web/20241111044114/https://online.odu.edu/continuing-education"
+      },
+      {
+        "datetime": "2024-11-17T01:17:07Z",
+        "uri": "https://web.archive.org/web/20241117011707/https://online.odu.edu/continuing-education"
+      },
+      {
+        "datetime": "2024-12-10T20:04:04Z",
+        "uri": "https://web.archive.org/web/20241210200404/https://online.odu.edu/continuing-education"
+      },
+      {
+        "datetime": "2024-12-12T04:32:01Z",
+        "uri": "https://web.archive.org/web/20241212043201/https://online.odu.edu/continuing-education"
+      },
+      {
+        "datetime": "2024-12-15T19:05:25Z",
+        "uri": "https://web.archive.org/web/20241215190525/https://online.odu.edu/continuing-education"
+      },
+      {
+        "datetime": "2024-12-22T16:25:45Z",
+        "uri": "https://web.archive.org/web/20241222162545/https://online.odu.edu/continuing-education"
+      },
+      {
+        "datetime": "2024-12-23T16:53:09Z",
+        "uri": "https://web.archive.org/web/20241223165309/https://online.odu.edu/continuing-education"
+      },
+      {
+        "datetime": "2025-01-13T00:03:04Z",
+        "uri": "https://web.archive.org/web/20250113000304/https://online.odu.edu/continuing-education"
+      },
+      {
+        "datetime": "2025-01-19T13:02:46Z",
+        "uri": "https://web.archive.org/web/20250119130246/https://online.odu.edu/continuing-education"
+      },
+      {
+        "datetime": "2025-02-14T10:00:02Z",
+        "uri": "https://web.archive.org/web/20250214100002/https://online.odu.edu/continuing-education"
+      },
+      {
+        "datetime": "2025-02-14T10:00:49Z",
+        "uri": "https://web.archive.org/web/20250214100049/https://online.odu.edu/continuing-education"
+      }
+    ],
+    "first": {
+      "datetime": "2015-09-28T05:29:25Z",
+      "uri": "https://web.archive.org/web/20150928052925/https://online.odu.edu/continuing-education"
+    },
+    "last": {
+      "datetime": "2025-02-14T10:00:49Z",
+      "uri": "https://web.archive.org/web/20250214100049/https://online.odu.edu/continuing-education"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/continuing-education",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/continuing-education",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/continuing-education"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/continuing-education"
+}

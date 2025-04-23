@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/sciences/psychology/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/sciences/psychology/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-21T18:06:45Z",
+        "uri": "https://web.archive.org/web/20230921180645/https://catalog.odu.edu/graduate/sciences/psychology/"
+      },
+      {
+        "datetime": "2023-09-27T02:06:08Z",
+        "uri": "https://web.archive.org/web/20230927020608/https://catalog.odu.edu/graduate/sciences/psychology/"
+      },
+      {
+        "datetime": "2024-02-18T18:57:09Z",
+        "uri": "https://web.archive.org/web/20240218185709/https://catalog.odu.edu/graduate/sciences/psychology/"
+      },
+      {
+        "datetime": "2024-02-18T19:05:28Z",
+        "uri": "https://web.archive.org/web/20240218190528/http://catalog.odu.edu/graduate/sciences/psychology/"
+      },
+      {
+        "datetime": "2024-02-29T16:07:58Z",
+        "uri": "https://web.archive.org/web/20240229160758/https://catalog.odu.edu/graduate/sciences/psychology/"
+      },
+      {
+        "datetime": "2024-03-04T05:15:28Z",
+        "uri": "https://web.archive.org/web/20240304051528/https://catalog.odu.edu/graduate/sciences/psychology/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-21T18:06:45Z",
+      "uri": "https://web.archive.org/web/20230921180645/https://catalog.odu.edu/graduate/sciences/psychology/"
+    },
+    "last": {
+      "datetime": "2024-03-04T05:15:28Z",
+      "uri": "https://web.archive.org/web/20240304051528/https://catalog.odu.edu/graduate/sciences/psychology/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/sciences/psychology/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/sciences/psychology/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/sciences/psychology/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/sciences/psychology/"
+}

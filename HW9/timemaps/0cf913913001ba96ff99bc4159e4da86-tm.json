@@ -1,0 +1,590 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/hist/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/hist/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:17:57Z",
+        "uri": "https://web.archive.org/web/20120902041757/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2013-05-17T08:06:55Z",
+        "uri": "https://web.archive.org/web/20130517080655/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2014-04-19T03:50:46Z",
+        "uri": "https://web.archive.org/web/20140419035046/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2014-04-19T03:50:46Z",
+        "uri": "https://web.archive.org/web/20140419035046/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2014-04-22T11:51:12Z",
+        "uri": "https://web.archive.org/web/20140422115112/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2014-05-20T17:05:57Z",
+        "uri": "https://web.archive.org/web/20140520170557/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2014-05-20T17:05:57Z",
+        "uri": "https://web.archive.org/web/20140520170557/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2014-06-22T01:31:49Z",
+        "uri": "https://web.archive.org/web/20140622013149/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2014-08-22T03:28:50Z",
+        "uri": "https://web.archive.org/web/20140822032850/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2014-10-21T20:48:31Z",
+        "uri": "https://web.archive.org/web/20141021204831/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2014-10-30T17:03:26Z",
+        "uri": "https://web.archive.org/web/20141030170326/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2014-10-30T17:03:26Z",
+        "uri": "https://web.archive.org/web/20141030170326/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2014-12-02T13:05:58Z",
+        "uri": "https://web.archive.org/web/20141202130558/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2014-12-02T13:05:58Z",
+        "uri": "https://web.archive.org/web/20141202130558/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2014-12-21T05:20:54Z",
+        "uri": "https://web.archive.org/web/20141221052054/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2015-01-02T09:20:35Z",
+        "uri": "https://web.archive.org/web/20150102092035/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2015-01-02T09:20:35Z",
+        "uri": "https://web.archive.org/web/20150102092035/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2015-02-14T08:08:01Z",
+        "uri": "https://web.archive.org/web/20150214080801/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2015-02-14T08:08:01Z",
+        "uri": "https://web.archive.org/web/20150214080801/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2015-02-15T08:45:31Z",
+        "uri": "https://web.archive.org/web/20150215084531/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2015-03-17T01:17:31Z",
+        "uri": "https://web.archive.org/web/20150317011731/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2015-03-17T01:17:31Z",
+        "uri": "https://web.archive.org/web/20150317011731/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2015-04-17T00:23:37Z",
+        "uri": "https://web.archive.org/web/20150417002337/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2015-04-17T08:15:37Z",
+        "uri": "https://web.archive.org/web/20150417081537/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2015-04-17T08:15:37Z",
+        "uri": "https://web.archive.org/web/20150417081537/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2015-05-11T06:59:35Z",
+        "uri": "https://web.archive.org/web/20150511065935/http://catalog.odu.edu/courses/hist/"
+      },
+      {
+        "datetime": "2015-05-18T08:08:50Z",
+        "uri": "https://web.archive.org/web/20150518080850/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2015-05-18T08:08:50Z",
+        "uri": "https://web.archive.org/web/20150518080850/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2015-06-16T14:51:22Z",
+        "uri": "https://web.archive.org/web/20150616145122/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2015-06-23T12:07:57Z",
+        "uri": "https://web.archive.org/web/20150623120757/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2015-06-23T12:07:57Z",
+        "uri": "https://web.archive.org/web/20150623120757/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2015-07-03T06:28:55Z",
+        "uri": "https://web.archive.org/web/20150703062855/http://catalog.odu.edu/courses/hist/"
+      },
+      {
+        "datetime": "2015-08-05T07:16:29Z",
+        "uri": "https://web.archive.org/web/20150805071629/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2015-08-05T07:16:29Z",
+        "uri": "https://web.archive.org/web/20150805071629/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2015-08-16T00:48:45Z",
+        "uri": "https://web.archive.org/web/20150816004845/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2015-09-05T01:53:38Z",
+        "uri": "https://web.archive.org/web/20150905015338/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2015-09-05T01:53:38Z",
+        "uri": "https://web.archive.org/web/20150905015338/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2015-10-15T07:12:20Z",
+        "uri": "https://web.archive.org/web/20151015071220/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2015-12-14T15:23:53Z",
+        "uri": "https://web.archive.org/web/20151214152353/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2016-01-01T22:32:57Z",
+        "uri": "https://web.archive.org/web/20160101223257/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2016-01-01T22:32:57Z",
+        "uri": "https://web.archive.org/web/20160101223257/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2016-02-01T13:03:54Z",
+        "uri": "https://web.archive.org/web/20160201130354/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2016-02-01T13:03:54Z",
+        "uri": "https://web.archive.org/web/20160201130354/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2016-02-13T07:50:47Z",
+        "uri": "https://web.archive.org/web/20160213075047/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2016-03-02T23:50:08Z",
+        "uri": "https://web.archive.org/web/20160302235008/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2016-03-02T23:50:08Z",
+        "uri": "https://web.archive.org/web/20160302235008/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2016-04-03T07:04:50Z",
+        "uri": "https://web.archive.org/web/20160403070450/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2016-04-03T07:04:50Z",
+        "uri": "https://web.archive.org/web/20160403070450/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2016-04-08T22:58:15Z",
+        "uri": "https://web.archive.org/web/20160408225815/http://catalog.odu.edu/courses/hist/"
+      },
+      {
+        "datetime": "2016-04-13T17:42:40Z",
+        "uri": "https://web.archive.org/web/20160413174240/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2016-06-13T11:02:15Z",
+        "uri": "https://web.archive.org/web/20160613110215/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2016-07-27T04:44:27Z",
+        "uri": "https://web.archive.org/web/20160727044427/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2016-07-27T04:44:27Z",
+        "uri": "https://web.archive.org/web/20160727044427/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2016-07-28T10:08:28Z",
+        "uri": "https://web.archive.org/web/20160728100828/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2016-07-28T10:08:28Z",
+        "uri": "https://web.archive.org/web/20160728100828/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2016-08-13T01:00:57Z",
+        "uri": "https://web.archive.org/web/20160813010057/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2016-08-28T19:34:57Z",
+        "uri": "https://web.archive.org/web/20160828193457/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2016-08-28T19:34:57Z",
+        "uri": "https://web.archive.org/web/20160828193457/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2016-09-29T04:12:11Z",
+        "uri": "https://web.archive.org/web/20160929041211/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2016-09-29T04:12:11Z",
+        "uri": "https://web.archive.org/web/20160929041211/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2016-10-12T21:26:08Z",
+        "uri": "https://web.archive.org/web/20161012212608/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2016-10-30T16:47:53Z",
+        "uri": "https://web.archive.org/web/20161030164753/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2016-10-30T16:47:53Z",
+        "uri": "https://web.archive.org/web/20161030164753/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2016-12-05T04:57:06Z",
+        "uri": "https://web.archive.org/web/20161205045706/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2017-01-12T02:38:59Z",
+        "uri": "https://web.archive.org/web/20170112023859/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2017-01-12T02:38:59Z",
+        "uri": "https://web.archive.org/web/20170112023859/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2017-02-03T14:01:39Z",
+        "uri": "https://web.archive.org/web/20170203140139/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2017-04-07T09:19:52Z",
+        "uri": "https://web.archive.org/web/20170407091952/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2017-04-27T03:37:59Z",
+        "uri": "https://web.archive.org/web/20170427033759/http://catalog.odu.edu/courses/hist/"
+      },
+      {
+        "datetime": "2017-06-07T06:15:04Z",
+        "uri": "https://web.archive.org/web/20170607061504/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2017-07-09T00:37:15Z",
+        "uri": "https://web.archive.org/web/20170709003715/http://catalog.odu.edu/courses/hist/"
+      },
+      {
+        "datetime": "2017-08-08T13:34:04Z",
+        "uri": "https://web.archive.org/web/20170808133404/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2017-10-08T18:52:21Z",
+        "uri": "https://web.archive.org/web/20171008185221/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2017-12-09T00:10:22Z",
+        "uri": "https://web.archive.org/web/20171209001022/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2018-02-07T18:50:12Z",
+        "uri": "https://web.archive.org/web/20180207185012/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2018-03-17T04:06:40Z",
+        "uri": "https://web.archive.org/web/20180317040640/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2018-03-17T04:06:40Z",
+        "uri": "https://web.archive.org/web/20180317040640/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2018-04-09T18:19:03Z",
+        "uri": "https://web.archive.org/web/20180409181903/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2018-04-18T06:54:08Z",
+        "uri": "https://web.archive.org/web/20180418065408/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2018-04-18T06:54:08Z",
+        "uri": "https://web.archive.org/web/20180418065408/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2018-05-20T07:05:50Z",
+        "uri": "https://web.archive.org/web/20180520070550/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2018-05-20T07:05:50Z",
+        "uri": "https://web.archive.org/web/20180520070550/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2018-06-10T03:39:36Z",
+        "uri": "https://web.archive.org/web/20180610033936/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2018-06-20T03:38:53Z",
+        "uri": "https://web.archive.org/web/20180620033853/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2018-06-20T03:38:53Z",
+        "uri": "https://web.archive.org/web/20180620033853/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2018-07-21T02:57:26Z",
+        "uri": "https://web.archive.org/web/20180721025726/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2018-07-21T02:57:26Z",
+        "uri": "https://web.archive.org/web/20180721025726/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2018-08-21T01:35:21Z",
+        "uri": "https://web.archive.org/web/20180821013521/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2018-08-21T01:35:21Z",
+        "uri": "https://web.archive.org/web/20180821013521/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2018-09-21T05:25:14Z",
+        "uri": "https://web.archive.org/web/20180921052514/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2018-09-21T05:25:14Z",
+        "uri": "https://web.archive.org/web/20180921052514/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2018-10-09T17:47:50Z",
+        "uri": "https://web.archive.org/web/20181009174750/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2018-10-22T10:45:16Z",
+        "uri": "https://web.archive.org/web/20181022104516/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2018-10-22T10:45:16Z",
+        "uri": "https://web.archive.org/web/20181022104516/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2018-11-23T05:03:54Z",
+        "uri": "https://web.archive.org/web/20181123050354/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2018-11-23T05:03:54Z",
+        "uri": "https://web.archive.org/web/20181123050354/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2018-12-10T15:10:56Z",
+        "uri": "https://web.archive.org/web/20181210151056/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2018-12-24T01:22:52Z",
+        "uri": "https://web.archive.org/web/20181224012252/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2018-12-24T01:22:52Z",
+        "uri": "https://web.archive.org/web/20181224012252/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2019-01-23T23:23:11Z",
+        "uri": "https://web.archive.org/web/20190123232311/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2019-01-23T23:23:11Z",
+        "uri": "https://web.archive.org/web/20190123232311/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2019-01-25T02:03:16Z",
+        "uri": "https://web.archive.org/web/20190125020316/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2019-01-25T02:03:16Z",
+        "uri": "https://web.archive.org/web/20190125020316/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2019-02-10T00:33:48Z",
+        "uri": "https://web.archive.org/web/20190210003348/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2019-02-25T15:09:40Z",
+        "uri": "https://web.archive.org/web/20190225150940/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2019-02-25T15:09:40Z",
+        "uri": "https://web.archive.org/web/20190225150940/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2019-03-28T10:25:35Z",
+        "uri": "https://web.archive.org/web/20190328102535/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2019-03-28T10:25:35Z",
+        "uri": "https://web.archive.org/web/20190328102535/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2019-04-12T10:42:48Z",
+        "uri": "https://web.archive.org/web/20190412104248/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2019-04-28T07:29:52Z",
+        "uri": "https://web.archive.org/web/20190428072952/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2019-04-28T07:29:52Z",
+        "uri": "https://web.archive.org/web/20190428072952/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2019-05-29T00:33:10Z",
+        "uri": "https://web.archive.org/web/20190529003310/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2019-05-29T00:33:10Z",
+        "uri": "https://web.archive.org/web/20190529003310/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2019-06-12T01:27:03Z",
+        "uri": "https://web.archive.org/web/20190612012703/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2019-06-28T22:05:13Z",
+        "uri": "https://web.archive.org/web/20190628220513/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2019-06-28T22:05:13Z",
+        "uri": "https://web.archive.org/web/20190628220513/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2019-07-31T05:57:12Z",
+        "uri": "https://web.archive.org/web/20190731055712/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2019-07-31T05:57:12Z",
+        "uri": "https://web.archive.org/web/20190731055712/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2019-08-11T18:46:35Z",
+        "uri": "https://web.archive.org/web/20190811184635/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2019-08-31T09:10:59Z",
+        "uri": "https://web.archive.org/web/20190831091059/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2019-08-31T09:10:59Z",
+        "uri": "https://web.archive.org/web/20190831091059/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2019-10-01T05:01:14Z",
+        "uri": "https://web.archive.org/web/20191001050114/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2019-10-01T05:01:14Z",
+        "uri": "https://web.archive.org/web/20191001050114/http://catalog.odu.edu:80/courses/hist"
+      },
+      {
+        "datetime": "2019-10-09T05:26:44Z",
+        "uri": "https://web.archive.org/web/20191009052644/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2019-10-29T16:14:52Z",
+        "uri": "https://web.archive.org/web/20191029161452/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2019-11-28T20:34:16Z",
+        "uri": "https://web.archive.org/web/20191128203416/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2019-12-29T02:47:34Z",
+        "uri": "https://web.archive.org/web/20191229024734/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2020-01-28T05:24:46Z",
+        "uri": "https://web.archive.org/web/20200128052446/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2020-03-02T06:05:11Z",
+        "uri": "https://web.archive.org/web/20200302060511/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2020-05-01T08:45:09Z",
+        "uri": "https://web.archive.org/web/20200501084509/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2020-06-30T12:17:09Z",
+        "uri": "https://web.archive.org/web/20200630121709/http://catalog.odu.edu:80/courses/hist/"
+      },
+      {
+        "datetime": "2021-01-24T10:14:01Z",
+        "uri": "https://web.archive.org/web/20210124101401/https://catalog.odu.edu/courses/hist/"
+      },
+      {
+        "datetime": "2021-04-12T20:24:59Z",
+        "uri": "https://web.archive.org/web/20210412202459/http://catalog.odu.edu/courses/hist/"
+      },
+      {
+        "datetime": "2021-09-15T05:17:57Z",
+        "uri": "https://arquivo.pt/wayback/20210915051757mp_/http://catalog.odu.edu/courses/hist/"
+      },
+      {
+        "datetime": "2021-09-15T05:18:02Z",
+        "uri": "https://arquivo.pt/wayback/20210915051802mp_/https://catalog.odu.edu/courses/hist/"
+      },
+      {
+        "datetime": "2021-11-03T22:00:06Z",
+        "uri": "https://web.archive.org/web/20211103220006/https://catalog.odu.edu/courses/hist/"
+      },
+      {
+        "datetime": "2021-11-23T20:13:06Z",
+        "uri": "https://web.archive.org/web/20211123201306/https://catalog.odu.edu/courses/hist/"
+      },
+      {
+        "datetime": "2022-03-19T20:15:44Z",
+        "uri": "https://web.archive.org/web/20220319201544/https://catalog.odu.edu/courses/hist/"
+      },
+      {
+        "datetime": "2023-12-17T01:36:34Z",
+        "uri": "https://web.archive.org/web/20231217013634/https://catalog.odu.edu/courses/hist/"
+      },
+      {
+        "datetime": "2024-02-29T00:41:14Z",
+        "uri": "https://web.archive.org/web/20240229004114/https://catalog.odu.edu/courses/hist/"
+      },
+      {
+        "datetime": "2024-09-12T05:42:37Z",
+        "uri": "https://web.archive.org/web/20240912054237/https://catalog.odu.edu/courses/hist/"
+      },
+      {
+        "datetime": "2024-12-07T06:16:25Z",
+        "uri": "https://web.archive.org/web/20241207061625/https://catalog.odu.edu/courses/hist/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:17:57Z",
+      "uri": "https://web.archive.org/web/20120902041757/http://catalog.odu.edu:80/courses/hist/"
+    },
+    "last": {
+      "datetime": "2024-12-07T06:16:25Z",
+      "uri": "https://web.archive.org/web/20241207061625/https://catalog.odu.edu/courses/hist/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/hist/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/hist/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/hist/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/hist/"
+}

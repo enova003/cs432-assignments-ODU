@@ -1,0 +1,54 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/arts-letters/political-science-geography/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/arts-letters/political-science-geography/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T01:21:19Z",
+        "uri": "https://web.archive.org/web/20230927012119/https://catalog.odu.edu/graduate/arts-letters/political-science-geography/"
+      },
+      {
+        "datetime": "2023-10-01T02:16:45Z",
+        "uri": "https://web.archive.org/web/20231001021645/https://catalog.odu.edu/graduate/arts-letters/political-science-geography/"
+      },
+      {
+        "datetime": "2023-12-08T06:22:14Z",
+        "uri": "https://web.archive.org/web/20231208062214/https://catalog.odu.edu/graduate/arts-letters/political-science-geography/"
+      },
+      {
+        "datetime": "2023-12-09T23:03:50Z",
+        "uri": "https://web.archive.org/web/20231209230350/https://catalog.odu.edu/graduate/arts-letters/political-science-geography/"
+      },
+      {
+        "datetime": "2023-12-09T23:03:58Z",
+        "uri": "https://web.archive.org/web/20231209230358/http://catalog.odu.edu/graduate/arts-letters/political-science-geography/"
+      },
+      {
+        "datetime": "2024-02-28T21:42:18Z",
+        "uri": "https://web.archive.org/web/20240228214218/https://catalog.odu.edu/graduate/arts-letters/political-science-geography/"
+      },
+      {
+        "datetime": "2024-03-04T04:28:27Z",
+        "uri": "https://web.archive.org/web/20240304042827/https://catalog.odu.edu/graduate/arts-letters/political-science-geography/"
+      },
+      {
+        "datetime": "2024-09-26T21:53:36Z",
+        "uri": "https://web.archive.org/web/20240926215336/https://catalog.odu.edu/graduate/arts-letters/political-science-geography/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T01:21:19Z",
+      "uri": "https://web.archive.org/web/20230927012119/https://catalog.odu.edu/graduate/arts-letters/political-science-geography/"
+    },
+    "last": {
+      "datetime": "2024-09-26T21:53:36Z",
+      "uri": "https://web.archive.org/web/20240926215336/https://catalog.odu.edu/graduate/arts-letters/political-science-geography/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/arts-letters/political-science-geography/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/arts-letters/political-science-geography/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/arts-letters/political-science-geography/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/arts-letters/political-science-geography/"
+}

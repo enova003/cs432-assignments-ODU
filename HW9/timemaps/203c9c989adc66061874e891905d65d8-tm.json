@@ -1,0 +1,394 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/hpe/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/hpe/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:26:02Z",
+        "uri": "https://web.archive.org/web/20120902042602/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2013-05-17T07:37:13Z",
+        "uri": "https://web.archive.org/web/20130517073713/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2014-04-22T11:51:43Z",
+        "uri": "https://web.archive.org/web/20140422115143/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2014-06-22T04:21:24Z",
+        "uri": "https://web.archive.org/web/20140622042124/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2014-08-22T03:32:36Z",
+        "uri": "https://web.archive.org/web/20140822033236/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2014-10-21T20:56:16Z",
+        "uri": "https://web.archive.org/web/20141021205616/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2014-12-21T05:21:21Z",
+        "uri": "https://web.archive.org/web/20141221052121/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2015-02-15T15:57:13Z",
+        "uri": "https://web.archive.org/web/20150215155713/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2015-04-17T03:08:48Z",
+        "uri": "https://web.archive.org/web/20150417030848/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2015-05-11T07:45:57Z",
+        "uri": "https://web.archive.org/web/20150511074557/http://catalog.odu.edu/courses/hpe/"
+      },
+      {
+        "datetime": "2015-06-16T14:51:50Z",
+        "uri": "https://web.archive.org/web/20150616145150/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2015-07-03T07:53:38Z",
+        "uri": "https://web.archive.org/web/20150703075338/http://catalog.odu.edu/courses/hpe/"
+      },
+      {
+        "datetime": "2015-08-16T00:49:14Z",
+        "uri": "https://web.archive.org/web/20150816004914/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2015-10-15T07:12:46Z",
+        "uri": "https://web.archive.org/web/20151015071246/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2015-12-14T15:23:58Z",
+        "uri": "https://web.archive.org/web/20151214152358/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2016-01-01T12:14:22Z",
+        "uri": "https://web.archive.org/web/20160101121422/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2016-01-01T12:14:22Z",
+        "uri": "https://web.archive.org/web/20160101121422/http://catalog.odu.edu:80/courses/hpe"
+      },
+      {
+        "datetime": "2016-02-01T03:34:52Z",
+        "uri": "https://web.archive.org/web/20160201033452/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2016-02-01T03:34:52Z",
+        "uri": "https://web.archive.org/web/20160201033452/http://catalog.odu.edu:80/courses/hpe"
+      },
+      {
+        "datetime": "2016-02-13T06:10:38Z",
+        "uri": "https://web.archive.org/web/20160213061038/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2016-03-02T23:50:23Z",
+        "uri": "https://web.archive.org/web/20160302235023/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2016-03-02T23:50:23Z",
+        "uri": "https://web.archive.org/web/20160302235023/http://catalog.odu.edu:80/courses/hpe"
+      },
+      {
+        "datetime": "2016-04-03T23:56:10Z",
+        "uri": "https://web.archive.org/web/20160403235610/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2016-04-03T23:56:10Z",
+        "uri": "https://web.archive.org/web/20160403235610/http://catalog.odu.edu:80/courses/hpe"
+      },
+      {
+        "datetime": "2016-04-09T04:59:11Z",
+        "uri": "https://web.archive.org/web/20160409045911/http://catalog.odu.edu/courses/hpe/"
+      },
+      {
+        "datetime": "2016-04-13T17:57:54Z",
+        "uri": "https://web.archive.org/web/20160413175754/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2016-06-13T11:02:30Z",
+        "uri": "https://web.archive.org/web/20160613110230/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2016-06-16T18:08:06Z",
+        "uri": "https://web.archive.org/web/20160616180806/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2016-06-16T18:08:06Z",
+        "uri": "https://web.archive.org/web/20160616180806/http://catalog.odu.edu:80/courses/hpe"
+      },
+      {
+        "datetime": "2016-07-18T11:05:19Z",
+        "uri": "https://web.archive.org/web/20160718110519/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2016-07-18T11:05:19Z",
+        "uri": "https://web.archive.org/web/20160718110519/http://catalog.odu.edu:80/courses/hpe"
+      },
+      {
+        "datetime": "2016-08-13T03:31:04Z",
+        "uri": "https://web.archive.org/web/20160813033104/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2016-08-18T23:02:03Z",
+        "uri": "https://web.archive.org/web/20160818230203/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2016-08-18T23:02:03Z",
+        "uri": "https://web.archive.org/web/20160818230203/http://catalog.odu.edu:80/courses/hpe"
+      },
+      {
+        "datetime": "2016-10-13T00:06:40Z",
+        "uri": "https://web.archive.org/web/20161013000640/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2016-12-05T04:57:36Z",
+        "uri": "https://web.archive.org/web/20161205045736/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2017-03-25T19:12:37Z",
+        "uri": "https://web.archive.org/web/20170325191237/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2017-03-25T19:12:37Z",
+        "uri": "https://web.archive.org/web/20170325191237/http://catalog.odu.edu:80/courses/hpe"
+      },
+      {
+        "datetime": "2017-04-08T17:57:53Z",
+        "uri": "https://web.archive.org/web/20170408175753/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2017-04-27T05:21:49Z",
+        "uri": "https://web.archive.org/web/20170427052149/http://catalog.odu.edu/courses/hpe/"
+      },
+      {
+        "datetime": "2017-06-08T07:06:39Z",
+        "uri": "https://web.archive.org/web/20170608070639/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2017-08-08T13:42:39Z",
+        "uri": "https://web.archive.org/web/20170808134239/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2017-10-08T18:52:31Z",
+        "uri": "https://web.archive.org/web/20171008185231/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2017-12-09T00:21:44Z",
+        "uri": "https://web.archive.org/web/20171209002144/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2018-02-07T18:47:11Z",
+        "uri": "https://web.archive.org/web/20180207184711/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2018-04-09T20:15:26Z",
+        "uri": "https://web.archive.org/web/20180409201526/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2018-06-10T06:26:17Z",
+        "uri": "https://web.archive.org/web/20180610062617/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2018-08-10T07:53:32Z",
+        "uri": "https://web.archive.org/web/20180810075332/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2018-10-10T04:03:59Z",
+        "uri": "https://web.archive.org/web/20181010040359/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2018-10-11T04:25:07Z",
+        "uri": "https://web.archive.org/web/20181011042507/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2018-12-11T10:30:31Z",
+        "uri": "https://web.archive.org/web/20181211103031/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2018-12-12T18:21:14Z",
+        "uri": "https://web.archive.org/web/20181212182114/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2018-12-12T18:21:14Z",
+        "uri": "https://web.archive.org/web/20181212182114/http://catalog.odu.edu:80/courses/hpe"
+      },
+      {
+        "datetime": "2019-01-12T15:49:32Z",
+        "uri": "https://web.archive.org/web/20190112154932/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2019-01-12T15:49:32Z",
+        "uri": "https://web.archive.org/web/20190112154932/http://catalog.odu.edu:80/courses/hpe"
+      },
+      {
+        "datetime": "2019-02-11T07:35:35Z",
+        "uri": "https://web.archive.org/web/20190211073535/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2019-02-13T04:42:54Z",
+        "uri": "https://web.archive.org/web/20190213044254/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2019-02-13T04:42:54Z",
+        "uri": "https://web.archive.org/web/20190213044254/http://catalog.odu.edu:80/courses/hpe"
+      },
+      {
+        "datetime": "2019-03-16T01:30:50Z",
+        "uri": "https://web.archive.org/web/20190316013050/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2019-03-16T01:30:50Z",
+        "uri": "https://web.archive.org/web/20190316013050/http://catalog.odu.edu:80/courses/hpe"
+      },
+      {
+        "datetime": "2019-04-13T00:21:47Z",
+        "uri": "https://web.archive.org/web/20190413002147/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2019-04-16T20:55:22Z",
+        "uri": "https://web.archive.org/web/20190416205522/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2019-04-16T20:55:22Z",
+        "uri": "https://web.archive.org/web/20190416205522/http://catalog.odu.edu:80/courses/hpe"
+      },
+      {
+        "datetime": "2019-05-17T14:02:43Z",
+        "uri": "https://web.archive.org/web/20190517140243/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2019-05-17T14:02:43Z",
+        "uri": "https://web.archive.org/web/20190517140243/http://catalog.odu.edu:80/courses/hpe"
+      },
+      {
+        "datetime": "2019-06-12T16:34:02Z",
+        "uri": "https://web.archive.org/web/20190612163402/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2019-06-17T09:08:12Z",
+        "uri": "https://web.archive.org/web/20190617090812/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2019-06-17T09:08:12Z",
+        "uri": "https://web.archive.org/web/20190617090812/http://catalog.odu.edu:80/courses/hpe"
+      },
+      {
+        "datetime": "2019-07-21T16:16:48Z",
+        "uri": "https://web.archive.org/web/20190721161648/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2019-07-21T16:16:48Z",
+        "uri": "https://web.archive.org/web/20190721161648/http://catalog.odu.edu:80/courses/hpe"
+      },
+      {
+        "datetime": "2019-08-13T05:21:11Z",
+        "uri": "https://web.archive.org/web/20190813052111/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2019-08-21T18:43:34Z",
+        "uri": "https://web.archive.org/web/20190821184334/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2019-08-21T18:43:34Z",
+        "uri": "https://web.archive.org/web/20190821184334/http://catalog.odu.edu:80/courses/hpe"
+      },
+      {
+        "datetime": "2019-09-23T03:23:11Z",
+        "uri": "https://web.archive.org/web/20190923032311/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2019-09-23T03:23:11Z",
+        "uri": "https://web.archive.org/web/20190923032311/http://catalog.odu.edu:80/courses/hpe"
+      },
+      {
+        "datetime": "2019-10-09T05:17:48Z",
+        "uri": "https://web.archive.org/web/20191009051748/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2019-10-20T16:45:03Z",
+        "uri": "https://web.archive.org/web/20191020164503/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2019-11-20T02:17:49Z",
+        "uri": "https://web.archive.org/web/20191120021749/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2019-12-20T08:23:57Z",
+        "uri": "https://web.archive.org/web/20191220082357/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2020-01-19T16:01:16Z",
+        "uri": "https://web.archive.org/web/20200119160116/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2020-02-18T19:11:01Z",
+        "uri": "https://web.archive.org/web/20200218191101/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2020-03-02T06:05:21Z",
+        "uri": "https://web.archive.org/web/20200302060521/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2020-05-01T08:45:40Z",
+        "uri": "https://web.archive.org/web/20200501084540/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2020-06-30T12:17:40Z",
+        "uri": "https://web.archive.org/web/20200630121740/http://catalog.odu.edu:80/courses/hpe/"
+      },
+      {
+        "datetime": "2021-01-24T10:10:13Z",
+        "uri": "https://web.archive.org/web/20210124101013/https://catalog.odu.edu/courses/hpe/"
+      },
+      {
+        "datetime": "2021-04-12T20:35:15Z",
+        "uri": "https://web.archive.org/web/20210412203515/http://catalog.odu.edu/courses/hpe/"
+      },
+      {
+        "datetime": "2021-09-15T05:21:15Z",
+        "uri": "https://arquivo.pt/wayback/20210915052115mp_/https://catalog.odu.edu/courses/hpe/"
+      },
+      {
+        "datetime": "2021-11-03T21:58:15Z",
+        "uri": "https://web.archive.org/web/20211103215815/https://catalog.odu.edu/courses/hpe/"
+      },
+      {
+        "datetime": "2021-11-21T13:24:15Z",
+        "uri": "https://web.archive.org/web/20211121132415/https://catalog.odu.edu/courses/hpe/"
+      },
+      {
+        "datetime": "2022-03-19T20:19:15Z",
+        "uri": "https://web.archive.org/web/20220319201915/https://catalog.odu.edu/courses/hpe/"
+      },
+      {
+        "datetime": "2024-02-28T21:42:09Z",
+        "uri": "https://web.archive.org/web/20240228214209/https://catalog.odu.edu/courses/hpe/"
+      },
+      {
+        "datetime": "2024-02-29T16:09:31Z",
+        "uri": "https://web.archive.org/web/20240229160931/https://catalog.odu.edu/courses/hpe/"
+      },
+      {
+        "datetime": "2024-10-13T08:07:45Z",
+        "uri": "https://web.archive.org/web/20241013080745/https://catalog.odu.edu/courses/hpe/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:26:02Z",
+      "uri": "https://web.archive.org/web/20120902042602/http://catalog.odu.edu:80/courses/hpe/"
+    },
+    "last": {
+      "datetime": "2024-10-13T08:07:45Z",
+      "uri": "https://web.archive.org/web/20241013080745/https://catalog.odu.edu/courses/hpe/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/hpe/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/hpe/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/hpe/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/hpe/"
+}

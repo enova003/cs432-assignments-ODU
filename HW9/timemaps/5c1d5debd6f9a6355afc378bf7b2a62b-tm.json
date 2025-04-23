@@ -1,0 +1,58 @@
+{
+  "original_uri": "https://online.odu.edu/info-prospective-students",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/info-prospective-students",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-07-15T00:31:07Z",
+        "uri": "https://web.archive.org/web/20230715003107/https://online.odu.edu/info-prospective-students"
+      },
+      {
+        "datetime": "2023-08-03T21:20:27Z",
+        "uri": "https://web.archive.org/web/20230803212027/https://online.odu.edu/info-prospective-students"
+      },
+      {
+        "datetime": "2023-09-24T17:05:21Z",
+        "uri": "https://web.archive.org/web/20230924170521/https://online.odu.edu/info-prospective-students"
+      },
+      {
+        "datetime": "2024-02-25T08:30:20Z",
+        "uri": "https://web.archive.org/web/20240225083020/https://online.odu.edu/info-prospective-students"
+      },
+      {
+        "datetime": "2024-06-13T23:12:05Z",
+        "uri": "https://web.archive.org/web/20240613231205/https://online.odu.edu/info-prospective-students"
+      },
+      {
+        "datetime": "2024-08-04T17:25:19Z",
+        "uri": "https://web.archive.org/web/20240804172519/https://online.odu.edu/info-prospective-students"
+      },
+      {
+        "datetime": "2024-10-05T12:24:09Z",
+        "uri": "https://web.archive.org/web/20241005122409/https://online.odu.edu/info-prospective-students"
+      },
+      {
+        "datetime": "2024-12-14T22:14:31Z",
+        "uri": "https://web.archive.org/web/20241214221431/https://online.odu.edu/info-prospective-students"
+      },
+      {
+        "datetime": "2025-01-19T13:02:46Z",
+        "uri": "https://web.archive.org/web/20250119130246/https://online.odu.edu/info-prospective-students"
+      }
+    ],
+    "first": {
+      "datetime": "2023-07-15T00:31:07Z",
+      "uri": "https://web.archive.org/web/20230715003107/https://online.odu.edu/info-prospective-students"
+    },
+    "last": {
+      "datetime": "2025-01-19T13:02:46Z",
+      "uri": "https://web.archive.org/web/20250119130246/https://online.odu.edu/info-prospective-students"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/info-prospective-students",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/info-prospective-students",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/info-prospective-students"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/info-prospective-students"
+}

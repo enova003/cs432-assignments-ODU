@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/education/educational-leadership-workforce-development/educational-leadership-administration-supervision-non-licensure-eds/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/education/educational-leadership-workforce-development/educational-leadership-administration-supervision-non-licensure-eds/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-10-13T07:04:29Z",
+        "uri": "https://web.archive.org/web/20241013070429/https://catalog.odu.edu/graduate/education/educational-leadership-workforce-development/educational-leadership-administration-supervision-non-licensure-eds/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-10-13T07:04:29Z",
+      "uri": "https://web.archive.org/web/20241013070429/https://catalog.odu.edu/graduate/education/educational-leadership-workforce-development/educational-leadership-administration-supervision-non-licensure-eds/"
+    },
+    "last": {
+      "datetime": "2024-10-13T07:04:29Z",
+      "uri": "https://web.archive.org/web/20241013070429/https://catalog.odu.edu/graduate/education/educational-leadership-workforce-development/educational-leadership-administration-supervision-non-licensure-eds/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/education/educational-leadership-workforce-development/educational-leadership-administration-supervision-non-licensure-eds/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/education/educational-leadership-workforce-development/educational-leadership-administration-supervision-non-licensure-eds/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/education/educational-leadership-workforce-development/educational-leadership-administration-supervision-non-licensure-eds/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/education/educational-leadership-workforce-development/educational-leadership-administration-supervision-non-licensure-eds/"
+}

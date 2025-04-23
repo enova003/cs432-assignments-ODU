@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/engineering-technology/civil-environmental-engineering/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/engineering-technology/civil-environmental-engineering/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-21T18:11:48Z",
+        "uri": "https://web.archive.org/web/20230921181148/https://catalog.odu.edu/graduate/engineering-technology/civil-environmental-engineering/"
+      },
+      {
+        "datetime": "2023-09-27T00:49:53Z",
+        "uri": "https://web.archive.org/web/20230927004953/https://catalog.odu.edu/graduate/engineering-technology/civil-environmental-engineering/"
+      },
+      {
+        "datetime": "2024-02-29T16:10:41Z",
+        "uri": "https://web.archive.org/web/20240229161041/https://catalog.odu.edu/graduate/engineering-technology/civil-environmental-engineering/"
+      },
+      {
+        "datetime": "2024-03-26T05:41:20Z",
+        "uri": "https://web.archive.org/web/20240326054120/https://catalog.odu.edu/graduate/engineering-technology/civil-environmental-engineering/"
+      },
+      {
+        "datetime": "2024-03-26T05:57:48Z",
+        "uri": "https://web.archive.org/web/20240326055748/http://catalog.odu.edu/graduate/engineering-technology/civil-environmental-engineering/"
+      },
+      {
+        "datetime": "2024-04-17T21:14:21Z",
+        "uri": "https://web.archive.org/web/20240417211421/https://catalog.odu.edu/graduate/engineering-technology/civil-environmental-engineering/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-21T18:11:48Z",
+      "uri": "https://web.archive.org/web/20230921181148/https://catalog.odu.edu/graduate/engineering-technology/civil-environmental-engineering/"
+    },
+    "last": {
+      "datetime": "2024-04-17T21:14:21Z",
+      "uri": "https://web.archive.org/web/20240417211421/https://catalog.odu.edu/graduate/engineering-technology/civil-environmental-engineering/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/engineering-technology/civil-environmental-engineering/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/engineering-technology/civil-environmental-engineering/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/engineering-technology/civil-environmental-engineering/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/engineering-technology/civil-environmental-engineering/"
+}

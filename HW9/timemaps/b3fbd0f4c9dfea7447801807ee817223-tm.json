@@ -1,0 +1,74 @@
+{
+  "original_uri": "https://online.odu.edu/summer-studies",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/summer-studies",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-04-27T16:09:40Z",
+        "uri": "https://web.archive.org/web/20240427160940/https://online.odu.edu/summer-studies"
+      },
+      {
+        "datetime": "2024-05-13T13:54:00Z",
+        "uri": "https://web.archive.org/web/20240513135400/https://online.odu.edu/summer-studies"
+      },
+      {
+        "datetime": "2024-05-18T13:57:06Z",
+        "uri": "https://web.archive.org/web/20240518135706/https://online.odu.edu/summer-studies"
+      },
+      {
+        "datetime": "2024-05-23T21:39:20Z",
+        "uri": "https://wayback.archive-it.org/all/20240523213920/https://online.odu.edu/summer-studies"
+      },
+      {
+        "datetime": "2024-05-25T21:18:56Z",
+        "uri": "https://web.archive.org/web/20240525211856/https://online.odu.edu/summer-studies"
+      },
+      {
+        "datetime": "2024-06-13T22:57:47Z",
+        "uri": "https://web.archive.org/web/20240613225747/https://online.odu.edu/summer-studies"
+      },
+      {
+        "datetime": "2024-09-01T12:11:06Z",
+        "uri": "https://web.archive.org/web/20240901121106/https://online.odu.edu/summer-studies"
+      },
+      {
+        "datetime": "2024-09-20T16:44:46Z",
+        "uri": "https://web.archive.org/web/20240920164446/https://online.odu.edu/summer-studies"
+      },
+      {
+        "datetime": "2024-10-07T12:38:52Z",
+        "uri": "https://web.archive.org/web/20241007123852/https://online.odu.edu/summer-studies"
+      },
+      {
+        "datetime": "2024-11-05T12:39:06Z",
+        "uri": "https://web.archive.org/web/20241105123906/https://online.odu.edu/summer-studies"
+      },
+      {
+        "datetime": "2024-12-24T17:56:03Z",
+        "uri": "https://web.archive.org/web/20241224175603/https://online.odu.edu/summer-studies"
+      },
+      {
+        "datetime": "2024-12-27T12:24:17Z",
+        "uri": "https://web.archive.org/web/20241227122417/https://online.odu.edu/summer-studies"
+      },
+      {
+        "datetime": "2025-02-14T10:00:45Z",
+        "uri": "https://web.archive.org/web/20250214100045/https://online.odu.edu/summer-studies"
+      }
+    ],
+    "first": {
+      "datetime": "2024-04-27T16:09:40Z",
+      "uri": "https://web.archive.org/web/20240427160940/https://online.odu.edu/summer-studies"
+    },
+    "last": {
+      "datetime": "2025-02-14T10:00:45Z",
+      "uri": "https://web.archive.org/web/20250214100045/https://online.odu.edu/summer-studies"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/summer-studies",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/summer-studies",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/summer-studies"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/summer-studies"
+}

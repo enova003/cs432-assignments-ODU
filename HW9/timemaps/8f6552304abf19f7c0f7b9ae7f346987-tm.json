@@ -1,0 +1,354 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/arth/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/arth/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:13:43Z",
+        "uri": "https://web.archive.org/web/20120902041343/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2013-05-17T07:49:51Z",
+        "uri": "https://web.archive.org/web/20130517074951/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2013-08-08T00:21:07Z",
+        "uri": "https://web.archive.org/web/20130808002107/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2013-08-08T00:21:07Z",
+        "uri": "https://web.archive.org/web/20130808002107/http://catalog.odu.edu:80/courses/arth"
+      },
+      {
+        "datetime": "2013-08-09T22:38:24Z",
+        "uri": "https://web.archive.org/web/20130809223824/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2014-04-22T11:49:21Z",
+        "uri": "https://web.archive.org/web/20140422114921/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2014-06-22T04:20:28Z",
+        "uri": "https://web.archive.org/web/20140622042028/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2014-08-22T03:31:15Z",
+        "uri": "https://web.archive.org/web/20140822033115/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2014-10-21T20:47:15Z",
+        "uri": "https://web.archive.org/web/20141021204715/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2014-12-21T05:19:30Z",
+        "uri": "https://web.archive.org/web/20141221051930/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2015-02-15T15:42:14Z",
+        "uri": "https://web.archive.org/web/20150215154214/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2015-04-17T03:03:08Z",
+        "uri": "https://web.archive.org/web/20150417030308/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2015-05-11T06:58:10Z",
+        "uri": "https://web.archive.org/web/20150511065810/http://catalog.odu.edu/courses/arth/"
+      },
+      {
+        "datetime": "2015-06-16T14:36:32Z",
+        "uri": "https://web.archive.org/web/20150616143632/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2015-06-22T23:59:45Z",
+        "uri": "https://web.archive.org/web/20150622235945/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2015-06-22T23:59:45Z",
+        "uri": "https://web.archive.org/web/20150622235945/http://catalog.odu.edu:80/courses/arth"
+      },
+      {
+        "datetime": "2015-07-03T04:46:56Z",
+        "uri": "https://web.archive.org/web/20150703044656/http://catalog.odu.edu/courses/arth/"
+      },
+      {
+        "datetime": "2015-08-06T03:20:11Z",
+        "uri": "https://web.archive.org/web/20150806032011/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2015-08-06T03:20:11Z",
+        "uri": "https://web.archive.org/web/20150806032011/http://catalog.odu.edu:80/courses/arth"
+      },
+      {
+        "datetime": "2015-08-25T18:02:45Z",
+        "uri": "https://web.archive.org/web/20150825180245/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2015-09-06T16:36:20Z",
+        "uri": "https://web.archive.org/web/20150906163620/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2015-09-06T16:36:20Z",
+        "uri": "https://web.archive.org/web/20150906163620/http://catalog.odu.edu:80/courses/arth"
+      },
+      {
+        "datetime": "2015-10-25T08:26:10Z",
+        "uri": "https://web.archive.org/web/20151025082610/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2015-12-24T18:31:34Z",
+        "uri": "https://web.archive.org/web/20151224183134/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2016-02-23T06:28:57Z",
+        "uri": "https://web.archive.org/web/20160223062857/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2016-04-08T22:57:21Z",
+        "uri": "https://web.archive.org/web/20160408225721/http://catalog.odu.edu/courses/arth/"
+      },
+      {
+        "datetime": "2016-04-12T18:13:35Z",
+        "uri": "https://web.archive.org/web/20160412181335/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2016-04-12T18:13:35Z",
+        "uri": "https://web.archive.org/web/20160412181335/http://catalog.odu.edu:80/courses/arth"
+      },
+      {
+        "datetime": "2016-04-23T23:10:46Z",
+        "uri": "https://web.archive.org/web/20160423231046/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2016-05-14T00:44:33Z",
+        "uri": "https://web.archive.org/web/20160514004433/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2016-05-14T00:44:33Z",
+        "uri": "https://web.archive.org/web/20160514004433/http://catalog.odu.edu:80/courses/arth"
+      },
+      {
+        "datetime": "2016-06-14T12:45:22Z",
+        "uri": "https://web.archive.org/web/20160614124522/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2016-06-14T12:45:22Z",
+        "uri": "https://web.archive.org/web/20160614124522/http://catalog.odu.edu:80/courses/arth"
+      },
+      {
+        "datetime": "2016-06-24T03:16:39Z",
+        "uri": "https://web.archive.org/web/20160624031639/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2016-06-25T13:17:36Z",
+        "uri": "https://web.archive.org/web/20160625131736/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2016-07-15T16:00:22Z",
+        "uri": "https://web.archive.org/web/20160715160022/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2016-07-15T16:00:22Z",
+        "uri": "https://web.archive.org/web/20160715160022/http://catalog.odu.edu:80/courses/arth"
+      },
+      {
+        "datetime": "2016-08-15T16:41:05Z",
+        "uri": "https://web.archive.org/web/20160815164105/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2016-08-15T16:41:05Z",
+        "uri": "https://web.archive.org/web/20160815164105/http://catalog.odu.edu:80/courses/arth"
+      },
+      {
+        "datetime": "2016-08-25T04:47:13Z",
+        "uri": "https://web.archive.org/web/20160825044713/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2016-09-15T21:32:31Z",
+        "uri": "https://web.archive.org/web/20160915213231/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2016-09-15T21:32:31Z",
+        "uri": "https://web.archive.org/web/20160915213231/http://catalog.odu.edu:80/courses/arth"
+      },
+      {
+        "datetime": "2016-10-17T06:28:23Z",
+        "uri": "https://web.archive.org/web/20161017062823/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2016-10-17T06:28:23Z",
+        "uri": "https://web.archive.org/web/20161017062823/http://catalog.odu.edu:80/courses/arth"
+      },
+      {
+        "datetime": "2016-10-24T23:08:15Z",
+        "uri": "https://web.archive.org/web/20161024230815/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2016-12-05T04:53:06Z",
+        "uri": "https://web.archive.org/web/20161205045306/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2017-04-08T17:57:03Z",
+        "uri": "https://web.archive.org/web/20170408175703/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2017-04-27T03:37:29Z",
+        "uri": "https://web.archive.org/web/20170427033729/http://catalog.odu.edu/courses/arth/"
+      },
+      {
+        "datetime": "2017-06-08T07:04:39Z",
+        "uri": "https://web.archive.org/web/20170608070439/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2017-07-09T00:35:06Z",
+        "uri": "https://web.archive.org/web/20170709003506/http://catalog.odu.edu/courses/arth/"
+      },
+      {
+        "datetime": "2017-08-08T13:33:24Z",
+        "uri": "https://web.archive.org/web/20170808133324/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2017-10-08T19:03:12Z",
+        "uri": "https://web.archive.org/web/20171008190312/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2017-12-09T00:17:31Z",
+        "uri": "https://web.archive.org/web/20171209001731/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2018-02-07T19:12:08Z",
+        "uri": "https://web.archive.org/web/20180207191208/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2018-04-09T20:13:29Z",
+        "uri": "https://web.archive.org/web/20180409201329/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2018-06-10T06:19:55Z",
+        "uri": "https://web.archive.org/web/20180610061955/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2018-08-10T07:52:41Z",
+        "uri": "https://web.archive.org/web/20180810075241/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2018-10-10T04:03:54Z",
+        "uri": "https://web.archive.org/web/20181010040354/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2018-10-11T04:18:48Z",
+        "uri": "https://web.archive.org/web/20181011041848/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2018-12-11T10:33:04Z",
+        "uri": "https://web.archive.org/web/20181211103304/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2019-02-11T09:38:20Z",
+        "uri": "https://web.archive.org/web/20190211093820/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2019-04-13T00:19:54Z",
+        "uri": "https://web.archive.org/web/20190413001954/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2019-06-12T16:32:23Z",
+        "uri": "https://web.archive.org/web/20190612163223/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2019-08-13T04:41:18Z",
+        "uri": "https://web.archive.org/web/20190813044118/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2019-10-09T05:23:48Z",
+        "uri": "https://web.archive.org/web/20191009052348/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2019-12-08T12:30:56Z",
+        "uri": "https://web.archive.org/web/20191208123056/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2020-02-06T16:35:09Z",
+        "uri": "https://web.archive.org/web/20200206163509/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2020-03-02T06:11:17Z",
+        "uri": "https://web.archive.org/web/20200302061117/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2020-05-01T08:37:58Z",
+        "uri": "https://web.archive.org/web/20200501083758/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2020-06-30T12:13:02Z",
+        "uri": "https://web.archive.org/web/20200630121302/http://catalog.odu.edu:80/courses/arth/"
+      },
+      {
+        "datetime": "2021-01-22T23:08:23Z",
+        "uri": "https://web.archive.org/web/20210122230823/https://catalog.odu.edu/courses/arth/"
+      },
+      {
+        "datetime": "2021-04-12T20:19:56Z",
+        "uri": "https://web.archive.org/web/20210412201956/http://catalog.odu.edu/courses/arth/"
+      },
+      {
+        "datetime": "2021-11-16T00:06:08Z",
+        "uri": "https://arquivo.pt/wayback/20211116000608mp_/http://catalog.odu.edu/courses/arth/"
+      },
+      {
+        "datetime": "2021-11-16T00:06:08Z",
+        "uri": "https://web.archive.org/web/20211116000608/http://catalog.odu.edu/courses/arth/"
+      },
+      {
+        "datetime": "2021-11-16T00:06:12Z",
+        "uri": "https://arquivo.pt/wayback/20211116000612mp_/https://catalog.odu.edu/courses/arth/"
+      },
+      {
+        "datetime": "2021-11-16T00:06:12Z",
+        "uri": "https://web.archive.org/web/20211116000612/https://catalog.odu.edu/courses/arth/"
+      },
+      {
+        "datetime": "2021-11-18T10:56:14Z",
+        "uri": "https://web.archive.org/web/20211118105614/https://catalog.odu.edu/courses/arth/"
+      },
+      {
+        "datetime": "2022-03-19T20:39:05Z",
+        "uri": "https://web.archive.org/web/20220319203905/https://catalog.odu.edu/courses/arth/"
+      },
+      {
+        "datetime": "2024-02-28T21:42:07Z",
+        "uri": "https://web.archive.org/web/20240228214207/https://catalog.odu.edu/courses/arth/"
+      },
+      {
+        "datetime": "2024-02-29T16:06:39Z",
+        "uri": "https://web.archive.org/web/20240229160639/https://catalog.odu.edu/courses/arth/"
+      },
+      {
+        "datetime": "2024-07-18T07:57:32Z",
+        "uri": "https://web.archive.org/web/20240718075732/https://catalog.odu.edu/courses/arth/"
+      },
+      {
+        "datetime": "2024-07-26T15:21:33Z",
+        "uri": "https://web.archive.org/web/20240726152133/http://catalog.odu.edu/courses/arth/"
+      },
+      {
+        "datetime": "2024-09-12T06:13:30Z",
+        "uri": "https://web.archive.org/web/20240912061330/https://catalog.odu.edu/courses/arth/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:13:43Z",
+      "uri": "https://web.archive.org/web/20120902041343/http://catalog.odu.edu:80/courses/arth/"
+    },
+    "last": {
+      "datetime": "2024-09-12T06:13:30Z",
+      "uri": "https://web.archive.org/web/20240912061330/https://catalog.odu.edu/courses/arth/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/arth/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/arth/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/arth/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/arth/"
+}

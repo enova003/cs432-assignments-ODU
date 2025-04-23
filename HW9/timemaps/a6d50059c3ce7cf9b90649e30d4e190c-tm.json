@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.odu.edu/technology-services/about",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/technology-services/about",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-12-20T19:45:09Z",
+        "uri": "https://web.archive.org/web/20241220194509/https://www.odu.edu/technology-services/about"
+      },
+      {
+        "datetime": "2025-01-17T05:29:27Z",
+        "uri": "https://web.archive.org/web/20250117052927/https://www.odu.edu/technology-services/about"
+      }
+    ],
+    "first": {
+      "datetime": "2024-12-20T19:45:09Z",
+      "uri": "https://web.archive.org/web/20241220194509/https://www.odu.edu/technology-services/about"
+    },
+    "last": {
+      "datetime": "2025-01-17T05:29:27Z",
+      "uri": "https://web.archive.org/web/20250117052927/https://www.odu.edu/technology-services/about"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/technology-services/about",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/technology-services/about",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/technology-services/about"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/technology-services/about"
+}

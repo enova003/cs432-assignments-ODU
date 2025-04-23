@@ -1,0 +1,122 @@
+{
+  "original_uri": "https://online.odu.edu/video/online-events",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/video/online-events",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2015-09-29T01:48:39Z",
+        "uri": "https://web.archive.org/web/20150929014839/https://online.odu.edu/video/online-events"
+      },
+      {
+        "datetime": "2017-04-20T01:55:20Z",
+        "uri": "https://web.archive.org/web/20170420015520/https://online.odu.edu/video/online-events"
+      },
+      {
+        "datetime": "2020-04-27T17:09:50Z",
+        "uri": "https://web.archive.org/web/20200427170950/https://online.odu.edu/video/online-events"
+      },
+      {
+        "datetime": "2020-05-30T00:31:42Z",
+        "uri": "https://web.archive.org/web/20200530003142/https://online.odu.edu/video/online-events"
+      },
+      {
+        "datetime": "2020-09-26T00:01:24Z",
+        "uri": "https://web.archive.org/web/20200926000124/https://online.odu.edu/video/online-events"
+      },
+      {
+        "datetime": "2020-11-25T11:37:40Z",
+        "uri": "https://web.archive.org/web/20201125113740/https://online.odu.edu/video/online-events"
+      },
+      {
+        "datetime": "2021-03-03T12:22:54Z",
+        "uri": "https://web.archive.org/web/20210303122254/https://online.odu.edu/video/online-events"
+      },
+      {
+        "datetime": "2021-04-13T19:25:09Z",
+        "uri": "https://web.archive.org/web/20210413192509/https://online.odu.edu/video/online-events"
+      },
+      {
+        "datetime": "2021-05-07T20:05:22Z",
+        "uri": "https://web.archive.org/web/20210507200522/https://online.odu.edu/video/online-events"
+      },
+      {
+        "datetime": "2021-07-30T23:59:18Z",
+        "uri": "https://web.archive.org/web/20210730235918/https://online.odu.edu/video/online-events"
+      },
+      {
+        "datetime": "2021-10-27T23:27:31Z",
+        "uri": "https://web.archive.org/web/20211027232731/https://online.odu.edu/video/online-events"
+      },
+      {
+        "datetime": "2021-12-09T09:35:15Z",
+        "uri": "https://web.archive.org/web/20211209093515/https://online.odu.edu/video/online-events"
+      },
+      {
+        "datetime": "2022-01-18T04:59:27Z",
+        "uri": "https://web.archive.org/web/20220118045927/https://online.odu.edu/video/online-events"
+      },
+      {
+        "datetime": "2022-03-20T11:48:33Z",
+        "uri": "https://web.archive.org/web/20220320114833/https://online.odu.edu/video/online-events"
+      },
+      {
+        "datetime": "2022-05-27T07:02:08Z",
+        "uri": "https://web.archive.org/web/20220527070208/https://online.odu.edu/video/online-events"
+      },
+      {
+        "datetime": "2022-08-07T16:49:08Z",
+        "uri": "https://web.archive.org/web/20220807164908/https://online.odu.edu/video/online-events"
+      },
+      {
+        "datetime": "2022-08-08T17:24:32Z",
+        "uri": "https://web.archive.org/web/20220808172432/https://online.odu.edu/video/online-events"
+      },
+      {
+        "datetime": "2022-11-28T05:37:55Z",
+        "uri": "https://web.archive.org/web/20221128053755/https://online.odu.edu/video/online-events"
+      },
+      {
+        "datetime": "2023-03-25T11:40:33Z",
+        "uri": "https://web.archive.org/web/20230325114033/https://online.odu.edu/video/online-events"
+      },
+      {
+        "datetime": "2023-07-15T00:31:10Z",
+        "uri": "https://web.archive.org/web/20230715003110/https://online.odu.edu/video/online-events"
+      },
+      {
+        "datetime": "2023-10-02T22:36:18Z",
+        "uri": "https://web.archive.org/web/20231002223618/https://online.odu.edu/video/online-events"
+      },
+      {
+        "datetime": "2024-02-25T09:31:08Z",
+        "uri": "https://web.archive.org/web/20240225093108/https://online.odu.edu/video/online-events"
+      },
+      {
+        "datetime": "2024-06-14T00:18:44Z",
+        "uri": "https://web.archive.org/web/20240614001844/https://online.odu.edu/video/online-events"
+      },
+      {
+        "datetime": "2024-09-13T05:51:28Z",
+        "uri": "https://web.archive.org/web/20240913055128/https://online.odu.edu/video/online-events"
+      },
+      {
+        "datetime": "2025-01-19T13:02:49Z",
+        "uri": "https://web.archive.org/web/20250119130249/https://online.odu.edu/video/online-events"
+      }
+    ],
+    "first": {
+      "datetime": "2015-09-29T01:48:39Z",
+      "uri": "https://web.archive.org/web/20150929014839/https://online.odu.edu/video/online-events"
+    },
+    "last": {
+      "datetime": "2025-01-19T13:02:49Z",
+      "uri": "https://web.archive.org/web/20250119130249/https://online.odu.edu/video/online-events"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/video/online-events",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/video/online-events",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/video/online-events"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/video/online-events"
+}

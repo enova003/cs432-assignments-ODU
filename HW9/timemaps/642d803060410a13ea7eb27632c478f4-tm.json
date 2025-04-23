@@ -1,0 +1,234 @@
+{
+  "original_uri": "https://www.odu.edu/finaidoffice/apply",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/finaidoffice/apply",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-05-27T05:28:26Z",
+        "uri": "https://wayback.archive-it.org/all/20210527052826/https://odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2021-05-27T05:28:26Z",
+        "uri": "https://web.archive.org/web/20210527052826/https://odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2021-05-27T05:28:33Z",
+        "uri": "https://wayback.archive-it.org/all/20210527052833/https://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2021-05-27T05:28:33Z",
+        "uri": "https://web.archive.org/web/20210527052833/https://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2021-05-27T05:28:39Z",
+        "uri": "https://wayback.archive-it.org/all/20210527052839/http://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2021-05-27T05:28:39Z",
+        "uri": "https://web.archive.org/web/20210527052839/http://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2021-08-12T23:34:49Z",
+        "uri": "https://web.archive.org/web/20210812233449/https://odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2021-11-15T16:24:07Z",
+        "uri": "https://arquivo.pt/wayback/20211115162407mp_/https://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2021-11-15T16:24:07Z",
+        "uri": "https://web.archive.org/web/20211115162407/https://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2021-11-15T16:24:12Z",
+        "uri": "https://arquivo.pt/wayback/20211115162412mp_/http://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2021-11-15T16:24:12Z",
+        "uri": "https://web.archive.org/web/20211115162412/http://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2022-03-10T00:46:12Z",
+        "uri": "https://web.archive.org/web/20220310004612/https://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2022-03-19T21:23:54Z",
+        "uri": "https://web.archive.org/web/20220319212354/https://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2022-04-07T09:44:56Z",
+        "uri": "https://web.archive.org/web/20220407094456/https://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2022-05-25T09:50:43Z",
+        "uri": "https://web.archive.org/web/20220525095043/https://odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2022-05-27T12:47:27Z",
+        "uri": "https://arquivo.pt/wayback/20220527124727mp_/https://odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2022-05-27T21:32:28Z",
+        "uri": "https://web.archive.org/web/20220527213228/https://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2022-08-11T06:50:24Z",
+        "uri": "https://wayback.archive-it.org/all/20220811065024/https://odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2022-08-11T06:50:24Z",
+        "uri": "https://web.archive.org/web/20220811065024/https://odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2022-08-11T06:50:29Z",
+        "uri": "https://wayback.archive-it.org/all/20220811065029/https://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2022-08-11T06:50:29Z",
+        "uri": "https://web.archive.org/web/20220811065029/https://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2022-08-11T06:50:35Z",
+        "uri": "https://wayback.archive-it.org/all/20220811065035/http://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2022-08-11T06:50:35Z",
+        "uri": "https://web.archive.org/web/20220811065035/http://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2022-10-02T09:37:24Z",
+        "uri": "https://web.archive.org/web/20221002093724/https://odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2022-10-06T13:18:46Z",
+        "uri": "https://web.archive.org/web/20221006131846/https://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2022-11-07T14:51:01Z",
+        "uri": "https://wayback.archive-it.org/all/20221107145101/https://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2022-11-07T14:51:01Z",
+        "uri": "https://web.archive.org/web/20221107145101/https://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2022-11-16T04:59:12Z",
+        "uri": "https://arquivo.pt/wayback/20221116045912mp_/https://odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2022-12-08T06:00:43Z",
+        "uri": "https://web.archive.org/web/20221208060043/https://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2022-12-10T01:16:33Z",
+        "uri": "https://wayback.archive-it.org/all/20221210011633/https://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2022-12-10T01:16:33Z",
+        "uri": "https://web.archive.org/web/20221210011633/https://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2023-01-09T02:01:16Z",
+        "uri": "https://wayback.archive-it.org/all/20230109020116/https://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2023-01-09T02:01:16Z",
+        "uri": "https://web.archive.org/web/20230109020116/https://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2023-01-27T00:53:04Z",
+        "uri": "https://web.archive.org/web/20230127005304/https://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2023-01-31T03:34:22Z",
+        "uri": "https://web.archive.org/web/20230131033422/https://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2023-02-09T17:50:12Z",
+        "uri": "https://wayback.archive-it.org/all/20230209175012/https://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2023-02-09T17:50:12Z",
+        "uri": "https://web.archive.org/web/20230209175012/https://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2023-03-07T12:54:40Z",
+        "uri": "https://wayback.archive-it.org/all/20230307125440/https://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2023-03-07T12:54:40Z",
+        "uri": "https://web.archive.org/web/20230307125440/https://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2023-06-04T13:35:17Z",
+        "uri": "https://web.archive.org/web/20230604133517/https://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2023-06-21T20:08:59Z",
+        "uri": "https://web.archive.org/web/20230621200859/https://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2023-07-15T00:31:10Z",
+        "uri": "https://web.archive.org/web/20230715003110/https://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2023-08-26T10:07:07Z",
+        "uri": "https://wayback.archive-it.org/all/20230826100707/https://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2023-08-26T10:07:07Z",
+        "uri": "https://web.archive.org/web/20230826100707/https://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2023-12-05T04:58:40Z",
+        "uri": "https://web.archive.org/web/20231205045840/https://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2024-04-04T07:26:51Z",
+        "uri": "https://web.archive.org/web/20240404072651/https://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2024-04-14T16:54:38Z",
+        "uri": "https://web.archive.org/web/20240414165438/https://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2024-05-24T15:15:36Z",
+        "uri": "https://wayback.archive-it.org/all/20240524151536/https://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2024-06-17T06:29:12Z",
+        "uri": "https://web.archive.org/web/20240617062912/https://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2024-07-29T05:27:39Z",
+        "uri": "https://web.archive.org/web/20240729052739/http://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2024-10-10T16:32:16Z",
+        "uri": "https://web.archive.org/web/20241010163216/https://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2025-01-13T13:12:46Z",
+        "uri": "https://web.archive.org/web/20250113131246/https://www.odu.edu/finaidoffice/apply"
+      },
+      {
+        "datetime": "2025-01-19T13:02:55Z",
+        "uri": "https://web.archive.org/web/20250119130255/https://www.odu.edu/finaidoffice/apply"
+      }
+    ],
+    "first": {
+      "datetime": "2021-05-27T05:28:26Z",
+      "uri": "https://wayback.archive-it.org/all/20210527052826/https://odu.edu/finaidoffice/apply"
+    },
+    "last": {
+      "datetime": "2025-01-19T13:02:55Z",
+      "uri": "https://web.archive.org/web/20250119130255/https://www.odu.edu/finaidoffice/apply"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/finaidoffice/apply",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/finaidoffice/apply",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/finaidoffice/apply"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/finaidoffice/apply"
+}

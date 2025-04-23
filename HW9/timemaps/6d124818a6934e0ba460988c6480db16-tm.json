@@ -1,0 +1,282 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/bda/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/bda/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-06-06T19:36:40Z",
+        "uri": "https://web.archive.org/web/20170606193640/http://catalog.odu.edu:80/courses/bda/"
+      },
+      {
+        "datetime": "2017-07-09T01:08:13Z",
+        "uri": "https://web.archive.org/web/20170709010813/http://catalog.odu.edu/courses/bda/"
+      },
+      {
+        "datetime": "2017-07-26T01:58:26Z",
+        "uri": "https://web.archive.org/web/20170726015826/http://catalog.odu.edu:80/courses/bda/"
+      },
+      {
+        "datetime": "2017-07-26T01:58:26Z",
+        "uri": "https://web.archive.org/web/20170726015826/http://catalog.odu.edu:80/courses/bda"
+      },
+      {
+        "datetime": "2017-08-06T05:12:18Z",
+        "uri": "https://web.archive.org/web/20170806051218/http://catalog.odu.edu:80/courses/bda/"
+      },
+      {
+        "datetime": "2017-08-25T15:33:55Z",
+        "uri": "https://web.archive.org/web/20170825153355/http://catalog.odu.edu:80/courses/bda/"
+      },
+      {
+        "datetime": "2017-08-25T15:33:55Z",
+        "uri": "https://web.archive.org/web/20170825153355/http://catalog.odu.edu:80/courses/bda"
+      },
+      {
+        "datetime": "2017-09-25T14:14:49Z",
+        "uri": "https://web.archive.org/web/20170925141449/http://catalog.odu.edu:80/courses/bda/"
+      },
+      {
+        "datetime": "2017-09-25T14:14:49Z",
+        "uri": "https://web.archive.org/web/20170925141449/http://catalog.odu.edu:80/courses/bda"
+      },
+      {
+        "datetime": "2017-12-06T01:27:52Z",
+        "uri": "https://web.archive.org/web/20171206012752/http://catalog.odu.edu:80/courses/bda/"
+      },
+      {
+        "datetime": "2018-02-05T01:37:58Z",
+        "uri": "https://web.archive.org/web/20180205013758/http://catalog.odu.edu:80/courses/bda/"
+      },
+      {
+        "datetime": "2018-04-06T17:58:29Z",
+        "uri": "https://web.archive.org/web/20180406175829/http://catalog.odu.edu:80/courses/bda/"
+      },
+      {
+        "datetime": "2018-08-07T16:19:23Z",
+        "uri": "https://web.archive.org/web/20180807161923/http://catalog.odu.edu:80/courses/bda/"
+      },
+      {
+        "datetime": "2018-10-25T03:48:46Z",
+        "uri": "https://web.archive.org/web/20181025034846/http://catalog.odu.edu:80/courses/bda/"
+      },
+      {
+        "datetime": "2018-10-25T03:48:46Z",
+        "uri": "https://web.archive.org/web/20181025034846/http://catalog.odu.edu:80/courses/bda"
+      },
+      {
+        "datetime": "2018-11-25T13:58:01Z",
+        "uri": "https://web.archive.org/web/20181125135801/http://catalog.odu.edu:80/courses/bda/"
+      },
+      {
+        "datetime": "2018-11-25T13:58:01Z",
+        "uri": "https://web.archive.org/web/20181125135801/http://catalog.odu.edu:80/courses/bda"
+      },
+      {
+        "datetime": "2018-12-07T20:05:18Z",
+        "uri": "https://web.archive.org/web/20181207200518/http://catalog.odu.edu:80/courses/bda/"
+      },
+      {
+        "datetime": "2018-12-26T12:39:24Z",
+        "uri": "https://web.archive.org/web/20181226123924/http://catalog.odu.edu:80/courses/bda/"
+      },
+      {
+        "datetime": "2018-12-26T12:39:24Z",
+        "uri": "https://web.archive.org/web/20181226123924/http://catalog.odu.edu:80/courses/bda"
+      },
+      {
+        "datetime": "2019-01-26T19:35:48Z",
+        "uri": "https://web.archive.org/web/20190126193548/http://catalog.odu.edu:80/courses/bda/"
+      },
+      {
+        "datetime": "2019-01-26T19:35:48Z",
+        "uri": "https://web.archive.org/web/20190126193548/http://catalog.odu.edu:80/courses/bda"
+      },
+      {
+        "datetime": "2019-01-28T00:32:27Z",
+        "uri": "https://web.archive.org/web/20190128003227/http://catalog.odu.edu:80/courses/bda/"
+      },
+      {
+        "datetime": "2019-01-28T00:32:27Z",
+        "uri": "https://web.archive.org/web/20190128003227/http://catalog.odu.edu:80/courses/bda"
+      },
+      {
+        "datetime": "2019-02-06T19:16:03Z",
+        "uri": "https://web.archive.org/web/20190206191603/http://catalog.odu.edu:80/courses/bda/"
+      },
+      {
+        "datetime": "2019-02-28T08:07:03Z",
+        "uri": "https://web.archive.org/web/20190228080703/http://catalog.odu.edu:80/courses/bda/"
+      },
+      {
+        "datetime": "2019-02-28T08:07:03Z",
+        "uri": "https://web.archive.org/web/20190228080703/http://catalog.odu.edu:80/courses/bda"
+      },
+      {
+        "datetime": "2019-03-31T10:31:07Z",
+        "uri": "https://web.archive.org/web/20190331103107/http://catalog.odu.edu:80/courses/bda/"
+      },
+      {
+        "datetime": "2019-03-31T10:31:07Z",
+        "uri": "https://web.archive.org/web/20190331103107/http://catalog.odu.edu:80/courses/bda"
+      },
+      {
+        "datetime": "2019-04-08T17:33:57Z",
+        "uri": "https://web.archive.org/web/20190408173357/http://catalog.odu.edu:80/courses/bda/"
+      },
+      {
+        "datetime": "2019-05-01T09:01:08Z",
+        "uri": "https://web.archive.org/web/20190501090108/http://catalog.odu.edu:80/courses/bda/"
+      },
+      {
+        "datetime": "2019-05-01T09:01:08Z",
+        "uri": "https://web.archive.org/web/20190501090108/http://catalog.odu.edu:80/courses/bda"
+      },
+      {
+        "datetime": "2019-06-01T19:17:53Z",
+        "uri": "https://web.archive.org/web/20190601191753/http://catalog.odu.edu:80/courses/bda/"
+      },
+      {
+        "datetime": "2019-06-01T19:17:53Z",
+        "uri": "https://web.archive.org/web/20190601191753/http://catalog.odu.edu:80/courses/bda"
+      },
+      {
+        "datetime": "2019-06-08T17:20:04Z",
+        "uri": "https://web.archive.org/web/20190608172004/http://catalog.odu.edu:80/courses/bda/"
+      },
+      {
+        "datetime": "2019-07-03T15:14:53Z",
+        "uri": "https://web.archive.org/web/20190703151453/http://catalog.odu.edu:80/courses/bda/"
+      },
+      {
+        "datetime": "2019-07-03T15:14:53Z",
+        "uri": "https://web.archive.org/web/20190703151453/http://catalog.odu.edu:80/courses/bda"
+      },
+      {
+        "datetime": "2019-08-03T18:45:08Z",
+        "uri": "https://web.archive.org/web/20190803184508/http://catalog.odu.edu:80/courses/bda/"
+      },
+      {
+        "datetime": "2019-08-03T18:45:08Z",
+        "uri": "https://web.archive.org/web/20190803184508/http://catalog.odu.edu:80/courses/bda"
+      },
+      {
+        "datetime": "2019-08-10T00:29:21Z",
+        "uri": "https://web.archive.org/web/20190810002921/http://catalog.odu.edu:80/courses/bda/"
+      },
+      {
+        "datetime": "2019-09-03T17:38:15Z",
+        "uri": "https://web.archive.org/web/20190903173815/http://catalog.odu.edu:80/courses/bda/"
+      },
+      {
+        "datetime": "2019-09-03T17:38:15Z",
+        "uri": "https://web.archive.org/web/20190903173815/http://catalog.odu.edu:80/courses/bda"
+      },
+      {
+        "datetime": "2019-10-09T05:23:58Z",
+        "uri": "https://web.archive.org/web/20191009052358/http://catalog.odu.edu:80/courses/bda/"
+      },
+      {
+        "datetime": "2019-10-13T04:01:31Z",
+        "uri": "https://web.archive.org/web/20191013040131/http://catalog.odu.edu:80/courses/bda/"
+      },
+      {
+        "datetime": "2019-10-13T04:01:31Z",
+        "uri": "https://web.archive.org/web/20191013040131/http://catalog.odu.edu:80/courses/bda"
+      },
+      {
+        "datetime": "2019-11-01T20:46:28Z",
+        "uri": "https://web.archive.org/web/20191101204628/http://catalog.odu.edu:80/courses/bda/"
+      },
+      {
+        "datetime": "2019-11-12T12:36:09Z",
+        "uri": "https://web.archive.org/web/20191112123609/http://catalog.odu.edu:80/courses/bda/"
+      },
+      {
+        "datetime": "2019-11-12T12:36:09Z",
+        "uri": "https://web.archive.org/web/20191112123609/http://catalog.odu.edu:80/courses/bda"
+      },
+      {
+        "datetime": "2019-12-12T19:00:08Z",
+        "uri": "https://web.archive.org/web/20191212190008/http://catalog.odu.edu:80/courses/bda/"
+      },
+      {
+        "datetime": "2019-12-12T19:01:21Z",
+        "uri": "https://web.archive.org/web/20191212190121/http://catalog.odu.edu:80/courses/bda"
+      },
+      {
+        "datetime": "2020-01-12T03:03:06Z",
+        "uri": "https://web.archive.org/web/20200112030306/http://catalog.odu.edu:80/courses/bda/"
+      },
+      {
+        "datetime": "2020-01-12T03:03:06Z",
+        "uri": "https://web.archive.org/web/20200112030306/http://catalog.odu.edu:80/courses/bda"
+      },
+      {
+        "datetime": "2020-02-11T05:59:11Z",
+        "uri": "https://web.archive.org/web/20200211055911/http://catalog.odu.edu:80/courses/bda/"
+      },
+      {
+        "datetime": "2020-02-11T05:59:11Z",
+        "uri": "https://web.archive.org/web/20200211055911/http://catalog.odu.edu:80/courses/bda"
+      },
+      {
+        "datetime": "2020-04-28T16:34:00Z",
+        "uri": "https://web.archive.org/web/20200428163400/http://catalog.odu.edu:80/courses/bda/"
+      },
+      {
+        "datetime": "2020-06-27T22:29:23Z",
+        "uri": "https://web.archive.org/web/20200627222923/http://catalog.odu.edu:80/courses/bda/"
+      },
+      {
+        "datetime": "2021-01-22T22:37:22Z",
+        "uri": "https://web.archive.org/web/20210122223722/https://catalog.odu.edu/courses/bda/"
+      },
+      {
+        "datetime": "2021-04-12T20:26:02Z",
+        "uri": "https://web.archive.org/web/20210412202602/http://catalog.odu.edu/courses/bda/"
+      },
+      {
+        "datetime": "2021-09-15T05:20:20Z",
+        "uri": "https://arquivo.pt/wayback/20210915052020mp_/https://catalog.odu.edu/courses/bda/"
+      },
+      {
+        "datetime": "2021-11-21T13:23:03Z",
+        "uri": "https://web.archive.org/web/20211121132303/https://catalog.odu.edu/courses/bda/"
+      },
+      {
+        "datetime": "2022-03-19T21:27:03Z",
+        "uri": "https://web.archive.org/web/20220319212703/https://catalog.odu.edu/courses/bda/"
+      },
+      {
+        "datetime": "2024-02-29T16:06:30Z",
+        "uri": "https://web.archive.org/web/20240229160630/https://catalog.odu.edu/courses/bda/"
+      },
+      {
+        "datetime": "2024-06-22T00:29:34Z",
+        "uri": "https://web.archive.org/web/20240622002934/https://catalog.odu.edu/courses/bda/"
+      },
+      {
+        "datetime": "2024-08-09T19:19:38Z",
+        "uri": "https://web.archive.org/web/20240809191938/http://catalog.odu.edu/courses/bda/"
+      },
+      {
+        "datetime": "2024-09-12T05:27:29Z",
+        "uri": "https://web.archive.org/web/20240912052729/https://catalog.odu.edu/courses/bda/"
+      }
+    ],
+    "first": {
+      "datetime": "2017-06-06T19:36:40Z",
+      "uri": "https://web.archive.org/web/20170606193640/http://catalog.odu.edu:80/courses/bda/"
+    },
+    "last": {
+      "datetime": "2024-09-12T05:27:29Z",
+      "uri": "https://web.archive.org/web/20240912052729/https://catalog.odu.edu/courses/bda/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/bda/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/bda/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/bda/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/bda/"
+}

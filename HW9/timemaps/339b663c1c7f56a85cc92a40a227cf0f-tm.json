@@ -1,0 +1,58 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/arts-letters/music/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/arts-letters/music/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T02:49:39Z",
+        "uri": "https://web.archive.org/web/20230927024939/https://catalog.odu.edu/undergraduate/arts-letters/music/"
+      },
+      {
+        "datetime": "2023-09-28T20:11:16Z",
+        "uri": "https://web.archive.org/web/20230928201116/https://catalog.odu.edu/undergraduate/arts-letters/music/"
+      },
+      {
+        "datetime": "2023-12-09T23:05:03Z",
+        "uri": "https://web.archive.org/web/20231209230503/http://catalog.odu.edu/undergraduate/arts-letters/music/"
+      },
+      {
+        "datetime": "2023-12-09T23:05:19Z",
+        "uri": "https://web.archive.org/web/20231209230519/https://catalog.odu.edu/undergraduate/arts-letters/music/"
+      },
+      {
+        "datetime": "2023-12-17T01:36:34Z",
+        "uri": "https://web.archive.org/web/20231217013634/https://catalog.odu.edu/undergraduate/arts-letters/music/"
+      },
+      {
+        "datetime": "2024-03-04T06:01:09Z",
+        "uri": "https://web.archive.org/web/20240304060109/https://catalog.odu.edu/undergraduate/arts-letters/music/"
+      },
+      {
+        "datetime": "2024-07-17T11:18:49Z",
+        "uri": "https://web.archive.org/web/20240717111849/https://catalog.odu.edu/undergraduate/arts-letters/music/"
+      },
+      {
+        "datetime": "2024-09-27T03:31:55Z",
+        "uri": "https://web.archive.org/web/20240927033155/https://catalog.odu.edu/undergraduate/arts-letters/music/"
+      },
+      {
+        "datetime": "2024-11-12T00:39:13Z",
+        "uri": "https://web.archive.org/web/20241112003913/https://catalog.odu.edu/undergraduate/arts-letters/music/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T02:49:39Z",
+      "uri": "https://web.archive.org/web/20230927024939/https://catalog.odu.edu/undergraduate/arts-letters/music/"
+    },
+    "last": {
+      "datetime": "2024-11-12T00:39:13Z",
+      "uri": "https://web.archive.org/web/20241112003913/https://catalog.odu.edu/undergraduate/arts-letters/music/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/arts-letters/music/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/arts-letters/music/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/arts-letters/music/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/arts-letters/music/"
+}

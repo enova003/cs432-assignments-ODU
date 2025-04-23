@@ -1,0 +1,54 @@
+{
+  "original_uri": "https://online.odu.edu/admissions/international-admissions",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/admissions/international-admissions",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-24T16:56:41Z",
+        "uri": "https://web.archive.org/web/20230924165641/https://online.odu.edu/admissions/international-admissions"
+      },
+      {
+        "datetime": "2023-10-02T20:15:59Z",
+        "uri": "https://web.archive.org/web/20231002201559/https://online.odu.edu/admissions/international-admissions"
+      },
+      {
+        "datetime": "2024-03-17T22:36:57Z",
+        "uri": "https://web.archive.org/web/20240317223657/https://online.odu.edu/admissions/international-admissions"
+      },
+      {
+        "datetime": "2024-04-23T05:44:17Z",
+        "uri": "https://web.archive.org/web/20240423054417/https://online.odu.edu/admissions/international-admissions"
+      },
+      {
+        "datetime": "2024-07-21T23:38:08Z",
+        "uri": "https://web.archive.org/web/20240721233808/https://online.odu.edu/admissions/international-admissions"
+      },
+      {
+        "datetime": "2024-08-19T07:55:22Z",
+        "uri": "https://web.archive.org/web/20240819075522/https://online.odu.edu/admissions/international-admissions"
+      },
+      {
+        "datetime": "2024-10-05T13:37:47Z",
+        "uri": "https://web.archive.org/web/20241005133747/https://online.odu.edu/admissions/international-admissions"
+      },
+      {
+        "datetime": "2025-01-19T13:02:54Z",
+        "uri": "https://web.archive.org/web/20250119130254/https://online.odu.edu/admissions/international-admissions"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-24T16:56:41Z",
+      "uri": "https://web.archive.org/web/20230924165641/https://online.odu.edu/admissions/international-admissions"
+    },
+    "last": {
+      "datetime": "2025-01-19T13:02:54Z",
+      "uri": "https://web.archive.org/web/20250119130254/https://online.odu.edu/admissions/international-admissions"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/admissions/international-admissions",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/admissions/international-admissions",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/admissions/international-admissions"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/admissions/international-admissions"
+}

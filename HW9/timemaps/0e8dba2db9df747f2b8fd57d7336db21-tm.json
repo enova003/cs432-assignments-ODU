@@ -1,0 +1,54 @@
+{
+  "original_uri": "https://online.odu.edu/admissions/how-succeed-oduglobal-student",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/admissions/how-succeed-oduglobal-student",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-24T17:15:39Z",
+        "uri": "https://web.archive.org/web/20230924171539/https://online.odu.edu/admissions/how-succeed-oduglobal-student"
+      },
+      {
+        "datetime": "2023-10-02T21:18:46Z",
+        "uri": "https://web.archive.org/web/20231002211846/https://online.odu.edu/admissions/how-succeed-oduglobal-student"
+      },
+      {
+        "datetime": "2024-02-25T08:38:27Z",
+        "uri": "https://web.archive.org/web/20240225083827/https://online.odu.edu/admissions/how-succeed-oduglobal-student"
+      },
+      {
+        "datetime": "2024-06-13T23:25:20Z",
+        "uri": "https://web.archive.org/web/20240613232520/https://online.odu.edu/admissions/how-succeed-oduglobal-student"
+      },
+      {
+        "datetime": "2024-07-09T03:34:34Z",
+        "uri": "https://web.archive.org/web/20240709033434/https://online.odu.edu/admissions/how-succeed-oduglobal-student"
+      },
+      {
+        "datetime": "2024-09-20T17:15:38Z",
+        "uri": "https://web.archive.org/web/20240920171538/https://online.odu.edu/admissions/how-succeed-oduglobal-student"
+      },
+      {
+        "datetime": "2024-12-14T22:24:49Z",
+        "uri": "https://web.archive.org/web/20241214222449/https://online.odu.edu/admissions/how-succeed-oduglobal-student"
+      },
+      {
+        "datetime": "2025-01-19T13:02:32Z",
+        "uri": "https://web.archive.org/web/20250119130232/https://online.odu.edu/admissions/how-succeed-oduglobal-student"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-24T17:15:39Z",
+      "uri": "https://web.archive.org/web/20230924171539/https://online.odu.edu/admissions/how-succeed-oduglobal-student"
+    },
+    "last": {
+      "datetime": "2025-01-19T13:02:32Z",
+      "uri": "https://web.archive.org/web/20250119130232/https://online.odu.edu/admissions/how-succeed-oduglobal-student"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/admissions/how-succeed-oduglobal-student",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/admissions/how-succeed-oduglobal-student",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/admissions/how-succeed-oduglobal-student"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/admissions/how-succeed-oduglobal-student"
+}

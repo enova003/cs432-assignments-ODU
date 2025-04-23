@@ -1,0 +1,74 @@
+{
+  "original_uri": "https://online.odu.edu/academics/degree/minors",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/academics/degree/minors",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2015-10-06T20:28:45Z",
+        "uri": "https://web.archive.org/web/20151006202845/https://online.odu.edu/academics/degree/minors"
+      },
+      {
+        "datetime": "2016-04-17T22:03:33Z",
+        "uri": "https://web.archive.org/web/20160417220333/https://online.odu.edu/academics/degree/minors"
+      },
+      {
+        "datetime": "2021-09-28T13:30:41Z",
+        "uri": "https://web.archive.org/web/20210928133041/https://online.odu.edu/academics/degree/minors"
+      },
+      {
+        "datetime": "2022-01-18T04:05:08Z",
+        "uri": "https://web.archive.org/web/20220118040508/https://online.odu.edu/academics/degree/minors"
+      },
+      {
+        "datetime": "2022-06-30T19:33:12Z",
+        "uri": "https://web.archive.org/web/20220630193312/https://online.odu.edu/academics/degree/minors"
+      },
+      {
+        "datetime": "2022-11-28T04:46:51Z",
+        "uri": "https://web.archive.org/web/20221128044651/https://online.odu.edu/academics/degree/minors"
+      },
+      {
+        "datetime": "2023-03-29T16:03:23Z",
+        "uri": "https://web.archive.org/web/20230329160323/https://online.odu.edu/academics/degree/minors"
+      },
+      {
+        "datetime": "2023-12-02T15:00:08Z",
+        "uri": "https://web.archive.org/web/20231202150008/https://online.odu.edu/academics/degree/minors"
+      },
+      {
+        "datetime": "2024-05-25T20:17:24Z",
+        "uri": "https://web.archive.org/web/20240525201724/https://online.odu.edu/academics/degree/minors"
+      },
+      {
+        "datetime": "2024-07-21T13:54:26Z",
+        "uri": "https://web.archive.org/web/20240721135426/https://online.odu.edu/academics/degree/minors"
+      },
+      {
+        "datetime": "2024-08-04T17:24:49Z",
+        "uri": "https://web.archive.org/web/20240804172449/https://online.odu.edu/academics/degree/minors"
+      },
+      {
+        "datetime": "2024-11-05T12:54:50Z",
+        "uri": "https://web.archive.org/web/20241105125450/https://online.odu.edu/academics/degree/minors"
+      },
+      {
+        "datetime": "2025-01-19T13:02:35Z",
+        "uri": "https://web.archive.org/web/20250119130235/https://online.odu.edu/academics/degree/minors"
+      }
+    ],
+    "first": {
+      "datetime": "2015-10-06T20:28:45Z",
+      "uri": "https://web.archive.org/web/20151006202845/https://online.odu.edu/academics/degree/minors"
+    },
+    "last": {
+      "datetime": "2025-01-19T13:02:35Z",
+      "uri": "https://web.archive.org/web/20250119130235/https://online.odu.edu/academics/degree/minors"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/academics/degree/minors",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/academics/degree/minors",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/academics/degree/minors"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/academics/degree/minors"
+}

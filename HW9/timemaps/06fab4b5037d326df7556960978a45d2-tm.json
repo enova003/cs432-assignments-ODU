@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.odu.edu/article/dr-bernice-a-king-delivers-keynote-address-at-odus-annual-martin-luther-king-jr-observance",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/article/dr-bernice-a-king-delivers-keynote-address-at-odus-annual-martin-luther-king-jr-observance",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2025-01-30T20:38:52Z",
+        "uri": "https://web.archive.org/web/20250130203852/https://www.odu.edu/article/dr-bernice-a-king-delivers-keynote-address-at-odus-annual-martin-luther-king-jr-observance"
+      }
+    ],
+    "first": {
+      "datetime": "2025-01-30T20:38:52Z",
+      "uri": "https://web.archive.org/web/20250130203852/https://www.odu.edu/article/dr-bernice-a-king-delivers-keynote-address-at-odus-annual-martin-luther-king-jr-observance"
+    },
+    "last": {
+      "datetime": "2025-01-30T20:38:52Z",
+      "uri": "https://web.archive.org/web/20250130203852/https://www.odu.edu/article/dr-bernice-a-king-delivers-keynote-address-at-odus-annual-martin-luther-king-jr-observance"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/article/dr-bernice-a-king-delivers-keynote-address-at-odus-annual-martin-luther-king-jr-observance",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/article/dr-bernice-a-king-delivers-keynote-address-at-odus-annual-martin-luther-king-jr-observance",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/article/dr-bernice-a-king-delivers-keynote-address-at-odus-annual-martin-luther-king-jr-observance"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/article/dr-bernice-a-king-delivers-keynote-address-at-odus-annual-martin-luther-king-jr-observance"
+}

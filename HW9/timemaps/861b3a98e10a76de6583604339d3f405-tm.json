@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/sciences/ocean-earth-sciences/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/sciences/ocean-earth-sciences/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-21T18:57:14Z",
+        "uri": "https://web.archive.org/web/20230921185714/https://catalog.odu.edu/undergraduate/sciences/ocean-earth-sciences/"
+      },
+      {
+        "datetime": "2023-09-27T02:13:49Z",
+        "uri": "https://web.archive.org/web/20230927021349/https://catalog.odu.edu/undergraduate/sciences/ocean-earth-sciences/"
+      },
+      {
+        "datetime": "2023-12-09T23:06:29Z",
+        "uri": "https://web.archive.org/web/20231209230629/https://catalog.odu.edu/undergraduate/sciences/ocean-earth-sciences/"
+      },
+      {
+        "datetime": "2023-12-09T23:06:45Z",
+        "uri": "https://web.archive.org/web/20231209230645/http://catalog.odu.edu/undergraduate/sciences/ocean-earth-sciences/"
+      },
+      {
+        "datetime": "2024-02-29T16:08:21Z",
+        "uri": "https://web.archive.org/web/20240229160821/https://catalog.odu.edu/undergraduate/sciences/ocean-earth-sciences/"
+      },
+      {
+        "datetime": "2024-03-04T05:23:51Z",
+        "uri": "https://web.archive.org/web/20240304052351/https://catalog.odu.edu/undergraduate/sciences/ocean-earth-sciences/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-21T18:57:14Z",
+      "uri": "https://web.archive.org/web/20230921185714/https://catalog.odu.edu/undergraduate/sciences/ocean-earth-sciences/"
+    },
+    "last": {
+      "datetime": "2024-03-04T05:23:51Z",
+      "uri": "https://web.archive.org/web/20240304052351/https://catalog.odu.edu/undergraduate/sciences/ocean-earth-sciences/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/sciences/ocean-earth-sciences/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/sciences/ocean-earth-sciences/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/sciences/ocean-earth-sciences/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/sciences/ocean-earth-sciences/"
+}

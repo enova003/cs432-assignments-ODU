@@ -1,0 +1,338 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/antr/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/antr/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:28:10Z",
+        "uri": "https://web.archive.org/web/20120902042810/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2014-04-21T22:19:41Z",
+        "uri": "https://web.archive.org/web/20140421221941/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2014-06-21T11:31:47Z",
+        "uri": "https://web.archive.org/web/20140621113147/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2014-08-21T10:25:57Z",
+        "uri": "https://web.archive.org/web/20140821102557/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2014-10-21T08:16:55Z",
+        "uri": "https://web.archive.org/web/20141021081655/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2014-12-20T19:12:17Z",
+        "uri": "https://web.archive.org/web/20141220191217/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2015-02-15T16:02:34Z",
+        "uri": "https://web.archive.org/web/20150215160234/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2015-03-27T01:05:05Z",
+        "uri": "https://web.archive.org/web/20150327010505/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2015-03-27T01:05:05Z",
+        "uri": "https://web.archive.org/web/20150327010505/http://catalog.odu.edu:80/courses/antr"
+      },
+      {
+        "datetime": "2015-04-17T03:02:58Z",
+        "uri": "https://web.archive.org/web/20150417030258/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2015-04-26T13:51:52Z",
+        "uri": "https://web.archive.org/web/20150426135152/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2015-04-26T13:51:52Z",
+        "uri": "https://web.archive.org/web/20150426135152/http://catalog.odu.edu:80/courses/antr"
+      },
+      {
+        "datetime": "2015-05-11T07:56:44Z",
+        "uri": "https://web.archive.org/web/20150511075644/http://catalog.odu.edu/courses/antr/"
+      },
+      {
+        "datetime": "2015-05-27T07:54:03Z",
+        "uri": "https://web.archive.org/web/20150527075403/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2015-05-27T07:54:03Z",
+        "uri": "https://web.archive.org/web/20150527075403/http://catalog.odu.edu:80/courses/antr"
+      },
+      {
+        "datetime": "2015-06-16T14:36:21Z",
+        "uri": "https://web.archive.org/web/20150616143621/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2015-06-27T04:26:41Z",
+        "uri": "https://web.archive.org/web/20150627042641/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2015-06-27T04:26:41Z",
+        "uri": "https://web.archive.org/web/20150627042641/http://catalog.odu.edu:80/courses/antr"
+      },
+      {
+        "datetime": "2015-07-03T06:55:57Z",
+        "uri": "https://web.archive.org/web/20150703065557/http://catalog.odu.edu/courses/antr/"
+      },
+      {
+        "datetime": "2015-08-01T00:51:09Z",
+        "uri": "https://web.archive.org/web/20150801005109/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2015-08-01T00:51:09Z",
+        "uri": "https://web.archive.org/web/20150801005109/http://catalog.odu.edu:80/courses/antr"
+      },
+      {
+        "datetime": "2015-08-25T18:02:39Z",
+        "uri": "https://web.archive.org/web/20150825180239/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2015-08-31T09:36:10Z",
+        "uri": "https://web.archive.org/web/20150831093610/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2015-08-31T09:36:10Z",
+        "uri": "https://web.archive.org/web/20150831093610/http://catalog.odu.edu:80/courses/antr"
+      },
+      {
+        "datetime": "2015-10-01T07:00:39Z",
+        "uri": "https://web.archive.org/web/20151001070039/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2015-10-01T07:00:39Z",
+        "uri": "https://web.archive.org/web/20151001070039/http://catalog.odu.edu:80/courses/antr"
+      },
+      {
+        "datetime": "2015-10-25T08:26:05Z",
+        "uri": "https://web.archive.org/web/20151025082605/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2015-10-31T21:59:52Z",
+        "uri": "https://web.archive.org/web/20151031215952/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2015-10-31T21:59:52Z",
+        "uri": "https://web.archive.org/web/20151031215952/http://catalog.odu.edu:80/courses/antr"
+      },
+      {
+        "datetime": "2015-12-24T18:31:28Z",
+        "uri": "https://web.archive.org/web/20151224183128/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2016-02-23T06:28:50Z",
+        "uri": "https://web.archive.org/web/20160223062850/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2016-04-09T04:59:32Z",
+        "uri": "https://web.archive.org/web/20160409045932/http://catalog.odu.edu/courses/antr/"
+      },
+      {
+        "datetime": "2016-04-23T23:10:40Z",
+        "uri": "https://web.archive.org/web/20160423231040/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2016-06-24T03:16:34Z",
+        "uri": "https://web.archive.org/web/20160624031634/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2016-06-25T13:19:50Z",
+        "uri": "https://web.archive.org/web/20160625131950/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2016-12-05T04:52:56Z",
+        "uri": "https://web.archive.org/web/20161205045256/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2016-12-06T10:20:57Z",
+        "uri": "https://web.archive.org/web/20161206102057/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2016-12-06T10:20:57Z",
+        "uri": "https://web.archive.org/web/20161206102057/http://catalog.odu.edu:80/courses/antr"
+      },
+      {
+        "datetime": "2017-04-27T05:40:31Z",
+        "uri": "https://web.archive.org/web/20170427054031/http://catalog.odu.edu/courses/antr/"
+      },
+      {
+        "datetime": "2017-05-04T22:49:17Z",
+        "uri": "https://web.archive.org/web/20170504224917/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2017-07-04T18:00:51Z",
+        "uri": "https://web.archive.org/web/20170704180051/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2017-07-09T01:52:26Z",
+        "uri": "https://web.archive.org/web/20170709015226/http://catalog.odu.edu/courses/antr/"
+      },
+      {
+        "datetime": "2017-08-29T08:21:59Z",
+        "uri": "https://web.archive.org/web/20170829082159/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2017-08-29T08:21:59Z",
+        "uri": "https://web.archive.org/web/20170829082159/http://catalog.odu.edu:80/courses/antr"
+      },
+      {
+        "datetime": "2017-09-03T07:01:59Z",
+        "uri": "https://web.archive.org/web/20170903070159/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2017-09-28T21:01:28Z",
+        "uri": "https://web.archive.org/web/20170928210128/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2017-09-28T21:01:28Z",
+        "uri": "https://web.archive.org/web/20170928210128/http://catalog.odu.edu:80/courses/antr"
+      },
+      {
+        "datetime": "2017-10-29T19:29:21Z",
+        "uri": "https://web.archive.org/web/20171029192921/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2017-10-29T19:29:21Z",
+        "uri": "https://web.archive.org/web/20171029192921/http://catalog.odu.edu:80/courses/antr"
+      },
+      {
+        "datetime": "2017-11-03T00:32:48Z",
+        "uri": "https://web.archive.org/web/20171103003248/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2017-11-29T07:08:17Z",
+        "uri": "https://web.archive.org/web/20171129070817/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2017-11-29T07:08:17Z",
+        "uri": "https://web.archive.org/web/20171129070817/http://catalog.odu.edu:80/courses/antr"
+      },
+      {
+        "datetime": "2017-12-30T08:13:49Z",
+        "uri": "https://web.archive.org/web/20171230081349/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2017-12-30T08:13:49Z",
+        "uri": "https://web.archive.org/web/20171230081349/http://catalog.odu.edu:80/courses/antr"
+      },
+      {
+        "datetime": "2018-01-03T05:49:10Z",
+        "uri": "https://web.archive.org/web/20180103054910/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2018-01-31T11:08:00Z",
+        "uri": "https://web.archive.org/web/20180131110800/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2018-01-31T11:08:00Z",
+        "uri": "https://web.archive.org/web/20180131110800/http://catalog.odu.edu:80/courses/antr"
+      },
+      {
+        "datetime": "2018-03-03T18:52:52Z",
+        "uri": "https://web.archive.org/web/20180303185252/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2018-03-03T18:52:52Z",
+        "uri": "https://web.archive.org/web/20180303185252/http://catalog.odu.edu:80/courses/antr"
+      },
+      {
+        "datetime": "2018-05-05T22:09:06Z",
+        "uri": "https://web.archive.org/web/20180505220906/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2018-07-05T18:19:26Z",
+        "uri": "https://web.archive.org/web/20180705181926/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2019-01-03T21:36:55Z",
+        "uri": "https://web.archive.org/web/20190103213655/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2019-03-05T13:09:07Z",
+        "uri": "https://web.archive.org/web/20190305130907/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2019-05-05T06:30:41Z",
+        "uri": "https://web.archive.org/web/20190505063041/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2019-07-04T22:59:07Z",
+        "uri": "https://web.archive.org/web/20190704225907/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2019-09-03T19:51:56Z",
+        "uri": "https://web.archive.org/web/20190903195156/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2019-10-09T05:23:38Z",
+        "uri": "https://web.archive.org/web/20191009052338/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2019-12-08T12:30:46Z",
+        "uri": "https://web.archive.org/web/20191208123046/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2020-03-02T06:11:12Z",
+        "uri": "https://web.archive.org/web/20200302061112/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2020-05-01T08:37:52Z",
+        "uri": "https://web.archive.org/web/20200501083752/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2020-06-30T12:12:57Z",
+        "uri": "https://web.archive.org/web/20200630121257/http://catalog.odu.edu:80/courses/antr/"
+      },
+      {
+        "datetime": "2021-01-24T08:56:23Z",
+        "uri": "https://web.archive.org/web/20210124085623/https://catalog.odu.edu/courses/antr/"
+      },
+      {
+        "datetime": "2021-04-12T20:26:00Z",
+        "uri": "https://web.archive.org/web/20210412202600/http://catalog.odu.edu/courses/antr/"
+      },
+      {
+        "datetime": "2021-11-18T11:02:14Z",
+        "uri": "https://web.archive.org/web/20211118110214/https://catalog.odu.edu/courses/antr/"
+      },
+      {
+        "datetime": "2022-03-19T22:23:58Z",
+        "uri": "https://web.archive.org/web/20220319222358/https://catalog.odu.edu/courses/antr/"
+      },
+      {
+        "datetime": "2023-12-17T01:36:36Z",
+        "uri": "https://web.archive.org/web/20231217013636/https://catalog.odu.edu/courses/antr/"
+      },
+      {
+        "datetime": "2024-02-28T21:41:36Z",
+        "uri": "https://web.archive.org/web/20240228214136/https://catalog.odu.edu/courses/antr/"
+      },
+      {
+        "datetime": "2024-07-18T08:04:15Z",
+        "uri": "https://web.archive.org/web/20240718080415/https://catalog.odu.edu/courses/antr/"
+      },
+      {
+        "datetime": "2024-11-11T22:56:40Z",
+        "uri": "https://web.archive.org/web/20241111225640/https://catalog.odu.edu/courses/antr/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:28:10Z",
+      "uri": "https://web.archive.org/web/20120902042810/http://catalog.odu.edu:80/courses/antr/"
+    },
+    "last": {
+      "datetime": "2024-11-11T22:56:40Z",
+      "uri": "https://web.archive.org/web/20241111225640/https://catalog.odu.edu/courses/antr/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/antr/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/antr/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/antr/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/antr/"
+}

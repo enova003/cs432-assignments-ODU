@@ -1,0 +1,54 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/policies/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/policies/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-04-12T20:29:23Z",
+        "uri": "https://web.archive.org/web/20210412202923/http://catalog.odu.edu/undergraduate/policies"
+      },
+      {
+        "datetime": "2022-01-20T04:00:10Z",
+        "uri": "https://web.archive.org/web/20220120040010/https://catalog.odu.edu/undergraduate/policies"
+      },
+      {
+        "datetime": "2022-01-20T04:00:10Z",
+        "uri": "https://web.archive.org/web/20220120040010/http://catalog.odu.edu/undergraduate/policies"
+      },
+      {
+        "datetime": "2023-09-27T02:18:48Z",
+        "uri": "https://web.archive.org/web/20230927021848/https://catalog.odu.edu/undergraduate/policies/"
+      },
+      {
+        "datetime": "2024-02-29T16:06:49Z",
+        "uri": "https://web.archive.org/web/20240229160649/https://catalog.odu.edu/undergraduate/policies/"
+      },
+      {
+        "datetime": "2024-03-04T05:28:03Z",
+        "uri": "https://web.archive.org/web/20240304052803/https://catalog.odu.edu/undergraduate/policies/"
+      },
+      {
+        "datetime": "2024-03-29T10:36:50Z",
+        "uri": "https://web.archive.org/web/20240329103650/https://catalog.odu.edu/undergraduate/policies/"
+      },
+      {
+        "datetime": "2024-04-06T05:17:54Z",
+        "uri": "https://web.archive.org/web/20240406051754/http://catalog.odu.edu/undergraduate/policies/"
+      }
+    ],
+    "first": {
+      "datetime": "2021-04-12T20:29:23Z",
+      "uri": "https://web.archive.org/web/20210412202923/http://catalog.odu.edu/undergraduate/policies"
+    },
+    "last": {
+      "datetime": "2024-04-06T05:17:54Z",
+      "uri": "https://web.archive.org/web/20240406051754/http://catalog.odu.edu/undergraduate/policies/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/policies/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/policies/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/policies/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/policies/"
+}

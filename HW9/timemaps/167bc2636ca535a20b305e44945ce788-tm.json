@@ -1,0 +1,1086 @@
+{
+  "original_uri": "https://www.odu.edu/about/facts-and-figures",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/about/facts-and-figures",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-01T20:12:04Z",
+        "uri": "https://web.archive.org/web/20120901201204/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2012-10-02T09:29:28Z",
+        "uri": "https://web.archive.org/web/20121002092928/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2012-11-02T05:18:58Z",
+        "uri": "https://web.archive.org/web/20121102051858/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2012-12-03T09:18:01Z",
+        "uri": "https://web.archive.org/web/20121203091801/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2012-12-09T20:59:15Z",
+        "uri": "https://web.archive.org/web/20121209205915/http://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2013-01-17T17:27:09Z",
+        "uri": "https://web.archive.org/web/20130117172709/http://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2013-04-16T07:39:39Z",
+        "uri": "https://web.archive.org/web/20130416073939/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2013-05-02T08:42:14Z",
+        "uri": "https://web.archive.org/web/20130502084214/http://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2013-05-17T03:48:59Z",
+        "uri": "https://web.archive.org/web/20130517034859/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2013-08-07T10:06:38Z",
+        "uri": "https://web.archive.org/web/20130807100638/http://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2013-09-20T19:43:51Z",
+        "uri": "http://archive.md/20130920194351/http://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2013-09-21T05:52:01Z",
+        "uri": "https://web.archive.org/web/20130921055201/http://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2014-02-03T15:28:33Z",
+        "uri": "https://web.archive.org/web/20140203152833/http://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2014-03-28T05:54:54Z",
+        "uri": "https://web.archive.org/web/20140328055454/http://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2014-05-18T01:26:15Z",
+        "uri": "https://web.archive.org/web/20140518012615/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2014-06-17T19:04:36Z",
+        "uri": "https://web.archive.org/web/20140617190436/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2014-06-26T09:57:48Z",
+        "uri": "https://web.archive.org/web/20140626095748/http://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2014-07-18T12:58:11Z",
+        "uri": "https://web.archive.org/web/20140718125811/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2014-08-19T12:16:38Z",
+        "uri": "https://web.archive.org/web/20140819121638/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2015-01-04T06:17:11Z",
+        "uri": "http://archive.md/20150104061711/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2015-09-24T05:52:35Z",
+        "uri": "https://web.archive.org/web/20150924055235/http://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2016-10-27T07:31:49Z",
+        "uri": "https://web.archive.org/web/20161027073149/http://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2016-11-07T07:26:09Z",
+        "uri": "https://web.archive.org/web/20161107072609/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2016-11-19T13:26:56Z",
+        "uri": "https://web.archive.org/web/20161119132656/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2016-11-22T03:45:13Z",
+        "uri": "https://web.archive.org/web/20161122034513/http://odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2017-01-18T22:48:29Z",
+        "uri": "https://web.archive.org/web/20170118224829/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2017-01-21T14:58:04Z",
+        "uri": "https://web.archive.org/web/20170121145804/http://odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2017-01-29T15:58:53Z",
+        "uri": "https://web.archive.org/web/20170129155853/http://odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2017-02-25T04:31:26Z",
+        "uri": "https://web.archive.org/web/20170225043126/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2017-03-18T06:48:56Z",
+        "uri": "https://web.archive.org/web/20170318064856/http://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2017-03-25T15:20:09Z",
+        "uri": "https://web.archive.org/web/20170325152009/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2017-04-17T11:23:58Z",
+        "uri": "https://web.archive.org/web/20170417112358/http://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2017-05-04T08:14:13Z",
+        "uri": "https://web.archive.org/web/20170504081413/http://odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2017-05-06T03:37:44Z",
+        "uri": "https://web.archive.org/web/20170506033744/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2017-06-02T23:56:14Z",
+        "uri": "https://web.archive.org/web/20170602235614/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2017-06-04T06:12:12Z",
+        "uri": "https://web.archive.org/web/20170604061212/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2017-06-04T22:50:26Z",
+        "uri": "https://web.archive.org/web/20170604225026/http://odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2017-06-06T13:01:39Z",
+        "uri": "https://web.archive.org/web/20170606130139/http://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2017-07-04T22:08:01Z",
+        "uri": "https://web.archive.org/web/20170704220801/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2017-07-05T20:22:09Z",
+        "uri": "https://web.archive.org/web/20170705202209/http://odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2017-08-04T23:27:54Z",
+        "uri": "https://web.archive.org/web/20170804232754/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2017-08-06T05:14:06Z",
+        "uri": "https://web.archive.org/web/20170806051406/http://odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2017-08-27T17:19:14Z",
+        "uri": "https://web.archive.org/web/20170827171914/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2017-09-27T06:15:50Z",
+        "uri": "https://web.archive.org/web/20170927061550/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2017-10-02T13:06:44Z",
+        "uri": "https://web.archive.org/web/20171002130644/http://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2017-10-06T22:00:11Z",
+        "uri": "https://web.archive.org/web/20171006220011/http://odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2017-10-28T05:24:24Z",
+        "uri": "https://web.archive.org/web/20171028052424/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2017-11-04T05:18:38Z",
+        "uri": "https://web.archive.org/web/20171104051838/http://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2017-11-28T16:54:27Z",
+        "uri": "https://web.archive.org/web/20171128165427/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2017-12-06T15:11:19Z",
+        "uri": "https://web.archive.org/web/20171206151119/http://odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2017-12-29T10:22:47Z",
+        "uri": "https://web.archive.org/web/20171229102247/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2018-01-29T06:14:03Z",
+        "uri": "https://web.archive.org/web/20180129061403/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2018-02-05T12:53:21Z",
+        "uri": "https://web.archive.org/web/20180205125321/http://odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2018-03-02T18:39:15Z",
+        "uri": "https://web.archive.org/web/20180302183915/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2018-04-02T07:54:18Z",
+        "uri": "https://web.archive.org/web/20180402075418/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2018-04-07T02:46:23Z",
+        "uri": "https://web.archive.org/web/20180407024623/http://odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2018-05-04T00:32:22Z",
+        "uri": "https://web.archive.org/web/20180504003222/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2018-06-04T18:15:42Z",
+        "uri": "https://web.archive.org/web/20180604181542/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2018-06-07T00:27:01Z",
+        "uri": "https://web.archive.org/web/20180607002701/http://odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2018-07-05T22:26:42Z",
+        "uri": "https://web.archive.org/web/20180705222642/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2018-07-07T00:57:48Z",
+        "uri": "https://web.archive.org/web/20180707005748/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2018-08-07T18:44:47Z",
+        "uri": "https://web.archive.org/web/20180807184447/http://odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2018-09-05T16:59:12Z",
+        "uri": "https://web.archive.org/web/20180905165912/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2018-09-08T03:31:55Z",
+        "uri": "https://web.archive.org/web/20180908033155/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2018-09-12T15:34:31Z",
+        "uri": "https://web.archive.org/web/20180912153431/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2018-11-05T06:04:05Z",
+        "uri": "https://web.archive.org/web/20181105060405/http://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2018-11-05T16:24:24Z",
+        "uri": "https://web.archive.org/web/20181105162424/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2019-01-06T03:01:12Z",
+        "uri": "https://web.archive.org/web/20190106030112/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2019-03-08T04:24:04Z",
+        "uri": "https://web.archive.org/web/20190308042404/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2019-04-08T20:22:27Z",
+        "uri": "https://web.archive.org/web/20190408202227/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2019-04-14T21:35:21Z",
+        "uri": "https://web.archive.org/web/20190414213521/https://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2019-04-17T10:26:07Z",
+        "uri": "https://web.archive.org/web/20190417102607/https://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2019-05-07T20:14:04Z",
+        "uri": "https://web.archive.org/web/20190507201404/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2019-06-04T20:23:26Z",
+        "uri": "https://web.archive.org/web/20190604202326/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2019-07-07T22:26:53Z",
+        "uri": "https://web.archive.org/web/20190707222653/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2019-09-03T01:05:45Z",
+        "uri": "https://web.archive.org/web/20190903010545/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2019-09-06T15:39:34Z",
+        "uri": "https://web.archive.org/web/20190906153934/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2019-09-22T12:16:12Z",
+        "uri": "https://web.archive.org/web/20190922121612/http://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2019-10-16T05:29:13Z",
+        "uri": "https://web.archive.org/web/20191016052913/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2019-12-15T09:07:27Z",
+        "uri": "https://web.archive.org/web/20191215090727/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2019-12-21T17:53:22Z",
+        "uri": "https://web.archive.org/web/20191221175322/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2020-02-13T14:35:42Z",
+        "uri": "https://web.archive.org/web/20200213143542/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2020-02-14T15:12:40Z",
+        "uri": "https://web.archive.org/web/20200214151240/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2020-04-16T19:01:16Z",
+        "uri": "https://web.archive.org/web/20200416190116/https://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2020-04-16T19:01:37Z",
+        "uri": "https://web.archive.org/web/20200416190137/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2020-04-16T19:02:02Z",
+        "uri": "https://web.archive.org/web/20200416190202/http://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2020-04-24T13:50:00Z",
+        "uri": "https://web.archive.org/web/20200424135000/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2020-04-27T13:52:18Z",
+        "uri": "https://web.archive.org/web/20200427135218/https://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2020-05-03T16:47:18Z",
+        "uri": "https://web.archive.org/web/20200503164718/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2020-07-02T19:09:12Z",
+        "uri": "https://web.archive.org/web/20200702190912/http://www.odu.edu:80/about/facts-and-figures"
+      },
+      {
+        "datetime": "2020-07-12T10:44:55Z",
+        "uri": "https://web.archive.org/web/20200712104455/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2020-07-14T22:08:18Z",
+        "uri": "https://web.archive.org/web/20200714220818/http://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2020-07-16T09:27:47Z",
+        "uri": "https://web.archive.org/web/20200716092747/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2020-08-30T22:14:03Z",
+        "uri": "https://web.archive.org/web/20200830221403/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2020-09-11T00:27:34Z",
+        "uri": "https://web.archive.org/web/20200911002734/https://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2020-09-11T00:28:09Z",
+        "uri": "https://web.archive.org/web/20200911002809/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2020-09-11T00:28:15Z",
+        "uri": "https://web.archive.org/web/20200911002815/http://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2020-09-16T21:19:19Z",
+        "uri": "https://web.archive.org/web/20200916211919/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2020-09-17T00:05:50Z",
+        "uri": "https://web.archive.org/web/20200917000550/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2020-09-17T00:49:21Z",
+        "uri": "https://web.archive.org/web/20200917004921/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2020-10-04T22:10:51Z",
+        "uri": "https://web.archive.org/web/20201004221051/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2020-12-13T11:15:44Z",
+        "uri": "https://web.archive.org/web/20201213111544/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2020-12-13T11:17:50Z",
+        "uri": "https://web.archive.org/web/20201213111750/http://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2020-12-13T11:17:59Z",
+        "uri": "https://web.archive.org/web/20201213111759/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2020-12-14T16:41:54Z",
+        "uri": "https://web.archive.org/web/20201214164154/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2021-02-06T11:20:07Z",
+        "uri": "https://web.archive.org/web/20210206112007/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2021-03-08T21:04:09Z",
+        "uri": "https://web.archive.org/web/20210308210409/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2021-03-21T15:31:38Z",
+        "uri": "https://web.archive.org/web/20210321153138/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2021-04-09T23:29:49Z",
+        "uri": "https://web.archive.org/web/20210409232949/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2021-04-13T17:36:27Z",
+        "uri": "https://web.archive.org/web/20210413173627/https://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2021-04-14T04:44:38Z",
+        "uri": "https://web.archive.org/web/20210414044438/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2021-04-14T06:13:00Z",
+        "uri": "https://web.archive.org/web/20210414061300/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2021-04-25T17:34:14Z",
+        "uri": "https://web.archive.org/web/20210425173414/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2021-04-30T20:14:03Z",
+        "uri": "https://web.archive.org/web/20210430201403/https://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2021-05-03T21:18:45Z",
+        "uri": "https://web.archive.org/web/20210503211845/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2021-05-09T23:45:24Z",
+        "uri": "https://web.archive.org/web/20210509234524/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2021-05-11T17:24:46Z",
+        "uri": "https://web.archive.org/web/20210511172446/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2021-05-20T15:07:45Z",
+        "uri": "https://web.archive.org/web/20210520150745/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2021-05-26T19:55:07Z",
+        "uri": "https://web.archive.org/web/20210526195507/https://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2021-05-26T19:55:19Z",
+        "uri": "https://web.archive.org/web/20210526195519/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2021-05-26T19:55:26Z",
+        "uri": "https://web.archive.org/web/20210526195526/http://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2021-06-02T01:57:48Z",
+        "uri": "https://web.archive.org/web/20210602015748/https://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2021-06-27T10:13:10Z",
+        "uri": "https://web.archive.org/web/20210627101310/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2021-08-11T19:21:30Z",
+        "uri": "https://web.archive.org/web/20210811192130/https://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2021-08-12T16:01:59Z",
+        "uri": "https://web.archive.org/web/20210812160159/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2021-08-13T08:47:33Z",
+        "uri": "https://web.archive.org/web/20210813084733/http://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2021-09-10T15:35:08Z",
+        "uri": "https://arquivo.pt/wayback/20210910153508mp_/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2021-10-10T14:24:00Z",
+        "uri": "https://web.archive.org/web/20211010142400/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2021-10-10T14:24:00Z",
+        "uri": "https://web.archive.org/web/20211010142400/http://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2021-10-19T20:01:19Z",
+        "uri": "https://web.archive.org/web/20211019200119/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2021-10-27T19:12:41Z",
+        "uri": "https://web.archive.org/web/20211027191241/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2021-10-27T20:01:36Z",
+        "uri": "https://web.archive.org/web/20211027200136/http://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2021-11-03T13:26:22Z",
+        "uri": "https://arquivo.pt/wayback/20211103132622mp_/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2021-11-03T13:26:22Z",
+        "uri": "https://web.archive.org/web/20211103132622/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2021-11-03T13:27:20Z",
+        "uri": "https://arquivo.pt/wayback/20211103132720mp_/http://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2021-11-03T13:27:20Z",
+        "uri": "https://web.archive.org/web/20211103132720/http://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2021-11-19T21:13:30Z",
+        "uri": "https://web.archive.org/web/20211119211330/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2021-11-21T13:42:19Z",
+        "uri": "https://web.archive.org/web/20211121134219/https://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2021-11-21T13:42:41Z",
+        "uri": "https://web.archive.org/web/20211121134241/https://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2021-12-09T09:23:55Z",
+        "uri": "https://web.archive.org/web/20211209092355/http://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-01-08T16:38:16Z",
+        "uri": "https://web.archive.org/web/20220108163816/https://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-01-10T17:03:55Z",
+        "uri": "https://web.archive.org/web/20220110170355/https://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-01-11T20:15:46Z",
+        "uri": "https://web.archive.org/web/20220111201546/https://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-01-12T16:57:32Z",
+        "uri": "https://web.archive.org/web/20220112165732/https://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-01-12T21:58:08Z",
+        "uri": "https://web.archive.org/web/20220112215808/https://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-01-13T01:02:34Z",
+        "uri": "https://web.archive.org/web/20220113010234/https://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-01-13T19:30:43Z",
+        "uri": "https://web.archive.org/web/20220113193043/https://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-01-16T23:35:21Z",
+        "uri": "https://web.archive.org/web/20220116233521/https://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-01-17T07:07:40Z",
+        "uri": "https://web.archive.org/web/20220117070740/https://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-01-21T21:46:15Z",
+        "uri": "https://web.archive.org/web/20220121214615/https://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-01-22T10:24:29Z",
+        "uri": "https://arquivo.pt/wayback/20220122102429mp_/https://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-01-24T20:26:21Z",
+        "uri": "https://web.archive.org/web/20220124202621/https://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-01-26T02:00:58Z",
+        "uri": "https://web.archive.org/web/20220126020058/https://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-01-26T05:34:04Z",
+        "uri": "https://arquivo.pt/wayback/20220126053404mp_/http://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-01-31T22:15:12Z",
+        "uri": "https://web.archive.org/web/20220131221512/https://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-02-01T22:30:10Z",
+        "uri": "https://web.archive.org/web/20220201223010/https://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-02-03T18:57:49Z",
+        "uri": "https://web.archive.org/web/20220203185749/https://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-02-17T23:24:05Z",
+        "uri": "https://web.archive.org/web/20220217232405/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-03-14T05:06:59Z",
+        "uri": "https://web.archive.org/web/20220314050659/http://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-03-19T20:19:37Z",
+        "uri": "https://web.archive.org/web/20220319201937/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-03-19T20:19:37Z",
+        "uri": "https://web.archive.org/web/20220319201937/http://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-04-17T05:30:06Z",
+        "uri": "https://arquivo.pt/wayback/20220417053006mp_/https://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-04-19T15:24:44Z",
+        "uri": "https://web.archive.org/web/20220419152444/https://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-04-22T17:15:18Z",
+        "uri": "https://arquivo.pt/wayback/20220422171518mp_/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-04-22T17:15:22Z",
+        "uri": "https://arquivo.pt/wayback/20220422171522mp_/http://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-04-24T18:51:09Z",
+        "uri": "https://arquivo.pt/wayback/20220424185109mp_/http://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-05-14T05:03:46Z",
+        "uri": "https://web.archive.org/web/20220514050346/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-06-15T05:41:28Z",
+        "uri": "https://web.archive.org/web/20220615054128/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-06-18T23:37:29Z",
+        "uri": "https://web.archive.org/web/20220618233729/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-06-19T00:34:33Z",
+        "uri": "https://web.archive.org/web/20220619003433/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-06-19T11:24:28Z",
+        "uri": "https://web.archive.org/web/20220619112428/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-06-19T11:25:19Z",
+        "uri": "https://web.archive.org/web/20220619112519/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-06-19T23:28:00Z",
+        "uri": "https://web.archive.org/web/20220619232800/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-06-19T23:29:55Z",
+        "uri": "https://web.archive.org/web/20220619232955/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-07-30T14:39:29Z",
+        "uri": "https://arquivo.pt/wayback/20220730143929mp_/https://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-08-02T20:20:24Z",
+        "uri": "https://web.archive.org/web/20220802202024/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-08-03T00:07:13Z",
+        "uri": "https://web.archive.org/web/20220803000713/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-08-03T15:17:50Z",
+        "uri": "https://web.archive.org/web/20220803151750/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-08-04T05:45:30Z",
+        "uri": "https://web.archive.org/web/20220804054530/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-08-04T16:22:19Z",
+        "uri": "https://web.archive.org/web/20220804162219/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-08-06T01:00:06Z",
+        "uri": "https://web.archive.org/web/20220806010006/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-08-07T04:26:02Z",
+        "uri": "https://web.archive.org/web/20220807042602/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-08-08T08:38:23Z",
+        "uri": "https://web.archive.org/web/20220808083823/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-08-08T11:21:17Z",
+        "uri": "https://web.archive.org/web/20220808112117/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-08-09T14:07:49Z",
+        "uri": "https://web.archive.org/web/20220809140749/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-08-10T17:39:24Z",
+        "uri": "https://web.archive.org/web/20220810173924/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-08-10T19:53:39Z",
+        "uri": "https://web.archive.org/web/20220810195339/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-08-10T19:58:41Z",
+        "uri": "https://web.archive.org/web/20220810195841/https://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-08-10T19:59:05Z",
+        "uri": "https://web.archive.org/web/20220810195905/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-08-10T19:59:25Z",
+        "uri": "https://web.archive.org/web/20220810195925/http://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-08-15T03:31:29Z",
+        "uri": "https://web.archive.org/web/20220815033129/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-09-22T16:57:23Z",
+        "uri": "https://web.archive.org/web/20220922165723/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-09-25T06:23:40Z",
+        "uri": "https://web.archive.org/web/20220925062340/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-09-29T00:16:50Z",
+        "uri": "https://web.archive.org/web/20220929001650/http://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-10-11T02:13:55Z",
+        "uri": "https://arquivo.pt/wayback/20221011021355mp_/https://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-10-13T15:32:04Z",
+        "uri": "https://web.archive.org/web/20221013153204/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-10-24T05:25:34Z",
+        "uri": "https://web.archive.org/web/20221024052534/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-11-07T06:10:54Z",
+        "uri": "https://web.archive.org/web/20221107061054/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-11-09T00:55:16Z",
+        "uri": "https://web.archive.org/web/20221109005516/http://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-12-07T13:51:02Z",
+        "uri": "https://web.archive.org/web/20221207135102/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-12-08T05:59:26Z",
+        "uri": "https://web.archive.org/web/20221208055926/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2022-12-14T02:56:36Z",
+        "uri": "https://web.archive.org/web/20221214025636/http://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2023-01-07T13:29:55Z",
+        "uri": "https://web.archive.org/web/20230107132955/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2023-01-24T18:04:26Z",
+        "uri": "https://arquivo.pt/wayback/20230124180426mp_/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2023-02-07T12:17:57Z",
+        "uri": "https://web.archive.org/web/20230207121757/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2023-02-20T01:08:41Z",
+        "uri": "https://web.archive.org/web/20230220010841/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2023-03-07T05:06:05Z",
+        "uri": "https://web.archive.org/web/20230307050605/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2023-03-09T04:15:33Z",
+        "uri": "https://web.archive.org/web/20230309041533/http://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2023-03-27T22:36:07Z",
+        "uri": "https://web.archive.org/web/20230327223607/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2023-03-31T21:40:59Z",
+        "uri": "https://web.archive.org/web/20230331214059/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2023-04-03T06:19:48Z",
+        "uri": "https://web.archive.org/web/20230403061948/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2023-04-05T11:04:06Z",
+        "uri": "https://web.archive.org/web/20230405110406/https://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2023-06-01T10:02:20Z",
+        "uri": "https://web.archive.org/web/20230601100220/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2023-06-01T20:16:05Z",
+        "uri": "https://web.archive.org/web/20230601201605/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2023-06-04T23:11:05Z",
+        "uri": "https://web.archive.org/web/20230604231105/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2023-07-01T11:11:24Z",
+        "uri": "https://web.archive.org/web/20230701111124/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2023-07-15T00:31:07Z",
+        "uri": "https://web.archive.org/web/20230715003107/http://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2023-08-03T16:55:10Z",
+        "uri": "https://web.archive.org/web/20230803165510/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2023-08-10T16:09:30Z",
+        "uri": "https://web.archive.org/web/20230810160930/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2023-08-25T19:06:28Z",
+        "uri": "https://web.archive.org/web/20230825190628/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2023-08-27T02:21:51Z",
+        "uri": "https://web.archive.org/web/20230827022151/http://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2023-10-01T09:59:13Z",
+        "uri": "https://web.archive.org/web/20231001095913/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2023-10-10T15:41:33Z",
+        "uri": "https://web.archive.org/web/20231010154133/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2023-11-28T03:54:23Z",
+        "uri": "https://web.archive.org/web/20231128035423/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2023-12-01T17:02:58Z",
+        "uri": "https://web.archive.org/web/20231201170258/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2023-12-22T04:36:19Z",
+        "uri": "https://web.archive.org/web/20231222043619/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2024-01-01T13:22:06Z",
+        "uri": "https://web.archive.org/web/20240101132206/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2024-02-01T10:07:25Z",
+        "uri": "https://web.archive.org/web/20240201100725/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2024-02-28T21:32:58Z",
+        "uri": "https://web.archive.org/web/20240228213258/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2024-03-04T19:31:38Z",
+        "uri": "https://web.archive.org/web/20240304193138/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2024-03-05T01:48:09Z",
+        "uri": "https://web.archive.org/web/20240305014809/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2024-03-17T20:23:50Z",
+        "uri": "https://web.archive.org/web/20240317202350/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2024-03-25T12:56:23Z",
+        "uri": "https://web.archive.org/web/20240325125623/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2024-04-01T00:31:35Z",
+        "uri": "https://web.archive.org/web/20240401003135/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2024-04-04T07:27:03Z",
+        "uri": "https://web.archive.org/web/20240404072703/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2024-04-17T03:32:04Z",
+        "uri": "https://web.archive.org/web/20240417033204/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2024-04-27T16:10:00Z",
+        "uri": "https://web.archive.org/web/20240427161000/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2024-05-01T08:46:46Z",
+        "uri": "https://web.archive.org/web/20240501084646/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2024-05-13T13:53:56Z",
+        "uri": "https://web.archive.org/web/20240513135356/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2024-06-01T02:23:33Z",
+        "uri": "https://web.archive.org/web/20240601022333/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2024-06-14T10:16:40Z",
+        "uri": "https://web.archive.org/web/20240614101640/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2024-06-18T17:37:41Z",
+        "uri": "https://web.archive.org/web/20240618173741/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2024-07-04T21:06:48Z",
+        "uri": "https://web.archive.org/web/20240704210648/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2024-07-15T23:30:26Z",
+        "uri": "https://web.archive.org/web/20240715233026/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2024-08-01T00:13:30Z",
+        "uri": "https://web.archive.org/web/20240801001330/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2024-08-14T02:07:09Z",
+        "uri": "https://web.archive.org/web/20240814020709/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2024-08-18T03:11:41Z",
+        "uri": "https://web.archive.org/web/20240818031141/http://odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2024-09-02T20:46:37Z",
+        "uri": "https://web.archive.org/web/20240902204637/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2024-09-10T01:10:23Z",
+        "uri": "https://web.archive.org/web/20240910011023/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2024-09-17T19:43:19Z",
+        "uri": "https://web.archive.org/web/20240917194319/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2024-10-03T02:00:43Z",
+        "uri": "https://web.archive.org/web/20241003020043/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2024-10-07T10:23:23Z",
+        "uri": "https://web.archive.org/web/20241007102323/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2024-10-10T18:13:30Z",
+        "uri": "https://web.archive.org/web/20241010181330/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2024-11-27T04:21:37Z",
+        "uri": "https://web.archive.org/web/20241127042137/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2024-12-01T15:45:09Z",
+        "uri": "https://web.archive.org/web/20241201154509/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2024-12-04T10:38:55Z",
+        "uri": "https://web.archive.org/web/20241204103855/http://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2024-12-04T10:38:58Z",
+        "uri": "https://web.archive.org/web/20241204103858/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2024-12-11T07:15:58Z",
+        "uri": "https://web.archive.org/web/20241211071558/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2024-12-19T15:11:23Z",
+        "uri": "https://web.archive.org/web/20241219151123/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2024-12-22T13:14:01Z",
+        "uri": "https://web.archive.org/web/20241222131401/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2024-12-24T17:53:35Z",
+        "uri": "https://web.archive.org/web/20241224175335/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2025-01-03T22:32:32Z",
+        "uri": "https://web.archive.org/web/20250103223232/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2025-01-26T14:06:57Z",
+        "uri": "https://web.archive.org/web/20250126140657/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2025-02-05T12:14:12Z",
+        "uri": "https://web.archive.org/web/20250205121412/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2025-02-14T09:59:47Z",
+        "uri": "https://web.archive.org/web/20250214095947/https://www.odu.edu/about/facts-and-figures"
+      },
+      {
+        "datetime": "2025-02-14T12:31:30Z",
+        "uri": "https://web.archive.org/web/20250214123130/https://www.odu.edu/about/facts-and-figures"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-01T20:12:04Z",
+      "uri": "https://web.archive.org/web/20120901201204/http://www.odu.edu:80/about/facts-and-figures"
+    },
+    "last": {
+      "datetime": "2025-02-14T12:31:30Z",
+      "uri": "https://web.archive.org/web/20250214123130/https://www.odu.edu/about/facts-and-figures"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/about/facts-and-figures",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/about/facts-and-figures",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/about/facts-and-figures"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/about/facts-and-figures"
+}

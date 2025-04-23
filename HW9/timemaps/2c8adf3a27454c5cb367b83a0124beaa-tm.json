@@ -1,0 +1,442 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/sped/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/sped/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:27:55Z",
+        "uri": "https://web.archive.org/web/20120902042755/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2013-04-28T01:42:36Z",
+        "uri": "https://web.archive.org/web/20130428014236/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2013-04-28T01:42:36Z",
+        "uri": "https://web.archive.org/web/20130428014236/http://catalog.odu.edu:80/courses/sped"
+      },
+      {
+        "datetime": "2013-04-29T19:19:42Z",
+        "uri": "https://web.archive.org/web/20130429191942/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2013-05-28T20:09:21Z",
+        "uri": "https://web.archive.org/web/20130528200921/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2013-05-28T20:09:21Z",
+        "uri": "https://web.archive.org/web/20130528200921/http://catalog.odu.edu:80/courses/sped"
+      },
+      {
+        "datetime": "2014-04-21T22:25:11Z",
+        "uri": "https://web.archive.org/web/20140421222511/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2014-06-21T11:41:14Z",
+        "uri": "https://web.archive.org/web/20140621114114/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2014-08-21T00:24:20Z",
+        "uri": "https://web.archive.org/web/20140821002420/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2014-10-20T16:24:45Z",
+        "uri": "https://web.archive.org/web/20141020162445/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2014-12-20T10:36:25Z",
+        "uri": "https://web.archive.org/web/20141220103625/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2015-02-09T02:18:05Z",
+        "uri": "https://web.archive.org/web/20150209021805/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2015-02-09T02:18:05Z",
+        "uri": "https://web.archive.org/web/20150209021805/http://catalog.odu.edu:80/courses/sped"
+      },
+      {
+        "datetime": "2015-02-15T02:08:54Z",
+        "uri": "https://web.archive.org/web/20150215020854/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2015-03-11T09:57:09Z",
+        "uri": "https://web.archive.org/web/20150311095709/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2015-03-11T09:57:09Z",
+        "uri": "https://web.archive.org/web/20150311095709/http://catalog.odu.edu:80/courses/sped"
+      },
+      {
+        "datetime": "2015-04-11T10:33:02Z",
+        "uri": "https://web.archive.org/web/20150411103302/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2015-04-11T10:33:02Z",
+        "uri": "https://web.archive.org/web/20150411103302/http://catalog.odu.edu:80/courses/sped"
+      },
+      {
+        "datetime": "2015-04-16T10:46:17Z",
+        "uri": "https://web.archive.org/web/20150416104617/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2015-05-11T07:41:04Z",
+        "uri": "https://web.archive.org/web/20150511074104/http://catalog.odu.edu/courses/sped/"
+      },
+      {
+        "datetime": "2015-05-12T03:31:24Z",
+        "uri": "https://web.archive.org/web/20150512033124/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2015-05-12T03:31:24Z",
+        "uri": "https://web.archive.org/web/20150512033124/http://catalog.odu.edu:80/courses/sped"
+      },
+      {
+        "datetime": "2015-06-13T05:54:04Z",
+        "uri": "https://web.archive.org/web/20150613055404/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2015-06-13T05:54:04Z",
+        "uri": "https://web.archive.org/web/20150613055404/http://catalog.odu.edu:80/courses/sped"
+      },
+      {
+        "datetime": "2015-06-16T14:56:04Z",
+        "uri": "https://web.archive.org/web/20150616145604/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2015-07-03T07:34:55Z",
+        "uri": "https://web.archive.org/web/20150703073455/http://catalog.odu.edu/courses/sped/"
+      },
+      {
+        "datetime": "2015-07-17T04:43:38Z",
+        "uri": "https://web.archive.org/web/20150717044338/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2015-07-17T04:43:38Z",
+        "uri": "https://web.archive.org/web/20150717044338/http://catalog.odu.edu:80/courses/sped"
+      },
+      {
+        "datetime": "2015-08-16T01:02:36Z",
+        "uri": "https://web.archive.org/web/20150816010236/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2015-10-15T07:24:07Z",
+        "uri": "https://web.archive.org/web/20151015072407/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2015-10-29T05:30:31Z",
+        "uri": "https://web.archive.org/web/20151029053031/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2015-10-29T05:30:31Z",
+        "uri": "https://web.archive.org/web/20151029053031/http://catalog.odu.edu:80/courses/sped"
+      },
+      {
+        "datetime": "2015-12-14T13:59:33Z",
+        "uri": "https://web.archive.org/web/20151214135933/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2016-02-12T23:58:52Z",
+        "uri": "https://web.archive.org/web/20160212235852/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2016-04-09T04:55:08Z",
+        "uri": "https://web.archive.org/web/20160409045508/http://catalog.odu.edu/courses/sped/"
+      },
+      {
+        "datetime": "2016-06-13T08:19:58Z",
+        "uri": "https://web.archive.org/web/20160613081958/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2016-08-13T01:01:23Z",
+        "uri": "https://web.archive.org/web/20160813010123/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2016-10-13T19:50:33Z",
+        "uri": "https://web.archive.org/web/20161013195033/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2016-12-05T05:02:02Z",
+        "uri": "https://web.archive.org/web/20161205050202/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2017-03-22T06:59:41Z",
+        "uri": "https://web.archive.org/web/20170322065941/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2017-04-27T05:12:34Z",
+        "uri": "https://web.archive.org/web/20170427051234/http://catalog.odu.edu/courses/sped/"
+      },
+      {
+        "datetime": "2017-05-08T04:21:35Z",
+        "uri": "https://web.archive.org/web/20170508042135/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2017-05-08T04:21:35Z",
+        "uri": "https://web.archive.org/web/20170508042135/http://catalog.odu.edu:80/courses/sped"
+      },
+      {
+        "datetime": "2017-05-22T23:10:58Z",
+        "uri": "https://web.archive.org/web/20170522231058/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2017-06-08T12:12:46Z",
+        "uri": "https://web.archive.org/web/20170608121246/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2017-06-08T12:12:46Z",
+        "uri": "https://web.archive.org/web/20170608121246/http://catalog.odu.edu:80/courses/sped"
+      },
+      {
+        "datetime": "2017-07-09T01:35:51Z",
+        "uri": "https://web.archive.org/web/20170709013551/http://catalog.odu.edu/courses/sped/"
+      },
+      {
+        "datetime": "2017-07-18T14:57:33Z",
+        "uri": "https://web.archive.org/web/20170718145733/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2017-07-18T14:57:33Z",
+        "uri": "https://web.archive.org/web/20170718145733/http://catalog.odu.edu:80/courses/sped"
+      },
+      {
+        "datetime": "2017-07-22T10:39:17Z",
+        "uri": "https://web.archive.org/web/20170722103917/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2017-09-21T09:21:17Z",
+        "uri": "https://web.archive.org/web/20170921092117/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2017-09-28T19:39:04Z",
+        "uri": "https://web.archive.org/web/20170928193904/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2017-09-28T19:39:04Z",
+        "uri": "https://web.archive.org/web/20170928193904/http://catalog.odu.edu:80/courses/sped"
+      },
+      {
+        "datetime": "2017-10-29T18:11:04Z",
+        "uri": "https://web.archive.org/web/20171029181104/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2017-10-29T18:11:04Z",
+        "uri": "https://web.archive.org/web/20171029181104/http://catalog.odu.edu:80/courses/sped"
+      },
+      {
+        "datetime": "2017-11-20T18:43:31Z",
+        "uri": "https://web.archive.org/web/20171120184331/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2017-11-29T08:55:41Z",
+        "uri": "https://web.archive.org/web/20171129085541/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2017-11-29T08:55:41Z",
+        "uri": "https://web.archive.org/web/20171129085541/http://catalog.odu.edu:80/courses/sped"
+      },
+      {
+        "datetime": "2017-12-30T07:34:59Z",
+        "uri": "https://web.archive.org/web/20171230073459/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2017-12-30T07:34:59Z",
+        "uri": "https://web.archive.org/web/20171230073459/http://catalog.odu.edu:80/courses/sped"
+      },
+      {
+        "datetime": "2018-01-21T18:56:15Z",
+        "uri": "https://web.archive.org/web/20180121185615/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2018-01-31T18:27:48Z",
+        "uri": "https://web.archive.org/web/20180131182748/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2018-01-31T18:27:48Z",
+        "uri": "https://web.archive.org/web/20180131182748/http://catalog.odu.edu:80/courses/sped"
+      },
+      {
+        "datetime": "2018-03-03T16:47:05Z",
+        "uri": "https://web.archive.org/web/20180303164705/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2018-03-03T16:47:05Z",
+        "uri": "https://web.archive.org/web/20180303164705/http://catalog.odu.edu:80/courses/sped"
+      },
+      {
+        "datetime": "2018-03-23T22:08:13Z",
+        "uri": "https://web.archive.org/web/20180323220813/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2018-05-23T18:14:32Z",
+        "uri": "https://web.archive.org/web/20180523181432/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2018-09-23T19:02:06Z",
+        "uri": "https://web.archive.org/web/20180923190206/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2018-11-23T15:54:17Z",
+        "uri": "https://web.archive.org/web/20181123155417/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2018-12-12T18:21:19Z",
+        "uri": "https://web.archive.org/web/20181212182119/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2018-12-12T18:21:19Z",
+        "uri": "https://web.archive.org/web/20181212182119/http://catalog.odu.edu:80/courses/sped"
+      },
+      {
+        "datetime": "2019-01-12T16:33:03Z",
+        "uri": "https://web.archive.org/web/20190112163303/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2019-01-12T16:33:03Z",
+        "uri": "https://web.archive.org/web/20190112163303/http://catalog.odu.edu:80/courses/sped"
+      },
+      {
+        "datetime": "2019-02-13T05:57:42Z",
+        "uri": "https://web.archive.org/web/20190213055742/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2019-02-13T05:57:42Z",
+        "uri": "https://web.archive.org/web/20190213055742/http://catalog.odu.edu:80/courses/sped"
+      },
+      {
+        "datetime": "2019-03-16T02:07:51Z",
+        "uri": "https://web.archive.org/web/20190316020751/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2019-03-16T02:07:51Z",
+        "uri": "https://web.archive.org/web/20190316020751/http://catalog.odu.edu:80/courses/sped"
+      },
+      {
+        "datetime": "2019-03-25T12:15:24Z",
+        "uri": "https://web.archive.org/web/20190325121524/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2019-04-16T21:48:34Z",
+        "uri": "https://web.archive.org/web/20190416214834/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2019-04-16T21:48:34Z",
+        "uri": "https://web.archive.org/web/20190416214834/http://catalog.odu.edu:80/courses/sped"
+      },
+      {
+        "datetime": "2019-05-17T13:55:25Z",
+        "uri": "https://web.archive.org/web/20190517135525/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2019-05-17T13:55:25Z",
+        "uri": "https://web.archive.org/web/20190517135525/http://catalog.odu.edu:80/courses/sped"
+      },
+      {
+        "datetime": "2019-06-17T08:51:54Z",
+        "uri": "https://web.archive.org/web/20190617085154/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2019-06-17T08:51:54Z",
+        "uri": "https://web.archive.org/web/20190617085154/http://catalog.odu.edu:80/courses/sped"
+      },
+      {
+        "datetime": "2019-07-17T19:00:31Z",
+        "uri": "https://web.archive.org/web/20190717190031/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2019-07-17T19:00:31Z",
+        "uri": "https://web.archive.org/web/20190717190031/http://catalog.odu.edu:80/courses/sped"
+      },
+      {
+        "datetime": "2019-07-24T23:01:56Z",
+        "uri": "https://web.archive.org/web/20190724230156/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2019-08-17T16:25:52Z",
+        "uri": "https://web.archive.org/web/20190817162552/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2019-08-17T16:25:52Z",
+        "uri": "https://web.archive.org/web/20190817162552/http://catalog.odu.edu:80/courses/sped"
+      },
+      {
+        "datetime": "2019-09-17T07:39:52Z",
+        "uri": "https://web.archive.org/web/20190917073952/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2019-09-17T07:39:52Z",
+        "uri": "https://web.archive.org/web/20190917073952/http://catalog.odu.edu:80/courses/sped"
+      },
+      {
+        "datetime": "2019-09-23T08:19:10Z",
+        "uri": "https://web.archive.org/web/20190923081910/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2019-10-09T05:19:43Z",
+        "uri": "https://web.archive.org/web/20191009051943/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2019-12-08T12:36:44Z",
+        "uri": "https://web.archive.org/web/20191208123644/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2020-03-02T06:07:36Z",
+        "uri": "https://web.archive.org/web/20200302060736/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2020-05-01T08:55:30Z",
+        "uri": "https://web.archive.org/web/20200501085530/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2020-06-30T15:14:05Z",
+        "uri": "https://web.archive.org/web/20200630151405/http://catalog.odu.edu:80/courses/sped/"
+      },
+      {
+        "datetime": "2021-01-24T08:37:49Z",
+        "uri": "https://web.archive.org/web/20210124083749/https://catalog.odu.edu/courses/sped/"
+      },
+      {
+        "datetime": "2021-04-12T20:26:14Z",
+        "uri": "https://web.archive.org/web/20210412202614/http://catalog.odu.edu/courses/sped/"
+      },
+      {
+        "datetime": "2021-11-08T18:16:24Z",
+        "uri": "https://web.archive.org/web/20211108181624/https://catalog.odu.edu/courses/sped/"
+      },
+      {
+        "datetime": "2022-03-19T20:03:37Z",
+        "uri": "https://web.archive.org/web/20220319200337/https://catalog.odu.edu/courses/sped/"
+      },
+      {
+        "datetime": "2022-11-03T22:28:01Z",
+        "uri": "https://web.archive.org/web/20221103222801/https://catalog.odu.edu/courses/sped/"
+      },
+      {
+        "datetime": "2024-02-29T00:41:33Z",
+        "uri": "https://web.archive.org/web/20240229004133/https://catalog.odu.edu/courses/sped/"
+      },
+      {
+        "datetime": "2024-02-29T16:12:18Z",
+        "uri": "https://web.archive.org/web/20240229161218/https://catalog.odu.edu/courses/sped/"
+      },
+      {
+        "datetime": "2024-06-03T12:42:52Z",
+        "uri": "https://web.archive.org/web/20240603124252/http://catalog.odu.edu/courses/sped/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:27:55Z",
+      "uri": "https://web.archive.org/web/20120902042755/http://catalog.odu.edu:80/courses/sped/"
+    },
+    "last": {
+      "datetime": "2024-06-03T12:42:52Z",
+      "uri": "https://web.archive.org/web/20240603124252/http://catalog.odu.edu/courses/sped/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/sped/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/sped/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/sped/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/sped/"
+}

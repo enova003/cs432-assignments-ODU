@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/education-special-phd/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/education-special-phd/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-09-26T17:42:54Z",
+        "uri": "https://web.archive.org/web/20240926174254/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/education-special-phd/"
+      },
+      {
+        "datetime": "2024-11-11T22:52:52Z",
+        "uri": "https://web.archive.org/web/20241111225252/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/education-special-phd/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-09-26T17:42:54Z",
+      "uri": "https://web.archive.org/web/20240926174254/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/education-special-phd/"
+    },
+    "last": {
+      "datetime": "2024-11-11T22:52:52Z",
+      "uri": "https://web.archive.org/web/20241111225252/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/education-special-phd/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/education-special-phd/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/education-special-phd/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/education-special-phd/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/graduate/education/human-movement-studies-special-education/education-special-phd/"
+}

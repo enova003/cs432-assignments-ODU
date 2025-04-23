@@ -1,0 +1,118 @@
+{
+  "original_uri": "https://online.odu.edu/academics/accelerated-degrees",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/academics/accelerated-degrees",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-04-27T12:07:03Z",
+        "uri": "https://web.archive.org/web/20200427120703/https://online.odu.edu/academics/accelerated-degrees"
+      },
+      {
+        "datetime": "2020-05-30T00:34:57Z",
+        "uri": "https://web.archive.org/web/20200530003457/https://online.odu.edu/academics/accelerated-degrees"
+      },
+      {
+        "datetime": "2020-09-25T23:12:07Z",
+        "uri": "https://web.archive.org/web/20200925231207/https://online.odu.edu/academics/accelerated-degrees"
+      },
+      {
+        "datetime": "2020-11-25T11:05:03Z",
+        "uri": "https://web.archive.org/web/20201125110503/https://online.odu.edu/academics/accelerated-degrees"
+      },
+      {
+        "datetime": "2021-03-03T11:45:24Z",
+        "uri": "https://web.archive.org/web/20210303114524/https://online.odu.edu/academics/accelerated-degrees"
+      },
+      {
+        "datetime": "2021-04-13T19:31:26Z",
+        "uri": "https://web.archive.org/web/20210413193126/https://online.odu.edu/academics/accelerated-degrees"
+      },
+      {
+        "datetime": "2021-05-07T19:16:45Z",
+        "uri": "https://web.archive.org/web/20210507191645/https://online.odu.edu/academics/accelerated-degrees"
+      },
+      {
+        "datetime": "2021-07-30T22:55:58Z",
+        "uri": "https://web.archive.org/web/20210730225558/https://online.odu.edu/academics/accelerated-degrees"
+      },
+      {
+        "datetime": "2021-09-24T14:49:38Z",
+        "uri": "https://web.archive.org/web/20210924144938/https://online.odu.edu/academics/accelerated-degrees"
+      },
+      {
+        "datetime": "2021-12-09T00:54:07Z",
+        "uri": "https://web.archive.org/web/20211209005407/https://online.odu.edu/academics/accelerated-degrees"
+      },
+      {
+        "datetime": "2021-12-09T09:24:06Z",
+        "uri": "https://web.archive.org/web/20211209092406/https://online.odu.edu/academics/accelerated-degrees"
+      },
+      {
+        "datetime": "2022-03-19T21:41:06Z",
+        "uri": "https://web.archive.org/web/20220319214106/https://online.odu.edu/academics/accelerated-degrees"
+      },
+      {
+        "datetime": "2022-05-27T21:41:10Z",
+        "uri": "https://web.archive.org/web/20220527214110/https://online.odu.edu/academics/accelerated-degrees"
+      },
+      {
+        "datetime": "2022-08-08T17:24:37Z",
+        "uri": "https://web.archive.org/web/20220808172437/https://online.odu.edu/academics/accelerated-degrees"
+      },
+      {
+        "datetime": "2022-10-04T22:41:09Z",
+        "uri": "https://web.archive.org/web/20221004224109/https://online.odu.edu/academics/accelerated-degrees"
+      },
+      {
+        "datetime": "2023-02-08T23:07:32Z",
+        "uri": "https://web.archive.org/web/20230208230732/https://online.odu.edu/academics/accelerated-degrees"
+      },
+      {
+        "datetime": "2023-06-02T11:30:36Z",
+        "uri": "https://web.archive.org/web/20230602113036/https://online.odu.edu/academics/accelerated-degrees"
+      },
+      {
+        "datetime": "2023-07-15T00:31:24Z",
+        "uri": "https://web.archive.org/web/20230715003124/https://online.odu.edu/academics/accelerated-degrees"
+      },
+      {
+        "datetime": "2023-09-24T20:03:51Z",
+        "uri": "https://web.archive.org/web/20230924200351/https://online.odu.edu/academics/accelerated-degrees"
+      },
+      {
+        "datetime": "2024-02-25T08:17:01Z",
+        "uri": "https://web.archive.org/web/20240225081701/https://online.odu.edu/academics/accelerated-degrees"
+      },
+      {
+        "datetime": "2024-06-13T23:02:54Z",
+        "uri": "https://web.archive.org/web/20240613230254/https://online.odu.edu/academics/accelerated-degrees"
+      },
+      {
+        "datetime": "2024-09-20T16:50:31Z",
+        "uri": "https://web.archive.org/web/20240920165031/https://online.odu.edu/academics/accelerated-degrees"
+      },
+      {
+        "datetime": "2024-12-14T22:10:43Z",
+        "uri": "https://web.archive.org/web/20241214221043/https://online.odu.edu/academics/accelerated-degrees"
+      },
+      {
+        "datetime": "2025-01-19T13:02:30Z",
+        "uri": "https://web.archive.org/web/20250119130230/https://online.odu.edu/academics/accelerated-degrees"
+      }
+    ],
+    "first": {
+      "datetime": "2020-04-27T12:07:03Z",
+      "uri": "https://web.archive.org/web/20200427120703/https://online.odu.edu/academics/accelerated-degrees"
+    },
+    "last": {
+      "datetime": "2025-01-19T13:02:30Z",
+      "uri": "https://web.archive.org/web/20250119130230/https://online.odu.edu/academics/accelerated-degrees"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/academics/accelerated-degrees",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/academics/accelerated-degrees",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/academics/accelerated-degrees"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/academics/accelerated-degrees"
+}

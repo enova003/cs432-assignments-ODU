@@ -1,0 +1,58 @@
+{
+  "original_uri": "https://online.odu.edu/online-experience/supporting-students",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/online-experience/supporting-students",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-12-02T15:14:16Z",
+        "uri": "https://web.archive.org/web/20231202151416/https://online.odu.edu/online-experience/supporting-students"
+      },
+      {
+        "datetime": "2023-12-11T16:28:33Z",
+        "uri": "https://web.archive.org/web/20231211162833/https://online.odu.edu/online-experience/supporting-students"
+      },
+      {
+        "datetime": "2024-03-17T22:35:58Z",
+        "uri": "https://web.archive.org/web/20240317223558/https://online.odu.edu/online-experience/supporting-students"
+      },
+      {
+        "datetime": "2024-04-23T04:54:04Z",
+        "uri": "https://web.archive.org/web/20240423045404/https://online.odu.edu/online-experience/supporting-students"
+      },
+      {
+        "datetime": "2024-07-09T20:59:08Z",
+        "uri": "https://web.archive.org/web/20240709205908/https://online.odu.edu/online-experience/supporting-students"
+      },
+      {
+        "datetime": "2024-07-21T22:40:22Z",
+        "uri": "https://web.archive.org/web/20240721224022/https://online.odu.edu/online-experience/supporting-students"
+      },
+      {
+        "datetime": "2024-10-05T13:14:04Z",
+        "uri": "https://web.archive.org/web/20241005131404/https://online.odu.edu/online-experience/supporting-students"
+      },
+      {
+        "datetime": "2024-12-08T00:43:34Z",
+        "uri": "https://web.archive.org/web/20241208004334/https://online.odu.edu/online-experience/supporting-students"
+      },
+      {
+        "datetime": "2025-01-19T13:02:29Z",
+        "uri": "https://web.archive.org/web/20250119130229/https://online.odu.edu/online-experience/supporting-students"
+      }
+    ],
+    "first": {
+      "datetime": "2023-12-02T15:14:16Z",
+      "uri": "https://web.archive.org/web/20231202151416/https://online.odu.edu/online-experience/supporting-students"
+    },
+    "last": {
+      "datetime": "2025-01-19T13:02:29Z",
+      "uri": "https://web.archive.org/web/20250119130229/https://online.odu.edu/online-experience/supporting-students"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/online-experience/supporting-students",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/online-experience/supporting-students",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/online-experience/supporting-students"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/online-experience/supporting-students"
+}

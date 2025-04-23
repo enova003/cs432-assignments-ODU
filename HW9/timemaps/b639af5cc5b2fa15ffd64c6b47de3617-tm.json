@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.odu.edu/recreation-wellness/events/free-rock-climbing-social#main-content",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/recreation-wellness/events/free-rock-climbing-social#main-content",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2025-02-14T09:59:48Z",
+        "uri": "https://web.archive.org/web/20250214095948/https://www.odu.edu/recreation-wellness/events/free-rock-climbing-social"
+      },
+      {
+        "datetime": "2025-02-15T07:31:43Z",
+        "uri": "https://web.archive.org/web/20250215073143/https://www.odu.edu/recreation-wellness/events/free-rock-climbing-social"
+      }
+    ],
+    "first": {
+      "datetime": "2025-02-14T09:59:48Z",
+      "uri": "https://web.archive.org/web/20250214095948/https://www.odu.edu/recreation-wellness/events/free-rock-climbing-social"
+    },
+    "last": {
+      "datetime": "2025-02-15T07:31:43Z",
+      "uri": "https://web.archive.org/web/20250215073143/https://www.odu.edu/recreation-wellness/events/free-rock-climbing-social"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/recreation-wellness/events/free-rock-climbing-social#main-content",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/recreation-wellness/events/free-rock-climbing-social#main-content",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/recreation-wellness/events/free-rock-climbing-social#main-content"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/recreation-wellness/events/free-rock-climbing-social#main-content"
+}

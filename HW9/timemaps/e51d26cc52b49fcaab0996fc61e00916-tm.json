@@ -1,0 +1,42 @@
+{
+  "original_uri": "https://www.odu.edu/technology-services/email/faculty-staff",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/technology-services/email/faculty-staff",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-12-20T20:01:57Z",
+        "uri": "https://web.archive.org/web/20241220200157/https://www.odu.edu/technology-services/email/faculty-staff"
+      },
+      {
+        "datetime": "2024-12-24T17:53:35Z",
+        "uri": "https://web.archive.org/web/20241224175335/https://www.odu.edu/technology-services/email/faculty-staff"
+      },
+      {
+        "datetime": "2025-01-13T11:22:45Z",
+        "uri": "https://web.archive.org/web/20250113112245/https://www.odu.edu/technology-services/email/faculty-staff"
+      },
+      {
+        "datetime": "2025-01-15T20:02:58Z",
+        "uri": "https://web.archive.org/web/20250115200258/https://www.odu.edu/technology-services/email/faculty-staff"
+      },
+      {
+        "datetime": "2025-02-14T09:59:26Z",
+        "uri": "https://web.archive.org/web/20250214095926/https://www.odu.edu/technology-services/email/faculty-staff"
+      }
+    ],
+    "first": {
+      "datetime": "2024-12-20T20:01:57Z",
+      "uri": "https://web.archive.org/web/20241220200157/https://www.odu.edu/technology-services/email/faculty-staff"
+    },
+    "last": {
+      "datetime": "2025-02-14T09:59:26Z",
+      "uri": "https://web.archive.org/web/20250214095926/https://www.odu.edu/technology-services/email/faculty-staff"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/technology-services/email/faculty-staff",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/technology-services/email/faculty-staff",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/technology-services/email/faculty-staff"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/technology-services/email/faculty-staff"
+}

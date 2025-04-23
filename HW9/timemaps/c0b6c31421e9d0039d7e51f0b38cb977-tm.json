@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/supply-chain-logistics-maritime-operations/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/supply-chain-logistics-maritime-operations/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-07-18T07:30:23Z",
+        "uri": "https://web.archive.org/web/20240718073023/https://catalog.odu.edu/undergraduate/supply-chain-logistics-maritime-operations/"
+      },
+      {
+        "datetime": "2024-10-13T06:52:13Z",
+        "uri": "https://web.archive.org/web/20241013065213/https://catalog.odu.edu/undergraduate/supply-chain-logistics-maritime-operations/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-07-18T07:30:23Z",
+      "uri": "https://web.archive.org/web/20240718073023/https://catalog.odu.edu/undergraduate/supply-chain-logistics-maritime-operations/"
+    },
+    "last": {
+      "datetime": "2024-10-13T06:52:13Z",
+      "uri": "https://web.archive.org/web/20241013065213/https://catalog.odu.edu/undergraduate/supply-chain-logistics-maritime-operations/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/supply-chain-logistics-maritime-operations/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/supply-chain-logistics-maritime-operations/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/supply-chain-logistics-maritime-operations/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/supply-chain-logistics-maritime-operations/"
+}

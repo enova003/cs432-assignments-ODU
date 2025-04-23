@@ -1,0 +1,342 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/seps/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/seps/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:27:39Z",
+        "uri": "https://web.archive.org/web/20120902042739/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2013-05-17T08:04:44Z",
+        "uri": "https://web.archive.org/web/20130517080444/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2014-04-22T11:54:55Z",
+        "uri": "https://web.archive.org/web/20140422115455/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2014-06-22T04:22:23Z",
+        "uri": "https://web.archive.org/web/20140622042223/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2014-08-22T03:30:11Z",
+        "uri": "https://web.archive.org/web/20140822033011/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2014-10-21T21:00:32Z",
+        "uri": "https://web.archive.org/web/20141021210032/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2014-12-21T05:23:19Z",
+        "uri": "https://web.archive.org/web/20141221052319/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2015-02-15T16:10:13Z",
+        "uri": "https://web.archive.org/web/20150215161013/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2015-04-03T00:24:46Z",
+        "uri": "https://web.archive.org/web/20150403002446/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2015-04-03T00:24:46Z",
+        "uri": "https://web.archive.org/web/20150403002446/http://catalog.odu.edu:80/courses/seps"
+      },
+      {
+        "datetime": "2015-04-17T00:55:03Z",
+        "uri": "https://web.archive.org/web/20150417005503/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2015-05-03T08:31:42Z",
+        "uri": "https://web.archive.org/web/20150503083142/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2015-05-03T08:31:42Z",
+        "uri": "https://web.archive.org/web/20150503083142/http://catalog.odu.edu:80/courses/seps"
+      },
+      {
+        "datetime": "2015-05-11T07:57:50Z",
+        "uri": "https://web.archive.org/web/20150511075750/http://catalog.odu.edu/courses/seps/"
+      },
+      {
+        "datetime": "2015-06-03T05:33:36Z",
+        "uri": "https://web.archive.org/web/20150603053336/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2015-06-03T05:33:36Z",
+        "uri": "https://web.archive.org/web/20150603053336/http://catalog.odu.edu:80/courses/seps"
+      },
+      {
+        "datetime": "2015-06-16T14:55:44Z",
+        "uri": "https://web.archive.org/web/20150616145544/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2015-07-03T05:31:56Z",
+        "uri": "https://web.archive.org/web/20150703053156/http://catalog.odu.edu/courses/seps/"
+      },
+      {
+        "datetime": "2015-07-04T05:44:26Z",
+        "uri": "https://web.archive.org/web/20150704054426/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2015-07-04T05:44:26Z",
+        "uri": "https://web.archive.org/web/20150704054426/http://catalog.odu.edu:80/courses/seps"
+      },
+      {
+        "datetime": "2015-08-16T01:02:15Z",
+        "uri": "https://web.archive.org/web/20150816010215/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2015-10-15T07:23:45Z",
+        "uri": "https://web.archive.org/web/20151015072345/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2015-12-14T15:25:34Z",
+        "uri": "https://web.archive.org/web/20151214152534/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2016-01-08T14:13:54Z",
+        "uri": "https://web.archive.org/web/20160108141354/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2016-01-08T14:13:54Z",
+        "uri": "https://web.archive.org/web/20160108141354/http://catalog.odu.edu:80/courses/seps"
+      },
+      {
+        "datetime": "2016-02-09T02:33:19Z",
+        "uri": "https://web.archive.org/web/20160209023319/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2016-02-09T02:33:19Z",
+        "uri": "https://web.archive.org/web/20160209023319/http://catalog.odu.edu:80/courses/seps"
+      },
+      {
+        "datetime": "2016-02-13T06:09:38Z",
+        "uri": "https://web.archive.org/web/20160213060938/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2016-03-12T09:29:22Z",
+        "uri": "https://web.archive.org/web/20160312092922/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2016-03-12T09:29:22Z",
+        "uri": "https://web.archive.org/web/20160312092922/http://catalog.odu.edu:80/courses/seps"
+      },
+      {
+        "datetime": "2016-04-09T05:04:51Z",
+        "uri": "https://web.archive.org/web/20160409050451/http://catalog.odu.edu/courses/seps/"
+      },
+      {
+        "datetime": "2016-04-12T18:19:37Z",
+        "uri": "https://web.archive.org/web/20160412181937/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2016-04-12T18:19:37Z",
+        "uri": "https://web.archive.org/web/20160412181937/http://catalog.odu.edu:80/courses/seps"
+      },
+      {
+        "datetime": "2016-04-14T10:51:40Z",
+        "uri": "https://web.archive.org/web/20160414105140/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2016-05-14T00:59:29Z",
+        "uri": "https://web.archive.org/web/20160514005929/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2016-05-14T00:59:29Z",
+        "uri": "https://web.archive.org/web/20160514005929/http://catalog.odu.edu:80/courses/seps"
+      },
+      {
+        "datetime": "2016-06-14T04:26:20Z",
+        "uri": "https://web.archive.org/web/20160614042620/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2016-08-13T19:43:25Z",
+        "uri": "https://web.archive.org/web/20160813194325/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2016-08-15T00:03:42Z",
+        "uri": "https://web.archive.org/web/20160815000342/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2016-10-14T18:44:50Z",
+        "uri": "https://web.archive.org/web/20161014184450/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2016-12-05T05:01:42Z",
+        "uri": "https://web.archive.org/web/20161205050142/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2017-03-26T13:40:21Z",
+        "uri": "https://web.archive.org/web/20170326134021/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2017-03-26T13:40:21Z",
+        "uri": "https://web.archive.org/web/20170326134021/http://catalog.odu.edu:80/courses/seps"
+      },
+      {
+        "datetime": "2017-04-08T18:17:00Z",
+        "uri": "https://web.archive.org/web/20170408181700/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2017-04-27T05:46:45Z",
+        "uri": "https://web.archive.org/web/20170427054645/http://catalog.odu.edu/courses/seps/"
+      },
+      {
+        "datetime": "2017-05-04T06:40:45Z",
+        "uri": "https://web.archive.org/web/20170504064045/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2017-05-04T06:40:45Z",
+        "uri": "https://web.archive.org/web/20170504064045/http://catalog.odu.edu:80/courses/seps"
+      },
+      {
+        "datetime": "2017-06-04T02:47:10Z",
+        "uri": "https://web.archive.org/web/20170604024710/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2017-06-04T02:47:10Z",
+        "uri": "https://web.archive.org/web/20170604024710/http://catalog.odu.edu:80/courses/seps"
+      },
+      {
+        "datetime": "2017-06-08T07:09:02Z",
+        "uri": "https://web.archive.org/web/20170608070902/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2017-07-04T22:09:26Z",
+        "uri": "https://web.archive.org/web/20170704220926/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2017-07-04T22:09:26Z",
+        "uri": "https://web.archive.org/web/20170704220926/http://catalog.odu.edu:80/courses/seps"
+      },
+      {
+        "datetime": "2017-07-09T01:53:31Z",
+        "uri": "https://web.archive.org/web/20170709015331/http://catalog.odu.edu/courses/seps/"
+      },
+      {
+        "datetime": "2017-08-08T13:37:24Z",
+        "uri": "https://web.archive.org/web/20170808133724/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2017-10-08T19:01:22Z",
+        "uri": "https://web.archive.org/web/20171008190122/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2017-12-09T00:11:21Z",
+        "uri": "https://web.archive.org/web/20171209001121/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2018-02-07T18:45:23Z",
+        "uri": "https://web.archive.org/web/20180207184523/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2018-04-09T20:22:01Z",
+        "uri": "https://web.archive.org/web/20180409202201/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2018-06-10T06:27:43Z",
+        "uri": "https://web.archive.org/web/20180610062743/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2018-08-10T07:42:49Z",
+        "uri": "https://web.archive.org/web/20180810074249/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2018-10-10T04:05:29Z",
+        "uri": "https://web.archive.org/web/20181010040529/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2018-10-11T04:21:41Z",
+        "uri": "https://web.archive.org/web/20181011042141/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2018-12-11T10:34:46Z",
+        "uri": "https://web.archive.org/web/20181211103446/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2019-02-11T09:41:56Z",
+        "uri": "https://web.archive.org/web/20190211094156/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2019-04-13T00:21:06Z",
+        "uri": "https://web.archive.org/web/20190413002106/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2019-06-12T16:35:33Z",
+        "uri": "https://web.archive.org/web/20190612163533/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2019-08-13T06:08:57Z",
+        "uri": "https://web.archive.org/web/20190813060857/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2019-10-09T05:29:35Z",
+        "uri": "https://web.archive.org/web/20191009052935/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2019-12-08T12:36:39Z",
+        "uri": "https://web.archive.org/web/20191208123639/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2020-03-02T06:15:39Z",
+        "uri": "https://web.archive.org/web/20200302061539/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2020-05-01T08:55:10Z",
+        "uri": "https://web.archive.org/web/20200501085510/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2020-06-30T15:13:45Z",
+        "uri": "https://web.archive.org/web/20200630151345/http://catalog.odu.edu:80/courses/seps/"
+      },
+      {
+        "datetime": "2021-01-22T23:23:13Z",
+        "uri": "https://web.archive.org/web/20210122232313/https://catalog.odu.edu/courses/seps/"
+      },
+      {
+        "datetime": "2021-04-12T20:21:46Z",
+        "uri": "https://web.archive.org/web/20210412202146/http://catalog.odu.edu/courses/seps/"
+      },
+      {
+        "datetime": "2021-11-03T21:57:49Z",
+        "uri": "https://web.archive.org/web/20211103215749/https://catalog.odu.edu/courses/seps/"
+      },
+      {
+        "datetime": "2021-11-21T13:22:49Z",
+        "uri": "https://web.archive.org/web/20211121132249/https://catalog.odu.edu/courses/seps/"
+      },
+      {
+        "datetime": "2022-03-19T20:12:40Z",
+        "uri": "https://web.archive.org/web/20220319201240/https://catalog.odu.edu/courses/seps/"
+      },
+      {
+        "datetime": "2024-01-11T18:14:15Z",
+        "uri": "https://web.archive.org/web/20240111181415/https://catalog.odu.edu/courses/seps/"
+      },
+      {
+        "datetime": "2024-02-28T21:42:21Z",
+        "uri": "https://web.archive.org/web/20240228214221/https://catalog.odu.edu/courses/seps/"
+      },
+      {
+        "datetime": "2024-09-12T05:07:33Z",
+        "uri": "https://web.archive.org/web/20240912050733/https://catalog.odu.edu/courses/seps/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:27:39Z",
+      "uri": "https://web.archive.org/web/20120902042739/http://catalog.odu.edu:80/courses/seps/"
+    },
+    "last": {
+      "datetime": "2024-09-12T05:07:33Z",
+      "uri": "https://web.archive.org/web/20240912050733/https://catalog.odu.edu/courses/seps/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/seps/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/seps/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/seps/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/seps/"
+}

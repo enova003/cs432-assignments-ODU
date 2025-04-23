@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.odu.edu/technology-services/midas/account-request",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/technology-services/midas/account-request",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-12-20T19:48:46Z",
+        "uri": "https://web.archive.org/web/20241220194846/https://www.odu.edu/technology-services/midas/account-request"
+      }
+    ],
+    "first": {
+      "datetime": "2024-12-20T19:48:46Z",
+      "uri": "https://web.archive.org/web/20241220194846/https://www.odu.edu/technology-services/midas/account-request"
+    },
+    "last": {
+      "datetime": "2024-12-20T19:48:46Z",
+      "uri": "https://web.archive.org/web/20241220194846/https://www.odu.edu/technology-services/midas/account-request"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/technology-services/midas/account-request",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/technology-services/midas/account-request",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/technology-services/midas/account-request"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/technology-services/midas/account-request"
+}

@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/fashion-merchandising-minor/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/fashion-merchandising-minor/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-07-18T08:49:17Z",
+        "uri": "https://web.archive.org/web/20240718084917/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/fashion-merchandising-minor/"
+      },
+      {
+        "datetime": "2024-11-11T23:09:39Z",
+        "uri": "https://web.archive.org/web/20241111230939/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/fashion-merchandising-minor/"
+      }
+    ],
+    "first": {
+      "datetime": "2024-07-18T08:49:17Z",
+      "uri": "https://web.archive.org/web/20240718084917/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/fashion-merchandising-minor/"
+    },
+    "last": {
+      "datetime": "2024-11-11T23:09:39Z",
+      "uri": "https://web.archive.org/web/20241111230939/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/fashion-merchandising-minor/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/fashion-merchandising-minor/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/fashion-merchandising-minor/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/fashion-merchandising-minor/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/education/educational-leadership-workforce-development/fashion-merchandising-minor/"
+}

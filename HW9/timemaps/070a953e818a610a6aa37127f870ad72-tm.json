@@ -1,0 +1,242 @@
+{
+  "original_uri": "https://catalog.odu.edu/courses/arab/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/arab/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-02T04:28:15Z",
+        "uri": "https://web.archive.org/web/20120902042815/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2013-05-17T07:58:53Z",
+        "uri": "https://web.archive.org/web/20130517075853/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2014-08-17T21:49:23Z",
+        "uri": "https://web.archive.org/web/20140817214923/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2014-10-18T00:40:12Z",
+        "uri": "https://web.archive.org/web/20141018004012/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2014-12-17T15:02:04Z",
+        "uri": "https://web.archive.org/web/20141217150204/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2015-02-15T15:42:08Z",
+        "uri": "https://web.archive.org/web/20150215154208/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2015-04-17T03:03:03Z",
+        "uri": "https://web.archive.org/web/20150417030303/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2015-05-11T07:49:02Z",
+        "uri": "https://web.archive.org/web/20150511074902/http://catalog.odu.edu/courses/arab/"
+      },
+      {
+        "datetime": "2015-06-16T14:36:27Z",
+        "uri": "https://web.archive.org/web/20150616143627/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2015-07-03T05:39:40Z",
+        "uri": "https://web.archive.org/web/20150703053940/http://catalog.odu.edu/courses/arab/"
+      },
+      {
+        "datetime": "2015-08-16T00:45:12Z",
+        "uri": "https://web.archive.org/web/20150816004512/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2015-10-15T07:09:27Z",
+        "uri": "https://web.archive.org/web/20151015070927/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2015-12-14T14:57:13Z",
+        "uri": "https://web.archive.org/web/20151214145713/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2016-02-13T07:37:43Z",
+        "uri": "https://web.archive.org/web/20160213073743/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2016-04-09T05:04:38Z",
+        "uri": "https://web.archive.org/web/20160409050438/http://catalog.odu.edu/courses/arab/"
+      },
+      {
+        "datetime": "2016-04-13T17:45:20Z",
+        "uri": "https://web.archive.org/web/20160413174520/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2016-06-13T11:01:32Z",
+        "uri": "https://web.archive.org/web/20160613110132/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2016-08-13T03:29:18Z",
+        "uri": "https://web.archive.org/web/20160813032918/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2016-10-13T00:05:12Z",
+        "uri": "https://web.archive.org/web/20161013000512/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2016-12-05T04:53:01Z",
+        "uri": "https://web.archive.org/web/20161205045301/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2017-04-08T18:14:19Z",
+        "uri": "https://web.archive.org/web/20170408181419/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2017-04-27T05:24:41Z",
+        "uri": "https://web.archive.org/web/20170427052441/http://catalog.odu.edu/courses/arab/"
+      },
+      {
+        "datetime": "2017-06-08T07:04:34Z",
+        "uri": "https://web.archive.org/web/20170608070434/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2017-06-08T08:21:51Z",
+        "uri": "https://web.archive.org/web/20170608082151/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2017-06-08T08:21:51Z",
+        "uri": "https://web.archive.org/web/20170608082151/http://catalog.odu.edu:80/courses/arab"
+      },
+      {
+        "datetime": "2017-07-09T01:44:50Z",
+        "uri": "https://web.archive.org/web/20170709014450/http://catalog.odu.edu/courses/arab/"
+      },
+      {
+        "datetime": "2017-08-08T13:33:19Z",
+        "uri": "https://web.archive.org/web/20170808133319/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2017-08-24T06:26:04Z",
+        "uri": "https://web.archive.org/web/20170824062604/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2017-08-24T06:26:04Z",
+        "uri": "https://web.archive.org/web/20170824062604/http://catalog.odu.edu:80/courses/arab"
+      },
+      {
+        "datetime": "2017-10-08T18:51:51Z",
+        "uri": "https://web.archive.org/web/20171008185151/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2017-12-09T00:09:36Z",
+        "uri": "https://web.archive.org/web/20171209000936/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2018-02-07T19:12:03Z",
+        "uri": "https://web.archive.org/web/20180207191203/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2018-04-09T20:13:24Z",
+        "uri": "https://web.archive.org/web/20180409201324/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2018-06-10T06:19:50Z",
+        "uri": "https://web.archive.org/web/20180610061950/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2018-08-10T07:43:35Z",
+        "uri": "https://web.archive.org/web/20180810074335/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2018-10-10T04:06:15Z",
+        "uri": "https://web.archive.org/web/20181010040615/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2018-10-11T04:27:54Z",
+        "uri": "https://web.archive.org/web/20181011042754/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2018-12-11T10:33:01Z",
+        "uri": "https://web.archive.org/web/20181211103301/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2019-02-11T09:38:15Z",
+        "uri": "https://web.archive.org/web/20190211093815/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2019-04-13T00:19:49Z",
+        "uri": "https://web.archive.org/web/20190413001949/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2019-06-12T16:33:37Z",
+        "uri": "https://web.archive.org/web/20190612163337/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2019-08-13T04:41:13Z",
+        "uri": "https://web.archive.org/web/20190813044113/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2019-10-09T05:23:43Z",
+        "uri": "https://web.archive.org/web/20191009052343/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2019-12-08T12:30:51Z",
+        "uri": "https://web.archive.org/web/20191208123051/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2020-02-06T16:35:03Z",
+        "uri": "https://web.archive.org/web/20200206163503/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2020-04-28T16:30:42Z",
+        "uri": "https://web.archive.org/web/20200428163042/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2020-06-27T22:29:18Z",
+        "uri": "https://web.archive.org/web/20200627222918/http://catalog.odu.edu:80/courses/arab/"
+      },
+      {
+        "datetime": "2021-01-22T22:31:44Z",
+        "uri": "https://web.archive.org/web/20210122223144/https://catalog.odu.edu/courses/arab/"
+      },
+      {
+        "datetime": "2021-04-12T20:34:59Z",
+        "uri": "https://web.archive.org/web/20210412203459/http://catalog.odu.edu/courses/arab/"
+      },
+      {
+        "datetime": "2021-11-18T01:42:44Z",
+        "uri": "https://web.archive.org/web/20211118014244/https://catalog.odu.edu/courses/arab/"
+      },
+      {
+        "datetime": "2022-03-20T09:07:39Z",
+        "uri": "https://web.archive.org/web/20220320090739/https://catalog.odu.edu/courses/arab/"
+      },
+      {
+        "datetime": "2022-12-09T00:19:14Z",
+        "uri": "https://web.archive.org/web/20221209001914/https://catalog.odu.edu/courses/arab/"
+      },
+      {
+        "datetime": "2023-12-17T01:36:33Z",
+        "uri": "https://web.archive.org/web/20231217013633/https://catalog.odu.edu/courses/arab/"
+      },
+      {
+        "datetime": "2024-02-26T04:37:54Z",
+        "uri": "https://web.archive.org/web/20240226043754/https://catalog.odu.edu/courses/arab/"
+      },
+      {
+        "datetime": "2024-02-29T00:41:40Z",
+        "uri": "https://web.archive.org/web/20240229004140/https://catalog.odu.edu/courses/arab/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-02T04:28:15Z",
+      "uri": "https://web.archive.org/web/20120902042815/http://catalog.odu.edu:80/courses/arab/"
+    },
+    "last": {
+      "datetime": "2024-02-29T00:41:40Z",
+      "uri": "https://web.archive.org/web/20240229004140/https://catalog.odu.edu/courses/arab/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/courses/arab/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/courses/arab/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/courses/arab/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/courses/arab/"
+}

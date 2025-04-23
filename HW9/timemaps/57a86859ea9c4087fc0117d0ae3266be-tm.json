@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://online.odu.edu/continuing-education/customized-corporate-training-program",
+  "self": "http://localhost:1208/timemap/json/https://online.odu.edu/continuing-education/customized-corporate-training-program",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-11-05T14:13:48Z",
+        "uri": "https://web.archive.org/web/20241105141348/https://online.odu.edu/continuing-education/customized-corporate-training-program"
+      }
+    ],
+    "first": {
+      "datetime": "2024-11-05T14:13:48Z",
+      "uri": "https://web.archive.org/web/20241105141348/https://online.odu.edu/continuing-education/customized-corporate-training-program"
+    },
+    "last": {
+      "datetime": "2024-11-05T14:13:48Z",
+      "uri": "https://web.archive.org/web/20241105141348/https://online.odu.edu/continuing-education/customized-corporate-training-program"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://online.odu.edu/continuing-education/customized-corporate-training-program",
+    "json_format": "http://localhost:1208/timemap/json/https://online.odu.edu/continuing-education/customized-corporate-training-program",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://online.odu.edu/continuing-education/customized-corporate-training-program"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://online.odu.edu/continuing-education/customized-corporate-training-program"
+}

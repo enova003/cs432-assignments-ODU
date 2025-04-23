@@ -1,0 +1,690 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/tuitionfeesandfinancialinformation/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/tuitionfeesandfinancialinformation/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-06-25T03:41:38Z",
+        "uri": "https://web.archive.org/web/20120625034138/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2012-08-24T10:54:54Z",
+        "uri": "https://web.archive.org/web/20120824105454/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2013-01-06T08:55:31Z",
+        "uri": "https://web.archive.org/web/20130106085531/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2013-04-14T23:32:01Z",
+        "uri": "https://web.archive.org/web/20130414233201/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2013-04-14T23:32:01Z",
+        "uri": "https://web.archive.org/web/20130414233201/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2013-05-07T18:32:35Z",
+        "uri": "https://web.archive.org/web/20130507183235/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2013-05-15T15:24:26Z",
+        "uri": "https://web.archive.org/web/20130515152426/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2013-05-15T15:24:26Z",
+        "uri": "https://web.archive.org/web/20130515152426/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2013-06-17T11:33:59Z",
+        "uri": "https://web.archive.org/web/20130617113359/http://catalog.odu.edu/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2013-07-08T01:28:22Z",
+        "uri": "https://web.archive.org/web/20130708012822/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2013-07-18T22:25:51Z",
+        "uri": "https://web.archive.org/web/20130718222551/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2013-07-18T22:25:51Z",
+        "uri": "https://web.archive.org/web/20130718222551/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2013-08-19T07:04:57Z",
+        "uri": "https://web.archive.org/web/20130819070457/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2013-08-19T07:04:57Z",
+        "uri": "https://web.archive.org/web/20130819070457/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2013-09-06T13:36:10Z",
+        "uri": "https://web.archive.org/web/20130906133610/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2013-11-06T08:22:02Z",
+        "uri": "https://web.archive.org/web/20131106082202/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2013-12-18T10:31:58Z",
+        "uri": "https://web.archive.org/web/20131218103158/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2013-12-18T10:31:58Z",
+        "uri": "https://web.archive.org/web/20131218103158/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2014-01-06T04:54:22Z",
+        "uri": "https://web.archive.org/web/20140106045422/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2014-01-18T03:58:18Z",
+        "uri": "https://web.archive.org/web/20140118035818/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2014-01-18T03:58:18Z",
+        "uri": "https://web.archive.org/web/20140118035818/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2014-02-20T18:16:10Z",
+        "uri": "https://web.archive.org/web/20140220181610/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2014-02-20T18:16:10Z",
+        "uri": "https://web.archive.org/web/20140220181610/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2014-03-10T04:55:21Z",
+        "uri": "https://web.archive.org/web/20140310045521/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2014-05-10T22:55:50Z",
+        "uri": "https://web.archive.org/web/20140510225550/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2014-07-10T15:31:28Z",
+        "uri": "https://web.archive.org/web/20140710153128/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2014-09-09T04:04:44Z",
+        "uri": "https://web.archive.org/web/20140909040444/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2014-11-08T18:09:42Z",
+        "uri": "https://web.archive.org/web/20141108180942/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2015-01-08T10:03:56Z",
+        "uri": "https://web.archive.org/web/20150108100356/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2015-02-14T12:27:10Z",
+        "uri": "https://web.archive.org/web/20150214122710/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2015-02-14T12:27:10Z",
+        "uri": "https://web.archive.org/web/20150214122710/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2015-02-16T03:58:49Z",
+        "uri": "https://web.archive.org/web/20150216035849/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2015-03-17T01:17:38Z",
+        "uri": "https://web.archive.org/web/20150317011738/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2015-03-17T01:17:38Z",
+        "uri": "https://web.archive.org/web/20150317011738/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2015-04-17T08:24:36Z",
+        "uri": "https://web.archive.org/web/20150417082436/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2015-04-17T08:24:36Z",
+        "uri": "https://web.archive.org/web/20150417082436/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2015-05-11T07:37:37Z",
+        "uri": "https://web.archive.org/web/20150511073737/http://catalog.odu.edu/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2015-05-18T03:21:31Z",
+        "uri": "https://web.archive.org/web/20150518032131/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2015-05-18T03:21:31Z",
+        "uri": "https://web.archive.org/web/20150518032131/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2015-06-18T13:53:26Z",
+        "uri": "https://web.archive.org/web/20150618135326/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2015-07-03T06:49:14Z",
+        "uri": "https://web.archive.org/web/20150703064914/http://catalog.odu.edu/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2015-07-21T02:41:52Z",
+        "uri": "https://web.archive.org/web/20150721024152/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2015-07-21T02:41:52Z",
+        "uri": "https://web.archive.org/web/20150721024152/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2015-08-17T23:03:52Z",
+        "uri": "https://web.archive.org/web/20150817230352/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2015-08-21T02:36:56Z",
+        "uri": "https://web.archive.org/web/20150821023656/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2015-08-21T02:36:56Z",
+        "uri": "https://web.archive.org/web/20150821023656/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2015-09-20T21:23:41Z",
+        "uri": "https://web.archive.org/web/20150920212341/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2015-09-20T21:23:41Z",
+        "uri": "https://web.archive.org/web/20150920212341/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2015-10-17T13:47:00Z",
+        "uri": "https://web.archive.org/web/20151017134700/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2015-10-21T05:47:41Z",
+        "uri": "https://web.archive.org/web/20151021054741/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2015-10-21T05:47:41Z",
+        "uri": "https://web.archive.org/web/20151021054741/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2015-11-20T22:53:34Z",
+        "uri": "https://web.archive.org/web/20151120225334/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2015-11-20T22:53:34Z",
+        "uri": "https://web.archive.org/web/20151120225334/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2015-12-17T04:02:18Z",
+        "uri": "https://web.archive.org/web/20151217040218/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2016-02-10T02:25:51Z",
+        "uri": "https://web.archive.org/web/20160210022551/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2016-02-10T02:25:51Z",
+        "uri": "https://web.archive.org/web/20160210022551/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2016-02-15T22:32:54Z",
+        "uri": "https://web.archive.org/web/20160215223254/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2016-03-12T09:40:01Z",
+        "uri": "https://web.archive.org/web/20160312094001/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2016-03-12T09:40:01Z",
+        "uri": "https://web.archive.org/web/20160312094001/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2016-04-09T00:14:34Z",
+        "uri": "https://web.archive.org/web/20160409001434/http://catalog.odu.edu/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2016-04-12T18:19:42Z",
+        "uri": "https://web.archive.org/web/20160412181942/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2016-04-12T18:19:42Z",
+        "uri": "https://web.archive.org/web/20160412181942/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2016-04-16T14:29:02Z",
+        "uri": "https://web.archive.org/web/20160416142902/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2016-05-14T01:20:22Z",
+        "uri": "https://web.archive.org/web/20160514012022/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2016-05-14T01:20:22Z",
+        "uri": "https://web.archive.org/web/20160514012022/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2016-06-14T12:45:37Z",
+        "uri": "https://web.archive.org/web/20160614124537/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2016-06-14T12:45:37Z",
+        "uri": "https://web.archive.org/web/20160614124537/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2016-06-16T04:45:18Z",
+        "uri": "https://web.archive.org/web/20160616044518/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2016-07-15T15:52:49Z",
+        "uri": "https://web.archive.org/web/20160715155249/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2016-07-15T15:52:49Z",
+        "uri": "https://web.archive.org/web/20160715155249/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2016-08-16T01:37:51Z",
+        "uri": "https://web.archive.org/web/20160816013751/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2016-10-16T04:47:38Z",
+        "uri": "https://web.archive.org/web/20161016044738/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2016-12-05T05:12:47Z",
+        "uri": "https://web.archive.org/web/20161205051247/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2017-04-08T18:02:20Z",
+        "uri": "https://web.archive.org/web/20170408180220/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2017-04-27T05:03:16Z",
+        "uri": "https://web.archive.org/web/20170427050316/http://catalog.odu.edu/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2017-05-12T13:27:12Z",
+        "uri": "https://web.archive.org/web/20170512132712/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2017-05-12T13:27:12Z",
+        "uri": "https://web.archive.org/web/20170512132712/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2017-06-08T07:12:48Z",
+        "uri": "https://web.archive.org/web/20170608071248/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2017-07-09T01:31:22Z",
+        "uri": "https://web.archive.org/web/20170709013122/http://catalog.odu.edu/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2017-08-08T13:44:15Z",
+        "uri": "https://web.archive.org/web/20170808134415/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2017-09-01T11:22:19Z",
+        "uri": "https://web.archive.org/web/20170901112219/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2017-09-01T11:22:19Z",
+        "uri": "https://web.archive.org/web/20170901112219/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2017-10-02T03:28:51Z",
+        "uri": "https://web.archive.org/web/20171002032851/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2017-10-02T03:28:51Z",
+        "uri": "https://web.archive.org/web/20171002032851/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2017-10-08T19:01:42Z",
+        "uri": "https://web.archive.org/web/20171008190142/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2017-11-02T01:59:42Z",
+        "uri": "https://web.archive.org/web/20171102015942/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2017-11-02T01:59:42Z",
+        "uri": "https://web.archive.org/web/20171102015942/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2017-12-03T01:25:25Z",
+        "uri": "https://web.archive.org/web/20171203012525/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2017-12-03T01:25:25Z",
+        "uri": "https://web.archive.org/web/20171203012525/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2017-12-08T19:29:52Z",
+        "uri": "https://web.archive.org/web/20171208192952/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2018-01-04T04:10:12Z",
+        "uri": "https://web.archive.org/web/20180104041012/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2018-01-04T04:10:12Z",
+        "uri": "https://web.archive.org/web/20180104041012/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2018-02-04T02:31:27Z",
+        "uri": "https://web.archive.org/web/20180204023127/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2018-02-04T02:31:27Z",
+        "uri": "https://web.archive.org/web/20180204023127/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2018-02-07T18:49:11Z",
+        "uri": "https://web.archive.org/web/20180207184911/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2018-03-07T08:01:15Z",
+        "uri": "https://web.archive.org/web/20180307080115/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2018-03-07T08:01:15Z",
+        "uri": "https://web.archive.org/web/20180307080115/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2018-04-07T09:21:26Z",
+        "uri": "https://web.archive.org/web/20180407092126/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2018-04-07T09:21:26Z",
+        "uri": "https://web.archive.org/web/20180407092126/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2018-04-09T20:23:58Z",
+        "uri": "https://web.archive.org/web/20180409202358/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2018-05-08T13:09:30Z",
+        "uri": "https://web.archive.org/web/20180508130930/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2018-05-08T13:09:30Z",
+        "uri": "https://web.archive.org/web/20180508130930/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2018-06-08T10:37:57Z",
+        "uri": "https://web.archive.org/web/20180608103757/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2018-06-08T10:37:57Z",
+        "uri": "https://web.archive.org/web/20180608103757/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2018-06-10T06:28:54Z",
+        "uri": "https://web.archive.org/web/20180610062854/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2018-07-09T11:18:54Z",
+        "uri": "https://web.archive.org/web/20180709111854/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2018-07-09T11:18:54Z",
+        "uri": "https://web.archive.org/web/20180709111854/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2018-08-10T05:15:33Z",
+        "uri": "https://web.archive.org/web/20180810051533/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2018-08-10T05:15:33Z",
+        "uri": "https://web.archive.org/web/20180810051533/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2018-08-12T00:54:29Z",
+        "uri": "https://web.archive.org/web/20180812005429/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2018-09-10T22:47:17Z",
+        "uri": "https://web.archive.org/web/20180910224717/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2018-09-10T22:47:17Z",
+        "uri": "https://web.archive.org/web/20180910224717/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2018-10-12T17:05:05Z",
+        "uri": "https://web.archive.org/web/20181012170505/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2018-10-12T17:05:05Z",
+        "uri": "https://web.archive.org/web/20181012170505/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2018-11-13T00:59:01Z",
+        "uri": "https://web.archive.org/web/20181113005901/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2018-11-13T00:59:01Z",
+        "uri": "https://web.archive.org/web/20181113005901/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2018-12-12T15:40:20Z",
+        "uri": "https://web.archive.org/web/20181212154020/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2018-12-13T23:17:38Z",
+        "uri": "https://web.archive.org/web/20181213231738/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2018-12-14T05:59:49Z",
+        "uri": "https://web.archive.org/web/20181214055949/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2018-12-14T05:59:49Z",
+        "uri": "https://web.archive.org/web/20181214055949/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2019-01-14T02:13:08Z",
+        "uri": "https://web.archive.org/web/20190114021308/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2019-01-14T02:13:08Z",
+        "uri": "https://web.archive.org/web/20190114021308/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2019-02-12T19:42:53Z",
+        "uri": "https://web.archive.org/web/20190212194253/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2019-02-13T23:27:32Z",
+        "uri": "https://web.archive.org/web/20190213232732/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2019-02-13T23:27:32Z",
+        "uri": "https://web.archive.org/web/20190213232732/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2019-03-17T11:53:06Z",
+        "uri": "https://web.archive.org/web/20190317115306/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2019-03-17T11:53:06Z",
+        "uri": "https://web.archive.org/web/20190317115306/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2019-04-14T22:35:13Z",
+        "uri": "https://web.archive.org/web/20190414223513/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2019-04-17T08:06:35Z",
+        "uri": "https://web.archive.org/web/20190417080635/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2019-04-17T08:06:35Z",
+        "uri": "https://web.archive.org/web/20190417080635/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2019-05-18T07:55:43Z",
+        "uri": "https://web.archive.org/web/20190518075543/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2019-05-18T07:55:43Z",
+        "uri": "https://web.archive.org/web/20190518075543/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2019-06-18T14:41:19Z",
+        "uri": "https://web.archive.org/web/20190618144119/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2019-06-18T14:41:19Z",
+        "uri": "https://web.archive.org/web/20190618144119/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2019-07-21T15:03:26Z",
+        "uri": "https://web.archive.org/web/20190721150326/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2019-07-21T15:03:26Z",
+        "uri": "https://web.archive.org/web/20190721150326/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2019-08-15T18:26:29Z",
+        "uri": "https://web.archive.org/web/20190815182629/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2019-08-21T16:40:41Z",
+        "uri": "https://web.archive.org/web/20190821164041/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2019-08-21T16:40:41Z",
+        "uri": "https://web.archive.org/web/20190821164041/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2019-09-22T14:31:21Z",
+        "uri": "https://web.archive.org/web/20190922143121/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2019-09-22T14:31:21Z",
+        "uri": "https://web.archive.org/web/20190922143121/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2019-10-09T06:34:16Z",
+        "uri": "https://web.archive.org/web/20191009063416/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2019-10-16T03:44:15Z",
+        "uri": "https://web.archive.org/web/20191016034415/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2019-10-16T03:44:15Z",
+        "uri": "https://web.archive.org/web/20191016034415/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2019-10-20T16:45:08Z",
+        "uri": "https://web.archive.org/web/20191020164508/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2019-11-15T14:20:04Z",
+        "uri": "https://web.archive.org/web/20191115142004/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2019-11-15T14:20:04Z",
+        "uri": "https://web.archive.org/web/20191115142004/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2019-12-15T17:00:21Z",
+        "uri": "https://web.archive.org/web/20191215170021/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2019-12-15T17:03:12Z",
+        "uri": "https://web.archive.org/web/20191215170312/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2020-01-15T03:34:07Z",
+        "uri": "https://web.archive.org/web/20200115033407/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2020-01-15T03:35:25Z",
+        "uri": "https://web.archive.org/web/20200115033525/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2020-02-14T07:03:19Z",
+        "uri": "https://web.archive.org/web/20200214070319/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2020-02-14T07:03:19Z",
+        "uri": "https://web.archive.org/web/20200214070319/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2020-03-02T06:32:47Z",
+        "uri": "https://web.archive.org/web/20200302063247/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2020-05-01T11:48:14Z",
+        "uri": "https://web.archive.org/web/20200501114814/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2020-06-30T15:41:16Z",
+        "uri": "https://web.archive.org/web/20200630154116/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2021-01-24T09:00:27Z",
+        "uri": "https://web.archive.org/web/20210124090027/https://catalog.odu.edu/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2021-04-12T20:34:58Z",
+        "uri": "https://web.archive.org/web/20210412203458/http://catalog.odu.edu/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2021-11-18T16:10:30Z",
+        "uri": "https://web.archive.org/web/20211118161030/https://catalog.odu.edu/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2022-03-19T20:02:49Z",
+        "uri": "https://web.archive.org/web/20220319200249/https://catalog.odu.edu/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2022-03-19T21:28:25Z",
+        "uri": "https://web.archive.org/web/20220319212825/http://catalog.odu.edu/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2022-03-19T21:28:26Z",
+        "uri": "https://web.archive.org/web/20220319212826/https://catalog.odu.edu/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2024-02-29T16:06:35Z",
+        "uri": "https://web.archive.org/web/20240229160635/https://catalog.odu.edu/undergraduate/tuitionfeesandfinancialinformation"
+      },
+      {
+        "datetime": "2024-02-29T16:06:37Z",
+        "uri": "https://web.archive.org/web/20240229160637/https://catalog.odu.edu/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2024-02-29T16:07:03Z",
+        "uri": "https://web.archive.org/web/20240229160703/https://catalog.odu.edu/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2024-06-21T22:49:25Z",
+        "uri": "https://web.archive.org/web/20240621224925/https://catalog.odu.edu/undergraduate/tuitionfeesandfinancialinformation/"
+      },
+      {
+        "datetime": "2024-10-13T06:43:14Z",
+        "uri": "https://web.archive.org/web/20241013064314/https://catalog.odu.edu/undergraduate/tuitionfeesandfinancialinformation/"
+      }
+    ],
+    "first": {
+      "datetime": "2012-06-25T03:41:38Z",
+      "uri": "https://web.archive.org/web/20120625034138/http://catalog.odu.edu:80/undergraduate/tuitionfeesandfinancialinformation/"
+    },
+    "last": {
+      "datetime": "2024-10-13T06:43:14Z",
+      "uri": "https://web.archive.org/web/20241013064314/https://catalog.odu.edu/undergraduate/tuitionfeesandfinancialinformation/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/tuitionfeesandfinancialinformation/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/tuitionfeesandfinancialinformation/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/tuitionfeesandfinancialinformation/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/tuitionfeesandfinancialinformation/"
+}

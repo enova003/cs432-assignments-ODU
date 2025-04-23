@@ -1,0 +1,50 @@
+{
+  "original_uri": "https://catalog.odu.edu/undergraduate/business/",
+  "self": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/business/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-09-27T02:20:25Z",
+        "uri": "https://web.archive.org/web/20230927022025/https://catalog.odu.edu/undergraduate/business/"
+      },
+      {
+        "datetime": "2023-12-09T23:04:27Z",
+        "uri": "https://web.archive.org/web/20231209230427/https://catalog.odu.edu/undergraduate/business/"
+      },
+      {
+        "datetime": "2023-12-09T23:05:25Z",
+        "uri": "https://web.archive.org/web/20231209230525/http://catalog.odu.edu/undergraduate/business/"
+      },
+      {
+        "datetime": "2023-12-17T01:36:35Z",
+        "uri": "https://web.archive.org/web/20231217013635/https://catalog.odu.edu/undergraduate/business/"
+      },
+      {
+        "datetime": "2024-02-28T21:41:17Z",
+        "uri": "https://web.archive.org/web/20240228214117/https://catalog.odu.edu/undergraduate/business/"
+      },
+      {
+        "datetime": "2024-02-29T00:41:20Z",
+        "uri": "https://web.archive.org/web/20240229004120/https://catalog.odu.edu/undergraduate/business/"
+      },
+      {
+        "datetime": "2024-03-04T05:47:58Z",
+        "uri": "https://web.archive.org/web/20240304054758/https://catalog.odu.edu/undergraduate/business/"
+      }
+    ],
+    "first": {
+      "datetime": "2023-09-27T02:20:25Z",
+      "uri": "https://web.archive.org/web/20230927022025/https://catalog.odu.edu/undergraduate/business/"
+    },
+    "last": {
+      "datetime": "2024-03-04T05:47:58Z",
+      "uri": "https://web.archive.org/web/20240304054758/https://catalog.odu.edu/undergraduate/business/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://catalog.odu.edu/undergraduate/business/",
+    "json_format": "http://localhost:1208/timemap/json/https://catalog.odu.edu/undergraduate/business/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://catalog.odu.edu/undergraduate/business/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://catalog.odu.edu/undergraduate/business/"
+}
