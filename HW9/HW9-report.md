@@ -130,7 +130,7 @@ plt.show()
 ![Graph TimeMaps](figure1.png)
 
 Overall, the differences can be summed up below.
-
+```
 Differences in TimeMap sizes (new - hw3):
 1-10: -11
 11-25: 6
@@ -149,7 +149,7 @@ Differences in TimeMap sizes (new - hw3):
 801-900: 0
 901-1000: 1
 Over 1000: -1
-
+```
 # Q2 Answer
 
 # Q3 Answer
