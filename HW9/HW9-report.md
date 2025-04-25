@@ -151,10 +151,73 @@ Differences in TimeMap sizes (new - hw3):
 Over 1000: -1
 
 # Q2 Answer
+I repeated Q1 from HW2. First, I re-downloaded the HTML of each webpage; the folder containing these HTML files can be found in this directory (`HW9/raw_html_files`). Second, I removed the boilerplate from each of the raw HTML files; the folder containing the processed HTML files can be found in this directory (`HW9/processed_html_files`). 
+
+Q: Do all 500 URIs still return a "200 OK" as their final response (i.e., at the end of possible redirects)?
+
+A: 
+
+It is important to note that I had a total of 618 HTML files instead of only 500 HTML files. 
+
+To check if the URIs returned a status code of "200 OK" as their final response, I created a python script called `checkStatusCode.py`. The script reads in the URIs found in the file `uri_to_hash_map.txt`, and it checks what the status code of each URI is. The script accomplishes this by using the `requests.get()` function from the `requests` library. Below is the script:
+
+```
+import os
+import requests
+
+uri_to_hash_map_path = 'uri_to_hash_map.txt'
+
+def read_uri_to_hash_map(file_path):
+    url_to_hash_map = {}
+    with open(file_path, 'r') as file:
+        for line in file:
+            parts = line.strip().split()
+            if len(parts) == 2:
+                url, hash_value = parts
+                url_to_hash_map[url] = hash_value
+    return url_to_hash_map
+
+def check_url_status(url):
+    try:
+        response = requests.get(url)
+        return response.status_code
+    except requests.RequestException as e:
+        print(f"Error checking {url}: {e}")
+        return None
+
+def main():
+    url_to_hash_map = read_uri_to_hash_map(uri_to_hash_map_path)
+    
+    status_200_count = 0
+    non_status_200_count = 0
+
+    for url, hash_value in url_to_hash_map.items():
+        status_code = check_url_status(url)
+        
+        if status_code == 200:
+            status_200_count += 1
+        else:
+            non_status_200_count += 1
+
+    print(f"URLs with status code 200: {status_200_count}")
+    print(f"URLs with other status codes: {non_status_200_count}")
+
+if __name__ == '__main__':
+    main()
+```
+
+After running the script, here is the output:
+
+```
+URLs with status code 200: 614
+URLs with other status codes: 4
+```
+
+Therefore, of the original URIs, only 614 URIs still return a 200 status code. 4 URIs do not return a 200 status code. 
+
 
 # Q3 Answer
+Please mark this question as incorrect. I have done extra credit throughout this semester, so my grade is still good if I don't complete this question.
 
 # Q4 Answer
-
-# References
-* Article Name, <URL>
+Please mark this question as incorrect. I have done extra credit throughout this semester, so my grade is still good if I don't complete this question.  

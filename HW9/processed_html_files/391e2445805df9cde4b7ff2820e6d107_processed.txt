@@ -1,0 +1,60 @@
+Supply Chain Management Certificate
+MSCM 530 Strategic Sourcing and Purchasing Management (3 Credit Hours)
+An overview of the strategic sourcing of materials and services in the organization and its role in the supply chain. Topics include sourcing decisions, price/cost analysis, quality issues, purchasing, supplier selection, legal and ethical issues, third party logistics, freight forwarding, and acquisition of services and capital assets.
+MSCM 568 Distribution Center and Material Handling Management (3 Credit Hours)
+This course is designed to investigate the strategic role of distribution center and material management in the supply chain. Course content includes the analysis of distribution center operations through the study of design, system selection, and layout configuration as well as the evaluation of material handling and inventory management options.
+Prerequisites: OPMT 303
+MSCM 595 Topics in Maritime and Supply Chain Management (3 Credit Hours)
+A study of selected topics within maritime and supply chain management designed to provide an in-depth exploration of current issues.
+Prerequisites: Permission of the instructor
+MSCM 610 International Shipping and Supply Chain Management (3 Credit Hours)
+Examines international freight transportation and terms for movement of international trade; focuses on improving supply chain relationships in the movement of international trade/directing the flow of information, materials and products.  (cross-listed with PORT 610 )
+MSCM 615 Maritime Security and Risk Analysis (3 Credit Hours)
+An overview of international and U.S initiatives to ensure the security of vessels, cargo, people, and infrastructure within the maritime domain. In addition to the impacts of regulatory requirements on maritime commerce, the course also addresses maritime threats to the international economy (including maritime piracy and maritime terrorism), maritime coalitions , and state-of-the-art techniques and tools for safeguarding ocean0borne commerce. (cross-listed with PORT 615 )
+MSCM 616 Reverse Logistics and Sustainable Operations (3 Credit Hours)
+This course explores the theoretical foundations of global supply chain partnerships and reverse logistics systems, and examines the practices, risks, and opportunities found in today's systems.  Fundamental tools and techniques are used to provide insights and solutions on how to best organize, manage, and optimize such systems to achieve sustainable performance. (cross-listed with PORT 616 )
+MSCM 617 Transportation Management (3 Credit Hours)
+The course includes a review of the key elements of transportation such as: modes of transportation, transportation economics, and transportation technology and regulations.   The relationships between intermediaries, carriers and shippers are discussed, as well as company roles and operations within the transportation field, transportation sourcing and management, and transportation risk management.
+MSCM 630 Strategic Sourcing and Supply Management (3 Credit Hours)
+An overview of the strategic sourcing of materials and services in the organization and its role in the supply chain. Emphasis is placed on effectively managing the supply management process. Topics include the analysis of sourcing decisions, price/cost analysis, purchasing, supplier selection and relationship management, legal and ethical issues, third party logistics, freight forwarding, and acquisition of services and capital assets.
+MSCM 641 Supply Chain Management and Logistics (3 Credit Hours)
+Supply chain management integrates all activities associated with the flows of materials, information, and funds.  Examples include strategic sourcing, order processing, warehousing, inventory management, transportation and logistics, and the costs and information systems supporting these activities.
+MSCM 648 Distribution Center Management (3 Credit Hours)
+This course investigates the strategic role of distribution centers in the supply chain. Course content includes the analysis of distribution center operations through the study of design, system selection, and layout configuration as well as the evaluation of material handling and inventory management alternatives. Tactical, operational and strategic planning options are also discussed.
+MSCM 893 Supply Chain Management for E-Commerce (3 Credit Hours)
+This course examines how supply chain management and information technology integrate to support global e-commerce opportunities.  Topics include the theories and practices of material flow management, omnichannel distribution and retailing, maritime, logistics, procurement, and inventory management.
+Prerequisites: IT 800
+PORT 610 International Shipping and Supply Chain Management (3 Credit Hours)
+Examines international freight transportation and terms for movement of international trade; focuses on improving supply chain relationships in the movement of international trade/directing the flow of information, materials and products.  (cross-listed with MSCM 610 )
+PORT 611 International Maritime Transport (3 Credit Hours)
+Examines the international business of shipping, commercial processes, maritime-related organizations, shipbuilding and repair, ship types and fleets, and commodity movement.
+Prerequisites: an undergraduate course in the international field such as MGMT 361 , MGMT 462 , or a similar graduate course
+PORT 612 Port Operations and Management (3 Credit Hours)
+Covers role, functions, and types of international terminals and ports, including design and operation of general and specialized cargo handling facilities and offshore systems, port authorities, operational structures, and labor.
+Prerequisites: a graduate course in management such as MGMT 602 and a course in operations management
+PORT 613 International Maritime and Admiralty Law (3 Credit Hours)
+International law of the sea, maritime jurisdiction, regulation of shipping, carriage of goods, marine insurance, salvage, marine environmental law, safety at sea, and the Oil Pollution Act of 1990 are covered, along with other maritime laws.
+Prerequisites: a basic law course
+PORT 614 Port Planning and Economics (3 Credit Hours)
+Port planning and competition, ports and ocean container shipping, port impacts, port users in theory, port operator costing and pricing, port carriers and shippers, government and maritime institutions, dockworkers, port environment and port performance evaluation.
+Prerequisites: a course in microeconomics such as ECON 604
+PORT 615 Maritime Security and Risk Analysis (3 Credit Hours)
+An overview of international and U.S initiatives to ensure the security of vessels, cargo, people, and infrastructure within the maritime domain. In addition to the impacts of regulatory requirements on maritime commerce, the course also addresses maritime threats to the international economy (including maritime piracy and maritime terrorism), maritime coalitions , and state-of-the-art techniques and tools for safeguarding ocean0borne commerce. (cross-listed with MSCM 615 )
+PORT 616 Reverse Logistics and Sustainable Operations (3 Credit Hours)
+This course explores the theoretical foundations of global supply chain partnerships and reverse logistics systems, and examines the practices, risks, and opportunities found in today's systems.  Fundamental tools and techniques are used to provide insights and solutions on how to best organize, manage, and optimize such systems to achieve sustainable performance. (cross-listed with MSCM 616 )
+Pre- or corequisite: MSCM 641 or PORT 611 or PORT 612 or instructor's permission
+PORT 617 Transportation Management (3 Credit Hours)
+The course includes a review of the key elements of transportation such as: modes of transportation, transportation economics, and transportation technology and regulations.   The relationships between intermediaries, carriers and shippers are discussed, as well as company roles and operations within the transportation field, transportation sourcing and management, and transportation risk management.
+PORT 618 Shipbuilding and Ship Repair Business Management (3 Credit Hours)
+Examines the shipbuilding and ship repair industry from the perspective of industry economics, industry financial management and repair operations and acquisition processes.  Provides industry professionals with business management practices that shape the industry.
+PORT 619 Marine Insurance (3 Credit Hours)
+Examines the rise of Lloyd's and the London Insurance Market, the current maritime insurance market, priciples of insurance and law, Hull Insurance Law, cargo insurance, general average and salvage insurance.
+PORT 641 Supply Chain Management and Logistics (3 Credit Hours)
+This course examines supply chain management, the integration of all activities associated with the flow of materials and information from product start to customers' receipt. Examples include order processing, warehousing, inventory management, transportation and logistics, and the costs and information systems supporting these activities. Particular attention will be paid to global logistics systems supporting port and maritime activities. Supply chain relationships can be improved through effective integration of management and via such technologies as the World Wide Web, electronic data exchange, and enterprise resource planning (ERP). (cross-listed with MSCM 641 )
+PORT 668 Directed Research/Port Internship (1-3 Credit Hours)
+Practical field experience in international maritime, ports and logistics related challenges through supervised investigation and analysis of a problem or a working internship within the port-related arena.
+PORT 695 Selected Topics in Maritime and Port Management (3 Credit Hours)
+The advanced study of selected topics not offered on a regular basis.
+PORT 697 Independent Study (3 Credit Hours)
+Designed to provide the opportunity for independent study under the guidance of a member of the faculty.
+Search catalog

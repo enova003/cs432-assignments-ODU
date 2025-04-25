@@ -1,0 +1,13 @@
+Outlook
+Gmail tips
+If you have a student email account provided through Google (email accounts created before February 1, 2023), you can take advantage of Gmail features:
+Use labels in Gmail as a way to categorize or tag items and make them more searchable.More: https://support.google.com/mail/answer/118708
+For most messages in Gmail, archiving is preferable to deleting. You should delete mail that you really and truly don't need, but if there's ever a doubt in your mind, just archive it.More: https://support.google.com/mail/answer/6576
+Use Search in Gmail the same way you use Google to search the web by typing in keywords to find messages in your account.More: https://support.google.com/mail/answer/6593
+Use filters to automatically sort and apply labels to mail.More: https://support.google.com/mail/answer/6579
+Use stars to mark special messages or as a visual reminder for ones needing follow up on or to provide an easy way to spot certain items in your inbox.More: https://support.google.com/mail/answer/5904
+Keyboard shortcuts are available for Gmail to help you save time and navigate your inbox. Suggested shortcuts are available at https://support.google.com/mail/answer/6594
+Unsubscribe from anything that is causing clutter in your inbox. This will allow you to focus on the more important messages. If you do want to receive ads or other subscription information in your Gmail account, use filters to send them directly to another folder. This will keep your inbox clean.
+Use Gmail's built-in feature to help identify legitimate emails from the top company's whose messages are spoofed. Go to "Settings", then "Labs," and find "Authentication icon for verified senders." Enable it. Whenever you get an email from a company like Ebay or PayPal, you'll see a little key next to their name if the message is legitimate.
+Use Google Help pages for assistance with common issues. https://support.google.com/mail/
+For more Gmail tips:

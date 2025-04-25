@@ -1,0 +1,250 @@
+Graduate Courses
+ENMA 301 Introduction to Engineering Management (3 Credit Hours)
+An introduction to principles of management and organizational behavior as they apply to the engineering profession.  Special emphasis on team building, quality leadership and planning, handling personnel issues, and marketing technology.  Group exercises, case studies, and extensive writing and speaking assignments.
+Prerequisites: Junior standing
+ENMA 302 Engineering Economics (3 Credit Hours)
+Introduction to cost estimation, accounting and financial metrics.  Valuation techniques, time value of money, and cash flow analysis.  Economic analysis of engineering alternatives including depreciation effects, income taxes, inflation, engineering management capital budgeting of projects, portfolio and public sector projects.
+Prerequisites: Junior standing
+ENMA 401 Project Management (3 Credit Hours)
+Foundations, principles, methods, and tools for effective design and management of projects in technology-based organizations.  Project organization, life cycle, planning, scheduling, implementation, control, and evaluation.  Special emphasis on project leadership, problem solving in team-based projects, project failure analysis, and advanced methods.  Use of case studies and applications to reinforce course concepts.  Students design and plan a project from concept through completion including proposal and post-project analysis.
+Prerequisites: Junior standing
+ENMA 410/510 Agile Project Management (3 Credit Hours)
+This course focuses the management of projects using an agile approach to respond to the continuous changes that affect project capabilities and performance. Although any project can be manage using agile project management, projects with high degree of uncertainty obtain the most benefits from this approach (e.g., R&D projects). The course covers Scrum and expands it by articulating the human and business factors that make successful agile project management. Case studies and/or short-projects are required.
+Prerequisites: ENMA 401 or equivalent preferred
+ENMA 415/515 Introduction to Systems Engineering (3 Credit Hours)
+Introduces the principles, concepts and process of systems engineering.  Examination of problem formulation, analysis, and interpretation as they apply to the study of complex systems.  Emphasizes the design nature of systems engineering problem solving, and includes case studies stressing realistic problems.  Development of system requirements, system objectives, and the evaluation of system alternatives.
+Prerequisites: Junior standing
+ENMA 420 Statistical Concepts in Engineering Management (3 Credit Hours)
+Introduction to  concepts and techniques in probability and statistics, including descriptive and inferential statistics.  Topics include fundamentals of probability, distributions, estimation, hypothesis testing, regression, process control, and reliability.  Applications include engineering design and analysis, manufacturing, decision aids, and quality management problems.
+Prerequisites: MATH 211 or equivalent
+ENMA 421 Decision Techniques in Engineering (3 Credit Hours)
+A systematic approach to the formulation of problems, the generation and evaluation of alternatives, and the selection and implementation of courses of action applied to engineering design, manufacturing, and management decisions. Topics include: goals and objectives; variables and relations; constraints and feasibility; uncertainty and risk; models and optimization; data and information; analysis and simulation. Case studies requiring oral presentations and written reports are used to emphasize concepts and systems analysis.
+Prerequisites: Junior standing
+ENMA 424 Risk Analysis in Engineering Management (3 Credit Hours)
+The systematic approach to analysis of risk as applied to engineering management with emphasis on cyber systems. The objectives of this course are (1) to gain an appreciation of the strategic importance of risk analysis and its relationship to other enterprise and engineering functions and (2) to develop a working knowledge of the concepts and methods in risk analysis as they may apply to cyber systems.
+Prerequisites: Junior standing
+ENMA 480 Ethics and Philosophy in Engineering Applications (3 Credit Hours)
+This course is designed to expose prospective engineering managers the theories and practices that are inherent in the ethical environment of modern organizations.  Topics include definitions of ethical behavior and leadership, the history of ethical thought, moral decision-making, and the importance of values such as honesty, integrity, and trustworthiness.  A full exploration of ethical autonomy, collaboration, communication and moral imagination will be conducted.  A variety of methods will be used to facilitate learning, including a textbook, movie and videos, case studies, experiential activities and writing assignments.  The successful student should gain a full appreciation for the value and practices of ethical leadership.
+Prerequisites: Junior standing
+ENMA 495/595 Topics in Engineering Management (1-6 Credit Hours)
+Special topics with emphasis placed on the recent developments in engineering management.
+Prerequisites: permission of the instructor
+ENMA 510 Agile Project Management (3 Credit Hours)
+This course focuses the management of projects using an agile approach to respond to the continuous changes that affect project capabilities and performance. Although any project can be manage using agile project management, projects with high degree of uncertainty obtain the most benefits from this approach (e.g., R&D projects). The course covers Scrum and expands it by articulating the human and business factors that make successful agile project management. Case studies and/or short-projects are required.
+Prerequisites: ENMA 401 or equivalent
+ENMA 515 Introduction to Systems Engineering (3 Credit Hours)
+Introduces the principles, concepts and process of systems engineering.  Examination of problem formulation, analysis, and interpretation as they apply to the study of complex systems.  Emphasizes the design nature of systems engineering problem solving, and includes case studies stressing realistic problems.  Development of system requirements, system objectives, and the evaluation of system alternatives.
+ENMA 595 Topics in Engineering Management (1-6 Credit Hours)
+Special topics with emphasis placed on the recent developments in engineering management.
+Prerequisites: permission of the instructor
+ENMA 600 Cost Estimating and Financial Analysis (3 Credit Hours)
+Introduction to the monetary aspects of engineering projects, including accounting principles; financial reports and analysis; capital budgeting; cost estimation and control; inventory management; depreciation; investment decisions.  Knowledge of probability and statistics ( ENMA 420 or equivalent) is assumed.  Case studies and a term project are required.
+Pre- or corequisite: ENMA 420 or equivalent
+ENMA 601 Analysis of Organizational Systems (3 Credit Hours)
+This course introduces the student to fundamental concepts in the analysis of organizations.  A systems approach is taken in the examination of social, structural, procedural and environmental aspects that are of consequence to technical professionals and managers.  Modules covered include: History and Systems of Organizations and Management; Basic Organizational Systems and Models emphasizing rational, natural and open systems; Organizational Behavior Models; Organizational Structure Models; Integration of Systems Perspectives.
+ENMA 602 Systems Engineering Management (3 Credit Hours)
+Students develop a comprehensive set of techniques and methods to design, maintain and evolve the systems engineering function in support of strategic enterprise objectives and operations.
+ENMA 603 Operations Research (3 Credit Hours)
+Deterministic and stochastic models for decision making.  Topics include: optimization methods; linear and other programming models; network analysis; inventory analysis; queuing theory.  Knowledge of probability and statistics ( ENMA 420 or equivalent) is assumed.
+ENMA 604 Project Management (3 Credit Hours)
+Exploration of the systems approach to planning, scheduling, control, design, evaluation, and leadership of projects in technology-based organizations.  The fundamental tools and techniques of project management; role of the project manager; project management systems; project selection; project life cycle; project monitoring and control; project management evaluation and auditing; project risk and failure analysis; contextual nature of project management; project knowledge.
+ENMA 605 Program Capstone (1 Credit Hour)
+A written, comprehensive demonstration of the candidate's competence in the fields covered by the program of study that is intended to fulfill the non-thesis master's examination requirement.
+Prerequisites: Completion of minimum of the 18 core credit hours in program of study
+ENMA 606 Engineering Law (3 Credit Hours)
+Basic legal concepts and procedures for understanding the implications of engineering management decisions.  Major emphasis on contracts and liability.
+ENMA 607 Stochastic Decision Methods (3 Credit Hours)
+Introduction to decision analysis and stochastic models; risk and uncertainty in decision making; probabilistic inventory problems; queuing theory; Markov processes; dynamic programming; Monte Carlo simulation of dynamic systems.  Knowledge of probability and statistics ( ENMA 420 or equivalent) is assumed.
+ENMA 613 Logistics and Supply Chain Management (3 Credit Hours)
+Studying how logistical decisions impact the performance of the firm and the entire supply chain.  Topics include strategic planning, facilities location and analysis, distribution and transportation networks, forecasting, inventory management, and information systems for supply chains.  Knowledge of probability and statistics ( ENMA 420 or equivalent) is assumed.  The course includes case studies and/or a project.
+Prerequisites: ENMA 603 ; ENMA 420 or equivalent
+ENMA 614 Quality Systems Design (3 Credit Hours)
+Integrated analysis of the process quality assurance and improvement function.  Quality Deming's way.  Scientific sampling and control charting for quality assurance and control; the quality cost concept and economic aspects of quality decisions.  Organization of the quality function for process quality improvement.  Knowledge of probability and statistics ( ENMA 420 or equivalent) is assumed.
+Prerequisites: ENMA 420 or equivalent
+ENMA 616 The Entrepreneurial Engineering Manager (3 Credit Hours)
+Globalization has increased competition among the planet's enterprises. The quality of products and services has dramatically improved while prices have plummeted.  Consumer expectations have risen to very high levels.  This phenomenon has accelerated the need for large technical enterprises to become more agile, flexible and responsive to consumer demands. Government agencies are not exempt form this trend:  U.S. Government agencies are now required to establish strategic plans for their enterprises and to develop business plans that illustrate the future directions of the enterprise and to define the resources required to realize the vision and strategy of the enterprise.  This course introduces Engineering Management students to a wide range of approaches designed to facilitate start-up, enable growth and ensure the continued capability of emerging and mature technical enterprises.
+ENMA 625 Introduction to Homeland Security Logistics (3 Credit Hours)
+This course introduces the student to essential concepts of Homeland Security and principles of all-hazards risk management. It emphasizes understanding (1) the right balance among different hazards in mitigation, preparedness, response, and recovery; (2) the impacts of illegal and legal immigration on the economic and social stability of our communities; and (3) the emergence and evolving threats in cybersecurity, averting cybercrime, and shielding critical infrastructure. Participants will learn critical decision-making concepts and tools and techniques to improve decision-making in the interinstitutional homeland security decision space.
+ENMA 641 Requirements Management, Verification and Validation (3 Credit Hours)
+Comprehensive treatment of the nature and utility of requirements, verification, and validation in systems engineering processes.  Topics include: establishing user requirements; traceability; baseline and evolving requirements; governing standards; requirements management; issues in requirements for complex systems; role and methods for verification and validation in systems engineering; data treatment and analysis; standards, practices, and issues for verification and validation in systems engineering.
+ENMA 645 Preparation for Systems Engineering Professional Certification (3 Credit Hours)
+A comprehensive treatment and review of the International Council on Systems Engineering (INCOSE) Systems Engineering Handbook v4 in preparation for INCOSE Systems Engineering Professional (SEP) Certification. This course should be taken in the final semester in which the student will graduate.
+ENMA 646 Information Science for Systems and Engineering Management (3 Credit Hours)
+This course aims to prepare students with the general knowledge and skills for the on-going digital transformation. The course covers: (1) preliminaries of information and informatics; (2) information and knowledge modeling; (3) fundamental concepts, models, tools, and applications of Big Data; and (4) digital mechanisms of trust and security, including: digital asset access control, digital signature, digital certification, Public Key Infrastructures, and Blockchains.
+ENMA 650 Mission Analysis and Engineering (3 Credit Hours)
+The course provides an overview of mission engineering and the role of mission engineering and the mission engineer in government acquisitions. The course presents the theoretical foundations that enable a fuller representation of complex problem as well as the required engineering and management approaches needed to deal with the high level of complexity and uncertainty. It applies the theoretical facets to specific engineering problems/cases and explores robust approaches given the conditions of the problem. Developments, on-going research, as well as gaps in knowledge and know-how are discussed.
+Prerequisites: ENMA 415 or ENMA 515 or instructor approval
+ENMA 656 Mathematical and Computational Modeling in Systems Engineering (3 Credit Hours)
+The course introduces some of the mathematical structures and methods used within systems engineering. The course will cover probability theory, scheduling, critical path analysis, systems dynamics, decision analysis, and simulation. Students will be introduced to computer programming to implement the ideas in the course using the R programming language.
+ENMA 660 Systems Architectures (3 Credit Hours)
+Students learn the essential aspects of the systems architecture paradigm through development and analysis of multiple architecture frameworks and enterprise engineering.  Emphasis is placed on systems modeling and enterprise engineering.
+ENMA 661 Systems Engineering Design (3 Credit Hours)
+This course covers modern modeling paradigms for deterministic and stochastic complex and dynamic systems.  This includes, but is not limited to, Discrete Simulation, Queuing Systems, and Agent-based models among others.  Focus will be on system analysis using different developed models in different domains such as production, logistics, security, and service, military and social.
+Prerequisites: ENMA 420 or equivalent and ENMA 515 or equivalent
+ENMA 667 Cooperative Education (1-3 Credit Hours)
+Available for pass/fail grading only.  Student participation for credit based on academic relevance of the work experience, criteria, and evaluative procedures as formally determined by the department and the Cooperative Education program prior to the semester in which the work experience is to take place.
+ENMA 668 Internship (1-3 Credit Hours)
+Academic requirements will be established by the graduate program director and will vary with the amount of credit desired.  Allows students an opportunity to gain short-duration career-related experience.  Meant to be used for one-time experience.  Work may or may not be paid.  Project is completed during the term.
+ENMA 669 Practicum (1-3 Credit Hours)
+Academic requirements will be established by the department and will vary with the amount of credit desired.  Allows students an opportunity to gain short duration career related experience.  Student is usually already employed - this is an additional project in the organization.
+Prerequisites: Approval by department and Career Development Services
+ENMA 670 Cyber Systems Engineering (3 Credit Hours)
+This course provides an overview of functioning of cyber systems including how a computer interacts with the outside world. The composition of critical infrastructure and functioning of different engineered systems that form critical infrastructure are discussed. Mutual dependence and interactions between cyber systems and other engineered and the resulting security risks are also explored.
+Prerequisites: Undergraduate students in STEM fields or graduate students of STEM degree or instructor's approval
+ENMA 690 Systems Engineering Capstone (1 Credit Hour)
+A written, comprehensive demonstration of the candidate's competence in the fields covered by the systems engineering program that is intended to fulfill the non-thesis master's examination requirement.
+ENMA 695 Topics in Engineering Management (1-3 Credit Hours)
+Special topics of interest with emphasis placed on recent developments in engineering management.
+Prerequisites: Permission of the instructor
+ENMA 696 Topics in Engineering Management (1-3 Credit Hours)
+Special topics of interest with emphasis placed on recent developments in engineering management.
+Prerequisites: Permission of the instructor
+ENMA 697 Independent Study in Engineering Management (3 Credit Hours)
+Individual study selected by the student.  Supervised and approved by a faculty member with the approval of the Graduate Program Director.
+Prerequisites: Permission of Graduate Program Director
+ENMA 698 Master's Project (1-3 Credit Hours)
+The master's project is guided under the supervision of the course instructor.  Projects must be approved by the Graduate Program Advisor.
+Prerequisites: Graduate Program Director permission is required
+ENMA 699 Thesis (1-6 Credit Hours)
+Research leading to a Master of Science thesis.
+Prerequisites: ENMA 721 and permission of the Graduate Program Director
+ENMA 700 Economic Analysis of Capital Projects (3 Credit Hours)
+This course is targeted at engineering managers who actively participate in the capital budgeting process and project justification.  Topics include capital budgeting techniques (including multi-attribute decision making), utility theory, justification of new technologies, and current research in engineering economics.  Reading and application of current research in the field is stressed.  Case studies are used.  Oral presentations and term project required.
+Prerequisites: ENMA 600
+ENMA 701 Digital Systems Engineering (3 Credit Hours)
+Digital systems engineering applies digital technologies to the systems engineering processes and principles.  This course provides students with knowledge and skills on necessary digital technologies, such as Artificial Intelligence and Machine Learning, Big Data, Blockchain, and computational modeling. The course covers: (1) preliminaries of digitalization and digital technologies; (2) data and knowledge modeling; (3) logical approach to MBSE (Model-Based Systems Engineering); (4) application of Big Data and Machine Learning in Systems Engineering; and (5) digital mechanisms of trust and security for digital engineering.
+Prerequisites: ENMA 646
+ENMA 702 Systemic Decision Making (3 Credit Hours)
+As machine age problems have given way to systems age messes, the underlying complexity associated with understanding these situations has increased exponentially.  Accordingly, the methods we use to address these situations must evolve as well.  This course will introduce students to a method for thinking holistically about problems and messes conceptually founded in systems theory.  This paradigm, known as systemic thinking, will be contrasted with traditional systematic thinking, and practical guidelines for the deployment of a systemic thinking approach will be provided.  This paradigm will increase the student's ability to make rational decisions in complex environments.
+ENMA 703 Optimization Methods (3 Credit Hours)
+Covers advanced methods in Operations Research and Optimization.  Focus will be on developing models and their applications in different domains including manufacturing and service.  Modern optimization tools will be used to implement models for case studies, projects and research papers.  The knowledge of programming and spreadsheets is expected.  Contact instructor for more details.
+ENMA 705 Financial Engineering (3 Credit Hours)
+This course covers concepts in complex investments, how to deal with uncertainty in today's global markets, and how to engineer and manage financial decisions. The main topics include: cash flows, portfolio theory, capital management, securities, hedge funds, optimal investment and financial engineering evaluations among others.
+ENMA 711 Engineering Research Methodology (3 Credit Hours)
+This course prepares engineering practitioners to produce systemic applied research or robust project solutions. In the applied research track, students will learn and apply the methods, tools, and concepts required for specifying the research purpose, proposal preparation, understanding the current state of the discipline, selecting and executing the appropriate research methodology, analyzing and synthesizing results, and preparing defensible publications. In the engineering project track, students will learn problem definition and scoping, project proposal preparation, methods for establishing the current state of the problem, analytical and experimental designs for testing proposed solutions, robust methods for solution optimization, and solution validation.
+ENMA 712 Multi-Criteria Decision Analysis and Decision Support Systems (3 Credit Hours)
+Currently, complex engineering-economic-societal decisions are made by involving numerous sometimes conflicting criteria and attributes, different decision rules and in the presence of various stakeholders with individual preferences who are willing to go into negotiation procedures.  A number of multi-criteria decisions tools involving quantitative as well as qualitative methods, together with adequate decision support tools will be introduced.  Case studies on a variety of engineering, environmental and security related aspects will also be considered.
+ENMA 715 Systems Analysis (3 Credit Hours)
+The course is designed to provide an understanding of the interdisciplinary aspects of systems development, operation, and support.  The course focuses on the application of scientific and engineering efforts to transform an operational need into a defined system configuration through the interactive process of design, test, and evaluation.
+ENMA 716 Complex Adaptive Situations Environment (3 Credit Hours)
+The course focuses on the manner in which information, knowledge, and awareness are processed to facilitate decision making, management and engineering in complex adaptive situations.  Topics include: knowledge acquisition, formation of technical and contextual awareness, and the role of understanding.
+ENMA 717 Cost Engineering (3 Credit Hours)
+Introduction to parametric cost modeling techniques and methodologies; generation and application of statistical relationships between life cycle costs and measurable attributes of complex systems; sources of supporting data; quality function deployment; technology forecasting.  Special emphasis on life cycle design for cost; cost risk analysis; and design optimization on cost bases.  Case studies and a semester project.
+ENMA 720 Multivariate Statistics for Engineering (3 Credit Hours)
+Introduction to modeling multivariate structural and residual variation, using exploratory data analysis, nonparametric regression, dependence regression, and factor analytic models, with a goal of producing robust, generalizable multivariate models that support research findings. Statistical analyses will be performed in the free general public licensed R statistical software with references to Minitab and SPSS.
+ENMA 721 Foundations of Research (3 Credit Hours)
+This course is intended to prepare students to undertake substantiated, rigorous, scholarly research, particularly theses or dissertations.  The course will focus on the approaches necessary to integrate research intent, techniques and constraints.  A variety of research approaches will be investigated.  Emphasis will be placed on problem formulation, literature review, proposal preparation, oral presentation, experimentation and accepted canons of research.  Knowledge of probability and statistics ( ENMA 420 or equivalent) is assumed.  Research paper required.
+ENMA 724 Risk Analysis (3 Credit Hours)
+Approaches to the management of risk; probability assessment methods; risk modeling; use of software packages; extensions of decision analysis, including stochastic dominance and multiattribute methods; applications to project management, scheduling, and cost estimation.
+ENMA 725 System Risk and Failure Analysis (3 Credit Hours)
+This course is about the modeling of system dependencies using functional dependency network analysis to support the design of new and failure analysis of existing engineering systems. At the end of this course, students will be able to model and measure the operability and performance of today’s highly networked and richly interconnected systems.
+ENMA 735 Team Performance and Decision Making in Engineering (3 Credit Hours)
+This course explores and models the use of teams in organizations with a specific focus on the role of teams in decision making and problem solving. Key areas include team building, assessment of team outcomes, team learning, virtual teams and team decision making. Actual work on teams is required including team deliverables.
+ENMA 743 Reliability and Maintainability (3 Credit Hours)
+An introduction to the theory and practice of reliability engineering, maintainability and availability. Reliability evaluation models and techniques, failure data collection and analysis, reliability testing and modeling, maintained systems, and mechanical system reliability will be discussed, culminating in a semester-length project.
+Prerequisites: ENMA 420 or equivalent
+ENMA 750 System of Systems Engineering (3 Credit Hours)
+Comprehensive treatment of System of Systems Engineering (SoSE), including; fundamental systems principles, concepts, and governing laws; complex and simple systems; underlying paradigms, methodologies and essential methods for SoSE analysis, design, and transformation; complex system transformation; current state of  SoSE research and application challenges.  Explores the range of technological, human/social, organizational/managerial, policy, and political dimensions of the SoSE problem domain.
+ENMA 751 Complexity, Engineering and Management (3 Credit Hours)
+This course examines management and engineering of complex systems as it is undertaken in complex situations.  The student will develop an understanding of the unconditional attributes of complex systems and situations that become foundational in the development of robust methods to deal with the practical reality of working in dynamic, uncertain environments.  Topics will include Complexity, Complex Systems, Complex Adaptive Systems, Complex Responsive Processes, Complex Adaptive Situations Methodology, SOSE, Reciprocality, and Sociotechnical Systems.
+ENMA 754 Big Data Fundamentals (3 Credit Hours)
+The objectives of the course are to provide fundamental knowledge and skills of Big Data for the new generation of researchers, engineers, project managers and business managers in the emerging data-driven science and engineering paradigm. Topics to be covered include data analytics, cloud platforms and tools for Big Data, and innovative applications of Big Data.
+ENMA 755 Human System Engineering (3 Credit Hours)
+This course introduces concepts of Human System Engineering, focusing on designing systems that include human components. Human System Integration and Human Factors Engineering are discussed, as well as other human centered design approaches. The role of human data in systems and systems of systems design is explored, and methods to capture and represent human data, including architecture frameworks, are presented. Modeling and analysis of human centered systems is done through hands-on projects.
+ENMA 760 Advanced Architectures and Tools (3 Credit Hours)
+This course is designed to expand on system architectures concepts through both theory and practice. Topics include the role of architectures in system engineering, alternative methods for architecture development, tools and techniques for architecture design, and various conceptual and technical issues in the architecture development process. Class periods are equally divided between traditional lectures and practice oriented exercises.
+ENMA 763 Robust Engineering Design (3 Credit Hours)
+A robust design approach based on "Taguchi Methods," including off-line quality engineering and applied design-of-experiments methods, full factorial and fractional factorial designs, and response surface methods.  The course is designed to enable engineers and engineering managers from all disciplines to recognize potential applications, formulate problems, plan experiments, and analyze data. Knowledge of probability and statistics ( ENMA 420 or equivalent) is assumed. Students will engage in case studies, culminating in a semester-long project.
+Prerequisites: ENMA 420 or equivalent
+ENMA 771 Risk and Vulnerability Management of Complex Interdependent Systems (3 Credit Hours)
+Seminar discussions and team projects.  A systematic approach to basic principles of design, economics and management of critical infrastructure systems, including issues of risk, vulnerability and risk governance.  Development of advanced methodologies, e.g. system of systems, by use of complexity analysis, dynamic/chaotic behavior, threat analysis, resilient design and management under normal and stress conditions.  Adopting an agent based modeling approach under conditions of uncertainty, dysfunctionality, malicious attacks and/or presence of natural perils.
+ENMA 777 Complex System Governance (3 Credit Hours)
+Students will be prepared to better design, execute, evaluate, and evolve governance for complex systems. This preparation includes development of marketable capabilities to more effectively deal with governance systems and their emergent problems through: (1) development of capabilities to effectively design, analyze, and execute complex system governance, (2) identification and development of more effective intervention strategies to address underlying governance problems in operational systems, (3) employment of a range of methods, tools, and techniques, and (4) development of capabilities for generating novel insights and improvements to address systemic deficiencies in governance systems.
+ENMA 780 Leadership for Engineering Managers (3 Credit Hours)
+Seminar discussions and team projects. This course is designed to expose students to the concepts, skills, characteristics and emotional composition of effective and successful leaders in the 21st century. The course is intensive and requires students to immerse themselves in the course material and classroom discussion to derive meaning and value from the topics. The course objectives will be achieved by classroom discussion of the assigned material, candid self-assessment, experiential exercises and analysis of the actions of leaders, as described in case studies and literature. Areas of exploration include the fundamentals of leadership, ethical leadership, social capital, emotional intelligence and three-dimensional leadership. Ethical leadership practices is a cross-cutting theme in this course.
+Prerequisites: ENMA 601 or Ph.D. status
+ENMA 795 Topics in Engineering Management (3 Credit Hours)
+Special topics of interest with emphasis placed on recent developments in engineering management.
+ENMA 796 Topics in Engineering Management (3 Credit Hours)
+Special topics of interest with emphasis placed on recent developments in engineering management.
+ENMA 797 Independent Study in Engineering Management (1-3 Credit Hours)
+Designed for advanced individualized study into an engineering management topic area.  Independent study projects will be related to engineering management and completed under the supervision of a certified faculty member.
+Prerequisites: Permission of the instructor and Graduate Program Director
+ENMA 800 Economic Analysis of Capital Projects (3 Credit Hours)
+It is targeted at engineering managers who actively participate in the capital budgeting process and project justification.  Topics include capital budgeting techniques (including multi-attribute decision making), utility theory, justification of new technologies, and current research in engineering economics.  Reading and application of current research in the field is stressed.  Case studies are used.  Oral presentations and term project required.
+Prerequisites: ENMA 600
+ENMA 801 Digital Systems Engineering (3 Credit Hours)
+Digital systems engineering applies digital technologies to the systems engineering processes and principles.  This course provides students with knowledge and skills on necessary digital technologies, such as Artificial Intelligence and Machine Learning, Big Data, Blockchain, and computational modeling. The course covers: (1) preliminaries of digitalization and digital technologies; (2) data and knowledge modeling; (3) logical approach to MBSE (Model-Based Systems Engineering); (4) application of Big Data and Machine Learning in Systems Engineering; and (5) digital mechanisms of trust and security for digital engineering.
+Prerequisites: ENMA 646
+ENMA 802 Systemic Decision Making (3 Credit Hours)
+As machine age problems have given way to systems age messes, the underlying complexity associated with understanding these situations has increased exponentially.  Accordingly, the methods we use to address these situations must evolve as well.  This course will introduce students to a method for thinking holistically about problems and messes conceptually founded in systems theory.  This paradigm, known as systemic thinking, will be contrasted with traditional systematic thinking, and practical guidelines for the deployment of a systemic thinking approach will be provided.  This paradigm will increase the student's ability to make rational decisions in complex environments.
+ENMA 803 Optimization Methods (3 Credit Hours)
+Covers advanced methods in Operations Research and Optimization.  Focus will be on developing models and their applications in different domains including manufacturing and service.  Modern optimization tools will be used to implement models for case studies, projects and research papers.  The knowledge of programming and spreadsheets is expected.  Contact instructor for more details.
+ENMA 805 Financial Engineering (3 Credit Hours)
+This course covers concepts in complex investments, how to deal with uncertainty in today's global markets, and how to engineer and manage financial decisions. The main topics include: cash flows, portfolio theory, capital management, securities, hedge funds, optimal investment and financial engineering evaluations among others.
+ENMA 811 Engineering Research Methodology (3 Credit Hours)
+This course prepares engineering practitioners to produce systemic applied research or robust project solutions. In the applied research track, students will learn and apply the methods, tools, and concepts required for specifying the research purpose, proposal preparation, understanding the current state of the discipline, selecting and executing the appropriate research methodology, analyzing and synthesizing results, and preparing defensible publications. In the engineering project track, students will learn problem definition and scoping, project proposal preparation, methods for establishing the current state of the problem, analytical and experimental designs for testing proposed solutions, robust methods for solution optimization, and solution validation.
+ENMA 812 Multi-Criteria Decision Analysis and Decision Support Systems (3 Credit Hours)
+Currently, complex engineering-economic-societal decisions are made by involving numerous sometimes conflicting criteria and attributes, different decision rules and in the presence of various stakeholders with individual preferences who are willing to go into negotiation procedures.  A number of multi-criteria decisions tools involving quantitative as well as qualitative methods, together with adequate decision support tools will be introduced.  Case studies on a variety of engineering, environmental and security related aspects will also be considered.
+ENMA 815 Systems Analysis (3 Credit Hours)
+The course is designed to provide an understanding of the interdisciplinary aspects of systems development, operation, and support.  The course focuses on the application of scientific and engineering efforts to transform an operational need into a defined system configuration through the interactive process of design, test, and evaluation.
+ENMA 816 Complex Adaptive Situations Environment (3 Credit Hours)
+The course focuses on the manner in which information, knowledge, and awareness are processed to facilitate decision making, management and engineering in complex adaptive situations.  Topics include: knowledge acquisition, formation of technical and contextual awareness, and the role of understanding.
+ENMA 817 Cost Engineering (3 Credit Hours)
+Introduction to parametric cost modeling techniques and methodologies; generation and application of statistical relationships between life cycle costs and measurable attributes of complex systems; sources of supporting data; quality function deployment; technology forecasting.  Special emphasis on life cycle design for cost; cost risk analysis; and design optimization on cost bases.  Case studies and a semester project.
+ENMA 820 Multivariate Statistics for Engineering (3 Credit Hours)
+Introduction to modeling multivariate structural and residual variation, using exploratory data analysis, nonparametric regression, dependence regression, and factor analytic models, with a goal of producing robust, generalizable multivariate models that support research findings. Statistical analyses will be performed in the free general public licensed R statistical software with references to Minitab and SPSS.
+ENMA 821 Foundations of Research (3 Credit Hours)
+This course is intended to prepare students to undertake substantiated, rigorous, scholarly research, particularly theses or dissertations.  The course will focus on the approaches necessary to integrate research intent, techniques and constraints.  A variety of research approaches will be investigated.  Emphasis will be placed on problem formulation, literature review, proposal preparation, oral presentation, experimentation and accepted canons of research.  Research paper required.
+ENMA 824 Risk Analysis (3 Credit Hours)
+Approaches to the management of risk; probability assessment methods; risk modeling; use of software packages; extensions of decision analysis, including stochastic dominance and multiattribute methods; applications to project management, scheduling, and cost estimation.
+ENMA 825 System Risk and Failure Analysis (3 Credit Hours)
+This course is about the modeling of system dependencies using functional dependency network analysis to support the design of new and failure analysis of existing engineering systems. At the end of this course, students will be able to model and measure the operability and performance of today’s highly networked and richly interconnected systems.
+ENMA 835 Team Performance and Decision Making in Engineering (3 Credit Hours)
+This course explores and models the use of teams in organizations with a specific focus on the role of teams in decision making and problem solving. Key areas include team building, assessment of team outcomes, team learning, virtual teams and team decision making. Actual work on teams is required including team deliverables.
+ENMA 843 Reliability and Maintainability (3 Credit Hours)
+An introduction to the theory and practice of reliability engineering, maintainability and availability. Reliability evaluation models and techniques, failure data collection and analysis, reliability testing and modeling, maintained systems, and mechanical system reliability will be discussed, culminating in a semester-length project.
+Prerequisites: ENMA 420 or equivalent
+ENMA 850 System of Systems Engineering (3 Credit Hours)
+Comprehensive treatment of System of Systems Engineering (SoSE), including; fundamental systems principles, concepts, and governing laws; complex and simple systems; underlying paradigms, methodologies and essential methods for SoSE analysis, design, and transformation; complex system transformation; current state of  SoSE research and application challenges.  Explores the range of technological, human/social, organizational/managerial, policy, and political dimensions of the SoSE problem domain.
+ENMA 851 Complexity, Engineering and Management (3 Credit Hours)
+This course examines management and engineering of complex systems as it is undertaken in complex situations.  The student will develop an understanding of the unconditional attributes of complex systems and situations that become foundational in the development of robust methods to deal with the practical reality of working in dynamic, uncertain environments.  Topics will include Complexity, Complex Systems, Complex Adaptive Systems, Complex Responsive Processes, Complex Adaptive Situations Methodology, SOSE, Reciprocality, and Sociotechnical Systems.
+ENMA 854 Big Data Fundamentals (3 Credit Hours)
+The objectives of the course are to provide fundamental knowledge and skills of Big Data for the new generation of researchers, engineers, project managers and business managers in the emerging data-driven science and engineering paradigm. Topics to be covered include data analytics, cloud platforms and tools for Big Data, and innovative applications of Big Data.
+ENMA 855 Human System Engineering (3 Credit Hours)
+This course introduces concepts of Human System Engineering, focusing on designing systems that include human components. Human System Integration and Human Factors Engineering are discussed, as well as other human centered design approaches. The role of human data in systems and systems of systems design is explored, and methods to capture and represent human data, including architecture frameworks, are presented. Modeling and analysis of human centered systems is done through hands-on projects.
+ENMA 860 Advanced Architectures and Tools (3 Credit Hours)
+This course is designed to expand on system architectures concepts through both theory and practice. Topics include the role of architectures in system engineering, alternative methods for architecture development, tools and techniques for architecture design, and various conceptual and technical issues in the architecture development process. Class periods are equally divided between traditional lectures and practice oriented exercises.
+ENMA 863 Robust Engineering Design (3 Credit Hours)
+A robust design approach based on "Taguchi Methods," including off-line quality engineering and applied design-of-experiments methods, full factorial and fractional factorial designs, and response surface methods.  The course is designed to enable engineers and engineering managers from all disciplines to recognize potential applications, formulate problems, plan experiments, and analyze data. Knowledge of probability and statistics ( ENMA 420 or equivalent) is assumed. Students will engage in case studies, culminating in a semester-long project.
+Prerequisites: ENMA 420 or equivalent
+ENMA 871 Risk and Vulnerability Management of Complex Interdependent Systems (3 Credit Hours)
+Seminar discussions and team projects.  A systematic approach to basic principles of design, economics and management of critical infrastructure systems, including issues of risk, vulnerability and risk governance.  Development of advanced methodologies, e.g. system of systems, by use of complexity analysis, dynamic/chaotic behavior, threat analysis, resilient design and management under normal and stress conditions.  Adopting an agent based modeling approach under conditions of uncertainty, dysfunctionality, malicious attacks and/or presence of natural perils.
+Prerequisites: Permission of the instructor
+ENMA 877 Complex System Governance (3 Credit Hours)
+Students will be prepared to better design, execute, evaluate, and evolve governance for complex systems. This preparation includes development of marketable capabilities to more effectively deal with governance systems and their emergent problems through: (1) development of capabilities to effectively design, analyze, and execute complex system governance, (2) identification and development of more effective intervention strategies to address underlying governance problems in operational systems, (3) employment of a range of methods, tools, and techniques, and (4) development capabilities for generating novel insights and improvements to address systemic deficiencies in governance systems.
+ENMA 880 Leadership for Engineering Managers (3 Credit Hours)
+Seminar discussions and team projects. This course is designed to expose students to the concepts, skills, characteristics and emotional composition of effective and successful leaders in the 21st century. The course is intensive and requires students to immerse themselves in the course material and classroom discussion to derive meaning and value from the topics. The course objectives will be achieved by classroom discussion of the assigned material, candid self-assessment, experiential exercises and analysis of the actions of leaders, as described in case studies and literature. Areas of exploration include the fundamentals of leadership, ethical leadership, social capital, emotional intelligence and three-dimensional leadership. Ethical leadership practices is a cross-cutting theme in this course.
+Prerequisites: ENMA 601 or Ph.D. standing
+ENMA 888 Ph.D. Seminar (1 Credit Hour)
+Discussion of research projects, topics, and problems of Engineering Management faculty, researchers, and students.  A weekly exchange of ideas and issues between faculty and Ph.D. students focused on doctoral research.
+ENMA 892 Doctor of Engineering Project (1-12 Credit Hours)
+Directed individual study applying advanced-level technical knowledge to identify, formulate, and solve a complex, novel problem in Engineering Management.
+ENMA 895 Topics in Engineering Management (3 Credit Hours)
+Special topics of interest with emphasis placed on recent developments in engineering management.
+ENMA 896 Topics in Engineering Management (3 Credit Hours)
+Special topics of interest with emphasis placed on recent developments in engineering management.
+ENMA 897 Independent Study in Engineering Management (1-3 Credit Hours)
+Designed for advanced individualized study into an engineering management topic area.  Independent study projects will be related to engineering management and completed under the supervision of a certified faculty member.
+Prerequisites: Permission of the instructor and Graduate Program Director
+ENMA 898 Research in Engineering Management (1-12 Credit Hours)
+Supervised research prior to passing Ph.D. candidacy exam.
+Prerequisites: ENMA 721 / ENMA 821 and permission of Graduate Program Director
+ENMA 899 Doctoral Research (1-12 Credit Hours)
+Doctoral research hours.   After successfully passing the candidacy examination, all doctoral students are required to be registered for at least one graduate credit each term until the degree is complete.
+Prerequisites: ENMA 821 and permission of instructor
+ENMA 998 Master's Graduate Credit (1 Credit Hour)
+This course is a pass/fail course for master's students in their final semester. It may be taken to fulfill the registration requirement necessary for graduation.  All master's students are required to be registered for at least one graduate credit hour in the semester of their graduation.
+ENMA 999 Doctoral Graduate Credit (1 Credit Hour)
+This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.
+Search catalog

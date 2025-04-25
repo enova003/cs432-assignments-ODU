@@ -1,0 +1,17 @@
+https://support.microsoft.com/en-us/office/turn-on-automatic-forwarding-in-outlook-7f2670a1-7fff-4475-8a3c-5822d63b0c8e
+I have forgotten my student email password or would like to change it. How do I get a new password?
+Your MIDAS password is also your student email password. You can change or reset your password at midas.odu.edu .
+How long can I keep this email account?
+ODU student email accounts are for active ODU students. If you have not registered for a class in 3 semesters, you will receive a notice that your email account will be purged. Soon after the notice, your account will be deleted. (There are a few exceptions; if you feel you need to keep your ODU email account, send an email to itshelp@odu.edu. )
+We have more information about taking your Google data with you on our Google Workspace for Education page.
+Outlook: Export or backup email, contacts, and calendar to an Outlook .pst file
+I accidentally deleted something, can ITS restore it for me?
+ITS has no access to student accounts in Gmail. We are unable to access your mailbox, so we can't restore any data, individual messages or mailboxes.
+Office365 users may be able to recover deleted items in Outlook .
+Is there a size limit for individual emails?
+Google/Gmail: There is a 20 MB size limit imposed, meaning that no individual email can be larger than 20 MB. If you try to send a message with attachments that add up to more than 20 MB, the message will bounce. If someone tries to send you an email that is over 20 MB, it too will bounce.
+Office365/Outlook: Individual messages are limited to 25 MB per email.
+My email keeps going to the SPAM folder. How can I fix this?
+Google/Gmail: ITS has no control over spam settings in Gmail. However, any email address that you add to your Gmail contacts will never be marked as spam.
+Office365/Outlook: You can add email addresses and domains to your lists of blocked senders or safe senders. Go to outlook.odu.edu and follow the instructions provided in this article from Microsoft: Filter junk email and spam in Outlook on the web
+Technology Services (IT)

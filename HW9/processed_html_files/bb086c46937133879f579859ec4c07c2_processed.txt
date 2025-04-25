@@ -1,0 +1,12 @@
+Profile Picture Guidelines
+Restrict Course Access by Date
+To keep students from accessing content before a class starts or after it ends, you'll need to restrict course participation to specific dates.
+Restrict Course Access
+Course Merging (Cross-Listing)
+If cross-listing in Banner isn't possible, you can merge classes (also called "cross-listing" in Canvas) for easier course management.
+Course Merging
+Manage Incompletes
+If you have students with incompletes from Blackboard, grant them access to their coursework in Canvas so they can finish the course.
+Canvas Help
+Canvas Community
+Get 24/7 chat, phone, email and online support. Hit the "Help" button from inside Canvas, or browse Canvas guides online.

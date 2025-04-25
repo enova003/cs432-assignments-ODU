@@ -1,0 +1,6 @@
+Technology Services (IT)
+Technology Services (IT)
+IT services at ODU are provided by the Division of Digital Transformation and Technology . It is our mission to provide and support high-quality cost-effective computing and communications services that meet the needs of the University.
+Solutions & Services
+Cybersecurity: 2FA Prompt Attacks
+Attackers are using phishing attacks to gain MIDAS credentials, then attempting to log in multiple times until users inadvertently allow the DUO push prompt. Once a user accepts the DUO prompt, the attacker then has access to the account for a period of time. Report suspected phishing emails to Phishing@odu.edu and any cybersecurity concerns to ITSHelp@odu.edu.

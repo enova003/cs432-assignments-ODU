@@ -1,0 +1,148 @@
+Graduate Courses
+BME 403/503 Introduction to Mathematical Modeling in Physiology (3 Credit Hours)
+This course introduces model development and model formulation with differential equations in physiology. Students will learn how to use Matlab to solve differential equations and visualize their results.  The physiological focus will be on cellular physiology, particularly ion channel dynamics and homeostasis.
+Prerequisites: BIOL 240 or BIOL 250 and MATH 200 or MATH 205 or MATH 211
+BME 404/504 Introduction to Biomaterials (3 Credit Hours)
+This course will introduce the properties of biomedical materials used as implants, prostheses, orthosis, and tissue-engineered materials as medical devices in contact with tissues and organs. Biocompatibility, immunological responses, wound healing, clotting cascade, surface compatibility and characterization of materials used for implantable medical devices will be introduced. Other topics such as ethical considerations and medical device regulatory mechanisms will be presented.
+Prerequisites: BIOL 240 or BIOL 250 and MATH 200 or MATH 205 or MATH 211
+BME 405/505 Biomechanics (3 Credit Hours)
+The purpose of this course is to achieve a broad overview of biomechanics, focused on the musculoskeletal system. Students will explore multiscale mechanics, including whole-body movement and mechanical properties of the structures in the musculoskeletal system.  Additionally, students will survey the experimental methods and computational modeling techniques used in biomechanics research.
+Prerequisites: BIOL 240 or BIOL 250 , and MATH 212
+BME 409/509 Introduction to Regenerative Medicine (3 Credit Hours)
+This course will introduce fundamental knowledge in regenerative medicine including therapeutic applications of biomaterials, tissue and stem cell engineering, gene therapy and bioelectrics, with emphasis on structure-function relationships of biologic systems. In addition to lecture, students will have opportunities for group discussions and presentations on milestone work related to tissue regeneration. Students will leave with a thorough understanding of true mammalian regeneration, wound healing/repair processes, and medical device milestones as related to human tissue regeneration and repair.
+Prerequisites: BIOL 240 or BIOL 250 and MATH 200 or MATH 205 or MATH 211
+BME 430/530 Therapy and Function Models for Medical Simulation (3 Credit Hours)
+This course introduces students to the main Modeling & Simulation models. (1) Anatomical modeling based on robust medical image segmentation and meshing methodologies. (2) A therapy model to determine the impact of a medical intervention by synthesizing the effect of a therapy on the patient’s tissues. (3) A collision model, which interacts with anatomy and therapy models, is used for haptics-driven simulations. This course will also explore physiological simulation and the use of finite elements to model biomechanics.
+Prerequisites: ECE 250 or CS 250 or CS 251 and CS 260 or equivalent
+BME 454/554 Introduction to Bioelectrics (3 Credit Hours)
+This course covers the electrical properties of cells and tissues as well as the use of electrical and magnetic signals and stimuli in the diagnosis and treatment of disease.  Typical topics to be covered include basic cell physiology, endogenous electric fields in the body, electrocardiography, cardiac pacing defibrillation, electrotherapy, electroporation, electrotherapy in wound healing.  In addition ultra-short electrical pulses for intracellular manipulation and the application of plasmas to biological systems will be covered.
+Prerequisites: PHYS 111N or higher and MATH 200 or higher
+BME 462/562 Introduction to Medical Image Analysis (3 Credit Hours)
+Introduction to basic concepts in medical image analysis. Medical image registration, segmentation, feature extraction, and classification are discussed. Basic psychophysics, fundamental ROC analysis and FROC methodologies are covered. Cross-listed with ECE 462 / MSIM 462 .
+Prerequisites: a grade of C or better in MATH 212
+BME 464/564 Biomedical Applications of Low Temperature Plasmas (3 Credit Hours)
+This course is cross listed with ECE and Biology. It is designed to be taken by senior undergraduate students and first year graduate students. The course contents are multidisciplinary, combining materials from engineering and the biological sciences. The course covers an introduction to the fundamentals of non-equilibrium plasmas, low temperature plasma sources, and cell biology. This is followed by a detailed discussion of the interaction of low temperature plasma with biological cells, both prokaryotes and eukaryotes. Potential applications in medicine such as wound healing, blood coagulation, sterilization, and the killing of various types of cancer cells will be covered.
+Prerequisites: Senior standing
+BME 503 Introduction to Mathematical Modeling in Physiology (3 Credit Hours)
+This course introduces model development and model formulation with differential equations in physiology. Students will learn how to use Matlab to solve differential equations and visualize their results. The physiological focus will be on cellular physiology, particularly ion channel dynamics and homeostasis.
+Prerequisites: BIOL 240 or BIOL 250 and MATH 200 or MATH 205 or MATH 211
+BME 504 Introduction to Biomaterials (3 Credit Hours)
+This course will introduce the properties of biomedical materials used as implants, prostheses, orthosis, and tissue-engineered materials as medical devices in contact with tissues and organs. Biocompatibility, immunological responses, wound healing, clotting cascade, surface compatibility and characterization of materials used for implantable medical devices will be introduced. Other topics such as ethical considerations and medical device regulatory mechanisms will be presented.
+Prerequisites: BIOL 240 or BIOL 250 and MATH 200 or MATH 205 or MATH 211
+BME 505 Biomechanics (3 Credit Hours)
+The purpose of this course is to achieve a broad overview of biomechanics, focused on the musculoskeletal system. Students will explore multiscale mechanics, including whole-body movement and mechanical properties of the structures in the musculoskeletal system. Additionally, students will survey the experimental methods and computational modeling techniques used in biomechanics research.
+Prerequisites: BIOL 240 or BIOL 250 , and MATH 212
+BME 509 Introduction to Regenerative Medicine (3 Credit Hours)
+This course will introduce fundamental knowledge in regenerative medicine including therapeutic applications of biomaterials, tissue and stem cell engineering, gene therapy and bioelectrics, with emphasis on structure-function relationships of biologic systems. In addition to lecture, students will have opportunities for group discussions and presentations on milestone work related to tissue regeneration. Students will leave with a thorough understanding of true mammalian regeneration, wound healing/repair processes, and medical device milestones as related to human tissue regeneration and repair.
+Prerequisites: BIOL 240 or BIOL 250 and MATH 200 or MATH 205 or MATH 211
+BME 530 Therapy and Function Models for Medical Simulation (3 Credit Hours)
+This course introduces students to the main Modeling & Simulation models. (1) Anatomical modeling based on robust medical image segmentation and meshing methodologies. (2) A therapy model to determine the impact of a medical intervention by synthesizing the effect of a therapy on the patient’s tissues. (3) A collision model, which interacts with anatomy and therapy models, is used for haptics-driven simulations. This course will also explore physiological simulation and the use of finite elements to model biomechanics.
+Prerequisites: ECE 250 or CS 250 or CS 251 and CS 260 or equivalent
+BME 554 Introduction to Bioelectrics (3 Credit Hours)
+This course covers the electrical properties of cells and tissues as well as the use of electrical and magnetic signals and stimuli in the diagnosis and treatment of disease.  Typical topics to be covered include basic cell physiology, endogenous electric fields in the body, electrocardiography, cardiac pacing defibrillation, electrotherapy, electroporation, electrotherapy in wound healing.  In addition ultra-short electrical pulses for intracellular manipulation and the application of plasmas to biological systems will be covered.
+BME 562 Introduction to Medical Image Analysis (3 Credit Hours)
+Introduction to basic concepts in medical image analysis. Medical image registration, segmentation, feature extraction, and classification are discussed. Basic psychophysics, fundamental ROC analysis and FROC methodologies are covered. Cross-listed with ECE 562 / MSIM 562 .
+BME 564 Biomedical Applications of Low Temperature Plasmas (3 Credit Hours)
+This course is cross listed with ECE and Biology. It is designed to be taken by senior undergraduate students and first year graduate students. The course contents are multidisciplinary, combining materials from engineering and the biological sciences. The course covers an introduction to the fundamentals of non-equilibrium plasmas, low temperature plasma sources, and cell biology. This is followed by a detailed discussion of the interaction of low temperature plasma with biological cells, both prokaryotes and eukaryotes. Potential applications in medicine such as wound healing, blood coagulation, sterilization, and the killing of various types of cancer cells will be covered.
+Prerequisites: Senior standing
+BME 612 Digital Signal Processing I (3 Credit Hours)
+This course will present the fundamentals of digital signal processing. Topics will include frequency domain analysis of discrete-time linear systems, sampling and reconstruction of signals, the Discrete Fourier Transform (DFT) and Fast Fourier Transform (FFT), and digital filter design and implementations. Practical applications and examples will be discussed. Problem solving using MATLAB is required.  Cross-listed with ECE 612 .
+Prerequisites: ECE 381 or equivalent
+BME 695 Topics in Biomedical Engineering (3 Credit Hours)
+This course will be offered as needed, depending upon the need to introduce special subjects to target specific areas of master's-level specializations in biomedical engineering.
+BME 698 Master’s Project (1-3 Credit Hours)
+Individual project directed by the student’s professor in major area of study.
+BME 699 Master's Thesis (1-9 Credit Hours)
+Directed research for the master’s thesis.
+Prerequisites: departmental approval
+BME 720 Modern Biomedical Instrumentation (3 Credit Hours)
+This course covers the design of modern biomedical instruments including select diagnostic, assistive, therapeutic, prosthetic, imaging, and virtual devices and systems.  Techniques for mechanical, electrical, and chemical sensor and transducer design; stimulation and measurement; data acquisition; digital signal processing; and data visualization will be examined.
+BME 721 Mathematical Modeling in Physiology (3 Credit Hours)
+This course on mathematical modeling in human physiology emphasizes the development of mathematical models, their implementation, and the interpretation of simulation data.  The course focuses on cellular physiology, including membrane channels, excitability, and calcium dynamics; it also covers intercellular communication and spatially distributed systems.
+BME 724 Neural Engineering (3 Credit Hours)
+This course presents engineering techniques for the restoration and augmentation of human function via direct interactions between the nervous system and artificial devices, with particular emphasis on brain-computer interfaces.  Novel interfaces, hardware and computational issues, and practical and ethical considerations will also be covered.
+BME 726 Biomaterials (3 Credit Hours)
+This course cover fundamental principles and properties of biomedical materials used as implants, prostheses, orthosis, and tissue-engineered materials as medical devices in contact with tissues and organs. Advanced concepts of biocompatibility and material characterization will be discussed. Physiological response factors associated with materials and implanted devices used in the human body will be presented, including immunological responses, wound healing, clotting cascade and surface compatibility. Other topics such as ethical considerations and medical device regulatory mechanisms will be discussed.
+BME 730 Predoctoral Fellowship Grant Writing (1 Credit Hour)
+This course provides students important tools and experience in the vital grantsmanship area, which is needed to succeed in the competitive academic landscape. Students will be exposed to information regarding major predoctoral fellowships including NIH, NSF, DoD, and AHA, culminating in a grant proposal submission to the appropriate institution.
+BME 740 Regenerative Medicine (3 Credit Hours)
+This course covers a range of active research topics in regenerative medicine, including therapeutic applications of biomaterials, tissue and stem cell engineering, gene therapy and bioelectrics, with emphasis on structure-function relationships of biological systems. Upon completion of the course students should leave with a thorough understanding of biological systems structure-function relationships and associated biomimetic therapeutic approaches in regenerative medicine.
+Prerequisites: BIOL 240 or BIOL 250 and MATH 200 or MATH 205 or MATH 211
+BME 741 Principles of Visualization (3 Credit Hours)
+Well-designed graphical media capitalizes on human facilities for processing visual information and thereby improves comprehension, memory, inference, and decision making. This course teaches techniques and algorithms for creating effective visualizations based on principles and techniques from graphic design, visual art, perceptual psychology and cognitive science. Both users and developers of visualization tools and systems will benefit from this course.
+BME 747 Responsible Conduct of Research (2 Credit Hours)
+The course will introduce students to the responsible conduct of science and scientific research.
+BME 751 Computational and Statistical Methods in Biomedical Engineering (3 Credit Hours)
+This course covers the theoretical foundation and application of commonly used techniques in biomedical engineering.  Topics include linear algebra, partial differential equations, regression analysis, applied probabilities, multivariate distributions, Bayesian statistics, hypothesis tests, multiple comparisons, ANOVA, solution of non-linear equations, numerical methods and optimization.  Programming software will be used to perform simulations and analyze biomedical data.
+Prerequisites: Graduate status
+BME 754 Advanced Bioelectrics (3 Credit Hours)
+Bioelectrics is a new field encompassing both the science and technology of applying electrical stimuli to biological systems. This course covers the pulsed power technology that is required to generate electrical stimuli as well as the biological responses they evoke in cells and tissues. Particular emphasis is placed on the medical applications of bioelectrics, including tumor ablation, gene electrotransfer, wound healing, decontamination with cold plasma, and treatment of cardiac arrhythmias.
+Prerequisites: ECE 454 or ECE 554 or BIOE 454 or BIOE 554
+BME 755 Biomembranes and Ion Channels (3 Credit Hours)
+This course will give an overview of the structure and dynamics of biomembranes, the ion channels that are embedded in them, and the electrical properties of biomembranes. Topics include molecular dynamics modeling of biomembranes, membrane damage and repair, ion channel dynamics and their experimental assessment using patch clamping, and excitability in neurons and cardiomyocytes.
+Prerequisites: ECE 454 or ECE 554 or BIOL 523
+BME 762 Applied Medical Image Analysis (3 Credit Hours)
+Course explores hands-on exposure to state-of-the-art algorithms in medical image analysis, which builds on open-source software (Insight Segmentation and Registration Toolkit - ITK), as well as the principles of medical image acquisition in the modalities of clinical interest. Medical imaging modalities - X-rays, CT, and MRI/ITK image pipeline; image enhancement, feature detection; segmentation - basic techniques, feature-based classification and clustering, graph cuts, active contour and surface models; surface and volume meshing; registration - transformations, similarity criteria; shape and appearance models are all explored and discussed in this course.
+Prerequisites: Knowledge of C++ and object-oriented programming
+BME 783 Digital Image Processing (3 Credit Hours)
+Principles and techniques of two-dimensional processing of images.  Concepts of scale and spatial frequency.  Image filtering in spatial and transform domains.  Applications include image enhancement and restoration, image compressing, biomedical imaging for diagnosis of disease, and image segmentation for computer vision.
+Prerequisites: ECE 782 or ECE 882
+BME 792 Biomechanics (3 Credit Hours)
+The purpose of this course is to achieve a broad overview of biomechanics, focused on the musculoskeletal system. Students will explore multiscale mechanics, including whole-body movement and mechanical properties of the structures in the musculoskeletal system.  Additionally, students will survey the experimental methods and computational modeling techniques used in biomechanics research.
+Prerequisites: MATH 212 or equivalent
+BME 794 Cellular Biomechanics (3 Credit Hours)
+A broad introduction to the field of cellular biomechanics. Topics include overview of cell architecture, cytoskeleton, adhesion and molecular motors, biomolecular/biopolymer dynamics and mechanics, techniques to measure cell mechanical properties, techniques to mechanically stimulate cells, models of cell mechanical behavior, mechanobiology and mechanotransduction. Will include discussion of classic and current research articles.  Course content will aim to cater to students with diverse backgrounds – students with biological science background will be exposed to physical science concepts and analysis; students with engineering/physical science background will be exposed to biological phenomena and concepts.
+Pre- or corequisite: MATH 212
+BME 795 Special Topics in Biomedical Engineering (1-3 Credit Hours)
+Special courses covering selected graduate-level topics in biomedical engineering.
+BME 797 Independent Study (1-3 Credit Hours)
+This course allows students to develop specialized expertise by independent study (supervised by a faculty member).
+Prerequisites: departmental approval
+BME 820 Modern Biomedical Instrumentation (3 Credit Hours)
+This course covers the design of modern biomedical instruments including select diagnostic, assistive, therapeutic, prosthetic, imaging, and virtual devices and systems.  Techniques for mechanical, electrical, and chemical sensor and transducer design; stimulation and measurement; data acquisition; digital signal processing; and data visualization will be examined.
+BME 821 Mathematical Modeling in Physiology (3 Credit Hours)
+This course on mathematical modeling in human physiology emphasizes the development of mathematical models, their implementation, and the interpretation of simulation data.  The course focuses on cellular physiology, including membrane channels, excitability, and calcium dynamics; it also covers intercellular communication and spatially distributed systems.
+BME 824 Neural Engineering (3 Credit Hours)
+This course presents engineering techniques for the restoration and augmentation of human function via direct interactions between the nervous system and artificial devices, with particular emphasis on brain-computer interfaces.  Novel interfaces, hardware and computational issues, and practical and ethical considerations will also be covered.
+BME 826 Biomaterials (3 Credit Hours)
+This course cover fundamental principles and properties of biomedical materials used as implants, prostheses, orthosis, and tissue-engineered materials as medical devices in contact with tissues and organs. Advanced concepts of biocompatibility and material characterization will be discussed. Physiological response factors associated with materials and implanted devices used in the human body will be presented, including immunological responses, wound healing, clotting cascade and surface compatibility. Other topics such as ethical considerations and medical device regulatory mechanisms will be discussed.
+BME 830 Predoctoral Fellowship Grant Writing (1 Credit Hour)
+This course provides students important tools and experience in the vital grantsmanship area, which is needed to succeed in the competitive academic landscape. Students will be exposed to information regarding major predoctoral fellowships including NIH, NSF, DoD, and AHA, culminating in a grant proposal submission to the appropriate institution.
+BME 840 Regenerative Medicine (3 Credit Hours)
+This course covers a range of active research topics in regenerative medicine, including therapeutic applications of biomaterials, tissue and stem cell engineering, gene therapy and bioelectrics, with emphasis on structure-function relationships of biological systems.  Upon completion of the course students should leave with a thorough understanding of biological systems structure-function relationships and associated biomimetic therapeutic approaches in regenerative medicine.
+Prerequisites: BIOL 240 or BIOL 250 and MATH 200 or MATH 205 or MATH 211
+BME 841 Principles of Visualization (3 Credit Hours)
+Well-designed graphical media capitalizes on human facilities for processing visual information and thereby improves comprehension, memory, inference, and decision making. This course teaches techniques and algorithms for creating effective visualizations based on principles and techniques from graphic design, visual art, perceptual psychology and cognitive science. Both users and developers of visualization tools and systems will benefit from this course.
+BME 847 Responsible Conduct of Research (2 Credit Hours)
+The course will introduce students to the responsible conduct of science and scientific research.
+BME 851 Computational and Statistical Methods in Biomedical Engineering (3 Credit Hours)
+This course covers the theoretical foundation and application of commonly used techniques in biomedical engineering.  Topics include linear algebra, partial differential equations, regression analysis, applied probabilities, multivariate distributions, Bayesian statistics, hypothesis tests, multiple comparisons, ANOVA, solution of non-linear equations, numerical methods and optimization. Programming software will be used to perform simulations and analyze biomedical data.
+Prerequisites: Graduate status
+BME 854 Advanced Bioelectrics (3 Credit Hours)
+Bioelectrics is a new field encompassing both the science and technology of applying electrical stimuli to biological systems. This course covers the pulsed power technology that is required to generate electrical stimuli as well as the biological responses they evoke in cells and tissues. Particular emphasis is placed on the medical applications of bioelectrics, including tumor ablation, gene electrotransfer, wound healing, decontamination with cold plasma, and treatment of cardiac arrhythmias.
+Prerequisites: ECE 454 or ECE 554 or BIOE 454 or BIOE 554
+BME 855 Biomembranes and Ion Channels (3 Credit Hours)
+This course will give an overview of the structure and dynamics of biomembranes, the ion channels that are embedded in them, and the electrical properties of biomembranes. Topics include molecular dynamics modeling of biomembranes, membrane damage and repair, ion channel dynamics and their experimental assessment using patch clamping, and excitability in neurons and cardiomyocytes.
+Prerequisites: ECE 454 or ECE 554 or BIOL 523
+BME 862 Applied Medical Image Analysis (3 Credit Hours)
+Course explores hands-on exposure to state-of-the-art algorithms in medical image analysis, which builds on open-source software (Insight Segmentation and Registration Toolkit - ITK), as well as the principles of medical image acquisition in the modalities of clinical interest. Medical imaging modalities - X-rays, CT, and MRI/ITK image pipeline; image enhancement, feature detection; segmentation - basic techniques, feature-based classification and clustering, graph cuts, active contour and surface models; surface and volume meshing; registration - transformations, similarity criteria; shape and appearance models are all explored and discussed in this course.
+Prerequisites: Knowledge of C++ and object-oriented programming
+BME 883 Digital Image Processing (3 Credit Hours)
+Principles and techniques of two-dimensional processing of images.  Concepts of scale and spatial frequency.  Image filtering in spatial and transform domains.  Applications include image enhancement and restoration, image compressing, biomedical imaging for diagnosis of disease, and image segmentation for computer vision.
+Prerequisites: ECE 783 and ECE 883
+BME 892 Biomechanics (3 Credit Hours)
+The purpose of this course is to achieve a broad overview of biomechanics, focused on the musculoskeletal system. Students will explore multiscale mechanics, including whole-body movement and mechanical properties of the structures in the musculoskeletal system.  Additionally, students will survey the experimental methods and computational modeling techniques used in biomechanics research.
+Prerequisites: MATH 212 or equivalent
+BME 894 Cellular Biomechanics (3 Credit Hours)
+A broad introduction to the field of cellular biomechanics. Topics include overview of cell architecture, cytoskeleton, adhesion and molecular motors, biomolecular/biopolymer dynamics and mechanics, techniques to measure cell mechanical properties, techniques to mechanically stimulate cells, models of cell mechanical behavior, mechanobiology and mechanotransduction. Will include discussion of classic and current research articles.  Course content will aim to cater to students with diverse backgrounds – students with biological science background will be exposed to physical science concepts and analysis; students with engineering/physical science background will be exposed to biological phenomena and concepts.
+Pre- or corequisite: MATH 212
+BME 895 Special Topics in Biomedical Engineering (1-3 Credit Hours)
+Special courses covering selected graduate-level topics in biomedical engineering.
+BME 897 Independent Study (1-3 Credit Hours)
+This course allows students to develop specialized expertise by independent study (supervised by a faculty member).
+Prerequisites: departmental approval
+BME 899 PHD Dissertation Research (1-9 Credit Hours)
+Directed research for the doctoral dissertation.
+BME 999 Doctoral Graduate Credit (1 Credit Hour)
+This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.
+Search catalog

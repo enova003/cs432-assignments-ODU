@@ -1,0 +1,225 @@
+MSIM 395 Topics in Modeling and Simulation Engineering (1-3 Credit Hours)
+Special topics of interest with emphasis placed on the recent developments in modeling and simulation engineering.
+Prerequisites: permission of the instructor
+MSIM 396 Topics in Modeling and Simulation Engineering (1-3 Credit Hours)
+Special topics of interest with emphasis placed on the recent developments in modeling and simulation engineering.
+Prerequisites: permission of the instructor
+MSIM 406/506 Introduction to Distributed Simulation (3 Credit Hours)
+An introduction to distributed simulation.  Topics include motivation for using distributed simulation, distributed simulation architectures, time management issues, and distributed simulation approaches.  Current standards for distributed simulation are presented.
+Prerequisites: MSIM 331 or ECE 348
+MSIM 408/508 Introduction to Game Development (3 Credit Hours)
+An introductory course focused on game development theory and modern practices with emphasis on educational game development.  Topics include game architecture, computer graphics theory, user interaction, audio, high level shading language, animation, physics, and artificial intelligence.  The developed games can run on a variety of computer, mobile, and gaming platforms.
+Prerequisites: CS 361 or MSIM 331 or ECE 348
+MSIM 410/510 Model Engineering (3 Credit Hours)
+The goal of this course is to develop understanding of the various modeling paradigms appropriate for capturing system behavior and conducting digital computer simulation of many types of systems. The techniques and concepts discussed typically include UML, concept graphs, Bayesian nets, Markov models, Petri nets, system dynamics, Bond graphs, etc. Students will report on a particular technique and team to implement a chosen system model.  (cross-listed with ECE 410 )
+Pre- or corequisite: MSIM 320 or ECE 320
+MSIM 416/516 Cyber Defense Fundamentals (3 Credit Hours)
+This course focuses on cybersecurity theory, information protection and assurance, and computer systems and networks security. The objectives are to understand the basic security models and concepts, learn fundamental knowledge and tools for building, analyzing, and attacking modern security systems, and gain hands-on experience in cryptographic algorithms, security fundamental principles, and Internet security protocol and standards.
+Prerequisites: ECE 355 or MSIM 470
+MSIM 419/519 Cyber Physical Systems Security (3 Credit Hours)
+Cyber Physical Systems (CPS) integrate computing, networking, and physical processes. The objectives of this course are to learn the basic concepts, technologies and applications of CPS, understand the fundamental CPS security challenges and national security impact, and gain hands-on experience in CPS infrastructures, critical vulnerabilities, and practical countermeasures. Cross-listed with ECE 419 / CYSE 419 .
+Prerequisites: CS 150 or ENGN 150
+MSIM 441/541 Computer Graphics and Visualization (3 Credit Hours)
+The course provides a practical treatment of computer graphics and visualization with emphasis on modeling and simulation applications. It covers digital image and signal processing basics such as sampling and discrete Fourier transform, computer graphics fundamentals, visualization principles, and software architecture for visualization in modeling and simulation. Written communication and information literacy skills are stressed in this course. (Cross listed with ECE 406 /506.) (Offered fall)
+Prerequisites: a grade C or better in CS 361 , ECE 348 , or MSIM 331
+MSIM 451/551 Analysis for Modeling and Simulation (3 Credit Hours)
+An introduction to analysis techniques appropriate to the conduct of modeling and simulation studies.  Topics include input modeling, random number generation, output analysis, variance reduction techniques, and experimental design.  In addition, techniques for verification & validation are introduced.  Course concepts are applied to real systems and data.
+Prerequisites: MSIM 205 or ECE 306 and STAT 330 or ECE 304
+MSIM 462/562 Introduction to Medical Image Analysis (3 Credit Hours)
+Introduction to basic concepts in medical image analysis.  Medical image registration, segmentation, feature extraction, and classification are discussed.  Basic psychophysics, fundamental ROC analysis and FROC methodologies are covered.  Cross-listed with ECE 462 / ECE 562 .
+Prerequisites: Junior standing
+MSIM 463/563 Design and Modeling of Autonomous Robotic Systems (3 Credit Hours)
+This course focuses on autonomous robotics systems with emphasis on using modeling and simulation (M&S) for system level design and testing. Fundamental concepts associated with autonomous robotic systems are discussed. Course topics include: robotic control, architectures, and sensors as well as more advanced concepts such as error propagation, localization, mapping and autonomy. Design strategies that leverage M&S to accelerate the development and testing of sophisticated autonomous robotic algorithms for individual or teams of robots are covered.
+Prerequisites: CS 150 or ENGN 150
+MSIM 470/570 Foundations of Cyber Security (3 Credit Hours)
+Course provides an overview of theory, tools and practice of cyber security and information assurance through prevention, detection and modeling of cyber attacks and recovery from such attacks. Techniques for security modeling, attack modeling, risk analysis and cost-benefit analysis are described to manage the security of cyber systems. Fundamental principles of cyber security and their applications for protecting software and information assets of individual computers and large networked systems are explored. Anatomy of some sample attacks designed to compromise confidentiality, integrity and availability of cyber systems are discussed.
+Prerequisites: CS 150 or ENGN 150 and junior standing
+MSIM 474/574 Transportation Data Analytics (3 Credit Hours)
+This course presents the basic techniques for transportation data analytics. It will discuss statistical modeling, prominent algorithms, and visualization approaches to analyze both small- and large-scale data sets generated from transportation systems. Practices of using different data for various real-world traffic/transportation applications and decision making will also be discussed., STAT 330 or ECE 304 ); any programming language such as C, Python or Java is beneficial but not required.
+Prerequisites: Basic probability and statistics (e.g
+MSIM 480/580 Introduction to Artificial Intelligence (3 Credit Hours)
+Introduction to concepts, principles, challenges, and research in major areas of artificial intelligence. Areas of discussion include: natural language and vision processing, machine learning, machine logic and reasoning, robotics, expert and mundane systems. Laboratory work required.
+Prerequisites: Instructor approval
+MSIM 487W Capstone Design I (4 Credit Hours)
+Part one of the senior capstone design experience for modeling and simulation engineering majors. Lectures focus on providing professional orientation and exploration of the M&S design process.  Written communication, oral communication and information literary skills are stressed.  Individual and group design projects focus on the conduct of a complete M&S project.  Industry-sponsored projects are an option.  Individual and team reports and oral presentations are required.  This is a writing intensive course.
+Prerequisites: A grade of C or better in ENGL 211C or ENGL 221C or ENGL 231C ; MSIM 410 , MSIM 331 , and MSIM 451
+MSIM 488 Capstone Design II (3 Credit Hours)
+Part two of the senior capstone design experience for modeling and simulation engineering majors.  Lectures focus on providing professional orientation and exploration of the M&S design process.  Written communication, oral communication and information literacy skills are stressed.  Individual and group design projects focus on the conduct of a complete M&S project.  Industry-sponsored projects are an option.  Individual and team reports and oral presentations are required.
+MSIM 495/595 Topics in Modeling and Simulation Engineering (1-3 Credit Hours)
+Special topics of interest with emphasis placed on recent developments in modeling and simulation engineering.
+Prerequisites: permission of the instructor
+MSIM 496/596 Topics in Modeling and Simulation Engineering (1-3 Credit Hours)
+Special topics of interest with emphasis placed on the recent developments in modeling and simulation engineering.
+Prerequisites: permission of the instructor
+MSIM 497/597 Independent Study in Modeling and Simulation Engineering (3 Credit Hours)
+Individual analytical, computational, and/or experimental study in an area seleted by the student.  Supervised and approved by the advisor.
+Prerequisites: Instructor approval
+MSIM 506 Introduction to Distributed Simulation (3 Credit Hours)
+An introduction to distributed simulation.  Topics include motivation for using distributed simulation, distributed simulation architectures, time management issues, and distributed simulation approaches.  Current standards for distributed simulation are presented.
+Prerequisites: MSIM 331 or ECE 348
+MSIM 508 Introduction to Game Development (3 Credit Hours)
+An introductory course focused on game development theory and modern practices with emphasis on educational game development.  Topics include game architecture, computer graphics theory, user interaction, audio, high level shading language, animation, physics, and artificial intelligence.  The developed games can run on a variety of computer, mobile, and gaming platforms.
+Prerequisites: Requires an understanding of physics and CS 361 , MSIM 331 , or ECE 348
+MSIM 510 Model Engineering (3 Credit Hours)
+The goal of this course is to develop understanding of the various modeling paradigms appropriate for capturing system behavior and conducting digital computer simulation of many types of systems. The techniques and concepts discussed typically include UML, concept graphs, Bayesian nets, Markov models, Petri nets, system dynamics, Bond graphs, etc. Students will report on a particular technique and team to implement a chosen system model. (cross-listed with ECE 510 )
+MSIM 516 Cyber Defense Fundamentals (3 Credit Hours)
+This course focuses on cybersecurity theory, information protection and assurance, and computer systems and networks security. The objectives are to understand the basic security models and concepts, learn fundamental knowledge and tools for building, analyzing, and attacking modern security systems, and gain hands-on experience in cryptographic algorithms, security fundamental principles, and Internet security protocol and standards.  Cross-listed with ECE 516 .
+MSIM 519 Cyber Physical Systems Security (3 Credit Hours)
+Cyber Physical Systems (CPS) integrate computing, networking, and physical processes. The objectives of this course are to learn the basic concepts, technologies and applications of CPS, understand the fundamental CPS security challenges and national security impact, and gain hands-on experience in CPS infrastructures, critical vulnerabilities, and practical countermeasures. Cross-listed with ECE 519 .
+MSIM 541 Computer Graphics and Visualization (3 Credit Hours)
+The course provides a practical treatment of computer graphics and visualization with emphasis on modeling and simulation applications. It covers digital image and signal processing basics such as sampling and discrete Fourier transform, computer graphics fundamentals, visualization principles, and software architecture for visualization in modeling and simulation. Written communication and information literacy skills are stressed in this course. (Cross listed with ECE 506 .) (Offered fall)
+Prerequisites: a grade of C or better in CS 361 , or ECE 348 , or MSIM 331 , or MSIM 603
+MSIM 551 Analysis for Modeling and Simulation (3 Credit Hours)
+An introduction to analysis techniques appropriate to the conduct of modeling and simulation studies.  Topics include input modeling, random number generation, output analysis, variance reduction techniques, and experimental design.  In addition, techniques for verification & validation are introduced.  Course concepts are applied to real systems and data.
+Prerequisites: MSIM 205 or ECE 306 and STAT 330 or ECE 304
+MSIM 562 Introduction to Medical Image Analysis (3 Credit Hours)
+Introduction to basic concepts in medical image analysis.  Medical image registration, segmentation, feature extraction, and classification are discussed.  Basic psychophysics, fundamental ROC analysis and FROC methodologies are covered.  Cross-listed with ECE 462 / ECE 562 .
+MSIM 563 Design and Modeling of Autonomous Robotic Systems (3 Credit Hours)
+Course focuses on autonomous robotics systems with emphasis on using modeling and simulation (M&S) for system level design and testing.  Fundamental concepts associated with autonomous robotic systems are discussed.  Course topics include: robotic control, architectures, and sensors as well as more advanced concepts such as error propagation, localization, mapping and autonomy.  Design strategies that leverage M&S to accelerate the development and testing of sophisticated autonomous robotic algorithms for individual or teams of robots are covered.
+Prerequisites: CS 150 or ENGN 150
+MSIM 570 Foundations of Cyber Security (3 Credit Hours)
+Course provides an overview of theory, tools and practice of cyber security and information assurance through prevention, detection and modeling of cyber attacks and recovery from such attacks. Techniques for security modeling, attack modeling, risk analysis and cost-benefit analysis are described to manage the security of cyber systems. Fundamental principles of cyber security and their applications for protecting software and information assets of individual computers and large networked systems are explored. Anatomy of some sample attacks designed to compromise confidentiality, integrity and availability of cyber systems are discussed.
+Prerequisites: CS 150 or ENGN 150
+MSIM 574 Transportation Data Analytics (3 Credit Hours)
+This course presents the basic techniques for transportation data analytics. It will discuss statistical modeling, prominent algorithms, and visualization approaches to analyze both small- and large-scale data sets generated from transportation systems. Practices of using different data for various real-world traffic/transportation applications and decision making will also be discussed., STAT 330 or ECE 304 ); any programming language such as C, Python or Java is beneficial but not required.
+Prerequisites: Basic probability and statistics (e.g
+MSIM 580 Introduction to Artificial Intelligence (3 Credit Hours)
+Introduction to concepts, principles, challenges, and research in major areas of artificial intelligence. Areas of discussion include: natural language and vision processing, machine learning, machine logic and reasoning, robotics, expert and mundane systems. Laboratory work required.
+Prerequisites: Instructor approval
+MSIM 595 Topics in Modeling and Simulation Engineering (3 Credit Hours)
+Special topics of interest with emphasis placed on recent developments in modeling and simulation engineering.
+MSIM 596 Topics in Modeling and Simulation Engineering (1-3 Credit Hours)
+Special topics of interest with emphasis placed on the recent developments in modeling and simulation engineering.
+Prerequisites: permission of the instructor
+MSIM 597 Independent Study in Modeling and Simulation Engineering (3 Credit Hours)
+Individual analytical, computational, and/or experimental study in an area selected by the student.  Supervised and approved by the advisor.
+MSIM 601 Introduction to Modeling and Simulation (3 Credit Hours)
+Modeling and simulation (M&S) discipline surveyed at an overview level of detail.  Basic terminology, modeling methods, and simulation paradigms are introduced.  Applications of M&S in various disciplines are discussed.  The course provides a general conceptual framework for those interested in using M&S and for further studies in M&S.  Not open to MSVE degree seeking students.
+Prerequisites: graduate standing; undergraduate exposure to calculus and probability & statistics
+MSIM 602 Simulation Fundamentals (3 Credit Hours)
+An introduction to the modeling and simulation discipline.  Introduction to discrete event simulation (DES) including simulation methodology, input data modeling, output data analysis, and an overview of DES tools.  Introduction to continuous simulation (CS) including simulation methodology, differential equation models, numerical solution techniques, and an overview of CS tools.
+Prerequisites: graduate standing; undergraduate preparation in calculus and probability & statistics; and computer literacy
+MSIM 603 Simulation Design (3 Credit Hours)
+Course develops the computer software skills necessary for the design and development of simulation software.  Topics covered include software architectures, software engineering, software design, object-oriented programming, abstract data types and classes, data structures, algorithms, and testing and debugging techniques.  Software design and development of simulation systems (discrete-event, continuous, and Monte Carlo) are emphasized.
+Prerequisites: MSIM 602 and an introductory computer programming course
+MSIM 607 Machine Learning I (3 Credit Hours)
+Course provides a practical treatment of design, analysis, implementation and applications of algorithms. Topics include multiple learning models: linear models, neural networks, support vector machines, instance-based learning, Bayesian learning, genetic algorithms, ensemble learning, reinforcement learning, unsupervised learning, etc. (Cross listed with ECE 607 )
+MSIM 660 System Architecture and Modeling (3 Credit Hours)
+Students will learn the essential aspects of the system architecture paradigm through environment and analysis of multiple architecture framework and enterprise engineering, such as IDEFO, TOGAF, DODAF and OPM. Emphasis on system modeling and enterprise engineering.  (Cross listed with ENMA 660 )
+MSIM 667 Cooperative Education (1-3 Credit Hours)
+Available for pass/fail grading only.  Student participation for credit based on academic relevance of the work experience, criteria, and evaluation procedures as formally determined by the program and the Cooperative Education/Career Development Services program prior to the semester in which the work experience is to take place.
+MSIM 668 Internship (1-3 Credit Hours)
+Academic requirements will be established by the department and will vary with the amount of credit desired. Allows students an opportunity to gain short duration career-related experience.
+Prerequisites: Approval by department and Career Development Services
+MSIM 669 Practicum (1-3 Credit Hours)
+Academic requirements will be established by the graduate program director and will vary with the amount of credit desired.  Allows students an opportunity to gain short-duration career related experience.  Student is usually employed–this is an additional project beyond the duties of the student’s employment.
+MSIM 670 Cyber Systems Engineering (3 Credit Hours)
+This course provides an overview of functioning of cyber systems including how a computer interacts with the outside world. The composition of critical infrastructure and functioning of different engineered systems that form critical infrastructure are discussed. Mutual dependence and interactions between cyber systems and other engineered systems and the resulting security risks are also explored. (Cross-listed with ENMA 670 .)
+MSIM 673 Threat Modeling and Risk Analysis (3 Credit Hours)
+This course discusses how to develop cyber threat models using attack graphs/trees, STRIDE, Universal Modeling Language (UML), attack graphs/trees and common of risk analysis tools. Course also discusses the need for quantitative security analysis and formal validation of security models and basic principles of formal model validation. (Cross-listed with ENMA 673.)
+MSIM 695 Topics in Modeling and Simulation (3 Credit Hours)
+Special topics of interest with emphasis placed on recent developments in modeling and simulation.
+MSIM 697 Independent Study in Modeling and Simulation (3 Credit Hours)
+Individual study selected by the student.  Supervised and approved by a faculty member with the approval of the graduate program director.
+Prerequisites: permission of instructor or graduate program director
+MSIM 699 Thesis (1-6 Credit Hours)
+Research leading to the Master of Science thesis.
+Prerequisites: permission of instructor and graduate program director
+MSIM 702 Systemic Decision Making (3 Credit Hours)
+As machine age problems have given way to systems age messes, the underlying complexity associated with understanding these situations has increased exponentially.  Accordingly, the methods we use to address these situations must evolve as well.  This course will introduce students to a method for thinking holistically about problems and messes conceptually founded in systems theory.  This paradigm, known as systemic thinking, will be contrasted with traditional systematic thinking, and practical guidelines for the deployment of a systemic thinking approach will be provided.  This paradigm will increase the student's ability to make rational decisions in complex environments.  (Cross listed with ENMA 702 ).
+MSIM 703 Optimization Methods (3 Credit Hours)
+Covers advanced methods in Operations Research and Optimization. Focus will be on developing models and their applications in different domains including manufacturing and service. Modern optimization tools will be used to implement models for case studies, projects and research papers. The knowledge of programming and spreadsheets is expected. Contact instructor for more details. (Cross-listed with ENMA 703 ).
+MSIM 711 Finite Element Analysis (3 Credit Hours)
+The purpose of the course is to provide an understanding of the finite element method (FEM) as derived from an integral formulation perspective.  The course will demonstrate the solutions of (1-D and 2-D) continuum mechanics problems such as solid mechanics, fluid mechanics and heat transfer.
+Prerequisites: permission of the instructor
+MSIM 715 High Performance Computing Simulation and Data Analytics (3 Credit Hours)
+Introduction to modern high performance computing platforms including top supercomputers and accelerators. Discussion of parallel architectures, performance, programming models, and software development issues. Case studies of scientific and engineering simulations will be explored. Students will have an opportunity to work on parallelization of problems from their research areas. Project presentations are required.
+MSIM 722 Cluster Parallel Computing (3 Credit Hours)
+This course provides detailed numerical step-by-step procedures to exploit parallel and sparse computation under MPI (Message Passing Interface) computer environments.  Large-scale engineering/science applications are emphasized.  Simultaneous linear equations are discussed.
+MSIM 725 Principles of Combat Modeling and Simulation (3 Credit Hours)
+Principles of combat modeling and simulation.  Introduction including history, basic definitions, and best practice.  Algorithms for modeling movement, sensing effects and behavior.  Overview of modern combat models.  Interoperability and integration into operational environments.
+Prerequisites: MSIM 603
+MSIM 730 Simulation Formalisms (3 Credit Hours)
+The focus of the course is on identification and investigation of mathematical and logical structures that form the foundation for computational simulation.  Topics include: foundations of simulation theory in logic, discrete mathematics, and computability; simulation formalisms, including DEVS; interoperability protocols; and computational complexity.
+MSIM 741 Principles of Visualization (3 Credit Hours)
+Well-designed graphical media capitalizes on human facilities for processing visual information and thereby improves comprehension, memory, inference, and decision making.  This course teaches techniques and algorithms for creating effective visualizations based on principles and techniques from graphic design, visual art, perceptual psychology and cognitive science.  Both users and developers of visualization tools and systems will benefit from this course.
+MSIM 742 Synthetic Environments (3 Credit Hours)
+The course covers the theory and techniques for building effective and efficient synthetic environments for modeling and simulation applications. Topics include physics, artificial intelligence, virtual reality, and advanced modeling and rendering. The emphasis is on producing visually realistic synthetic environments based on effective approximations of physics and other related principles.
+Prerequisites: MSIM 541 or equivalent
+MSIM 751 Advanced Analysis for Modeling and Simulation (3 Credit Hours)
+An introduction to stochastic dependence and Bayesian analysis techniques for conducting modeling and simulation studies. Topics include: measures of dependence, common multivariate distributions, sampling from multivariate distributions, elementary time series models and Bayesian statistics.
+Prerequisites: MSIM 451 or MSIM 551
+MSIM 762 Applied Medical Image Analysis (3 Credit Hours)
+Course explores hands-on exposure to state-of-the-art algorithms in medical image analysis, which builds on open-source software (Insight Segmentation and Registration Toolkit - ITK), as well as the principles of medical image acquisition in the modalities of clinical interest. Medical imaging modalities - X-rays, CT, and MRI/ITK image pipeline; image enhancement, feature detection; segmentation - basic techniques, feature-based classification and clustering, graph cuts, active contour and surface models; surface and volume meshing; registration - transformations, similarity criteria; shape and appearance models are all explored and discussed in this course.
+Prerequisites: Knowledge of C++ and object-oriented programming
+MSIM 772 Modeling Global Events (3 Credit Hours)
+Modeling Global Events introduces modeling and simulation as a tool for expanding our understanding of events that have shaped the global environment of the 21st century.  Students will review real-world case studies and then analyze these case studies via system dynamics, agent-based, social network, and game theory modeling paradigms. This course is designed to develop empirical research skills, conceptual modeling expertise, and model construction.  Students will understand how to analyze, verify, and validate a model.
+MSIM 774 Transportation Network Flow Models (3 Credit Hours)
+This course provides a rigorous introduction to transportation network modeling, with special emphasis on network equilibrium problems. Topics include: elementary graph theory, shortest path problem nonlinear optimization, optimization of univariate functions, deterministic and stochastic user equilibrium. (Cross-listed with CEE 774 ).
+MSIM 775 Transportation Network Algorithms (3 Credit Hours)
+Fundamental models and algorithms in optimization, stochastic modeling and parallel computing will be discussed and illustrated with transportation applications. (Cross-listed with CEE 775 )
+MSIM 776 Simulation Modeling in Transportation Networks (3 Credit Hours)
+Principles of simulation modeling, microscopic, mesoscopic, and macroscopic traffic simulation models.  Course explores diver behavior in networks, calibration and validation of traffic simulation models, and use of traffic simulation software. (Cross-listed with CEE 776 )
+MSIM 780 Machine Learning II (3 Credit Hours)
+Advanced topics in machine learning and pattern recognition systems. Data reduction techniques including principle component analysis, independent component analysis and manifold learning. Introduction to sparse coding and deep learning for data representation and feature extraction. (Cross-listed with ECE 780 )
+Prerequisites: MSIM 607 or equivalent
+MSIM 795 Topics in Modeling and Simulation (3 Credit Hours)
+Special topics of interest with emphasis placed on recent developments in modeling and simulation.
+MSIM 797 Independent Study in Modeling and Simulation (3 Credit Hours)
+Individual study selected by the student.  Supervised and approved by a faculty member with the approval of the graduate program director.
+Prerequisites: permission of instructor or graduate program director
+MSIM 802 Systemic Decision Making (3 Credit Hours)
+As machine age problems have given way to systems age messes, the underlying complexity associated with understanding these situations has increased exponentially.  Accordingly, the methods we use to address these situations must evolve as well.  This course will introduce students to a method for thinking holistically about problems and messes conceptually founded in systems theory.  This paradigm, known as systemic thinking, will be contrasted with traditional systematic thinking, and practical guidelines for the deployment of a systemic thinking approach will be provided.  This paradigm will increase the student's ability to make rational decisions in complex environments.  (Cross listed with ENMA 802 ).
+MSIM 803 Optimization Methods (3 Credit Hours)
+Covers advanced methods in Operations Research and Optimization. Focus will be on developing models and their applications in different domains including manufacturing and service. Modern optimization tools will be used to implement models for case studies, projects and research papers. The knowledge of programming and spreadsheets is expected. Contact instructor for more details. (Cross-listed with ENMA 803 ).
+MSIM 811 Finite Element Analysis (3 Credit Hours)
+The purpose of the course is to provide an understanding of the finite element method (FEM) as derived from an integral formulation perspective.  The course will demonstrate the solutions of (1-D and 2-D) continuum mechanics problems such as solid mechanics, fluid mechanics and heat transfer.
+Prerequisites: permission of the instructor
+MSIM 815 High Performance Computing Simulation and Data Analytics (3 Credit Hours)
+Introduction to modern high performance computing platforms including top supercomputers and accelerators. Discussion of parallel architectures, performance, programming models, and software development issues. Case studies of scientific and engineering simulations will be explored. Students will have an opportunity to work on parallelization of problems from their research areas. Project presentations are required.
+MSIM 822 Cluster Parallel Computing (3 Credit Hours)
+This course provides detailed numerical step-by-step procedures to exploit parallel and sparse computation under MPI (Message Passing Interface) computer environments.  Large-scale engineering/science applications are emphasized.  Simultaneous linear equations are discussed.
+MSIM 825 Principles of Combat Modeling and Simulation (3 Credit Hours)
+Principles of combat modeling and simulation.  Introduction including history, basic definitions, and best practice.  Algorithms for modeling movement, sensing effects and behavior.  Overview of modern combat models.  Interoperability and integration into operational environments.
+Prerequisites: MSIM 603
+MSIM 830 Simulation Formalisms (3 Credit Hours)
+The focus of the course is on identification and investigation of mathematical and logical structures that form the foundation for computational simulation.  Topics include: foundations of simulation theory in logic, discrete mathematics, and computability; simulation formalisms, including DEVS; interoperability protocols; and computational complexity.
+MSIM 841 Principles of Visualization (3 Credit Hours)
+Well-designed graphical media capitalizes on human facilities for processing visual information and thereby improves comprehension, memory, inference, and decision making.  This course teaches techniques and algorithms for creating effective visualizations based on principles and techniques from graphic design, visual art, perceptual psychology and cognitive science.  Both users and developers of visualization tools and systems will benefit from this course.
+MSIM 842 Synthetic Environments (3 Credit Hours)
+The course covers the theory and techniques for building effective and efficient synthetic environments for modeling and simulation applications. Topics include physics, artificial intelligence, virtual reality, and advanced modeling and rendering. The emphasis is on producing visually realistic synthetic environments based on effective approximations of physics and other related principles.
+Prerequisites: MSIM 541 or equivalent
+MSIM 851 Advanced Analysis for Modeling and Simulation (3 Credit Hours)
+An introduction to stochastic dependence and Bayesian analysis techniques for conducting modeling and simulation studies. Topics include: measures of dependence, common multivariate distributions, sampling from multivariate distributions, elementary time series models and Bayesian statistics.
+Prerequisites: MSIM 451 or MSIM 551
+MSIM 862 Applied Medical Image Analysis (3 Credit Hours)
+Course explores hands-on exposure to state-of-the-art algorithms in medical image analysis, which builds on open-source software (Insight Segmentation and Registration Toolkit - ITK), as well as the principles of medical image acquisition in the modalities of clinical interest. Medical imaging modalities - X-rays, CT, and MRI/ITK image pipeline; image enhancement, feature detection; segmentation - basic techniques, feature-based classification and clustering, graph cuts, active contour and surface models; surface and volume meshing; registration - transformations, similarity criteria; shape and appearance models are all explored and discussed in this course.
+MSIM 872 Modeling Global Events (3 Credit Hours)
+Modeling Global Events introduces modeling and simulation as a tool for expanding our understanding of events that have shaped the global environment of the 21st century.  Students will review real-world case studies and then analyze these case studies via system dynamics, agent-based, social network, and game theory modeling paradigms. This course is designed to develop empirical research skills, conceptual modeling expertise, and model construction.  Students will understand how to analyze, verify, and validate a model.
+MSIM 874 Transportation Network Flow Models (3 Credit Hours)
+This course provides a rigorous introduction to transportation network modeling, with special emphasis on network equilibrium problems. Topics include: elementary graph theory, shortest path problem nonlinear optimization, optimization of univariate functions, deterministic and stochastic user equilibrium. (Cross-listed with CEE 874 ).
+MSIM 875 Transportation Network Algorithms (3 Credit Hours)
+Fundamental models and algorithms in optimization, stochastic modeling and parallel computing will be discussed and illustrated with transportation applications. (Cross-listed with CEE 875 )
+MSIM 876 Simulation Modeling in Transportation Networks (3 Credit Hours)
+Principles of simulation modeling, microscopic, mesoscopic, and macroscopic traffic simulation models.  Course explores driver behavior in networks, calibration and validation of traffic simulation models, and use of traffic simulation software. (Cross-listed with CEE 876 )
+MSIM 880 Machine Learning II (3 Credit Hours)
+Advanced topics in machine learning and pattern recognition systems. Data reduction techniques including principle component analysis, independent component analysis and manifold learning. Introduction to sparse coding and deep learning for data representation and feature extraction. (Cross-listed with ECE 880 )
+Prerequisites: MSIM 607 or equivalent
+MSIM 892 Doctor of Engineering Project (1-9 Credit Hours)
+Directed individual study applying advanced level technical knowledge to identify, formulate and solve a complex, novel problem in Modeling and Simulation.
+MSIM 895 Topics in Modeling and Simulation (3 Credit Hours)
+Special topics of interest with emphasis placed on recent developments in modeling and simulation.
+MSIM 897 Independent Study in Modeling and Simulation (1-3 Credit Hours)
+Individual study selected by the student.  Supervised and approved by a faculty member with the approval of the graduate program director.
+Prerequisites: permission of the instructor or graduate program director
+MSIM 898 Research in Modeling and Simulation (1-12 Credit Hours)
+Supervised research prior to passing Ph.D. candidacy exam.
+Prerequisites: permission of the instructor and graduate program director
+MSIM 899 Dissertation (1-12 Credit Hours)
+Directed research for the doctoral dissertation.
+Prerequisites: permission of the instructor and graduate program director
+MSIM 998 Master's Graduate Credit (1 Credit Hour)
+This course is a pass/fail course for master's students in their final semester. It may be taken to fulfill the registration requirement necessary for graduation.  All master's students are required to be registered for at least one graduate credit hour in the semester of their graduation.
+MSIM 999 Doctoral Graduate Credit (1 Credit Hour)
+This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.
+Search catalog

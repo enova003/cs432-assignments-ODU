@@ -1,0 +1,163 @@
+Astrophysics (ASTP)
+ASTP 103N Introductory Astronomy of the Solar System (4 Credit Hours)
+A study of the physical principles and scientific investigation of objects in our solar system. Emphasis on how we acquire knowledge of celestial objects to develop models of our universe.
+ASTP 104N Introductory Astronomy of Galaxies and Cosmology (4 Credit Hours)
+Emphasizes the study of stars, star systems, cosmology and relativity. Emphasis on how we acquire knowledge of celestial objects to develop models of our universe.
+ASTP 108 Intro Astronomy Solar Sys Lab (1 Credit Hour)
+An introductory laboratory course in astronomy dealing with experiments about the laws of nature that apply to objects in our solar system. This course is intended for students with previous transfer credit for an Introductory Astronomy of the Solar System Lecture course.
+Prerequisites: Written permission of the chief departmental advisor of the Physics Department
+ASTP 109 Intro Astron Galaxy/Cosmo Lab (1 Credit Hour)
+A laboratory course in astronomy dealing with experiments about the laws of nature that apply to galaxies and the cosmos as a whole. This course is intended for students with previous transfer credit for an Introductory Astronomy of Stars, Galaxies and the Cosmos Lecture course.
+Prerequisites: Written permission of the chief departmental advisor of the Physics Department
+ASTP 126N Honors: Introductory Astronomy of the Solar System (4 Credit Hours)
+Open only to students in the Honors College. A special honors version of ASTP 103N .
+ASTP 127N Honors: Introductory Astronomy of Galaxies and Cosmology (4 Credit Hours)
+Open only to students in the Honors College. A special honors version of ASTP 104N .
+ASTP 313 Elements of Astrophysics (3 Credit Hours)
+A one-semester course covering the important topics of modern astrophysics. The elementary physical basis of stellar structure and evolution is derived from first principles. Theoretical and observational details of white dwarfs, neutron stars, pulsars, and black holes are developed. Elements of Big Bang cosmology are also presented.
+Prerequisites: PHYS 232N or PHYS 227N or PHYS 262N
+ASTP 406/506 Observational Astronomy (3 Credit Hours)
+Observational techniques in astronomy with emphasis on constellation identification, celestial movements, and telescopic observation.  Individualized night observations are required.
+Prerequisites: Junior standing
+ASTP 408/508 Astronomy for Teachers (3 Credit Hours)
+A course in astronomy dealing with stars and stellar systems. Topics will include observational astronomy, the electromagnetic spectrum, relativity, stellar and galactic structures, cosmology, and the search for extraterrestrial intelligence.
+Prerequisites: Junior Standing
+ASTP 414 Relativity and Cosmology (3 Credit Hours)
+Introduction to special and general relativity and cosmology. The course covers the current understanding of the structure and evolution of the Universe. The most important unsolved cosmological problems will be discussed, as well as current efforts/theories that may lead to the solution. Special and general relativity, Einstein's field equations, Friedmann-Lemaitre-Robertson-Walker metric, Friedmann’s equations, Schwarzschild solution and black holes, Big Bang, cosmic microwave background radiation, dark matter and dark energy are covered.
+Prerequisites: PHYS 232N or PHYS 227N or PHYS 262N and MATH 312 or MATH 307
+ASTP 495/595 Special Topics in Astrophysics (3 Credit Hours)
+In-depth study of a selected topic in astrophysics at the advanced undergraduate level. May include a laboratory or computational component.
+Prerequisites: Permission of the instructor
+Physics (PHYS)
+PHYS 101N Conceptual Physics (4 Credit Hours)
+An introductory descriptive course which develops and illustrates the concepts of physics in terms of phenomena encountered in daily life.  Topics include mechanics, electricity and magnetism.  (offered fall, summer)
+PHYS 102N Conceptual Physics (4 Credit Hours)
+An introductory descriptive course which develops and illustrates the concepts of physics in terms of phenomena encountered in daily life.  Topics include sound, light, fluids and heat.  (offered spring)
+Prerequisites: PHYS 101N
+PHYS 111N Introductory General Physics (4 Credit Hours)
+Emphasizes mechanics, wave motion and heat and will also cover the needed elements of trigonometry and vectors.  Students receiving credit for PHYS 111N cannot receive credit for PHYS 102N either simultaneously or subsequently. (offered fall, spring, summer)
+PHYS 112N Introductory General Physics (4 Credit Hours)
+Emphasizes electricity, light, and introduction to modern physics. (offered fall, spring, summer)
+PHYS 113 Physics Laboratory (1 Credit Hour)
+Available for pass/fail grading only.  An introductory laboratory covering experiments from mechanics, wave motion, heat and sound.
+Prerequisites: written permission of the chief departmental advisor of the Physics Department
+PHYS 114 Physics Laboratory (1 Credit Hour)
+Available for pass/fail grading only.  An introductory laboratory covering experiments from electricity, magnetism, and optics.
+Prerequisites: written permission of the chief departmental advisor of the Physics Department
+PHYS 120 Physics in the 21st Century (1 Credit Hour)
+This seminar will provide students with a broad introduction to the cutting edge of physics research and its applications in diverse areas of contemporary physics.  Recommended for incoming students interested in physics and the natural sciences.
+PHYS 137T Introduction to Quantum Science and Technology (3 Credit Hours)
+Quantum mechanics has had an enormous impact on society since its discovery nearly a century ago and has been instrumental in developing technology such as transistors and lasers. This course will explore the potential benefits of emerging quantum technologies, how they will impact present and future society, and the technical challenges posed in implementing them. Students will develop a conceptual understanding of these technologies and their fundamental underlying principles of superposition, interference, and entanglement. Topics include quantum computing, quantum communications, and quantum sensing. These ideas will be explored quantitatively using basic algebra. It is strongly recommended that students have passed a college-level math class.
+PHYS 197 Undergraduate Research Experience in Physics (0 Credit Hours)
+Student participation in a supervised, undergraduate research experience for which credit will not apply to the degree.  Experience must be related to the student's major, minor or career area of interest.
+Prerequisites: permission of the instructor
+PHYS 226N Honors: University Physics I (4 Credit Hours)
+Open only to students in the Honors College.  A special honors version of PHYS 231N .  This course also includes a Recitation Section for more in-depth discussion of advanced problems.
+Prerequisites: MATH 211 with a grade of C or better
+Pre- or corequisite: MATH 212
+PHYS 227N Honors: University Physics II (4 Credit Hours)
+Open only to students in the Honors College.  A special honors version of PHYS 232N , including a recitation section for discussion of advanced problems.
+Prerequisites: PHYS 231N or PHYS 226N or PHYS 261N with a grade of C or better, and both MATH 211 and MATH 212 each with a grade of C or better
+PHYS 231N University Physics I (4 Credit Hours)
+A general introduction to physics in which the principles of classical and modern physics are applied to the solution of physical problems. The reasoning through which solutions are obtained is stressed. Topics include mechanics, fluids, and thermodynamics. This course is designed for majors in the physical sciences, engineering, mathematics, and computational sciences. Students receiving credit for PHYS 231N and PHYS 232N cannot simultaneously or subsequently receive credit for PHYS 101N and PHYS 102N or PHYS 111N and PHYS 112N . (offered fall, spring, summer)
+Prerequisites: MATH 211 with a grade of C or better
+Pre- or corequisite: MATH 212 or permission of instructor
+PHYS 232N University Physics II (4 Credit Hours)
+A general introduction to physics in which the principles of classical and modern physics are applied to the solution of physical problems.  The reasoning through which solutions are obtained is stressed.  This course is designed for majors in the physical sciences, engineering, mathematics, and computational sciences. Topics include electricity and magnetism, and optics.  Students receiving credit for PHYS 231N and PHYS 232N cannot simultaneously or subsequently receive credit for PHYS 101N and PHYS 102N or PHYS 111N and PHYS 112N . (offered fall, spring, summer)
+Prerequisites: PHYS 231N or PHYS 226N or PHYS 261N with a grade of C or better, and both MATH 211 and MATH 212 with each a grade of C or better
+PHYS 261N Advanced University Physics I (4 Credit Hours)
+This calculus-based course is the required introductory course for Physics majors.  In addition to the physics curriculum of PHYS 231N , this course has a recitation section for advanced problems and additional mathematical preparation for advanced courses in physics.
+Prerequisites: MATH 211 , with a grade of C or better
+Pre- or corequisite: MATH 212
+PHYS 262N Advanced University Physics II (4 Credit Hours)
+This calculus-based course is the required introductory course for Physics majors. In addition to the physics curriculum of PHYS 232N , this course has a recitation section for advanced problems and additional mathematical preparation for advanced courses in physics.
+Prerequisites: PHYS 261N with a grade of C or better; MATH 211 and MATH 212 , each with a grade of C or better
+PHYS 297 Undergraduate Research I (1-3 Credit Hours)
+This course offers students at the Freshman and Sophomore levels their first opportunity to work one-on-one with a research mentor to acquire and develop skills in research techniques, information literacy, research planning, proposal preparation and report writing. Research experiences may include but are not limited to hands-on instrument control to collect and analyze data, including graphical, statistical and error analysis of their data. Students will also be instructed on accepted methods for dissemination of data, including written, oral and poster presentation, as well as procedures for research proposal preparation and submission. Students will be required to deliver to their peers and department faculty at the end of semester an oral and written presentation of their research, as well as a poster presentation at an annual department or university event including the ODU Undergraduate Research Symposium.
+Prerequisites: Permission of the instructor
+Pre- or corequisite: PHYS 226N or PHYS 231N or PHYS 261N
+PHYS 303 Intermediate Experimental Physics (3 Credit Hours)
+A laboratory-oriented course designed to provide students with a broad introduction to instrumentation and techniques used in modern physics laboratories. Topics to be covered include: basic electronics with an introduction to diode, transistor and op-amp circuitry, and an introduction to physical computing using LabView and Arduino micro controllers.
+Prerequisites: PHYS 232N or PHYS 227N or PHYS 262N
+PHYS 309 Physics on the Back of an Envelope (1 Credit Hour)
+Physicists should be able to estimate the order-of-magnitude of anything.  How many atoms of Julius Caesar do you eat every day?  How much waste does a nuclear power plant generate?   Will develop concepts, relations and numbers useful for estimation.  Will cover little new material, emphasizing already acquired knowledge.  Will help students apply physics to real-life questions and understand which physical effects are appropriate on which scales.  Seminar course.
+Prerequisites: PHYS 102N or PHYS 112N or PHYS 232N or PHYS 227N or PHYS 262N
+PHYS 319 Analytical Mechanics (3 Credit Hours)
+Fundamentals of Newtonian mechanics.  Topics include kinematics, dynamics, energy and momentum, central forces and planetary motion, and resonance phenomena.  (Offered Spring)
+Pre- or corequisite: MATH 307 or MATH 280
+PHYS 323 Modern Physics (3 Credit Hours)
+Introduction to the wave nature of matter, with applications in materials science, atomic, and nuclear physics.  Introduction to relativity, including applications in mechanics and electrodynamics.  (Offered Fall)
+Prerequisites: PHYS 232N or PHYS 227N or PHYS 262N and MATH 212
+PHYS 355 Mathematical Methods of Physics (3 Credit Hours)
+This course will provide a strong foundation in the mathematical methods and applications necessary for undergraduate study of physics beyond the introductory level. The course contains a mandatory recitation section. (Offered Fall)
+Pre- or corequisite: MATH 312 or MATH 285
+PHYS 367 Cooperative Education (1-3 Credit Hours)
+May be repeated for credit.  Available for pass/fail grading only.  Student participation for credit based on the academic relevance of the work experience, criteria, and evaluative procedures as formally determined by the department and Career Development Services prior to the semester in which the work experience is to take place.
+Prerequisites: approval of the chief departmental advisor and Career Development Services in accordance with the policy for granting credit for Cooperative Education programs
+PHYS 368 Internship (1-3 Credit Hours)
+Available for pass/fail grading only.  Academic requirements will be established by the department and will vary with the amount of credit desired.  Allows students to gain short duration career-related experience.
+Prerequisites: approval by the chief departmental advisor and Career Development Services
+PHYS 397 Undergraduate Research II (1-3 Credit Hours)
+This course offers students at the Sophomore and Junior levels an opportunity to work one-on-one with a research mentor on a self-designed research project of mutual interest, and typically within the research field of their mentor. The student will demonstrate their knowledge of the research skills covered in PHYS 297 by formulating their own research plan and then collecting and analyzing their data. Students will also be instructed in research publication skills as well as conference standard presentation techniques. Students will be required to attend at least two conferences, within and outside the university.
+Prerequisites: PHYS 297 , and PHYS 226N or PHYS 231N or PHYS 261N , and permission of instructor
+PHYS 411 Introduction to Atomic Physics (3 Credit Hours)
+The hydrogen atom, radiative transitions, two-electron systems, many-electron atoms, interaction with external fields, theory of atomic spectra.
+Prerequisites: PHYS 452 and MATH 307
+PHYS 413/513 Methods of Experimental Physics (3 Credit Hours)
+Experiments in classical and modern physics, designed to develop skills in the collection, analysis, and interpretation of experimental data. (Offered Spring)
+Prerequisites: PHYS 303 or ECE 287 , and PHYS 323
+PHYS 415/515 Introduction to Nuclear and Particle Physics (3 Credit Hours)
+An introduction to the structure of the atomic nucleus, natural and artificial radioactivity, nuclear decay processes and stability of nuclei, nuclear reactions, properties of nuclear forces, and nuclear models. Also, particle phenomenology, experimental techniques and the standard model.  Topics include the spectra of leptons, mesons, and baryons; strong, weak, and electromagnetic interactions.
+Pre- or corequisite: MATH 307
+PHYS 416/516 Introduction to Solid State Physics (3 Credit Hours)
+Introduction to solid state physics and materials science, with emphasis placed on the applications of each topic to experimental and analytical techniques.  Topics include crystallography, thermal and vibrational properties of crystals and semiconductors, metals and the band theory of solids, superconductivity and the magnetic properties of materials.
+Prerequisites: PHYS 452 and MATH 307
+PHYS 417/517 Introduction to Particle Accelerator Physics (3 Credit Hours)
+Fundamentals of relativistic particle dynamics including particle acceleration; weak and strong focusing; linear beam optics and particle transfer matrices; linear and non-linear synchrotron motion; introduction to the statistical descriptions of particle beams; and radiation production by accelerated relativistic particles. Examples relevant to betatrons, cyclotrons, synchrotrons, and linear accelerators will be given.
+Prerequisites: PHYS 319 or MAE 205 , and PHYS 425 or ECE 323
+PHYS 420/520 Introductory Computational Physics (3 Credit Hours)
+Introduction to computationally based problem solving in physics with an emphasis on understanding and applying various numerical algorithms to different types of physics problems. Topics will include numerical integration (quadrature), numerical solution of ordinary differential equations, Runge-Kutta and Numerov methods, polynomial approximations, numerical linear algebra, and Monte-Carlo methods. These computational methods will be applied to problems in classical and quantum mechanics, as well as electromagnetic theory.
+Prerequisites: CS 150 , CS 151 or CS 153 ; PHYS 319 ; PHYS 323 ; and MATH 212
+PHYS 425/525 Electromagnetism I (3 Credit Hours)
+A study of the classical theory and phenomena of electricity and magnetism. Topics include the calculation of electric and magnetic fields, magnetic and dielectric properties of matter, and an introduction to Maxwell's equations. The course contains a mandatory recitation section.
+Pre- or corequisite: PHYS 355
+PHYS 451/551 Theoretical Mechanics (3 Credit Hours)
+A mathematical study of the concepts of mechanics. Vector calculus methods are used.  Topics include mechanics of a system of particles, Lagrangian mechanics, Hamilton's canonical equations, and motion of a rigid body.
+Prerequisites: PHYS 319 , PHYS 355 and MATH 312
+PHYS 452/552 Introduction to Quantum Mechanics (3 Credit Hours)
+Introduction to the physical and mathematical structure of quantum theory, including the historical and experimental origins of the subject. The subject matter includes techniques for solving the Schrodinger equation in one, two, and three dimensions.   Both coordinate and momentum space representations are used. The harmonic oscillator and the Hydrogen atom receive particular attention.  The course contains a mandatory recitation section.
+Prerequisites: PHYS 319 , PHYS 323 , and PHYS 355
+PHYS 453/553 Electromagnetism II (3 Credit Hours)
+A course in electrodynamics developed from Maxwell's Equations.  Topics include Maxwell's Equations, Conservation Laws, Electromagnetic Waves, Potentials and Fields, Radiation, and the interplay of electrodynamics and special relativity. The course contains a mandatory recitation section.
+Prerequisites: PHYS 425 or ECE 323 and MATH 312
+PHYS 454/554 Thermal and Statistical Physics (3 Credit Hours)
+A study of the fundamental concepts of thermodynamics, kinetic theory, and statistical mechanics.  Topics include the thermodynamics of simple systems, kinetic theory of gases, statistical mechanics of gases and an introduction to quantum statistics.
+Prerequisites: PHYS 319 and PHYS 323
+PHYS 456/556 Intermediate Quantum Mechanics (3 Credit Hours)
+This course follows directly from PHYS 452 .  It includes a more detailed study of simple systems, an introduction to abstract quantum mechanics and Dirac notation, and applications to operator methods.  Particular attention is paid to electron spin, angular momentum theory, operator treatment of the harmonic oscillator, the Pauli exclusion principle, perturbation theory, and scattering.  The course contains a mandatory recitation section.
+Prerequisites: PHYS 323 and PHYS 452 or permission of the instructor
+PHYS 460 Fundamentals of Accelerator Physics and Technology with Simulations and Measurements Lab (3 Credit Hours)
+Explores the historical development of accelerators and their past and present applications.  Principles of acceleration, including the physics of linear accelerators, synchrotrons, and storage rings.  Magnet design; machine lattice design and particle beam optics.  Longitudinal and transverse beam dynamics, including synchrotron and betatron particle motion.  Special topics will be reviewed, including synchrotron radiation, injection techniques, and collective effects and beam instabilities.
+Prerequisites: PHYS 319 and PHYS 425
+PHYS 467 Preparing for the Physics GRE (1 Credit Hour)
+This course will review the style and scope of problems likely to be found on the Physics Graduate Record Exam (GRE). Emphasis is on quick solving of problems based on foundational knowledge and intuition. This course is particularly intended for students preparing to apply for graduate school, but may be of interest to all students.
+Prerequisites: PHYS 323 and PHYS 319
+PHYS 468W Research Methods in Mathematics and Sciences (3 Credit Hours)
+Emphasizes the tools and techniques used to solve scientific problems.  Topics include use and design of experiments, use of statistics to interpret experimental results, mathematical modeling of scientific phenomena, and oral and written presentation of scientific results.  Students will perform four independent inquiries, combining skills from mathematics and science to solve research problems.  Required for Physics teaching licensure track; not available as upper-division elective in content area.  This is a writing intensive course.
+Prerequisites: Admission to the Monarch Teach Program; PHYS 232N or MATH 212 ; and a grade of C or better in ENGL 211C or ENGL 221C or ENGL 231C
+PHYS 489W Senior Thesis I (1 Credit Hour)
+Part one of a two-semester option for completing the Senior Thesis. This is a writing intensive course. PHYS 489W plus PHYS 490W is equivalent to PHYS 499W .
+Prerequisites: permission of the instructor and a grade of C or better in ENGL 211C or ENGL 221C or ENGL 231C
+PHYS 490W Senior Thesis II (2 Credit Hours)
+Part two of a two-semester option for completing the Senior Thesis. PHYS 489W plus PHYS 490W is equivalent to PHYS 499W .  This is a writing intensive course.
+Prerequisites: PHYS 489W
+PHYS 495/595 Special Topics in Physics (1-3 Credit Hours)
+In-depth study of a selected topic in physics at the advanced undergraduate level. May include a laboratory or computational component.
+Prerequisites: permission of the instructor
+PHYS 497/597 Special Problems and Research (1-3 Credit Hours)
+These courses afford the student an opportunity to pursue individual study and research.
+Prerequisites: senior standing or permission of the instructor
+PHYS 499W Senior Thesis (3 Credit Hours)
+Each student will undertake a research experience under the supervision of a department faculty member.  The experience can be of an experimental, theoretical, or calculational type.  A final oral and written report are required.  The research may be completed on campus or at one of the department affiliated research organizations. This is a writing intensive course.(offered fall, spring, summer)
+Prerequisites: grade of C or better in ENGL 211C or ENGL 221C or ENGL 231C and permission of the instructor
+Search catalog

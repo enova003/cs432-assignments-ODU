@@ -1,0 +1,34 @@
+Learn about junk email and phishing
+Quarantined Mail Outlook attempts to filter out junk, keeping the Inbox clear of content you don't want to see. Usually, junk mail (advertisements, contests, spam, social marketing, etc.) is delivered to the Junk Email folder. Quarantined emails usually contain potentially dangerous or unwanted messages, such as phishing emails or malware. You can request the release of quarantined messages, but use caution. These messages are usually quarantined for a very good reason.
+Release messages from quarantine
+Safe Links and Attachments
+Microsoft Advanced Threat Protection (ATP) is an added layer of security that protects ODU's computers and networks from outside threats. There are two components to Microsoft ATP that will protect against phishing attempts and malicious email attachments: Safe Links and Safe Attachments.
+Safe Links
+Safe Links evaluates all links in an email message to determine if they point to safe or harmful content. To do this, ATP replaces all links in incoming messages with longer URLs that begin with "...//na01.safelinks.protection.outlook.com," similar to this .
+When you click on the link, ATP evaluates the web address. If it's safe, you'll be taken directly to the intended site. If the link is NOT safe, you'll be blocked from the site with a warning message like this .
+(While Safe Links greatly improves email security, nothing is 100% effective 100% of the time. If you've followed a link that takes you to a login page of any kind, double check to be sure the page is secure. Learn more about what a secure page looks like here .)
+Safe Attachments
+Safe Attachments protects against harmful email attachments. Before a message is delivered, ATP opens all attachments in a virtual environment and analyzes them for malicious content. If the attachment is safe, it will be delivered to you along with the original email message. If the attachment is harmful, you'll never receive the message; you will receive an email letting you know that an email with malicious content was blocked. This process does cause a brief delay (a couple of minutes) in the delivery of messages.
+Although this service improves email security, you remain our best defense against online threats. Continue to exercise the safe computing practices found at odu.edu/safecomputing .
+FAQs about ATP
+What is Microsoft Advanced Threat Protection (ATP)?
+ATP monitors email attachments and links for malicious content.
+Will attachments or links be different?
+An email with a malicious attachment is replaced by an email notice informing the intended recipient that the message was blocked. Also, ATP analyzes all attachments, so emails with attachments incur a brief delay in delivery.
+All web links within the email message are replaced with "safelinks" that begin with "
+...//na01.safelinks.protection.outlook.com/...
+". If you try to click on a link that points to a malicious site, you'll see a warning notice displayed instead.
+Is it possible to retrieve a blocked attachment?
+Yes, we keep a copy of all blocked attachments. If an attachment was blocked incorrectly, we are able to retrieve it. Contact the ITS Help Desk at itshelp@odu.edu or (757) 683-3192.
+Is it possible to whitelist a site from Safe Links?
+Yes, we are able to exclude a site from Safe Links, provided the site meets certain criteria.
+Why do we need ATP?
+Two of the top ways our credentials or workstations are compromised are through phishing email with malicious attachments and phishing emails with malicious links. ATP helps to protect us from these forms of phishing attack.
+Is there anything I need to do?
+ATP works behind the scenes; there is nothing you need to do to turn it on or configure it.
+Can I opt out of ATP?
+No. ATP protects all email accounts within ODU's Office365 environment. If you feel you have a specific case that needs consideration, please contact ITS.
+Are there any other approved ways to send files by email?
+OneDrive is an enterprise file sharing services that can be used to share files with others inside and outside of ODU. Simply upload a file and share a link to the file within the text of your email message.
+Email Retention
+In Office 365, email retention is managed with retention tags. You can tag some messages to stay in your mailbox permanently, and you can tag other messages to be deleted after a set amount of time. You can also set retention tags on entire folders, so when you copy messages to a folder with a two-year retention tag, for example, each message will automatically be deleted in two years. Emails in your Inbox that are not tagged or moved to a tagged folder will be automatically deleted after 1 year. Emails in your Sent Items folder are deleted after 2 years. If you need to retain email longer than that, you must tag it or move it to a tagged folder. Please see " ODU Email Retention Guidelines " for details.

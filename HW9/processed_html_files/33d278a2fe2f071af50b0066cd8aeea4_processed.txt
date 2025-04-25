@@ -1,0 +1,88 @@
+No Undergraduate courses found.
+NURA 745 Applied Chemistry and Physics for Nurse Anesthetists (2 Credit Hours)
+This course is a review of the principles of organic chemistry, biochemistry, and physics. It is designed as a foundation for the students' understanding of pharmacology, physiology, and the anesthesia gas machine. This course will also provide an introduction to the chemical structure-activity relationships, metabolism and mechanism of action of selected agents.
+NURA 746 Advanced Physiology for Nurse Anesthetists (4 Credit Hours)
+This course focuses on normal physiological functioning of body systems building on undergraduate anatomy and physiology to further examine structure and function focusing on cellular, subcellular, genetic and biochemical processes.   The goal is to provide an in-depth understanding of the function and regulation of body systems to maintain homeostasis. Learners will integrate physiologic concepts for the basis for critical thinking and decision making when assessing patients with multi-system failure. Learners are provided with essential knowledge of human health and disease across the lifespan necessary for advanced nursing practice. This course consists of four hours of lecture/discussion/in-class clinical module work per week.
+NURA 750 Applied Principles of Anesthesia Practice I (4 Credit Hours)
+This course integrates scientific concepts with basic principles of anesthesia practice and prepares the student for their new role in the safe and effective delivery of anesthesia. Emphasis is on vital anesthesia monitoring and delivery systems. Airway management and general anesthesia techniques will also be discussed. Simulation is incorporated into the learning process to reinforce principles introduced in class.
+Prerequisites: NURA 745
+NURA 751 Applied Principles of Anesthesia Practice II (4 Credit Hours)
+This course formulates a basic level of cognitive, affective, and psychomotor expertise for the preoperative, intraoperative, and postoperative anesthesia periods. Students will analyze and apply basic physiological principles in preparation for the anesthesia management of patients undergoing complex surgical procedures. Human Simulation is incorporated into the learning process to reinforce principles introduced in class.
+Prerequisites: NURA 746 and NURA 750
+NURA 752 Applied Principles of Anesthesia Practice III (4 Credit Hours)
+This course is the third course in a series of three and is intended to further the foundation for safe and effective delivery of anesthesia. It is designed to prepare the student for the decision making necessary for the complex issues of anesthesia in clinical practice. Students will apply knowledge of pathophysiological conditions to formulate safe plans of care for patients undergoing complex surgical procedures. Human Simulation is incorporated into the learning process to reinforce principles introduced in class.
+Prerequisites: NURS 770 and NURA 751
+NURA 753 Advanced Pharmacology for Nurse Anesthesia Practice (3 Credit Hours)
+This is a course in advanced anesthesia pharmacotherapeutics that builds on prior knowledge of drug classification, actions, interactions and adverse drug reactions. The major focus of the course is synthesizing principles learned in Advanced Pharmacology for Nursing Practice and applying them to anesthetic pharmaceuticals. Emphasis is placed on the critical thinking process used to choose and prescribe drugs in the management of anesthetic. Core concepts include applied pharmacodynamics, pharmacokinetics, volatile agent delivery systems, theories of anesthetic action and the interactions between patient medication and anesthetic agents. This course consists of three hours of lecture/discussion/in-class clinical module work per week.
+NURA 760 Evidence Based Seminar for Anesthesia Practice (1 Credit Hour)
+This course helps prepare advanced practice nurses with an opportunity to assess clinical and scientific evidence through appraisal of the literature. The course explores the philosophical underpinnings for nursing knowledge and evidence in nursing practice.
+NURA 761 Evidenced-Based Seminar for Anesthesia Practice I (1 Credit Hour)
+This course is the first in a series of five seminar courses that helps prepare advanced practice nurses with an opportunity to assess clinical and scientific evidence through appraisal of the literature. The course explores the philosophical underpinnings for nursing knowledge and evidence in nursing practice.
+Pre- or corequisite: NURA 752 , NURA 754, and NURS 801
+NURA 762 Evidenced-Based Seminar for Anesthesia Practice II (1 Credit Hour)
+This course is the second in a series of five seminar courses that helps prepare advanced practice nurses with an opportunity to assess clinical and scientific evidence through appraisal of the literature. The course is designed to build on the understanding gained in NURA 761 and to expand the advanced practice nursing student's understanding of research methods, design, and statistics.
+NURA 797 Independent Study (1-10 Credit Hours)
+Independent study in nurse anesthesia under the guidance of a faculty.
+Prerequisites: admission to the nurse anesthesia program
+NURA 836 Advanced Physiology and Pathophysiology for Nurse Anesthesia I (3 Credit Hours)
+This course addresses normal and abnormal physiological functioning of body systems building on undergraduate anatomy and physiology. Structure and functions of the systems will be examined at the cellular, subcellular, genetic, and biochemical level. The goal is to provide an in-depth understanding of the dysfunction of body systems in a diseased state as well as comprehension of the normal function to maintain homeostasis.  Systems to be addressed include:  cellular and molecular physiology, immune system, nervous system, skeletal muscle system, and the cardiovascular system.
+NURA 837 Advanced Physiology and Pathophysiology for Nurse Anesthesia II (3 Credit Hours)
+This course addresses normal and abnormal physiological functioning of body systems building on undergraduate anatomy and physiology. Structure and functions of the systems will be examined at the cellular, subcellular, genetic, and biochemical level.  The goal is to provide an in-depth understanding of the dysfunction of body systems in a diseased state as well as comprehension of the normal function to maintain homeostasis.  Systems to be addressed include:  respiratory system, digestive/hepatic system, endocrine system, and neoplasia mechanisms and treatments.
+Prerequisites: NURA 836
+NURA 838 Professional Aspects for Anesthesia (1 Credit Hour)
+A study of the unique goals, distinctive content, and special problems of health/anesthesia care and education in this country. Includes such areas as management, organization, legal aspects, professional adjustments, ethics, psychology, and history.
+NURA 841 Principles of Anesthesia Practice I (4 Credit Hours)
+This course integrates scientific concepts with basic principles of anesthesia practice and prepares the student for their new role in the safe and effective delivery of anesthesia. Emphasis is on vital anesthesia monitoring and delivery systems. Airway management and general anesthesia techniques will also be discussed. Simulation is incorporated into the learning process to reinforce principles introduced in class.
+Prerequisites: NURA 745
+NURA 842 Principles of Anesthesia Practice II (4 Credit Hours)
+This course formulates a basic level of cognitive, affective, and psychomotor expertise for the preoperative, intraoperative, and postoperative anesthesia periods. Students will analyze and apply basic physiological principles in preparation for the anesthesia management of patients undergoing complex surgical procedures. Human simulation is incorporated into the learning process to reinforce principles introduced in class.
+NURA 843 Principles of Anesthesia Practice III (4 Credit Hours)
+This course is the third course in a series of three and is intended to further the foundation for safe and effective delivery of anesthesia. It is designed to prepare the student for the decision making necessary for the complex issues of anesthesia in clinical practice. Students will apply knowledge of pathophysiological conditions to formulate safe plans of care for patients undergoing complex surgical procedures. Human Simulation is incorporated into the learning process to reinforce principles introduced in class.
+NURA 844 Principles of Anesthesia Practice IV (1 Credit Hour)
+This course is the fourth in an increasingly more complex eight-course series intended to accompany NURA 842 . It is designed to review basic sciences and equipment, instrumentation and technology related to clinical practice.
+Pre- or corequisite: NURA 843
+NURA 845 Principles of Anesthesia Practice V (1 Credit Hour)
+This course is the fifth in an increasingly more complex eight-course series intended to accompany NURA 843 . It is designed to review basic sciences and equipment, instrumentation and technology related to clinical practice. This course also incorporates preoperative, intraoperative, and postoperative care of patients.
+Pre- or corequisite: NURA 844
+NURA 846 Principles of Anesthesia Practice VI (1 Credit Hour)
+This course is the sixth in an increasingly more complex eight-course series intended to accompany NURA 844 . This course is designed to review anesthesia concepts and begin the preparation to take the National Certification Exam.
+Pre- or corequisite: NURA 845
+NURA 847 Principles of Anesthesia Practice VII (1 Credit Hour)
+This course is the seventh in an increasingly more complex eight-course series intended to accompany NURA 845 . This course is designed to review anesthesia concepts and continue the preparation to take the National Certification Exam
+Pre- or corequisite: NURA 846
+NURA 848 Principles of Anesthesia Practice VIII (1 Credit Hour)
+This course is the final in an increasingly more complex eight-course series intended to accompany NURA 846 . This course is designed to review anesthesia concepts and examine student readiness of the National Certification Exam.
+Pre- or corequisite: NURA 847
+NURA 853 Nurse Anesthesia Practicum: Orientation for Clinical Anesthesia (2 Credit Hours)
+This introductory-level course is designed to integrate didactic knowledge with basic practical application. The student will apply knowledge concerning preoperative assessment, care plan development, induction sequence, basic airway management, function and usage of anesthesia equipment, pharmacology dosing and mathematics for anesthesia. Course content is based on the American Association of Nurse Anesthetists Standards for Nurse Anesthesia Practice and the American Association of Colleges of Nursing DNP Essentials.
+Prerequisites: Successful completion of all first, second and third semester courses in the Nurse Anesthesia program
+NURA 854 Nurse Anesthesia Practicum I (3 Credit Hours)
+This introductory-level course is designed to integrate didactic knowledge with basic practical application to the art and science of nurse anesthesia. It designed to cultivate the novice student nurse anesthetist in selected clinical settings under direct supervision of qualified clinical preceptors. The student will be immersed in the anesthesia clinical environment for this course. Course content is based on the American Association of Nurse Anesthetists Standards for Nurse Anesthesia Practice and the American Association of Colleges of Nursing DNP Essentials.
+Prerequisites: NURA 853
+NURA 855 Nurse Anesthesia Practicum II (4 Credit Hours)
+This clinical course is the second in an increasingly more complex six-course series and continues the integration of didactic knowledge and practical application to the art and science of nurse anesthesia. It is designed to cultivate the advanced beginner student nurse anesthetist in selected clinical settings under close direction of qualified clinical preceptors. The student will be immersed in the anesthesia clinical environment for this course. Course content is based on the American Association of Nurse Anesthetists Standards for Nurse Anesthesia Practice and the American Association of Colleges of Nursing DNP Essentials.
+Prerequisites: NURA 854
+NURA 856 Nurse Anesthesia Practicum III (4 Credit Hours)
+This clinical course is the third in an increasingly more complex six-course series and continues the integration of didactic knowledge and practical application to the art and science of nurse anesthesia. It is designed to cultivate the competent student nurse anesthetist in a variety of clinical settings under the guidance of qualified clinical preceptors. The student will be immersed in the anesthesia clinical environment for this course. Course content is based on the American Association of Nurse Anesthetists Standards for Nurse Anesthesia Practice and the American Association of Colleges of Nursing DNP Essentials.
+Prerequisites: NURA 855
+NURA 857 Nurse Anesthesia Practicum IV (4 Credit Hours)
+This clinical course is the fourth in an increasingly more complex six-course series and continues the integration of didactic knowledge and practical application to the art and science of nurse anesthesia. It is designed to cultivate the proficient student nurse anesthetist in a variety of clinical settings under the guidance of qualified clinical preceptors. The student will be immersed in the anesthesia clinical environment for this course. Course content is based on the American Association of Nurse Anesthetists Standards for Nurse Anesthesia Practice and the American Association of Colleges of Nursing DNP Essentials.
+Prerequisites: NURA 856
+NURA 858 Nurse Anesthesia Practicum V (4 Credit Hours)
+This clinical course is the fifth of six in an increasingly more complex six-course series, and continues the integration of didactic knowledge and practical application to the art and science of nurse anesthesia. It is designed to cultivate the proficient student nurse anesthetist in a variety of clinical settings in collaboration with qualified clinical preceptors. The student will be immersed in the anesthesia clinical environment for this course. Course content is based on the American Association of Nurse Anesthetists Standards for Nurse Anesthesia Practice and the American Association of Colleges of Nursing DNP Essentials.
+Prerequisites: NURA 857
+NURA 859 Nurse Anesthesia Practicum VI (3 Credit Hours)
+This clinical course is the final in an increasingly more complex six-course series and continues the integration of didactic knowledge and practical application to the art and science of nurse anesthesia. It is designed to cultivate the proficient student nurse anesthetist in a variety of clinical settings in collaboration with qualified clinical preceptors. The student will be immersed in the anesthesia clinical environment for this course. Course content is based on the American Association of Nurse Anesthetists Standards for Nurse Anesthesia Practice and the American Association of Colleges of Nursing DNP Essentials.
+Prerequisites: NURA 858
+NURA 863 Evidenced-Based Seminar for Anesthesia Practice III (1 Credit Hour)
+This course is the third in a series of five seminar courses designed to enhance the nurse anesthesia student's understanding of research methods, design and analysis. A journal club format is used to evaluate anesthesia care for optimum outcomes using published research studies.
+Prerequisites: NURA 762
+NURA 864 Evidenced-Based Seminar for Anesthesia Practice IV (1 Credit Hour)
+This course is the fourth in a series of five seminar courses designed to enhance the nurse anesthesia student's understanding of research methods, design and analysis. A journal club format is used to evaluate anesthesia care for optimum outcomes using published research studies.
+Prerequisites: NURA 863
+NURA 865 Evidenced Based Seminar for Anesthesia Practice V (1 Credit Hour)
+This course is the fifth in a series of five seminar courses designed to enhance the nurse anesthesia student's understanding of research methods, design and analysis. A journal club format is used to evaluate anesthesia care for optimum outcomes using published research studies.
+Prerequisites: NURA 864
+NURA 998 Master's Graduate Credit (1 Credit Hour)
+This course is a pass/fail course for master's students in their final semester. It may be taken to fulfill the registration requirement necessary for graduation.  All master's students are required to be registered for at least one graduate credit hour in the semester of their graduation.
+Search catalog

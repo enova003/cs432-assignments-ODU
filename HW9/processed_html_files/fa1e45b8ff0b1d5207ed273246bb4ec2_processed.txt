@@ -1,0 +1,19 @@
+FAQs
+How do I get authorized to use CAT?
+New users can obtain access to CAT by asking your department chair to send an email to courseleaf@odu.edu .  The email should include your UIN, name, MIDAS ID, and the catalog page(s) to which you need access.
+How do I get authorized to use CIM?
+New users can obtain access to CIM by sending an email to courseleaf@odu.edu . The email should include your UIN, name, and your MIDAS ID.
+Is CourseLeaf training offered?
+Yes, training videos will be provided for both CAT and CIM on this site. Quick guides will also be available for each system. Email courseleaf@odu.edu if you need additional assistance or information.
+What is the best browser to use with CourseLeaf?
+The best browser to use is Mozilla Firefox (versions 10+).
+How do I log in to CourseLeaf?
+Go to nextcatalog.odu.edu for CAT or nextcatalog.odu.edu/courseadmin for CIM. You will be required to log in using your Shibboleth log in.
+When logging in to CourseLeaf, a box displays that says I am not fully logged in. What should I do?
+Just click on the box to complete the log in process.
+How do I log out of CourseLeaf?
+There is not a log out button, just close your browser window to exit the software.
+It looks like I am logged in, but the system isn't working. What should I do?
+First, try to refresh the page. If that does not work, then close the browser window, clear your Cache/browsing history, and then try to log in again.
+How will I know if I have a page or a course to approve?
+You will get an email from Catalog Editor letting you know you have an action to approve. Click on the link in the email.

@@ -1,0 +1,396 @@
+Civil Engineering Technology (CET)
+CET 120 Civil 2D Computer Aided Drafting (2 Credit Hours)
+This course introduces students to computer aided drafting, where methods are taught with a major emphasis on practical application using two-dimensional AutoCAD software in the computer lab.  This includes the basic principles of civil engineering drawings to include but not limited to: dimensioning, spot elevations, contours, plan and profile view, section views, details, scaling, measurements.  It will introduce students to site plan drawings, structural views, architectural views, as well as buried infrastructure plan and profiles.  Finally, it will be the basis for preparation of a working set of plans, for use in all follow-on CET courses.
+CET 205 Principles of Surveying (3 Credit Hours)
+Basic plane surveying measurements and computations, survey control systems, elementary digital mapping and simple curves, and building construction survey and stakeout. Field exercises using standard surveying instrumentation, traverse and leveling techniques, topographic mapping and curve layout.
+Prerequisites: MATH 163 and MET 120 or CET 120
+CET 210 Fundamentals of Building Construction (3 Credit Hours)
+Introduction to various materials and methods available for design and construction of buildings. Covers application and combination of traditional materials and methods, and recent innovations in construction systems.
+CET 221 Material Testing Laboratory (1 Credit Hour)
+Standard Methods of inspecting and testing structural materials used in construction are demonstrated.  Data is collected and interpreted according to industry standards with results reported.
+Prerequisites: MATH 211C
+Corequisites: ENGT 220
+CET 260 CAD for Building Applications (2 Credit Hours)
+A detailed study of the form and content of typical construction drawings and 3D building models used in the construction industry. Commercial 3D CAD software is used to assemble a set of structural construction drawings.  Standard specification documents are introduced.
+Prerequisites: CET 120 or MET 120 and CET 210
+CET 265 Civil 3D CAD (2 Credit Hours)
+A detailed study into the development of civil site plans.  Commercial software (AutoCAD Civil 3D) is introduced as a tool to assist in the design of civil sites and develop a set of civil site drawings.
+CET 295 Topics (1-3 Credit Hours)
+Study of selected topics.
+CET 296 Topics (1-3 Credit Hours)
+Study of selected topics.
+CET 301 Introduction to Structural Design (4 Credit Hours)
+Introduction to structural design of buildings and/or nonbuilding type structures using reinforced concrete, steel, and wood as materials.  This course utilizes provisions of the American Concrete Institute ACI 318, American Institute of Steel construction AISC 360, and the National Design Specification NDS specifications. Forces, moments, and deflections in statically determinate beams, frames, and trusses due to various load cases and load combinations are determined.
+Prerequisites: CET 220 and MATH 211
+CET 325 Introduction to Land Development (3 Credit Hours)
+Applications of fundamental site engineering principles, land design principles and permitting issues. A brief historical review of exemplary subdivision, urban designs and their impact on current practice. Site surveying and engineering issues including hydrology, storm water management, site geometry, grading, design of roads, engineering design standards, and computer applications in site engineering are examined. The principles of siting and theories of design for aesthetic and efficient alignment of roads, layout of structures, and subdivision parcels are introduced.
+Prerequisites: CET 210
+CET 330 Fluid Mechanics (4 Credit Hours)
+Elementary mechanics of fluids.  Fluid properties; hydrostatics; fluid kinematics; equations of motion; energy equation; momentum principles; flow of liquids and gasses in closed conduits; flow in open channels and/or compressible flow.  Laboratory will demonstrate principles from the lecture material.  All experiment results will be submitted in a written report format, including presentation and interpretation of experimental data. Use of spreadsheets is required.
+Prerequisites: CET 220 and MATH 211
+CET 332 Water Resources Engineering (3 Credit Hours)
+Hydrologic and Hydraulic principles are utilized in the planning, design, operation and construction of water management projects. The course addresses fundamental Hydrology - the occurrence and movement of surface water including weather and climate; precipitation; evaporation; transpiration; runoff; infiltration; stream flow; hydrograph analysis; erosion; and sedimentation.  Additional topics covered will include water distribution, use of water, and sustainability of water as a natural resource.
+Prerequisites: CET 330
+CET 334 Computer Applications in Hydraulic Engineering (3 Credit Hours)
+Application of computer software in solving water resources problems; program development or application of available packages to solve assigned water resources problems. Use and application of commercial software for analysis and design of water distribution networks and gravity sewer collection systems.
+Prerequisites: CET 330
+CET 335 Fluid Mechanics Laboratory (1 Credit Hour)
+A laboratory to demonstrate the verification of fluid equations and principles as well as the characteristics of fluid machinery. All experimental results will be submitted in a report format, including presentation and interpretation of experimental data. Use of spreadsheets is required.  This is an online asynchronous class open only to transfer students with credit for the lecture portion of CET 330 .
+Prerequisites: CET 330
+CET 340 Soils and Foundations (3 Credit Hours)
+A study of the engineering properties of soil including stress, shear strength, and bearing capacity. Movement of water through soils, consolidation and settlement of structures and the design of shallow and deep foundations are also covered. Use of Excel spreadsheets is a requirement.
+Corequisites: CET 341
+CET 341 Soil Testing Laboratory (1 Credit Hour)
+Course includes standard methods for inspecting, sampling, testing, and evaluating soils. Students use typical test equipment and perform tests on samples of local soils. Data is collected and results are interpreted and plotted.
+Corequisites: CET 340
+CET 355 Sustainable Building Practices (3 Credit Hours)
+The course will examine industry trends in sustainable building practices. It explores the green building strategies used in the design and construction of sustainable buildings. The role of site selection, water efficiency, energy, materials and resources, and indoor environmental quality will be explored.
+Prerequisites: Junior standing
+CET 361 Construction Project Management (3 Credit Hours)
+An introduction to the procedures and methods that are used by a contractor during the construction phase of a project. Special emphasis on planning, managing and documenting project activities. Topics include job site layout and control, subcontracting and purchasing and changes and claims/progress payments.
+Prerequisites: CET 210
+CET 365 Building Information Modeling (BIM) (3 Credit Hours)
+This course is an introduction to building information modeling (BIM) and its implementation in building design and construction. Topics include the fundamentals of information modeling; business benefits of BIM; impacts of BIM on design and construction processes; integrated design process and project delivery; popular software applications and basic modeling techniques; and popular areas and best practices of BIM implementation.
+Prerequisites: CET 260
+CET 367 Cooperative Education (1-3 Credit Hours)
+Available for pass/fail grading only.  Student participation for credit based on the academic relevance of the work experience, criteria, and evaluative procedures as formally determined by the department and Career Management prior to the semester in which the work experience is to take place.  (offered fall, spring, summer)  (qualifies as a CAP experience)
+Prerequisites: Approval by the CET program director and Career Development Services (CDS) in accordance with the policy for granting credit for Cooperative Education programs; a student who needs to add additional credit to maintain full-time status should contact the program director
+CET 368 Internship (1-3 Credit Hours)
+Available for pass/fail grading only.  Academic requirements will be established by the department and will vary with the amount of credit desired.  Allows students to gain short duration career-related experience.
+Prerequisites: approval by department and Career Development Services
+CET 369 Practicum (1-3 Credit Hours)
+Available for pass/fail grading only.
+Prerequisites: approval by department and Career Development Services
+CET 395 Topics (1-3 Credit Hours)
+Topics in Civil Engineering Technology.
+Prerequisites: permission of the instructor
+CET 396 Topics (1-3 Credit Hours)
+Topics in Civil Engineering Technology.
+Prerequisites: permission of the instructor
+CET 400 Computer Applications in Structural Design (3 Credit Hours)
+Analysis of indeterminate structures including the verification of results using the commercial software RISA 3D. Introduction to computer modeling in 2D and 3D, pre and post processors, interpretation of results and development of professionally written reports. Structural analysis topics include influence lines, cables and arches, slope deflection, moment distribution, and stiffness methods of analysis.  Analysis and design of structures using steel, wood, and reinforced concrete materials using RISA 3D.  Design meeting strength and serviceability requirements per codes, specifications, and standards.
+Pre- or corequisite: CET 301
+CET 402 Structural Steel Design (3 Credit Hours)
+Structural analysis and design of steel structures, including beams, girders, columns, composite sections, trusses, rigid frames and connections using the LRFD method. Analysis of statically-determinate cantilever (hungspan) systems also are covered.
+Prerequisites: CET 301
+CET 405 Environmental Loads (3 Credit Hours)
+Familiarize the student with the analysis of environmental design loads required for the design of building and non-building type structures in the United States.  A thorough study of loading categories and load combinations for ASD and LRFD is also covered.  Extensive use of the International Building Code (IBC) and the Minimum Design Loads for Building and Other Structures (ASCE 7) is expected.
+Prerequisites: CET 301
+CET 410 Reinforced Concrete Design (3 Credit Hours)
+Structural analysis and design of reinforced concrete members. Topics include flexural analysis and design of structures, including slabs, beams and columns using strength design procedures.
+Prerequisites: Junior standing
+Pre- or corequisite: CET 301
+CET 412 Wood Design (3 Credit Hours)
+Analysis and design of wooden structural elements of buildings to satisfy design codes. Included are shearwall design and connections as well as beams, columns and other elements.
+Prerequisites: CET 301
+CET 414 Bridge Design (3 Credit Hours)
+Familiarize the student with the analysis and design of simple and continuous span bridge structures utilizing the Load and Resistance Factor Design (LRFD) methodology. Determination of the most common design loads used in bridge design. Introduction to the AASHTO Specification for Structural Bridge Design used in United States.
+Prerequisites: CET 410 or CET 450 or CET 402
+CET 417 Design of Reinforced Concrete Foundations (3 Credit Hours)
+Analysis and design of reinforced concrete foundations typically used in buildings and bridges. Topics include loads and loading groups, methods of analysis and design, abutments, and isolated and continuous footings. The class will be focused on the load and resistant factor design method. Use of the ASCE 7, ACI and AASTHO codes is necessary.
+Prerequisites: CET 340 and CET 410
+CET 420 Hydrology and Drainage (3 Credit Hours)
+Hydrologic and hydraulic principles are utilized in the planning, design, operation and construction of water management projects. Topics include elements of stormwater drainage pertaining to hydrology, hydraulics of open channel and pipe flow, stormwater management, and issues pertinent to state stormwater regulations and the Chesapeake Bay Preservation Act.
+Prerequisites: CET 332
+CET 428 Buried Infrastructure (3 Credit Hours)
+This is a capstone design course in the field of water resources.  It incorporates pressurized pipe flow, gravity flow, and hydrology into the design of municipal infrastructure for water, sewer and stormwater projects.  Topics will also cover rehabilitation and replacement of aging infrastructure in urban and neighborhood settings.  Use of spreadsheets is required.
+Prerequisites: CET 332 or CET 334 or CET 325
+CET 430 Hydraulic Engineering (3 Credit Hours)
+Analysis of hydraulics problems associated with the design of civil engineering structures. Uniform, steady flow in open channels; hydraulic models; design problems for dams; spillways and hydraulic structures; hydraulic machinery and other related topics will be discussed. Use of spreadsheets is required.
+Prerequisites: CET 330
+CET 456 Resilience and Sustainability (3 Credit Hours)
+An investigation of emerging construction industry trends in resilience and sustainability.  Evaluation of applications for vulnerable, small-scale and rural projects. Quantify increases in project value by incorporating life cycle analysis, planning for continuity of function, and deliberate risk management.
+Prerequisites: CET 355
+CET 458 Managing the Climate Crisis (3 Credit Hours)
+This course provides a structured framework for developing resilience. It focuses on addressing the impacts of the climate crisis like flooding, heat, water, and wildfire through principles, designs, and real-world solutions. This is achieved by examining hard engineering structures, nature-based design, and hybrid solutions to protect communities and create a resilient design future.
+Prerequisites: Junior standing
+CET 460 Construction Cost Estimating (3 Credit Hours)
+Evaluation and analysis of the basic elements of estimating construction costs for buildings.  Elements of take off and pricing for Division 1 through Division 6 are covered.  Use of computers and estimating software are emphasized.
+Prerequisites: CET 361
+CET 462 Construction Planning and Scheduling (3 Credit Hours)
+The basic elements of planning and scheduling building construction projects.  All elements of building construction, including the precedence methods of scheduling.  Use of computers and planning and scheduling software are emphasized.
+Prerequisites: CET 210
+CET 467 Construction Finance and Equipment Utilization (3 Credit Hours)
+This course provides a study of financial management in civil engineering construction projects. It emphasizes the development of techniques for effective financial monitoring. Additionally, the curriculum covers concepts related to construction equipment utilization, ensuring an economic alignment of machine capabilities with project requirements. It also addresses the application of time value of money principles for financial decision-making in equipment selection and utilization for heavy highway and major building construction projects.
+Prerequisites: CET 361 and CET 301 or CET 330
+CET 472 Contract Documents (3 Credit Hours)
+The basic concepts of contracts and the standard contract documents used in construction. Also included is a study of the dispute resolution process in arbitration.
+CET 495 Topics (1-3 Credit Hours)
+Topics in civil engineering technology.
+Prerequisites: permission of the instructor
+CET 496 Topics (1-3 Credit Hours)
+Topics in civil engineering technology.
+Prerequisites: permission of the instructor
+Electrical Engineering (EET)
+EET 110 Electrical Circuits I (3 Credit Hours)
+Fundamentals of electrical circuits including basic electrical parameters and variables, circuit laws and theorems, mesh analysis, node analysis, Thevenin's and Norton's Theorems, capacitance, inductance, magnetism, and elementary RC and RL transients.
+Prerequisites: MATH 162M
+EET 120 Fundamentals of Logic Circuits (3 Credit Hours)
+An introduction to logic circuits, Boolean algebra, digital interface devices, combinational and sequential logic design, and microprocessor fundamentals.
+EET 125 Logic Circuits Laboratory (1 Credit Hour)
+Team-oriented experiments in basic combinational and sequential logic circuits and an introduction to fundamental microprocessors.
+Pre- or corequisite: EET 120
+EET 195 Topics (1-3 Credit Hours)
+Study of selected topics.
+EET 200 Electrical Circuits II (3 Credit Hours)
+A continuation of EET 110 with emphasis on steady-state ac circuit analysis and applications. Topics include alternating current and voltage, phasors and complex numbers and their applications in circuit analysis, series and parallel resonance, complex power, and polyphase circuits.
+Prerequisites: MATH 163 and a grade of C or better in EET 110
+EET 205 Electrical Circuits Laboratory (1 Credit Hour)
+Electrical laboratory instruction including test equipment, measurements, data analysis, verification of circuit laws, formal report preparation, and circuit implementation.
+Pre- or corequisite: EET 200
+EET 210 Electronic Circuits (3 Credit Hours)
+Semiconductor properties and semiconductor devices including diodes, MOS field-effect transistors, junction field-effect transistors and bipolar junction transistors. The ideal operational amplifier and its applications. FET and BJT biasing, including constant current biasing, and amplifier circuits with emphasis on DC modeling and graphical analysis, including Multisim simulation of circuit biasing.
+Prerequisites: EET 110
+EET 225 Electronic Circuits Laboratory (1 Credit Hour)
+Practical design, construction, testing and troubleshooting of electronic circuits, including single state and multistage amplifiers, power amplifiers, linear integrated circuits, and control devices.
+Pre- or corequisite: EET 210
+EET 261 Introduction to Microprocessors and Microcontrollers (3 Credit Hours)
+Introduction of software and hardware that relates to PIC16FXXX 8 bit microprocessor and microcontroller architectures, interface circuitry, and system designs. Programming in controls of internal and external hardware/peripherals, communication protocols between the logic circuits, peripherals, and MCUs. The ASM programming and design is the focus and C coding will also be introduced.
+Prerequisites: EET 120 and EET 125
+EET 263 Introduction to Programmable Logic Controllers (PLCs) (3 Credit Hours)
+An introduction to the design and programming of automatic machine controls.  Topics include controls diagrams, programmable logic controllers, ladder logic programming, interfacing, sensors, transducers, encoders, analog I/O, PID, motor controls, codes and standards, controls programming languages, controls safety, and pneumatics.  Lab assignments include ladder logic program simulations.
+Pre- or corequisite: EET 210
+EET 295 Topics (1-3 Credit Hours)
+Study of selected topics.
+EET 300 Advanced Circuit Analysis (3 Credit Hours)
+General analysis of linear networks using classical methods, Laplace transforms and computer-aided methods. Topics include single element transients, first- and second-order circuits, transfer function analysis, Bode plots and waveform analysis.  Circuit analysis software is used to support the analytical methods.
+Prerequisites: MATH 211 and a grade of C or better in EET 200
+EET 310 Digital Electronics (3 Credit Hours)
+First course in an upper division sequence in digital electronics circuits and systems.  Topics include a comprehensive treatment of Boolean algebra, computer arithmetic, and applications of digital integrated circuits.
+Prerequisites: EET 120 , EET 125 , EET 205 , and EET 210
+EET 312 Principles of Communication Systems (4 Credit Hours)
+Overview of communications systems, including both time and frequency domain analysis. Topics include spectrum analysis, analog modulation methods, digital modulation methods, receiver design, and multiplexing methods. Virtual laboratory projects utilize simulation software.
+Prerequisites: EET 300 and ENGT 305
+EET 315 Digital Electronics Laboratory (2 Credit Hours)
+Application-oriented experiments and design problems in digital electronics.  Multistage prototype construction requiring system design, module interface, and Engineering Design Journaling.
+Prerequisites: junior standing
+Pre- or corequisite: EET 310
+EET 320 Microcontroller Applications (3 Credit Hours)
+This is the second course in the digital electronics course sequence. The course will focus on software/hardware design of microprocessors and microcontrollers in C under ARM M4 and PIC microcontrollers, interface circuitry, simulation, and system designs in CAD circuit layout. The focus will be on application of microprocessor-based systems design.
+Prerequisites: EET 120 and EET 125
+EET 325 Microcontroller Applications Laboratory (2 Credit Hours)
+Hands-on implementation of microprocessor and microcontroller systems and peripheral interfacing experiments. Emphasis is placed on the hardware and software design and firmware construction in embedded system applications.
+Prerequisites: junior standing
+Pre- or corequisite: EET 320
+EET 330 Linear Electronics (3 Credit Hours)
+General treatment of linear electronic circuits with emphasis on the operational amplifier and integrated circuits derived from it. Topics include various amplifier circuits and converters, integrators and differentiators, comparators, waveform generators, active filters, A/D and D/A converters, and regulators. Design of circuits to meet specifications.  Circuit analysis software is used to validate some of the designs.
+Prerequisites: EET 210 and EET 300
+EET 335 Linear Electronics Laboratory (2 Credit Hours)
+Design testing, and evaluation of 'linear' electronic circuits and subsystems with primary emphasis on circuit components and modules. Measurement techniques, instrumentation and error analysis. Simulation of circuit designs using Multisim including transient response and frequency response.
+Prerequisites: junior standing
+Pre- or corequisite: EET 330
+EET 350 Fundamentals of Electrical Technology (3 Credit Hours)
+A comprehensive course in electrical engineering technology for nonmajors. Major topics are basic electricity (AC and DC), circuit analysis, linear electronics and digital electronics. Not open to electrical engineering technology majors except as a substitute for EET 110 in special cases.
+Prerequisites: junior standing
+Pre- or corequisite: MATH 211
+EET 355 Electrical Laboratory (1 Credit Hour)
+Selected electrical laboratory topics for nonmajors including basic measurements, instrumentation, operational amplifiers, digital circuits, and rotating machines. Not open to electrical engineering technology majors.
+Prerequisites: junior standing
+Pre- or corequisite: EET 350
+EET 360 Electrical Power and Machinery (3 Credit Hours)
+A study of synchronous and asynchronous AC machinery, DC machinery, power distribution systems, and instrumentation.
+Prerequisites: EET 200 or EET 350
+EET 365W Electrical Power and Machinery Laboratory (2 Credit Hours)
+A laboratory course dealing with electrical power and machinery as covered in EET 360 . Formal written reports will be required.  This is a writing intensive course.
+Pre- or corequisite: EET 360
+EET 366 Electrical Power and Machinery Laboratory (2 Credit Hours)
+A laboratory course dealing with electrical power and machinery as covered in EET 360 . Students taking this lab should not take EET 365W .
+Pre- or corequisite: EET 360
+EET 367 Cooperative Education (1-3 Credit Hours)
+Available for pass/fail grading only.  Student participation for credit based on the academic relevance of the work experience, criteria, and evaluative procedures as formally determined by the department and Career Development Services prior to the semester in which the work experience is to take place.
+Prerequisites: approval by the department and Career Development Services in accordance with the policy for granting credit for Cooperative Education programs
+EET 368 Internship (1-3 Credit Hours)
+Available for pass/fail grading only.  Academic requirements will be established by the department and will vary with the amount of credit desired.  Allows students to gain short duration career-related experience.
+Prerequisites: approval by department and Career Development Services
+EET 369 Practicum (1-3 Credit Hours)
+Available for pass/fail grading only.
+Prerequisites: approval by department and Career Development Services
+EET 370 Energy and The Environment (3 Credit Hours)
+A study of existing and new energy production methods, energy as a purchased/traded commodity, physics of energy, positive and negative implications for the environment, economics of energy alternatives, and resulting human/social impacts.
+Prerequisites: PHYS 101N or PHYS 111N or PHYS 226N or PHYS 231N
+EET 373 Instrumentation (3 Credit Hours)
+Fundamental concepts of electromechanical devices used in mechatronics and automation control systems. The working principles, calibration, interfacing methods and control loops of analog and digital instrumentation devices in a process control system.  The instrumentation devices, including sensors, actuators, signal conditioning circuits and data acquisition boards, will be used in class projects as basic feedback control blocks in practical simulation and PLC-based mechatronics systems. The simulation projects will use PLC hardware, MATLAB and/or LabView software.
+Prerequisites: EET 210 and EET 363 or EET 263 , or MET 370
+EET 395 Topics (1-3 Credit Hours)
+Study of selected topics.
+EET 396 Topics (1-3 Credit Hours)
+Study of selected topics.
+Prerequisites: junior standing
+EET 405 Data Communications and Computer Networks (3 Credit Hours)
+The course provides an overview of the local area networks (LANs), wide-area networks (WANs), and backbone technologies. It combines the fundamental concepts of data communications and networking with practical applications and emphasizes the OSI reference model and its relationship to traditional and next-generation LAN/WAN technologies, as well as general topics such as network topology, network interface, client/server hardware, bridges and routers. Hands-on activities using Wireshark are included.
+Prerequisites: ENGT 305
+EET 412 Wireless Communication Systems (3 Credit Hours)
+Topics include digital encoding techniques, signal-to-noise comparisons of different analog and digital modulation methods, link analysis, basic data transmission, cellular networks, wireless standards, basic computer networks framing and protocols, and satellite communication. System level simulations for determining subsystem design requirements and overall performance.
+Prerequisites: ENGT 305
+EET 420 Advanced Logic Design (3 Credit Hours)
+Advanced digital logic design and circuit reduction.  Topics include lattice structure, symmetry recognition and simplification, threshold logic, design-for-testing techniques, shortest path test planning, adaptive testing, and fuzzy logic.  Computer assignments include design simulation and testing.
+Prerequisites: EET 310
+EET 430 Advanced Motion Control Systems (3 Credit Hours)
+A study of modern control devices and applications including electrical, mechanical and pneumatic types. This course is a study of modern electro-mechanical devices and advanced PLCs as applied to modern automation process control systems. The course covers motion control mathematical modeling, design using advanced PLCs and motion control PLC module cards, closed loop control theory and simulations. The emphasis is on understanding the underlying principles that support the building blocks of industrial process control systems.
+Prerequisites: ENGT 305 , EET 360 , and EET 373
+EET 470 Microcontrollers/Embedded-Based Designs (3 Credit Hours)
+Advanced embedded system designs. Topics focus in ADC, DAC, EEPROM External Memories, temperature sensor, digital RF wireless communications, communications in synchronous and asynchronous serial forms of SCI, SPI, & I2C, and parallel communication in system integration and design. The 32 bit ARM M4 in C code designs will be used in the course.
+Prerequisites: EET 310 , EET 320 , and EET 325
+EET 483 Introduction to Smart Grids (3 Credit Hours)
+The course introduces the fundamental principles and techniques in smart grids, with focus on information and communication technologies (ICT) deployed to modernize the electric energy infrastructure. It provides an overview on: the smart grid and its main components; smart devices at transmission, distribution and customer level; distributed energy resources (DER) and emerging technologies; customer systems, including demand response, home energy management and smart appliances; communications technologies and standards/protocols for the smart grid; and smart distribution and customer system projects from real-world smart grid projects.
+Prerequisites: EET 360 and ENGT 305
+EET 485 Electrical Power Systems (3 Credit Hours)
+Fundamentals of electrical power transmission and distribution systems.  Transformer operation/application,  balanced/unbalanced loads, power factor correction, per-unit system system applications, fault calculations, power quality, over-current protection, relay construction/application, lighting system design, grounding, and introduction  to the National Electric Code.
+EET 495 Topics in Electrical Engineering Technology (1-3 Credit Hours)
+Study of selected topics.
+EET 496 Topics in Electrical Engineering Technology (1-3 Credit Hours)
+Study of selected topics.
+Engineering Technology (ENGT)
+ENGT 111 Engineering Technology Information Literacy/Research (2 Credit Hours)
+Fundamental information literacy and research as applied to engineering technology.  Course includes where and how to efficiently locate and critically evaluate technical information.  Proper use of technical information and the associated ethical and legal issues will be examined.
+Prerequisites: ENGN 110
+ENGT 200 Statics (3 Credit Hours)
+Scalar methods and free body diagrams are employed in the analysis of discrete and distributed force systems and their application to bodies in external equilibrium. Friction, moment of inertia, and center of gravity are also included.
+Pre- or corequisite: MATH 211
+ENGT 220 Strength of Materials (3 Credit Hours)
+Mechanical behavior of materials subjected to various external loads. Stress-strain relationships are utilized to design members subjected to shear, axial, bending, and torsional loads. Deformations are predicted and Mohr's circle is introduced.
+Prerequisites: MATH 211 and a C or better in ENGT 200 , CET 200, or MET 210
+ENGT 230 Engineering Graphics and Computer Solid Modeling (3 Credit Hours)
+Graphical communication for engineers studies the concept of 3D parametric modeling and its application in industry. In this course students will learn the fundamentals of sketching, basics of surface design, assembly modeling, and dynamic modeling of mechanisms using industry standard parametric modeling software. Emphasis on developing the skills needed for engineering design.
+ENGT 270 Automation and Controls (3 Credit Hours)
+A study of the design and analysis of feedback control system. Includes the fundamentals of programmable controllers as well as practical applications of interfacing mechanical, electrical, pneumatic and hydraulic feedback control circuits. Computer simulation software is used to model system responses.
+Pre- or corequisite: ENGT 286
+ENGT 286 Automation and Controls Laboratory (1 Credit Hour)
+Laboratory and computer simulation of control systems including programmable controllers as well as practical applications of interfacing mechanical, electrical and pneumatic control systems.
+Pre- or corequisite: ENGT 270
+ENGT 305 Advanced Technical Analysis (3 Credit Hours)
+Analytical and computational methods to support upper-division engineering technology courses. Topics include linear algebra, ordinary differential equations of engineering systems, elements of vector analysis, introductory statistical concepts, and software usage/development. MATLAB is used throughout the course to support all the topics. Presentation of various topics is adjusted for CET, EET or MET programs.
+Prerequisites: a grade of C or better in MATH 211
+ENGT 365 Geometric Dimensioning and Tolerancing (3 Credit Hours)
+Methods and rules of dimensioning and tolerancing, calculation of fits, and geometrical tolerances using ANSI-Y14.5M, tolerances of form, orientation, and profile, including flatness, straightness, circularity, cylindricity, angularity, etc. Student work consists of designing and detailing various product drawings.
+Prerequisites: MET 230 or ENGT 230
+ENGT 434 Introduction to Senior Design Project (3 Credit Hours)
+This course must be taken in the semester prior to the Senior Project course. A collection of career-related topics pertaining to engineering technology. Topics include engineering codes and standards, engineering ethics, technical report writing, job search and resume writing techniques, patents and property rights, and professional engineering licensure. The course concludes with the selection of the student's project topic for the subsequent Senior Project course.
+Prerequisites: MET 300 and MET 310 and MET 330 , or EET 310 or EET 312 or EET 320 or EET 360 or CET 301 or CET 330 or CET 361
+ENGT 435W Senior Design Project (3 Credit Hours)
+A capstone course utilizing upper-level coursework involving independent or group design projects under the direction of a sponsoring faculty member.  Projects may involve analytical and/or experimental results. Formal written and oral reports will be required. This is a writing intensive course.
+Prerequisites: ENGT 434 ; senior standing or faculty approval; grade of C or better in ENGL 211C or ENGL 221C or ENGL 231C
+Manufacturing Engineering Technology (MFET)
+MFET 235 Introduction to Robotics (3 Credit Hours)
+An introductory course in robotics dealing with the history and development of robots, mechanical components and control systems, actuators, robot programming and utilization. Included are laboratory experiments in robot motion and programming.
+Prerequisites: MATH 211
+MFET 310 Design for Manufacturing (3 Credit Hours)
+Principles of design for manufacturing, materials and process selection for design, design for assembly, design for production and case studies. Also includes impact of product design, design for maintenance, recyclability, disassembly, quality and robustness. Semester project requires redesign of an existing product for manufacturing.
+Prerequisites: MATH 211
+MFET 320 Introduction to Mechatronics (3 Credit Hours)
+A study of the mechatronics concepts and their application on actual problems encountered in engineering practice. Includes the basics of electromechanical systems, electrical circuits, solid-state devices, digital circuits and motors, all of which are fundamental to understanding mechatronic systems.
+Prerequisites: MATH 211
+MFET 330 Quality Systems in Manufacturing (3 Credit Hours)
+This course provides a comprehensive exploration of quality systems within the realm of manufacturing. Students will delve into the principles, methodologies, and tools essential for ensuring and enhancing product quality throughout the manufacturing lifecycle. Topics covered include quality management systems, statistical process control, Six Sigma methodologies, root cause analysis, quality assurance practices, and the integration of quality systems within various manufacturing processes. Through case studies and practical applications, students will gain a deep understanding of how quality systems contribute to operational excellence and competitive advantage in modern manufacturing environments.
+Prerequisites: ENGT 365
+MFET 340 Computer Integrated Manufacturing (3 Credit Hours)
+This course offers an in-depth examination of material handling technologies, automatic identification, and data capture techniques. Students will grasp the concepts underlying manufacturing support systems, delve into the realm of digital manufacturing, and gain proficiency in manufacturing process simulation. Through practical applications and theoretical frameworks, this course equips learners with a comprehensive understanding of how technology intersects with modern manufacturing processes.
+Prerequisites: MATH 211
+MFET 365 Geometric Dimensioning and Tolerancing (3 Credit Hours)
+Methods and rules of dimensioning and tolerancing, calculation of fits, and geometrical tolerances using ANSI-Y14.5M, tolerances of form, orientation, and profile, including flatness, straightness, circularity, cylindricity, angularity, etc. Student work consists of designing and detailing various product drawings.
+Prerequisites: MATH 211
+MFET 410 Computer Numerical Control in Production (3 Credit Hours)
+Principles of computer numerical control consistent with most recently developed standards, industry practices, and CAD/CAM systems including such topics as types of CNC machines, CNC milling, CNC turning and CNC electro-discharge machinery. A significant portion of the course includes programming in multiple axes.
+Prerequisites: ENGT 365
+MFET 420 Introduction To Welding Technologies (3 Credit Hours)
+An introduction to conventional and non-conventional welding processes. This course is intended to provide the student with a basic understanding of the various welding processes, welding terminology, joints, symbols, welding defects, equipment. Topics covered include welding processes, heat and fluid flow, structure of metals, solidification phenomena, phase transformations, residual stresses, and nondestructive examination techniques. Real life examples will be used to illustrate the fundamental concepts of the course. The student will also be introduced to career opportunities in the welding field. Lab time will be used to enforce lecture topics when needed.
+Prerequisites: ENGT 365
+MFET 430 Additive Manufacturing (3 Credit Hours)
+This course provides an overview of various additive manufacturing (AM) processes. Topics include fundamentals of polymer, composite, and metal AM processes, process parameters, AM software, AM cost, and AM’s industrial potential such as prototyping, tooling, production customization, spare parts, art, design, architecture and construction.
+Prerequisites: ENGT 365
+MFET 440 Advanced Manufacturing Processes (3 Credit Hours)
+This course explores the intricate methods and technologies revolutionizing manufacturing, encompassing additive manufacturing, precision machining, sustainable and green processes and technologies, custom manufacturing, intelligent production systems, digital manufacturing, and digital twin. Through case studies and practical applications, learners develop a comprehensive understanding of innovative manufacturing processes driving efficiency, precision, and competitiveness in industry.
+Prerequisites: ENGT 365
+MFET 450 Lean Engineering (3 Credit Hours)
+This course looks at the history of lean and six sigma philosophies, their principles and implementation methodologies for creating a world class enterprise. Topics in Lean include 5s, value stream mapping, cellular manufacturing, pull system, performance metrics, Lean supplier network, Lean product development and Lean implementation models. Through theory and practical applications, students gain a foundational grasp of Lean Manufacturing and its real-world applications.
+Prerequisites: ENGT 365
+MFET 460 Facilities Planning and Material Handling (3 Credit Hours)
+This course takes a systematic approach to design of facilities and material handling systems for effective and lean production of goods and services. An array of qualitative and quantitative tools and techniques are introduced and utilized, emphasizing lean principles, waste reduction, and overall efficiency of operations. Flow analysis and optimization tools, including computer simulation, are introduced. Strong emphasis is placed on a comprehensive semester-long team project as an integral component of this course.
+Mechanical Engineering Technology (MET)
+MET 120 Computer Aided Drafting (3 Credit Hours)
+Computer based drafting methods are taught with a major emphasis on 'Hands On' practice using 2-D AutoCAD software in the computer lab, along with the various methods of editing, manipulation, visualization and presentation of technical drawings.  This course includes the basic principles of engineering drawing/hand sketching, dimensioning and tolerancing.
+MET 200 Materials and Manufacturing Processes (3 Credit Hours)
+Application and characteristics, both physical and chemical, of the materials most commonly used in industry as well as procedures and processes used in converting raw materials into a finished product.
+MET 225 Strength of Materials Laboratory (1 Credit Hour)
+A laboratory course dealing with the standard methods of inspecting and testing materials used in engineering applications with emphasis on laboratory reports, including presentation and interpretation of experimental data.
+Pre- or corequisite: ENGT 220
+MET 295 Topics (1-3 Credit Hours)
+Study of selected topics.
+MET 300 Thermodynamics (3 Credit Hours)
+The basic laws of thermodynamics, properties of fluids, heat, and work and their applications in processes and cycles and an introduction to conduction heat transfer.
+Prerequisites: CHEM 121N , MATH 211 , and PHYS 111N or PHYS 231N
+MET 310 Dynamics (3 Credit Hours)
+A fundamental treatment of coplanar and three-dimensional kinematics and kinetics of particles and rigid bodies, including relative motion, mass moment of inertia, Newton's laws, work and energy and impulse and momentum.
+Prerequisites: A grade of C or better in MATH 211 , and MET 210 or CET 200 or ENGT 200
+MET 320 Design of Machine Elements (3 Credit Hours)
+Practical analyses of fundamental machine elements such as shafts, springs, and screws. Fundamental principles required for the correct design of the separate elements which compose the machine with attention given to problems of synthesis and the interrelationships of the design of elements within the sub-assembly. Topics include stress analysis of screws, belts, clutches, brakes, chains and thin and thick cylinders, and lubrication and bearings
+Prerequisites: A grade of C or better in MATH 211 , and ENGT 220
+MET 330 Fluid Mechanics (3 Credit Hours)
+The study of fluid statics and dynamics, including momentum, energy, Bernoulli's equation, laminar and turbulent fluid flow and friction in pipes, fluid machinery, and open-channel flow.
+Prerequisites: MATH 211 , and MET 210 or CET 200 or ENGT 200
+MET 331 Fluid Mechanics Laboratory (1 Credit Hour)
+A laboratory course dealing with the verification of fluid equations and principles and the characteristics of fluid machinery with emphasis on presentation and interpretation of experimental data.
+Pre- or corequisite: MET 330
+MET 340 Heat Transfer (3 Credit Hours)
+A study of conduction, convection and radiation heat transfer and heat exchangers. Emphasis is on applications and problem solving using current techniques, and modern correlations.
+Prerequisites: MET 300
+MET 350 Thermal Applications (3 Credit Hours)
+A study of the applications of thermodynamics.  Topics include the basic steam and gas turbine power cycles, internal combustion engines, introduction to refrigeration systems, gas mixtures, and psychrometrics applied to air conditioning processes.
+Prerequisites: MET 300 with a grade of C or better
+MET 351 Thermal Applications Laboratory (1 Credit Hour)
+Experiments dealing with applied thermodynamics, mechanical power and energy systems with emphasis on laboratory report writing, including presentation and interpretation of experimental data.
+Pre- or corequisite: MET 350
+MET 367 Cooperative Education (1-3 Credit Hours)
+May be repeated for credit.  Available for pass/fail grading only.  Student participation for credit based on the academic relevance of the work experience, criteria, and evaluative procedures as formally determined by the department and the Career Development Services program prior to the semester in which the work experience is to take place.  (offered fall, spring, summer)
+Prerequisites: approval by the department and Career Development Services in accordance with the policy for granting credit for Cooperative Education programs
+MET 368 Internship (1-3 Credit Hours)
+Available for pass/fail grading only.  Academic requirements will be established by the department and will vary with the amount of credit desired. Allows students to gain short duration career-related experience.
+Prerequisites: approval by department and Career Development Services
+MET 369 Practicum (1-3 Credit Hours)
+Available for pass/fail grading only.
+Prerequisites: approval by department and Career Development Services
+MET 395 Topics (1-3 Credit Hours)
+Study of selected topics.
+Prerequisites: permission of the instructor
+MET 396 Topics (1-3 Credit Hours)
+Study of selected topics.
+Prerequisites: permission of the instructor
+MET 427 Mechatronic System Design (3 Credit Hours)
+A study of the integrated modeling and optimal design of a physical system, which includes sensors, actuators, electronic components, and its embedded digital control system.  Includes simultaneous optimal design practice with respect to the realization of the design specifications related to different engineering domains.
+Prerequisites: MATH 211
+MET 430 Mechanical Subsystem Design (3 Credit Hours)
+Fundamental principles required for the correct design of the separate elements which compose the machine with attention given to problems of synthesis and the interrelationships of the design of elements within the sub-assembly. Topics include stress analysis of screws, belts, clutches, brakes, chains and thin and thick cylinders, and lubrication and bearings.
+Prerequisites: MET 320
+MET 431 Modeling and Simulation of Mechatronic Systems (3 Credit Hours)
+The course provides foundations, principles, methods, and tools for modeling and simulation of electro-mechanical components and systems using appropriate modeling techniques. The course is focused on the multi-body dynamics systems, fluid, hydraulic, and electrical systems.
+Prerequisites: MATH 211
+MET 450 Energy Systems (3 Credit Hours)
+A study of the application of thermodynamics to power plants, engines, compressors, turbines, and associated systems. A detailed study is made of fossil fuel power plants with an introductory study of nuclear power and other energy conversion systems.
+Prerequisites: MET 350
+MET 460 Refrigeration and Air Conditioning (3 Credit Hours)
+The design and application of refrigeration and air conditioning systems.  Studies are made of compressors, condensers, evaporators, psychometric processes, load calculations and air distribution systems.  High performance vapor compression systems, absorption systems and other cycles are analyzed.
+Prerequisites: MET 330 and MET 350
+MET 471 Nuclear Systems I (3 Credit Hours)
+Reactor physics principles as applied to the design and operation of various types of commercial nuclear power reactors. Topics include sources of radiation and interaction with matter, neutron interactions, diffusion theory, and reactor kinetics.
+Prerequisites: MATH 211
+MET 472 Nuclear Systems II (3 Credit Hours)
+Complete study of the nuclear fuel cycle, from mining through fabrication, fuel management in an operating commercial power reactor, spent fuel management, and fuel reprocessing, with emphasis on chemical engineering considerations.
+Prerequisites: MET 471
+MET 475 Marine Engineering I (3 Credit Hours)
+This course includes: fundamental principles of naval architecture including nomenclature, geometry, stability, hydrostatics, structures, and motions; ship design processes; and a basic introduction to shipboard systems such as HVAC, refrigeration, power generation, propulsion, hydraulics, electronics, cargo handling systems, seawater systems, freshwater systems, and fuel, lube and other oil systems.
+Prerequisites: MET 330 and MET 350
+MET 476 Marine Engineering II (3 Credit Hours)
+This course builds upon MET 475 and provides a more in-depth look on how the marine shipbuilding industry is using various software including SIEMENS PLM, 3D CAD modeling and new technologies like laser scanners and augmented reality to reshape the future of shipbuilding, maintenance, and repair processes. Focus will be based on model-based learning and creating a 'digital thread' of information. Students will practice what they learn on shipbuilding concepts using commercial software that is widely used across automotive, aerospace, and marine industries.
+Prerequisites: MET 475
+MET 480 High Performance Piston Engines (3 Credit Hours)
+A study of the fundamental principles and performance characteristics of spark ignition and diesel internal combustion engines.  Overview of engine types and their operation, engine design and operating parameters; ideal and semi-empirical models of engine cycles; combustion, fluid flow and thermal considerations in engine design and performance.  Laboratory evaluation of engine performance using flow and dynamometer systems. (cross-listed with MAE 477/MAE 577)
+Prerequisites: MET 350 or MAE 312
+MET 485 Maintenance Engineering (3 Credit Hours)
+This course looks at maintenance systems: predictive, preventative and corrective; large scale maintenance systems, principles of reliability engineering, maritime logistics; planning for maintenance and repair, using and ordering spare parts, technical manuals, system specifications, and shipyard operations.
+MET 495 Topics in Mechanical Engineering Technology (1-3 Credit Hours)
+Study of selected topics.
+Prerequisites: permission of the instructor
+MET 496 Topics in Mechanical Engineering Technology (1-3 Credit Hours)
+Study of selected topics.
+Prerequisites: permission of the instructor
+Search catalog

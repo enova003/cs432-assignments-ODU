@@ -1,0 +1,31 @@
+Graduate Courses
+ENGT 111 Engineering Technology Information Literacy/Research (2 Credit Hours)
+Fundamental information literacy and research as applied to engineering technology.  Course includes where and how to efficiently locate and critically evaluate technical information.  Proper use of technical information and the associated ethical and legal issues will be examined.
+Prerequisites: ENGN 110
+ENGT 200 Statics (3 Credit Hours)
+Scalar methods and free body diagrams are employed in the analysis of discrete and distributed force systems and their application to bodies in external equilibrium. Friction, moment of inertia, and center of gravity are also included.
+Pre- or corequisite: MATH 211
+ENGT 220 Strength of Materials (3 Credit Hours)
+Mechanical behavior of materials subjected to various external loads. Stress-strain relationships are utilized to design members subjected to shear, axial, bending, and torsional loads. Deformations are predicted and Mohr's circle is introduced.
+Prerequisites: MATH 211 and a C or better in ENGT 200 , CET 200, or MET 210
+ENGT 230 Engineering Graphics and Computer Solid Modeling (3 Credit Hours)
+Graphical communication for engineers studies the concept of 3D parametric modeling and its application in industry. In this course students will learn the fundamentals of sketching, basics of surface design, assembly modeling, and dynamic modeling of mechanisms using industry standard parametric modeling software. Emphasis on developing the skills needed for engineering design.
+ENGT 270 Automation and Controls (3 Credit Hours)
+A study of the design and analysis of feedback control system. Includes the fundamentals of programmable controllers as well as practical applications of interfacing mechanical, electrical, pneumatic and hydraulic feedback control circuits. Computer simulation software is used to model system responses.
+Pre- or corequisite: ENGT 286
+ENGT 286 Automation and Controls Laboratory (1 Credit Hour)
+Laboratory and computer simulation of control systems including programmable controllers as well as practical applications of interfacing mechanical, electrical and pneumatic control systems.
+Pre- or corequisite: ENGT 270
+ENGT 305 Advanced Technical Analysis (3 Credit Hours)
+Analytical and computational methods to support upper-division engineering technology courses. Topics include linear algebra, ordinary differential equations of engineering systems, elements of vector analysis, introductory statistical concepts, and software usage/development. MATLAB is used throughout the course to support all the topics. Presentation of various topics is adjusted for CET, EET or MET programs.
+Prerequisites: a grade of C or better in MATH 211
+ENGT 365 Geometric Dimensioning and Tolerancing (3 Credit Hours)
+Methods and rules of dimensioning and tolerancing, calculation of fits, and geometrical tolerances using ANSI-Y14.5M, tolerances of form, orientation, and profile, including flatness, straightness, circularity, cylindricity, angularity, etc. Student work consists of designing and detailing various product drawings.
+Prerequisites: MET 230 or ENGT 230
+ENGT 434 Introduction to Senior Design Project (3 Credit Hours)
+This course must be taken in the semester prior to the Senior Project course. A collection of career-related topics pertaining to engineering technology. Topics include engineering codes and standards, engineering ethics, technical report writing, job search and resume writing techniques, patents and property rights, and professional engineering licensure. The course concludes with the selection of the student's project topic for the subsequent Senior Project course.
+Prerequisites: MET 300 and MET 310 and MET 330 , or EET 310 or EET 312 or EET 320 or EET 360 or CET 301 or CET 330 or CET 361
+ENGT 435W Senior Design Project (3 Credit Hours)
+A capstone course utilizing upper-level coursework involving independent or group design projects under the direction of a sponsoring faculty member.  Projects may involve analytical and/or experimental results. Formal written and oral reports will be required. This is a writing intensive course.
+Prerequisites: ENGT 434 ; senior standing or faculty approval; grade of C or better in ENGL 211C or ENGL 221C or ENGL 231C
+No Graduate courses found.

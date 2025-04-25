@@ -1,0 +1,725 @@
+Graduate Courses
+BIOL 105N Biology for Nonscience Majors I (4 Credit Hours)
+An introductory, non-sequential course for non-biology majors with laboratory. This course concentrates on major biological concepts concerning molecular biology, cellular biology, cellular reproduction, energetics, and organismal biology. Laboratory activities enhance understanding of core biological topics.  Cannot be substituted for BIOL 121N and BIOL 122N or for BIOL 123N and BIOL 124N .
+BIOL 106N Biology for Nonscience Majors II (4 Credit Hours)
+An introductory, non-sequential course for nonbiology majors with laboratory. This course concentrates on major biological concepts involving classical and molecular genetics, biotechnology, evolution, and ecology. Laboratory activities enhance understanding of core biological topics.  Cannot be substituted for BIOL 121N and BIOL 122N or for BIOL 123N and BIOL 124N .
+BIOL 110N Environmental Science for Non-Majors (3 Credit Hours)
+An introductory, non-sequential course for nonbiology majors focusing on scientific inquiry and the fundamental biological underpinnings of environmental science. The course concentrates on ecology, evolution, the nature of and threats to biodiversity, and conservation solutions. Cannot be substituted for BIOL 121N or BIOL 123N . BIOL 110N + BIOL 111N satisfy four credits of the University's Nature of Science general education requirement.
+Pre- or corequisite: BIOL 111N
+BIOL 111N Environmental Science Lab for Non-Majors (1 Credit Hour)
+Laboratory activities and scientific experiments that enhance understanding of environmental science through a hands-on approach that cannot be provided in the lecture classroom setting. BIOL 110N + BIOL 111N satisfy four credits of the University's Nature of Science general education requirement.  Cannot be substituted for BIOL 122N or BIOL 124N .
+Pre- or corequisite: BIOL 110N
+BIOL 112N Environment and Humanity (3 Credit Hours)
+An introductory, non-sequential course for nonbiology majors focusing on the most serious environmental problems our society is facing today and how these problems can be solved. The course concentrates on the science behind natural resources and resource management, toxicology, environmental policies and ethics, and sustainable living. Cannot be substituted for BIOL 121N or BIOL 123N . BIOL 112N and BIOL 113N satisfy four credits of the University's Nature of Science general education requirement.
+Pre- or corequisite: BIOL 113N
+BIOL 113N Environment and Humanity Laboratory (1 Credit Hour)
+Laboratory activities and experiments that enhance understanding of the scientific method and environmental sciences through a hands-on approach that cannot be provided in the lecture classroom setting. This course cannot be substituted for BIOL 122N or BIOL 124N . BIOL 112N + BIOL 113N satisfy four credits of the University's Nature of Science general education requirement.
+Pre- or corequisite: BIOL 112N
+BIOL 117N Introduction to Human Biology (3 Credit Hours)
+An introductory lecture course for non-majors focusing on scientific inquiry and the structure and function of the human body with units on diet, nutrition, exercise, infectious disease, and cancer.  Cannot be substituted for BIOL 121N or BIOL 123N .
+Pre- or corequisite: BIOL 118N
+BIOL 118N Introduction to Human Biology Lab (1 Credit Hour)
+An introductory lab course for non-majors focusing on scientific inquiry and the structure and function of the human body with units on diet, nutrition, exercise, infectious disease, and cancer. Cannot be substituted for BIOL 122N or BIOL 124N .
+Pre- or corequisite: BIOL 117N
+BIOL 121N General Biology I (3 Credit Hours)
+An introduction to the process of science, biological molecules, cell biology, metabolism, molecular biology, and Mendelian genetics.  Students required to take BIOL 121N cannot earn credit for BIOL 105N , BIOL 106N , BIOL 110N , BIOL 112N , or BIOL 117N .
+Prerequisites: Writing Success Placement Tool (WSPT) Score of 3 or ENGL 110C
+Pre- or corequisite: BIOL 122N and MATH 102M or higher
+BIOL 122N General Biology I Lab (1 Credit Hour)
+A lab course emphasizing the process of science, biological molecules, cell biology, metabolism, molecular biology, and Mendelian genetics.  Students required to take BIOL 122N cannot earn credit for BIOL 111N , BIOL 113N , or BIOL 118N .
+Pre- or corequisite: BIOL 121N and MATH 102M or higher
+BIOL 123N General Biology II (3 Credit Hours)
+An introduction to the process of science, evolutionary biology, ecology, and the basic biology of viruses, prokaryotes, and eukaryotes.  Students required to take BIOL 123N cannot earn credit for BIOL 105N , BIOL 106N , BIOL 110N , BIOL 112N , or BIOL 117N .
+Prerequisites: Placement into ENGL 110C and qualifying Math SAT/ACT score, or qualifying score on the Math placement test, or completion of MATH 102M or higher, and BIOL 121N passed with a grade of C (2.0) or higher
+Pre- or corequisite: BIOL 124N
+BIOL 124N General Biology II Lab (1 Credit Hour)
+A lab course emphasizing the process of science, evolutionary biology, ecology, and the basic biology of viruses, prokaryotes, and eukaryotes.  Students required to take BIOL 124N cannot earn credit for BIOL 111N , BIOL 113N , or BIOL 118N .
+Prerequisites: Placement into ENGL 110C and qualifying Math SAT/ACT score, or qualifying score on the Math placement test, or completion of MATH 102M or higher, and BIOL 121N
+Pre- or corequisite: BIOL 123N
+BIOL 136N Honors General Biology I (3 Credit Hours)
+This course is available only to students in the Honors College.  An introduction to the process of science, biological molecules, cell biology, metabolism, molecular biology, and Mendelian genetics.  Students required to take BIOL 136N cannot earn credit for BIOL 105N , BIOL 106N , BIOL 110N , BIOL 112N , or BIOL 117N .
+Prerequisites: Placement into ENGL 110C and qualifying Math SAT/ACT score, or qualifying score on the Math placement test, and enrollment in the Honors College
+Pre- or corequisite: BIOL 137N and MATH 102M or higher
+BIOL 137N Honors General Biology I Lab (1 Credit Hour)
+This lab course is available only to students in the Honors College.  This lab course emphasizes the process of science, biological molecules, cell biology, metabolism, molecular biology, and Mendelian genetics.  Students required to take BIOL 137N cannot earn credit for BIOL 111N , BIOL 113N , or BIOL 118N .
+Prerequisites: Placement into ENGL 110C and qualifying Math SAT/ACT score, or qualifying score on the Math placement test, and enrollment in the Honors College
+Pre- or corequisite: BIOL 136N and MATH 102M or higher
+BIOL 138N Honors General Biology II (3 Credit Hours)
+This course is available only to students in the Honors College.  An introduction to the process of science, evolutionary biology, ecology, and the basic biology of viruses, prokaryotes, and eukaryotes.  Students required to take BIOL 138N cannot earn credit for BIOL 105N , BIOL 106N , BIOL 110N , BIOL 112N , or BIOL 117N .
+Prerequisites: Placement into ENGL 110C and qualifying Math SAT/ACT score, or qualifying score on the Math placement test, or completion of MATH 102M or higher, enrollment in the Honors College, and BIOL 136N
+Pre- or corequisite: BIOL 139N
+BIOL 139N Honors General Biology II Lab (1 Credit Hour)
+This lab course is available only to students in the Honors College.  This lab course emphasizes the process of science, evolutionary biology, ecology, and the basic biology of viruses, prokaryotes, and eukaryotes.  Students required to take BIOL 139N cannot earn credit for BIOL 111N , BIOL 113N , or BIOL 118N .
+Prerequisites: Placement into ENGL 110C and qualifying Math SAT/ACT score, or qualifying score on the Math placement test, or completion of MATH 102M or higher, enrollment in the Honors College, and BIOL 136N
+Pre- or corequisite: BIOL 138N
+BIOL 150 Introductory Microbiology (3 Credit Hours)
+A course designed to acquaint the student with the elementary principles of bacteriology and other disease causing microorganisms. Emphasis is placed on microorganisms as etiological agents in disease, on practical methods of disinfection, and on the factors of infection and immunity.
+Pre- or corequisite: BIOL 151
+BIOL 151 Introductory Microbiology Laboratory (1 Credit Hour)
+A course designed to acquaint the student with the elementary principles of bacteriology and other disease causing microorganisms. Emphasis is placed on microorganisms as etiological agents in disease, on practical methods of disinfection, and on the factors of infection and immunity.
+Pre- or corequisite: BIOL 150
+BIOL 195 Biology Lab Topics (1-3 Credit Hours)
+Laboratory topics.
+BIOL 196 Topics (1-3 Credit Hours)
+Topics in Biology.
+BIOL 197 Undergraduate Research Experience in Biology (0 Credit Hours)
+Student participation in a supervised, undergraduate research experience for which credit will not apply to the degree.  Experience must be related to the student's major, minor or career area of interest.
+Prerequisites: permission of the instructor
+BIOL 240 Fundamentals of Anatomy and Physiology I (4 Credit Hours)
+This is the first of a two-part course that investigates the structure and function of the human body. Emphasis is on the basic organization of the body, biochemical composition, cellular structure, function, tissues and organs of the following systems: integumentary, skeletal, muscular, nervous, sensory and endocrine. In lab, students will study the interrelationship between structure and function of the human body using models, histological preparations, and human and feline anatomical specimens. Students with credit for BIOL 240 cannot receive credit for BIOL 250 .
+BIOL 241 Fundamentals of Anatomy and Physiology II (4 Credit Hours)
+The second of a two-part course that investigates the structure and function of the human body.  Emphasis is on the basic organization of the body, biochemical composition, cellular structure, function, tissues and organs of the following systems: cardiovascular, lymphatic, immune, respiratory, urinary, digestive, reproductive and human development. In lab, students will study the interrelationship between structure and function of the human body using models, histological preparations, and human and feline anatomical specimens.  Students with credit for BIOL 241 cannot receive credit for BIOL 251 .
+Prerequisites: BIOL 240
+BIOL 250 Human Anatomy and Physiology I (4 Credit Hours)
+This course emphasizes the gross anatomical relationships and the molecular, cellular, physiological, and metabolic process of the integument, musculoskeletal, neural, and immune systems.  Students with credit for BIOL 250 cannot receive credit for BIOL 240 .
+BIOL 251 Human Anatomy and Physiology II (4 Credit Hours)
+This course emphasizes the physiology and pathophysiology of the cardiac, pulmonary, renal, endocrine, and reproductive systems. Only BIOL 251 (4 credits) may count toward upper-division elective requirements for the Biology major.  Students with credit for BIOL 251 cannot receive credit for BIOL 241 .
+Prerequisites: BIOL 250 or permission of the instructor
+BIOL 291 Ecology (3 Credit Hours)
+An introduction to the basic concepts of ecology for both biology majors and nonmajors. The concepts are introduced with respect to terrestrial and aquatic environments.
+Prerequisites: BIOL 123N and BIOL 124N or BIOL 138N and BIOL 139N must be passed with a grade of C or higher
+BIOL 292 Evolution (3 Credit Hours)
+An introduction to the basic concepts of evolution for both biology majors and nonmajors. The concepts are introduced with respect to terrestrial and aquatic environments.
+Prerequisites: BIOL 123N and BIOL 124N or BIOL 138N and BIOL 139N must be passed with a grade of C or higher
+BIOL 293 Cell Biology (3 Credit Hours)
+A comprehensive course in the structural and functional features of cells, including prokaryotic and eukaryotic cells.  The course will also examine biomacromolecules, techniques in cell and molecular biology, and current frontiers in cell biology research.
+Prerequisites: BIOL 123N and BIOL 124N or BIOL 138N and BIOL 139N must be passed with a grade of C or higher
+BIOL 294 Genetics (3 Credit Hours)
+An introduction to the principles of biological inheritance and variation and the molecular basis of gene structure and function.
+Prerequisites: BIOL 123N and BIOL 124N or BIOL 138N and BIOL 139N must be passed with a grade of C or higher
+BIOL 300 Fundamental Biomolecules (3 Credit Hours)
+This course provides a detailed understanding of the four major classes of organic biological molecules as well as inorganic biological molecules (vitamins and trace minerals).  The course focuses on how these biomolecules relate to everyday life for a diversity of organisms.  This course will additionally emphasize current research and topics in the media as they pertain to biomolecules.  This course counts as an elective for BIOL majors; students with premedical, dental or veterinary emphasis should consider if this course will satisfy requirements for medical, dental, or veterinary schools.
+Prerequisites: BIOL 123N or BIOL 138N or BIOL 251 with a C or better and CHEM 107N or CHEM 123N or CHEM 173T with a C or better
+BIOL 301 Practice of Science-Biology (4 Credit Hours)
+This course is designed to provide a genuine research experience for undergraduate students at the sophomore/junior level. Students will pursue a novel research question and use modern laboratory techniques to examine this question and test hypotheses.
+Pre- or corequisite: BIOL 291 or BIOL 292 or BIOL 293 or BIOL 294
+BIOL 302 Introduction to immunology (3 Credit Hours)
+A review of the phenomena of immune resistance, the cells and tissues involved in immune responses and the consequences of immunization.
+Prerequisites: BIOL 293
+BIOL 304 Animal Nutrition (3 Credit Hours)
+The course incorporates the fields of animal physiology, biochemistry, ecology and behavior to provide a comprehensive framework for energy acquisition, processing, and use in animals.  The course content integrates cellular and molecular mechanisms of digestion and absorption, with tissue-specific and whole-animal metabolism, to the environmental influences on food resource availability and the diverse adaptations of animals to specific dietary and energetic constraints.  The course primarily focuses on vertebrate animals.
+Pre- or corequisite: BIOL 305
+BIOL 305 Animal Nutrition Laboratory (2 Credit Hours)
+This course in comparative animal nutrition and metabolism explores how diverse animals accomplish the universal task of acquiring food energy from their environments, processing and assimilating these resources, and use food energy in metabolism to support vital functions (e.g. growth, repair, reproduction).
+Pre- or corequisite: BIOL 304
+BIOL 306 Human Genetics (3 Credit Hours)
+Human genetics applies the principles of genetics to understanding human disease and evolution. It covers classical genetics, molecular genetics and population genetics, meeting the undergraduate genetics requirement for biology and biochemistry majors.
+Pre- or corequisite: CHEM 441
+BIOL 307 Invertebrate Zoology (5 Credit Hours)
+An examination of the invertebrate phyla with emphasis on classification, morphology, phylogeny, and general biology.
+Prerequisites: BIOL 292 must be passed with a grade of C or higher
+BIOL 308 Botany (4 Credit Hours)
+A general introduction to the structure, function, ecology, and diversity of plants.
+Prerequisites: BIOL 291 and BIOL 292 must be passed with a grade of C or higher
+BIOL 309 Foundations of Pathophysiology (4 Credit Hours)
+This course is designed to teach the fundamentals of abnormal functions essential to understanding diseases, disease processes, and production of signs and symptoms. Chemical, biological, and biochemical alterations in physiology of all major organ systems will be considered.
+Prerequisites: BIOL 240 / BIOL 241 OR BIOL 250 / BIOL 251
+BIOL 310 Field Invertebrate Zoology (5 Credit Hours)
+An examination of the invertebrate phyla with emphasis on classification, morphology, phylogeny, and general biology. This course will be taught as a full, immersive, field course in the Florida Keys.
+Prerequisites: BIOL 292 must be passed with a grade of C or higher
+BIOL 311 Global Change Biology (3 Credit Hours)
+This course will emphasize the application of evolutionary and ecological principles such as species geographic range shifts, changes in phenology, acclimation, adaptation, and extinction in response to global environmental changes.
+Prerequisites: BIOL 291 and BIOL 292 must be passed with a grade of "C" or higher
+BIOL 313 Introduction to Neuroanatomy (4 Credit Hours)
+This course is designed to give students a comprehensive understanding of the structure and function of the human nervous system, with a major focus on neuroanatomy. The basic principles of cellular neuroscience, neurophysiology, as well as, the sensory and motor pathways will be discussed in detail. Clinically relevant applications will be discussed when relevant. The laboratory component of this course will use cadavers and human tissue to study head and neck structures.
+Prerequisites: BIOL 241 or BIOL 251 and BIOL 293 must be passed with a C (2.0) or better
+BIOL 314 Developmental Biology (5 Credit Hours)
+An analysis of development in animals.  Lectures will explore experimental approaches to the study of gametogenesis, fertilization, cleavage and morphogenesis.  Laboratories will emphasize the morphological features of the developing vertebrate embryo.
+Pre- or corequisite: CHEM 211
+BIOL 316 General Microbiology (3 Credit Hours)
+This lecture course is a general survey of the nature and diversity of microorganisms, especially bacteria but including viruses and fungi, the roles and functions of microorganisms and basic microbiological research.
+Prerequisites: BIOL 293 and BIOL 294 must be passed with a grade of C or higher
+Pre- or corequisite: BIOL 317 or BIOL 318
+BIOL 317 General Microbiology Laboratory (2 Credit Hours)
+Laboratory course emphasizing basic techniques in microbiology.  Students with credit for BIOL 317 cannot receive credit for BIOL 318 .
+Prerequisites: BIOL 293 and BIOL 294 must be passed with a grade of C or higher
+Pre- or corequisite: BIOL 316
+BIOL 318 Online General Microbiology Laboratory (2 Credit Hours)
+Online laboratory course emphasizing basic techniques in microbiology. Students who take BIOL 318 cannot earn credit for BIOL 317 .
+Prerequisites: BIOL 293 and BIOL 294 with a grade of C or higher
+Pre- or corequisite: BIOL 316
+BIOL 322 Ethnobotany (3 Credit Hours)
+A survey of plants used for food, fiber, medicine, dyes, perfumes, oils, and waxes. The role of plants in folklore and religion is included. A student research project with a written paper and presentation is required.
+Prerequisites: BIOL 292 AND BIOL 308 must be passed with a grade of C or higher
+BIOL 331 Marine Biology (3 Credit Hours)
+A survey of the variety, ecology and adaptations of marine organisms. The course is designed to broadly introduce students to life in the oceans and the many special features of marine species that have evolved in the earth's oldest and most extensive ecosystem.
+Prerequisites: BIOL 291 must be passed with a grade of C (2.0) or higher
+BIOL 336 Vertebrate Zoology (4 Credit Hours)
+This course will emphasize the organisms classified as vertebrates - fish, amphibians, reptiles, birds, and mammals - in addition to their evolutionary relatives. Detailed discussions of the changes that accompany this diversification of life will include topics in evolution, comparative anatomy, geology, and taxonomy. The lab will be a survey of specimens representing the major groups discussed in lecture.
+Prerequisites: BIOL 291 and BIOL 292 must be passed with a grade of "C" or higher
+BIOL 340 Field Botany (4 Credit Hours)
+A survey of plants and plant communities of the Mid-Atlantic Coastal Plain.  Skills in plant and mushroom identification, specimen preparation, and research databases are emphasized.  Most classes are field trips.
+Prerequisites: BIOL 291 must be passed with a grade of C or higher
+BIOL 346 Plant Geography (3 Credit Hours)
+The distribution and characteristics of major plant community types in North America and practices used in the study of biogeography are discussed.
+Prerequisites: BIOL 123N and BIOL 124N must be passed with a grade of C or higher
+BIOL 350 Phage Discovery and Genomics I (4 Credit Hours)
+This course is the first semester of a two-semester laboratory and scientific writing course designed to provide a unique undergraduate research experience.  It focuses on the discovery of viruses (also known as bacteriophage or phage) that infect bacteria with an emphasis on laboratory techniques.  Students will collect phage from environmental samples and learn the laboratory techniques required for the isolation, purification and propagation of viruses.  Students will further characterize phage based on microscopy, molecular microbiology techniques, and nucleic acid sequencing.  This course emphasizes independent research and additional time outside of the laboratory will be required for sample collection and analysis.  This course also is designed to complement the MonarchTeach curriculum.
+Prerequisites: BIOL 294
+BIOL 351 Phage Discovery and Genomics II (3 Credit Hours)
+This is the second course of a two semester laboratory and scientific writing sequence that is designed to provide a unique research experience for undergraduate students. The second semester course is a continuation of the research on the phage project that was started in Phage Discovery and Genomics I ( BIOL 350 ). The students will analyze the newly sequenced bacteriophage genome using bioinformatics tools with an emphasis on Genomics. The bioinformatics will be completed using computer software, mathematical modeling and presented in formal scientific laboratory reports and formal presentations. Upon successful completion of the year-long course, some students will be invited to participate in the SEA-PHAGE program coordinated by the Howard Hughes Medical Institute. The course is designed with an emphasis on independent research that could lead to a scientific publication.
+Prerequisites: BIOL 350 and BIOL 294 must be passed with a grade of "C" or higher
+BIOL 355 Stem Cell Biology (3 Credit Hours)
+Tissue homeostasis requires the birth of new cells, typically derived from stem cells, as well as the removal of cells that are not needed or have become damaged. This course will focus on understanding the mechanisms by which new cells are generated and old or diseased cells are removed. The pathological consequences of failures in one or both of these key processes will be explored as well. Applications of stem cells to regenerative medicine will be considered in detail.
+Prerequisites: A grade of "C" or higher in BIOL 293
+BIOL 367 Cooperative Education (1-3 Credit Hours)
+Student participation for credit in a paid work environment based on the academic relevance of the work experience as determined by the department and the Cooperative Education program, prior to the semester in which the work experience is to take place.  Unstructured course.  Students must identify a full-time biology faculty member with the expertise to determine if the cooperative education experience is appropriate for a biology curriculum, approve the learning contract, review the submitted assignments (student report and supervisor’s evaluation) and assign a P/F grade.
+Prerequisites: approval by the department chair and Cooperative Education/Career Development Services
+BIOL 368 Internship (1-3 Credit Hours)
+Supervised participation in non-research professional setting.  Requires a minimum of 3 hours per week or equivalent for 1 credit, completion of work report and other documents relevant to the work experience, and supervisor evaluation. Unstructured course. Students must identify a full-time biology faculty member with the expertise to determine if the internship is appropriate for a biology curriculum, approve the learning contract, review the submitted assignments (student report and supervisor’s evaluation) and assign a P/F grade.
+Prerequisites: BIOL 123N and BIOL 124N must be passed with a grade of C (2.0) or higher, junior standing, and the approval of a full-time biology faculty member
+BIOL 369 Practicum (1-3 Credit Hours)
+A supervised experience in a research, teaching, or a work/field setting and culminating in the preparation of a written document relevant to the practicum experience.  Unstructured course.  Students must identify a full-time biology faculty member with the expertise to determine if the practicum is appropriate for a biology curriculum, approve the learning contract, review the submitted assignments (student report and supervisor’s evaluation) and assign a P/F grade.
+Prerequisites: BIOL 123N and BIOL 124N must be passed with a grade of C (2.0) or higher, acceptance as a declared major, junior class status, and approval by the sponsoring full-time biology faculty member and the practicum coordinator
+BIOL 395 Topics (1-3 Credit Hours)
+A structured specialty course designed to meet the needs of students in biology. Students are expected to perform at the level of other junior level classes.
+Prerequisites: BIOL 123N and BIOL 124N must be passed with a grade of C or higher
+BIOL 396 Topics in Biological Sciences (4-5 Credit Hours)
+A structured specialty course for students at the junior level. Courses may include lecture and laboratory components.
+Prerequisites: BIOL 123N and BIOL 124N with grades of C or better
+BIOL 400/500 Plant Systematics (4 Credit Hours)
+An evolutionary survey of vascular plant families and the principles and methodologies that define them; lab emphasis is placed on recognition and skills of identification. A lab and field intensive hands-on course.
+Prerequisites: BIOL 292 and BIOL 308 with a C or better
+BIOL 401W/501 Entomology (4 Credit Hours)
+A comprehensive survey of the insects, including taxonomy, morphology, physiology, reproductive and developmental biology, and ecology. Research techniques in entomology will be learned through both field and laboratory work. Writing skills will be learned through written summaries, essay exams, laboratory reports and research proposals. This is a writing intensive course.
+Prerequisites: BIOL 291 and BIOL 292 must be passed with a grade of C (2.0) or higher
+BIOL 402/502 Scientific Diving Methods for Marine Research (4 Credit Hours)
+This lecture/field experience course will train students in the common techniques used by marine scientists who employ scuba for their research. It satisfies the requirements for an American Academy of Underwater Scientist certification and covers other topics such as: use of underwater research equipment and marine resource surveys. A multi-day scuba trip is required.
+Prerequisites: BIOL 123N and BIOL 124N with grades of C or better, Open Water Scuba certification or equivalent, and ODU Dive Physical Form signed/completed by a physician
+BIOL 403/503 Medical Microbiology (3 Credit Hours)
+This course integrates the disciplines of microbiology, immunology, and biochemistry with the pathophysiology of infections and the appropriate pharmacology in a problem-based learning setting. Students will learn the fundamental concepts and terminologies of infectious diseases. The material will be case studies in small group tutorials and emphasize independent learning.
+Prerequisites: BIOL 240 or BIOL 250 , BIOL 316 and BIOL 317 or BIOL 318 , and CHEM 441 must be passed with a grade of C or higher or instructor approval
+BIOL 404/504 Conservation Biology and Sustainable Development (5 Credit Hours)
+The application of fundamental biological principles to the preservation of biodiversity, including the role of ecological and evolutionary theory to the preservation of biotas on a regional and global basis.  Lectures will cover modern approaches to conservation biology, including conservation ethics and management issues.  Laboratories will include discussion of case studies, introduction to software applicable to conservation biology, presentations by regional conservation practitioners, and visits to relevant field sites.
+Prerequisites: BIOL 291 must be passed with a grade of C or higher and junior standing or permission of instructor
+BIOL 405W Biology Seminar (3 Credit Hours)
+This course offers a capstone experience in scientific writing, faculty-mentored library research, the review and synthesis of material from the primary technical literature, and oral presentation.  Students will develop a deeper understanding of the purposes and types of scientific writing, the structure and interpretation of technical papers, and the oral and written communication skills appropriate to the discipline.  This is a writing intensive course.
+Prerequisites: BIOL 293 , BIOL 294 and two 300- or 400-level elective courses, a grade of C or better in ENGL 211C or ENGL 221C or ENGL 231C , and CS 120G or CS 121G or CS 126G or HLTH 120G or IT 150G or STEM 251G
+BIOL 406 Mammalogy (4 Credit Hours)
+This lecture and laboratory course examines the biology of mammals in depth. Course topics include the evolution of mammalian diversity, mammalian systematics, the behavior and social systems of mammals, mammalian biogeography and ecology, anatomical and physiological specializations in mammals, domestication of mammals, conservation of mammals, and human evolution. The laboratory portion of the course will focus on the various taxonomic groups within the Class: Mammalia through the study of museum material, pictures, video, and primary literature. In addition, students will learn how to identify specific mammal species found in the state of Virginia. Laboratory activities will also include field activities and one required weekend day trip.
+Prerequisites: BIOL 291 and BIOL 292
+BIOL 407/507 The Pharmacology and Neurobiology of How Recreational Drugs Work (3 Credit Hours)
+This course in drug use and abuse is designed to distinguish between drug use and drug abuse as well as provide pharmacological knowledge of how recreational drugs work. Students will acquire knowledge regarding the abuse of prescription drugs, depressants, stimulants, hallucinogens, marijuana and inhalants. This information will be used to analyze pathophysiological conditions that can occur as a result of drug use and abuse.
+Pre- or corequisite: BIOL 408 recommended
+BIOL 408/508 Introduction to Pharmacology (4 Credit Hours)
+This is a general introductory course in pharmacology dealing with chemistry, general properties and pharmacological effects on various physiological systems, therapeutic usefulness and toxicities of drugs.  The course is designed to prepare upper-level undergraduate and graduate students for more advanced courses in pharmacology.
+Prerequisites: course background in cell biology and/or human physiology
+BIOL 411/511 Zymology: Fermentation Science (4 Credit Hours)
+This is an introductory course in the theory and practice of zymology (fermentation). Edible and potable products of fermentation (beer, wine, mead, yogurt, cheese) have been known since antiquity and play an important role in today’s society. The science of fermentation touches on many biological disciplines, such as microbiology and biochemistry, and the study of yeasts has provided considerable foundation to the fields of cell biology and molecular biology. In this course, we will cover fundamentals of fermentation and its practical application to production of beer, one of the oldest beverages produced by humans.
+Prerequisites: BIOL 293
+BIOL 412/512 Plant Physiology (4 Credit Hours)
+Discover the incredible secrets behind what makes our green friends tick.  This course includes a traditional lecture covering the physiological and chemical processes occurring in plants.  A laboratory, greenhouse, and/or field-oriented lab will provide hands-on opportunities to understand plant stress responses, nutrient use, cell metabolism-respiration, photosynthesis, hormones, and processes driving growth patterns.
+Prerequisites: BIOL 292 OR BIOL 308 must be passed with a grade of C or higher
+Pre- or corequisite: BIOL 293 and CHEM 211
+BIOL 415W/515 Marine Ecology (5 Credit Hours)
+A lecture and laboratory course designed to introduce students to important ecological processes operating in coastal marine environments; this is a writing-intensive course. The course covers synthetic topics as well as the ecology of specific marine habitats. The laboratory is designed to provide students with experience in marine research and the organisms and ecological conditions common in various marine habitats visited by the class.
+Prerequisites: BIOL 291 and BIOL 331 and ENGL 211C or ENGL 221C or ENGL 231C must be passed with a grade of "C" or higher; instructor approval required
+BIOL 416/516 Clinical Immunology (3 Credit Hours)
+A description of common immunological problems seen in the clinic.
+Prerequisites: BIOL 302
+BIOL 419/519 Wetland Plants (4 Credit Hours)
+An exploration of the ecology of inland and coastal wetlands and their plants.  The course emphasizes wetland and aquatic plant identification, field and laboratory methods, and core concepts important to wetland plants and their ecology.  Linkages to wetland delineation and wetland adjacent systems will be made.  Weekly field-based laboratories are expected to local wetlands focusing on hands on opportunities and research methods.
+Prerequisites: BIOL 291 OR BIOL 308 must be passed with a grade of 'C' or higher; prerequisite waivers may be requested from the instructor
+BIOL 420/520 Ichthyology (5 Credit Hours)
+The biology of marine and freshwater fishes including morphology, physiology, evolution, distribution, ecology, and reproduction.
+Prerequisites: BIOL 292 must be passed with a grade of C or higher and junior standing
+BIOL 422/522 Field Studies in Ornithology (4 Credit Hours)
+A combined lecture and field study of birds with emphasis on identification, behavior, and field methods.  Extensive field trips, including at least one weekend, are taken.
+Prerequisites: BIOL 291 and BIOL 292 must be passed with a grade of C or higher or permission of the instructor
+BIOL 423W/523 Cellular and Molecular Biology (3 Credit Hours)
+The molecular organization of eukaryotic cells is presented along with cell evolution, molecular genetics, the internal organization of the cell and the behavior of cells in multicellular organisms. This is a writing intensive course.
+Prerequisites: BIOL 293 , BIOL 294 , and a grade of C or better in ENGL 211C or ENGL 221C or ENGL 231C
+BIOL 424/524 Comparative Animal Physiology (5 Credit Hours)
+An introduction to the basic mechanisms by which different animals function.  How organisms acquire and use energy, regulate their internal environment, circulate and exchange gases and wastes, receive and conduct information about their environment, and move and use muscles will be some of the topics covered.  Emphasis will be on how organisms make changes in these basic mechanisms to deal with different environmental conditions.
+Prerequisites: BIOL 292 must be passed with a grade of C or higher
+BIOL 425/525 Cancer Biology (3 Credit Hours)
+This course will examine how mutation leads to altered gene products and expression, subverted cell activity, cell immortalization, and tumor formation. Students will explore the differences between benign tumors and malignant tumors as well as the factors involved in malignancy. The course will conclude with the exploration of current cancer therapy.
+Prerequisites: BIOL 293 and BIOL 294 must be passed with a grade of C or higher
+BIOL 426/526 Histology (5 Credit Hours)
+The structure and function of cells, tissues and organs at both the light microscopic and ultrastructural levels.
+Prerequisites: BIOL 240 or BIOL 250 and BIOL 293 must be passed with a grade of C or higher
+BIOL 430W/530 Microbial Pathogenesis (3 Credit Hours)
+Examination of bacterium-host interactions with an emphasis on how bacteria cause disease, particularly the means by which the bacterium is able to circumvent host defense mechanisms. This is a writing intensive course.
+Prerequisites: BIOL 316 and BIOL 317 and a grade of C or better in ENGL 211C or ENGL 221C or ENGL 231C
+BIOL 432W Modern Plant-Animal Interactions (3 Credit Hours)
+This is a writing intensive course. It is designed to engage students in learning about the different types of plant-animal interactions that occur in a variety of the Earth’s ecosystems. The goal is to understand these interactions and their significance, how they shape communities and ecosystems, and how they maintain biodiversity. A variety of animal taxa and their relationships with plants are investigated, including birds, mammals, bats, fishes, and insects. Varied ecosystems, including wetlands, prairies, tropical and hardwood forests, agricultural lands, tundra, oceans, lakes and more, will be considered.
+Prerequisites: BIOL 291 and BIOL 292
+BIOL 435/535 Marine Conservation Biology (3 Credit Hours)
+This highly interdisciplinary science of conserving marine biodiversity will be taught through a review of old and new literature. This will include its history, marine ecology related to conservation biology, threats to marine biodiversity, assessment of extinction risk, conservation challenges of marine habitats and regions, and methods for conserving marine biodiversity.
+Prerequisites: BIOL 331 must be passed with a grade of C or higher
+BIOL 436W/536 Infectious Disease Epidemiology (3 Credit Hours)
+This lecture course will focus on concepts related to the spread and control of infectious diseases. This course is a writing-intensive course.
+Prerequisites: BIOL 293 , and BIOL 294 , and MATH 200 or MATH 163 or MATH 211 or MATH 205 , and STAT 130M or STAT 310 , and ENGL 231C or ENGL 221C or ENGL 211C ; all must be passed with a grade of "C" or higher
+BIOL 437W/537 One Health: People, Animals and the Environment (3 Credit Hours)
+A course that examines the interdependence between human health, animal health and environmental health. The One Health approach to the threat of emerging infectious diseases includes understanding the interconnectedness of human and animal pathogens, epidemic zoonoses and corresponding environmental factors, insights into mechanisms of microbial evolution towards pathogenicity, new technologies and approaches towards disease surveillance, and political and bureaucratic strategies. This is a writing intensive course.
+Pre- or corequisite: BIOL 292 and BIOL 294 ; a Microbiology course is recommended
+BIOL 440/540 Methods in Immunological Research (4 Credit Hours)
+The major objective of this hands-on course is to prepare students to independently perform basic laboratory techniques, assays, and experiments commonly used in entry-level immunology laboratory positions. The course will cover theory, sample and reagent preparation, instrumentation, data analysis and interpretation, and applications in immunology. Several topics covered in-class include ELISAs, mammalian cell culture, and flow cytometry; however, additional topics (such as confocal microscopy) will be covered using virtual technologies. This course is ideal for students who intend to pursue careers at the laboratory bench.
+Prerequisites: BIOL 302 , BIOL 316 and BIOL 317
+BIOL 441/541 Animal Behavior (5 Credit Hours)
+Animal behavior with special attention to its evolution and ecological significance. Field and laboratory activities will emphasize the observational and experimental techniques used to study behavior.
+Prerequisites: BIOL 291 and BIOL 292 must be passed with a grade of C or higher and junior standing or permission of the instructor
+BIOL 444/544 Field Studies in Marine Biology (5 Credit Hours)
+An intensive study abroad field course offered during the summer at a foreign  marine laboratory where students will be engaged in lectures and field studies of coastal marine environments.  Check with the Director of the Marine Biology Concentration Program for details.
+Prerequisites: BIOL 331 must be passed with a grade of C or higher
+BIOL 445/545 Community Ecology (3 Credit Hours)
+The goal of this course is to introduce and evaluate both classical and emerging paradigms in community ecology.  This will be achieved by examining those processes (biotic and abiotic) that structure ecological communities and by exposing students to quantitative and theoretical aspects of these paradigms.
+Prerequisites: BIOL 291 must be passed with a grade of C or higher
+BIOL 446/546 Comparative Biomechanics (3 Credit Hours)
+The principles of fluid and solid mechanics will be applied to a variety of plant and animal systems to understand how organisms deal with the immediate physical world and its accompanying constraints.  A diverse range of topics will be covered, including aerial flight in insects, wind resistance in trees, jet propulsion in squid, flow within blood vessels, forces on intertidal organisms, viscoelasticity in biological materials, and energy storage during terrestrial movement.
+Prerequisites: BIOL 293 must be passed with a grade of C or higher; PHYS 111N and PHYS 112N are recommended
+BIOL 448 Population Ecology (3 Credit Hours)
+This course uses conceptual and mathematical models to understand how populations grow and persist in space and time. Both plants and animals are discussed.
+Prerequisites: MATH 205 or MATH 211
+BIOL 449 Microbial Impact on Human Health (3 Credit Hours)
+This course introduces the student to microorganisms with particular emphasis placed on their role in health, wellness and disease.  Economic, social and cultural issues related to utilization, control, and research of the bacteria and viruses are also considered.
+Prerequisites: BIOL 293 or BIOL 294 must be passed with a grade of C or better
+BIOL 450/550 Principles of Plant Ecology (4 Credit Hours)
+This course explores theoretical concepts in plant ecology through review of classical and cutting-edge literature and practice with field-based experimental design and statistical methods. This course emphasizes the structure, development, and processes that drive patterns in plant communities and the ecological communities they support. Weekly field-based laboratories involve hands-on experience and opportunities to explore field methods in ecological research.
+Prerequisites: BIOL 291 OR BIOL 308
+BIOL 451/551 Bioinformatics and Genomics I (4 Credit Hours)
+The application of computer science to biology has led to major breakthroughs in the ability to read and understand the code written in genomes. This course will give students the skills to participate in the computational revolution in biology. The course will give students hands-on experience in writing simple yet powerful computer programs in the Python programming language and making beautiful data visualizations in the R programming language. Students will also learn how to combine existing pieces of bioinformatics software for their own workflows.
+Prerequisites: BIOL 123N and BIOL 124N must be passed with a grade of C (2.0) or higher, junior standing, and permission of the instructor
+BIOL 452/552 Bioinformatics and Genomics II (4 Credit Hours)
+The application of computer science to biology has led to major breakthroughs in the ability to read and understand the code written in genomes. This course will give students the skills to participate in the computational revolution in biology. The course will build on the knowledge of writing programs. Students will learn about some key techniques “under the hood” of software that have been critical to the genomics revolution. Topics will include: graph algorithms, evolutionary trees, probability models for DNA and protein sequences, and an introduction to deep learning in biology.
+Prerequisites: Knowledge of Python programming and permission of instructor, or BIOL 451 must be passed with a grade of C (2.0) or higher
+BIOL 453/553 Molecular Ecology (4 Credit Hours)
+This course will explore the biology of organisms by using molecular (nucleic acid and/or protein) techniques and data. It covers a wide variety of subdisciplines within Biology, including genetics, physiology, ecology, and evolution. This course will explore basic theory in population genetics, ecology, and evolution and cover DNA, RNA, and Protein techniques and their application to biological research.
+Prerequisites: BIOL 291 , BIOL 292 , BIOL 293 , AND BIOL 294 all must be passed with a grade of C or higher
+BIOL 454/554 Research in Pathogen Biology I: Laboratory Investigation (4 Credit Hours)
+This is the first course of a two-semester laboratory and analysis sequence that is designed to provide a genuine research experience for undergraduate students. Students will design a novel research question in pathogen biology, then use modern laboratory techniques such as polymerase chain reaction and next-generation DNA sequencing to examine this question and test hypotheses. Data generated in this course will be analyzed in the second course in the series, BIOL 455 . Data and analyses generated during these courses may be used for publication in scientific journals.
+Prerequisites: BIOL 294
+BIOL 455/555 Research in Pathogen Biology II: Analysis (4 Credit Hours)
+This is the second course of a two-semester laboratory and analysis sequence that is designed to provide a genuine research experience for undergraduate students. In this semester, students will analyze data generated during the previous semester in BIOL 454 . Modern methods of data analysis will be used, including statistical and bioinformatics techniques. Data and analyses generated during these courses may be used for publication in scientific journals.
+Prerequisites: BIOL 294 ; BIOL 454 preferred
+BIOL 457/557 General Virology (3 Credit Hours)
+A basic course covering the history of virology, viral taxonomy, genetics, and the molecular biology and host responses to the major mammalian virus groups.  Examples of recent impacts of viruses on human health such as influenza pandemics will also be covered.
+Prerequisites: BIOL 293 and BIOL 294 must be passed with a grade of C or higher
+BIOL 460/560 Frontiers in Nanoscience and Nanotechnology (1 Credit Hour)
+Review of the structure, synthesis and properties of key nano-materials and their impact on living systems.
+Prerequisites: BIOL 293 must be passed with a grade of C or higher
+BIOL 461/561 Human Cadaver Dissection (5 Credit Hours)
+Students will dissect a human cadaver fully and learn all of the major structures. The course will be divided into three sections: back and limbs, TAP (thorax, abdomen and pelvis), and head and neck. Instructor demonstrations include brain removal and dissection.
+Prerequisites: BIOL 241 or BIOL 251 , or its equivalent, must be passed with a grade of C (2.0) or higher
+BIOL 462/562 Microbial Genetics (3 Credit Hours)
+This course will emphasize the fundamental concepts of microbial genetics including the study of gene structure, gene regulation, operons, DNA replication, RNA biology, protein synthesis, plasmid biology, mobile genetic elements, and recombinant DNA technology.
+Prerequisites: BIOL 316 and BIOL 317 or BIOL 318 must be passed with a grade of C (2.0) or higher
+BIOL 463/563 Cell Signaling in Host Pathogen Interactions (3 Credit Hours)
+This course will emphasize cell dynamics including host and pathogen induced cellular signaling, the regulation of actin cytoskeleton rearrangement, and the modulation of host transcription and translation by different pathogens.
+Prerequisites: BIOL 293
+BIOL 464/564 Biomedical Applications of Low Temperature Plasmas (3 Credit Hours)
+This course is cross listed between ECE and Biology. It is intended for senior undergraduate students and first year graduate students. The course contents are multidisciplinary, combining materials from engineering and the biological sciences. The course covers an introduction to the fundamentals of non-equilibrium plasmas, low temperature plasma sources, and cell biology. This is followed by a detailed discussion of the interaction of low temperature plasma with biological cells, both prokaryotes and eukaryotes. Potential applications in medicine such as wound healing, blood coagulation, sterilization, and the killing of various types of cancer cells will be covered.
+Prerequisites: Senior standing
+BIOL 465/565 Biotechnology (3 Credit Hours)
+This course provides an overview of how microbes are manipulated to solve practical problems through biotechnology.  Topics include basic concepts in microbial technology, industrial microbiology, microbes in drug development, food microbiology, microbial interactions, gut microbiota, and metagenomics.
+Prerequisites: BIOL 316 and BIOL 317 or BIOL 318 must be passed with a grade of C or higher or permission of instructor
+BIOL 466W/566 Introduction to Mitigation and Adaptation Studies (3 Credit Hours)
+Students will be introduced to the science underpinning mitigation of human-induced changes in the Earth system, including but not limited to climate change and sea level rise, and adaptation to the impacts of these changes. The course will cover the environmental hazards and the opportunities and limitations for conservation, mitigation and adaptation. This is a writing intensive course. Cross listed with IDS 466W and OEAS 466W .
+Prerequisites: BIOL 291 or permission of instructor
+BIOL 467/567 Sustainability Leadership (3 Credit Hours)
+In this class, students will discover what makes a leader for sustainability. They will consider a range of global and local crises from a leadership point of view in the context of sustainability science, which addresses the development of communities in a rapidly changing social, economic, and environmental system-of-systems environment. The course will be based on taking a problem-motivated and solution-focused approach to the challenges considered. The course includes a service learning project focusing on a leadership experience in solving a real-world environmental problem.
+Prerequisites: BIOL 466W or OEAS 466W or IDS 466W
+BIOL 468W Research Methods in Mathematics and Science (3 Credit Hours)
+Emphasizes the tools and techniques used to solve scientific problems. Topics include use and design of experiments, use of statistics to interpret experimental results, mathematical modeling of scientific phenomena, and oral and written presentation of scientific results. Students will perform four independent inquiries, combining skills from mathematics and science to solve research problems. Required for Biology teaching licensure track; not available as upper-division elective in content area.  This is a writing intensive course.
+Prerequisites: BIOL 307 or BIOL 308 or BIOL 316 and BIOL 317 or MATH 212 and ENGL 211C or ENGL 221C or ENGL 231C and STEM 201 must be passed with a grade of C or higher or permission of instructor, and admission to Monarch Teach
+BIOL 470T/570 Diseases that Changed our World (3 Credit Hours)
+Despite advancements in the development of antimicrobials and vaccines and in securing clear water and food supplies, modern civilizations are not immune to epidemic diseases. This course will provide insight into the role of different technologies in the struggle to attain disease control and eradication and explore the challenge of forecasting emerging plagues, describing the nature and evolution of diseases and conveying their significance in shaping Western culture and civilization, their impact, their consequences, their costs, and the lessons learned.
+Prerequisites: Sophomore standing with a general biology course ( BIOL 123N or BIOL 138N or BIOL 117N )
+BIOL 471W/571 Marine Vertebrate Ecology, Management & Conservation (3 Credit Hours)
+Course will explore the biology, diversity and major life history patterns of a suite of marine megafauna, including sea turtles, marine mammals, seabirds and sharks. Students will determine the major drivers behind large-scale declines of many marine megafauna species and be challenged to understand and attempt to solve conservation and management issues. This is a writing intensive course, with a focus on the content and mechanics of scientific writing. Pre- or
+Corequisites: BIOL 331 OR OEAS 306
+BIOL 475/575 Neurobiology (3 Credit Hours)
+This course will focus on understanding brain structure as well as the morphology and function of the central nervous system in general. Fundamental processes such as neuron morphogenesis, guidance, polarity, migration, and growth cone motility will be emphasized. The cellular and molecular basis of neurological disorders also will be discussed.
+Prerequisites: BIOL 240 or BIOL 250 or BIOL 293 must be passed with a grade of "C" or higher or permission of instructor
+BIOL 476/576 Cancer Immunology and Immunotherapy (3 Credit Hours)
+Introduction to the immune system, tumor antigens, immunosuppressive cells and molecules, and cancer immunotherapy treatment approaches.
+Prerequisites: BIOL 123N , BIOL 124N , and BIOL 293 or permission of the instructor
+BIOL 478/578 Microbial Ecology (3 Credit Hours)
+Study of the interactions between microorganisms, particularly bacteria, and their environment.  Emphasis is placed on nutrient cycling and the influence of microbes on global mineral dynamics.  The effects of physical and chemical factors on the distribution and activity of microbes in their environments and the applications (biotechnology) of these interactions are studied.
+Prerequisites: BIOL 316 and BIOL 317 or BIOL 318 must be passed with a grade of C or higher
+BIOL 479/579 Microbial Ecology Laboratory (1 Credit Hour)
+A laboratory for measurement of microbial numbers and activity in natural environments.
+Pre- or corequisite: BIOL 478
+BIOL 481W/581 Forensic and Medical Entomology (5 Credit Hours)
+This is a writing intensive course that provides a comprehensive survey of the insects used in legal investigations and medically important insects. Topics covered include the taxonomy, morphology, physiology, reproductive and developmental biology, and ecology of these insects along with the diseases they may vector. Research techniques in forensic and medical entomology will be learned through both field and laboratory activities.
+Prerequisites: BIOL 291 and BIOL 292 must be passed with a grade of C (2.0) or higher
+BIOL 482/582 Human and Veterinary Parasitology (3 Credit Hours)
+The course will emphasize the principles of parasitism, including biology, physiology, genetics, morphology, and phylogeny of the major parasitic groups with a specific focus on the significant parasites of humans and animals of veterinary importance.  The general biology of parasites including their life cycles, diagnosis, and treatment will be included as well.
+Prerequisites: BIOL 293 and BIOL 294 must be passed with a grade of C or higher or permission of instructor
+BIOL 487 Honors Research in Biology (2 Credit Hours)
+Student performs mentored research in biological science. Student and faculty mentor must meet on a regular basis. The course is intended to be taken as a series with BIOL 488W .  Available for pass/fail grading only.
+Prerequisites: admission to the Honors Program and senior standing
+BIOL 488W Honors Research in Biology (4 Credit Hours)
+Independent study and scheduled meetings with faculty advisor.  Supervised independent study in an area of individual interest in biology.  The work in this course results in the production of a thesis.  This is a writing intensive course.
+Prerequisites: BIOL 487 , admission to the Honors Program, senior standing, and a grade of C or better in ENGL 211C or ENGL 221C or ENGL 231C
+BIOL 490/590 Advanced Human Physiology (4 Credit Hours)
+All major physiological systems will be examined with an emphasis on normal physiology. Some clinical applications will be discussed.
+Prerequisites: BIOL 241 or BIOL 251 must be passed with a grade of C (2.0) or higher
+BIOL 494 Entrepreneurship in Biology (3 Credit Hours)
+Ecological entrepreneurs consider the impact of products on the environment and are mindful of natural resources, sustainability, and social equity. In this novel class students will test their skill at biologically-inspired entrepreneurship after learning about biomimicry, sustainability, and other relevant concepts.
+BIOL 496/596 Topics in Biological Sciences (1-4 Credit Hours)
+A structured specialty course for students at the senior level. Courses may include lecture and laboratory components.
+Prerequisites: BIOL 123N and BIOL 124N must be passed with a grade of C (2.0) or higher, junior standing, and permission of instructor
+BIOL 497 Undergraduate Research (1-3 Credit Hours)
+The student performs laboratory and/or field research under the supervision of a Department of Biological Sciences faculty  member.  The student must devote a minimum of 3 hours per week for the equivalent of 1 credit.  The student must maintain lab/field notes, must submit a written report, may be required to give an oral presentation, and must be evaluated by the faculty supervisor.  If 3 credits are taken, then BIOL 497 counts as an upper-level biology elective course with a laboratory or field component.
+Prerequisites: BIOL 123N and BIOL 124N or BIOL 138N and BIOL 139N must be passed with a grade of C or higher, junior standing, permission of the supervising faculty  member, and permission of the Chief Departmental Advisor and Chair of the Department of Biological Sciences
+BIOL 498/598 Independent Study (1-3 Credit Hours)
+This unstructured course is based on a supervised project, without a laboratory or field component, that is selected to suit the needs of the individual student.  The completion of a formal scientific paper documented with the appropriate primary technical literature is required.  An oral presentation also may be required.  Contact the Chief Departmental Advisor for details.
+Prerequisites: BIOL 123N and BIOL 124N or BIOL 138N and BIOL 139N must be passed with a grade of C or higher; junior standing, permission of the supervising faculty member, permission of the Chief Departmental Advisor, and permission of the Chair of the Department of Biological Sciences also are required
+BIOL 500 Plant Systematics (4 Credit Hours)
+An evolutionary survey of vascular plant families and the principles and methodologies that define them; lab emphasis is placed on recognition and skills of identification. A lab and field intensive hands-on course.
+Prerequisites: A botany course
+BIOL 501 Entomology (4 Credit Hours)
+A comprehensive survey of the insects, including taxonomy, morphology, physiology, reproductive and developmental biology, and ecology.  Research techniques in entomology will be learned through both field and laboratory work.
+BIOL 502 Scientific Diving Methods for Marine Research (4 Credit Hours)
+This lecture/field experience course will train students in the common techniques used by marine scientists who employ scuba for their research. It satisfies the requirements for an American Academy of Underwater Scientist certification and covers other topics such as: use of underwater research equipment and marine resource surveys. A multi-day scuba trip is required.
+Prerequisites: Open Water Scuba Certification and ODU Dive Physical Form signed/completed by a physician
+BIOL 503 Medical Microbiology (3 Credit Hours)
+This course integrates the disciplines of microbiology, immunology, and biochemistry with the pathophysiology of infections and the appropriate pharmacology in a problem-based learning setting. Students will learn the fundamental concepts and terminologies of infectious diseases. The material will be case studies in small group tutorials and emphasize independent learning.
+Prerequisites: Microbiology and Biochemistry courses, anatomy course recommended, or instructor approval
+BIOL 504 Conservation Biology and Sustainable Development (5 Credit Hours)
+The application of fundamental biological principles to the preservation of biodiversity, including the role of ecological and evolutionary theory to the preservation of biotas on a regional and global basis.  Lectures will cover modern approaches to conservation biology, including conservation ethics and management issues.  Laboratories will include discussion of case studies, introduction to software applicable to conservation biology, presentations by regional conservation practitioners, and visits to relevant field sites.
+BIOL 507 The Pharmacology and Neurobiology of How Recreational Drugs Work (3 Credit Hours)
+This course in drug use and abuse is designed to distinguish between drug use and drug abuse as well as provide pharmacological knowledge of how recreational drugs work. Students will acquire knowledge regarding the abuse of prescription drugs, depressants, stimulants, hallucinogens, marijuana and inhalants. This information will be used to analyze pathophysiological conditions that can occur as a result of drug use and abuse.
+Prerequisites: Background in cell biology
+Pre- or corequisite: BIOL 508 recommended
+BIOL 508 Introduction to Pharmacology (4 Credit Hours)
+This is a general introductory course in pharmacology dealing with chemistry, general properties and pharmacological effects on various physiological systems, therapeutic usefulness and toxicities of drugs.  The course is designed to prepare upper-level undergraduate and graduate students for more advanced courses in pharmacology.
+BIOL 511 Zymology: Fermentation Science (4 Credit Hours)
+This is an introductory course in the theory and practice of zymology (fermentation). Edible and potable products of fermentation (beer, wine, mead, yogurt, cheese) have been known since antiquity and play an important role in today’s society. The science of fermentation touches on many biological disciplines, such as microbiology and biochemistry, and the study of yeasts has provided considerable foundation to the fields of cell biology and molecular biology. In this course, we will cover fundamentals of fermentation and its practical application to production of beer, one of the oldest beverages produced by humans.
+Prerequisites: BIOL 293
+BIOL 512 Plant Physiology (4 Credit Hours)
+Discover the incredible secrets behind what makes our green friends tick. This course includes a traditional lecture covering the physiological and chemical processes occurring in plants. A laboratory, greenhouse, and/or field-oriented lab will provide hands-on opportunities to understand plant stress responses, nutrient use, cell metabolism-respiration, photosynthesis, hormones, and processes driving growth patterns.
+BIOL 515 Marine Ecology (5 Credit Hours)
+A lecture and laboratory course designed to introduce students to important ecological processes operating in coastal marine environments.  The course covers synthetic topics as well as the ecology of specific marine habitats.  The laboratory is designed to provide students with experience in marine research and the organisms and ecological conditions common in various marine habitats visited by the class.
+Prerequisites: BIOL 291 and BIOL 331 and ENGL 211C or ENGL 221C or ENGL 231C must be passed with a grade of "C" or higher; instructor approval required
+BIOL 516 Clinical Immunology (3 Credit Hours)
+A description of common immunological problems seen in the clinic.
+Prerequisites: Coursework in cell biology and immunology
+BIOL 519 Wetland Plants (4 Credit Hours)
+An exploration of the ecology of inland and coastal wetlands and their plants. This course emphasizes wetland and aquatic plant identification, field and laboratory methods, and core concepts important to wetland plants and their ecology. Linkages to wetland delineation and wetland adjacent systems will be made. Weekly field-based laboratories are expected to local wetlands focusing on hands on opportunities and research methods.
+Prerequisites: A botany course
+BIOL 520 Ichthyology (5 Credit Hours)
+The biology of marine and freshwater fishes including morphology, physiology, evolution, distribution, ecology, and reproduction.
+BIOL 522 Field Studies in Ornithology (4 Credit Hours)
+A combined lecture and field study of birds with emphasis on identification, behavior, and field methods.  Extensive field trips, including at least one weekend, are taken.
+BIOL 523 Cellular and Molecular Biology (3 Credit Hours)
+The molecular organization of eukaryotic cells is presented along with cell evolution, molecular genetics, the internal organization of the cell and the behavior of cells in multicellular organisms.
+Prerequisites: course background in cell biology and genetics or permission of the instructor
+BIOL 524 Comparative Animal Physiology (5 Credit Hours)
+An introduction to the basic mechanisms by which different animals function.  How organisms acquire and use energy, regulate their internal environment, circulate and exchange gases and wastes, receive and conduct information about their environment, and move and use muscles will be some of the topics covered.  Emphasis will be on how organisms make changes in these basic mechanisms to deal with different environmental conditions.
+BIOL 525 Cancer Biology (3 Credit Hours)
+This course will examine how mutation leads to altered gene products and expression, subverted cell activity, cell immortalization, and tumor formation. Students will explore the differences between benign tumors and malignant tumors as well as the factors involved in malignancy. The course will conclude with the exploration of current cancer therapy.
+Prerequisites: Cell Biology and Genetics courses
+BIOL 526 Histology (5 Credit Hours)
+The structure and function of cells, tissues and organs at both the light microscopic and ultrastructural levels.
+BIOL 530 Microbial Pathogenesis (3 Credit Hours)
+Examination of bacterium-host interactions with an emphasis on how bacteria cause disease, particularly the means by which the bacterium is able to circumvent host defense mechanisms
+Prerequisites: microbiology course
+BIOL 535 Marine Conservation Biology (3 Credit Hours)
+This highly interdisciplinary science of conserving marine biodiversity will be taught through a review of old and new literature.  This will include its history, marine ecology related to conservation biology, threats to marine biodiversity, assessment of extinction risk, conservation challenges of marine habitats and regions, and methods for conserving marine biodiversity.
+BIOL 536 Infectious Disease Epidemiology (3 Credit Hours)
+This lecture/lab course will focus on concepts related to the spread and control of infectious diseases. The lectures will focus on concepts while the labs will provide quantitative skills essential to the study of infectious diseases.
+Prerequisites: Undergraduate coursework in statistics and biology
+BIOL 537 One Health: People, Animals and the Environment (3 Credit Hours)
+A course that examines the interdependence between human health, animal health and environmental health. The One Health approach to the threat of emerging infectious diseases includes understanding the interconnectedness of human and animal pathogens, epidemic zoonoses and corresponding environmental factors, insights into mechanisms of microbial evolution towards pathogenicity, new technologies and approaches towards disease surveillance, and political and bureaucratic strategies.
+Pre- or corequisite: A Microbiology course is recommended
+BIOL 540 Methods in Immunological Research (4 Credit Hours)
+The major objective of this hands-on course is to prepare students to independently perform basic laboratory techniques, assays, and experiments commonly used in entry-level immunology laboratory positions. The course will cover theory, sample and reagent preparation, instrumentation, data analysis and interpretation, and applications in immunology. Several topics covered in-class include ELISAs, mammalian cell culture, and flow cytometry, however additional topics (such as confocal microscopy) will be covered using virtual technologies. This course is ideal for students who intend to pursue careers at the laboratory bench.
+Prerequisites: microbiology laboratory course, immunology course
+BIOL 541 Animal Behavior (5 Credit Hours)
+Animal behavior with special attention to its evolution and ecological significance.  Field and laboratory activities will emphasize observational and experimental techniques used to study behavior.
+BIOL 544 Field Studies in Marine Biology (5 Credit Hours)
+An intensive study abroad  field course offered during the summer at a foreign  marine laboratory where students will be engaged in lectures and field studies of coastal marine environments.   Check with the Director of the Marine Biology Concentration Program for details.
+Prerequisites: BIOL 331
+BIOL 545 Community Ecology (3 Credit Hours)
+The goal of this course is to introduce and evaluate both classical and emerging paradigms in community ecology.  This will be achieved by examining those processes (biotic and abiotic) that structure ecological communities, and by exposing students to quantitative and theoretical aspects of these paradigms.
+Prerequisites: Ecology course
+BIOL 546 Comparative Biomechanics (3 Credit Hours)
+The principles of fluid and solid mechanics will be applied to a variety of plant and animal systems to understand how organisms deal with the immediate physical world and its accompanying constraints.  A diverse range of topics will be covered, including aerial flight in insects, wind resistance in trees, jet propulsion in squid, flow within blood vessels, forces on intertidal organisms, viscoelasticity in biological materials, and energy storage during terrestrial movement.
+Prerequisites: Cell biology course and physics course recommended
+BIOL 550 Principles of Plant Ecology (4 Credit Hours)
+This course explores theoretical concepts in plant ecology through review of classical and cutting-edge literature and practice with field-based experimental design and statistical methods. This course emphasizes the structure, development, and processes that drive patterns in plant communities and the ecological communities they support. Weekly field-based laboratories involve hands-on experience and opportunities to explore field methods in ecological research.
+BIOL 551 Bioinformatics and Genomics I (4 Credit Hours)
+The application of computer science to biology has led to major breakthroughs in the ability to read and understand the code written in genomes. This course will give students the skills to participate in the computational revolution in biology. The course will give students hands-on experience in writing simple yet powerful computer programs in the Python programming language and making beautiful data visualizations in the R programming language. Students will also learn how to combine existing pieces of bioinformatics software for their own workflows.
+Prerequisites: background in introductory-level biology and permission of the instructor
+BIOL 552 Bioinformatics and Genomics II (4 Credit Hours)
+The application of computer science to biology has led to major breakthroughs in the ability to read and understand the code written in genomes. This course will give students the skills to participate in the computational revolution in biology. The course will build on the knowledge of writing programs. Students will learn about some key techniques “under the hood” of software that have been critical to the genomics revolution. Topics will include: graph algorithms, evolutionary trees, probability models for DNA and protein sequences, and an introduction to deep learning in biology.
+Prerequisites: BIOL 551 or permission of the instructor
+BIOL 553 Molecular Ecology (4 Credit Hours)
+This course will explore the biology of organisms by using molecular (nucleic acid and/or protein) techniques and data. It covers a wide variety of subdisciplines within Biology, including genetics, physiology, ecology, and evolution. This course will explore basic theory in population genetics, ecology, and evolution and cover DNA, RNA, and Protein techniques and their application to biological research.
+BIOL 554 Research in Pathogen Biology I: Laboratory Investigation (4 Credit Hours)
+This is the first course of a two-semester laboratory and analysis sequence that is designed to provide a genuine research experience for students. Students will design a novel research question in pathogen biology, then use modern laboratory techniques such as polymerase chain reaction and next-generation DNA sequencing to examine this question and test hypotheses. Data generated in this course will be analyzed in the second course in the series, BIOL 555 . Data and analyses generated during these courses may be used for publication in scientific journals.
+Prerequisites: BIOL 294
+BIOL 555 Research in Pathogen Biology II: Analysis (4 Credit Hours)
+This is the second course of a two-semester laboratory and analysis sequence that is designed to provide a genuine research experience for students. In this semester, students will analyze data generated during the previous semester in BIOL 554 . Modern methods of data analysis will be used, including statistical and bioinformatics techniques. Data and analyses generated during these courses may be used for publication in scientific journals.
+Prerequisites: BIOL 294 ; BIOL 554 preferred
+BIOL 557 General Virology (3 Credit Hours)
+A basic course covering the history of virology, viral taxonomy, genetics, and the molecular biology and host responses to the major mammalian virus groups.  Examples of recent impacts of viruses on human health such as influenza pandemics will also be covered.
+Prerequisites: courses in cell biology and genetics
+BIOL 560 Frontiers in Nanoscience and Nanotechnology (1 Credit Hour)
+Review of the structure, synthesis and properties of key nano-materials and their impact on living systems.
+Prerequisites: graduate standing
+BIOL 561 Human Cadaver Dissection (5 Credit Hours)
+Students will dissect a human cadaver fully and learn all of the major structures. The course will divided into three sections: backs and limbs, TAP (thorax, abdomen and pelvis), and head and neck. Instructor demonstrations include brain removal and dissection.
+Prerequisites: BIOL 241 or BIOL 251 , or its equivalent, must be passed with a grade of C (2.0) or higher
+BIOL 562 Microbial Genetics (3 Credit Hours)
+This course emphasizes the fundamental concepts of microbial genetics including the study of gene structure, gene regulation, operons, DNA replication, RNA biology, protein synthesis, plasmid biology, mobile genetic elements, and recombinant DNA technology.
+Prerequisites: Courses in cell biology, genetics and general microbiology
+BIOL 563 Cell Signaling in Host Pathogen Interactions (3 Credit Hours)
+This course will emphasize cell dynamics including host and pathogen induced cellular signaling, the regulation of actin cytoskeleton rearrangement, and the modulation of host transcription and translation by different pathogens.
+Prerequisites: A cell biology course
+BIOL 564 Biomedical Applications of Low Temperature Plasmas (3 Credit Hours)
+This course is cross listed between ECE and Biology. It is intended for senior undergraduate students and first year graduate students. The course contents are multidisciplinary, combining materials from engineering and the biological sciences. The course covers an introduction to the fundamentals of non-equilibrium plasmas, low temperature plasma sources, and cell biology. This is followed by a detailed discussion of the interaction of low temperature plasma with biological cells, both prokaryotes and eukaryotes. Potential applications in medicine such as wound healing, blood coagulation, sterilization, and the killing of various types of cancer cells will be covered.
+BIOL 565 Biotechnology (3 Credit Hours)
+This course provides an overview of how microbes are manipulated to solve practical problems through biotechnology. Topics to be covered include basic concepts in microbial technology, industrial microbiology, microbes in drug development, food microbiology, microbial interactions, gut microbiota, and metagenomics.
+BIOL 566 Introduction to Mitigation and Adaptation (3 Credit Hours)
+Students will be introduced to the science underpinning mitigation of human-induced changes in the Earth system, including but not limited to climate change and sea level rise, and adaptation to the impacts of these changes. The course will cover the environmental hazards and the opportunities and limitations for conservation, mitigation and adaptation. Cross listed with OEAS 566 .
+BIOL 567 Sustainability Leadership (3 Credit Hours)
+In this class, students will discover what makes a leader for sustainability. They will consider a range of global and local crises from a leadership point of view in the context of sustainability science, which addresses the development of communities in a rapidly changing social, economic, and environmental system-of-systems environment. The course will be based on taking a problem-motivated and solution-focused approach to the challenges considered. The course includes a service learning project focusing on a leadership experience in solving a real-world environmental problem.
+Prerequisites: BIOL 566 or OEAS 566
+BIOL 570 Diseases that Changed our World (3 Credit Hours)
+Despite advancements in the development of antimicrobials and vaccines and in securing clear water and food supplies, modern civilizations are not immune to epidemic diseases. This course will provide insight into the role of different technologies in the struggle to attain disease control and eradication and explore the challenge of forecasting emerging plagues, describing the nature and evolution of diseases and conveying their significance in shaping Western culture and civilization, their impact, their consequences, their costs, and the lessons learned.
+BIOL 571 Marine Vertebrate Ecology, Management & Conservation (3 Credit Hours)
+Course will explore the biology, diversity and major life history patterns of a suite of marine megafauna, including sea turtles, marine mammals, seabirds and sharks. Students will determine the major drivers behind large-scale declines of many marine megafauna species and be challenged to understand and attempt to solve conservation and management issues.
+Prerequisites: A Marine Biology course
+BIOL 575 Neurobiology (3 Credit Hours)
+This course will focus on understanding brain structure as well as the morphology and function of the central nervous system in general. Fundamental processes such as neuron morphogenesis, guidance, polarity, migration, and growth cone motility will be emphasized. The cellular and molecular basis of neurological disorders also will be discussed.
+Prerequisites: BIOL 250 or BIOL 293 must be passed with a grade of "C" or higher or permission of instructor
+BIOL 576 Cancer Immunology and Immunotherapy (3 Credit Hours)
+Introduction to the immune system, tumor antigens, immunosuppressive cells and molecules, and cancer immunotherapy treatment approaches.
+Prerequisites: BIOL 123N , BIOL 124N , and BIOL 293 (Cell Biology), or equivalent undergraduate coursework or permission of the instructor
+BIOL 578 Microbial Ecology (3 Credit Hours)
+Study of the interactions between microorganisms, particularly bacteria, and their environment.  Emphasis is placed on nutrient cycling and the influence of microbes on global mineral dynamics.  The effects of physical and chemical factors on distribution and activity of microbes in their environments and applications of these interactions are studied (biotechnology).
+Prerequisites: a general microbiology course
+BIOL 579 Microbial Ecology Laboratory (1 Credit Hour)
+A laboratory for measurement of microbial numbers and activity in natural environments.
+Pre- or corequisite: BIOL 578
+BIOL 581 Forensic and Medical Entomology (5 Credit Hours)
+This course provides a comprehensive survey of the insects used in legal investigations and medically important insects. Topics covered include the taxonomy, morphology, physiology, reproductive and developmental biology, and ecology of these insects along with the diseases they may vector. Research techniques in forensic and medical entomology will be learned through both field and laboratory activities.
+BIOL 582 Human and Veterinary Parasitology (3 Credit Hours)
+The course will emphasize the principles of parasitism, including biology, physiology, genetics, morphology, and phylogeny of the major parasitic groups with a specific focus on the significant parasites of humans and animals of veterinary importance.  The general biology of parasites including their life cycles, diagnosis, and treatment will be included as well.
+Pre- or corequisite: A cell biology course
+BIOL 590 Advanced Human Physiology (4 Credit Hours)
+All major physiological systems with emphasis on normal physiology.  Some clinical applications made but not stressed.
+BIOL 596 Topics in Biological Sciences (1-4 Credit Hours)
+A structured specialty course for students at the senior level. Courses may include lecture and laboratory components.
+Prerequisites: Permission of the instructor
+BIOL 598 Independent Study in Biology (1-3 Credit Hours)
+Supervised (non-lab/field) project selected to suit the needs of the individual student. Requires completion of formal scientific paper documented with appropriate primary technical literature (see GPD for details). Unstructured course.
+Prerequisites: permission of the GPD and permission of instructor
+BIOL 609 Special Readings in Biology (3 Credit Hours)
+Reading and discussion course designed to explore a field of specific interest.
+BIOL 640 Microbial Toxins (3 Credit Hours)
+This course will focus on the mechanisms of action of microbial toxins, including those affecting the host's nervous system, immune function, metabolism, protein synthesis, and homeostasis.  The structure and function of representatives of several toxin types will be analyzed for their potential applications to biotechnology and medicine.
+Prerequisites: A general microbiology course required and a microbial pathogenesis course recommended
+BIOL 661 Topics in Biology (1-3 Credit Hours)
+Supervised projects and practica selected to meet the specific objectives of the student.
+BIOL 669 Internship in Biology (3 Credit Hours)
+With approval of Advisory Committee.
+BIOL 671 Molecular and Immunological Techniques (4 Credit Hours)
+A lab-intensive course emphasizing current methods in molecular biology.
+BIOL 695 Topics in Biology (1-3 Credit Hours)
+A specially designed course concerning specific topics in the biological, environmental or allied health fields.
+BIOL 698 Research in Biology (1-3 Credit Hours)
+BIOL 699 Thesis (1-3 Credit Hours)
+This course is selected with the recommendation of the faculty advisor.
+BIOL 700 Cardiovascular Physiology (4 Credit Hours)
+This physiology course will focus solely on cardiovascular physiology.  Lectures will focus on basic and advance cardiovascular principles.  The laboratory will focus on the use of current cardiovascular research.
+BIOL 701 Practical Computing for Biology (3 Credit Hours)
+This hands-on training course emphasizes the use of general computing tools to work more effectively in the biological sciences. It integrates a broad range of powerful and flexible tools that are applicable to ecologists, molecular biologists, physiologists, and anyone who has struggled analyzing large or complex data sets. Text file manipulation with regular expressions, basic shell scripting, programming in Python and R, interaction with remote devices, and basic graphical concepts will be reviewed.
+BIOL 702 Biomedical Sciences Journal Club (1 Credit Hour)
+Review and discussion of current papers in the areas of biomedical sciences.  Student presentation, discussions and readings in this field required.
+BIOL 703 Advanced Genomics Data Analysis (3 Credit Hours)
+This course is designed to teach students the various steps involved in analyzing next-generation sequencing data for gene expression profiling and polymorphism identification and analyses. The class will follow a workshop setting with a combination of lectures, paper discussions, and instructor and student led programming sessions.
+BIOL 704 Animal Ecophysiology (3 Credit Hours)
+This course integrates the physiological and biochemical function of wild animals with population-scale and community-scale ecological patterns. Both organismal mechanisms and comprehensive theories will be included. The course primarily draws on peer-reviewed literature and includes lecture and discussion.
+BIOL 705 Advanced Microbiology (3 Credit Hours)
+Investigate microbiology from historical perspectives to modern molecular microbiology; ecological and biomedical components; bacteria and viruses. Discussions will include how to design experiments and evaluate results.
+Prerequisites: A microbiology course
+BIOL 707 Ecosystem Ecology (5 Credit Hours)
+Ecological principles at ecosystem level of biological organization.  Discussion of energy flow, nutrient cycling, ecosystem stability and ecosystem modeling.  Laboratory involves field trips and methods of measuring ecosystem parameters.
+Prerequisites: a general ecology course
+BIOL 708 Ecological Sciences Seminar (1 Credit Hour)
+A graduate seminar course in the ecological sciences.  The format of the course depends on the faculty running the seminar, but most seminars involve student-led discussions on current research articles.
+BIOL 710 Advanced Cell Biology (3 Credit Hours)
+This course will cover selected current topics in cell biology that reflect recent advances in the field. Major topics include membranes and transport, signal transduction, cell adhesion and motility, cell cycle, apoptosis, and specialized cell functions. Students will read current research papers that describe the latest innovations in microscopic and molecular analysis of cellular function. This course is built on previous coursework in cell biology by reinforcing key fundamental concepts and performing a more in-depth examination of cellular mechanisms.
+Prerequisites: Course background in cell biology recommended
+BIOL 712 Biological Microscopy (4 Credit Hours)
+Lectures will cover theory and concepts of specimen preparation and operation of various microscopes used in the biological sciences.  The laboratory experience will include specimen preparation to viewing.
+Prerequisites: permission of the instructor
+BIOL 714 Biomedical Sciences Laboratory (2 Credit Hours)
+Three laboratory rotations (6 credits) are required by the curriculum.
+Prerequisites: approval of the program director
+BIOL 715 Biomedical Sciences Laboratory (2 Credit Hours)
+BIOL 716 Endocrinology (5 Credit Hours)
+The biochemical integration of hormones and related agents on vertebrate physiology with emphasis on human endocrinology. Recent literature will be stressed.
+BIOL 720 Systematic Ichthyology (3 Credit Hours)
+A systematic survey of fishes emphasizing life history, anatomy, identification and classification.
+Prerequisites: BIOL 520
+BIOL 724 Neuromuscular Physiology (3 Credit Hours)
+This course will provide a comprehensive discussion of the physiological and chemical properties of nerve and muscle cells.
+BIOL 730 Emerging Infectious Diseases (3 Credit Hours)
+Discussion on current studies into new and reemerging infectious diseases with an examination of the infectious agent and factors involved in disease emergence, prevention and elimination.
+Prerequisites: A microbiology course
+BIOL 731 Systematics and Speciation (3 Credit Hours)
+Principles of systematic biology and discussion of speciation theory, with emphasis on generation, analysis, and interpretation of taxonomic data and application of these data to a better understanding of classification and speciation processes.  Modern theories of evolutionary biology and phylogenetics will be stressed.  A research paper is required.
+BIOL 732 GIS in the Life Sciences (3 Credit Hours)
+This course is designed to introduce students to geographic information systems through examples and applications in the life sciences.
+BIOL 737 Advanced One Health (3 Credit Hours)
+One Health is a concept that stresses the interconnectedness of human, animal, and environmental/ecosystem health and seeks an integrative approach to human and animal health issues. The concept provides a framework for examining complex health issues such as vector-borne and emerging infectious diseases, antimicrobial resistance, and food safety and security. In our globalized world, new approaches to preventing, treating, and controlling diseases are urgently needed as emerging diseases are increasing in frequency due to interconnected ecosystems and the close connections between humans and animals.
+Prerequisites: An introductory One Health course ( BIOL 437W or BIOL 537 or equivalent)
+BIOL 740 Advanced Vaccinology (3 Credit Hours)
+This course will explore a broad range of concepts important to the field of vaccinology. Primary literature will be used to discuss vaccine development topics such as vaccine design and production, delivery methods, adjuvants, One Health, and zoonotic vaccines. HIV, TB, malaria, influenza, and parasite vaccines will be included.
+Prerequisites: passing grade (2.0 or above) in a class (300-level or above) that covers microbiology or immunology, at the discretion of the instructor; successful completion of Advanced Immunology ( BIOL 745 ) is strongly recommended
+BIOL 745 Advanced Immunology (3 Credit Hours)
+Current concepts in cellular and molecular immunology and host defense based on critical review of the primary literature.
+BIOL 747 Responsible Conduct of Research (2 Credit Hours)
+Required of all graduate students admitted to Biology programs. The course will introduce students to the responsible conduct of science and scientific research.
+BIOL 748 Functional Genomics and Proteomics in Animal Models (3 Credit Hours)
+The purpose of this course is to show how animal models of human diseases can be created and analyzed using genomic and proteomic technologies. The course will overview high throughput methods of generating disease models in mice and describe ongoing efforts in this field. Attempts to identify molecular mechanisms of the disease will be presented with particular emphasis on drug target discovery.
+Pre- or corequisite: An immunology course
+BIOL 749 Biogeography (3 Credit Hours)
+Emphasis on historical biogeography, utilizing both dispersal and vicariance models for explanations of the geographic distribution of organisms.  Ecological explanations are also considered.  Useful techniques for biogeographic analyses, such as comparison of area cladograms are discussed at length.
+BIOL 750 Marine Benthic Ecology (4 Credit Hours)
+Application of ecological principles at the community level to marine benthic environments.  Discussion of community structure, animal-sediment relationships, roles of benthic communities in marine ecosystems.
+Prerequisites: BIOL 515 or equivalent
+BIOL 754 Phylogeny and Molecular Lecture and Laboratory (5 Credit Hours)
+This course is intended to be an introduction to the processes and procedures used to reconstruct the evolutionary history of living organisms.  Topics include project planning, sampling strategies, molecular techniques, and analytical and tree-building programs used to infer phylogeny.  Lab provides computer experience in multiple phylogenetic software packages.
+Prerequisites: Instructor approval required
+BIOL 755 Molecular Genetics (3 Credit Hours)
+Current molecular understanding of genetic processes will be reviewed.  Applications to areas such as development and evolution will also be covered.
+BIOL 756 Phylogeny and Molecular Systematics (5 Credit Hours)
+This course is intended to be an introduction to the processes and procedures used to reconstruct the evolutionary history of living organisms.  Topics include project planning, sampling strategies, molecular techniques, and analytical and tree-building programs used to infer phylogeny.  Lab provides computer experience in multiple phylogenetic software packages.
+BIOL 757 Biometry (4 Credit Hours)
+A ﬁrst course, or a refresher course, in statistical methods and experimental design for graduate students in biology and the natural sciences. The focus is on application and hypothesis testing with examples drawn from the ﬁeld of biology. The course requires a significant amount of work outside of class on homework exercises and an independent project.
+Prerequisites: course background in statistics
+BIOL 758 Molecular Ecology (4 Credit Hours)
+Scientist are increasingly using molecular methods to help them address fundamental questions in the population ecology and evolution of biological species.  This class will introduce graduate students to the basic concepts and methods in molecular evolution, phylogenetics and methods into their research.  Theory and concepts from lecture will be illustrated through reading and discussion of current scientific literature.  Students will also directly apply the course material to a class project investigating population structure of marine species from the tropical Indo-Pacific, for which they will be trained in methods of DNA extraction, PCR and sequencing.  They will present their results orally in a mini-symposium at the end of the course.
+Prerequisites: BIOL 671
+BIOL 759 Foundations and Principles in Ecology (3 Credit Hours)
+A survey of the seminal ideas and perspectives in historical and contemporary ecology.  The course is designed to provide a broad overview of the important theoretical and conceptual paradigms in ecology.
+BIOL 762 Restoration Ecology (3 Credit Hours)
+This course will cover the field of environmental restoration guided by ecological theory and empirical research and connects with many broad themes in ecology, including physiology, genomics, biodiversity, conservation, species dispersal and migration, and population dynamics. This course will cover underlying principles guiding successful restoration, foundational and recent empirical research in this field, and restoration policies and practice.
+BIOL 770 Advanced Study in Biology (3 Credit Hours)
+Under the guidance of members of the graduate faculty and with the approval of the program track coordinator, the student will carry out in-depth studies of selected topics relevant to the area of specialization.  Extensive surveys and analyses of the literature. Written reviews, comprehensive and synoptic, and oral presentations are required of each student.
+BIOL 771 Vector-Borne Diseases (3 Credit Hours)
+Study of the role of insects, ticks and other invertebrates in the transmission of disease.  Different areas of disease transmission will be examined, including physiological and biochemical aspects of microbial survival in the vector and transmission to vertebrate hosts, as well as ecological aspects.
+BIOL 772 Modeling and Simulation in the Life Sciences (4 Credit Hours)
+Course is designed to introduce students to modeling and simulation techniques using examples and applications in the life sciences.
+BIOL 775 Grant Writing for the Life Sciences (3 Credit Hours)
+Provides students with the skills to write competetive grant proposals to both private and federal funding sources (emphasis on NIH and NSF).  Students will learn how to find the most appropriate funding mechanisms and how to position themselves to be competetive.  Different grant writing formats will be illustrated through proposal development projects.
+BIOL 781 Autoimmunity and Transplantation (3 Credit Hours)
+Major research advances in immunology have resulted in substantially increasing the understanding of the molecular and cellular basis of autoimmune diseases and transplantation.  The course will focus on these new advances to improve the understanding of these diseases.  Topics will include a brief review of the immune system; multiple sclerosis, arthritis and other immune diseases; and the molecular and cellular basis of transplantation and chronic rejection of organ grafts.
+Prerequisites: course background in cell biology and immunology recommended
+BIOL 789 Gross Anatomy (6 Credit Hours)
+An intense study of all systems from a regional approach. Extensive dissections required in lab. Clinical applications utilized.
+Prerequisites: An anatomy course recommended
+BIOL 795 Special Topics in Biology (1-4 Credit Hours)
+Study of special topics.
+Prerequisites: permission of the instructor
+BIOL 800 Cardiovascular Physiology (4 Credit Hours)
+This physiology course will focus solely on cardiovascular physiology.  Lectures will focus on basic and advance cardiovascular principles.  The laboratory will focus on the use of current cardiovascular research.
+BIOL 801 Practical Computing for Biology (3 Credit Hours)
+This hands-on training course emphasizes the use of general computing tools to work more effectively in the biological sciences. It integrates a broad range of powerful and flexible tools that are applicable to ecologists, molecular biologists, physiologists, and anyone who has struggled analyzing large or complex data sets. Text file manipulation with regular expressions, basic shell scripting, programming in Python and R, interaction with remote devices, and basic graphical concepts will be reviewed.
+BIOL 802 Biomedical Sciences Journal Club (1 Credit Hour)
+Review and discussion of current papers in the areas of biomedical sciences.  Student presentation, discussions and readings in this field required.
+BIOL 803 Advanced Genomics Data Analysis (3 Credit Hours)
+This course is designed to teach students the various steps involved in analyzing next-generation sequencing data for gene expression profiling and polymorphism identification and analyses. The class will follow a workshop setting with a combination of lectures, paper discussions, and instructor and student led programming sessions.
+BIOL 804 Animal Ecophysiology (3 Credit Hours)
+This course integrates the physiological and biochemical function of wild animals with population-scale and community-scale ecological patterns. Both organismal mechanisms and comprehensive theories will be included. The course primarily draws on peer-reviewed literature and includes lecture and discussion.
+BIOL 805 Advanced Microbiology (3 Credit Hours)
+Investigate microbiology from historical perspectives to modern molecular microbiology; ecological and biomedical components; bacteria and viruses. Discussions will include how to design experiments and evaluate results.
+Prerequisites: A microbiology course
+BIOL 807 Ecosystem Ecology (5 Credit Hours)
+Ecological principles at ecosystem level of biological organization.  Discussion of energy flow, nutrient cycling, ecosystem stability and ecosystem modeling.  Laboratory involves field trips and methods of measuring ecosystem parameters.
+Prerequisites: a general ecology course
+BIOL 808 Ecological Sciences Seminar (1 Credit Hour)
+A graduate seminar course in the ecological sciences.  The format of the course depends on the faculty running the seminar, but most seminars involve student-led discussions on current research articles.
+BIOL 810 Advanced Cell Biology (3 Credit Hours)
+This course will cover selected current topics in cell biology that reflect recent advances in the field. Major topics include membranes and transport, signal transduction, cell adhesion and motility, cell cycle, apoptosis, and specialized cell functions. Students will read current research papers that describe the latest innovations in microscopic and molecular analysis of cellular function. This course is built on previous coursework in cell biology by reinforcing key fundamental concepts and performing a more in-depth examination of cellular mechanisms.
+Prerequisites: Course background in cell biology is recommended
+BIOL 812 Biological Microscopy (4 Credit Hours)
+Lectures will cover theory and concepts of specimen preparation and operation of various microscopes used in the biological sciences.  The laboratory experience will include specimen preparation to viewing.
+Prerequisites: permission of the instructor
+BIOL 814 Biomedical Sciences Laboratory (2 Credit Hours)
+Three laboratory rotations (6 credits) are required by the curriculum.
+Prerequisites: approval of the program director
+BIOL 816 Endocrinology (5 Credit Hours)
+The biochemical integration of hormones and related agents on vertebrate physiology with emphasis on human endocrinology. Recent literature will be stressed.
+BIOL 820 Systematic Ichthyology (3 Credit Hours)
+A systematic survey of fishes emphasizing life history, anatomy, identification and classification.
+Prerequisites: BIOL 520
+BIOL 824 Neuromuscular Physiology (3 Credit Hours)
+This course will provide a comprehensive discussion of the physiological and chemical properties of nerve and muscle cells.
+BIOL 830 Emerging Infectious Diseases (3 Credit Hours)
+Discussion on current studies into new and reemerging infectious diseases with an examination of the infectious agent and factors involved in disease emergence, prevention and elimination.
+Prerequisites: A microbiology course
+BIOL 831 Systematics and Speciation (3 Credit Hours)
+Principles of systematic biology and discussion of speciation theory, with emphasis on generation, analysis, and interpretation of taxonomic data and application of these data to a better understanding of classification and speciation processes.  Modern theories of evolutionary biology and phylogenetics will be stressed.  A research paper is required.
+BIOL 832 GIS in the Life Sciences (3 Credit Hours)
+This course is designed to introduce students to geographic information systems through examples and applications in the life sciences.
+BIOL 837 Advanced One Health (3 Credit Hours)
+One Health is a concept that stresses the interconnectedness of human, animal, and environmental/ecosystem health and seeks an integrative approach to human and animal health issues. The concept provides a framework for examining complex health issues such as vector-borne and emerging infectious diseases, antimicrobial resistance, and food safety and security. In our globalized world, new approaches to preventing, treating, and controlling diseases are urgently needed as emerging diseases are increasing in frequency due to interconnected ecosystems and the close connections between humans and animals.
+Prerequisites: An introductory One Health course ( BIOL 437W or BIOL 537 or equivalent)
+BIOL 840 Advanced Vaccinology (3 Credit Hours)
+This course will explore a broad range of concepts important to the field of vaccinology. Primary literature will be used to discuss vaccine development topics such as vaccine design and production, delivery methods, adjuvants, One Health, and zoonotic vaccines. HIV, TB, malaria, influenza, and parasite vaccines will be included.
+Prerequisites: passing grade (2.0 or above) in a class (300-level or above) that covers microbiology or immunology, at the discretion of the instructor; successful completion of Advanced Immunology ( BIOL 845 ) is strongly recommended
+BIOL 845 Advanced Immunology (3 Credit Hours)
+Current concepts in cellular and molecular immunology and host defense based on critical review of the primary literature.
+BIOL 847 Responsible Conduct of Research (2 Credit Hours)
+Required of all graduate students admitted to Biology programs. The course will introduce students to the responsible conduct of science and scientific research.
+BIOL 848 Functional Genomics and Proteomics in Animal Models (3 Credit Hours)
+The purpose of this course is to show how animal models of human diseases can be created and analyzed using genomic and proteomic technologies. The course will overview high throughput methods of generating disease models in mice and describe ongoing efforts in this field. Attempts to identify molecular mechanisms of the disease will be presented with particular emphasis on drug target discovery.
+Pre- or corequisite: An immunology course
+BIOL 849 Biogeography (3 Credit Hours)
+Emphasis on historical biogeography, utilizing both dispersal and vicariance models for explanations of the geographic distribution of organisms.  Ecological explanations are also considered.  Useful techniques for biogeographic analyses, such as comparison of area cladograms are discussed at length.
+BIOL 850 Marine Benthic Ecology (4 Credit Hours)
+Application of ecological principles at the community level to marine benthic environments.  Discussion of community structure, animal-sediment relationships, roles of benthic communities in marine ecosystems.
+Prerequisites: BIOL 515 or equivalent
+BIOL 854 Phylogeny and Molecular Lecture and Laboratory (5 Credit Hours)
+This course is intended to be an introduction to the processes and procedures used to reconstruct the evolutionary history of living organisms.  Topics include project planning, sampling strategies, molecular techniques, and analytical and tree-building programs used to infer phylogeny.  Lab provides computer experience in multiple phylogenetic software packages.
+Prerequisites: Instructor approval required
+BIOL 855 Molecular Genetics (3 Credit Hours)
+Current molecular understanding of genetic processes will be reviewed.  Applications to areas such as development and evolution will also be covered.
+BIOL 856 Phylogeny and Molecular Systematics (5 Credit Hours)
+This course is intended to be an introduction to the processes and procedures used to reconstruct the evolutionary history of living organisms.  Topics include project planning, sampling strategies, molecular techniques, and analytical and tree-building programs used to infer phylogeny.  Lab provides computer experience in multiple phylogenetic software packages.
+BIOL 857 Biometry (4 Credit Hours)
+A ﬁrst course, or a refresher course, in statistical methods and experimental design for graduate students in biology and the natural sciences. The focus is on application and hypothesis testing with examples drawn from the ﬁeld of biology. The course requires a significant amount of work outside of class on homework exercises and an independent project.
+Prerequisites: course background in statistics
+BIOL 858 Molecular Ecology (4 Credit Hours)
+Scientist are increasingly using molecular methods to help them address fundamental questions in the population ecology and evolution of biological species.  This class will introduce graduate students to the basic concepts and methods in molecular evolution, phylogenetics and methods into their research.  Theory and concepts from lecture will be illustrated through reading and discussion of current scientific literature.  Students will also directly apply the course material to a class project investigating population structure of marine species from the tropical Indo-Pacific, for which they will be trained in methods of DNA extraction, PCR and sequencing.  They will present their results orally in a mini-symposium at the end of the course.
+Prerequisites: BIOL 671
+BIOL 859 Foundations and Principles in Ecology (3 Credit Hours)
+A survey of the seminal ideas and perspectives in historical and contemporary ecology.  The course is designed to provide a broad overview of the important theoretical and conceptual paradigms in ecology.
+BIOL 861 Ecological Sciences Internship (3-6 Credit Hours)
+Internship experience.
+Prerequisites: approval of advisory committee
+BIOL 862 Restoration Ecology (3 Credit Hours)
+This course will cover the field of environmental restoration guided by ecological theory and empirical research and connects with many broad themes in ecology, including physiology, genomics, biodiversity, conservation, species dispersal and migration, and population dynamics. This course will cover underlying principles guiding successful restoration, foundational and recent empirical research in this field, and restoration policies and practice.
+BIOL 871 Vector-Borne Diseases (3 Credit Hours)
+Study of the role of insects, ticks and other invertebrates in the transmission of disease.  Different areas of disease transmission will be examined, including physiological and biochemical aspects of microbial survival in the vector and transmission to vertebrate hosts, as well as ecological aspects.
+BIOL 872 Modeling and Simulation in Life Sciences (4 Credit Hours)
+Course is designed to introduce students to modeling and simulation techniques using examples and applications in the life sciences.
+BIOL 875 Grant Writing for the Life Sciences (3 Credit Hours)
+Provides students with the skills to write competetive grant proposals to both private and federal funding sources (emphasis on NIH and NSF).  Students will learn how to find the most appropriate funding mechanisms and how to position themselves to be competetive.  Different grant writing formats will be illustrated through proposal development projects.
+BIOL 880 Advanced Study in Biology (3 Credit Hours)
+Under the guidance of members of the graduate faculty and with the approval of the program track coordinator, the student will carry out in-depth studies of selected topics relevant to the area of specialization.  Extensive surveys and analyses of the literature.  Written reviews, comprehensive and synoptic, and oral presentations are required of each student.
+BIOL 881 Autoimmunity and Transplantation (3 Credit Hours)
+Major research advances in immunology have resulted in substantially increasing the understanding of the molecular and cellular basis of autoimmune diseases and transplantation.  The course will focus on these new advances to improve the understanding of these diseases.  Topics will include a brief review of the immune system; multiple sclerosis, arthritis and other immune diseases; and the molecular and cellular basis of transplantation and chronic rejection of organ grafts.
+Prerequisites: course background in cell biology and immunology recommended
+BIOL 889 Gross Anatomy (6 Credit Hours)
+An intense study of all systems from a regional approach. Extensive dissections required in lab. Clinical applications utilized.
+Prerequisites: Anatomy and Physiology course
+BIOL 890 Biomedical Doctoral Seminar (2 Credit Hours)
+Doctoral students in the Biomedical Sciences program will attend seminars, learn how to properly give a seminar, and present a seminar on their own research.
+BIOL 895 Special Topics in Biology (1-4 Credit Hours)
+Study of special topics.
+Prerequisites: permission of the instructor
+BIOL 898 Research in Biology (1-6 Credit Hours)
+BIOL 899 Dissertation (1-6 Credit Hours)
+BIOL 998 Master's Graduate Credit (1 Credit Hour)
+This course is a pass/fail course for master's students in their final semester. It may be taken to fulfill the registration requirement necessary for graduation. All master's students are required to be registered for at least one graduate credit hour in the semester of their graduation.
+BIOL 999 Doctoral Graduate Credit (1 Credit Hour)
+This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.
+Search catalog

@@ -1,0 +1,19 @@
+Web Time Entry
+Employees: Request accounts for yourself
+If your job requires any of the above accounts, you may be able to request them yourself in MIDAS. (Note: This option is not available for all MIDAS users. Some users will need their supervisor to request accounts for them.)
+Select 'Account Request' under 'My Account' on the menu.
+Select 'Yourself.' Update your budget code, if necessary. Click 'Next.'
+Select your job function and add any additional accounts that are needed. Click 'Next.'
+Provide justification as to why accounts are needed and click 'Next.'
+Review services in Account Request Summary. Make changes, if needed. Click 'Finish.'
+Your request will be processed and submitted.
+Supervisors: Request accounts for someone you manage
+Log into https://midas.odu.edu .
+Select 'Account Request.'
+Select 'Someone Else' and search for user with their University ID number. Update budget code, if necessary and click 'Next.'
+Enter in contact information for user that will need accounts. Click 'Next.'
+Select user job function and any additional accounts that are needed.
+Enter justification for why user needs accounts.
+Review Account Request Summary and make any necessary changes. Click 'Finish.'
+The Account Request will be processed and submitted.
+Technology Services (IT)

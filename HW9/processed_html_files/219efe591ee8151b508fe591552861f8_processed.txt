@@ -1,0 +1,29 @@
+No Undergraduate courses found.
+KRS 820 MATLAB Programming for Kinesiology and Rehabilitation (3 Credit Hours)
+Developments in technology provide researchers with the ability to measure different aspects of human movement many times a second. To make sense of these large and complex datasets researchers are increasingly using engineering software, e.g., MATLAB, to manipulate, process, and analyze data. In this course, students will gain experience importing, plotting, filtering, selecting critical points, and exporting data through the creation of custom functions and scripts within the MATLAB user interface.
+Prerequisites: admission to the kinesiology and rehabilitation doctoral program or permission of the instructor
+KRS 825 Mixed and Multi Methods in Health Sciences Research (3 Credit Hours)
+This course will cover the writing and refining of research questions, collecting and analyzing qualitative and quantitative data, and choosing the appropriate mixed or multi-method design. The course will also review analyzing, interpreting, and presenting the results of a mixed or multi method design to address the research questions. Students will learn how qualitative and quantitative data can be combined to capture the perspectives of healthcare providers, patients, organizations, or other stakeholders to answer research questions.
+KRS 830 Theoretical Models in Kinesiology and Rehabilitation (3 Credit Hours)
+This course will explore some of the theories that are common to kinesiology and rehabilitation research. It will include theories associated with disablement, rehabilitation, patient-centered care, motor control, and models for clinical research. These theories will be applied to clinical and research applications relevant to kinesiology and rehabilitation.
+KRS 835 Critical Appraisal and Synthesis of Evidence in Kinesiology and Rehabilitation (3 Credit Hours)
+This course will introduce the student to critical appraisal of all forms of research in kinesiology and rehabilitation. The purpose of this course is to further develop the student's competence in conducting and evaluating research. The student will develop the skills necessary to find, critically evaluate, and synthesize the available research in order to answer individual research questions or cultivate a line of research inquiry.
+KRS 851 Motor Performance: Rhythmic/Cyclic Tasks (3 Credit Hours)
+This course examines the coordination of cardiorespiratory, musculoskeletal, and neurological systems in performing rhythmic movement tasks such as walking, running, swallowing, speaking, and feeding. Students will gain experience measuring and interpreting cardiorespiratory variables, kinematics, kinetics, and energetics of rhythmic movement tasks integrated with measures of activity, participation, and clinical standardized tests.
+KRS 852 Motor Performance: Discrete Tasks (3 Credit Hours)
+This course will examine the coordination of musculoskeletal and neurological systems in performing discrete movement tasks such as reaching, grasping, throwing and speaking. Students will gain experience measuring and interpreting kinematics and kinetics of discrete tasks integrated with measures of activity and participation and clinical standardized tests.
+KRS 855 Neurosciences of Motor Control (3 Credit Hours)
+This course covers neuroscience with specific regard to the fundamental design, organization and workings of the central nervous system (CNS) in the areas of motor control. The topics cover areas related to the typical development of motor function and changes in motor control throughout the lifespan. This course also assesses motor-control problems that occur as a result of congenital conditions, acquired damage, dysfunction or disease. Pathological conditions such as (but not limited to) stroke, Parkinson's disease, cerebellar disease, and muscle and joint pathologies are examined.
+KRS 856 Balance and Postural Control (3 Credit Hours)
+An optimal level of balance and postural control is essential for the performance of many everyday activities. This course is specifically focused on the neural, muscular and biomechanical mechanisms underlying postural control in healthy populations of different ages. In addition, changes that can be observed in postural control following damage, dysfunction and/or disease are also covered. The implications of changes in balance control for falls will be a particular focus. Students in this course learn how to collect and interpret kinematic, kinetic and electrophysiological data associated with the neuromuscular function during posture and balance tasks.
+KRS 857 Kinesiology in Rehabilitation (3 Credit Hours)
+Rehabilitation aims to enhance the functional ability of individuals with impairment or disease, while areas within the field of kinesiology seek to understand changes in tissues, physiological systems, movements, and behaviors that occur through training and practice. In this course, students will study these related processes of adaptation, learning, and rehabilitation.
+KRS 887 Structured Teaching Experience for Kinesiology and Rehabilitation Professions (1-3 Credit Hours)
+This course is designed to provide supervised and mentored teaching experience within fields applicable to kinesiology and rehabilitation.
+KRS 895 Special Topics in Kinesiology and Rehabilitation (3 Credit Hours)
+The advanced study of special topics in kinesiology and rehabilitation.
+KRS 898 Supervised Research (1-3 Credit Hours)
+This course is designed to provide supervised and mentored research experience within specialized topics applicable to kinesiology and rehabilitation.
+KRS 899 Dissertation (1-12 Credit Hours)
+An approved research project written under the supervision of a faculty advisor, in which the student demonstrates the capacity to design and complete independent applied research. The completed project must be approved by the dissertation committee.
+Search catalog

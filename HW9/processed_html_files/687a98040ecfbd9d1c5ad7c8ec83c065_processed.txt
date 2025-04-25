@@ -1,0 +1,227 @@
+Mathematics-Statistics/Biostatistics Minor
+Linked Bachelor of Science in Mathematics and Master of Science in Computational and Applied Mathematics
+The linked program allows students to count up to 12 credits of graduate coursework toward both their undergraduate and master's degrees.  Students must earn a minimum of 150 credits (120 discrete credit hours for the undergraduate degree and 30 discrete credit hours for the graduate degree).
+Admission
+To be admitted to the linked program, students must have completed at least 60 undergraduate credit hours with at least 24 credit hours from ODU. Students must have completed MATH 307 , MATH 312 , MATH 317 and all prerequisites for those courses. At the time of admission, they must have an overall GPA of 3.00 or better and a GPA of 3.00 or better in MATH and STAT courses.
+Interested students who meet the admission requirements should apply to the graduate program director, after consulting with the undergraduate chief departmental advisor, as soon as possible upon completing the required courses and 60 credit hours. In consultation with the graduate program director, a student will:
+Officially declare an undergraduate Mathematics major with the undergraduate chief departmental advisor.
+Draft a schedule of graduate courses to be taken as an undergraduate to be presented to the undergraduate chief departmental advisor.
+Apply, during their senior year, to the Office of Graduate Admissions for admission to the master's in computational and applied mathematics program.
+Students who have completed at least six hours of graduate courses upon attaining senior standing (completion of 90 credit hours) and who have earned a GPA of 3.00 or better in those courses will not be required to take the Graduate Record Exam (GRE) for admission to the master's program. Otherwise, in keeping with normal admission requirements for the MS in computational and applied mathematics, students will take the GRE as an undergraduate and will subsequently be reevaluated for continuation into the master's program.
+Once students have been awarded their bachelor's degree and fulfilled all regular admission requirements for the MS in computational and applied mathematics, they will be officially admitted into the MS program.
+Program Requirements
+Students in the program will fulfill all normal admission and curricular requirements for both a BS in mathematics and an MS in computational and applied mathematics with the following exceptions:
+Students in the program may count up to 12 hours of 500 or 600 level graduate courses, excluding independent study, taken as an undergraduate for which they have earned a grade point average of 3.0 or greater with no course grade lower than a B- toward both the BS in mathematics and the MS in computational and applied mathematics.
+Students in the program may substitute mathematics or statistics graduate courses for undergraduate courses according to the following schema. All students must complete an undergraduate writing intensive course in the major.
+All students must complete the prescribed undergraduate program including all 400-level required courses and electives.
+All students may substitute 500- and 600-level courses for the remaining credit hours in the 120-hour requirement in the undergraduate program so long as they have the prerequisites for those courses. 700- or 800-level courses may not be used.
+Students will not receive credit for both the 400 and 500 level version of the same course.
+Students in the program may make a written petition for other substitutions to the graduate program director, who will consider them in consultation with the chief departmental advisor and the instructor(s) of the courses involved.
+NOTES:
+In accordance with University policy, up to 21 hours of graduate courses taken as an undergraduate may be counted toward the bachelor's degree; however, only 12 hours of graduate courses taken as an undergraduate may also be counted toward the MS degree. This will limit students' scheduling flexibility subsequently.
+Courses
+Big Data Analytics (BDA)
+BDA 200T Elements of Data Science (3 Credit Hours)
+This course offers a non-technical introduction to the emerging and interdisciplinary area of data science. Students will be introduced to the development, fundamental tools, and the impact of data science in a wide range of disciplines such as business, the sciences and engineering. Fundamental data visualization techniques and basic concepts of machine learning will be applied through real-life data science projects. Moreover, students will explore the general framework for ethical thinking and practicing data science, the current challenges, the benefits, the potential harms and risks posed by developing data science models and technology.
+Prerequisites: MATH 102M or MATH 103M
+BDA 401/501 Programming Languages for Data Science (3 Credit Hours)
+An introductory course on programming languages and tools which are relevant to data analytics. Each language or tool is introduced as a separate module and incorporates applications in mathematics and statistics. Examples of included programming languages and tools are MATLAB, Python, R and SAS. Additional languages and tools may be covered based on current trends in data analytics. Students will complete hands-on programming assignments throughout the course.
+Prerequisites: MATH 312 , MATH 316 and STAT 330 or STAT 331
+BDA 411/511 Introduction to Machine Learning (3 Credit Hours)
+An introductory course on machine learning. Machine Learning is the science of discovering pattern and structure and making predictions in data sets. It lies at the interface of mathematics, statistics and computer science. The course gives an elementary summary of modern machine learning tools. Topics include regression, classification, regularization, resampling methods, and unsupervised learning. Students enrolled are expected to have some ability to write computer programs, some knowledge of probability, statistics and linear algebra.
+Prerequisites: MATH 312 , MATH 316 , and STAT 330 or STAT 331
+BDA 431/531 Modern Statistical Methods for Big Data Analytics (3 Credit Hours)
+The statistical perspective of data mining is emphasized for majority of the course. Both applied aspects (programming, problem solving, and data analysis) and theoretical concepts (learning, understanding, and evaluating methodologies) of data mining will be covered. Topics include Regularization and Kernel Smoothing Methods, Tree-based Methods, Neural Networks and optional topics such as deep learning.
+Prerequisites: BDA 411 and STAT 405
+BDA 432/532 Introduction to Optimization in Data Science (3 Credit Hours)
+Topics considered include the solution of non-smooth optimization problems arising in data science, including unconstrained and constrained optimization problems, Lagrange multiplier methods, inequality constraints, Kuhn-Tucker conditions, and applications. Also considered are linear and nonlinear inverse problems, regularization of ill-posed problem including singular value decomposition, and Tikhonov regularization methods and sparse regularization methods,  inverse eigenvalue problems and applications such as compressed sensing, image reconstruction and machine learning.
+Prerequisites: MATH 307 , MATH 312 and MATH 316
+BDA 450 Senior Project in Big Data Analytics I (3 Credit Hours)
+This course introduces students to practical applications of big data analytics. Lecture topics include an overview of the various topics in business, engineering, and government currently using big data analytics. Students will choose a project involving a real world application to explore techniques learned during other course work. Course involves written and oral presentations for students to improve communication and teamwork skills.
+Prerequisites: A grade of C or better in STAT 331 and STAT 405
+Pre- or corequisite: BDA 431
+BDA 451 Senior Project in Big Data Analytics II (3 Credit Hours)
+This course allows the student to pursue an in-depth exploration of a project initiated in BDA 450 . The course involves written and oral presentations for students to improve communication and teamwork skills.
+Prerequisites: BDA 450 and permission of instructor
+Mathematical Sciences (MATH)
+MATH 100 The Math Cooperative (1 Credit Hour)
+This course is to prepare students who did not meet the prerequisites for MATH 102M or MATH 103M .  This course is not open to students with prior credit for or who qualify for College Algebra or a higher-level math course.
+MATH 101M An Introduction to Mathematics for Critical Thinking (3 Credit Hours)
+This course fulfills the math general education requirement for some majors in the College of Arts and Letters and the College of Education and Professional Studies. It can also be used as a preparation for STAT 130M . An introduction to the ways in which modern mathematics can be used to analyze the modern world and make logical decisions. Topics include problem solving, sets, logic, consumer mathematics (loans, mortgages, annuities), probability, and elementary statistics.
+MATH 102M College Algebra (3 Credit Hours)
+A basic course in algebra that emphasizes applications and problem-solving skills. Topics include finding solutions, graphing of linear equations and inequalities, graphs and functions, combining polynomials and polynomial functions, factoring polynomials, simplifying and combining rational expressions and equations, simplifying roots and radicals, solving radical equations, and an introduction to quadratic functions and equations. This course fulfills the math general education requirement and can be used as a preparation for MATH 162M . MATH 101M is not a prerequisite for MATH 102M .  Not open to students with credit for MATH 162M .
+Prerequisites: SAT score of 540 or above, or ACT score of 22 or above, or qualifying score on the ALEKS placement exam
+MATH 103M College Algebra with Supplemental Instruction (3 Credit Hours)
+This course covers the same content as MATH 102M . It is designed for students who must complete MATH 102M as part of their degree program, but who do not meet the prerequisites for MATH 102M . MATH 103M may be used interchangeably with MATH 102M and may be used as a prerequisite requirement for any course that requires MATH 102M as a prerequisite. MATH 103M will require registration for a supplemental instruction session each week.
+Prerequisites: High school GPA of 3.4 or above, or qualifying score on the ALEKS placement exam, or MATH 100
+MATH 162M Precalculus I (3 Credit Hours)
+The first course in a two-course sequence designed to provide a strong preparation for calculus. Topics include algebraic operations, equations and inequalities, graphs and functions, polynomial functions, theory of equations, systems of equations, exponential functions, and logarithmic functions.
+Prerequisites: qualifying score on SAT or ACT, or qualifying score on a placement test administered by the University Testing Center or a grade of C or better in MATH 102M or MATH 103M
+MATH 163 Precalculus II (3 Credit Hours)
+The second course in a two-course sequence designed to provide strong preparation for calculus. Topics include exponential and logarithmic functions/equations, trigonometric functions/equations, trigonometric identities, laws of sines and cosines, vectors, polar representation of complex numbers, binomial theorem, and conic sections.
+Prerequisites: A grade of C or better in MATH 162M
+MATH 166 Precalculus I and II (4 Credit Hours)
+A one-semester precalculus course covering the topics of MATH 162M and MATH 163 at an accelerated pace.  Not available to students with credit in MATH 163 .
+Prerequisites: A grade of C or better in MATH 102M or MATH 103M
+MATH 197 Undergraduate Research Experience in Mathematics (0 Credit Hours)
+Student participation in a supervised, undergraduate research experience for which credit will not apply to the degree.  Experience must be related to the student's major, minor or career area of interest.
+Prerequisites: permission of the instructor
+MATH 200 Calculus for Business and Economics (3 Credit Hours)
+A Calculus course intended for those studying business and economics. Topics include applications of linear, quadratic, rational, exponential, and logarithmic business functions, solving applied linear systems using matrices, limits and continuity, derivatives with applications, and integration with applications.
+Prerequisites: A grade of C or better in MATH 162M
+MATH 205 Calculus for Life Sciences (3 Credit Hours)
+This course covers the standard topics of first semester calculus including limits, derivatives and integrals. All examples for this course are drawn from biological sciences with specific applications to topics covered in the core courses of the undergraduate Biology major.
+Prerequisites: A grade of C or better in MATH 162M
+MATH 211 Calculus I (4 Credit Hours)
+A first course in calculus and analytic geometry. Topics include differentiation and integration of algebraic and transcendental functions of one variable and applications.
+Prerequisites: A grade of C or better in MATH 163 or MATH 166
+MATH 212 Calculus II (4 Credit Hours)
+A second course in calculus and analytic geometry. Topics include techniques of integration, polar coordinates, infinite series, solid geometry, vectors, lines and planes.
+Prerequisites: A grade of C or better in MATH 211
+MATH 280 Transfer Credit for Ordinary Differential Equations (3 Credit Hours)
+This course is a VCCS transfer credit vehicle. Students who have earned transferable credit in MATH 279 or 291 at any member institution of the VCCS will be granted credit for MATH 280 .  The course will not be offered for credit by Old Dominion University.  Cannot be used to substitute for MATH 307 for MATH majors or minors.
+MATH 285 Transfer Credit for Calculus III (4 Credit Hours)
+This course is a VCCS transfer credit vehicle.  Students who have earned transferable credit for MATH 275 or 277 at any member institution of the VCCS will be granted credit for MATH 285 .  The course will not be offered for credit by Old Dominion University.  Cannot be used to substitute for MATH 312 for MATH majors or minors.
+MATH 295 Topics in Mathematics (1-5 Credit Hours)
+Study of selected topics.
+Prerequisites: departmental permission
+MATH 302 Geometry (3 Credit Hours)
+Elementary plane and solid Euclidean geometry with proofs and applications. Topics include angles, triangles, congruence, quadrilaterals, circles, similarity, perimeter, area, volume, polygons, plane and solid constructions. A dynamic geometry visualization software is used to discover geometric properties. (May not be used to satisfy the upper-division elective requirement of the math majors program.)
+Prerequisites: A grade of C or better in MATH 102M or MATH 103M or MATH 162M
+MATH 307 Ordinary Differential Equations (3 Credit Hours)
+Topics include first order differential equations and systems, second and higher order linear equations, solution by series and Laplace transform, and applications.
+Prerequisites: A grade of C or better in MATH 212
+MATH 311W Abstract Algebra (3 Credit Hours)
+Topics include introduction to logic and methods of proof; sets, relations, and functions; elementary group and ring theory.  This is a writing intensive course.
+Prerequisites: A grade of C or better in ENGL 211C or ENGL 221C or ENGL 231C ; MATH 212 or departmental permission
+MATH 312 Calculus III (4 Credit Hours)
+A third course in calculus and analytic geometry.  Topics include vector functions, partial derivatives, multiple integrals and an introduction to vector calculus.
+Prerequisites: A grade of C or better in MATH 212
+MATH 316 Introductory Linear Algebra (3 Credit Hours)
+An introduction to linear algebra. Topics include matrices, vectors, vector spaces, linear transformations, eigenvalues and eigenvectors.
+Prerequisites: A grade of C or better in MATH 212
+MATH 317 Calculus IV: Introductory Analysis (3 Credit Hours)
+An introduction to real analysis.  Topics covered include completeness and topological properties of the real line, theory of sequences, limits of functions, the derivative, the Riemann integral, and the Fundamental Theorem of Calculus.
+Prerequisites: A grade of C or better in MATH 212
+MATH 335 Number Systems and Discrete Mathematics (3 Credit Hours)
+Estimation and other applications to real world problems, using elementary principles of algebra, geometry, number theory, number systems, and discrete mathematics. (May not be used to satisfy the upper-division elective requirement of the math majors program.)
+Prerequisites: A grade of C or better in MATH 102M or MATH 103M or MATH 162M
+MATH 367 Cooperative Education (1-3 Credit Hours)
+Student participation for credit based on the academic relevance of the work experience, criteria, and evaluative procedures as formally determined by the department and Career Development Services prior to the semester in which the work experience is to take place.  Available for pass/fail grading only. May be repeated for credit.
+Prerequisites: approval by the department and Career Development Services in accordance with the policy for granting credit for Cooperative Education programs
+MATH 375 Advanced Concepts for Secondary Educators: Function and Modeling (3 Credit Hours)
+This course engages students in explorations and laboratory activities designed to strengthen and expand their knowledge of the topics found in college mathematics, and in particular, students will delve into and illuminate the connections between secondary and college mathematics by exploring and highlighting the basic secondary school topics that need to be mastered in order to solve problems in college mathematics. Through this process, students will achieve mastery of topics they will be teaching in secondary mathematics and understand the connection between the high school curriculum and their students' success in college and in the workplace.
+MATH 395 Topics in Mathematics (1-3 Credit Hours)
+Study of selected topics.
+Prerequisites: departmental permission
+MATH 399 Putnam Exam Problems and Related Topics (1 Credit Hour)
+This course is designed to help students prepare for the Putnum Exam - an annual national mathematical competition.  Problems from previous Putnam Exams and materials related to the solution of such problems will be considered.
+Prerequisites: A grade of C or better in MATH 212
+MATH 400/500 History of Mathematics (3 Credit Hours)
+Seminal ideas in geometry, arithmetic, algebra, analysis and applied mathematics (along with their mathematical representations) from antiquity, the age of exploration, the Promethean age to the present day.
+Prerequisites: MATH 311W or MATH 316 or MATH 317
+MATH 401/501 Partial Differential Equations (3 Credit Hours)
+Not available to students with credit in MATH 691 . Separation of variable techniques, Sturm-Liouville systems, generalized Fourier series, orthogonal functions of the trigonometric, Legendre and Bessel type boundary value problems associated with the wave equation and the heat conduction equation in various coordinate systems, applications to physics and engineering.
+Prerequisites: A grade of C or better in MATH 307 and MATH 312
+MATH 404/504 Fundamental Concepts of Geometry (3 Credit Hours)
+Fundamentals of Euclidean and non-Euclidean geometry. Alternatives to Euclidean geometry are examined using a variety of mathematical techniques. Special topics such as 'Taxicab' geometry, the hyperbolic plane, the art of M.C. Escher, and the mathematics of maps may be included.
+Prerequisites: MATH 311W
+MATH 406/506 Number Theory and Discrete Mathematics (3 Credit Hours)
+A survey course.  Topics include the prime number theorem, congruences, Diophantine equations, continued fractions, quadratic reciprocity, combinatorics, logic, graphs, trees, algorithms, coding and linear programming.
+Prerequisites: A grade of C or better in MATH 311W and MATH 316
+MATH 408/508 Applied Numerical Methods I (3 Credit Hours)
+An introduction to the numerical methods commonly used by scientists and engineers. Topics include solutions of equations of one variable, direct methods for solving linear systems, matrix factorization, stability analysis, iterative techniques, polynomial interpolation, numerical  differentiation and integration, approximation theory, and initial and boundary value problems for ordinary differential equations.
+Prerequisites: A grade of C or better in MATH 316 ; CS 150 or equivalent programming ability also required
+MATH 409/509 Applied Numerical Methods II (3 Credit Hours)
+Topics include least squares problems, the QR factorization, the conjugate gradient method, Householder transformation and the QR method for approximating eigenvalues and singular values of a matrix.  For applications, the finite difference method and the finite element method for solving partial differential equations, trigonometric interpolation and FFT as well as introductory study of optimization are discussed.
+Prerequisites: A grade of C or better in MATH 408 / MATH 508
+MATH 417/517 Intermediate Real Analysis I (3 Credit Hours)
+A rigorous course in classical real analysis. Topics include the topology of Euclidean n-space, properties of vector valued functions of several variables such as limits, continuity, differentiability and integrability, pointwise and uniform convergence of sequences and series of functions; Fourier series.
+Prerequisites: a grade of C or better in MATH 317
+MATH 418/518 Intermediate Real Analysis II (3 Credit Hours)
+A rigorous course in classical real analysis. Topics include the topology of Euclidean n-space, properties of vector valued functions of several variables such as limits, continuity, differentiability and integrability, pointwise and uniform convergence of sequences and series of functions; Fourier series.
+Prerequisites: A grade of C or better in MATH 417
+MATH 420/520 Applied Mathematics I: Biomathematics (3 Credit Hours)
+Exploring mathematical models in various biological contexts using both difference and differential equations: single and multiple species population growth, predator-prey and competing species (using phase plane analysis), epidemiological models of epidemics and pandemics, tumor growth, pattern formation in animals and insects.
+Prerequisites: A grade of C or better in MATH 307
+MATH 421/521 Applied Mathematics II: Mathematical Modeling (3 Credit Hours)
+The philosophy and methodology of mathematical modeling, its successes and limitations. Topics include models of climate change and atmospheric and ocean dynamics, models in other physical and biological contexts, and an introduction to deterministic chaos.
+Prerequisites: A grade of C or better in MATH 307 , MATH 312 , MATH 316 , and MATH 317
+MATH 422/522 Applied Complex Variables (3 Credit Hours)
+Not available to students with credit in MATH 692 . Topics include complex numbers, analytical functions and their properties, derivatives, integrals, series representations, residues and conformal mappings. Applications of the calculus of residues and mapping techniques to the solution of boundary value problems in physics and engineering.
+Prerequisites: A grade of C or better in MATH 312
+MATH 427/527 Applied Mathematics III: Elasticity (3 Credit Hours)
+An introduction to the mathematical theory of linear and non-linear elastic continua. Topics include vectors, tensors, deformation, stress, nonlinear constitutive theory, exact solutions, infinitesimal theory, antiplane strain, plane strain, plane stress, extension, torsion, bending and elastic wave propagation.
+Prerequisites: A grade of C or better in MATH 307 and MATH 312
+MATH 428/528 Applied Mathematics IV: Fluid Mechanics (3 Credit Hours)
+A mathematical investigation of the differential equations governing fluid flow with an emphasis on steady state incompressible flows. The Navier-Stokes equations are derived and some exact solutions are presented including the potential flow solutions. Topics therefore include classical ideal fluid flow and its complex variable representation, various approximations to the Navier-Stokes equations, boundary layer theory, and also surface and internal gravity wave motion, aspects of hydrodynamic stability theory and convection.  Other topics may be introduced by the instructor.
+Prerequisites: A grade of C or better in MATH 307 and MATH 312
+Corequisites: MATH 401
+MATH 457/557 Mathematics in Nature (3 Credit Hours)
+A calculus and differential equations based description of many patterns observable in the natural world including wave motion in the air, oceans, rivers, and puddles; rainbows, halos and other meteorological phenomena; arrangement of leaves, petals and branches; height of trees; river meanders; animal and insect markings; mudcracks; spider webs; and others.  Partial differential equations will be discussed as needed but a knowledge of ordinary differential equations will be assumed.
+Prerequisites: A grade of C or better in MATH 307
+MATH 461 Preparation for Praxis Certification (3 Credit Hours)
+This course will equip students to pass the Praxis 5161 Mathematics: Content Knowledge Exam. This exam is required for teaching licensure at the secondary Level in Virginia.  Only open to students in the Secondary School Teaching Option in the Math B.S. program who have NOT yet passed the Praxis 5161 Exam.
+Prerequisites: Instructor approval
+MATH 494 Entrepreneurship in Mathematics (3 Credit Hours)
+This course is designed to help students enhance their personal and professional development through innovation guided by faculty members and professionals.  It offers students an opportunity to apply their knowledge of mathematics to the development of a new product, business, nonprofit program, or other initiative.  The real world experiences that entrepreneurships provide will help students understand how academic knowledge leads to transformations, innovations, and solutions to different types of problems.  This course is administered as an independent project for individual students, or as group projects.
+Prerequisites: 3.0 GPA and approval of course instructor(s)
+MATH 496/596 Topics in Mathematics (1-3 Credit Hours)
+Study of selected topics.
+Prerequisites: permission of the instructor
+MATH 498/598 Tutorial Work in Special Topics in Mathematics (1-3 Credit Hours)
+Independent study under the direction of an instructor including library research and reports.
+Prerequisites: permission of the instructor
+Statistics (STAT)
+STAT 130M Elementary Statistics (3 Credit Hours)
+Topics include: data description, elementary probability, binomial and normal distributions, interval estimation, hypothesis testing, and correlation. The role of probability in inference is emphasized.
+Prerequisites: A qualifying score on a placement test administered by the University Testing Center, a qualifying SAT or ACT score, a C or better in MATH 101M , or a C or better in a higher level math course
+STAT 306 Introductory Statistics (3 Credit Hours)
+A general probability and statistics course designed specifically to accommodate the needs of school teachers and health professionals.  Topics include: descriptive statistics, basic probability, discrete random variables, continuous random variables, interval estimation, regression and correlation, hypothesis testing, and applications.  (May not be used to satisfy the upper-division elective requirement of the math major program.)
+Prerequisites: A grade of C or better in MATH 102M or MATH 162M
+STAT 310 Introductory Data Analysis (3 Credit Hours)
+Topics include measures of location, dispersion, and strength of relationship; parametric and nonparametric tests of location; one-way analysis of variance; complete block designs; simple and multiple regression; correlation; measures of association for categorical data. Microsoft EXCEL will be used extensively as an aid in data analysis.  Written interpretation of results will be a routine component of daily assignments.
+Prerequisites: A grade of C or better in STAT 130M or MATH 200 or MATH 205 or MATH 211
+STAT 330 An Introduction to Probability and Statistics (3 Credit Hours)
+Topics include: descriptive statistics, probability theory and probability distributions, mathematical expectation and its role in decision making, hypothesis testing, point and interval estimation, numerous applications. (Not open to students with credit in STAT 331 .)
+Prerequisites: A grade of C or better in MATH 211
+STAT 331 Theory of Probability (3 Credit Hours)
+An introduction to probability theory including probability functions, continuous and discrete random variables, combinatorics, special probability distributions, moment generating functions, and limit laws.
+Prerequisites: A grade of C or better in MATH 211
+STAT 405/505 Introduction to Data Handling (3 Credit Hours)
+This course will introduce SAS and R, two of the most widely used statistical software packages. This course will cover the basic skills needed for using computer packages to perform a variety of statistical analyses. Topics include data import/export, manipulation, descriptive statistics and visualization, advanced data handling, and the use of statistical computer packages for categorical data analysis, regression analysis, hypothesis testing, and more.
+Prerequisites: grade of C or better in STAT 130M or equivalent and a grade of C or better in MATH 316 or equivalent or permission of instructor
+STAT 431/531 Theory of Statistics (3 Credit Hours)
+Topics include point and interval estimation, tests of hypotheses, introduction to linear models, likelihood techniques, and regression and correlation analysis.
+Prerequisites: A grade of C or better in STAT 331 or departmental permission
+STAT 432/532 Sampling Theory (3 Credit Hours)
+Sampling from finite populations is discussed. Topics such as simple random sampling, stratified random sampling and ratio and regression estimation are included. Also discussed are aspects of systematic sampling, cluster sampling, and multi-stage sampling.
+Prerequisites: A grade of C or better in STAT 431 / STAT 531
+STAT 435/535 Design and Analysis of Experiments (3 Credit Hours)
+Topics include introduction to design of experiments, analysis of variance with a single factor, power and OC curves, and two factors with interactions, random effects models, randomized blocks, Latin square and related designs, introduction to factorial and 2k factorial designs. Statistical software will be used to analyze real life data.
+Pre- or corequisite: STAT 405 / STAT 505
+STAT 437/537 Applied Regression and Time Series Analysis (3 Credit Hours)
+Topics include introduction to regression and model building, simple linear regression, multiple regression, logistic regression, and simple time series, residual analysis, selection of variables, model adequacy checking, regression on dummy variables, analysis of covariance, regression analysis of time series data, and applications of these techniques to real life data using statistical software. Pre- or
+Corequisites: STAT 405 / STAT 505
+STAT 440/540 Clinical Trials (3 Credit Hours)
+This course will introduce basic statistical concepts and methods used in clinical trials. Topics include phase-I trial designs including 3+3 and CRM dose-finding designs; phase-II trial designs including Gehan’s two-stage and Simon’s two-stage designs; phase-III trial designs including parallel, group allocation, cross-over, and factorial designs; randomization; sample size and power calculation; adaptive trials; and monitoring of trials for safety and efficacy.
+Prerequisites: A grade of C or better in STAT 431 / STAT 531
+STAT 442/542 Environmental Statistics (3 Credit Hours)
+Topics include nonlinear and generalized linear models, quantitative risk assessment, analysis of stimulus-response and spatially correlated data, methods of combining data from several independent studies.  Regression settings are emphasized where one or more predictor variables are used to make inferences on an outcome variable of interest.  Applications include modeling growth inhibition of organisms exposed to environmental toxins, spatial associations of like species, risk estimation, and spatial prediction.  SAS is used extensively in the course.
+Prerequisites: A grade of C or better in STAT 431 / STAT 531 or permission of the instructor; STAT 437 or STAT 537 recommended
+STAT 447/547 Analysis of Longitudinal Data (3 Credit Hours)
+This course introduces statistical methods for analyzing multivariate and longitudinal data. Topics include multivariate normal distribution, covariance modeling, multivariate linear models, principal components, analysis of continuous response repeated measures, and models for discrete longitudinal data. Emphasis will be on the applications to the biological and health sciences and the use of the statistical software.
+Pre- or corequisite: STAT 405 / STAT 505
+STAT 449/549 Nonparametric Statistics (3 Credit Hours)
+Topics include the theory and applications of binomial tests and rank tests, including the tests of McNemar, Mann-Whitney, Friedman, Kruskal-Wallis, and Smirnov.
+Prerequisites: A grade of C or better in STAT 330 or STAT 331 or departmental permission
+STAT 450/550 Categorical Data Analysis (3 Credit Hours)
+Topics include types of categorical data, relative risk and odds ratio measures for 2 x 2 tables, the chi-square and Mantel-Haenszel tests, Fisher's exact test, analysis of sets of 2 x 2 tables using Cochran-Mantel-Haenszel methodology, analysis of I x J and sets of I x J tables for both nominal and ordinal data, logistic regression including the logit and probit models. Emphasis will be on the application of these statistical tools to data related to the health and social sciences. Interpretation of computer output will be stressed.
+Pre- or corequisite: STAT 405 / STAT 505
+STAT 494 Entrepreneurship in Statistics (3 Credit Hours)
+This course is designed to help students enhance their personal and professional development through innovation guided by faculty members and professionals. It offers students an opportunity to apply their knowledge of statistics to the development of a new product, business, nonprofit program, or other initiative. The real world experiences that entrepreneurships provide will help students understand how academic knowledge leads to transformations, innovations, and solutions to different types of problems. This course is administered as an independent project for individual students, or as group projects.
+Prerequisites: 3.0 GPA and permission of the chief departmental advisor
+STAT 497/597 Topics in Statistics (1-3 Credit Hours)
+The advanced study of selected topics.
+Prerequisites: permission of the instructor
+Search catalog

@@ -1,0 +1,32 @@
+Engineering Management (ENMA)
+ENMA 301 Introduction to Engineering Management (3 Credit Hours)
+An introduction to principles of management and organizational behavior as they apply to the engineering profession.  Special emphasis on team building, quality leadership and planning, handling personnel issues, and marketing technology.  Group exercises, case studies, and extensive writing and speaking assignments.
+Prerequisites: Junior standing
+ENMA 302 Engineering Economics (3 Credit Hours)
+Introduction to cost estimation, accounting and financial metrics.  Valuation techniques, time value of money, and cash flow analysis.  Economic analysis of engineering alternatives including depreciation effects, income taxes, inflation, engineering management capital budgeting of projects, portfolio and public sector projects.
+Prerequisites: Junior standing
+ENMA 401 Project Management (3 Credit Hours)
+Foundations, principles, methods, and tools for effective design and management of projects in technology-based organizations.  Project organization, life cycle, planning, scheduling, implementation, control, and evaluation.  Special emphasis on project leadership, problem solving in team-based projects, project failure analysis, and advanced methods.  Use of case studies and applications to reinforce course concepts.  Students design and plan a project from concept through completion including proposal and post-project analysis.
+Prerequisites: Junior standing
+ENMA 410/510 Agile Project Management (3 Credit Hours)
+This course focuses the management of projects using an agile approach to respond to the continuous changes that affect project capabilities and performance. Although any project can be manage using agile project management, projects with high degree of uncertainty obtain the most benefits from this approach (e.g., R&D projects). The course covers Scrum and expands it by articulating the human and business factors that make successful agile project management. Case studies and/or short-projects are required.
+Prerequisites: ENMA 401 or equivalent preferred
+ENMA 415/515 Introduction to Systems Engineering (3 Credit Hours)
+Introduces the principles, concepts and process of systems engineering.  Examination of problem formulation, analysis, and interpretation as they apply to the study of complex systems.  Emphasizes the design nature of systems engineering problem solving, and includes case studies stressing realistic problems.  Development of system requirements, system objectives, and the evaluation of system alternatives.
+Prerequisites: Junior standing
+ENMA 420 Statistical Concepts in Engineering Management (3 Credit Hours)
+Introduction to  concepts and techniques in probability and statistics, including descriptive and inferential statistics.  Topics include fundamentals of probability, distributions, estimation, hypothesis testing, regression, process control, and reliability.  Applications include engineering design and analysis, manufacturing, decision aids, and quality management problems.
+Prerequisites: MATH 211 or equivalent
+ENMA 421 Decision Techniques in Engineering (3 Credit Hours)
+A systematic approach to the formulation of problems, the generation and evaluation of alternatives, and the selection and implementation of courses of action applied to engineering design, manufacturing, and management decisions. Topics include: goals and objectives; variables and relations; constraints and feasibility; uncertainty and risk; models and optimization; data and information; analysis and simulation. Case studies requiring oral presentations and written reports are used to emphasize concepts and systems analysis.
+Prerequisites: Junior standing
+ENMA 424 Risk Analysis in Engineering Management (3 Credit Hours)
+The systematic approach to analysis of risk as applied to engineering management with emphasis on cyber systems. The objectives of this course are (1) to gain an appreciation of the strategic importance of risk analysis and its relationship to other enterprise and engineering functions and (2) to develop a working knowledge of the concepts and methods in risk analysis as they may apply to cyber systems.
+Prerequisites: Junior standing
+ENMA 480 Ethics and Philosophy in Engineering Applications (3 Credit Hours)
+This course is designed to expose prospective engineering managers the theories and practices that are inherent in the ethical environment of modern organizations.  Topics include definitions of ethical behavior and leadership, the history of ethical thought, moral decision-making, and the importance of values such as honesty, integrity, and trustworthiness.  A full exploration of ethical autonomy, collaboration, communication and moral imagination will be conducted.  A variety of methods will be used to facilitate learning, including a textbook, movie and videos, case studies, experiential activities and writing assignments.  The successful student should gain a full appreciation for the value and practices of ethical leadership.
+Prerequisites: Junior standing
+ENMA 495/595 Topics in Engineering Management (1-6 Credit Hours)
+Special topics with emphasis placed on the recent developments in engineering management.
+Prerequisites: permission of the instructor
+Search catalog

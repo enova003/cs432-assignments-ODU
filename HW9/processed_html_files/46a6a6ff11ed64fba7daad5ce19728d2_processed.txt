@@ -1,0 +1,16 @@
+Get HTML Code
+FAQ - Embed OpenStreetMap
+Is Embed OpenStreetMap for free?It's free and you using form any purpose.Just click the "Get HTML Code" button, copy the code and paste it into your website.
+Can I embed OpenStreetMap map to my website?Yes, enter your address in the search field on the left. Our tool instantly shows you the correct map on the right side. Now adjust your settings and generate the code.
+Embed OpenStreetMap
+Embed OpenStreetMap to your Website with a OpenStreetMap Iframe
+You can include a OpenStreetMap on your website with a pin placed at the address chosen with our tool. This is useful for many purposes with a business to make their site more professional, or for bloggers, reviewers, and other sites that discuss specific establishments. The map is also easy to use with WordPress. They can also be used for more general overviews of a neighborhood or area. Embedding the OpenStreetMap offers many benefits to your visitors:
+Why Embed OpenStreetMap?
+You can include a OpenStreetMap on your website with a pin placed at the address chosen with our tool. This is useful for many purposes with a business to make their site more professional, or for bloggers, reviewers, and other sites that discuss specific establishments. The map is also easy to use with WordPress. They can also be used for more general overviews of a neighborhood or area. Embedding the OpenStreetMap offers many benefits to your visitors:
+It helps customers get directions. By adding a map on your site, it saves customers the steps of opening maps in another window and copying over the address. They can simply click on your map address and get directions.
+Make it easy to find business contact information.
+Show what's near the address
+Use it to highlight nearby points of interest, like parking areas, theaters, restaurants, or parks. It allows your site visitors to actually see where each point is, making it clearer to understand and easier to plan.
+It helps people see how easy it is to get to a place.
+It keeps visitors on your site. Whatever they want to know about a location, they can find it on the map while staying on your website, rather than going to a search engine.
+Embedding a OpenStreetMap with embedmaps.co is easy. Just put in an address, select a few details of how you want your map to appear, and get the code. Then, just paste that into your website where you want the map to appear.

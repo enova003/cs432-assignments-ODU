@@ -1,0 +1,312 @@
+Graduate Courses
+MATH 100 The Math Cooperative (1 Credit Hour)
+This course is to prepare students who did not meet the prerequisites for MATH 102M or MATH 103M .  This course is not open to students with prior credit for or who qualify for College Algebra or a higher-level math course.
+MATH 101M An Introduction to Mathematics for Critical Thinking (3 Credit Hours)
+This course fulfills the math general education requirement for some majors in the College of Arts and Letters and the College of Education and Professional Studies. It can also be used as a preparation for STAT 130M . An introduction to the ways in which modern mathematics can be used to analyze the modern world and make logical decisions. Topics include problem solving, sets, logic, consumer mathematics (loans, mortgages, annuities), probability, and elementary statistics.
+MATH 102M College Algebra (3 Credit Hours)
+A basic course in algebra that emphasizes applications and problem-solving skills. Topics include finding solutions, graphing of linear equations and inequalities, graphs and functions, combining polynomials and polynomial functions, factoring polynomials, simplifying and combining rational expressions and equations, simplifying roots and radicals, solving radical equations, and an introduction to quadratic functions and equations. This course fulfills the math general education requirement and can be used as a preparation for MATH 162M . MATH 101M is not a prerequisite for MATH 102M .  Not open to students with credit for MATH 162M .
+Prerequisites: SAT score of 540 or above, or ACT score of 22 or above, or qualifying score on the ALEKS placement exam
+MATH 103M College Algebra with Supplemental Instruction (3 Credit Hours)
+This course covers the same content as MATH 102M . It is designed for students who must complete MATH 102M as part of their degree program, but who do not meet the prerequisites for MATH 102M . MATH 103M may be used interchangeably with MATH 102M and may be used as a prerequisite requirement for any course that requires MATH 102M as a prerequisite. MATH 103M will require registration for a supplemental instruction session each week.
+Prerequisites: High school GPA of 3.4 or above, or qualifying score on the ALEKS placement exam, or MATH 100
+MATH 162M Precalculus I (3 Credit Hours)
+The first course in a two-course sequence designed to provide a strong preparation for calculus. Topics include algebraic operations, equations and inequalities, graphs and functions, polynomial functions, theory of equations, systems of equations, exponential functions, and logarithmic functions.
+Prerequisites: qualifying score on SAT or ACT, or qualifying score on a placement test administered by the University Testing Center or a grade of C or better in MATH 102M or MATH 103M
+MATH 163 Precalculus II (3 Credit Hours)
+The second course in a two-course sequence designed to provide strong preparation for calculus. Topics include exponential and logarithmic functions/equations, trigonometric functions/equations, trigonometric identities, laws of sines and cosines, vectors, polar representation of complex numbers, binomial theorem, and conic sections.
+Prerequisites: A grade of C or better in MATH 162M
+MATH 166 Precalculus I and II (4 Credit Hours)
+A one-semester precalculus course covering the topics of MATH 162M and MATH 163 at an accelerated pace.  Not available to students with credit in MATH 163 .
+Prerequisites: A grade of C or better in MATH 102M or MATH 103M
+MATH 197 Undergraduate Research Experience in Mathematics (0 Credit Hours)
+Student participation in a supervised, undergraduate research experience for which credit will not apply to the degree.  Experience must be related to the student's major, minor or career area of interest.
+Prerequisites: permission of the instructor
+MATH 200 Calculus for Business and Economics (3 Credit Hours)
+A Calculus course intended for those studying business and economics. Topics include applications of linear, quadratic, rational, exponential, and logarithmic business functions, solving applied linear systems using matrices, limits and continuity, derivatives with applications, and integration with applications.
+Prerequisites: A grade of C or better in MATH 162M
+MATH 205 Calculus for Life Sciences (3 Credit Hours)
+This course covers the standard topics of first semester calculus including limits, derivatives and integrals. All examples for this course are drawn from biological sciences with specific applications to topics covered in the core courses of the undergraduate Biology major.
+Prerequisites: A grade of C or better in MATH 162M
+MATH 211 Calculus I (4 Credit Hours)
+A first course in calculus and analytic geometry. Topics include differentiation and integration of algebraic and transcendental functions of one variable and applications.
+Prerequisites: A grade of C or better in MATH 163 or MATH 166
+MATH 212 Calculus II (4 Credit Hours)
+A second course in calculus and analytic geometry. Topics include techniques of integration, polar coordinates, infinite series, solid geometry, vectors, lines and planes.
+Prerequisites: A grade of C or better in MATH 211
+MATH 280 Transfer Credit for Ordinary Differential Equations (3 Credit Hours)
+This course is a VCCS transfer credit vehicle. Students who have earned transferable credit in MATH 279 or 291 at any member institution of the VCCS will be granted credit for MATH 280 .  The course will not be offered for credit by Old Dominion University.  Cannot be used to substitute for MATH 307 for MATH majors or minors.
+MATH 285 Transfer Credit for Calculus III (4 Credit Hours)
+This course is a VCCS transfer credit vehicle.  Students who have earned transferable credit for MATH 275 or 277 at any member institution of the VCCS will be granted credit for MATH 285 .  The course will not be offered for credit by Old Dominion University.  Cannot be used to substitute for MATH 312 for MATH majors or minors.
+MATH 295 Topics in Mathematics (1-5 Credit Hours)
+Study of selected topics.
+Prerequisites: departmental permission
+MATH 302 Geometry (3 Credit Hours)
+Elementary plane and solid Euclidean geometry with proofs and applications. Topics include angles, triangles, congruence, quadrilaterals, circles, similarity, perimeter, area, volume, polygons, plane and solid constructions. A dynamic geometry visualization software is used to discover geometric properties. (May not be used to satisfy the upper-division elective requirement of the math majors program.)
+Prerequisites: A grade of C or better in MATH 102M or MATH 103M or MATH 162M
+MATH 307 Ordinary Differential Equations (3 Credit Hours)
+Topics include first order differential equations and systems, second and higher order linear equations, solution by series and Laplace transform, and applications.
+Prerequisites: A grade of C or better in MATH 212
+MATH 311W Abstract Algebra (3 Credit Hours)
+Topics include introduction to logic and methods of proof; sets, relations, and functions; elementary group and ring theory.  This is a writing intensive course.
+Prerequisites: A grade of C or better in ENGL 211C or ENGL 221C or ENGL 231C ; MATH 212 or departmental permission
+MATH 312 Calculus III (4 Credit Hours)
+A third course in calculus and analytic geometry.  Topics include vector functions, partial derivatives, multiple integrals and an introduction to vector calculus.
+Prerequisites: A grade of C or better in MATH 212
+MATH 316 Introductory Linear Algebra (3 Credit Hours)
+An introduction to linear algebra. Topics include matrices, vectors, vector spaces, linear transformations, eigenvalues and eigenvectors.
+Prerequisites: A grade of C or better in MATH 212
+MATH 317 Calculus IV: Introductory Analysis (3 Credit Hours)
+An introduction to real analysis.  Topics covered include completeness and topological properties of the real line, theory of sequences, limits of functions, the derivative, the Riemann integral, and the Fundamental Theorem of Calculus.
+Prerequisites: A grade of C or better in MATH 212
+MATH 335 Number Systems and Discrete Mathematics (3 Credit Hours)
+Estimation and other applications to real world problems, using elementary principles of algebra, geometry, number theory, number systems, and discrete mathematics. (May not be used to satisfy the upper-division elective requirement of the math majors program.)
+Prerequisites: A grade of C or better in MATH 102M or MATH 103M or MATH 162M
+MATH 367 Cooperative Education (1-3 Credit Hours)
+Student participation for credit based on the academic relevance of the work experience, criteria, and evaluative procedures as formally determined by the department and Career Development Services prior to the semester in which the work experience is to take place.  Available for pass/fail grading only. May be repeated for credit.
+Prerequisites: approval by the department and Career Development Services in accordance with the policy for granting credit for Cooperative Education programs
+MATH 375 Advanced Concepts for Secondary Educators: Function and Modeling (3 Credit Hours)
+This course engages students in explorations and laboratory activities designed to strengthen and expand their knowledge of the topics found in college mathematics, and in particular, students will delve into and illuminate the connections between secondary and college mathematics by exploring and highlighting the basic secondary school topics that need to be mastered in order to solve problems in college mathematics. Through this process, students will achieve mastery of topics they will be teaching in secondary mathematics and understand the connection between the high school curriculum and their students' success in college and in the workplace.
+MATH 395 Topics in Mathematics (1-3 Credit Hours)
+Study of selected topics.
+Prerequisites: departmental permission
+MATH 399 Putnam Exam Problems and Related Topics (1 Credit Hour)
+This course is designed to help students prepare for the Putnum Exam - an annual national mathematical competition.  Problems from previous Putnam Exams and materials related to the solution of such problems will be considered.
+Prerequisites: A grade of C or better in MATH 212
+MATH 400/500 History of Mathematics (3 Credit Hours)
+Seminal ideas in geometry, arithmetic, algebra, analysis and applied mathematics (along with their mathematical representations) from antiquity, the age of exploration, the Promethean age to the present day.
+Prerequisites: MATH 311W or MATH 316 or MATH 317
+MATH 401/501 Partial Differential Equations (3 Credit Hours)
+Not available to students with credit in MATH 691 . Separation of variable techniques, Sturm-Liouville systems, generalized Fourier series, orthogonal functions of the trigonometric, Legendre and Bessel type boundary value problems associated with the wave equation and the heat conduction equation in various coordinate systems, applications to physics and engineering.
+Prerequisites: A grade of C or better in MATH 307 and MATH 312
+MATH 404/504 Fundamental Concepts of Geometry (3 Credit Hours)
+Fundamentals of Euclidean and non-Euclidean geometry. Alternatives to Euclidean geometry are examined using a variety of mathematical techniques. Special topics such as 'Taxicab' geometry, the hyperbolic plane, the art of M.C. Escher, and the mathematics of maps may be included.
+Prerequisites: MATH 311W
+MATH 406/506 Number Theory and Discrete Mathematics (3 Credit Hours)
+A survey course.  Topics include the prime number theorem, congruences, Diophantine equations, continued fractions, quadratic reciprocity, combinatorics, logic, graphs, trees, algorithms, coding and linear programming.
+Prerequisites: A grade of C or better in MATH 311W and MATH 316
+MATH 408/508 Applied Numerical Methods I (3 Credit Hours)
+An introduction to the numerical methods commonly used by scientists and engineers. Topics include solutions of equations of one variable, direct methods for solving linear systems, matrix factorization, stability analysis, iterative techniques, polynomial interpolation, numerical  differentiation and integration, approximation theory, and initial and boundary value problems for ordinary differential equations.
+Prerequisites: A grade of C or better in MATH 316 ; CS 150 or equivalent programming ability also required
+MATH 409/509 Applied Numerical Methods II (3 Credit Hours)
+Topics include least squares problems, the QR factorization, the conjugate gradient method, Householder transformation and the QR method for approximating eigenvalues and singular values of a matrix.  For applications, the finite difference method and the finite element method for solving partial differential equations, trigonometric interpolation and FFT as well as introductory study of optimization are discussed.
+Prerequisites: A grade of C or better in MATH 408 / MATH 508
+MATH 417/517 Intermediate Real Analysis I (3 Credit Hours)
+A rigorous course in classical real analysis. Topics include the topology of Euclidean n-space, properties of vector valued functions of several variables such as limits, continuity, differentiability and integrability, pointwise and uniform convergence of sequences and series of functions; Fourier series.
+Prerequisites: a grade of C or better in MATH 317
+MATH 418/518 Intermediate Real Analysis II (3 Credit Hours)
+A rigorous course in classical real analysis. Topics include the topology of Euclidean n-space, properties of vector valued functions of several variables such as limits, continuity, differentiability and integrability, pointwise and uniform convergence of sequences and series of functions; Fourier series.
+Prerequisites: A grade of C or better in MATH 417
+MATH 420/520 Applied Mathematics I: Biomathematics (3 Credit Hours)
+Exploring mathematical models in various biological contexts using both difference and differential equations: single and multiple species population growth, predator-prey and competing species (using phase plane analysis), epidemiological models of epidemics and pandemics, tumor growth, pattern formation in animals and insects.
+Prerequisites: A grade of C or better in MATH 307
+MATH 421/521 Applied Mathematics II: Mathematical Modeling (3 Credit Hours)
+The philosophy and methodology of mathematical modeling, its successes and limitations. Topics include models of climate change and atmospheric and ocean dynamics, models in other physical and biological contexts, and an introduction to deterministic chaos.
+Prerequisites: A grade of C or better in MATH 307 , MATH 312 , MATH 316 , and MATH 317
+MATH 422/522 Applied Complex Variables (3 Credit Hours)
+Not available to students with credit in MATH 692 . Topics include complex numbers, analytical functions and their properties, derivatives, integrals, series representations, residues and conformal mappings. Applications of the calculus of residues and mapping techniques to the solution of boundary value problems in physics and engineering.
+Prerequisites: A grade of C or better in MATH 312
+MATH 427/527 Applied Mathematics III: Elasticity (3 Credit Hours)
+An introduction to the mathematical theory of linear and non-linear elastic continua. Topics include vectors, tensors, deformation, stress, nonlinear constitutive theory, exact solutions, infinitesimal theory, antiplane strain, plane strain, plane stress, extension, torsion, bending and elastic wave propagation.
+Prerequisites: A grade of C or better in MATH 307 and MATH 312
+MATH 428/528 Applied Mathematics IV: Fluid Mechanics (3 Credit Hours)
+A mathematical investigation of the differential equations governing fluid flow with an emphasis on steady state incompressible flows. The Navier-Stokes equations are derived and some exact solutions are presented including the potential flow solutions. Topics therefore include classical ideal fluid flow and its complex variable representation, various approximations to the Navier-Stokes equations, boundary layer theory, and also surface and internal gravity wave motion, aspects of hydrodynamic stability theory and convection.  Other topics may be introduced by the instructor.
+Prerequisites: A grade of C or better in MATH 307 and MATH 312
+Corequisites: MATH 401
+MATH 457/557 Mathematics in Nature (3 Credit Hours)
+A calculus and differential equations based description of many patterns observable in the natural world including wave motion in the air, oceans, rivers, and puddles; rainbows, halos and other meteorological phenomena; arrangement of leaves, petals and branches; height of trees; river meanders; animal and insect markings; mudcracks; spider webs; and others.  Partial differential equations will be discussed as needed but a knowledge of ordinary differential equations will be assumed.
+Prerequisites: A grade of C or better in MATH 307
+MATH 461 Preparation for Praxis Certification (3 Credit Hours)
+This course will equip students to pass the Praxis 5161 Mathematics: Content Knowledge Exam. This exam is required for teaching licensure at the secondary Level in Virginia.  Only open to students in the Secondary School Teaching Option in the Math B.S. program who have NOT yet passed the Praxis 5161 Exam.
+Prerequisites: Instructor approval
+MATH 494 Entrepreneurship in Mathematics (3 Credit Hours)
+This course is designed to help students enhance their personal and professional development through innovation guided by faculty members and professionals.  It offers students an opportunity to apply their knowledge of mathematics to the development of a new product, business, nonprofit program, or other initiative.  The real world experiences that entrepreneurships provide will help students understand how academic knowledge leads to transformations, innovations, and solutions to different types of problems.  This course is administered as an independent project for individual students, or as group projects.
+Prerequisites: 3.0 GPA and approval of course instructor(s)
+MATH 496/596 Topics in Mathematics (1-3 Credit Hours)
+Study of selected topics.
+Prerequisites: permission of the instructor
+MATH 498/598 Tutorial Work in Special Topics in Mathematics (1-3 Credit Hours)
+Independent study under the direction of an instructor including library research and reports.
+Prerequisites: permission of the instructor
+MATH 500 History of Mathematics (3 Credit Hours)
+Seminal ideas in geometry, arithmetic, algebra, analysis and applied mathematics (along with their mathematical representations) from antiquity, the age of exploration, the Promethean age to the present day.
+Prerequisites: MATH 311W or MATH 316 or MATH 317
+MATH 501 Partial Differential Equations (3 Credit Hours)
+Not available to students with credit in MATH 691 . Separation of variable techniques, Sturm-Liouville systems, generalized Fourier series, orthogonal functions of the trigonometric, Legendre and Bessel type boundary value problems associated with the wave equation and the heat conduction equation in various coordinate systems, applications to physics and engineering.
+Prerequisites: A grade of C or better in MATH 307 and MATH 312
+MATH 504 Fundamental Concepts of Geometry (3 Credit Hours)
+Fundamentals of Euclidean and non-Euclidean geometry.  Alternatives to Euclidean geometry are examined using a variety of mathematical techniques.  Special topics such as 'Taxicab' geometry, the hyperbolic plane, the art of M.C. Escher, and the mathematics of maps may be included.
+Prerequisites: MATH 311W
+MATH 506 Number Theory and Discrete Mathematics (3 Credit Hours)
+A survey course.  Topics include the prime number theorem, congruences, Diophantine equations, continued fractions, quadratic reciprocity, combinatorics, logic, graphs, trees, algorithms, coding and linear programming.
+Prerequisites: A grade of C or better in MATH 311W and MATH 316
+MATH 508 Applied Numerical Methods I (3 Credit Hours)
+An introduction to the numerical methods commonly used by scientists and engineers. Topics include solutions of equations of one variable, direct methods for solving linear systems, matrix factorization, stability analysis, iterative techniques, polynomial interpolation, numerical  differentiation and integration, approximation theory, and initial and boundary value problems for ordinary differential equations.
+Prerequisites: A grade of C or better in MATH 316 ; CS 150 or equivalent programming ability are also required
+MATH 509 Applied Numerical Methods II (3 Credit Hours)
+Topics include least squares problems, the QR factorization, the conjugate gradient method, Householder transformation and the QR method for approximating eigenvalues and singular values of a matrix.  For applications, the finite difference method and the finite element method for solving partial differential equations, trigonometric interpolation and FFT as well as introductory study of optimization are discussed.
+Prerequisites: A grade of C or better in MATH 508
+MATH 517 Intermediate Real Analysis I (3 Credit Hours)
+A rigorous course in classical real analysis. Topics include the topology of Euclidean n-space, properties of vector valued functions of several variables such as limits, continuity, differentiability and integrability, pointwise and uniform convergence of sequences and series of functions; Fourier series.
+Prerequisites: A grade of C or better in MATH 317
+MATH 518 Intermediate Real Analysis II (3 Credit Hours)
+A rigorous course in classical real analysis. Topics include the topology of Euclidean n-space, properties of vector valued functions of several variables such as limits, continuity, differentiability and integrability, pointwise and uniform convergence of sequences and series of functions; Fourier series.
+Prerequisites: A grade of C or better in MATH 517
+MATH 520 Applied Mathematics I: Biomathematics (3 Credit Hours)
+Exploring mathematical models in various biological contexts using both difference and differential equations: single and multiple species population growth, predator-prey and competing species (using phase plane analysis), epidemiological models of epidemics and pandemics, tumor growth, pattern formation in animals and insects.
+Prerequisites: A grade of C or better in MATH 307
+MATH 521 Applied Mathematics II: Mathematical Modeling (3 Credit Hours)
+The philosophy and methodology of mathematical modeling, its successes and limitations. Models of climate change, atmospheric and ocean dynamics, models in other physical and biological contexts, and introduction to deterministic chaos.
+Prerequisites: A grade of C or better in MATH 307 , MATH 312 , MATH 316 and MATH 317
+MATH 522 Applied Complex Variables (3 Credit Hours)
+Not available to students with credit in MATH 692 . Topics include complex numbers, analytical functions and their properties, derivatives, integrals, series representations, residues and conformal mappings. Applications of the calculus of residues and mapping techniques to the solution of boundary value problems in physics and engineering.
+Prerequisites: A grade of C or better in MATH 312
+MATH 527 Applied Mathematics III: Elasticity (3 Credit Hours)
+An introduction to the mathematical theory of linear and non-linear elastic continua. Topics include vectors, tensors, deformation, stress, nonlinear constitutive theory, exact solutions, infinitesimal theory, antiplane strain, plane strain, plane stress, extension, torsion, bending and elastic wave propagation.
+Prerequisites: A grade of C or better in MATH 307 and MATH 312
+MATH 528 Applied Mathematics IV: Fluid Mechanics (3 Credit Hours)
+A mathematical investigation of the differential equations governing fluid flow with an emphasis on steady state incompressible flows. The Navier-Stokes equations are derived and some exact solutions are presented including the potential flow solutions. Topics therefore include classical ideal fluid flow and its complex variable representation, various approximations to the Navier-Stokes equations, boundary layer theory, and also surface and internal gravity wave motion, aspects of hydrodynamic stability theory and convection.  Other topics may be introduced by the instructor.
+Corequisites: MATH 501
+MATH 557 Mathematics in Nature (3 Credit Hours)
+A calculus and differential equations based description of many patterns observable in the natural world including wave motion in the air, oceans, rivers, and puddles; rainbows, halos and other meteorological phenomena; arrangement of leaves, petals and branches; height of trees; river meanders; animal and insect markings; mudcracks; spider webs; and others.  Partial differential equations will be discussed as needed but a knowledge of ordinary differential equations will be assumed.
+Prerequisites: A grade of C or better in MATH 307
+MATH 596 Topics in Mathematics (1-3 Credit Hours)
+Study of selected topics.
+Prerequisites: permission of the instructor
+MATH 598 Tutorial Work in Special Topics in Mathematics (1-3 Credit Hours)
+Independent study under the direction of an instructor including library research and reports.
+Prerequisites: permission of the instructor
+MATH 605 Complex Variables I (3 Credit Hours)
+An advanced course in complex analysis.
+Prerequisites: MATH 501 , MATH 518 and MATH 522
+MATH 616 Computational Linear Algebra (3 Credit Hours)
+Topics include singular value decomposition, sparse systems, Krylov subspace methods, large sparse eigenvalue problems and iterative methods. This course also covers applications of computational linear algebra in the areas of image compression, data processing and principal component analysis.
+Prerequisites: MATH 312 , MATH 316 and MATH 508
+MATH 617 Measure and Integration (3 Credit Hours)
+An introduction to measure theory and integration theory with special emphasis on Lebesgue measure and the Lebesgue integral including Fatou's Lemma, the Monotone Convergence Theorem and the Dominated Convergence Theorem.
+Prerequisites: MATH 518
+MATH 618 Applied Functional Analysis (3 Credit Hours)
+Topics include  orthogonal projections to subspaces, duality, the Hahn-Banach theorem and the Banach-Steinhaus theorem, L-2 spaces and convolution operators, fixed point theory, construction of Hilbert spaces, approximation procedures in Hilbert spaces, and spectral theory.
+Prerequisites: MATH 617
+MATH 620 Optimization Techniques (3 Credit Hours)
+Theory and computational algorithms for the optimization of constrained linear and nonlinear systems or for locating the maximum of a constrained nonlinear function. Applications to problems in economics, operations research and systems theory.
+Prerequisites: MATH 312 and MATH 316
+MATH 622 Numerical Solutions to Differential Equations (3 Credit Hours)
+An in-depth study of the numerical solution to ordinary and partial differential equations.  Topics include linear multi-step methods, Runge-Kutta methods, stiff differential equations, collocation methods, and strong and weak stability analysis for ODEs.  For PDEs, finite difference methods are examined.
+Prerequisites: MATH 509
+MATH 632 Master’s Project (3 Credit Hours)
+Under the guidance of a faculty member in the Department of Mathematics and Statistics, the student will undertake a significant data analysis problem in a scientific setting outside the department.  A written report and/or public presentation of results will be required.
+Prerequisites: permission of graduate program director
+MATH 637 Tensor Calculus and Differential Geometry (3 Credit Hours)
+Topics include metric spaces, bilinear and quadratic forms, tensors, point manifolds, theory of curves, geodesic differentiation, theory of surfaces, curvature of general manifolds, integrability.
+MATH 638 Mathematical Theories of Continua (3 Credit Hours)
+Topics include deformation, motion, stress,  conservation laws, and constitutive theories.
+Prerequisites: MATH 501 and MATH 637
+MATH 691 Engineering Analysis I (3 Credit Hours)
+Not available to students with credit in MATH 501 .  Separation of variable techniques, Sturm-Liouville systems, generalized Fourier series, orthogonal functions of the trigonometric, Legendre and Bessel type, boundary value problems associated with the wave equation and the heat conduction equation in various coordinate systems, applications to physics and engineering.
+MATH 692 Engineering Analysis II (3 Credit Hours)
+Not available to students with credit in MATH 522 .  Topics include complex numbers, analytical functions and their properties, derivatives, integrals, series representations, residues and conformal mappings.  Applications of the calculus of residues and mapping techniques to the solution of boundary value problems in physics and engineering.
+Prerequisites: MATH 312
+MATH 693 Engineering Analysis III (3 Credit Hours)
+Advanced topics in the theory and application of ordinary differential equations, distributions, Green's functions, classification of partial differential equations, initial-value problems, eigenfunction expansions for boundary-value problems, selected special functions, singular perturbation theory for differential equations.
+MATH 695 Seminar in Mathematics (1-3 Credit Hours)
+Seminar in advanced topics.
+Prerequisites: permission of the instructor
+MATH 696 Topics in Mathematics (1-3 Credit Hours)
+Advanced study of selected topics.
+Prerequisites: permission of the instructor
+MATH 697 Topics in Mathematics (1-3 Credit Hours)
+Advanced study of selected topics.
+MATH 698 Research (3 Credit Hours)
+MATH 699 Thesis (3 Credit Hours)
+MATH 702 Integral Equations (3 Credit Hours)
+Advanced material in theory and application of integral equations. Formulation of the integral equation problems, cause and effect, connection with differential equations, scattering theory, boundary values of partial differential equations, Fredholm and Volterra theory, expansions in orthogonal functions, theory of Hilbert-Schmidt singular integral equations, method of Wiener-Hopf, monotone operator theory, and direct methods.
+Prerequisites: MATH 618 and MATH 693
+MATH 721 Advanced Applied Numerical Methods I (3 Credit Hours)
+Numerical solutions of partial differential equations and integral equations. For PDEs, the finite difference method, the finite element method and the boundary element method are studied.  A priori and a posteriori error estimates are examined.  For integral equations, topics include Galerkin methods, collocation methods, and the Petrov-Galerkin method.
+Prerequisites: MATH 501 , MATH 508 and MATH 509
+MATH 722 Advanced Applied Numerical Methods II (3 Credit Hours)
+Numerical solutions of partial differential equations and integral equations. For PDEs, the finite difference method, the finite element method and the boundary element method are studied.  A priori and a posteriori error estimates are examined.  For integral equations, topics include Galerkin methods, collocation methods, and the Petrov-Galerkin method.
+Prerequisites: MATH 501 , MATH 508 and MATH 509
+MATH 725 Computational Fluid Dynamics (3 Credit Hours)
+An introduction to the theory of finite volume methods for scalar and vector conservation laws and the Euler and Navier-Stokes equations. Topics include weak solutions, characteristics, Rankine-Hugoniot conditions, energy and entropy inequalities, Riemann solvers, and numerical methods for compressible and incompressible flows including MUSCL and total variation diminishing (TVD) schemes, essentially non-oscillatory (ENO), weighted ENO, and entropy stable scheme.
+Prerequisites: MATH 501 and MATH 508
+MATH 726 Discontinuous Galerkin Methods (3 Credit Hours)
+An introduction to the theory of nodal discontinuous Galerkin (DG) methods for solving linear and nonlinear conservation law equations. Topics include fundamental properties of conservation laws including their ability to generate non-smooth solutions, thus leading to the notion of weak solutions and entropy inequalities, consistency and stability properties of nodal DG methods as well as their efficient implementation techniques, and application of nodal DG methods for solving both linear and nonlinear equations, such as the advection-diffusion, Burgers, and Navier-Stokes equations.
+Prerequisites: MATH 725
+MATH 745 Transform Methods (3 Credit Hours)
+Use of integral transforms for students of applied mathematics, physics and engineering. Integral transforms studied are Laplace, Fourier, Hankel, finite Z-transforms and other special transforms.
+Prerequisites: MATH 691 and MATH 692
+MATH 750 Calculus of Variations (3 Credit Hours)
+Maximum and minimum techniques in calculus and dynamic programming. Derivation of Euler-Lagrange equations for a variety of conditions, formulation of extremum problems with side conditions for ordinary and partial differential equations. Application to dynamics, elasticity, heat and mass transfer, energy principles and finite element techniques.
+Prerequisites: MATH 691 and MATH 692
+MATH 755 Introduction to Kinetic Theory and Mesoscopic Methods for Computational Mechanics I (3 Credit Hours)
+The goal of this course is to provide an introduction to kinetic theory and nonequilibrium statistical mechanics, which bridges the microscopic theories and the macroscopic continuum theories of flows. Topics include the molecular dynamics of N particles, Hamiltonian equation, Liouville equation, Boltzmann equation, binary collision, linearized collision operator and its eigen theory, the H-theorem and irreversibility, calculation of the transport coefficients.
+Prerequisites: MATH 501 or MATH 691 or permission of the instructor
+MATH 756 Introduction to Kinetic Theory and Mesoscopic Methods for Computational Mechanics II (3 Credit Hours)
+This is the second part of the study of the interaction between kinetic theory and nonequilibrium statistical mechanics. Models of Boltzmann equation and numerical techniques for hydrodynamic equations (Euler and Navier-Stokes equations) and the Boltzmann equation are studied. Topics include Non-normal and moment method, Maxwell's moment method, BGK model equation, gas mixtures and transport phenomena in mixtures, the Wang-Chang-Uhlenbeck equation, Enskog equation for dense gases, the lattice Boltzmann equation for incompressible flows, the gas-kinetic scheme for compressible flows and the Direct Simulation Monte Carlo (DSMC) method.
+Prerequisites: MATH 755 / MATH 855
+MATH 771 Scientific Computing in Applied Mathematics (3 Credit Hours)
+Numerical methods for algebraic systems, partial differential equations, integral equations, optimization, Monte Carlo method, and statistics, with emphasis on computational performance using modern programming languages such as Fortran 90 or C/C++ and modern computer architecture. Basic techniques of parallel computing using MPI (Message Passing Interface), openMP, or other distributed/multicore computing platforms. Common tools in scientific computing, such as Unix shell commands, debuggers, version control systems, scientific libraries, graphics and visualization, will also be introduced.
+MATH 795 Seminar in Mathematics (1-3 Credit Hours)
+Seminar in advanced topics.
+Prerequisites: permission of the instructor
+MATH 796 Topics in Mathematics (1-3 Credit Hours)
+Advanced study of selected topics.
+Prerequisites: permission of the instructor
+MATH 797 Topics in Mathematics (1-3 Credit Hours)
+Advanced study of selected topics.
+Prerequisites: permission of instrictor
+MATH 801 Asymptotic and Perturbation Methods (3 Credit Hours)
+Asymptotic and perturbation methods are developed and used to solve linear and nonlinear differential equations. Included are analyses of Duffing's Equation, Van der Pol's Equation, and Mathieu's Equation. Singular perturbation theory and the Method of Matched Asymptotic Expansions are used to solve equations with boundary layer type solutions. Asymptotic expansions of integrals using Laplace's Method, Method of Steepest Descent and Method of Stationary Phase are developed. Applications from all areas of applied mathematics are given.
+Prerequisites: MATH 693
+MATH 802 Integral Equations (3 Credit Hours)
+Advanced material in theory and application of integral equations. Formulation of the integral equation problems cause and effect, connection with differential equations, scattering theory, boundary values of partial differential equations, Fredholm and Volterra theory, expansions in orthogonal functions, theory of Hilbert-Schmidt singular integral equations, method of Wiener-Hopf, monotone operator theory, and direct methods.
+Prerequisites: MATH 618 and MATH 693
+MATH 803 Advanced Applied Mathematics I (3 Credit Hours)
+Advanced techniques of mathematics applied to specific topics of physical interest. Examples could include high activation energy asymptotics applied to combustion, singular integral equations applied to fracture mechanics, or bifurcation theory applied to non-linear phenomena such as transition to turbulence, phase transitions and hydrodynamic stability.
+Prerequisites: MATH 702
+MATH 804 Advanced Applied Mathematics II (3 Credit Hours)
+Advanced techniques of mathematics applied to specific topics of physical interest. Examples could include high activation energy asymptotics applied to combustion, singular integral equations applied to fracture mechanics, or bifurcation theory applied to non-linear phenomena such as transition to turbulence, phase transitions and hydrodynamic stability.
+Prerequisites: MATH 702
+MATH 821 Advanced Applied Numerical Methods I (3 Credit Hours)
+Numerical solutions of partial differential equations and integral equations. For PDEs, the finite difference method, the finite element method and the boundary element method are studied.  A priori and a posteriori error estimates are examined.  For integral equations, topics include Galerkin methods, collocation methods, and the Petrov-Galerkin method.
+Prerequisites: MATH 501 , MATH 508 and MATH 509
+MATH 822 Advanced Applied Numerical Methods II (3 Credit Hours)
+Numerical solutions of partial differential equations and integral equations. For PDEs, the finite difference method, the finite element method and the boundary element method are studied.  A priori and a posteriori error estimates are examined.  For integral equations, topics include Galerkin methods, collocation methods, and the Petrov-Galerkin method.
+Prerequisites: MATH 821
+MATH 823 Approximation and Optimization I (3 Credit Hours)
+Introductory and advanced topics representing current research in approximation and optimization techniques for various application problems.  Topics include recent developments in algorithms, their analysis, and applications such as data fitting and pattern separation.
+Prerequisites: permission of the graduate program director
+MATH 825 Computational Fluid Dynamics (3 Credit Hours)
+An introduction to the theory of finite volume methods for scalar and vector conservation laws and the Euler and Navier-Stokes equations. Topics include weak solutions, characteristics, Rankine-Hugoniot conditions, energy and entropy inequalities, Riemann solvers, and numerical methods for compressible and incompressible flows including MUSCL and total variation diminishing (TVD) schemes, essentially non-oscillatory (ENO), weighted ENO, and entropy stable scheme.
+Prerequisites: MATH 501 and MATH 508
+MATH 826 Discontinuous Galerkin Methods (3 Credit Hours)
+An introduction to the theory of nodal discontinuous Galerkin (DG) methods for solving linear and nonlinear conservation law equations. Topics include fundamental properties of conservation laws including their ability to generate non-smooth solutions, thus leading to the notion of weak solutions and entropy inequalities, consistency and stability properties of nodal DG methods as well as their efficient implementation techniques, and application of nodal DG methods for solving both linear and nonlinear equations, such as the advection-diffusion, Burgers, and Navier-Stokes equations.
+Prerequisites: MATH 725 or MATH 825
+MATH 845 Transform Methods (3 Credit Hours)
+Use of integral transforms for students of applied mathematics, physics and engineering. Integral transforms studied are Laplace, Fourier, Hankel, finite Z-transforms and other special transforms.
+Prerequisites: MATH 691 and MATH 692
+MATH 850 Calculus of Variations (3 Credit Hours)
+Maximum and minimum techniques in calculus and dynamic programming. Derivation of Euler-Lagrange equations for a variety of conditions, formulation of extremum problems with side conditions for ordinary and partial differential equations. Application to dynamics, elasticity, heat and mass transfer, energy principles and finite element techniques.
+Prerequisites: MATH 691 and MATH 692
+MATH 855 Introduction to Kinetic Theory and Mesoscopic Methods for Computational Mechanics I (3 Credit Hours)
+The goal of this course is to provide an introduction to kinetic theory and nonequilibrium statistical mechanics, which bridges the microscopic theories and the macroscopic continuum theories of flows. Topics include the molecular dynamics of N particles, Hamiltonian equation, Liouville equation, Boltzmann equation, binary collision, linearized collision operator and its eigen theory, the H-theorem and irreversibility, calculation of the transport coefficients.
+Prerequisites: MATH 501 or MATH 691 or permission of the instructor
+MATH 856 Introduction to Kinetic Theory and Mesoscopic Methods for Computational Mechanics II (3 Credit Hours)
+This is the second part of the study of the interaction between kinetic theory and nonequilibrium statistical mechanics. Models of Boltzmann equation and numerical techniques for hydrodynamic equations (Euler and Navier-Stokes equations) and the Boltzmann equation are studied. Topics include Non-normal and moment method, Maxwell's moment method, BGK model equation, gas mixtures and transport phenomena in mixtures, the Wang-Chang-Uhlenbeck equation, Enskog equation for dense gases, the lattice Boltzmann equation for incompressible flows, the gas-kinetic scheme for compressible flows and the Direct Simulation Monte Carlo (DSMC) method.
+Prerequisites: MATH 755 / MATH 855
+MATH 871 Scientific Computing in Applied Mathematics (3 Credit Hours)
+Numerical methods for algebraic systems, partial differential equations, integral equations, optimization, Monte Carlo method, and statistics, with emphasis on computational performance using modern programming languages such as Fortran 90 or C/C++ and modern computer architecture. Basic techniques of parallel computing using MPI (Message Passing Interface), openMP, or other distributed/multicore computing platforms. Common tools in scientific computing, such as Unix shell commands, debuggers, version control systems, scientific libraries, graphics and visualization, will also be introduced.
+MATH 895 Seminar in Mathematics (1-3 Credit Hours)
+Seminar in advanced topics.
+Prerequisites: permission of the instructor
+MATH 896 Topics in Mathematics (1-3 Credit Hours)
+Advanced study of selected topics.
+Prerequisites: permission of the instructor
+MATH 897 Topics in Mathematics (1-3 Credit Hours)
+Advanced study of selected topics.
+MATH 898 Research (1-9 Credit Hours)
+MATH 899 Dissertation (1-9 Credit Hours)
+MATH 999 Doctoral Graduate Credit (1 Credit Hour)
+This course is a pass/fail course doctoral students may take to maintain active status after successfully passing the candidacy examination.  All doctoral students are required to be registered for at least one graduate credit hour every semester until their graduation.
+Search catalog

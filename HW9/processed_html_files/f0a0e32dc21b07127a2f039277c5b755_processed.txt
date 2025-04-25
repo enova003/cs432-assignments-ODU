@@ -1,0 +1,65 @@
+No Undergraduate courses found.
+MPHO 600 Introduction to Public Health Practice (1 Credit Hour)
+This course provides an introduction to the multidisciplinary field of public health. Students will learn the history, core functions, and roles of the US public health system through grounding in the 12 foundational public health knowledge areas.
+MPHO 605 Introduction to Biostatistics for Public Health (3 Credit Hours)
+This course introduces fundamental concepts in biostatistics. Students will learn how to analyze and interpret numeric data using statistical tools to investigate and evaluate public health issues.
+MPHO 608 Environment and Public Health (3 Credit Hours)
+This course provides an introduction to 21st century environmental health science and practice. In addition to covering foundational environmental issues affecting people’s health, the class familiarizes students with contemporary environmental health challenges such as climate change, sea level rise, antibiotic resistance, food and sustainability, plastics and environmental health, disaster preparedness, lead poisoning, radiation safety and health, environmental justice, cultural competence, and environmental risk communication.
+MPHO 610 Introduction to Public Health Practice (1 Credit Hour)
+This introductory readings course provides students with an overview of the public health sector from a local, national, and global perspective.  The history of public health and recent events leading to a complete transformation of service delivery are two of the topics presented.
+MPHO 611 Social and Behavioral Sciences for Public Health (3 Credit Hours)
+This course reviews and critiques psychological, social, and cultural concepts and models relevant to health and disease in society. Students will learn how to select and apply appropriate social and behavioral models to the design of public health interventions and policies. Existing social inequalities in health status related to race, social class, and gender will be explored, as will the intersection between risk factors and the development/implementation of public health interventions.
+MPHO 614 Principles of Epidemiology (3 Credit Hours)
+This course will introduce the principles and basic methods of epidemiology for applications in public health. These include measures of disease frequency and association, study design, sources of errors in epidemiological studies, validity and reliability of diagnostic and screening tests, causation, and outbreak investigations.
+MPHO 616 Research Methods in Public Health (3 Credit Hours)
+Public health professionals require skills to identify problems that face population groups, and to delineate ways to solve them. Often this necessitates conducting small- or large-scale investigations on their own, or as a member of a project team. The goal of this course is to provide practical, step-by-step guidance to the research process in public health.
+MPHO 620 Health Management and Systems Thinking (3 Credit Hours)
+In this course, students will review the structure and functions of American and international healthcare systems, public health practice, and managerial responsibilities. Additionally, this course will introduce students to the practice of systems thinking in public health and the influence of systems thinking on public health policy.
+MPHO 622 Environmental Health Law, Justice and Governance (3 Credit Hours)
+This course surveys the basic legal concepts affecting environmental health services and program enforcement & administration. It is designed to provide a fundamental background of environmental and public health law for public health officers and other environmental health workers to fulfill their respective roles more successfully.
+MPHO 630 Health Communication and Social Marketing for Public Health (3 Credit Hours)
+This course examines social marketing concepts and tools for influencing health behavior change. Students learn how to design, implement, and evaluate strategies for social marketing campaigns.
+MPHO 632 Environmental and Occupational Health Risk Assessment (3 Credit Hours)
+This course is an introduction to risk assessment, as applied to environmental and workplace hazards.  It examines the fundamental concepts of risk.  Students will learn the United States Environmental Protection Agency (USEPA) standard and advanced methodology for quantitative risk assessment including hazard identification, exposure assessment, dose-response modeling, risk characterization, and risk communication.  Utilization of qualitative assessment methods and ecological risk assessment are also explored.
+MPHO 633 Financing Healthcare (3 Credit Hours)
+Students will examine financial evaluation of the health care industry, the source of funds, and the effects of changing patient policies. Other topics of interest will be financial strategies, budgets and capital outlay. Cross-listed with CHP 633 .
+MPHO 640 Health Disparities and Social Justice (3 Credit Hours)
+This course provides an introduction to the topic of global health disparities through an in-depth examination and discussion of the relationship between social injustice and inequitable health outcomes. Students will be introduced to the behavioral, social and environmental determinants of health disparities and the pathways and mechanisms leading to inequitable health outcomes in vulnerable groups, as well as strategies for addressing these determinants to improve health.
+MPHO 643 Principles of Toxicology (3 Credit Hours)
+This course is an introduction to the basic principles of toxicology, and the interactions between toxic agents and living systems.  The course consists of a study of general principles, dose response, toxin recognition and evaluation, chemicals, the human environment, and ecological toxicology.
+MPHO 651 Health Promotion Theory and Practice (3 Credit Hours)
+This course provides public health promotion graduate students with a comprehensive overview of the practical and theoretical principles and skills needed to plan, implement, and evaluate health promotion programs in a variety of settings. The course will help students apply constructs from theories to understand the determinants of health behaviors and emphasizes the importance of addressing health behavior change at the individual, interpersonal, organizational, community and societal levels of the social ecological model.
+MPHO 660 Healthcare Informatics (3 Credit Hours)
+This course examines the availability, use of interpretation of data obtained from traditional and new data systems used for population health monitoring. Included are public health surveillance systems, vital statistics, hospital discharge data, Health Plan Employer Data and Set (HEDIS), immunization information, school health data, 1996 Health Insurance Portability and Accountability Act (HIPAA), and regulatory agency data related to health.
+MPHO 661 Program Planning and Evaluation (3 Credit Hours)
+This course provides public and community health graduate students with a comprehensive overview of the practical and theoretical principles and skills needed to plan, implement, and evaluate health programs in a variety of settings.
+MPHO 669 Applied Practice Experience (3 Credit Hours)
+In this course, students build on their earlier practice activities (i.e., Practice Labs) and undertake an extensive, hands-on activity at a field-based practice site. The Practice Labs, which are completed prior to taking this course, are designed to meet foundational and track competencies as well as prepare students for an on-site work experience.
+MPHO 670 Cultural Issues in Health Promotion and Education (3 Credit Hours)
+This course provides an introduction for multicultural communication for health promotion and disease management. Topics to be covered include how to work collaboratively in diverse groups with an understanding of health behaviors, values, and health benefits.
+MPHO 673 Policy and Politics of Health (3 Credit Hours)
+This course enables the student to develop systematic and analytical frameworks for understanding health and healthcare policy issues. It will introduce the policy process, background research necessary for policy implementation, and implementation strategies.
+MPHO 680 Global Health Issues (3 Credit Hours)
+An examination of the political, social, cultural, and ethical issues for disease prevention and health promotion in developing countries. Students will learn to identify international health prerogatives aimed at improving health status through education and intervention.
+MPHO 686 Legal Aspects of Health Services (3 Credit Hours)
+This course examines the legal requirements affecting the health care industry, including a survey of the basic concepts and content in the major areas of health law, an explanation and identification of sources of legal authority, and a familiarity with legal language.
+MPHO 688 Grant Writing for Public Health Practice (3 Credit Hours)
+This course covers issues and problems concerned with the development of grants and contracts as they relate to the health professions.  The course focuses on the multiple roles of funding agencies and the importance of matching the interests of the grant seeker with the corresponding funding agency.
+MPHO 689 Integrative Learning Experience (3 Credit Hours)
+This is the culminating course for the MPH program. Students demonstrate an ability to integrate and synthesize foundational and concentration-specific competencies from their MPH program coursework. Students complete assignments that address timely public health issues culminating in high quality written products and an e-portfolio that demonstrate the analysis, synthesis and intersection of course work and concurrent practicum experiences. Students from all tracks are required to complete this course prior to graduation.
+MPHO 695 Topics in Public Health (1-3 Credit Hours)
+MPHO 712 Applied Biostatistics (3 Credit Hours)
+This course presents modern methods for analyzing data from epidemiologic and public health studies using the latest statistical methods. Emphasis is placed on practical, applied theories/concepts, aspects of methods for the analysis of diverse types of data including from observational studies, and the use of a computer for quantitative data management. Emphasis will also be placed on technical and statistical report writing.
+MPHO 713 Applied Statistical Programming (3 Credit Hours)
+This course covers programming and computing techniques using contemporary statistical packages. Emphasis is placed on practical issues relating to organizing, modifying, and preparing data for analysis.
+MPHO 716 Application of Epidemiological Methods (3 Credit Hours)
+The course aims to prepare graduate students with hands-on experience in producing common epidemiological measures while critically evaluating the quality of data and the design of epidemiological investigations.
+MPHO 717 Epidemiology of Infectious Diseases (3 Credit Hours)
+This course focuses on the epidemiology of infectious diseases from a public health perspective. It applies traditional and contemporary epidemiological methods used to deal with infectious diseases.
+MPHO 776 Global Health (3 Credit Hours)
+This course introduces students to the political, social, cultural, environmental, and ethical issues globally involved in disease prevention and health promotion. Specific emphasis is on incidence/prevalence, morbidity/mortality, and identified health problems in specific regions and countries.  This course also identifies global health prerogatives aimed at improving health status through education and intervention.
+MPHO 778 Global Environmental Health (3 Credit Hours)
+The goal of this course is to guide students with a public health perspective to develop skills to identify and analyze environmental health problems globally. It is designed to provide knowledge on recognizing and evaluating major environmental health issues and risk factors in developed and developing countries by using group discussions and real-life case studies.
+MPHO 784 Creating Sustainable Environmental Futures (3 Credit Hours)
+This second-year MPH course examines the interrelationships between individual and societal decisions and the global environment, and the consequences these interrelationships have for public health. Students engage in an in-depth examination of key environmental health issues, analyze the public health implications, and consider various strategies for improving individual and population health, and enhancing sustainability, in the local area, the region, the nation and around the world.
+Search catalog

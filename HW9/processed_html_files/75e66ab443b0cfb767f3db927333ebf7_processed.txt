@@ -1,0 +1,104 @@
+No Undergraduate courses found.
+OCCT 721 Foundations of Occupational Therapy Practice (2 Credit Hours)
+Students examine the historical and philosophical foundations that have shaped the profession of occupational therapy, its domain, values, and theories, and the foundations of practice with individuals, groups, and populations. Students explore the value of occupation and the role of occupational therapy in promoting health and wellness.
+OCCT 749 Occupations I (6 Credit Hours)
+Students analyze the domains and dimensions of occupations, occupational performance skills and patterns, and the structures, functions, and processes of the body and body systems. Students conduct biomechanical assessments and identify essential performance for health and function.
+Prerequisites: Admission into the Doctor of Occupational Therapy Program
+OCCT 750 Occupations II (4 Credit Hours)
+Students analyze the domains and dimensions of occupations, occupational performance skills and patterns, and the structures, functions, and processes of the body and body systems. Students will examine the structures and function of the central, autonomic and peripheral nervous systems and apply neuroscience principles to clinical conditions that disrupt human engagement and performance.
+Prerequisites: OCCT 749
+OCCT 751 Occupations III (3 Credit Hours)
+Students analyze the domains and dimensions of occupations, occupational performance skills and patterns, and the structures, functions, and processes of the body and body systems. Students examine human development and occupational patterns across the lifespan and the cultures that enable individuals, groups and populations to optimally participate in occupations that promote health.
+Prerequisites: OCCT 750
+OCCT 752 Occupation, Health and Wellness Across the Lifespan (3 Credit Hours)
+Students examine human development, occupational patterns, and cultural influences across the lifespan that enable individuals, groups and populations to optimally participate in occupations that promote health. Students apply critical reasoning to consider the impact of disorders on participation and health.
+Prerequisites: OCCT 721 and OCCT 749
+OCCT 753 Pediatric Habilitation and Rehabilitation: Theory and Practice (6 Credit Hours)
+Students examine occupations and the evaluation and treatment of physical, developmental, psychosocial, and mental health disorders of children and youth. Students design evaluation and intervention plans for clients receiving services in hospital, developmental, and school settings.
+Prerequisites: OCCT 750 , OCCT 752 , OCCT 754 , and OCCT 756
+OCCT 754 Professional Reasoning and the Occupational Therapy Process (3 Credit Hours)
+Students utilize professional and clinical reasoning to apply the occupational therapy process in client care. Students analyze information that supports team collaboration, clinical decision making, effective client care, and service reporting.
+Prerequisites: OCCT 721 and OCCT 749
+OCCT 755 Evaluation of Occupational Performance (3 Credit Hours)
+Students explore the evaluation process in occupational therapy practice including observation, interviewing, assessment administration and interpretation, decision making, and reporting. Tests and measurement theory, psychometrics, methods, procedures, and test interpretation are examined.
+Prerequisites: OCCT 750 , OCCT 752 , OCCT 754 , and OCCT 756
+OCCT 756 Professional Identity and Ethical Formation (3 Credit Hours)
+Students integrate foundational concepts to promote professionalism, ethical reasoning, therapeutic use of self, and lifelong competent and interprofessional practice. Students examine professional identity and the role of professional relationships in occupational therapy practice.
+Prerequisites: OCCT 721 and OCCT 749
+OCCT 768 Fieldwork I Pediatrics (1 Credit Hour)
+Immersed in a setting that serves the needs of children and youth, students develop a summary of a client’s occupational history and experiences, patterns of daily living, interests, values, needs, and relevant environments and contexts, and examine client-centered outcomes.
+Prerequisites: OCCT 750 , OCCT 752 , OCCT 754 , and OCCT 756
+OCCT 821 Elements of Research I: Theories of Inquiry and Scholarly Literature (3 Credit Hours)
+Students develop knowledge of the application of statistics for the healthcare professional. Students utilize descriptive statistics, normality, parametric and non-parametric hypothesis testing and simple linear regression to evaluate research and form clinical decisions.
+Prerequisites: OCCT 721 and OCCT 749
+OCCT 822 Elements of Research II: Using Evidence to Inform Practice (3 Credit Hours)
+Students apply knowledge of practice and research to design effective intervention to meet clients’ needs. Students design clinical questions related to diagnosis, prognosis, and intervention, and critically appraise the research literature on a topic of interest to the practice community.
+Prerequisites: OCCT 821
+OCCT 841 Education and Learning in Healthcare and Academic Settings (2 Credit Hours)
+Students explore teaching and learning theory, threshold concepts, and signature pedagogy in occupational therapy academic and fieldwork education. Activity analysis and learning strategies to promote health literacy, performance, engagement, and behavioral change are examined.
+Prerequisites: OCCT 751 , OCCT 752 , OCCT 754 , and OCCT 756
+OCCT 843 Leadership and Advocacy (2 Credit Hours)
+Students will examine approaches to professional development and strategic planning and examine their leadership competencies. They will discuss roles and responsibilities and develop a professional leadership and business plan.
+Prerequisites: OCCT 751 , OCCT 752 , OCCT 754 , and OCCT 756
+OCCT 845 Health Care Policy and Program Management (2 Credit Hours)
+Factors, forces, and dynamics of the healthcare system and service delivery environment are examined, and students compare the interrelationships of health policy, healthcare, and practice. Students conduct an epidemiological analysis of a challenging healthcare issue.
+Prerequisites: OCCT 751 , OCCT 752 , OCCT 754 , and OCCT 756
+OCCT 847 Therapeutic Relationships and Client Communication (2 Credit Hours)
+Students examine the elements of developing and maintaining relationships, communicating with clients and members of the team, and resolving interpersonal challenges in the roles of practitioner, practice scholar, and leader/advocate.
+Prerequisites: OCCT 751 , OCCT 752 , OCCT 754 , and OCCT 756
+OCCT 848 Fieldwork I Adults (1 Credit Hour)
+Students conduct an occupation-based assessment of a client in a clinical or community-based setting that serves the needs of adults with disabilities. Students examine occupational performance and its impact on participation and health and wellness in individuals and groups.
+Prerequisites: OCCT 751 , OCCT 754 , and OCCT 755
+OCCT 850 Adult Rehabilitation: Theory and Practice (6 Credit Hours)
+Students examine occupations and the evaluation and treatment of physical, psychosocial, and mental health disorders of adults. Students design evaluation and intervention plans for clients receiving services in acute and sub-acute care, inpatient and outpatient rehabilitation, and community-based settings.
+Prerequisites: OCCT 751 , OCCT 753 ,and OCCT 755
+OCCT 851 Productive Aging and Rehabilitation: Theory and Practice (3 Credit Hours)
+Students examine the aging process and the evaluation and treatment of physical, developmental, psychosocial, and mental health disorders of older adults. Students design evaluation and intervention plans for clients receiving services in home, community, and skilled nursing settings.
+Prerequisites: OCCT 751 and OCCT 850
+OCCT 852 Evaluation and Intervention of the Upper Extremity (3 Credit Hours)
+Interventions to optimize functional use of the hand and arm are analyzed. Emphasis on physical agent modalities, orthotics fabrication and application, shoulder, arm, and hand rehabilitation methods, and prosthetics and robotics is explored.
+Prerequisites: OCCT 751 , OCCT 754 , and OCCT 755
+OCCT 853 Mental Health Promotion and Recovery: Theory and Practice (6 Credit Hours)
+Students examine the influence of psychosocial factors on occupational performance and participation in individuals, groups, and populations. Use of self as a therapeutic agent and group process skills are emphasized.
+Prerequisites: OCCT 747 and OCCT 755
+OCCT 854 Technology and Environment Adaptation (3 Credit Hours)
+Students examine the role of technology in the occupational therapy process from evaluation to intervention planning and implementation. The regulation and ethics of technology use in therapy are considered and students explore the array of technological resources available for patient care.
+Pre- or corequisite: OCCT 751 and OCCT 755
+OCCT 855 Occupational Adaptation in the Community (2 Credit Hours)
+Students apply professional reasoning and activity analysis to meet clients’ occupational needs. Students analyze, grade, modify, and adapt occupations and activities to support occupational performance and participation.
+Pre- or corequisite: OCCT 751 , OCCT 850 , OCCT 852 , and OCCT 854
+OCCT 857 Fieldwork I Psychosocial (1 Credit Hour)
+Students conduct evaluations and design a group-based intervention in a clinical or community-based setting that serves the needs of adults with disabilities. Students examine occupational performance and its impact on participation and health and wellness in individuals and groups.
+Prerequisites: OCCT 751 , OCCT 754 , and OCCT 755
+OCCT 858 Elements of Research III: Critical Analysis of Occupational Therapy Practice (3 Credit Hours)
+Students analyze the external and internal criticisms of the profession and examine the evidence addressing practice. Students examine the body of evidence addressing an intervention of interest and complete a systematic review of the evidence.
+Prerequisites: OCCT 822
+OCCT 859 Elements of Research IV: Scholarship of Practice Approaches and Design (2 Credit Hours)
+Students explore research approaches and design and participate in grant writing and a mentored research project with a faculty member that links theory and practice, facilitates understanding of complex real-world issues, and facilitates knowledge translation.
+Prerequisites: OCCT 858
+OCCT 868 Fieldwork II A (6 Credit Hours)
+In this twelve-week full-time course, students are provided supervised field experiences applying the occupational therapy process with individuals, groups and/or populations with occupational performance and participation needs.
+Prerequisites: OCCT 721 , OCCT 749 , OCCT 750 , OCCT 751 , OCCT 752 , OCCT 753 , OCCT 754 , OCCT 755 , OCCT 756 , OCCT 768 , OCCT 821 , OCCT 822 , OCCT 841 , OCCT 843 , OCCT 845 , OCCT 847 , OCCT 848 , OCCT 850 , OCCT 851 , OCCT 852 , OCCT 853 , OCCT 854 , OCCT 855 , OCCT 856, OCCT 857 , OCCT 858 , OCCT 859 , and OCCT 890
+OCCT 869 Fieldwork II B (6 Credit Hours)
+In this twelve-week full-time course, students are provided supervised field experiences applying the occupational therapy process with individuals, groups and/or populations with occupational performance and participation needs.
+Prerequisites: OCCT 868
+OCCT 870 Community and Population Health (1 Credit Hour)
+Students examine the role of occupation in health promotion, health education, and prevention of illness. Key concepts of population health, social determinates of health, health promotion, and health behavior will be applied to develop community and population-based approaches.
+Pre- or corequisite: OCCT 868
+OCCT 871 Professional Development Planning (2 Credit Hours)
+Students examine their knowledge, skills and professional competencies and establish a resume and professional development plan. Students examine the value of supervision and mentorship relationships.
+Pre- or corequisite: OCCT 869
+OCCT 890 Practice-Scholar Seminar I (1 Credit Hour)
+Students examine the formation of their identity as an occupation-based practice scholar and ethical leader and explore challenges in service delivery systems of significance to occupational therapy’s value and role in health and wellness promotion.
+Prerequisites: OCCT 756 , OCCT 843 , and OCCT 847
+OCCT 891 Practice-Scholar Seminar II (1 Credit Hour)
+Students examine innovative approaches to service delivery and discuss their formative capstone experience and their potential role as a practitioner, practice scholar, and leader/advocate in health management and promotion.
+Prerequisites: OCCT 890
+OCCT 892 Practice-Scholar Seminar III (1 Credit Hour)
+Students examine their capacity for leadership and advocacy for the role of occupation in achieving health and wellbeing of individuals, groups, and populations. Students reflect on their own plans for leadership and advocacy in their upcoming capstone project.
+Pre- or corequisite: OCCT 891
+OCCT 893 Doctoral Capstone (7 Credit Hours)
+The doctoral capstone project is a 14-week full-time experiential course designed to develop students’ skills role related focus areas. Students implement an individually mentored, increasingly self-directed capstone project as the culminating learning activity of the doctoral program.
+Prerequisites: OCCT 869 and OCCT 892
+OCCT 894 Practice Scholar Symposium (2 Credit Hours)
+The synthesis of knowledge gained throughout the didactic curriculum, service-learning and field experiences, and in-depth scholarly capstone experience and project is demonstrated through the completion and presentation of a scholarly product.
