@@ -130,7 +130,7 @@ plt.show()
 ![Graph TimeMaps](figure1.png)
 
 Overall, the differences can be summed up below.
-
+```
 Differences in TimeMap sizes (new - hw3):
 1-10: -11
 11-25: 6
@@ -149,7 +149,7 @@ Differences in TimeMap sizes (new - hw3):
 801-900: 0
 901-1000: 1
 Over 1000: -1
-
+```
 # Q2 Answer
 I repeated Q1 from HW2. First, I re-downloaded the HTML of each webpage; the folder containing these HTML files can be found in this directory (`HW9/raw_html_files`). Second, I removed the boilerplate from each of the raw HTML files; the folder containing the processed HTML files can be found in this directory (`HW9/processed_html_files`). 
 
